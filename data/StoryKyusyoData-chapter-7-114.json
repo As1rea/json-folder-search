@@ -1,0 +1,789 @@
+{
+	"223": [
+		[
+			"bgm",
+			"Nier/Significance"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10202"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302725,
+			null,
+			"宇宙…真是安静的地方。",
+			"宇宙……本当に静かな場所ね。",
+			"우주…… 정말 조용한 곳이네.",
+			"Space... A really quiet place.",
+			null,
+			"The universe...what a quiet place.",
+			"The universe ...... is a really quiet place."
+		],
+		[
+			"msg",
+			302726,
+			null,
+			"看不到破败的大地，听不到嘶声的悲鸣，同样也触摸不到生命的温度……",
+			"荒れ果てた大地も見えず、耳をつんざく悲鳴も聞こえず、そして命の温もりにも触れられない……。",
+			"황폐해진 대지도 보이지 않고, 귀를 찢는 비명도 들리지 않으며, 생명의 온기도 느낄 수 없는…….",
+			"I can't see the desolate land, I can't hear the deafening screams, and I can't feel the warmth of life...",
+			null,
+			"See no broken earth, hear no hissing wails, and likewise touch no life ......",
+			"You can't see the desolate earth, hear the deafening screams, and touch the warmth of life. ......"
+		],
+		[
+			"msg",
+			302727,
+			null,
+			"在这里俯瞰而下的地球…只是一颗充满砂砾的行星，失去了曾经的蔚蓝，枯萎一如泛黄的相片。",
+			"ここから見下ろす地球は……ただの砂利に満ちた惑星にすぎない。かつての青さを失い、色あせた写真のように枯れている。",
+			"여기서 내려다보는 지구는…… 그저 자갈로 가득 찬 행성에 불과해. 예전의 푸르름을 잃고, 빛바랜 사진처럼 시들어 있지.",
+			"The earth overlooking from here is... just a gravel-filled planet.  It has lost its former brilliance and has withered like a faded photo.",
+			null,
+			"The Earth from here...is just a planet full of gravel, lost its once blue color, withered like a yellowed photograph.",
+			"From here, the earth looking down on ...... is just a planet full of grit. It has lost its former blueness and is as withered as a faded photograph."
+		],
+		[
+			"msg",
+			302728,
+			null,
+			"这就是现在的世界…死去的世界，被遗忘的世界，错误的世界……",
+			"これこそが今の世界……死んだ世界、忘れられた世界、誤った世界……。",
+			"이것이 바로 지금의 세계…… 죽은 세계, 잊혀진 세계, 잘못된 세계…….",
+			"This is the present world ... the dead world, the forgotten world, the false world...",
+			null,
+			"This is the world now...the dead world, the forgotten world, the wrong world ......",
+			"This is the world today: ...... a dead world, a forgotten world, a false world. ......"
+		],
+		[
+			"msg",
+			302729,
+			null,
+			"同样也没有任何意义的世界。",
+			"そして、何の意味もない世界。",
+			"그리고, 아무런 의미도 없는 세계.",
+			"This is an empty world with no meaning.",
+			null,
+			"Again there is no world of meaning.",
+			"And a world that means nothing."
+		],
+		[
+			"msg",
+			302730,
+			null,
+			"但就算是这样…也有拯救的价值么？",
+			"それなのに……救う価値があるの？",
+			"그런데…… 구원할 가치가 있는 거야?",
+			"But... is it worth saving?",
+			null,
+			"But even so...is there value in saving?",
+			"And yet it's worth saving ......?"
+		],
+		[
+			"bgm",
+			57
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				107,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302731,
+			null,
+			"蓬莱寺九霄。",
+			"蓬莱寺九霄。",
+			"호라이지큐쇼.",
+			"Houraiji Kyuushou.",
+			null,
+			"Houraiji Kyuushou.",
+			null
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302732,
+			null,
+			"呼…呼……",
+			"ハァ、ハァ……。",
+			"하아, 하아…….",
+			"Hah, hah...",
+			null,
+			"Whew...Whew ......",
+			"Ha, ha. ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				58,
+				3,
+				true
+			],
+			[
+				107,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302733,
+			null,
+			"看来只有你一个人来到了这里，真是遗憾…经过如此漫长的旅行，你的身边也一样空无一人。",
+			"ここに来れたのはあなただけみたいね。本当に残念。#n……これほど長い旅を経て、あなたの傍には誰もいないなんて。",
+			"여기까지 올 수 있었던 건 당신뿐인 모양이네요. 정말 유감이에요.#n…… 이렇게 긴 여정을 겪고도, 당신 곁엔 아무도 없다니.",
+			"It looks like you were the only one who made it here. What a shame.#n...After such a long journey, no one is near you.",
+			null,
+			"It seems you're the only one who came here, which is a shame...after such a long trip, you're just as empty.",
+			"Looks like you're the only one who made it here. A real shame. I can't believe you have no one by your side after such a long journey. ......"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				7,
+				false
+			],
+			[
+				107,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302734,
+			null,
+			"不！所有人都在我的身边，是她们的力量让我站在了这里…而我也会继续战斗，将希望的曙光带回到她们身边！",
+			"違うッ！皆、我の傍にいる。彼女たちの力があったからこそ、今の我はここに立っているんだ……！#nそして、我の力で希望の光を彼女たちに届ける！",
+			"아니야! 모두, 나의 곁에 있어. 그녀들의 힘이 있었기에 지금의 내가 여기 서 있는 거야……!그리고, 나의 힘으로 희망의 빛을 그녀들에게 전할 거야!",
+			"No!  Everyone is by my side.  I'm standing here now because of their power...! #nAnd with my own power, I'll bring them the light of hope!",
+			null,
+			"NO! All are by my side, it is their strength that keeps me standing...and I will continue to fight to bring the dawn of hope back to them!",
+			"No, they are not! They are all with me. I am standing here today because of their strength. ...... And I will use my power to bring them the light of hope!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				58,
+				7,
+				true
+			],
+			[
+				107,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302735,
+			null,
+			"希望的曙光？在你踏入这个世界的那一刻起，你可曾见过曙光的雏形？",
+			"希望の光？あなたがこの世界に足を踏み入れてから、光の片鱗を目にすることなんてあった？",
+			"희망의 빛? 네가 이 세상에 발을 들인 이후로, 빛의 조각이라도 본 적이라도 있었어?",
+			"The light of hope?  Have you seen even a glimpse of light since you stepped into this world?",
+			null,
+			"The dawn of hope? Have you ever seen the dawn take shape the moment you set foot in this world?",
+			"A glimmer of hope? Have you seen a glimmer of light since you set foot in this world?"
+		],
+		[
+			"msg",
+			302736,
+			null,
+			"等待你们的只有无尽的绝望和悲伤…只有同伴的离别和死亡…在这个枯萎的地方从来就没有什么希望的曙光。",
+			"あなたたちを待ち受けているのは、無限の絶望と悲しみだけ……仲間との離別や死だけよ……。#nこの色あせた世界に、希望の光なんて今までなかったのだから。",
+			"너희들을 기다리는 건 끝없는 절망과 슬픔뿐…… 동료와의 이별과 죽음뿐이야…….이 빛바랜 세상에 희망의 빛 같은 건 지금까지 없었으니까.",
+			"All that awaits you is infinite despair and sadness... only separation from friends and death ... #n There has never been a light of hope in this faded world.",
+			null,
+			"Only endless despair and sorrow await you...only the parting and death of your companions...there has never been any ray of hope in this blighted place.",
+			"All that awaits you is endless despair and sorrow, ...... only separation from your friends and death. There has never been a ray of hope in this faded world."
+		],
+		[
+			"msg",
+			302737,
+			null,
+			"蓬莱寺九霄，你应该已经知道自己为什么会出现在这个世界的理由，也应该明白，这早就已经是无法挽回的事情。",
+			"蓬莱寺九霄——あなた、どうして自分がこの世界に現れたのか、もう分かっているんでしょう。#nそれなら、これがもう取り返しのつかないことだっていうのも分かっているはず。",
+			"호라이지큐쇼당신, 왜 자신이 이 세상에 나타났는지, 벌써 알고 있겠지.그렇다면, 이게 이미 되돌릴 수 없는 일이라는 것도 알고 있을 텐데.",
+			"Houraiji Kyuushou, you already know why you've appeared in this world.  #nYou know why this world is beyond saving.",
+			null,
+			"Houraiji Kyuushou, you should already know the reason why you appeared in this world, and you should also understand that this has long since been something that cannot be undone.",
+			"Houraiji Kyuushou - you already know why you came into this world, don't you? Then you must also know that this is something that cannot be undone."
+		],
+		[
+			"msg",
+			302738,
+			null,
+			"你们现在所做的一切都只是在重复那个时候的悲剧罢了，这个世界不存在救赎，也不需要救赎，既然如此，为什么要欺骗自己呢？",
+			"あなたたちが今していることは、どれもあの時の悲劇を繰り返しているだけなの。#nこの世界に救いなんて存在しないし、必要ともしていない。それなのに、どうして自分を騙してまで苦しむ必要があるの？",
+			"너희들이 지금 하고 있는 건 모두 그때의 비극을 반복하고 있을 뿐이야.#n이 세상에 구원 같은 건 존재하지도 않아, 필요로 하지도 않아. 그런데도, 왜 자신을 속이면서까지 괴로워해야 하는 거야?",
+			"All you are doing now is just repeating the tragedy of that time.  #nThere is no salvation in this world, and I don't need it.  So why do you need to deceive yourself and suffer?",
+			null,
+			"All you are doing now is just repeating the tragedy of that time. There is no salvation in this world, and there is no need for salvation, so if that's the case, why are you deceiving yourselves?",
+			"All you are doing now is repeating the tragedy of that time. There is no salvation in this world, nor is there any need for it. So why should you deceive yourselves into suffering?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				7,
+				false
+			],
+			[
+				107,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302739,
+			null,
+			"不！我没有欺骗！",
+			"違う！我は、自分を騙してなんかいない！",
+			"아니! 내가 자신을 속이고 있지 않다니까!",
+			"You're wrong! I haven't deceived myself!",
+			null,
+			"No! I'm not cheating!",
+			"No, I am not! I am not fooling myself!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				58,
+				7,
+				true
+			],
+			[
+				107,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302740,
+			null,
+			"还是你觉得，在这样的世界中你就可以承担起救世主的角色，因为在现实中你只是软弱无能的平凡人呢？",
+			"それとも……このような世界の中で、あなただけは救世主の役割を担えると思っているの？#n現実のあなたは、ただの軟弱で無能な凡人なのに？",
+			"아니면…… 이런 세상 속에서 너만 구세주의 역할을 맡을 수 있다고 생각하는 거야?#n현실의 너는 그저 나약하고 무능한 평범한 인간인데?",
+			"Or... Do you think that only you can play the role of savior in such a world?  #nWhen in reality, you are nothing but a weak and incompetent ordinary person?",
+			null,
+			"Or do you think that in such a world you would be able to assume the role of savior because in reality you are just weak and ordinary?",
+			"Or do you think you are the only one who can play the role of savior in a world like ......? When in reality you are just a soft, incompetent, ordinary person?"
+		],
+		[
+			"msg",
+			302741,
+			null,
+			"正如同你在塔中听到的那些悲鸣一般…真正的你也只是其中的一颗砂砾而已…只能在绝望中等待着别人的救赎。",
+			"あなたが塔の中で聞いたあの悲鳴と同じように……本当のあなたも、その中の一粒の砂利にすぎないのよ。#n……絶望の中で、他の人の救いを待っているだけ。",
+			"네가 탑 안에서 들었던 그 비명과 마찬가지로…… 진정한 너도 그 안의 한 알의 자갈에 불과할 뿐이야.#n……절망 속에서 다른 사람의 구원을 기다리고 있을 뿐.",
+			"Just like the screams you heard in the tower ...You really are just a meager pebble in it.#nYou can only wait in despair for the others to save you.",
+			null,
+			"Just as you heard those cries of woe in the tower...the real you is just a piece of gravel in it...only to wait in despair for someone else's salvation.",
+			"Just like that scream you heard in the tower,...... you are really just a grain of gravel in the middle of it all. In ...... despair, you are just waiting for others to save you."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				6,
+				false
+			],
+			[
+				107,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302742,
+			null,
+			"呃……",
+			"あ……。",
+			"아…….",
+			"Ah......",
+			null,
+			"Uh ......",
+			"Oh, ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				58,
+				6,
+				true
+			],
+			[
+				107,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302743,
+			null,
+			"回答我，蓬莱寺九霄，你究竟为了什么而战斗呢？",
+			"答えて、蓬莱寺九霄。あなたは、一体何のために戦っているの？",
+			"대답해라, 호라이지큐쇼. 너는 대체 무엇을 위해 싸우고 있는 거야?",
+			"Answer me, Houraiji Kyuushou.  What on earth are you fighting for?",
+			null,
+			"Answer me, Houraiji Kyuushou, what exactly are you fighting for?",
+			"Answer me, Houraiji Kyuushou. What exactly are you fighting for?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				6,
+				false
+			],
+			[
+				107,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302744,
+			null,
+			"我…我为了……",
+			"わ……我……我は——",
+			"나…… 나는……나는——",
+			"I.... I fight for.....",
+			null,
+			"I...I for ......",
+			"I ...... I ...... I'm--"
+		],
+		[
+			"portraits",
+			[
+				58,
+				7,
+				false
+			],
+			[
+				107,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302745,
+			null,
+			"我是为了让所有人获得她们想要的幸福才战斗到现在！",
+			"全ての人が、自分の望む幸せを手にできるよう、我はここまで戦ってきた！",
+			"모든 사람이 자신이 바라는 행복을 손에 넣을 수 있도록, 나는 여기까지 싸워왔다!",
+			"I have continued fighting until now so everyone can obtain the happiness they want!",
+			null,
+			"I've fought until now to give everyone the happiness they want!",
+			"I have fought so hard so that all people can have the happiness they desire!"
+		],
+		[
+			"msg",
+			302746,
+			null,
+			"其实，我们都怀抱着同样的想法，在塔中我所看到的那段光景…那才是你内心真正的愿望吧！",
+			"キアナだって、同じ気持ちのはずだ！この塔の中で我が見た光景こそ……キアナが心の底から願っているものなんだろう！",
+			"키아나도 분명 같은 마음일 거야! 이 탑 안에서 내가 본 광경이야말로…… 키아나가 마음 깊이 바라고 있는 것일 테니까!",
+			"Kiana should feel the same!  The sight I saw in this tower... is what Kiana really wants from the bottom of her heart!",
+			null,
+			"In fact, we all harbor the same idea of that light I saw in the tower...that's what your heart really desires, isn't it?",
+			"Kiana must feel the same way! The sight I saw in this tower is what ...... Kiana must be wishing for from the bottom of her heart!"
+		],
+		[
+			"msg",
+			302747,
+			null,
+			"你也和我一样希望改变这个无情的世界，想要和重要的人在一起！",
+			"我と同じように、この無情な世界を変えたいと……そして、大切な人と一緒に過ごしたいと思っているはずだ！",
+			"나와 마찬가지로, 이 무정한 세상을 바꾸고 싶어…… 그리고 소중한 사람과 함께 지내고 싶어 할 거야!",
+			"Like me, you want to change this ruthless world ...and spend time with who you love!",
+			null,
+			"You want to change this unforgiving world as much as I do, and you want to be with the people who matter!",
+			"Like me, you want to change this heartless world ...... and spend time with your loved ones!"
+		],
+		[
+			"msg",
+			302748,
+			null,
+			"就算是渺小的砂砾又如何！我所肩负着的希望就是由无数的砂砾组成的山峰！我们会不断向上！直到触及到那片曙光为止！",
+			"小さな砂利だからって何だ！我が背負っている希望は、無数の砂利によって固められた山だ！#n九霄様たちはひたすら上に向かう！そして、その光に触れてみせる！",
+			"작은 자갈이라고 해서 뭐 어때! 내가 짊어진 희망은 무수한 자갈로 굳어진 산이야!#n큐쇼님들은 오로지 위를 향해 나아갈 뿐! 그리고 그 빛에 닿아 보이겠어!",
+			"So what if I'm nothing but a pebble!  The hope I carry is a mountain solidified by countless pebbles! We'll keep moving forward, until we touch the light of day!",
+			null,
+			"So what if it's just a small piece of gravel! The hope I carry is a mountain made of countless gravel! We'll keep going up! Until we reach the light of day!",
+			"Just because it's a little gravel doesn't mean it's anything! The hope I carry on my back is a mountain solidified by countless gravel! Kyuksoso-sama and the others will continue on their way up! And I will touch that light!"
+		],
+		[
+			"portraits",
+			[
+				58,
+				2,
+				false
+			],
+			[
+				107,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302749,
+			null,
+			"琪亚娜！那其中也包括了你的希望…你所无法实现的愿望，就让我蓬莱寺九霄为你实现吧！",
+			"キアナ！その中にはキアナの希望も含まれているんだ……貴様が叶えられなかった願い、この蓬莱寺九霄様が叶えてみせよう！",
+			"키아나! 그 안에는 키아나의 희망도 포함되어 있는 거야... 네가 이루지 못한 소원, 이 호라이지큐쇼님이 이루어 보이겠어!",
+			"Kiana! Kiana's hope is also included in that... The wish that you couldn't fulfill alone, I can make it come true!",
+			null,
+			"Kiana! That includes your hopes as well...what you can't fulfill, let me, Houraiji Kyuushou, do it for you!",
+			"Kiana! That includes Kiana's wish. ...... The wish you could not fulfill, this Houraiji Kyuushou will fulfill it!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				58,
+				2,
+				true
+			],
+			[
+				107,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302750,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			302751,
+			null,
+			"我会告诉你们，这份执念是多么的无力……",
+			"あなたたちに教えてあげる。その執念がどれだけ無力かってことをね……。",
+			"너희들에게 가르쳐 주지. 그 집념이 얼마나 무력한지 말이야…….",
+			"I'll tell you.  How powerless that obsession is...",
+			null,
+			"I will show you how powerless this obsession is ......",
+			"Let me tell you guys something. I'll show you how powerless that obsession is. ......"
+		],
+		[
+			"msg",
+			302752,
+			null,
+			"在这里安眠吧…蓬莱寺九霄！",
+			"ここで安らかに眠りなさい……蓬莱寺九霄ッ！",
+			"여기서 편히 잠들어라...호라이지큐쇼!",
+			"Sleep forever... Houraiji Kyuushou!",
+			null,
+			"Sleep here in peace...Houraiji Kyuushou!",
+			"Rest in peace here ...... Houraiji Kyuushou!"
+		]
+	],
+	"224": [
+		[
+			"bgm",
+			57
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"bg",
+			"CG10202"
+		],
+		[
+			"portraits",
+			[
+				58,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302753,
+			null,
+			"呃啊啊啊！！！",
+			"ぐぁあああああッ！",
+			"꾸아아아아악!",
+			"Graaaaaaaaah!",
+			null,
+			"Uhhhhhhhh!!!",
+			"Gaaaahhh!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				58,
+				3,
+				true
+			],
+			[
+				107,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302754,
+			null,
+			"果然人类的力量是这么的渺小…在崩坏的面前，你们毫无胜算。",
+			"所詮、人類の力はちっぽけなのよ……崩壊を前にして、あなたたちに勝ち目はまったくないわ。",
+			"결국, 인간의 힘이란 하찮은 거야...붕괴를 앞에 두고는, 너희에게 승산이 전혀 없어.",
+			"After all, the power of mankind is tiny ... you have no chance of winning in the face of Honkai.",
+			null,
+			"It's true that human power is so small...you have no chance of winning in the face of Honkai.",
+			"After all, humanity's power is tiny. ...... In the face of Honkai, you don't stand a chance at all."
+		]
+	],
+	"225": [
+		[
+			"speaker",
+			204618
+		],
+		[
+			"bg",
+			"CG10202"
+		],
+		[
+			"portraits",
+			[
+				58,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302755,
+			null,
+			"呼…呼…成功了么？",
+			"ハァッ……ハァッ……上手くいったか？",
+			"하아... 하아... 잘 된 거야?",
+			"Haaaa.. Haaa.... Did it work?",
+			null,
+			"Hoo...hoo...did it work?",
+			"Huh ...... huh ...... huh ...... did it work?"
+		],
+		[
+			"bgm",
+			79
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				58,
+				3,
+				true
+			],
+			[
+				107,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302756,
+			null,
+			"作为人类而言，你的努力确实令人钦佩。",
+			"人類にしては、その努力確かに素晴らしいものだったわ。",
+			"인간 치고는, 그 노력 확실히 훌륭한 거였어.",
+			"For a human being, your efforts are truly admirable.",
+			null,
+			"Your efforts as a human being are truly admirable.",
+			"For mankind, that effort was certainly impressive."
+		],
+		[
+			"msg",
+			302757,
+			null,
+			"但人类的极限也不过如此，在崩坏的面前，你毫无胜算。",
+			"でも、たかが人類が限界を振り絞っても、この程度で終わり。崩壊の前で、あなたに勝ち目はないの。",
+			"하지만, 겨우 인간이 한계를 쥐어짜봤자, 이 정도로 끝. 붕괴 앞에서, 너에게 이길 방법은 없어.",
+			"But even if you push the limit of your humanity, this is the end for you. You can't win against the Honkai.",
+			null,
+			"But that's about as far as mankind goes, and you stand no chance against Honkai.",
+			"But even if mere humanity shakes off its limitations, this is the end of the line. In the face of Honkai, you don't stand a chance."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				107,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			302758,
+			null,
+			"砰！！！",
+			"パンッ！！！",
+			"팡!!!",
+			"<i>Boom!!!</i>",
+			null,
+			"BANG!!!",
+			"Pang!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				3,
+				false
+			],
+			[
+				107,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302759,
+			null,
+			"呃啊啊啊！！",
+			"あァああああぁああッ！！！",
+			"아아아아아아아악!!!",
+			null,
+			null,
+			"Uh-ah-ah-ah!",
+			"Aaaaahhhh!"
+		]
+	]
+}

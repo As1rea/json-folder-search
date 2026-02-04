@@ -1,0 +1,1108 @@
+{
+	"1258": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10180"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307132,
+			"Catch up! We are getting near to the end!",
+			"快跟上！马上就要到尽头了！",
+			"止まるなっ！あと少しよ！",
+			"멈추지 마! 조금만 더야!",
+			null,
+			null,
+			"Keep up! It's almost at the end!",
+			"Keep going! We're almost there!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307133,
+			"Ha! Ha! Ha! I can't! It's so tired! I can't breathe!",
+			"哈！哈！哈！不行了！一下跑这么久好累！感觉都快呼吸不上了！",
+			"ハァ！ハァ！ハァ！……も、もうダメだ！こんなに……走って！息も、まともに……吸えな……い！",
+			"하! 하! 하! …… 이, 이젠 안 돼! 이렇게…… 뛰다니! 숨도 제대로…… 쉴 수가…… 없어!",
+			null,
+			null,
+			"Ha! Ha! Ha! I can't! I'm so tired after running for so long! I feel like I can hardly breathe!",
+			"Huh! Huh! Ha! And ......, I'm so screwed! I can't ...... run like this! I can't even breathe ...... properly!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307134,
+			"Eh!",
+			"咳咳！",
+			"ゴホッ、ゴホッ！",
+			"콜록, 콜록!",
+			null,
+			null,
+			"Ahem!",
+			"Gosh, gosh!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307135,
+			"Himeko…don't be so hard to yourself, there're not many Honkai creatures, can't we take a break!",
+			"姬子…你这家伙自己也快不行了就别逞强了，崩坏生物也不是很多，我们稍微休息一下不行么！",
+			"ハァ！ハァ……！姫子……あんたの身体も限界なんだ……無茶すんな。崩壊生物も多いわけじゃないし、少しくらい休んでも……いいんじゃないか？",
+			"하! 하……! 히메코…… 너의 몸도 한계인 거야…… 무리하지 마. 붕괴 생물도 많은 건 아니니, 조금쯤 쉬어도…… 좋지 않을까?",
+			null,
+			null,
+			"Himeko ... you guys are not going to be able to do it yourself do not try to be strong, the collapse of the creature is not a lot, we take a little break can not!",
+			"Ha! Haa......! Himeko,...... your body is at its limits,...... don't be reckless. There aren't a lot of disintegrating organisms, and it's okay to take a little rest,......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307136,
+			"Don't stop! We just leave behind those on the bridge! If the Honkai creatures from the otherside come, we will be attacked in the middle!",
+			"别停下！刚才引开的只是桥上的家伙！如果另有一头的崩坏生物也被引过来的话我们会被前后夹击的！",
+			"ダメよ、走りなさい！さっき注意を引いたのは橋にいたやつらだけ！もし橋を渡った先の崩壊生物まで引き寄せてたら挟み撃ちになるのよ！",
+			"안 돼, �어! 아까 주의를 끈 건 다리에 있던 놈들뿐이야! 만약 다리를 건넌 쪽의 붕괴 생물까지 끌어들였다면 양쪽에서 공격받게 될 거야!",
+			null,
+			null,
+			"Don't stop! It was only the guy on the bridge that was lured away! If the other Avalanche is lured here too, we'll be caught in front and behind!",
+			"No, run! The only ones who drew our attention were the ones on the bridge! If we had drawn their attention to the disintegrating organisms across the bridge, we'd be sandwiched between them!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307137,
+			"But…really…",
+			"可是…真的…",
+			"ああ……でも、もう本当に……。",
+			"아…… 하지만, 정말 이젠…….",
+			null,
+			null,
+			"But...really...",
+			"Oh ...... but it's really ...... already."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			307138,
+			"Growl……",
+			"吼吼吼……",
+			"ウォオオオンッ……！",
+			"우오오오온……!",
+			null,
+			null,
+			"rolleyes ......",
+			"Woow on ......!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307139,
+			"This voice is…damn! They are coming to us from the other side!",
+			"这个声音是…糟了！对岸的崩坏生物正在朝大桥移动！",
+			"この鳴き声……しまった！対岸の崩壊生物が橋の方に向かってきてる！",
+			"이 울음소리…… 큰일이야! 건너편 붕괴 생물들이 다리 쪽으로 오고 있어!",
+			null,
+			null,
+			"The sound is...Oh no! Avalanche creatures from across the river are moving towards the bridge!",
+			"This squeal...... has gone off! There's a disintegrating creature on the other side of the river heading towards the bridge!"
+		],
+		[
+			"msg",
+			307140,
+			"Get Emesa up! Take her to go on!",
+			"九霄把埃米沙拉起来！就算是拖也要把她拖过去！",
+			"九霄、エミザを引っ張って！引きずってでもここを離れるわよ！",
+			"큐쇼, 에미자를 끌어당겨! 끌어내도 여길 벗어나자고!",
+			null,
+			null,
+			"Kyuushou get Emesara up! Even if it's dragging, we have to drag her there!",
+			"Kyuushou, pull Emesa! I'll drag you, but we're getting out of here!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307141,
+			"Huh…I can't……",
+			"呼呼…不行了……",
+			"フー、フー……もうダメ……だ。",
+			"후, 후…… 이젠 끝이야…….",
+			null,
+			null,
+			"Whew...no more ......",
+			"Hoo, hoo ...... no more ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			307142,
+			"Growl!!",
+			"吼吼吼！！",
+			"グォオオオォッ！",
+			"꾸오오오오……!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Guooooooooooo!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307143,
+			"Damn…we don't have time! Kyushou! Jump with Emesa!",
+			"可恶…来不及了！九霄！带着埃米沙跳下去！",
+			"くっ……間に合わない！九霄ッ！エミザを連れて飛び下りなさい！",
+			"쿳…… 늦어! 큐쇼! 에미자를 데리고 뛰어내려!",
+			null,
+			null,
+			"Damn it...it's too late! Ninth Heaven! Take Emesa and jump!",
+			"Damn ...... I'll never make it! Kyuushou! Take Emesa and jump down!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307144,
+			"Jump!? Hey! We still have at least 20 metres fromn the water!",
+			"跳！？喂！这里离水面怎么也得20米高吧！",
+			"飛び下りる！？おいっ！ここから水面まで、どう見ても20メートル以上あるぞ！",
+			"뛰어내리라고!? 야! 여기서 수면까지, 어쩌면 20미터는 넘을 거야!",
+			null,
+			null,
+			"Jump! Hey! This must be 20 meters above the water!",
+			"Jump down! Hey! From here to the surface, it's more than 20 meters, no matter how you look at it!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307145,
+			"Shut up! Jump if you don't want to die!",
+			"别废话！不想死的话就跳！",
+			"ガタガタ言わないの！死にたくなければ飛びなさい！",
+			"징징대지 마! 죽고 싶지 않으면 뛰어내려!",
+			null,
+			null,
+			"Cut the crap! Jump if you don't want to die!",
+			"Stop rattling around! Fly if you don't want to die!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307146,
+			"Ah! Wait! Don't push me!",
+			"哎！等！别推我啊！",
+			"ま、待て！押すな！おいっ……！",
+			"잠, 잠깐! 밀지 마! 야……!",
+			null,
+			null,
+			"Hey! Wait! Don't push me!",
+			"Wait, wait! Don't push! Hey ......!"
+		],
+		[
+			"msg",
+			307147,
+			"Ahhhh!!!!",
+			"啊啊啊！！！！",
+			"うあぁあああーーー！！！",
+			"우아아아아아아——!!!",
+			null,
+			null,
+			"Ahhhhh ！！！！",
+			"Aaaaahhhhh!!!!"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV06_Bump"
+		],
+		[
+			"msg",
+			307148,
+			"Flop!",
+			"噗通！！",
+			"ボシャンッ！！！！",
+			"풍덩!!!!",
+			null,
+			null,
+			"Poof!!!",
+			"Boshanck ！！！！"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307149,
+			"Coo! Coo coo coo……",
+			"呜！咕咕咕……",
+			"んっ！くっ……コポ、ガボボボ……。",
+			"으윽! 쿡…… 켁, 우걱우걱…….",
+			null,
+			null,
+			"Woo! Goo Goo Goo ......",
+			"Hmph! Kuk ...... kopo, gabobo ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307150,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			307151,
+			"……",
+			"……",
+			"…………。",
+			"………….",
+			null
+		],
+		[
+			"msg",
+			307152,
+			"……",
+			"……",
+			"——ッ！",
+			"——!",
+			null
+		],
+		[
+			"msg",
+			307153,
+			"Eh!",
+			"咳咳咳！",
+			"ゴホッ、ゴホッ、ゴホッ……！",
+			"콜록, 콜록, 콜록……!",
+			null,
+			null,
+			"Cough cough cough!",
+			"Gosh, gosh, gosh. ......!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307154,
+			"Wake up, should be fine.",
+			"已经醒过来了，看来没什么生命危险了。",
+			"目が覚めたかしら。どうやら命に別状はなさそうね。",
+			"정신이 든 건가. 어쨌든 목숨엔 지장 없을 것 같네.",
+			null,
+			null,
+			"It has woken up and seems to be nothing life-threatening.",
+			"Is he awake? It looks like he's going to be all right."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307155,
+			"I just…jump from the bridge……",
+			"我刚才…从桥上跳下去了……",
+			"さっき……橋の上から跳び下りて……。",
+			"아까…… 다리 위에서 뛰어내려서…….",
+			null,
+			null,
+			"I just...jumped off the bridge ......",
+			"I just jumped off the ...... bridge and went to ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307156,
+			"Whoa!!",
+			"呜哇！！",
+			"——うわぁっ！！",
+			"——우왓!!",
+			null,
+			null,
+			"Woohoo!!!",
+			"--WOW!!!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307157,
+			"Shh, we just get to the shore, be careful.",
+			"小声点，我们好不容易上岸了，别把崩坏生物又引过来了。",
+			"静かに、やっとの思いで岸に上げたんだから、もう崩壊生物を引き寄せないでよね。",
+			"조용히, 간신히 강둑으로 올렸으니까, 이제 붕괴 생물을 끌어들이지 말아 줘.",
+			null,
+			null,
+			"Keep your voice down, we're hardly ashore, don't draw the collapsing creatures back in.",
+			"Quietly, you barely made it to shore, so don't attract any more disintegrating organisms."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307158,
+			"Woo…so we're saved.",
+			"唔…这么说是得救了么。",
+			"えっ……た、助かったのか。",
+			"엣…… 다, 구원받은 거야?",
+			null,
+			null,
+			"Well...so it is saved.",
+			"What ......, you saved the day."
+		],
+		[
+			"msg",
+			307159,
+			"Huh……wait! Then means we arrive!?",
+			"呼……等等！那这么说我们已经到了！？",
+			"はぁー……ということは、着いたんだな！？",
+			"하아…… 그 말은, 도착한 거네!?",
+			"Huh.... Wait, we've arrived?!",
+			null,
+			"Hoo ...... wait! So that means we're already there!",
+			"Huh, ...... means you've arrived!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307160,
+			"Yes, this is the Academic City.",
+			"嗯，这里就是学园都市了。",
+			"ええ、ここが学園都市よ。",
+			"에에, 여기가 학원 도시야.",
+			"Yes, this is Academy City.",
+			null,
+			"Well, this is Gakuen City.",
+			"Yeah, this is the school city."
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307161,
+			"Eh! So foggy……",
+			"呃！好大的雾气……",
+			"うわっ！何だこれ、すっごい霧だな……。",
+			"우왁! 이게 뭐야, 엄청 안개네…….",
+			"What's with all this fog....?",
+			null,
+			"Ugh! What a fog ......",
+			"Wow! What's this, it's so foggy. ......"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307162,
+			"No! This is!?",
+			"不对！这个是！？",
+			"……ん、いや違う！これは！？",
+			"……응, 아니 다르잖아! 이건!?",
+			"Wait, this is....",
+			null,
+			"No! This one is!",
+			"...... No, no, no! This is!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307163,
+			"It's the closest place to Herrschers, here the Honkai energy is much more than Nagazora, I think these foggy things are also taking shape because of Honkai.",
+			"毕竟是离律者最近的地方，这里的崩坏能浓度比长空市高很多，这些雾气一样的东西恐怕是受到崩坏能的影响而形成的。",
+			"ここは律者に最も近い場所よ。崩壊エネルギーの濃度も長空市を遥かに超えているわ。この霧のような現象も崩壊エネルギーが恐らく影響してるんでしょうね。",
+			"여기는 율자에 가장 가까운 장소야. 붕괴 에너지의 농도도 장공시를 훨씬 넘어섰어. 이 안개 같은 현상도 붕괴 에너지가 아마 영향을 끼치고 있는 게겠죠.",
+			"This is the closest place to the Herrschers. The concentration of Honkai energy here is much higher than Nagazora. This fog is probably caused by the Honkai energy.",
+			null,
+			"After all, it is the closest place to the Ruler, and the concentration of avalanche energy here is much higher than in Nagumo City. I am afraid that these mist-like things are formed by the influence of avalanche energy.",
+			"This is the closest place to the Ruler. The concentration of decay energy is far beyond that of Chokku City. This fog-like phenomenon is probably caused by the decay energy."
+		],
+		[
+			"msg",
+			307164,
+			"How are you? Still ok?",
+			"怎么样？你们撑得住么？",
+			"どう？あなたたち、大丈夫？",
+			"어때? 너희들, 괜찮아?",
+			"How are you all holding up?",
+			null,
+			"How's that? Are you guys holding up?",
+			"How's it going? Are you guys okay?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307165,
+			"Woo…so far I'm fine, just a little bit difficult to breathe.",
+			"呜…目前还好，只是呼吸稍微有点困难罢了。",
+			"あ、ああ……今のところは。少し呼吸しにくい気もするけど。",
+			"아, 아아…… 지금으로서는. 조금 숨 쉬기 힘들 것 같기도 하지만.",
+			"Hah... Hah... I'm alright, but it's hard to breathe.",
+			null,
+			"Oooh...so far so good, just a little trouble breathing.",
+			"Oh, ah ...... for now. I think it's a little hard to breathe, though."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307166,
+			"Ok…let's go, luckily to go across the bridge, we need to quickly find the Herrschers.",
+			"那就好…走吧，总算是有惊无险度过了大桥，我们要抓紧时间找到律者。",
+			"ならよかった……。さて、橋も渡り切れたことだし、律者の元まで急ぐわよ。",
+			"다행이야……. 자, 다리도 건넜겠다, 율자에게로 서두르자.",
+			null,
+			null,
+			"That's good...let's go, we finally got across the bridge without any danger, we have to hurry up and find the Ruler.",
+			"Then that's good. ...... Well, now that we've crossed the bridge, let's hurry on over to the scribe."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307167,
+			"Wait, the city is so big, do you know where they are?",
+			"等下，学园都市这么大，你知道律者的位置么？",
+			"ちょっと待った！学園都市はこんなに大きいんだ。律者の居場所は分かるのか？",
+			"잠깐 기다려! 학원 도시가 이렇게 큰데. 율자의 있는 곳은 알고 있는 거야?",
+			null,
+			null,
+			"Wait, Gakuen City is so big, do you know where the Ruler is?",
+			"Wait a minute! The school city is so big. Do you know where the scribes are?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307168,
+			"Don't worry, the place that starts and ends, they have only one destination.",
+			"放心吧，一切的开始和终结的地方，她们的归宿就只有一个。",
+			"ええ、安心なさい。全ての始まりと終わりの場所、彼女たちが行く場所は決まってるわ——千羽学園よ。",
+			"응, 안심하라구. 모든 시작과 끝의 장소, 그녀들이 갈 곳은 정해져 있어 ——센바 학원이야.",
+			"Don't worry. The \"place where everything began and where it ends\", there's only one place there that could be, and it's Senba Academy.",
+			null,
+			"Rest assured, where it all begins and ends, there is only one place they belong.",
+			"Yes, don't worry. I know where it all began and where it will end, and I know where they are going - Senba Academy."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307169,
+			"Start…and end, you mean the Senba High School? What is its meaning for Herrschers?",
+			"一切的开始…和终结的地方，你是说千羽学园么？那里对于律者来说到底有着什么意义呢？",
+			"全ての始まりと、終わりの場所……。律者にとって千羽学園はそんなに重要な場所なのか？",
+			"모든 시작과, 끝의 장소……. 율자에게 센바 학원은 그렇게 중요한 곳인 거야?",
+			"Where everything began and where it ends.... What's the significance of Senba Academy to the Herrschers? (TN: The Japanese rewrote this so Himeko tells Emesa about Senba Academy, because why on earth would Emesa know that's the place? The current and previous line keeps this change because the Chinese wouldn't make sense.)",
+			null,
+			"The place where it all began...and ended...do you mean Chihaya Academy? What does it mean to the Ruler?",
+			"Where it all began and where it all ends. ...... Is the Senba Academy such an important place for the Rulers?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307170,
+			"It's the very important place for them, if that meeting didn't happen, the world won't be like this……",
+			"对于她们两人来说是特别重要的地方，如果没有那个相遇，世界也不会演变成现在这样……",
+			"彼女たち2人にとってはね。あの出会いがなければ、世界もこんな風にはなっていなかったでしょうし……。",
+			"그녀들 둘에게는 말야. 그 만남이 없었다면, 세계도 이런 식으로 되지 않았을 거야……",
+			"It's significant for those two girls. If that encounter never happened, the world wouldn't be in its current state...",
+			null,
+			"For the two of them is a particularly important place, if there is no that encounter, the world will not evolve into what it is now ......",
+			"For both of these girls, that is. And the world wouldn't be the way it is without that encounter. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307171,
+			"I heard of this from Bronya, Kiana and Mei met in Senba, that's why they chose to go back?",
+			"这个我也听布洛妮娅说过，律者琪亚娜和芽衣就是在千羽学园结识，所以她们才选择回到那个地方么……",
+			"ブローニャから少しだけ聞いたことがある。律者であるキアナと芽衣は、千羽学園で知り合ったって。なるほど、だからここが始まりの場所なのか……。",
+			"브로냐에게서 조금 들은 적 있어. 율자인 키아나와 메이는, 센바 학원에서 알게 됐다고. 그렇구나, 그래서 여기가 시작의 장소인 거야……",
+			"I've heard some of this from Bronya. She said that Kiana and Mei, the two Herrschers, met at Senba Academy. So that's what it means by \"the start\".... (TN: Again, the Japanese rewrote this to explain what Mei said)",
+			null,
+			"This I also heard Bronya said, the law Kiana and Meiko is in the thousand feather school acquaintance, so they choose to return to that place ......",
+			"I have heard a little bit about this from Bronya. She said that Kiana and Mei, who is a rite of passage, met at Senba Academy. I see, so this is where it all started. ......"
+		],
+		[
+			"msg",
+			307172,
+			"Herrschers destroy the world, the were transformed from humans, since they choose that place as the destination, maybe they still have some human emotions……",
+			"律者是毁灭世界的罪魁祸首，她们原本是由人类转化而成，既然选择了相遇的地方作为归宿，是不是代表她们还留有人类的感情……",
+			"律者は世界を滅ぼす存在だけど、元は人間なんだよな？千羽学園を終わりの場所として選ぶってことは、人間の頃の感情が残ってるのか……？",
+			"율자는 세계를 멸망시키는 존재지만, 원래는 인간이었잖아? 센바 학원을 끝의 장소로 선택한다는 건, 인간 시절의 감정이 남아있는 걸까……?",
+			"Herrschers are those that inflict destruction upon the world, but they used to be human, right? If they picked Senba Academy as their resting place, does that mean they still have some human emotions?",
+			null,
+			"The Herrscher is the culprit of the destruction of the world, they were originally transformed from humans, since they chose the place where they met as their home, does it mean that they still have human feelings ......",
+			"The Ruler is the one who destroys the world, but he used to be human, right? Does choosing Senba Academy as a place to end up mean that they still have feelings from their human days ......?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307173,
+			"Who knows! Even so…they are not humans any more.",
+			"鬼知道！就算还留有感情…她们也已经不是人类了。",
+			"知ったこっちゃないわ！仮に感情があったとしても……彼女たちはもう人間じゃないもの。",
+			"알 바 아냐! 가령 감정이 있었다 해도…… 그녀들은 이미 인간이 아니야.",
+			"Hell if I know! Even if they had feelings... They're not human anymore.",
+			null,
+			"Hell knows! Even if there are still feelings left...they are no longer human.",
+			"I don't care! Even if they had feelings, ...... they're not human anymore."
+		]
+	]
+}

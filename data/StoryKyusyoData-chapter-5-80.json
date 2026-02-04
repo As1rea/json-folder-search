@@ -1,0 +1,1550 @@
+{
+	"1291": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307979,
+			"Sorry, even it's beyond the tasks…I want to ask you for a favor.",
+			"抱歉，虽然是巡逻任务之外的事情…但是我想让你帮个忙。",
+			"すまん。見回り任務のことじゃないんだが……手伝ってもらいたいことがあるんだ。",
+			"미안. 순찰 임무 말고... 도와줬으면 하는 일이 있어.",
+			null,
+			null,
+			"Sorry, it's outside of patrol duty...but I want you to do me a favor.",
+			"Sorry. I'm not talking about patrol duty, but I need some help with ......."
+		],
+		[
+			"msg",
+			307980,
+			"It's about Seele…Her wounds get a bit injured, which might also worsen the heat beyond the reason of Honkai.",
+			"是关于希儿的事情…她身上的擦伤已经有些感染了，热度除了崩坏能的侵蚀之外可能也有外伤感染所致。",
+			"ゼーレのことだ……傷口から感染症に罹っている。彼女の熱は崩壊エネルギーの侵蝕だけじゃなく、外傷感染によるものなのかもしれない。",
+			"제레 이야기야... 상처로 인해 감염증에 걸렸어. 그녀의 열은 붕괴 에너지의 침식뿐만 아니라 외상 감염 때문일지도 몰라.",
+			null,
+			null,
+			"It's about Hill...the scrapes on her body have become somewhat infected, and the heat may have been caused by traumatic infection in addition to the erosion of the avalanche energy.",
+			"It's Seele. ...... She has an infection from a wound. Her fever may be due to a traumatic infection, not just the erosion of decay energy."
+		],
+		[
+			"msg",
+			307981,
+			"Even I can't treat Honkai, but I still want to help.",
+			"虽然崩坏能的感染我无法治疗，但我还是希望能帮到她一些。",
+			"崩壊エネルギーの浸蝕は私には治せないが、それでも彼女を助けてやりたいんだ。",
+			"붕괴 에너지의 침식은 내가 고칠 수 없지만, 그래도 그녀를 도와주고 싶다.",
+			null,
+			null,
+			"Although I can't cure the infection of collapse energy, I still hope to help her somehow.",
+			"I can't cure the erosion of the disintegrating energy, but I still want to help her."
+		],
+		[
+			"msg",
+			307982,
+			"It's a shame…that I don't have some essential medicine as a paramedic. They were all used in the preivous fights, even bandages……",
+			"说来惭愧…作为医护员身边却连一些基本的药物都没有。在之前的战斗中储备的药物已经全部用完了，就连包扎用的绷带也……",
+			"こんなこと言うのは恥ずかしいんだが……衛生兵なのに手元には基本的な薬すらないんだ。蓄えていた薬も、これまでの戦いで全て使いきっちまった。傷口を縛る包帯すらな……。",
+			"이런 말 하기 부끄럽지만…… 위생병인데 손에 잡히는 기본적인 약조차 없어. 비축해둔 약도 지금까지의 전투에서 모두 다 써버렸어. 상처를 묶을 붕대조차…….",
+			null,
+			null,
+			"I'm ashamed to say...as a medic around but even some basic drugs are not available. In the previous battle reserve of drugs have all been used up, even bandages used to dress ......",
+			"I'm embarrassed to say this, but I'm a ...... medic and I don't even have basic meds on hand. All the medicines I had in stock have been used up so far in the battle. Not even bandages to bind my wounds. ......"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307983,
+			"Ah haha…I can do nothing but just make trouble. Even Himeko has something wrong I can just watch.",
+			"啊哈哈…明明什么也做不了却非要跑过来添乱。就算姬子有什么三长两短我也只能在一旁袖手旁观而已。",
+			"アハハ……何もできないって分かっているのに、無理やりついて来て迷惑かけて……姫子に万一のことがあっても、私は手をこまねいて見ていることしかできないんだ。",
+			"아하하…… 아무것도 못 한다는 걸 알면서 억지로 따라와서 폐를 끼치고…… 히메코에게 만일의 일이 생겨도, 나는 손을 놓고 지켜보는 것밖에 할 수 없어.",
+			null,
+			null,
+			"Ahahaha...obviously can not do anything but have to come over to add to the chaos. Even if Himeko has any shortcomings I can only stand by and watch.",
+			"Hahaha......I know I can't do anything, but I'm forced to follow you and bother you......I can only sit on my hands and watch if something should happen to Himeko."
+		],
+		[
+			"choice",
+			[
+				308193,
+				"Don't feel frustrated, I will try my best.",
+				"不要沮丧，有什么事情我一定尽力。",
+				"悲しまないで。何かあれば力になるから。",
+				"슬퍼하지 마. 뭐가 있으면 힘이 되어 줄 테니까.",
+				null
+			],
+			[
+				308208,
+				"Without you Himeko won't hold on until now.",
+				"如果没有你姬子也撑不到现在。",
+				"エミザがいなきゃ、姫子もここまで持たなかった。",
+				"에미자가 없었으면, 히메코도 여기까지 버티지 못했을 거야.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1292,
+			1293
+		]
+	],
+	"1292": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307984,
+			"Well, you're right, even Honkai can't be treated, but there should be some way to deal with the normal wounds.",
+			"嗯，你说的对，虽然治不好崩坏造成是伤害，但是如果是普通的伤口还是可以想办法进行处理的。",
+			"ああ、ありがとう。崩壊による傷は治せないが、普通の傷なら何とかして手当ができると思うんだ。",
+			"아, 고마워. 붕괴로 인한 상처는 치료할 수 없지만, 보통의 상처라면 어떻게든 처치할 수 있을 거라고 생각해.",
+			null,
+			null,
+			"Well, you're right, although the cure can not collapse caused is damage, but if it is an ordinary wound can still find a way to deal with.",
+			"Oh, thank you. I can't fix the wounds from the collapse, but I think I can manage to take care of some of the more common ones."
+		],
+		[
+			"msg",
+			307985,
+			"For Seele now, there's a chance to wake up as long as her pain can be reduced, we can't give up!",
+			"对于现在的希儿来说，只要能帮助她减少一些痛苦都有再醒过来的希望，不能就这么放弃！",
+			"今のゼーレから苦痛を軽減してやれば、再び目覚めてくれるかもしれない。希望はある！このまま諦めるわけにいかない！",
+			"지금의 제레에게서 고통을 경감시켜 주면, 다시 눈을 뜨게 될지도 몰라. 희망은 있다! 이대로 포기할 수는 없어!",
+			null,
+			null,
+			"For the current Hill, as long as it can help her to reduce some of the pain have the hope of waking up again, can not just give up!",
+			"If we can alleviate the pain from Seele now, he may wake up again. There is hope! We can't just give up like this!"
+		],
+		[
+			"msg",
+			307986,
+			"Even Himeko can hold on for so long, so as Seele!",
+			"连姬子那个疯女人都能坚持这么久，希儿一定可以的！",
+			"姫子のクレイジー女ですらここまで耐えてるんだ、ゼーレならきっと大丈夫だ！",
+			"히메코 그 미친 년도 여기까지 견뎌내고 있는데, 제레라면 분명 괜찮을 거야!",
+			null,
+			null,
+			"Even that crazy woman, Himeko, can last so long, Hsieh must be able to!",
+			"Even Himeko's crazy woman has held up this well, I'm sure Seele will be fine!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1294
+		]
+	],
+	"1293": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307987,
+			"Actually Himeko is compeletely depending on her will, which is already a miracle, what I can do is just treating her wounds……",
+			"其实姬子完全是靠自己的意志才撑到现在的，像她这种战斗方式能活到现在已经是奇迹了，我能做的也只是为她处理伤口而已……",
+			"実のところ、姫子は完全に意志の力だけでここまで持ちこたえているんだ。あんな戦い方をしてきたのに、今まで生きてこられただけ奇跡なんだよ。私にできるのは、彼女のために傷の手当をすることだけなんだ……。",
+			"사실을 말하자면, 히메코는 완전히 의지의 힘만으로 여기까지 버티고 있는 거야. 그런 식으로 싸워왔는데, 지금까지 살아남은 것만 해도 기적이야. 내가 할 수 있는 건 그녀를 위해 상처를 치료해 주는 것뿐이야…….",
+			null,
+			null,
+			"In fact, Himeko is completely rely on their own will to hold up until now, like her this way of fighting can live until now is already a miracle, I can do is just for her to deal with the wound ......",
+			"As a matter of fact, Himeko has held on so far completely by sheer force of will. It's a miracle that she's been able to survive until now after all that fighting. All I can do is to tend to her wounds for her. ......"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307988,
+			"Ok, anyway. Now it's not a time to be depressed, we need to think of something we can do.",
+			"好了，言归真正。现在不是沮丧的时候，得想办法做一些自己力所能及的事情。",
+			"よし、本題に戻ろう。今は悲しんでいる場合じゃないからな。自分にできることをしないと。",
+			"좋아, 본론으로 돌아가자. 지금은 슬퍼할 때가 아니니까. 자신이 할 수 있는 일을 해야지.",
+			null,
+			null,
+			"Well, the words come back true. Now is not the time to get down, got to find a way to do what you can.",
+			"Okay, let's get back to the point. Because now is not the time to be sad. I need to do what I can do."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1294
+		]
+	],
+	"1294": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307989,
+			"If you're willing to help, please take me to a place.",
+			"既然你愿意帮忙的话那么我就不客气了，我想麻烦你带我去一个地方。",
+			"あんたが手伝ってくれるってんなら、こっちも遠慮しないぜ。あんたに、とある場所まで連れて行ってほしいんだ。",
+			"네가 도와준다면, 나도 사양하지 않겠어. 너에게 어느 장소까지 데려가 달라고 하고 싶어.",
+			null,
+			null,
+			"Since you are willing to help then I would like to trouble you to take me to a place.",
+			"If you want to help me, I'll be happy to help you. I need you to take me to a place."
+		]
+	],
+	"1295": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307990,
+			"Now we're in the area named \"University Beach\", where most staff of the city live here, so there're some clinics here as well.",
+			"目前我们所处的区域是名为“学海之滨”的学园都市生活区，学园都市的大部分工作人员都生活在这个区域，所以这里也有一些小诊所开设在这里。",
+			"今、私たちがいるエリアは「知識の浜」っていう学園都市の居住エリアだ。学園都市の社会人のほとんどは、このエリアで暮らしていた。だから、この近辺には小さな診療所がいくつかあってな。",
+			"지금 우리가 있는 에리어는 「지식의 해변」라는 학원 도시의 주거 에리어야. 학원 도시의 사회인 대부분은 이 에리어에서 살고 있었어. 그래서 이 근처에는 작은 진료소가 몇 군데 있어.",
+			null,
+			null,
+			"The area we are currently located in is the Gakuen City living area called \"Gakuen Sea Shore\", where most of the staff of Gakuen City live, so there are some small clinics in this area.",
+			"The area we are in now is called the \"Beach of Knowledge,\" which is a residential area of the school city. Most of the working people in the city used to live in this area. That's why there are several small clinics in this neighborhood."
+		],
+		[
+			"msg",
+			307991,
+			"I know one very close, where we can find some medicine, so I want you to take me there.",
+			"我知道这附近有一家诊所离这里很近，在那里可以找到一些实用的药物，所以我想让你带我过去。",
+			"この近くに診療所があったはずだ。そこなら役に立つ薬が見つかるだろう。九霄には、私をそこまで連れて行ってほしい。",
+			"이 근처에 진료소가 있었을 거야. 거기면 유용한 약을 찾을 수 있을 거야. 큐쇼에게는 나를 그곳까지 데려가 달라고 하고 싶어.",
+			null,
+			null,
+			"I know of a clinic near here where I can find some practical medication, so I'd like you to take me there.",
+			"There must be a clinic nearby. I am sure I can find some useful medicine there. I want Kyuushou to take me there."
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307992,
+			"Don't worry, I will listen to Himeko's words, I remember the border here, that clinic is not far, only a block's distance.",
+			"放心吧，姬子的话我会听的，这个区域块的边界我还记得，那家诊所离这里不远，应该穿过一条街区就能到了。",
+			"安心しろ、姫子の言いつけは守るし、このピースの境目は覚えてる。その診療所はここから遠くもないしな。通りを1本越えれば着くはずだ。",
+			"안심해, 히메코의 말은 지킬 거야, 이 피스의 경계는 기억하고 있어. 그 진료소는 여기서 멀지도 않았어. 길을 하나 넘으면 도착할 거야.",
+			null,
+			null,
+			"Don't worry, I'll listen to what Himeko says. I remember the boundary of this area block, and that clinic is not far from here, it should be just a block away.",
+			"Rest assured, I'll keep Himeko's word and I remember the boundaries of this piece. The clinic isn't too far from here. It's just one street over."
+		],
+		[
+			"choice",
+			[
+				308194,
+				"Emesa knows a lot about here.",
+				"埃米沙对这里真的很了解呢。",
+				"エミザはここのことを本当によく知ってる。",
+				"에미자는 여기 일을 정말 잘 알고 있어.",
+				null
+			],
+			[
+				308209,
+				"Emesa used to live here?",
+				"埃米沙曾经也住在这里么？",
+				"エミザは以前ここに住んでいたの？",
+				"에미자는 예전에 여기에 살고 있었어?",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1296
+		]
+	],
+	"1296": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307993,
+			"Yes…I used to be a student here, studying at Senbai as the same as Raiden Mei.",
+			"嗯…我以前是这座学园都市的学生，而且和雷电芽衣一样就读于千羽学园。",
+			"ああ……私は以前、この学園都市の学生だったんだ。しかも、雷電芽衣と同じ千羽学園で学んでいた。",
+			"아…… 나는 예전에 이 학원 도시의 학생이었어. 게다가 라이덴메이와 같은 센바 학원에서 배우고 있었지.",
+			null,
+			null,
+			"Well...I used to be a student in this academy city, and I went to Chihaya Academy like Raiden Meiko.",
+			"Oh ...... I used to be a student here in the school city. And I studied at Senba Academy, the same school as Raiden Mei."
+		],
+		[
+			"msg",
+			307994,
+			"You know what? Actually Nagazora and the Academic city have been destructed before the big Honkai, all because of Raiden Mei, that Herrscher……",
+			"你知道么？其实大崩坏爆发之前长空市和这座学园都市就已经被崩坏摧毁了，而那个罪魁祸首就是雷电芽衣，是那个律者毁掉了这一切……",
+			"知ってるか？実は大崩壊が発生する前、長空市とこの学園都市は既に崩壊によって破壊されていたんだ。しかも、その元凶こそが雷電芽衣——あの律者が全てを壊したんだよ……。",
+			"알고 있어? 사실 대붕괴가 발생하기 전, 장공시와 이 학원 도시는 이미 붕괴로 인해 파괴되고 있었어. 게다가 그 원흉이 바로 라이덴메이——그 율자가 모든 것을 부숴버린 거야…….",
+			null,
+			null,
+			"Do you know? In fact, before the outbreak of the great collapse of the city and this school city has been destroyed by the collapse, and that the culprit is Raiden Meiko, is that the Ruler destroyed all this ......",
+			"Did you know? Actually, before the Great Collapse occurred, Chokku City and this school city had already been destroyed by the collapse. Moreover, the source of the collapse is the Raiden Mei - that ritsujin destroyed everything. ......"
+		],
+		[
+			"msg",
+			307995,
+			"Sorry…I don't want to mention about this, so I haven't told you yet.",
+			"抱歉…这段事情我一直不愿提起，所以一直没告诉你们。",
+			"すまない……このことはあまり言いたくなくて、これまで黙ってたんだ。",
+			"미안…… 이 이야기는 별로 말하고 싶지 않아서, 지금까지 침묵하고 있었어.",
+			null,
+			null,
+			"I'm sorry...this is something I've been reluctant to bring up, so I haven't told you about it.",
+			"Sorry ...... I didn't want to say much about this, so I've kept it quiet until now."
+		],
+		[
+			"msg",
+			307996,
+			"Ok, anyway, let's go, there're lots of Honkai creatures here, we need to be careful, please.",
+			"好了，不说这个了，我们赶紧出发吧，这里的崩坏生物很多，我们要小心一些，护卫的工作就拜托你了。",
+			"よし、こんな湿っぽい話はやめて、さっさと出発しよう！ここ一帯は崩壊生物が多いから、気を付けてくれよ。護衛は任せた！",
+			"좋아, 이런 습한 이야기는 그만하고 얼른 출발하자! 이 일대는 붕괴生物가 많으니까, 조심해. 호위는 맡겼다!",
+			null,
+			null,
+			"Well, let's not talk about that, let's hurry up and go, there are a lot of avalanche creatures here, we have to be more careful, the escort job is on you.",
+			"All right, let's get off this wet stuff and get the heck out of here! There are a lot of disintegrating organisms in this area, so be careful. I'll take care of the escort!"
+		]
+	],
+	"1297": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			307997,
+			"Growl!",
+			"吼吼吼！",
+			"ウォオオオオンッ！",
+			"우오오오온쓰!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Wo-o-o-oong!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307998,
+			"So OO annoying! We need to solve them! Or more will come!",
+			"真OO的烦人！我们得快点解决掉它们！不然会引来更多怪物的！",
+			"本当に面倒なヤツらだな！さっさと片付けないと！さもないと、さらに化け物を引き寄せちまう！",
+			"정말 귀찮은 녀름들이군! 얼른 처리하지 않으면! 안 그럼 더 많은 괴물들을 불러들이게 될 거야!",
+			null,
+			null,
+			"So OO annoying! We have to get rid of them quickly! Or we'll attract more monsters!",
+			"They're a real pain in the ass! We've got to get rid of them! Or we'll attract more monsters!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			307999,
+			"Growl!",
+			"吼吼吼！",
+			"グルルル……フシュー！",
+			"그르릉…… 후슈!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Grrrrrr ...... fshoo!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308000,
+			"Damn! There're more coming! We can't keep fighting! Hey! Leave them! We need retreat!",
+			"可恶！越来越多了！果然不能恋战！喂！别管这些家伙了！我们得赶紧撤离！",
+			"クソッ！ますます多くなってきた！深追いは厳禁だ！おいっ！そんなヤツ放っておけ！急いで撤退するぞ！",
+			"젠장! 점점 더 많아지고 있어! 깊은 추격은 금지야! 야! 그런 놈들은 내버려 둬! 서둘러 철수하자고!",
+			null,
+			null,
+			"Damn! There are more and more of them! I'm sure we can't fight! Hey! Forget about these guys! We have to get out of here!",
+			"Shit! There's more and more of them! Don't go too fast! Hey! Leave him alone! Let's get the hell out of here!"
+		],
+		[
+			"msg",
+			308001,
+			"Follow me! I know a short cut!",
+			"跟我来！我知道一条捷径可以绕过它们！",
+			"ついて来い！あいつらを振りきるのに役立つ近道を知っている！",
+			"따라와! 저 녀석들을 따돌리는 데 도움되는 지름길을 알고 있어!",
+			null,
+			null,
+			"Follow me! I know a shortcut to bypass them!",
+			"Follow me! I know a shortcut that will help us shake them off!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			308002,
+			"Growl!",
+			"吼吼吼！！",
+			"ヴォオオオオーーーッ！",
+			"보오오오오——-——!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Vooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308003,
+			"Get away!",
+			"给我滚开！",
+			"どけッ！",
+			"비켜!",
+			null,
+			null,
+			"Get the hell out of my way!",
+			"Move!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308004,
+			"Dong!",
+			"咚！",
+			"ドンッ！",
+			"쿵!",
+			null,
+			null,
+			"Dang!",
+			"Boom!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308005,
+			"Huh! This way's blocked as well! Go! Turn left!",
+			"啧！这边也被崩坏生物堵住了！快！左转！",
+			"チッ！ここも崩壊生物に塞がれてる！急げ！次を左だ！",
+			"찍! 여기도 붕괴生物에 막혀있어! 서둘러! 다음은 왼쪽이다!",
+			null,
+			null,
+			"Tsk! This side is also blocked by avalanche creatures! Quick! Turn left!",
+			"Shit! The disintegrator's blocking this one, too! Come on, come on, come on! Take the next left!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			308006,
+			"Growl!!",
+			"吼吼吼！！",
+			"ウォオオオオッ！",
+			"우오오오옷!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Woah woah woah!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308007,
+			"Huh huh! There's a bakery ahead…and then a lane, and then……",
+			"呼呼！前面是一家蛋糕房…经过后有个弄堂，再往前是……",
+			"ふぅ、ふぅ！この先はケーキ屋で……通り過ぎたら路地があって、その先は……。",
+			"후, 후! 이 앞은 케이크 가게가…… 지나가면 골목이 있고, 그 앞은…….",
+			null,
+			null,
+			"Hoo hoo! Ahead is a cake shop...after passing by there is an alcove and further ahead is ......",
+			"Phew, phew! There's a cake shop up ahead and an alley past ......."
+		],
+		[
+			"msg",
+			308008,
+			"No! We will ge to the border…if there're Honkai creatures there we will……",
+			"不行！再往前就到扭曲立场的边界线了…如果那边也有崩坏生物的话我们就会……",
+			"ちっ！その先は歪曲フィールドの境目だ……もし、崩壊生物に挟まれたら……。",
+			"쳇! 그 앞은 왜곡 필드의 경계야…… 만약, 붕괴 생물에게 끼면…….",
+			null,
+			null,
+			"No way! Any further and we're at the borderline of Twisted Stance...if there's a collapse creature there too we'll ......",
+			"Dang! That's the boundary of the distortion field. ...... if you get caught in the middle of a disintegrating organism. ......"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308009,
+			"Will……wait! If I am right this should work!",
+			"会……等下！如果我想的没错的话应该能行得通！",
+			"いや……そうだ！もしかしたら、何とかなるかもしれない！",
+			"아니…… 맞아! 어쩌면, 어떻게 될지도 몰라!",
+			null,
+			null,
+			"Will ...... wait! If I'm thinking right it should work!",
+			"No. ...... Yes! Maybe we can work something out!"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308010,
+			"Go! Let's get these Honkai creatures to the border!",
+			"走！我们把崩坏生物引到边界线那边去！",
+			"行こう！崩壊生物を境界線の方に引き寄せるんだ！",
+			"가자! 붕괴 생물을 경계선 쪽으로 끌어들이는 거야!",
+			null,
+			null,
+			"Go! Let's lure the Avalanche creatures over to the borderline!",
+			"Let's go! We need to draw the disintegrating organisms toward the perimeter!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			308011,
+			"Growl!!",
+			"吼吼吼！！",
+			"ヴォオオオオーーーッ！",
+			"부오오오오오——옷!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Vooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308012,
+			"Huh! Huh! Ah!",
+			"呼！呼！咳咳！",
+			"はぁ、はぁ！ゴホッゴホッ！",
+			"하, 하! 콜록콜록!",
+			null,
+			null,
+			"Whew! Whew! Ahem!",
+			"Huh, huh! Goho-goho!"
+		],
+		[
+			"msg",
+			308013,
+			"See the telephone booth! There's a marker from Himeko! After that would eb the border!",
+			"看到前面的电话亭了么！上面扎着姬子给我的标识物！那个电话亭过去就是边界线了！",
+			"この先の電話ボックスが見えるか？あそこに姫子がくれたマーカーが付けられてる！つまり、あの電話ボックスを越えると境界線だ！",
+			"저 앞의 전화 박스가 보이지? 거기에 히메코가 준 마커가 붙어 있어! 즉, 저 전화 박스를 넘어서면 경계선이야!",
+			null,
+			null,
+			"See the phone booth in front of you! It has the marker Himeko gave me tied to it! That phone booth is the borderline!",
+			"See that phone booth up ahead? That's where the marker Himeko gave us is marked! In other words, if you cross that phone booth, that's the boundary line!"
+		],
+		[
+			"msg",
+			308014,
+			"I will throw a grenade to the border! And I say three two one! We all hide behind the telephone booth!",
+			"我一会朝边界线扔一颗手雷！然后喊三二一！我们藏到电话亭后面！",
+			"境界線の方に手榴弾を投げて、三つ数える！そしたら電話ボックスの裏に隠れるんだ！",
+			"경계선 쪽으로 수류탄을 던지고, 셋을 세! 그런 다음 전화 박스 뒤에 숨는 거야!",
+			null,
+			null,
+			"I'll throw a grenade at the borderline in a minute! Then shout three, two, one! We hide behind the phone booth!",
+			"Throw a grenade towards the perimeter and count to three! Then hide behind the phone booth!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308015,
+			"Ka!",
+			"咔！",
+			"カチャッ！",
+			"찰칵!",
+			null,
+			null,
+			"Click!",
+			"Click!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308016,
+			"Three! Two! One! Hide yourself!!",
+			"三！二！一！躲起来！！",
+			"3！2！1！隠れろ！！",
+			"3!2!1! 숨어라!!",
+			null,
+			null,
+			"Three! Two! One! Take cover!!!",
+			"Three, two, one, hide!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			308017,
+			"Boom!!!",
+			"轰！！！",
+			"ドォオオオオオオォンッ！",
+			"우오오오오옹!",
+			null,
+			null,
+			"Boom!!!",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			308018,
+			"Growl!!",
+			"吼吼吼！！",
+			"ウォオオオーーーーッ！",
+			"우와아아아아-!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Wooooooooooo!"
+		],
+		[
+			"msg",
+			308019,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			308020,
+			"……",
+			"……",
+			"…………。",
+			"………….",
+			null
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308021,
+			"Huh…huh……so I was right, no matter us or Honkai creatures, will be distorted to other space if crossing the border, so they won't come back……",
+			"呼…呼……看来我的想法是正确的，不管是我们还是崩坏生物，只要踏过了边界都会被扭曲到其他区域，这样它们就回不来了……",
+			"はぁ……んくっ……どうやら、思った通りだったようだ。崩壊生物も境界を跨いだら、歪曲された他のエリアに行っちゃうんだよ。これであいつらは戻って来れない……。",
+			"하아…… 으흑…… 역시 생각한 대로였던 것 같아. 붕괴 생물도 경계를 넘어서면 왜곡된 다른 영역으로 가 버리는 거야. 이제 그 놈들은 돌아올 수 없어…….",
+			null,
+			null,
+			"Phew...phew ...... looks like I was right, whether it's us or the collapsing creatures, as long as they step over the border they will be distorted to other areas so they can't come back ......",
+			"Huh ...... nkk ...... Apparently, I was right. Once the disintegrating organisms cross the boundary, they'll go to another area where they've been distorted. Now those guys can't come back ......."
+		],
+		[
+			"choice",
+			[
+				308195,
+				"Emesa you must study a lot?",
+				"埃米沙你一定是个高材生吧？",
+				"エミザって、天才？",
+				"에미자는, 천재?",
+				null
+			],
+			[
+				308210,
+				"Emesa looks more and more like Himeko.",
+				"埃米沙真是越来越有姬子的风采了。",
+				"エミザ、何だか姫子みたい。",
+				"에미자, 왠지 히메코 같아.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1298,
+			1299
+		]
+	],
+	"1298": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308022,
+			"Stop…I amost OO die……",
+			"少来了…命都快OO吓没了……",
+			"や、やめろ……変なこと言うな……。",
+			"야, 그만해…… 이상한 소리 하지 마…….",
+			null,
+			null,
+			"Come less ... life is almost OO scared ......",
+			"Don't, don't ...... say weird things. ......"
+		],
+		[
+			"msg",
+			308023,
+			"From the learnings from Himeko…comes the method.",
+			"还不是从姬子那家伙手里偷学了几招…才想出来的办法。",
+			"姫子の考えを真似してみたんだ……そのおかげで今の方法を思いついた。",
+			"히메코의 사고방식을 따라해 봤어…… 그 덕분에 지금 방법을 생각해냈지.",
+			null,
+			null,
+			"It is not from the hands of that guy Ji Zi stole a few moves ... to come up with a way.",
+			"I tried to copy Himeko's idea ...... and that helped me come up with the way I do it now."
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308024,
+			"I can imagine how Grey Moths survived…without Himeko they would all die.",
+			"稍微可以想象得出灰蛾部队是怎么存活下来的了…要是没姬子那随机应变的能力恐怕早就团灭了吧。",
+			"灰蛾部隊がどうやって生き延びてきたのか、ちょっとだけ分かった気がする……姫子のあの臨機応変な指揮能力がなかったら、とっくに全滅してただろうな。",
+			"회아 부대가 어떻게 생존해왔는지 조금은 알 것 같아……히메코의 그 순발력 있는 지휘 능력이 없었으면 벌써 전멸했을 거야.",
+			null,
+			null,
+			"A little can imagine how the gray moth troops survived ... if not Himeko that ability to improvise I'm afraid the group was destroyed long ago.",
+			"I think I know a little bit more about how the ash moth unit survived. ...... If it weren't for Himeko's ability to command with that resourcefulness, we would have been wiped out long ago."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1300
+		]
+	],
+	"1299": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308025,
+			"Don't mention that crazy woman…I don't want to be like her!",
+			"别给我提那个疯女人…我才不想变成她那个鬼样子！",
+			"姫子みたいなクレイジー女と一緒にしないでくれ……あんな化け物じみた女にはなりたくない！",
+			"히메코 같은 미친 년이랑 비교하지 마…… 그런 괴물 같은 여자랑 동급으로 취급하지 말라고!",
+			null,
+			null,
+			"Don't give me that crazy woman...I don't want to be like her!",
+			"Don't put me with crazy women like Himeko ...... I don't want to be that monstrous woman!"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308026,
+			"I can imagine how Grey Moths survived…without Himeko they would all die.",
+			"不过稍微可以想象得出灰蛾部队是怎么存活下来的了…要是没姬子那随机应变的能力恐怕早就团灭了吧。",
+			"けど、灰蛾部隊がどうやって生き延びてきたのか、ちょっとだけ分かった気がする……姫子のあの臨機応変な指揮能力がなかったら、とっくに全滅してただろう。",
+			"하지만 회아 부대가 어떻게 살아남아왔는지 조금은 알 것 같아……히메코의 그 임기응변적인 지휘 능력이 없었더라면, 진작에 전멸했을 거야.",
+			null,
+			null,
+			"But a little can imagine how the gray moth troops survived ... if not Himeko that ability to improvise, I'm afraid the group was destroyed long ago.",
+			"But I think I know a little bit more about how the ash moth unit survived: ...... If it weren't for that resourceful command ability of Himeko, we would have been wiped out long ago."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1300
+		]
+	],
+	"1300": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308027,
+			"Huh! Finally we're safe…follow me, it's very close to the clinic.",
+			"呼！这次总算是逃过一劫…跟我来吧，这里离诊所已经很近了。",
+			"よしっ！今回は何とか乗り切れたな……ついて来い。診療所はもうすぐそこだ。",
+			"좋아! 이번엔 어떻게든 넘어갔어……따라와. 진료소는 바로 앞이야.",
+			null,
+			null,
+			"Whew! Finally got away with it this time...come with me, it's close enough to the clinic.",
+			"Alright!!! You made it through this time. ...... Follow me. The clinic is almost there."
+		]
+	],
+	"1301": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10155"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308028,
+			"Huh…huh……",
+			"呼…呼……",
+			"はぁ……はぁ……。",
+			"하……하…….",
+			null,
+			null,
+			"Hoo...hoo ......",
+			"Hah ...... Hah ......."
+		],
+		[
+			"msg",
+			308029,
+			"Eh!",
+			"咳咳！",
+			"ゴホッ、ゴホッ！",
+			"컥, 컥!",
+			null,
+			null,
+			"Ahem!",
+			"Gosh, gosh!"
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"msg",
+			308030,
+			"A bit… a bit tired.",
+			"稍微…有点累了。",
+			"少し……疲れたみたいだ。",
+			"조금……지친 모양이네.",
+			null,
+			null,
+			"Slightly...a little tired.",
+			"He's a little ...... tired."
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308031,
+			"I'm more confident about my physical strength after so many fight…but still.",
+			"本来以为经历了这么多战斗对自己的体力有点自信了…看来还是差得远呢。",
+			"今までたくさん戦闘を経験してきたから、多少なりには体力に自信があったんだが……やっぱ、まだまだみたいだな。",
+			"지금까지 수많은 전투를 경험했으니 어느 정도 체력엔 자신이 있었는데……역시 아직 한참 모자라나 봐.",
+			null,
+			null,
+			"Originally thought that after so many battles on their own physical strength a little confident ... seems to still be far from it.",
+			"I've been through a lot of battles in my life, so I was more or less confident in my physical strength, but ...... I guess I'm not quite there yet."
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308032,
+			"Let me have a break here……",
+			"在这里休息一下吧……",
+			"ここで少し休憩しよう……。",
+			"여기서 잠시 쉬자…….",
+			null,
+			null,
+			"Take a break here ......",
+			"Let's take a short break here: ......."
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308033,
+			"Huh…huh……",
+			"呼…呼……",
+			"はぁ、はぁ……。",
+			"하, 하…….",
+			null,
+			null,
+			"Hoo...hoo ......",
+			"Ha, ha. ......."
+		],
+		[
+			"msg",
+			308034,
+			"Don't know how is the convesation between Himeko and Theresa…she' s just so stubborn, unwilling to tell others about the real thoughts, if she missed this chance she might never have another chance to say.",
+			"不知道姬子能和德丽莎谈的怎么样了…那个人就是死要面子，自己内心的话总是不愿意告诉对方，如果错过了这次恐怕到死都不会有机会说出来了。",
+			"姫子とテレサの話し合いは、どうなっているんだろうな……あいつはメンツにこだわるから、自分の本音を相手に言わなそうだけど。もし、この機会を逃したら、死ぬまでチャンスはないだろうな。",
+			"히메코와 테레사의 대화는 어떻게 흘러가고 있을까……저 녀석은 체면을 중시하니까 본심을 털어놓진 않을 것 같아. 이 기회를 놓치면 죽을 때까지 기회가 없을 텐데.",
+			null,
+			null,
+			"I wonder how Himeko can talk to Theresa ... that person is to die to save face, their inner words are always reluctant to tell each other, if you miss this time I'm afraid to death will not have the opportunity to say it.",
+			"I wonder how the discussion between Himeko and Teresa is going ...... That guy is so concerned about his menace that he's not going to tell his partner what he really thinks. If he misses this opportunity, he won't get a chance until he dies."
+		],
+		[
+			"msg",
+			308035,
+			"What a bad temper.",
+			"这种臭脾气的性格真是讨厌啊……",
+			"心の内を表に出せない性格って、本当に嫌いだ……。",
+			"속마음을 드러내지 못하는 성격은 정말 싫어…….",
+			null,
+			null,
+			"This stinky personality is really annoying ......",
+			"I really hate personalities that can't express their innermost feelings. ......"
+		],
+		[
+			"msg",
+			308036,
+			"Ah! Ah!",
+			"咳咳！咳咳！",
+			"ゴホッ、ゴホッ！ゴホッ、ゴホッ！",
+			"콜록, 콜록! 콜록, 콜록!",
+			null,
+			null,
+			"Ahem! Ahem!",
+			"Goho, goho! Gohohoho! Gohohoho!"
+		],
+		[
+			"msg",
+			308037,
+			"But that Theresa is so weird…what makes her become like that. And her power…makes me unlike a normal human being.",
+			"话说那个德丽莎真是的太奇怪了吧…到底是经历了什么才变成那个样子。而且那个怪力…看起来也不像是普通的人类。",
+			"それより、あのテレサってヤツ、おかしいだろ……一体どうしたらあんな姿になれるんだ。しかも、あの怪力……見るからに普通の人間じゃない。",
+			"그보다, 저 테레사라는 녀석, 이상하잖아…… 대체 어떻게 저런 모습이 될 수 있는 거야. 게다가, 그 괴력…… 보기만 해도 보통 인간이 아니야.",
+			null,
+			null,
+			"That's a strange thing, isn't it, that Theresa...what in the end she went through to become that way. And that strange power...it doesn't look like an ordinary human.",
+			"But that Teresa guy is crazy. ...... How in the world can she look like that? And she's not a normal human being, as you can see from her monstrous ...... strength."
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308038,
+			"Well…everyone is strong as a monster, why only me……",
+			"真是的…一个个都强的跟怪物一样，为什么只有我这么弱……",
+			"まったく……どいつもこいつも怪物みたいに強いのに、どうして私だけがこんなに弱いんだ……。",
+			"정말…… 하나둘씩 괴물처럼 강한 주제에, 왜 나만 이렇게 약한 거야…….",
+			null,
+			null,
+			"Really ... each one is as strong as a monster, why only I am so weak ......",
+			"How can I be so weak when everyone is so monstrously strong at all ......."
+		],
+		[
+			"msg",
+			308039,
+			"Ah!",
+			"咳咳！",
+			"ゴホッ、ゴホッ！",
+			"콜록, 콜록!",
+			null,
+			null,
+			"Ahem!",
+			"Gosh, gosh!"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308040,
+			"Ok……enough rest.",
+			"好了……休息够了。",
+			"もう大丈夫だ……十分休めた。",
+			"이제 괜찮아…… 충분히 쉬었어.",
+			null,
+			null,
+			"Well ...... rested enough.",
+			"I'm okay now. ...... I've rested enough."
+		],
+		[
+			"msg",
+			308041,
+			"Let's go, turn right at the crossing.",
+			"走吧，前面路口右转就到了。",
+			"行こう。この先の交差点を右に曲がったら着く。",
+			"가자. 이 앞 교차로를 오른쪽으로 돌면 도착해.",
+			null,
+			null,
+			"Let's go, turn right at the intersection ahead and you'll be there.",
+			"Let's go. Turn right at the intersection ahead and we'll be there."
+		]
+	]
+}

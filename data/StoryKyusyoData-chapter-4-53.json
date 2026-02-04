@@ -1,0 +1,1058 @@
+{
+	"180": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10148"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301861,
+			"Sigh... It’s gone, nobody can fix this anymore...",
+			"哎……果然已经不行了呢，这个就算是神仙来了也修不好了啊……",
+			"あぁ……やっぱりもうダメね。こんなの神様でも直せないわ……。",
+			"아…… 역시 이젠 안 되겠어. 이런 건 신이라도 고칠 수 없어…….",
+			"Ah.... There's no hope... Even God can't fix this....",
+			null,
+			"Hey ...... really has not worked it, this even if the gods come also can not repair ah ......",
+			"Oh, ...... I'm still screwed. Even God can't fix this. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			301862,
+			"Yssring, how is it over there?",
+			"伊瑟琳，你边情况如何？",
+			"イザーリン、そっちの状況はどう？",
+			"이자린, 쪽 상황은 어때?",
+			"Yiserin, how are things on your side?",
+			null,
+			"Estherine, how are things on your side?",
+			"Estherine, what's the situation over there?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301863,
+			"Huh? Himeko!? I thought you were fighting outside! Is it okay for you to come here!? Won’t the Houkai creatures break in!?",
+			"嗯？姬子！？你不是在外面战斗么！这样擅离职守真的好么！崩坏生物不会冲进来么！",
+			"あれ？姫子！？あなた外で戦っていたんじゃないの！？そんな勝手に持ち場を離れていいの？崩壊生物が入ってきちゃうわよ！",
+			"어라? 히메코!? 당신 밖에서 싸우고 있던 거 아니야!? 그렇게 마음대로 자리를 떠나도 돼? 붕괴 생물이 들어오잖아!",
+			"Huh? Himeko! I thought you were out there fighting! Is it alright for you to be here!? Won't the Honkai beasts get in?",
+			null,
+			"Hm? Himeko! I thought you were fighting outside! Is it really okay to go AWOL like that! Wouldn't the Avalanche creatures rush in!",
+			"Huh? Himeko! I thought you were out there fighting! Can you leave your post without permission? Disintegrating organisms will get in!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301864,
+			"The fight is over.",
+			"战斗已经结束了。",
+			"戦いはもう終わったわ。",
+			"전투는 이미 끝났어.",
+			"The fight is over.",
+			null,
+			"The battle is over.",
+			"The fight is over."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301865,
+			"Is it... No wonder there is a lot less noise... I was too concentrated so I forgot about the surroundings. Have we survived again this time?",
+			"结束了么…难怪外面的噪音小了少…果然专注工作的时候就能忘掉外面的事情呢，这么说我们又顺利活下来了么？",
+			"終わったの……そういえば、外の騒音もいつの間にか小さくなってるわね……仕事に集中していると、周りのことを忘れちゃうのよね。ということは、私たちは無事に生き残ったってこと？",
+			"끝난 거야…… 그러고 보니 밖의 소음도 어느새 작아졌네…… 일에 집중하면 주변 일을 잊어버리게 되네. 그렇다면 우리는 무사히 생존했다는 거야?",
+			"Is it... No wonder there's a lot less noise... I was too concentrated so I forgot about the surroundings..... So we've survived once again?",
+			null,
+			"It's over...no wonder the noise outside is less...it's true that when you focus on your work you can forget about what's going on outside...so we survived again?",
+			"It's over....... Come to think of it, the noise outside will be lessening before you know it.......When you're focused on your work, you forget everything around you. So does that mean we survived?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301866,
+			"At the moment, yes. But we are still very vulnerable if we can’t get Hyperion moving quickly.",
+			"目前是的，但是如果不赶快让休伯利安动起来的话我们依旧是待宰的羔羊。",
+			"今のところはね。でも、急いでハイペリオンを動かさないと、またただの獲物になるわよ。",
+			"지금은 그렇지. 하지만 서둘러 히페리온을 움직이지 않으면 또다시 희생양이 될 거야.",
+			"For now. But we're sitting ducks out here if we can't get Hyperion functioning soon.",
+			null,
+			"For now, yes, but we're still lambs to the slaughter if we don't get Hublian moving soon.",
+			"For now. But hurry up and move Hyperion or you'll just be prey again."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301867,
+			"All right... Unfortunately, putting the power furnace aside, even Hyperion itself cannot perform normally without the replacement parts. We have suffered too much loss in these battles.",
+			"好吧…不过很遗憾，如果没有补充零件的话别说是动力炉了，就连休伯利安本身都无法维系正常的运作，这几次战斗的损伤实在太大了。",
+			"わかった……でも、残念なことに動きそうもないの。補充部品がなければ動力炉どころか、ハイペリオン本体も正常に運転できない。ここ数回の戦闘での被害が大きすぎたみたい。",
+			"알았어…… 하지만 안타깝게도 움직일 것 같지 않아. 보충 부품이 없으면 동력로는커녕, 히페리온 본체도 정상적으로 가동할 수 없어. 최근 몇 번의 전투에서 입은 피해가 너무 컸던 모양이야.",
+			"All right... But we're out of luck. Without replacement parts the Hyperion can't function properly, let along fixing the power generator. We've sustained way too much damage in the last few battles. (TN: Chinese said \"furnace\", Japanese said \"reactor\")",
+			null,
+			"Well ... but unfortunately, without the replenishment of parts, not to mention the power furnace, even the Hublian itself can not maintain normal operation, the damage of these battles is too much.",
+			"Okay ...... but unfortunately it's not going to work. Without replacement parts, the Hyperion itself cannot operate properly, let alone the power reactor. It seems that the damage from the last few battles was too much."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			301868,
+			"You are right, there are a lot more problems to be solved apart from the power furnace...",
+			"你说的没错，除了动力炉之外还有很多问题要解决……",
+			"あなたの言う通りね。動力炉以外にも解決しなくてはならない問題がたくさんあるわ……。",
+			"네 말이 맞아. 동력로 말고도 해결해야 할 문제가 많아…….",
+			"You are right. There are a lot of other problems that need to be solved besides the generator....",
+			null,
+			"You are right, there are many problems to solve besides the power furnace ......",
+			"You are right. There are a lot of other problems that need to be solved besides the power reactor. ......"
+		],
+		[
+			"msg",
+			301869,
+			"Gather all people to the bridge. I want the surviving people to decide their own destiny.",
+			"召集所有人到舰桥，我想让活着的人自己决定他们的命运。",
+			"艦橋に全員集合。生き残った人に自分の運命を決めてもらいたいの。",
+			"함교에 모두 모여. 생존한 사람들 스스로 자신의 운명을 결정하게 하겠어.",
+			"Gather everyone on the bridge. I want the survivors to decide their own destiny.",
+			null,
+			"Gather everyone to the bridge. I want the living to decide their own fate.",
+			"Gather everyone on the bridge. I want the survivors to decide their own fate."
+		]
+	],
+	"181": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301870,
+			"Himeko had explained the situation.",
+			"姬子将目前的情况陈述了一遍。",
+			"——姫子は現在の状況を皆に説明した。",
+			"——히메코는 현재의 상황을 모두에게 설명했다.",
+			null,
+			null,
+			"Himeko stated the current situation.",
+			"--Himeko explained the current situation to everyone."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301871,
+			"Overall, this is our situation.",
+			"目前我们的状况就是这样。",
+			"今置かれている私たちの状況はこんなところよ。",
+			"지금 우리가 처한 상황은 이 정도예요.",
+			null,
+			null,
+			"That's where we are at the moment.",
+			"This is where we are right now."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301872,
+			"Is Bronya really gone... She will not leave her fellows like this!",
+			"布洛妮娅真的走了么……她不是那种会抛下同伴的人才对啊！",
+			"ブローニャは本当に行ってしまったの……？彼女はそんな風に仲間を捨てる人じゃないよね！ ？",
+			"브로냐가 정말로 떠난 거야……? 그녀는 동료를 그렇게 버리는 사람이 아니잖아!?",
+			"Is Bronya really gone...? She's not the kind of person that would abandon her family, right!?",
+			null,
+			"Is Bronya really gone ...... she is not the kind of person who would leave his companions behind ah!",
+			"Has Bronya really gone ......? She's not the kind of person to abandon her people like that! ?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301873,
+			"Sorry, but that’s the fact.",
+			"抱歉，但这是事实。",
+			"ごめんなさい。でも、それが事実なの。",
+			"미안해. 하지만 그게 사실이야.",
+			"I'm sorry. But it's the truth.",
+			null,
+			"Sorry, but it's true.",
+			"I'm sorry. But it's the truth."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301874,
+			"So what should we do now... Do we just wait for our death here?",
+			"那我们现在该怎么办…果然能做的仅仅只能等死而已么？",
+			"そしたら、私たちはどうすればいいの……やっぱり死ぬのを待つしかないの？",
+			"그럼 우리는 어떻게 해야 해…… 결국 죽기를 기다려야 하는 거야?",
+			"Then what are we supposed to do... Are we just waiting to die?",
+			null,
+			"So what do we do now...really all we can do is just wait to die?",
+			"Then what are we supposed to do ...... but wait for them to die?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301875,
+			"......",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			301876,
+			"Hey... Emesa, speak up? You would always scold me at times like this, why are you silent too!?",
+			"喂…埃米沙你也说句话啊？这个时候你不是总会骂我么，为什么你也沉默了呢！",
+			"ちょっと……エミザ、あなたも何か言ったら？こんなときはいつも私に文句を言うじゃないの。どうしてあなたまで黙っているのよ？",
+			"잠깐…… 에미자, 너도 뭐라고 말하면? 이런 때는 항상 나에게 불만을 늘어놓지 않았어? 왜 너까지 침묵하고 있는 거야?",
+			"Hey... Emesa, why don't you say something too? You always scold me at times like this. Why aren't you saying anything?",
+			null,
+			"Hey...Emesha you also say something ah? You always scold me at this time, why are you also silent!",
+			"Hey ...... Emesa, why don't you say something too? You always complain to me at times like this. Why don't you say something too?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			301877,
+			"I don’t know... Bronya and Seele are no longer here, what can we do...",
+			"我也不知道…布洛妮娅和希儿都不在了，光靠我们还能做什么呢……",
+			"分からないんだよ……ブローニャもゼーレもいなくなっちゃって、私たちだけで何ができるっていうんだ……。",
+			"모르겠어……브로냐도 제레도 없어져 버려서, 우리들만으로 뭘 할 수 있다는 거야…….",
+			"I don't know... What can we do when Bronya and Seele are gone...?",
+			null,
+			"I don't know...what else can we do with just us without both Bronya and Hill ......",
+			"I don't know. ...... What can we do on our own now that Bronya and Seele are gone? ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			301878,
+			"Then just wait and die like this. It’s not too bad to live an easy remaining life.",
+			"那就这样等死吧，让自己的余生活得轻松一些不是什么坏事。",
+			"じゃあ、このまま死ぬのを待っていなさい。自分の余生をゆっくりと過ごすのは悪いことじゃないわ。",
+			"그럼 이대로 죽음을 기다리던가. 자신의 여생을 천천히 보내는 건 나쁜 일이 아니야.",
+			"Then go ahead and wait to die. There's nothing wrong with taking it easy if you're fed up with this.",
+			null,
+			"Then it's not a bad thing to just wait to die and make the rest of your life easier.",
+			"Then go ahead and wait to die. There's nothing wrong with taking your time for the rest of your life."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301879,
+			"Himeko... You are always like this! When Bronya left, and now! Don’t you understand our feelings!",
+			"姬子…你这家伙总是这样！布洛妮娅的时候也是！现在也是！你难道不懂大家的感受么！",
+			"姫子……お前はいつもそうだな！ブローニャのときもそう！今もそう！お前には、みんなの気持ちが分からないのか！？",
+			"히메코…… 너는 항상 그렇구나! 브로냐 때도 그랬지! 지금도 그래! 너에게는, 모두의 마음이 안 보이는 거야!?",
+			"Himeko, why do you always say things like this!? You were the same with Bronya when she left! Don't you understand how we all feel!",
+			null,
+			"Himeko...you're always like that! Even when it comes to Bronya! And now too! Don't you understand how everyone feels!",
+			"Himeko_...... you always do that! You were the same with Bronya! You're like that now! You have no idea how we all feel!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			301880,
+			"Whatever feeling it is, if you lose the will to fight, it’s meaningless.",
+			"不管是什么感受，没有战斗意志的话就没有意义了。",
+			"どんな気持ちだろうと、戦う意志がないのなら意味はないわ。",
+			"어떤 마음이든, 싸울 의지가 없다면 의미 없어.",
+			"Whatever your feelings are, it's meaningless if you're not willing to fight.",
+			null,
+			"No matter what the feeling is, there is no point if you don't have the will to fight.",
+			"Whatever your feelings are, they don't matter if you're not willing to fight."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301881,
+			"You always make sarcasm like this... Bronya had asked you to take care of us! What do you say then!",
+			"总是在一旁说风凉话……既然布洛妮娅已经把大家交给你了！那你倒是说现在我们该怎么办！",
+			"いつも自分は無関係みたいな話し方をして……ブローニャはみんなのことをあんたに任せたんだろう！だったら、今私たちがどうすべきか一言くらいいったらどうなんだ！",
+			"항상 자기 자신은 무관계인 것처럼 말을 해서……브로냐는 모두를 너에게 맡겼을 거 아냐! 그렇다면, 지금 우리가 어떻게 해야 할지 한마디 정도는 해 주면 어때!",
+			"You always talk like you have nothing to do with it...... Bronya left you in charge of everyone! So why don't you at least say what we should do now!",
+			null,
+			"Always talking on the sidelines ...... Since Bronya has left everyone to you! Then you tell us what we should do now!",
+			"You always talk like you have nothing to do with ...... Bronya left you in charge of everyone! So why don't you at least say what we should do now!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			301882,
+			"......",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			301883,
+			"First, we need to find ways to repair Hyperion. Try all possibilities, even if the chances are low. After that, we should put all wounded people in the compartments near the bridge. The defense on left wing compartments is too weak and we have no manpower. Also, we will use the available materials to reinforce defense around the bridge as much as possible to prepare for future battles.",
+			"首先，寻找修理休伯利安的方法，哪怕只有一点可能性也要积极尝试。然后，将伤员统一安置到舰桥附近的舱室，左翼舱室的防守太过薄弱，也没有人手抽调。另外，利用战舰上现有的材料最大可能加固舰桥周围的防御工事，准备之后的战斗。",
+			"まず、ハイペリオンを修理する方法を探す。僅かな可能性でもあれば試してみること。そして、負傷者を艦橋近くのキャビンに収容する。それから、戦艦にある材料で艦橋周囲の防御を固くして。準備ができたら戦いよ。",
+			"먼저, 히페리온을 수리하는 방법을 찾아. 작은 가능성이라도 있다면 시도해 봐. 그리고 부상자를 함교 근처 캐빈에 수용해. 그 다음, 전함에 있는 재료로 함교 주변 방어를 견고하게 만들고. 준비가 끝나면 싸우자.",
+			null,
+			null,
+			"First, look for ways to repair the Hublian, and actively try even the slightest possibility. Then, place the wounded uniformly in the compartments near the bridge; the defense of the left wing compartment is too weak and there is no manpower to draw. In addition, use the materials available on the battleship to strengthen the fortifications around the bridge to the greatest extent possible, in preparation for the battle afterwards.",
+			"First, look for ways to repair Hyperion. If there is even the slightest possibility, try it. Then, take the wounded to a cabin near the bridge. Then, fortify the perimeter of the bridge with materials from the battleship. When you are ready, you are ready to fight."
+		],
+		[
+			"msg",
+			301884,
+			"Lastly, and most importantly, the Fire Moths need a leader... We need to elect a new commander.",
+			"最后，也是最重要的一点，逐火之蛾不能没用领袖…需要选举一位新的指挥者。",
+			"最後に、一番重要なことだけど、火を追う蛾はリーダーなくしてやっていけない……投票で新しい指導者を選ぶ必要があるわ。",
+			"마지막으로, 가장 중요한 건데, 불을 좇는 나방은 리더 없이는 못해…… 투표로 새로운 지도자를 뽑아야 해.",
+			"Finally, and most importantly, the Fire Moths need a leader... We need to elect a new commander.",
+			null,
+			"Finally, and most importantly, the Moth by Fire cannot be without a leader...a new commander needs to be elected.",
+			"Finally, and most importantly, moths chasing fire can't do without a leader ...... we need to vote for a new leader."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301885,
+			"Tsk... Talking about an “election” at this point in time, are you trying to push away your responsibilities! Do you not have confidence yourself?",
+			"哼…现在还说什么选举，你是想推脱责任么！还是说你自己也没有信心！？",
+			"ふん……今さら投票とかなんとか言って、責任から逃れるつもり！？それとも自分に自信がないのか！？",
+			"흥… 이제 와서 투표니 뭐니 하면서 책임에서 도망치려는 거야!? 아니면 자신이 없는 건가!?",
+			"Hmph... So now you're talking about voting for a new leader!? Are you trying to escape your responsibilities? Or do you not have any confidence in yourself!",
+			null,
+			"Hmph...now you're talking about the election...are you trying to shirk your responsibilities! Or do you have no confidence yourself!",
+			"Hmmm ...... now you are going to say something about voting and escape from your responsibility! Or are you not sure of yourself!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			301886,
+			"Someone that may die any time cannot be the leader. You should know it better than I do.",
+			"随时都可能会死掉的人是不能成为领袖的，这点你应该比我清楚。",
+			"いつ死ぬとも分からない人間がリーダーになってはいけないわ。この点だけは私より分かっているはずよ。",
+			"언제 죽을지 모르는 인간이 리더가 되어서는 안 돼. 이 점만큼은 나보다 잘 알고 있을 텐데.",
+			"Someone that can drop dead at any moment shouldn't be the leader. You know this better than I do.",
+			null,
+			"People who may die at any time cannot be leaders, and you should know this better than I do.",
+			"A person who doesn't know when he's going to die shouldn't be the leader. You know this better than I do."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301887,
+			"Ouch...",
+			"咕……",
+			"うぐっ……。",
+			"으긱…….",
+			"Ugh.....",
+			null,
+			"Goo ......",
+			"Ugg ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301888,
+			"Alright, if no one has any objections, let’s start voting. I will start first. I vote for Kyushou.",
+			"好了，如果没有异议的话我们就开始投票吧。我先开始，我投九霄一票。",
+			"いいわね。もし異議がないなら早速投票を始めましょう。私から始めるわね。私は九霄に1票よ。",
+			"좋아. 이의가 없다면 즉시 투표를 시작하자. 내가 먼저 시작할게. 나는 큐쇼에게 1표야.",
+			"Alright, if no one has any objections, let’s start voting. I'll start. I vote for Kyuushou.",
+			null,
+			"Okay, if there are no objections let's start voting. I'll start first. I'll vote for Kyuushou.",
+			"All right. If there are no objections, let's start the voting immediately. I'll start. I vote for Kyuushou."
+		],
+		[
+			"choice",
+			[
+				302208,
+				"I can’t take this responsibility.",
+				"我无法担当这样的重任。",
+				"私にはそんな重大な責任担えない。",
+				"저는 그런 중대한 책임을 맡을 수 없어요.",
+				null
+			],
+			[
+				302209,
+				"I think other people are more suitable.",
+				"我觉得有其他人更加合适。",
+				"他にもっとふさわしい人がいると思う。",
+				"다른 더 적합한 사람이 있을 것 같아요.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			182,
+			183
+		]
+	],
+	"182": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301889,
+			"I don’t want to put so much pressure on you if possible. But sorry, you are the most suitable leader in my opinion.",
+			"如果可能的话我也不想让你肩负这么大的压力，但是抱歉，以我的判断来说你是最合适成为领袖的人了。",
+			"できることなら、私もあなたにこんな大きな負担を背負わせたくないわ。でも、ごめんなさい。私の見るところ、あなたがリーダーに一番ふさわしいのよ。",
+			"가능하다면 나도 당신에게 이런 큰 부담을 지우고 싶지 않아. 하지만 미안해. 내가 보기엔 당신이 리더에 가장 적합하니까.",
+			"If I had a choice, I wouldn't want you to carry this huge burden either. But I'm sorry. The way I see it, you are the most qualified leader.",
+			null,
+			"I wouldn't want to put so much pressure on your shoulders if possible, but I'm sorry, in my judgment you're the best person to be a leader.",
+			"If I could, I wouldn't want you to carry this huge burden either. But I'm sorry. The way I see it, you are the most qualified leader."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			184
+		]
+	],
+	"183": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301890,
+			"No way. Emesa is too impulsive and she cannot make a calm decision. Yssring is too timid. They can’t lead us.",
+			"不行。埃米沙太冲动了，无法冷静地做出判断，而伊瑟琳又太怯弱，这样的是无法领导大家的。",
+			"ダメよ。エミザは衝動的すぎるわ。冷静に判断を下せないし、イザーリンは弱気すぎる。これではみんなを引っ張っていけないわ。",
+			"안 돼. 에미자는 충동적이야. 냉정하게 판단을 내릴 수 없고, 이자린은 너무 소심해. 이러면 모두를 이끌어갈 수 없어.",
+			"No, they aren't. Emesa is too impulsive and can't make calm decisions. Yiserin is too timid.",
+			null,
+			"No way. Emesa is too impulsive to make a calm judgment, and Estherine is too timid, such is not able to lead everyone.",
+			"No, you can't. Emesa is too impulsive. She can't make calm decisions and Isserling is too timid. I can't lead them all."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			184
+		]
+	],
+	"184": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301891,
+			"But isn’t it too hasty to ask a new person to lead everyone!",
+			"但是让这样的新人来领导大家还是太草率了吧！",
+			"でも、こんな新人にみんなを引っ張らせるなんて、軽率すぎやしないか？",
+			"하지만 이런 신참에게 모두를 이끌게 하다니, 경솔하지 않아?",
+			"But it's still too hasty to let a newbie like her lead everyone!",
+			null,
+			"But it's still too hasty to let such a newcomer lead everyone!",
+			"But isn't it too rash to let such a newcomer lead everyone?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301892,
+			"While Kyushou had helped me many times... But from a peace of mind perspective, I think Himeko is a better person to rely on.",
+			"虽然被九霄帮助过很多次了…但是从安心程度上还是姬子比较值得依赖。",
+			"九霄には何度も助けられたけど、安心という点では姫子の方が信頼できる、かな。",
+			"큐쇼에게는 여러 번 도움을 받았지만, 안정성 면에선 히메코가 더 믿을 만해, 아마.",
+			"Kyuushou has helped me many times... But in terms of being a reliable leader, I think Himeko is better. (TN: Kind of hard to translate so some meaning was lost here. Yiserin says \"in terms of peace of mind\")",
+			null,
+			"Although helped by the ninth heaven many times ... but from the degree of peace of mind or Himeko more worth relying on.",
+			"Kyuushou has helped me many times, but I trust Himeko more in terms of security, I think."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			301893,
+			"The discussion has become noisy.",
+			"讨论的声音渐渐嘈杂了起来。",
+			"——議論する声が次第に騒がしくなってくる。",
+			"——논의하는 목소리가 점점 시끄러워져 온다.",
+			"The discussion became noisy.",
+			null,
+			"The discussion grew noisier.",
+			"--the voices discussing the issue become increasingly noisy."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301894,
+			"Himeko, if you really care about the bigger picture, you should not make everyone waver at this point in time!",
+			"姬子，如果你真的为大局着想的话，就不应该在这个时间点上让大家继续动摇了！",
+			"姫子、もし本当に大局を考えているのなら、今みんなを動揺させ続けるべきじゃない！",
+			"히메코, 정말 대국을 생각하고 있다면 지금 모두를 동요시키고 있어선 안 돼!",
+			null,
+			null,
+			"Himeko, if you're really looking out for the greater good, you shouldn't keep everyone shaken up at this point in time!",
+			"Himeko, if you really think about the big picture, you shouldn't keep upsetting everyone now!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301895,
+			"......",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			301896,
+			"I see, I shall be the temporary leader of the Fire Moths then.",
+			"我明白了，那我就暂时担任逐火之蛾的领袖吧。",
+			"分かったわ。じゃあ、私がしばらく火を追う蛾のリーダーを務める。",
+			"알았어. 그럼, 내가 한동안 불을 쫓는 나방의 리더를 맡을게.",
+			"Fine. I'll be the temporary leader of the Fire Moths then.",
+			null,
+			"I see, then I will be the leader of the Moth by Fire for the time being.",
+			"All right, I'll do it. Then I'll lead the fire-chasing moths for a while."
+		],
+		[
+			"msg",
+			301897,
+			"But if I die in the subsequent battle, Kyushou will become the new leader, or...",
+			"但是，如果我在后面的战斗中死亡的话，领袖的职位将交给九霄，或者……",
+			"でも、私がこれからの戦闘で死んだらリーダーの仕事は九霄に任せるわ。あるいは……。",
+			"하지만, 내가 앞으로의 전투에서 죽으면 리더의 일은 큐쇼에게 맡길 거야. 아니면…….",
+			"But if I die in any subsequent battles, Kyuushou will become the new leader. Or....",
+			null,
+			"However, if I die in the later battle, the position of leader will be given to Kyuushou, or ......",
+			"But if I die in the coming battle, I'll leave the job of leader to Kyuushou. Or you can go to ......."
+		],
+		[
+			"msg",
+			301898,
+			"If Bronya can make it back.",
+			"如果布洛妮娅能够回来的话。",
+			"もしブローニャが戻って来てくれるなら……。",
+			"만약 브로냐가 돌아와 준다면…….",
+			"If Bronya comes back.",
+			null,
+			"If only Bronya could come back.",
+			"If Bronya will come back, please contact us at ......."
+		]
+	]
+}

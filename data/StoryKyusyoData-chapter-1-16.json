@@ -1,0 +1,1354 @@
+{
+	"1025": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305196,
+			"Hmm... What Emesa said actually makes sense. If we can scavenge the junks from the battlefield, perhaps it will ease our resource shortage.",
+			"嗯……埃米沙那家伙说的话好像有点道理，如果能把战场上的资源再利用的话说不定能减轻基地的负担。",
+			"うん……エミザの話は理に適っていると思う。もし戦場の資源を再利用できれば、基地の負担を減らせるかもしれない。",
+			"응……에미자의 말은 일리가 있는 것 같아. 만약 전장의 자원을 재활용할 수 있다면, 기지의 부담을 줄일 수 있을지도 몰라.",
+			"Hmm... What Emesa said makes sense. If we can recycle resources from the battlefield, it might reduce the burden on the base.",
+			null,
+			"Well ...... Emesa guy said something seems to make sense, if you can reuse the resources on the battlefield then maybe you can reduce the burden on the base.",
+			"Yeah ...... I think Emesa's story makes sense. If we could recycle resources from the battlefield, it might reduce the burden on our bases."
+		],
+		[
+			"msg",
+			305197,
+			"Ah... Your timing is perfect. I've been thinking a lot after Emesa's request. Instead of Homi parts, we could actually collect everything that might prove to be useful to us.",
+			"啊~你来的正好，之前埃米沙的委托之后我想了很多，不仅是吼姆机器人的零件，只要是对基地有帮助的东西似乎都可以再利用一下呢~",
+			"あ、ちょうどいいところに！この前のエミザの依頼のあと色々考えたんだけれど、ホミロボットの部品だけでなく基地に役立つ物なら全て再利用しようと思って！",
+			"아, 마침 잘 왔어! 이전에 에미자의 의뢰 후에 이것저것 생각해봤는데, 호미로봇 부품뿐만 아니라 기지에 도움이 되는 거라면 모두 재활용하려고!",
+			"Oh, perfect timing! I've been doing a lot of thinking after Emesa's last commission, and I've decided that we should recycle everything that could be useful for the base, not just the parts of those Homei mechas!",
+			null,
+			"Ah ~ you came just in time, after the commission of the previous Emesa I thought a lot, not only the parts of the Howlom robot, as long as the base can help things can be reused it seems ~",
+			"Oh, just in time! I've been doing a lot of thinking after the last request from Emesa, and I've decided to reuse everything that is useful to the base, not just the parts of the hominid robots!"
+		],
+		[
+			"msg",
+			305198,
+			"I knew you would agree. Let's go look around the base and see if we can find anything that has values.",
+			"你也这么觉得对吧，那我们就去基地周围看看还有什么值得利用的东西吧~",
+			"あなたもそう思うでしょ？基地の周りにまだ利用できるものがないか見に行きましょう！",
+			"너도 그렇게 생각하겠지? 기지 주변에 아직 쓸 만한 게 없는지 보러 가자!",
+			"You think so too, don't you? Let's go see if there's anything still available around the base!",
+			null,
+			"You think so too, right? Then let's go around the base and see what else is worth using ~",
+			"You think so too, don't you? Let's go see if there's anything still available around the base!"
+		]
+	],
+	"1026": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305199,
+			"Let me see... Hmm... Can't say I know exactly what to collect...",
+			"嗯，让我瞧瞧…果然没有什么明确的目标呢……",
+			"うん……やっぱりこれといったものはないわね……。",
+			"음……역시 딱히 눈에 띄는 건 없네……",
+			null,
+			null,
+			"Well, let's see...there really is no clear goal ......",
+			"Yeah. ...... I still don't have anything like this. ......"
+		],
+		[
+			"msg",
+			305200,
+			"If so, let's split up and meet again later with everything we've found. And then, we will sort the stuff out.",
+			"既然这样那我们分头行动吧，大家把自己看起来用的到的东西进行回收，然而我们再整理分类一下吧。",
+			"手分けして探そっか。みんなで使えそうだと思う物を集めて、あとで私たちで分類しましょう。",
+			"나눠서 찾아보자. 다들 쓸 만하다고 생각되는 걸 모아서, 나중에 우리가 분류하자고.",
+			null,
+			null,
+			"In that case let's split up, everyone recycle what they seem to use, however let's organize and sort it again.",
+			"Let's split up and look for them. Let's collect what we think we can all use and we'll sort it out later."
+		],
+		[
+			"msg",
+			305201,
+			"Hehe... If you happen to find any treasure, don't hide it for yourself.",
+			"嘿嘿~如果找到好东西可不能偷偷藏起来哦~",
+			"ヘヘ～何かいいものを見つけてもコッソリ隠しちゃダメだよ～！",
+			"헤헤~ 뭔가 좋은 걸 찾아도 슬쩍 숨기면 안 돼~!",
+			null,
+			null,
+			"Hey ~ if you find something good can not be secretly hidden Oh ~",
+			"Hehe~ If you find something good, don't sneak it away!"
+		],
+		[
+			"msg",
+			305202,
+			"Well, let's set off. See you later.",
+			"那么出发吧，一会见。",
+			"じゃあ出発しましょう、また後でね。",
+			"그럼 출발하자, 다시 봐.",
+			null,
+			null,
+			"So let's go and see you in a bit.",
+			"Then let's leave. I'll see you later."
+		]
+	],
+	"1027": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305203,
+			"Woooo! I've collected so many things! Let me see what can I do with them.",
+			"呼！大丰收~大丰收~让我看看有哪些东西可以用得上。",
+			"ふぅ！大漁～大漁～！さっそく見せてちょうだい。",
+			"후우! 대물량~대물량~! 어서 빨리 보여줘.",
+			null,
+			null,
+			"Whew! Great harvest ~ great harvest ~ let me see what I can use.",
+			"Phew! Big catch~ big catch~! Let me see it right away."
+		],
+		[
+			"msg",
+			305204,
+			"Traffic lights, a car engine, and some tires... I can surely make something out of them!",
+			"红绿灯架、汽车发动机还有轮胎，有这些东西的话一定可以做出厉害的家伙！",
+			"信号機のフレーム、自動車のエンジンとタイヤ。これだけあればきっとスゴイものが作れるはずよ！",
+			"신호등 프레임, 자동차 엔진과 타이어. 이 정도면 분명 엄청난 걸 만들 수 있을 거야!",
+			null,
+			null,
+			"Stoplight frame, car engine and tires, if you have these things you can definitely make a great guy!",
+			"A traffic light frame, a car engine and tires. With all this, I bet you could make something amazing!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305205,
+			"Like what? A Transformer?",
+			"你是想做汽车人么？",
+			"何？巨大ロボットでも作りたいの？",
+			"뭐? 거대 로봇이라도 만들려고?",
+			null,
+			null,
+			"Do you want to be a car guy?",
+			"What? You want to make a giant robot?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305206,
+			"Hi! Yssring! Great that you are here! Could you please help me check if there's anything useful?",
+			"唔！伊瑟琳！你来的正好，帮我看看有什么能利用的么！",
+			"あ！イザーリン！いいところに来たわね。使えるものがあるか見て！",
+			"아! 이자린! 좋은 때에 왔네. 쓸 만한 게 있는지 봐!",
+			null,
+			null,
+			"Well! Estherine! You're just in time to help me see if there's anything I can do with it!",
+			"Ah! Estherine! You've come to the right place. See if there's anything we can use!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305207,
+			"Seele, are you a scavenger or what? All these junks are useless. Let's get rid of...",
+			"希儿，你是捡垃圾上瘾了么…这些东西只会占地方而已，还是把它们都……",
+			"ゼーレ、いつからゴミ拾いにハマったの？こんなもの場所をとるだけ。全部捨てるべき……。",
+			"제레, 언제부터 쓰레기 줍기에 빠진 거야? 이런 것들 공간만 차지할 뿐이야. 전부 버려야 해…….",
+			"Seele, since when did you get into picking up trash? This stuff just takes up space. You should throw it all away.......",
+			null,
+			"Hill, you are addicted to picking up trash...these things will only take up space, or put them all ......",
+			"Seele, since when did you get into picking up trash? This stuff just takes up space. You should throw it all away. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305208,
+			"Yssring! You just can't see their value! There are infinite possibilities...",
+			"伊瑟琳！你完全没有明白它们的价值！它们可是拥有无限可能性的哦~",
+			"イザーリン！あなた、これらの価値が全く分かってない！ゴミに見えるかもだけど、無限の可能性を秘めているんだからね！",
+			"이자린! 넌 이 것들의 가치를 전혀 모르고 있어! 쓰레기로 보일지 몰라도, 무한한 가능성을 품고 있다고!",
+			null,
+			null,
+			"Estherine! You don't understand their value at all! They have infinite possibilities!",
+			"Estherine! You have no idea the value of these things! They may look like garbage, but they have unlimited potential!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305209,
+			"Aha? Anyway, move them away from here. Before Bronya finds out and starts to blame you.",
+			"哈…总之，先把这些东西从这里搬走吧，不然被布洛妮娅看到可是要挨骂的。",
+			"はあ……とにかく、まずはこれをここから移動させて。ブローニャに見つかったら大目玉だよ。",
+			"하아…… 어쨌든, 일단 이걸 여기서 옮기자. 브로냐한테 걸리면 큰일 나.",
+			"Oh.... Well, whatever. Just move it out of here before Bronya sees it and starts scolding you.",
+			null,
+			"Ha... Anyway, let's get these things out of here first, otherwise they will be scolded when Bronya sees them.",
+			"Hah ...... Anyway, move this out of here first. If Bronya finds out, it's a big eye opener."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305210,
+			"Humph! That's impossible! Bronya will surely praise me for my work. And more batches are just on their way.",
+			"哼~怎么可能，姐姐大人夸我还来不及呢，而且还不止这些，一会还有一批资源会到达哦~",
+			"フン！そんなことないよ。お姉ちゃんはきっと褒めてくれると思う。それだけじゃなくて、きっと大量の資源が手に入るよ～！",
+			"훗! 그렇지 않아. 언니는 분명 칭찬해 줄 거야. 그뿐만 아니라, 분명 대량의 자원을 얻을 수 있을 거야~!",
+			null,
+			null,
+			"Hmph~ How is it possible, sister-sama can't praise me enough, and that's not all, there will be a batch of resources arriving later~",
+			"Hmph! That's not true. I'm sure your sister will praise you. Not only that, I bet you'll get tons of resources~!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305211,
+			"What? There are more?",
+			"呃…还有么……",
+			"うぅ……まだあるの……。",
+			"우우…… 아직도 있는 거야…….",
+			null,
+			null,
+			"Uh...is there more ......",
+			"Ugh ...... still have ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305212,
+			"Look! Here they are! Show me what you've found!",
+			"哟~后续部队赶到！让我看看你有什么收获吧！",
+			"あ～後続部隊が追いついた！どんな収穫があったか見せて！",
+			"아~ 후속 부대가 따라왔어! 어떤 수확이 있었는지 보여줘!",
+			null,
+			null,
+			"Yo~ The follow up troops arrived! Let's see what you've got!",
+			"Ahhhh, the follow-up troops are catching up! Let's see what you got!"
+		]
+	],
+	"1028": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305215,
+			"What is that? Is it useful?",
+			"那是啥？有什么用么？",
+			"何それ？役に立つの？",
+			"뭐야 그거? 쓸모 있어?",
+			null,
+			null,
+			"What's that? Does it do anything?",
+			"What's that? Is it useful?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			305216,
+			"Where... where did you find this??? Incredible! What a treasure you've found!",
+			"你…你、你是从哪里捡到的！！！太不可思议了！你居然发现了这样的宝藏！",
+			"あ……あなた、これどこで拾ったの！！！本当にすごいわ！こんなお宝を見つけるなんて……。",
+			"아…… 당신, 이거 어디서 주운 거야!!! 정말 대단해! 이런 보물을 찾다니…….",
+			"Oh... You, where did you find this!? This is truly amazing! I can't believe you've found such a treasure...!",
+			null,
+			"You...you, where did you pick that up from!!! It's incredible! You actually found such a treasure!",
+			"Oh ...... you, where did you pick this up! That is truly amazing!!! I can't believe I found such a treasure ......."
+		],
+		[
+			"msg",
+			305217,
+			"Though it's an old model, we can use it to process more data for sure! You are my light-bringer, the dawn after an ever-lasting dark night!",
+			"虽然型号老旧了一些，但是有了这个就可以进行更多的数据处理了！请让我叫你一声神大人，为陷入苦难的我带来曙光！",
+			"型番は少し古いけれど、これさえあればもっと多くのデータ処理ができるわ！まさに神！ありがとう！！",
+			"모델 번호는 좀 오래됐지만, 이거만 있으면 더 많은 데이터 처리를 할 수 있어! 정말 신이야! 고마워!!",
+			"The model is a little old, but I can do so much data processing with this thing! What a godsend, thank you!",
+			null,
+			"The model is a bit older, but with this you can do more data processing! Please let me call you Lord God and bring light to me who is in misery!",
+			"I know the model number is a little old, but I could do so much more data processing with this thing! It's a god! Thank you!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			305218,
+			"Hey! How come your reaction is so different?",
+			"喂！为什么和我的待遇差距这么大！",
+			"ちょっと！どうして私と扱いが全然違うの！",
+			"잠깐! 왜 나랑은 전혀 대우가 다른 거야!",
+			null,
+			null,
+			"Hey! Why is there such a big difference in treatment with me!",
+			"Hey! Why are you treating me so differently from you!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			305219,
+			"Well... Would you mind to take me with you next time?",
+			"那个…下次出去寻宝可以带上我么？",
+			"それは……。ねぇ、今度宝探しに行く時は私も連れてって。",
+			"그건……. 저기, 이번에 보물 찾으러 갈 때는 나도 데려가.",
+			"Hey... Next time you go on a treasure hunt, take me with you.",
+			null,
+			"Can you take me with you next time you go treasure hunting?",
+			"It's ....... Hey, next time you go on a treasure hunt, take me with you."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			305220,
+			"...We can't.",
+			"不行！",
+			"絶対ダメ！",
+			"절대 안 돼!",
+			"No way!",
+			null,
+			"No way!",
+			"Absolutely not!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305221,
+			"It's fine. You don't have to come along.",
+			"没事，希儿不去也可以。",
+			"大丈夫、ゼーレに言ってないから。",
+			"괜찮아, 제레한테 말 안 했으니까.",
+			"Don't worry. I wasn't asking you, Seele.",
+			null,
+			"It's okay, it's okay if Hill doesn't go.",
+			"Don't worry, I didn't tell Seele."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305222,
+			"Ughh...",
+			"可恶……",
+			"まったく……。",
+			"정말…….",
+			"Ugh....",
+			null,
+			"Damn ......",
+			"Totally ......."
+		]
+	],
+	"1029": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305223,
+			"Yo, Yssring. Is your metal detector really working?",
+			"喂，伊瑟琳，你这个金属探测器真的有用么？",
+			"ねえ、イザーリン、この金属探知機って本当に役に立つの？",
+			"저기, 이자린, 이 금속 탐지기 정말 쓸모 있는 거야?",
+			null,
+			null,
+			"Hey, Estherine, does this metal detector really work?",
+			"Hey Estherine, is this metal detector really useful?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305224,
+			"Trust me. I'm quite proud of it. I'm sure we can find some good stuff today.",
+			"放心吧，这可是我的得意之作，今天一定可以找到好东西。",
+			"安心して。これは私の自信作。今日はきっとお宝を見つけられる。",
+			"안심해. 이건 내 자신작. 오늘은 분명 보물을 찾을 수 있을 거야.",
+			null,
+			null,
+			"Don't worry, this is my best work, I can definitely find something good today.",
+			"Rest assured. This is my confidence. You will find a treasure today."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305225,
+			"Yssring has been very enthusiastic about treasure hunting ever since last time. Who said that all those junks were useless again?",
+			"真是的…这家伙自从上次之后就莫名地热衷起了寻宝，之前是谁说找到的东西都是没用的垃圾来着？",
+			"まったく……こいつったらこの前から妙に宝探しに熱を入れちゃって。見つけたものは全て役に立たないゴミって言ったのは誰よ？",
+			"정말…… 이 녀석은 이번에 왜 이렇게 보물 찾기에 열을 올리는지. 찾는 것마다 쓸모없는 쓰레기라고 했던 건 누구였더라?",
+			null,
+			null,
+			"Really...this guy has been inexplicably keen on treasure hunting since the last time, who said before that the things found were useless junk?",
+			"I don't get it. ...... has been strangely enthusiastic about treasure hunts for a while now. Who said everything you find is useless garbage?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305226,
+			"There are different junks. You just need to know their values. It's not something that Seele could understand.",
+			"垃圾也有种类之分，只要加以利用就会变成珍宝，希儿是不会明白这样的道理的。",
+			"ゴミにも種類があるの。利用するだけで宝にもなる。ゼーレにはこの理屈は分からないでしょうね。",
+			"쓰레기에도 종류가 있는 거야. 활용하기 나름이면 보물이 될 수도 있지. 제레에겐 이 이치를 이해 못 하겠지.",
+			null,
+			null,
+			"There are types of garbage, and if you use it, it will become a treasure, and Hill will not understand this.",
+			"There are different kinds of trash. It can be a treasure just by using it. Seele will never understand this logic."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305227,
+			"Since when she has such smart teeth... And look at that pride on her face...",
+			"你这家伙什么时候这么伶牙俐齿了，居然还一副得意的表情……",
+			"それ、私がこの前言ったこととほぼ同じじゃない！得意そうな顔までしちゃって……。",
+			"그거, 내가 이전에 말한 거랑 거의 똑같잖아! 자랑스러운 표정까지 짓고…….",
+			null,
+			null,
+			"When did you guys get so eloquent and actually have a smug look on your face ......",
+			"That's almost exactly what I said the other day! I even looked like I was good at it. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305228,
+			"*Beep beep beep...*",
+			"滴滴滴……",
+			"ピピピ……。",
+			"삐삐삐…….",
+			null,
+			null,
+			"Drip ......",
+			"Pipi. ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305229,
+			"I've caught a signal. Here. Help me move those bricks away.",
+			"有反应了，应该就是这个地方，帮我把外面的砖块挪开。",
+			"反応あり。きっとこの場所ね。周りの瓦礫をどけるの手伝って。",
+			"반응 있어. 분명 이곳이야. 주변의 잔해를 치우는 거 도와줘.",
+			null,
+			null,
+			"There's a response. This should be the place. Help me move the bricks outside.",
+			"Response. This must be the spot. Help me get the debris out of the way."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305230,
+			"Me again? Really... I'm totally feeling like being used as a slave...",
+			"真是的，我可不是来干苦力的啊……",
+			"まったく、私は肉体労働者じゃないんだけど……。",
+			"정말, 난 육체 노동자가 아닌데…….",
+			null,
+			null,
+			"Really, I'm not here to do the hard work ah ......",
+			"Not at all, I'm not a manual laborer. ......"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305231,
+			"*Panting*",
+			"嘿咻~",
+			"よっこらしょ～！",
+			"얼씨구나～!",
+			null,
+			null,
+			"Hey!",
+			"Hey there~!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			305232,
+			"Wow... I've found some good stuff! This is... the Legendary IBM 5100!",
+			"噢噢~看来找到好东西了！这个应该是传说中的IBN5100！",
+			"おお～、すごいの見つけたみたい！これはきっとあのIBN5100！",
+			"오오～, 대단한 걸 찾은 것 같아! 이건 분명 그 IBN5100이야!",
+			null,
+			null,
+			"Oh oh ~ seems to have found something good! This should be the legendary IBN5100!",
+			"Oh, I think I found something great! This must be that IBN5100!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			305233,
+			"Huh?",
+			"哈？",
+			"はあ？",
+			"하아?",
+			null,
+			null,
+			"Huh?",
+			"Huh?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			305234,
+			"It's an artifact manufactured in 1975! A milestone of in technology history. There are a lot of legends about it!",
+			"这可是生产于1975年的计算机神器！具有划时代的意义！而且它还有着一段传奇的故事！",
+			"これは1975年に生産されたコンピューター！画期的な仕組みが搭載されていてね！しかも、とある曰くが付きまとったものでもあるの！九霄みたいなやつが——",
+			"이건 1975년에 생산된 컴퓨터! 혁신적인 구조가 탑재되어 있지! 게다가, 어떤 전설이 따라다니는 것이기도 해! 큐쇼 같은 녀석이——",
+			null,
+			null,
+			"This is a computer wonder made in 1975! It's epoch-making! And it has a legendary story!",
+			"This is a computer produced in 1975! It has a revolutionary mechanism! And it also comes with a certain attached to it! It's like the Kuhxiao..."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305235,
+			"*Swishy Sound*",
+			"沙沙沙！",
+			"ガサガサガサ！",
+			"사각사각!",
+			null,
+			null,
+			"Sha Sha Sha Sha!",
+			"Rustle, rustle, rustle!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305236,
+			"Ahhh! Seele! Seele! Are we surrounded by Zombies?",
+			"呜哇！希！希儿！是死士么！？",
+			"うわっ！ゼ、ゼーレ！ゾンビ！？",
+			"우왁! 제, 제레! 좀비!?",
+			null,
+			null,
+			"Woohoo! Hee! Hee! Is that a dead soldier!",
+			"Whoa! Ze, Zere! Zombie!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305237,
+			"What Zombies? It's just the wind and the grass. Chill out!",
+			"什么死士，不就是一点风吹草动么，这么大惊小怪。",
+			"何がゾンビよ。風で草が動いただけじゃない。そんなに驚くなんて。",
+			"무슨 좀비야. 바람에 풀이 움직인 거 뿐이잖아. 그렇게 놀랄 거까지야.",
+			null,
+			null,
+			"What dead soldiers, not just a little wind and grass, so much fuss.",
+			"What's with the zombies? It's not just the grass moving in the wind. I can't believe you're so surprised."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305238,
+			"I... I see...",
+			"是…这样啊……",
+			"そ……そっか……。",
+			"그......그랬구나......",
+			null,
+			null,
+			"Yes...so ah ......",
+			"So ...... I see. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305239,
+			"Hehe, are you scared?",
+			"嘿嘿~你是不是害怕了？",
+			"ヘヘ～もしかして恐いの？",
+			"헤헤~ 혹시 무서워?",
+			null,
+			null,
+			"Hey, hey ~ are you scared?",
+			"Hehe~ Are you afraid?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305240,
+			"Of course I'm scared... I don't want to die here in the barrens.",
+			"那是当然…我可不想死在这种荒郊野外。",
+			"もちろんよ……私はこんな荒れ果てた所で死にたくない。",
+			"물론이지...... 난 이런 황폐한 곳에서 죽고 싶지 않아.",
+			null,
+			null,
+			"That's for sure...I don't want to die in the middle of nowhere like this.",
+			"Of course. ...... I don't want to die in this wasteland."
+		],
+		[
+			"msg",
+			305241,
+			"Right! Back to the topic, this IBM...",
+			"对了！说回刚才的事情，这个IBM……",
+			"そうだ！さっきの話だけどね、このIBN——",
+			"맞아! 아까 말이야, 이 IBN——",
+			null,
+			null,
+			"That's right! Back to what just happened, this IBM ......",
+			"Yes!!! I was just telling you about this IBN--"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305242,
+			"Yssring! A Houkai beast! Right behind you!",
+			"伊瑟琳！你的背后有一只崩坏兽！",
+			"イザーリン！後ろに崩壊獣が！",
+			"이자린! 뒤에 붕괴수가!",
+			null,
+			null,
+			"Estherine! There's a collapsing beast behind you!",
+			"Estherine! Behind you, Honkai Beast!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305243,
+			"Ugh...",
+			"啊！！！！！！！",
+			"きゃあ！！！！！！！",
+			"꺄아!!!!!!!!",
+			null,
+			null,
+			"Ah ！！！！！！！",
+			"Kya ！！！！！！！"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305244,
+			"*Bang!*",
+			"呯！",
+			"バンッ！",
+			"빵!",
+			null,
+			null,
+			"Ping!",
+			"Bang!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305245,
+			"Hey! Wait! I was just joking!",
+			"喂喂！等等！我是骗你的啦！",
+			"ちょっと！待ってってば！嘘だよ！",
+			"잠깐! 기다리라니까! 거짓말이야!",
+			null,
+			null,
+			"Hey, hey! Wait! I lied to you!",
+			"Hey! Hey! Wait! No, no, no, no, no, no, no, no, no, no, no, no, no!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305246,
+			"Help me!",
+			"救命啊！！！！",
+			"た、たすけてぇ～！！！",
+			"도, 도와줘요~!!!",
+			null,
+			null,
+			"Help ！！！！",
+			"Please help me!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305247,
+			"Sigh... She's gone. Whatever, let's just take that IBM thing back...",
+			"哎…逃掉了，算了，就让我们把刚才那台……",
+			"あ……逃げちゃった、ま、いっか。さっきのあのコンピューターを……。",
+			"아...... 도망쳤네, 뭐, 됐어. 아까 그 컴퓨터를.......",
+			null,
+			null,
+			"Hey ... escaped, forget it, let us put that just now ......",
+			"Oh ...... I ran away, oh well. That computer from earlier can be found at ......."
+		],
+		[
+			"msg",
+			305248,
+			"What? It's dropped on the ground and already broken.",
+			"啊…被她自己摔烂了啊。",
+			"あ……落ちた衝撃で壊れちゃってる。",
+			"아... 떨어진 충격으로 고장 났어.",
+			null,
+			null,
+			"Ah...broken by her own fall ah.",
+			"Oh ...... it's broken by the impact of the fall."
+		]
+	]
+}

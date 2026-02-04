@@ -1,0 +1,1136 @@
+{
+	"1065": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305614,
+			"Excuse me, do you have time? I have a favor to ask.",
+			"抱歉，你现在有时间么？我有一个委托想拜托你。",
+			"なあ、今時間あるか？あんたに依頼したいことがあるんだけど。",
+			"저기, 지금 시간 돼? 너한테 부탁하고 싶은 게 있는데.",
+			null,
+			null,
+			"Excuse me, do you have time now? I have a commission I'd like to ask you for.",
+			"Hey, you got a minute? I have a request for you."
+		],
+		[
+			"choice",
+			[
+				305615,
+				"I'm caught up with something now. Sorry.",
+				"抱歉，现在有点事。",
+				"ごめん、今ちょっと忙しくて。",
+				"미안, 지금 좀 바빠서.",
+				null
+			],
+			[
+				305616,
+				"It's ok. Should I find Seele instead?",
+				"好的，要去叫希儿么？",
+				"いいよ、ゼーレも呼ぶ？",
+				"좋아, 제레도 부를까?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1066,
+			1067
+		]
+	],
+	"1066": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305617,
+			"What's that you're up to? I bet you're assigned to a mission by Seele.",
+			"你能有什么事？反正又是被希儿那个家伙强行安排的任务吧？",
+			"何？どうせゼーレのやつに任務を押し付けられてるんだろ？",
+			"뭐? 어차피 제레 녀석에게 임무를 떠넘기고 있는 거지?",
+			null,
+			null,
+			"What can you be up to? Anyway, it's another mission forced by that Hillel guy, right?",
+			"What? You're being forced to go on a mission by that Seele guy anyway, aren't you?"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305618,
+			"Forget about the mission and help me. I'll explain to Seele for you.",
+			"那种任务不做也罢，先完成我的委托吧，希儿那边我会帮你去说明，感谢我吧~",
+			"そんな任務いいから、こっちの依頼を受けてくれないか？ゼーレには説明しておくからさ。",
+			"그런 임무 됐고, 이쪽 의뢰를 받아주지 않을래? 제레에게는 설명해 둘 테니까.",
+			null,
+			null,
+			"That kind of task do not do it, first complete my commission, Hier side I will help you to explain, thank me ~",
+			"I don't want that kind of assignment. Why don't you take this one? I'll explain it to Seele."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1068
+		]
+	],
+	"1067": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305619,
+			"Listen! Don't find that big mouth! It's just between us!",
+			"给我听着！千万不要去找那个好事的家伙！这是我们两个之间的秘密！",
+			"ダメ！よく聞いてくれ！絶対にあいつを呼んじゃダメだ！これは2人だけの秘密！いいか？",
+			"안 돼! 잘 들어 봐! 절대로 그 녀석을 부르면 안 돼! 이건 두 사람만의 비밀! 알겠지?",
+			null,
+			null,
+			"Listen to me! Don't ever go to that good-for-nothing guy! This is a secret between the two of us!",
+			"No! No! Listen to me! Don't ever call him! This is our secret! Okay?"
+		],
+		[
+			"msg",
+			305620,
+			"She can't help us anyway.",
+			"而且那个吵吵闹闹的家伙在反而会乱事！",
+			"それに……あのやかましいヤツは面倒を起こすだけだからな！",
+			"게다가…… 그 시끄러운 녀석은 말썽만 일으킬 뿐이니까!",
+			null,
+			null,
+			"And that noisy guy will mess things up instead!",
+			"Besides, ...... that noisy guy is just asking for trouble!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1068
+		]
+	],
+	"1068": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305621,
+			"Well, we should get going now. Our destination is the theme park area, which is very far away. Your job is to protect me. Understand?",
+			"既然你答应了委托那我们就赶紧出发吧，我们的目的地是游乐园地区，到那里还有很长一段路要走，你的任务就是保护我的安全，明白了么？",
+			"依頼、受けてくれる気になったか？だったら、急いで出発しよう。目的地は遊園地エリア……あそこに到着するまで護衛してくれ。",
+			"의뢰, 받아줄 마음이 생겼나? 그럼 서둘러 출발하자. 목적지는 유원지 에리어…… 거기에 도착할 때까지 호위해 줘.",
+			null,
+			null,
+			"Since you agreed to entrust that we should hurry up and go, our destination is the amusement park area, there is still a long way to go there, your task is to protect my safety, understand?",
+			"Are you ready to accept our request? Then let's hurry up and get going. Our destination is the amusement park area ...... and you will escort us until we arrive there."
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305622,
+			"Why do you hesitate? I'm your senior!",
+			"啧！你这副犹豫的表情是怎么回事？不听我的命令么？在这里我可是你的前辈啊！",
+			"な、なんだよ！その困った表情は！？私の命令が聞けないのか？ここでは一応先輩なんだからな！",
+			"뭐, 뭐야! 그 곤란한 표정은!? 내 명령을 들을 수 없나? 여기서는 일단 선배니까!",
+			null,
+			null,
+			"Tsk! What's with that hesitant look on your face? Don't you want to follow my orders? I'm your senior here!",
+			"Hey, what the hell! That troubled look on your face! Can't you listen to my orders? You're a senior here, after all!"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305623,
+			"Stop being sluggish. Let's go!",
+			"好啦！不要磨磨唧唧了，出发吧！",
+			"よし！グダグダしてないで出発しよう！",
+			"좋아! 지체하지 말고 출발하자!",
+			null,
+			null,
+			"All right! Let's not dilly-dally and let's go!",
+			"All right! Let's not dawdle, let's go!"
+		]
+	],
+	"1069": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305625,
+			"Keep going and we'll be at the entrance soon. Although Bronya has killed most of the Houkai creatures, it's still very dangerous inside. Stay alert.",
+			"再往前走就是游乐园的大门了，你给我打起精神，虽然之前布洛妮娅歼灭了大部分崩坏生物，但是里面仍然很危险，千万不要大意。",
+			"もう少し行くと遊園地のゲートだ。頑張ってくれ。以前ブローニャが大部分の崩壊生物を殲滅したとはいえ、中はまだとても危険だからな……絶対に油断するなよ。",
+			"조금 더 가면 유원지 게이트다. 힘내 줘. 이전에 브로냐가 대부분의 붕괴 생물을 섬멸했지만, 안은 아직도 매우 위험하니까…… 절대로 방심하지 마.",
+			null,
+			null,
+			"Further ahead is the gate of the amusement park, you give me the spirit, although before Bronya annihilated most of the collapsed creatures, but inside is still very dangerous, do not be careless.",
+			"A little further on is the gate to the amusement park. Good luck. Even though Bronya has eradicated most of the decaying organisms before, it's still very dangerous inside. ...... Never let your guard down."
+		],
+		[
+			"msg",
+			305626,
+			"Remember, your job is to protect me. Don't do something unnecessary like Seele. If you attract the creatures, we'll both die here. Got it?",
+			"记住，你的任务只是保护我，不要像希儿一样做多余的事情，要是迎来崩坏生物我们两可都得死在这里，听明白了么？",
+			"あとよーく覚えておけよ、今回の任務は私を守ること。それだけ。ゼーレみたいに余計なことはするなよ？大量の崩壊生物が来たら、2人ともここで死ぬことになるからな。",
+			"잘 기억해 둬, 이번 임무는 나를 지키는 것. 그게 전부야. 제레처럼 쓸데없는 일은 하지 마? 대량의 붕괴 생물이 오면, 둘 다 여기서 죽게 될 거니까.",
+			null,
+			null,
+			"Remember, your task is only to protect me, do not do superfluous things like Hill, if ushered in the collapse of creatures we both have to die here, you hear me?",
+			"Also, remember, your mission this time is to protect me. That's it. Don't do anything unnecessary like Seele did, okay? Because if a large number of disintegrating organisms arrive, we will both die here."
+		],
+		[
+			"choice",
+			[
+				305627,
+				"What's our mission?",
+				"我们的任务究竟是什么？",
+				"私たちの任務っていったい何なの？",
+				"우리 임무는 대체 뭐야?",
+				null
+			],
+			[
+				305628,
+				"Roger that!",
+				"明白了。",
+				"分かった。",
+				"알았어.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1070,
+			1071
+		]
+	],
+	"1070": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305629,
+			"Don't ask. It's a secret mission. You just follow my orders.",
+			"不要多问，这是一项机密任务。你只要服从命令就行了。",
+			"余計なことは聞くな。これは極秘任務なんだ。あんたはただ命令に従っていれば問題ない。",
+			"쓸데없는 건 묻지 마. 이건 극비 임무야. 넌 그냥 명령에 따르기만 하면 돼.",
+			null,
+			null,
+			"Don't ask too many questions, this is a classified mission. You just have to obey the order.",
+			"Don't ask me anything you don't know. This is a top secret mission. All you have to do is follow orders and you'll be fine."
+		],
+		[
+			"msg",
+			305630,
+			"Alright, let's begin. Remember what I said.",
+			"好了，开始吧。记住我刚才说的话。",
+			"よし、行こう。今、言ったこと忘れず覚えておけよ。",
+			"좋아, 가자. 방금 말한 것 잊지 말고 기억해 둬.",
+			null,
+			null,
+			"Okay, let's get started. Remember what I just said.",
+			"All right, let's go. Remember what I just said."
+		]
+	],
+	"1071": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305631,
+			"Nice answer. You just follow my orders, nothing else.",
+			"哼，不错的回答。你只要服从命令就行了，其他不需要多问。",
+			"よし、いい返事だ。ただ命令に従っていればいいからな。余計なことは聞かないでくれよ。",
+			"좋아, 좋은 대답이야. 그냥 명령에 따르기만 하면 돼. 쓸데없는 건 묻지 말라고.",
+			null,
+			null,
+			"Hm, nice answer. You just have to obey the orders, no need to ask much else.",
+			"Okay, good answer. Just follow my orders. Don't ask me any more questions than you have to."
+		],
+		[
+			"msg",
+			305632,
+			"If there's no problem, let's begin. Remember what I said.",
+			"没有问题就开始吧，记住我刚才说的话。",
+			"問題ないなら行こう！今、言ったこと忘れず覚えておけよ。",
+			"문제없다면 가자! 방금 말한 것 잊지 말고 기억해 둬.",
+			null,
+			null,
+			"Let's start if there are no questions, and remember what I just said.",
+			"If it's not a problem, let's go! Remember what I just said and don't forget it."
+		]
+	],
+	"1072": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305633,
+			"Everything here is trash! What's this place?",
+			"都没有一些像样点的东西留着么…啧！这OO的鸟不拉屎的地方！",
+			"くそっ！もう少しまともな物は残っていないのか……まったく！",
+			"젠장! 좀 더 제대로 된 게 남아있지 않아……정말!",
+			null,
+			null,
+			"Don't you have something decent to keep...tsk! This OO shithole!",
+			"Damn! Is there anything a little more decent left ...... at all!"
+		],
+		[
+			"choice",
+			[
+				305634,
+				"Are we treasure hunting?",
+				"这次也是寻宝么？",
+				"今回も宝探しなの？",
+				"이번에도 보물 찾기야?",
+				null
+			],
+			[
+				305635,
+				"Are we looking for bandages?",
+				"是来找绷带的么？",
+				"包帯を探しに来たの？",
+				"붕대를 찾으러 온 거야?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1073,
+			1074
+		]
+	],
+	"1073": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305636,
+			"It's more like a trash hunt! I'm not as dumb as Seele. I'm interested in this game.",
+			"寻个O的宝！我可不是那个蠢希儿，对这种过家家的游戏没兴趣！",
+			"宝探しなんかするわけないだろ。ゼーレと同列にしないでくれよな。そんなままごと遊び、興味ないんだから。",
+			"보물 찾기 같은 건 할 리가 없잖아. 제레와 동급으로 취급하지 마라. 그런 놀이 같은 건 흥미 없으니까.",
+			null,
+			null,
+			"Seek a treasure of O! I'm not the stupid Hill who's not interested in this game of housekeeping!",
+			"There's no way I'm going on a treasure hunt. Don't put me on the same level as Seele. I'm not interested in playing house like that."
+		],
+		[
+			"portraits",
+			[
+				55,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305637,
+			"I'm just looking for... You don't need to know.",
+			"我只是在找…找…咕！你不需要知道！",
+			"私はただ……あっ！よ、余計なことを聞くな！",
+			"나는 그저…… 앗! 야, 쓸데없는 질문은 하지 마!",
+			null,
+			null,
+			"I'm just looking...for...goo! You don't need to know!",
+			"I just went to ......! Yo, don't ask unnecessary questions!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1075
+		]
+	],
+	"1074": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				55,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305638,
+			"Bandages? Yes, and some medical items. Let's see if we can find something useful.",
+			"绷带？ 啊…嗯，对。差不多就是那种医疗用品，看看有没有留下什么有价值的东西。",
+			"包帯？あ……そうそう！そういう医療用品みたいなもの。何か役に立つ物はないかと思ってね！",
+			"붕대? 아…… 그래 그래! 그런 의료용품 같은 거. 뭐 쓸모 있는 게 없을까 해서 말이야!",
+			null,
+			null,
+			"Bandages? Ah...well, yeah. Pretty much the same kind of medical supplies to see if there's anything of value left behind.",
+			"Bandages? Oh ...... yes yes! Like those medical supplies. I just thought I'd see if I could find something useful!"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305639,
+			"I was bossed around by Seele, so I didn't search out anything. I want to try again.",
+			"之前被希儿那家伙耍的团团转，都没有好好找过，所以想再来看看。",
+			"この前はゼーレのやつがザッと見ただけで、よく探していなかっただろ。だから、もう少し探してみたくて。",
+			"이전에 제레 녀석이 대충 훑어보기만 하고 제대로 찾아보지 않았잖아. 그래서 좀 더 찾아보고 싶어서.",
+			null,
+			null,
+			"I was fooled by that guy Hill before and didn't even look for it properly, so I wanted to come back for a second look.",
+			"You know, the last time I looked, Seele's guy just zipped around and didn't look hard enough. So I wanted to look for some more."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1075
+		]
+	],
+	"1075": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305640,
+			"Don't waste time. We should check other places.",
+			"好了，不要浪费时间了，我们去其他地方找找看。",
+			"ほら、時間をムダにしない。他の場所も見てみよう。",
+			"자, 시간 낭비하지 말자. 다른 곳도 살펴보러 가자.",
+			null,
+			null,
+			"Well, let's not waste time, let's go look elsewhere.",
+			"See, we're not wasting time. Let's look at other places."
+		]
+	],
+	"1076": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305641,
+			"It's getting dark. Let's call it a day, although we found nothing.",
+			"今天只能到这里了么…天已经快黑了，果然是白费功夫么……",
+			"今日はここまでにしよう……もうじき日が暮れる。やっぱり無駄骨だったか……。",
+			"오늘은 여기까지 하자…… 곧 해가 질 거야. 역시 헛수고였나……",
+			null,
+			null,
+			"Today can only be here...the sky is almost dark, it is really a waste of effort ......",
+			"That's all for today. ...... The sun will be setting soon. I knew it was a wasted bone. ......"
+		],
+		[
+			"msg",
+			305642,
+			"I guess we should ask those kids for help.",
+			"哎…看来只能想办法怎么哄那些小鬼了……",
+			"あぁ……どうにかして、あのガキンチョをおだてるしか……。",
+			"아…… 어떻게든 저 꼬맹이를 구워삶아야……",
+			null,
+			null,
+			"Hey ... it seems that we can only think of ways to coax those little kids ......",
+			"Oh ......, we have to somehow coax that brat out of his ......."
+		],
+		[
+			"choice",
+			[
+				305643,
+				"I found a survival kit.",
+				"我找到了一个医药箱",
+				"薬箱を見つけたよ。",
+				"약상자를 찾았어.",
+				null
+			],
+			[
+				305644,
+				"I found a teddy bear.",
+				"我找到了一只玩具熊",
+				"テディベアを見つけたよ。",
+				"테디베어를 찾았어.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1077,
+			1078
+		]
+	],
+	"1077": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305645,
+			"A survival kit? I guess all the medication inside is out of date. It's useless.",
+			"医药箱么？这样啊…都过了这么久里面的药品应该都过期了吧，估计派不上什么用处。",
+			"薬箱？……これ、相当古いな。中の薬もきっと期限が切れているんじゃないか？おそらく使い物にならないだろう。",
+			"약상자?…… 이거 상당히 낡았네. 안에 든 약도 분명 유통기한 지났을 텐데? 쓸모 없을 거야.",
+			null,
+			null,
+			"Medical kit? So ah ... are so long after the medicine inside should be expired, it is estimated that it does not come in handy.",
+			"A medicine chest? ...... This is pretty old. I bet the meds inside are expired too. Probably useless."
+		],
+		[
+			"msg",
+			305646,
+			"There's no harm opening it. Maybe we can find...",
+			"算了，既然找到了还是打开看看吧，说不定里面有……",
+			"まぁ……見つけた以上は開けてみよう。もしかしたら中に……。",
+			"뭐…… 찾은 이상 열어보자. 혹시 안에…….",
+			null,
+			null,
+			"Forget it, since we found it or open it to see, maybe there is ......",
+			"Well, now that I found ......, let's open it. Maybe you can find ...... inside."
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305647,
+			"This is a teddy bear!",
+			"呜！这个是…玩具熊！",
+			"あ！こ、これは……テディベア！",
+			"아! 이, 이건…… 테디베어!",
+			null,
+			null,
+			"Whoo! This is...a teddy bear!",
+			"Ah! This is the ...... teddy bear!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1079
+		]
+	],
+	"1078": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305648,
+			"Teddy bear! Where did you find it?",
+			"玩具熊！你是在哪里找到的！",
+			"テディベア！？どこで見つけたの！",
+			"테디베어!? 어디서 찾은 거야!",
+			null,
+			null,
+			"Teddy Bear! Where did you find it!",
+			"A teddy bear! Where did you find that!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1079
+		]
+	],
+	"1079": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305649,
+			"Great! We found something useful at last! Today is not wasted!",
+			"太好了！终于找到有用的东西了！今天总算没有白忙活！",
+			"よかった！ようやく役に立つものが見つかった！これで無駄骨にならずにすんだ！",
+			"좋았어! 드디어 쓸 만한 걸 찾았어! 이제 허탕치지 않아도 되겠다!",
+			null,
+			null,
+			"Great! Finally found something useful! Today is not a waste of time!",
+			"Thank God!!! I finally found something useful! Now I don't have to waste my bones!"
+		],
+		[
+			"msg",
+			305650,
+			"It's a bit small and dirty, but it's in good condition. We just need to wash it and give it to them.",
+			"虽然小了点，不过保存的很好，就是有点脏，回去洗一下再给他们吧~",
+			"ちょっと小さいけど、でも保存状態は問題なし。汚れは帰って洗えばなんとなりそうだな！",
+			"좀 작긴 하지만, 보존 상태는 괜찮네. 얼룩은 돌아가서 빨면 될 것 같아!",
+			null,
+			null,
+			"Although a little smaller, but very well preserved, is a little dirty, go back to wash it and then give them ~",
+			"A little small, but still in good preservation condition. I guess I can deal with the stains if I go home and wash it!"
+		],
+		[
+			"msg",
+			305651,
+			"You are much more helpful than Seele.",
+			"哼哼哼~你这家伙没想到还蛮有用的嘛，比希儿靠谱多了！",
+			"フフフ～思った以上に役に立つじゃないか。ゼーレなんかよりよっぽど頼りになるな！",
+			"후후후~ 생각보다 유용하네. 제레 따위보다 훨씬 믿음직스러운걸!",
+			null,
+			null,
+			"Hum hum hum hum ~ you this guy did not expect to be quite useful well, more reliable than Hill!",
+			"You are more useful than I thought you would be. You're much more dependable than Seele!"
+		],
+		[
+			"msg",
+			305652,
+			"Today's mission is over. You did well, let's get back.",
+			"今天的任务完成了~你的表现不错，我们回去吧！",
+			"今日の任務は終了！あんたはよくやった。帰ろう！",
+			"오늘 임무 종료! 넌 잘했어. 돌아가자!",
+			null,
+			null,
+			"Today's mission is complete ~ you're doing well, let's go back!",
+			"Today's mission is over! You did good. Let's go home!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				true
+			],
+			[
+				59,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305653,
+			"Where did you go? I've been looking for you in the base for a day!",
+			"啊！你跑哪里去了？我在基地找了你半天！",
+			"あ！どこ行ってたの？基地でずっと探していたのよ！",
+			"아! 어디 갔었어? 기지에서 계속 찾고 있었단 말이야!",
+			null,
+			null,
+			"Ah! Where have you been? I searched for you at the base for half a day!",
+			"Ah! Where have you been? We've been looking for you all over the base!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				5,
+				false
+			],
+			[
+				59,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305654,
+			"Seele?",
+			"咕！希儿！？",
+			"ぐっ！ゼーレ！？",
+			"꽉! 제레!?",
+			null,
+			null,
+			"Goo! Shire!",
+			"Ggh! Seele!"
+		],
+		[
+			"msg",
+			305655,
+			"I asked her to go on a mission today. The mission is over, she's free now.",
+			"我今天拜托他一起去执行任务了，现在任务完成了，可以把人还给你了！",
+			"彼女に任務をお願いしたんだ。こっちは無事終わったから、お返しするよ。",
+			"그녀에게 임무를 부탁했어. 우리 쪽은 무사히 끝났으니 돌려줄게.",
+			null,
+			null,
+			"I asked him to go on a mission with me today, and now that the mission is complete, I can return the man to you!",
+			"I asked her to do a mission for me. This one went off without a hitch, so I'm giving it back to you."
+		],
+		[
+			"msg",
+			305656,
+			"Hey! The mission is top secret! Don't tell Seele! Or I won't be healing you next time when you're hurt!",
+			"喂！今天的任务可是机密！千万不能告诉希儿！不然下次受伤的时候小心一点！",
+			"いいか！今日の任務は秘密だからな！絶対にゼーレに教えるなよ！もし話したら……今度ケガした時に気をつけるんだな！",
+			"잘 들어! 오늘 임무는 비밀이야! 절대로 제레에게 말하지 마! 만약 말하면…… 다음에 다쳤을 때 조심해야 할 거야!",
+			null,
+			null,
+			"Hey! Today's mission is confidential! Don't tell Hill! Or be careful when you get hurt next time!",
+			"Listen up! Today's mission is a secret! Do not ever tell Seele! If you do, ...... watch out next time you get hurt!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				55,
+				5,
+				true
+			],
+			[
+				59,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305657,
+			"You're a healer! How can you say something like that?",
+			"喂！你这样威胁别人还是不是医务员啊！",
+			"ねえ！そうやって脅迫して、あなたそれでも医者なの！？",
+			"저기! 그렇게 협박을 하다니, 당신 그래도 의사야!?",
+			null,
+			null,
+			"Hey! You're still a paramedic for threatening people like that!",
+			"Hey! Threaten me like that, and you're still a doctor!"
+		],
+		[
+			"msg",
+			305658,
+			"She just ran away. Tell me what happened.",
+			"哼…居然跑掉了。那就由你来汇报一下究竟鬼鬼祟祟地干了什么好事呢~",
+			"……逃げられた。じゃあ、あなたから聞こうかしら……コソコソとどんなイイ事をしていたの？報告してくれるよね？",
+			"…… 도망쳤네. 그럼, 너부터 물어볼까…… 슬쩍슬쩍 무슨 좋은 일을 하고 있었어? 보고해 줄 거지?",
+			null,
+			null,
+			"Hmph...I can't believe I ran away. Then it's up to you to report on what you've been sneaking around doing~",
+			"I got away from ....... So let's hear it from you. ...... What goodies have you been sneaking around doing? You'll report back to me, won't you?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				59,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305659,
+			"Tell Seele what happened previously.",
+			"把经过与希儿说了一遍。",
+			"一部始終をゼーレに話した。",
+			"일부 전말을 제레에게 말했어.",
+			null,
+			null,
+			"Talked through the process with Shire.",
+			"I told Seele the whole story."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				59,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305660,
+			"Eh! They went out for a day to find just a teddy bear. And she made it like a big deal.",
+			"噗！搞了半天是出去找了一只玩具熊么！真是不老实的家伙，居然还一幅神神秘秘的样子~",
+			"プッ！長い時間出かけて、テディベア1つを見つけたってこと！？本当変なやつ！",
+			"풉! 오랜 시간 나가서 테디베어 하나를 찾았다는 거!? 정말 이상한 놈!",
+			null,
+			null,
+			"Pfft! After all, he went out to find a teddy bear! What a dishonest guy, actually still a mysterious look ~",
+			"Pfft! You mean you went out for a long time and found one teddy bear! Real weird one!"
+		],
+		[
+			"msg",
+			305661,
+			"Didn't you know the other identity of Emesa? She's responsible of taking care of the children in the base.",
+			"啊~你还不知道埃米沙的另一个身份吧？她是负责照顾基地里的小孩子们的保姆哦~",
+			"……あ、そっか。あなた、エミザのもう1つの肩書知ってる？彼女、基地内の子供の面倒も見てるのよ。いわゆる保母さんね。",
+			"…… 아, 그래. 너, 에미자의 또 다른 직함 알아? 그녀, 기지 내 아이들 돌봄도 봐주는 거야. 이른 보모 말이지.",
+			null,
+			null,
+			"Ah~ You don't know the other identity of Emesa, do you? She is responsible for taking care of the children in the base nanny Oh ~",
+			"...... Oh, I see. Do you know Emesa's other title? She also takes care of the kids on the base. She's what we call a nanny."
+		],
+		[
+			"msg",
+			305662,
+			"Why didn't you tell me you wanted to find some toys for the kids? If I had been with you, I would have gathered a sack of toys instead of one poor teddy bear.",
+			"想要给孩子们找玩具的话就早说嘛，如果我一起去的话一定给孩子们带一大包礼物回来！你们搞了半天才捡了一只玩具熊，太逊了~",
+			"きっと、子供たちのオモチャを探してあげてたのね。もう！だったら、そう言えばいいのに。私が一緒に行ってたら、もっと大きなプレゼントを見つけてたわよ！あなたたち1日がかりでテディベア1つとは……。",
+			"분명, 아이들 장난감을 찾아주고 있었던 거네. 정말! 그랬으면 그렇게 말하면 되잖아. 내가 같이 갔으면 더 큰 선물을 찾았을 거야! 너희들 하루 종일 테디베어 하나라니…….",
+			null,
+			null,
+			"If you want to find toys for the children, you should have said so, if I go together, I will bring back a big bag of gifts for the children! You guys only picked up a teddy bear after half a day, too lame ~",
+			"I bet he was looking for toys for the kids. Oh, God! Then why didn't you just say so? If I had gone with you, I would have found a bigger present! It took you guys all day to find one teddy bear. ......"
+		],
+		[
+			"msg",
+			305663,
+			"As punishment of absence from duty and mission failure, you have to come with me again tomorrow. I'll show you what I got.",
+			"作为擅自离守和任务失败的惩罚，明天就和我再跑一趟吧~让你见识一下我的厉害！",
+			"勝手に持ち場を離れたことと任務に失敗した罰として、明日は私と来てもらうわよ～！あなたに私のすごさを見せてあげる！",
+			"제멋대로 자리를 비운 것과 임무 실패한 벌로, 내일은 나와 함께 와야 해~! 너에게 내 대단함을 보여줄게!",
+			null,
+			null,
+			"As a punishment for leaving the guard without permission and failing in the mission, run with me again tomorrow ~ let you see my power!",
+			"As punishment for leaving your post without permission and failing your mission, you're coming with me tomorrow~! I will show you my awesomeness!"
+		]
+	]
+}

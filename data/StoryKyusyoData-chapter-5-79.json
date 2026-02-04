@@ -1,0 +1,1513 @@
+{
+	"1287": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			307923,
+			"Now it's my show.",
+			"既然到了学园都市那就轮到我表现的时候了。",
+			"学園都市に着いたのなら私の出番だ。",
+			"학원 도시에 도착했다면 내 차례야.",
+			null,
+			null,
+			"Now that I'm in Academy City, it's my turn to shine.",
+			"If you've arrived in the school city, it's my turn."
+		],
+		[
+			"msg",
+			307924,
+			"We're now in the connection part of the Academic City and the bridge, the way ahead is the Gakuen Avenue, with three schools around, Senba High is in the north part.",
+			"我们现在的位置在学园都市与海湾大桥的连接处，前面这条主道路就是学园大道，周围分部着学园都市的三所学园，而千羽学园则在最北部。",
+			"今いる場所は、学園都市とベイブリッジの接続地点だ。この先の大きな道路が学園ストリート。周囲には学園都市の学校が3校点在している。そして、千羽学園は一番北にあるんだ。",
+			"지금 위치는 학원 도시와 베이브리지 연결 지점이야. 앞쪽의 큰 도로가 학원 스트리트고, 주변에 학원 도시 소속 학교 3개가 위치해. 센바 학원은 가장 북쪽에 있지.",
+			null,
+			null,
+			"Our current location is at the connection between Gakuen City and the Bay Bridge, and this main road in front of us is Gakuen Avenue, around which are divided the three academies of Gakuen City, while Chihaya Academy is in the far north.",
+			"Where you are now is the connection between School Street and the Bay Bridge. The large road ahead of you is School Street. There are three schools scattered around the city. And Senba School is the northernmost one."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			307925,
+			"Ah!",
+			"咳咳！",
+			"ゴホッ、ゴホッ！",
+			"콜록, 콜록!",
+			null,
+			null,
+			"Ahem!",
+			"Gosh, gosh!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307926,
+			"Hey! Himeko!",
+			"喂！姬子！",
+			"おい！姫子！",
+			"야! 히메코!",
+			null,
+			null,
+			"Hey! Himeko!",
+			"Hey! Himeko!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307927,
+			"I'm ok…keep going.",
+			"我没事…你继续。",
+			"大丈夫……続けて。",
+			"괜찮아... 계속해.",
+			null,
+			null,
+			"I'm fine...you go ahead.",
+			"It's okay ...... keep going."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307928,
+			"Ok…there're two ways to Senab high, one is along the Gakuen Avenue to go through the center of the city, which is further.",
+			"好吧…想要前往千羽学园有两条道路，一条是沿着学园大道穿过学园都市的中心区域，相对较远。",
+			"分かった……千羽学園に行く道は2つある。1つは学園ストリート沿いに学園都市の中心エリアを通り抜ける道だ。ちょっと遠回りだけどな。",
+			"알겠어... 센바 학원에 가는 길은 두 가지가 있어. 하나는 학원 스트리트를 따라 학원 도시의 중심 에어리어를 통과하는 길이야. 좀 돌아가는 길이지만.",
+			null,
+			null,
+			"Well...there are two ways to get to Chihaya Gakuen, one is along Gakuen Avenue through the central area of Gakuen City, which is relatively far away.",
+			"Ok, ...... there are two ways to get to Senba Academy, one is along Academy Street through the central area of the school city. It's a bit of a detour."
+		],
+		[
+			"msg",
+			307929,
+			"The other one is along the coastline, no need to go through the downtown, but it's also close to the residential area, so there can have lots of Honkai creatures .",
+			"另外一条是沿着海岸线的海滨大道从学园都市外圈前往，可以不用经过城区，不过那里靠近学园都市的生活区，也就是说崩坏生物的数量可能会多不少。",
+			"もう1つは海岸線のベイストリート沿いに学園都市の外側から行く道だ。街中を通る必要はないが、学園都市の住宅エリアに近い。つまり、崩壊生物の数がかなり多いかもしれないってことだ。",
+			"또 하나는 해안선의 베이 스트리트를 따라 학원 도시의 바깥쪽에서 가는 길이야. 시내를 통과할 필요는 없지만 학원 도시의 주택 에어리어에 가까워. 즉, 붕괴 생물의 수가 상당히 많을지도 모른다는 거지.",
+			null,
+			null,
+			"The other is along the coastline of the seaside avenue from the outer circle of the academy city to get there without going through the city, but it is close to the living area of the academy city, which means that the number of collapsed creatures may be quite a bit more.",
+			"The other way is to go from outside the school city along Bay Street on the coastline. It doesn't have to go through the city, but it is closer to the residential areas of the school city. That means the number of decay organisms could be quite high."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307930,
+			"So we need to pick one……what's your opinion?",
+			"看来得挑一条合理的路线……你有什么想法么？",
+			"慎重にルートを選ばないといけないみたいね……何か考えはあるの？",
+			"신중하게 루트를 선택하지 않으면 안 될 것 같네... 무슨 생각이라도 있어?",
+			null,
+			null,
+			"Looks like you have to pick a reasonable route ...... Do you have any ideas?",
+			"Looks like I need to choose my route carefully. ...... Any ideas?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307931,
+			"For me……the coastline is better, it might have some risks, but its path is broader, easier for a fight.",
+			"我的话……比较建议走海滨大道，虽然的确会有危险，不过那里道路比较宽阔，比较容易战斗。",
+			"私は……ベイストリートから行く方がいいと思う。確かに危険はあるが、あそこの道路は広いし、戦いやすいはずだ。",
+			"나는... 베이 스트리트에서 가는 편이 좋을 것 같아. 확실히 위험은 있지만, 저곳의 도로는 넓고 싸우기 쉬울 거야.",
+			null,
+			null,
+			"My word ...... is more recommended to take the promenade, although it will indeed be dangerous, but there the road is wider and easier to fight.",
+			"I would prefer to go from ...... Bay Street. Yes, there are dangers, but the streets there are wide and should be easier to fight."
+		],
+		[
+			"msg",
+			307932,
+			"Gakuen Avenue is in the center of the city, the environment is more complicated, might not be easy as well.",
+			"学园大道处于学园都市中心地带，那边环境比较复杂，也未必会轻松多少。",
+			"学園ストリートは学園都市の中心部に位置していて、地形も複雑だし、楽な道じゃないと思う。",
+			"학원 스트리트는 학원 도시의 중심부에 위치해 있고, 지형도 복잡하고, 편한 길이 아닌 것 같아.",
+			null,
+			null,
+			"Gakuen Avenue is in the heart of Gakuen Metropolis, and the environment there is more complex and not necessarily much easier.",
+			"School Street is located in the center of the school city, the terrain is complex, and I don't think it's an easy road."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307933,
+			"Ok, then let's go for the coastline, go.",
+			"好吧，既然这样就听你的，走吧。",
+			"いいわ。それならあなたの言う通りにしましょう。行くわよ。",
+			"좋아. 그럼 네 말대로 하자. 갈게.",
+			null,
+			null,
+			"Well, in that case do as you say and let's go.",
+			"OK. Then I'll do as you say. Let's go."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307934,
+			"Wait! Don't you rest for a bit more?",
+			"等等！你不多休息一下么？",
+			"待った！もう少し休まなくていいのか？",
+			"잠깐! 좀 더 쉬지 않아도 괜찮은 거야?",
+			null,
+			null,
+			"Wait! Don't you want to rest more?",
+			"Wait a minute! Don't you need a little more rest?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307935,
+			"The Honkai energy here is very thick, we can't stay long. You also want to quickly solve the Herrscher and go back ealier?",
+			"这里的崩坏能浓度很高，不宜久留。你们也想赶紧解决掉律者回去吧？",
+			"ここの崩壊エネルギー濃度は高いわ、長居は無用よ。あなたたちもパパッと律者を始末して帰りたいでしょ？",
+			"여기의 붕괴 에너지 농도는 높아, 오래 머무르는 건 무의미해. 너희들도 얼른 율자를 처리하고 돌아가고 싶겠지?",
+			null,
+			null,
+			"The concentration of collapse energy here is very high, so it is not advisable to stay here for a long time. You also want to get rid of the Ruler and go back, right?",
+			"The concentration of disintegrating energy is high here. Don't stay long. You guys want to get rid of the scribes and be on your way, don't you?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307936,
+			"I won't laugh at your joke.",
+			"你现在说这个笑话我可一点也笑不出来。",
+			"そんな簡単に倒せるもんじゃないだろ、律者は。",
+			"그렇게 쉽게 쓰러뜨릴 수 있을 리 없잖아, 율자는.",
+			null,
+			null,
+			"I can't laugh at this joke you're telling right now.",
+			"It's not that easy to beat the scribes."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				5,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307937,
+			"Huh, then you guys stay here, I will go first to take a look.",
+			"哼，那你们就在这里休息一会，我先去前面侦查一下。",
+			"フンッ、だったら、あなたたちはここで少し休んでいなさい。私はこの先を偵察してくるわ。",
+			"흥, 그럼 당신들은 여기서 좀 쉬고 있어. 나는 앞을 정찰하고 올게.",
+			null,
+			null,
+			"Hm, then you guys rest here for a while, I'll go ahead and scout it out.",
+			"Hmph, then you guys stay here and rest a bit. I'm going to scout ahead."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				5,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307938,
+			"Ah…fine fine! Go go go! I can't let you walk alone.",
+			"哎…好吧好吧！走走走！我可不敢放你一个人乱跑。",
+			"あぁっもう……分かったよ！行くよ！あんた1人だけに行かせるわけにいかないからな。",
+			"아아 진짜... 알겠어! 갈게! 당신 혼자만 보낼 수는 없으니까.",
+			null,
+			null,
+			"Hey...okay okay! Go go go! I wouldn't dare let you wander off on your own.",
+			"Oh my god, ...... I get it! I'm coming! I can't let you go alone."
+		]
+	],
+	"1288": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			307939,
+			"The coastline is almost a straight line, if there're no other accidents one hour should be enough for us.",
+			"沿着海滨大道前往千羽学园基本就是一直线的道路，如果没有意外的话一个多小时应该可以到达了。",
+			"ベイストリート沿いに千羽学園へ行く道は基本的に直線道路だ。特に何もなければ、1時間ちょっとで辿り着けるだろう。",
+			"베이스트리트를 따라 센바 학원으로 가는 길은 기본적으로 직선 도로야. 특별히 아무 일도 없다면 1시간 조금 넘게 도착할 수 있을 거야.",
+			null,
+			null,
+			"It is basically a straight line along the beach road to Chihaya Academy, and if there is no accident it should take an hour or so to get there.",
+			"The road along Bay Street to Senba Academy is basically a straight road. If nothing else, it will take you a little over an hour to get there."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			307940,
+			"Yes, it is a stright line from the map.",
+			"嗯，从地图上来看的确是一直线的道路。",
+			"うん、確かに地図で見ると直線道路で間違いなさそうね。",
+			"응, 확실히 지도로 보면 직선 도로로 틀림없을 것 같네.",
+			null,
+			null,
+			"Well, it does look like a straight line of road from the map.",
+			"Yeah, it sure looks like a straight road on the map."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307941,
+			"Why? You don't trust me?",
+			"怎么了？你是不相信我么？",
+			"何だ？信じられないのか？",
+			"뭐야? 믿을 수 없어?",
+			null,
+			null,
+			"What's wrong? Do you not believe me?",
+			"What is it? You don't believe me?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307942,
+			"Common sense can't be trusted in a Honkai environment, it's a principle from Grey Moths.",
+			"在崩坏的环境中往往常识是无法信赖的，这是灰蛾部队的经验法则。",
+			"崩壊の環境下では、常識なんて信じられないのよ。これは灰蛾部隊の経験則なの。",
+			"붕괴 환경 아래에서는 상식 따윈 믿을 수 없어. 이건 회아 부대의 경험칙이야.",
+			null,
+			null,
+			"Often common sense cannot be trusted in a crumbling environment, a rule of thumb for the Grey Moth forces.",
+			"In an environment of collapse, you just can't believe in common sense. This is the rule of thumb for the Ash Moth Unit."
+		],
+		[
+			"msg",
+			307943,
+			"Take these markers, mark along the way, just in case we get lost.",
+			"把这些标识物拿着，在途径的地方标记上，以免迷失方向。",
+			"このマーカーを受け取って。方向を見失わないように途中で目印をつけるのよ。",
+			"이 마커를 받아. 방향을 잃지 않도록 중간에 표시를 남겨둘게.",
+			null,
+			null,
+			"Take these markers and mark the pathways to avoid getting lost.",
+			"Take this marker. Mark the way so you don't lose your bearings."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307944,
+			"It is foggy here, but not to the extend that we'll get lost?",
+			"这里的能见度的确很低，但也没到会迷路的程度吧？",
+			"確かに視界は悪いけど、迷子になるほどじゃないだろ？",
+			"확실히 시야는 나쁘지만 길을 잃을 정도는 아니잖아?",
+			null,
+			null,
+			"The visibility here is indeed very low, but it's not so low that you can get lost, right?",
+			"Sure, visibility is bad, but not bad enough to get lost, right?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307945,
+			"Stay here if you don't listen to me.",
+			"不服从命令的话就在这里呆着。",
+			"命令に従わないなら、ここに残ってもらうわよ？",
+			"명령에 따르지 않는다면, 여기에 남겨둘 거야?",
+			null,
+			null,
+			"Stay here if you don't obey orders.",
+			"If you don't follow orders, you'll have to stay here, okay?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307946,
+			"Damn……",
+			"可恶……",
+			"はいはい……。",
+			"알겠어…….",
+			null,
+			null,
+			"Damn ......",
+			"Yes yes yes ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307947,
+			"Kyushou, please tell Emesa about how to use the markers, you're also part of Grey Moths, let her understand the principles of surviving Honkai.",
+			"九霄，标识物的使用方法就由你告诉埃米沙吧，你也算是灰蛾部队的一员了，就让她明白崩坏世界的生存准则吧。",
+			"九霄、マーカーの使い方をエミザに教えてあげて。あなたも灰蛾部隊の一員なんだから、彼女に崩壊世界で生存するすべを教えてあげなさい。",
+			"큐쇼, 에미자에게 마커 사용법 좀 가르쳐줘. 너도 회아부대 일원이니만큼, 붕괴세계에서 살아남는 법을 가르쳐야지.",
+			null,
+			null,
+			"Kyuushou, the use of the marker will be you tell Emesa, you are also considered a member of the Grey Moth Force, let her understand the survival code of the collapsed world.",
+			"Kyuushou, teach Emesa how to use the marker. Since you are also a member of the Ash Moth Unit, teach her how to survive in a collapsing world."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307948,
+			"Himeko, so arrogant……",
+			"混蛋姬子，一副了不起的样子……",
+			"バカ姫子、偉そうにしちゃって……。",
+			"바카히메코, 잘난 척 하네…….",
+			null,
+			null,
+			"Bastard Himeko, a great look ......",
+			"Silly princess, I'm so proud of you. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307949,
+			"Remember, teamwork, make sure others are in your sights within 50m, watch out, don't fall behind.",
+			"记住，注意团队协调，保证其他人都在视线范围内不超过50米，注意警惕周围，不要掉队。",
+			"いい？チームワークを心がけるのよ。他の人が視界の50メートル以内に入るようにすること。周囲を警戒しつつ、隊列から遅れないこと。",
+			"잘 들어. 팀워크가 가장 중요해. 다른 팀원들이 시야 50미터 반경 안에 들어오도록 유지하고, 주변 경계하면서도 대열에서 떨어지지 않도록.",
+			null,
+			null,
+			"Remember, pay attention to team coordination, make sure everyone else is within sight no more than 50 meters, be alert around and don't fall out of line.",
+			"Okay? Keep teamwork in mind. Keep others within 50 meters of your line of sight. Be alert to your surroundings, but do not lag behind the formation."
+		]
+	],
+	"1289": [
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307950,
+			"Wait…something wrong……",
+			"等下…有点不对……",
+			"ん？待った……何かおかしい……。",
+			"음? 잠깐... 뭔가 이상한데.......",
+			null,
+			null,
+			"Wait...something's not right ......",
+			"Hmm? Wait ...... something is wrong ......."
+		],
+		[
+			"msg",
+			307951,
+			"Here is the center area…but we were walking along the coastline! How come!?",
+			"这里是学园都市的中心区域…我们明明是沿着海滨大道前进的！怎么会到这里！？",
+			"ここは学園都市の中心エリアだ……どういうことだ！？ベイストリート沿いに進んでいたはずなのに！一体、何が！？",
+			"여긴 학원도시 중심구역이잖아... 대체 어떻게 된 거야!? 분명 베이스트리트를 따라 이동 중이었는데! 이게 무슨 상황이지!?",
+			null,
+			null,
+			"This is the central area of Academy City...we were clearly heading along the waterfront boulevard! How did we get here!",
+			"This is the central area of the school district ...... What the hell is going on! We were supposed to be going along Bay Street! What the hell is going on!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307952,
+			"You finally find out?",
+			"你终于也发现了么？",
+			"やっぱりね。",
+			"역시 그렇군.",
+			null,
+			null,
+			"Did you finally find out too?",
+			"I knew it."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307953,
+			"Impossible! Even we take the wrong roads it shouldn't be so off the track!",
+			"这不可能啊！就算是走错了路也不会偏这么多距离！",
+			"ありえない！道を間違えたとしても、こんな遠く離れるなんてこと絶対ない！",
+			"말이 안 돼! 길을 잘못 들었다 해도 이렇게까지 벗어날 리가 없어!",
+			null,
+			null,
+			"This can't be! Even if it's the wrong way, it won't be off by this much distance!",
+			"It's impossible! Even if I took a wrong turn, I would never leave this far away!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307954,
+			"Reality distortion, this happens a lot in Honkai area.",
+			"现实扭曲立场，这是在崩坏区域经常发生的事情。",
+			"現実歪曲フィールドよ。これは崩壊エリアではよくあることなの。",
+			"현실왜곡 필드야. 붕괴지역에선 흔히 발생하는 현상이지.",
+			null,
+			null,
+			"Reality distorts positions, something that often happens in collapse zones.",
+			"It's a reality distortion field. This is common in collapsed areas."
+		],
+		[
+			"msg",
+			307955,
+			"Under the influence by Honkai energy, the space here is distorted, that's why we walk to here.",
+			"在崩坏能的影响下这个区域的空间已经发生了扭曲，所以我们才会走到本不该出现的地方。",
+			"崩壊の影響によって、このエリアの空間に歪みが生じたのよ。だから、私たちは目的と違う場所に来てしまった。",
+			"붕괴의 영향으로 이 지역 공간에 왜곡이 발생한 거야. 그래서 원래 목적지와 다른 곳에 도착하게 된 거고.",
+			null,
+			null,
+			"The space in this area has been distorted under the influence of collapse energy, which is why we have gone where we should not have been.",
+			"The collapse has distorted the space in this area. So we came to a different place than we intended."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307956,
+			"How come…then how can we find Senbai High?",
+			"怎么会这样…那这么说的话我们要怎么找到千羽学园？",
+			"どうしてそんな……それじゃあ、どうやって千羽学園を見つけりゃいいんだ！？",
+			"왜 그런…… 그럼 대체 어떻게 센바 학원을 찾으란 거야!?",
+			null,
+			null,
+			"How can this be...then how are we going to find Chihaya Gakuen in that case?",
+			"Why such a ...... then how am I supposed to find Senba Academy!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307957,
+			"Space distortion has no rules, hope we can have some luck.",
+			"空间扭曲没有规律性可言，一旦陷入其中只能凭运气了。",
+			"空間の歪曲の中に規則性はないわ。一度その中に入ってしまったら、運に身を任せるしかないわね。",
+			"공간의 왜곡 속에 규칙성은 없어. 한번 그 안에 들어가 버리면, 운에 몸을 맡길 수밖에 없지.",
+			null,
+			null,
+			"There is no regularity in spatial distortion, once caught in it can only rely on luck.",
+			"There's no regularity in the distortions of space. Once you're inside of it, you're just going to have to let luck take its course."
+		],
+		[
+			"msg",
+			307958,
+			"But to avoid this, our markers are useful, that's why we get out of danger previously in Grey Moths.",
+			"不过为了减少这种情况的发生，我们之前放置的路标才会起到作用，这也是灰蛾部队能一次次脱身而出的关键。",
+			"こんな事態に陥った時のために、私たちはマーカーを置いているの。このマーカーは灰蛾部隊を何度も救ってきた鍵なのよ。",
+			"이런 사태에 빠졌을 때를 위해, 우리는 마커를 놓고 있는 거야. 이 마커는 회아 부대를 몇 번이고 구해낸 열쇠라고.",
+			null,
+			null,
+			"But to reduce this, the road signs we placed earlier are what will work, and this is the key to getting the Grey Moth troops out of the way time and time again.",
+			"We keep a marker in place in case we find ourselves in a situation like this. This marker is the key that has saved the Ash Moth Unit many times."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307959,
+			"Grey Moths…so this kind of thing happens a lot?",
+			"灰蛾部队…这种事情都是家常便饭么？",
+			"灰蛾部隊にとって……これは日常茶飯事なことなの？",
+			"회아 부대에게…… 이건 일상다반사인 거야?",
+			null,
+			null,
+			"Grey Moth Force...is this kind of thing a regular occurrence?",
+			"Is ...... this a daily occurrence for the Ash Moth Unit?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307960,
+			"You can't say that, even small-scale space distortion occurred to us a lot, but it's the first time we see such a large distorted area.",
+			"也不能这么说，虽然小范围的空间扭曲经常遇到，但是像学园都市这么大的区域都遭到影响的情况这还是第一次。",
+			"そうでもないわ。小範囲の空間歪曲はしょっちゅうだけど、学園都市のような大きなエリア全体が影響を受けるなんて初めてよ。",
+			"그렇지도 않아. 소범위의 공간 왜곡은 자주 있지만, 학원 도시 같은 큰 에어리어 전체가 영향을 받는 건 처음이야.",
+			null,
+			null,
+			"You can't say that, although small spatial distortions are often encountered, but this is the first time that an area as large as Academy City has been affected.",
+			"Not really. Small areas of spatial distortion happen all the time, but never before has an entire area as large as a school city been affected."
+		],
+		[
+			"msg",
+			307961,
+			"Emesa, are you familiar with this area?",
+			"埃米沙，这个附近的区域你熟悉么？",
+			"エミザ、この辺のエリアには詳しいかしら？",
+			"에미자, 이 근처 에어리어에는 잘 알고 있니?",
+			null,
+			null,
+			"Emesa, are you familiar with this neighborhood?",
+			"Emesa, are you familiar with this area?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307962,
+			"Yes…this is the commercial area near Tachikawa High, we still need to go towards the north to Senbai.",
+			"嗯…这是位于立川学园附近的商业区，如果我们要到千羽学园的话还是往北走。",
+			"ああ……ここは立川学園近くの商業エリアだ。千羽学園に行くには、このまま北上すればいい。",
+			"아아…… 여긴 다치카와 학원 근처의 상업 에어리어야. 센바 학원에 가려면, 이대로 북상하면 돼.",
+			null,
+			null,
+			"Well...this is the business district located near Tachikawa Gakuen, if we want to go to Chihaya Gakuen we'd better go north.",
+			"Oh ...... this is a commercial area near Tachikawa Gakuen. To get to Senba Gakuen, just keep going north."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307963,
+			"Ok, let's keep going.",
+			"嗯，那我们就还是按照千羽学园的方向前进吧。",
+			"よし、では千羽学園を目指して進みましょう。",
+			"좋아, 그럼 센바 학원을 목표로 전진하자.",
+			null,
+			null,
+			"Well, let's just follow the direction of Chihaya Gakuen then.",
+			"All right, then, let's proceed toward Senba Academy."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307964,
+			"Wait! If the space is distorted then the direction might not work……",
+			"等下！既然空间都已经扭曲了就算方向对也未必能……",
+			"お、おい！でも空間が歪曲してるんなら、方向が正しくても……。",
+			"어, 어이! 하지만 공간이 왜곡되어 있다면, 방향이 정확해도…….",
+			null,
+			null,
+			"Wait a minute! Since the space has been distorted even if the direction is right may not be ......",
+			"Oh, hey! But if the space is distorted, even if the direction is correct, you can still go to ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307965,
+			"When everything can't be trusted trying will be the most reliable clue, this is also the experience from Grey Moths.",
+			"当一切都无法信任的时候尝试会变成最可靠的线索，这也是灰蛾部队的经验法则。",
+			"何もかも信じられない時は、最も可能性のある手がかりを試してみるの。これも灰蛾部隊の経験則よ。",
+			"아무것도 믿을 수 없을 땐, 가장 가능성 있는 단서를 시험해 보는 거야. 이 또한 회아 부대의 경험칙이지.",
+			null,
+			null,
+			"When nothing can be trusted trying becomes the most reliable clue, and that is the rule of thumb for the Grey Moth forces.",
+			"When you don't believe everything, try the most likely clues. That's another rule of thumb for the Ash Moth Unit."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307966,
+			"What…I can't understand you……",
+			"什么乱七八糟的…我已经越来越无法理解你的脑回路了……",
+			"メチャクチャだな……ますます、あんたの思考回路が理解できなくなってきた……。",
+			"엉망진창이군…… 점점, 당신의 사고 회로를 이해할 수 없게 돼 버렸어…….",
+			null,
+			null,
+			"What a mess...I have become increasingly unable to understand your brain circuit ......",
+			"You're messed up. ...... More and more, I'm having trouble understanding your thought process. ......"
+		]
+	],
+	"1290": [
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307967,
+			"So……This time we're in another place again.",
+			"果然……这次又走到别的地方了。",
+			"やっぱり……また他の場所に出ちまったな。",
+			"역시…… 또 다른 장소로 나와 버렸군.",
+			null,
+			null,
+			"Sure enough ...... went somewhere else this time.",
+			"I knew it. ...... I guess I'm elsewhere again."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307968,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307969,
+			"What's wrong Himeko? Uncomfortable?",
+			"怎么了姬子？哪里不舒服么？",
+			"姫子、どうした？どこか具合が悪いのか？",
+			"히메코, 왜 그래? 어디 몸이 안 좋아?",
+			null,
+			null,
+			"What's wrong, Himeko? Are you uncomfortable?",
+			"Himeko, what's wrong? Is something wrong with you?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307970,
+			"No, I'm just thinking, if we can find the border of the distorted space we will know the rules.",
+			"没有，我只是在思考刚才经过的几个区域，如果能找到空间扭曲的边界就能找到一定的规律。",
+			"いいえ、さっき通ったいくつかのエリアのことを考えていただけよ。空間歪曲の境目を探し出せれば抜け出すヒントを見いだせるから。",
+			"아니, 방금 지나온 몇몇 구역에 대해 생각하고 있었을 뿐이야. 공간 왜곡의 경계를 찾아내면 탈출할 힌트를 찾을 수 있으니까.",
+			null,
+			null,
+			"No, I was just thinking about the few areas I just passed through, and if I can find the boundaries of the spatial distortion I can find a certain pattern.",
+			"No, I was just thinking about some of the areas we just passed. If we can find the boundaries of the spatial distortion, we can find a way out."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307971,
+			"Rules?",
+			"规律？",
+			"境目？",
+			"경계?",
+			null,
+			null,
+			"Regularity?",
+			"Boundary?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307972,
+			"The range of distorted space is like a puzzle, the basic areas are complete, but crossing the border will lead to another part, so if we know those borders we can identify the areas in the map, and try to find the solution.",
+			"空间扭曲的范围就像一个拼图一样，有最基本的区域块是完整的，但是跨过区域块的边界就会链接到另一个被扭曲的区域块中，所以只要能找到那些区域块的边界就能大致把地图上的区域表示出来，然后尝试找出出口。",
+			"空間歪曲はジグソーパズルみたいなもの。一つひとつのピースがあって、その境目を越えると別のピースにつながってしまう。だから、その境目を探し出せれば、大まかなエリアを描くことができて出口を探せるのよ。",
+			"공간 왜곡은 직소 퍼즐 같은 거야. 하나하나의 조각이 있고, 그 경계를 넘으면 다른 조각으로 연결되어 버려. 그래서 그 경계를 찾아내면 대략적인 구역을 그릴 수 있고 출구를 찾을 수 있는 거지.",
+			null,
+			null,
+			"The extent of the spatial distortion is like a puzzle, there are the most basic blocks of areas that are intact, but crossing the boundaries of the area blocks will link to another distorted area block, so as long as you can find the boundaries of those area blocks you can roughly represent the area on the map and then try to find the exit.",
+			"Spatial distortion is like a jigsaw puzzle. There are individual pieces, and when you cross the boundary between them, they lead to another piece. So if you can find that boundary, you can draw a rough area and find a way out."
+		],
+		[
+			"msg",
+			307973,
+			"But this has method has much randomness, it will take lots of time to find all the parts, previously Grey Moths stayed more than 1 week using this method.",
+			"但这个方法的随机性很高，要找齐所有的区域块会花费很多时间，之前用到这个方法的时候灰蛾部队在扭曲空间中足足徘徊了一个星期左右。",
+			"けど、この方法は不確定要素が多いから、全てのピースを集めるのにとても時間がかかるわ。以前この方法を使った時、灰蛾部隊は歪曲空間の中を1週間くらい彷徨い続けてるの。",
+			"하지만 이 방법은 불확정 요소가 많아서 모든 조각을 모으는 데엔 시간이 꽤 걸려. 이전에 이 방법을 썼을 땐 회색나방 부대가 왜곡 공간 안에서 일주일 정도 방황했었어.",
+			null,
+			null,
+			"But the randomness of this method is very high, to find all the area blocks will take a lot of time, the previous use of this method when the gray moth troops wandered in the twisted space for a full week or so.",
+			"But this method takes so long to gather all the pieces because there are so many uncertainties. When I've used this method before, the ash moth unit has been wandering around in distorted space for about a week."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307974,
+			"And……we don't have much time!",
+			"这……我们哪有这么多时间来寻找啊！",
+			"なっ……そんなのんびり探してる時間はないだろ！",
+			"뭐…… 그렇게 느긋하게 찾을 시간이 없다고!",
+			null,
+			null,
+			"This ...... where we have so much time to find!",
+			"Nah...... you don't have time to search that leisurely!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307975,
+			"So we need your help Emesa, thanks to you this time.",
+			"所以得需要你的帮助埃米沙，这次幸亏有你在。",
+			"だから、あなたの協力が必要なの、エミザ。今回はあなたがいてくれてよかったわ。",
+			"그래서 네 협력이 필요한 거야, 에미자. 이번엔 네가 있어 줘서 정말 다행이야.",
+			null,
+			null,
+			"So gotta need your help Emesa, this time thankfully you are there.",
+			"That's why I need your help, Emesa. I'm glad you were there this time."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			307976,
+			"Eh!? Why?",
+			"诶！？为什么忽然说这个！",
+			"はぁっ！？きゅ、急にそんなこと言ってどうした！？",
+			"하아!? 갑자기 그런 말을 하면 어떻게 해!?",
+			null,
+			null,
+			"Eh! Why do you suddenly say this!",
+			"Huh! Kyu, what's wrong with you suddenly saying that!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			307977,
+			"Because you're the one who familiar with the place most, when the environment changes you can quickly notice where the border is, this will save much time.",
+			"因为你是最熟悉这里的人，当环境发生变化的时候能立刻注意到区域块的边界，这样可以节约不少时间。",
+			"あなたが一番ここに詳しいからよ。周囲の環境に変化が生じた時、すぐにピースの境目に気付けるでしょ。それなら、かなりの時間を節約できるわ。",
+			"네가 여기를 가장 잘 알잖아. 주변 환경에 변화가 생기면 바로 조각의 경계를 눈치챌 수 있으니까. 그럼 상당한 시간을 절약할 수 있지.",
+			null,
+			null,
+			"Because you are the one who knows the place best, you can immediately notice the boundaries of the area blocks when the environment changes, which saves a lot of time.",
+			"Because you know this place better than anyone. You'd immediately recognize the boundaries of the piece when changes occur in the surrounding environment. That will save you a lot of time."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			307978,
+			"That…that's right! Ok! I will do it!",
+			"这…这样啊！没问题！交给我吧！",
+			"そ……そういうことか！大丈夫！任せろっ！",
+			"그...그런 거였어! 괜찮아! 맡겨둬!",
+			null,
+			null,
+			"That's...so! No problem! Leave it to me!",
+			"So ...... that's what you're talking about! I got it! I got it!"
+		]
+	]
+}

@@ -1,0 +1,1026 @@
+{
+	"1154": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306192,
+			"Hey, you there! Clear the scraps up there, will you? Please leave the main road clear.",
+			"喂喂…那边的把这些机甲碎片搬到一边去，不要堵在主干道上。",
+			"……この機甲の破片、隅に運んで。通路をふさいじゃダメ。",
+			"……이 기갑의 파편, 구석으로 옮겨. 통로를 막으면 안 돼.",
+			null,
+			null,
+			"Hey hey...over there move these mech pieces to the side, don't block the main road.",
+			"...... Take this piece of armor and move it to the corner. Don't block the passage."
+		],
+		[
+			"msg",
+			306193,
+			"The parts' size here is incorrect and needs to be adjusted. And also the size written on the blueprint.",
+			"还有这里的零件尺寸错了，需要调整一下，另外把图纸上的尺寸也修正一下。",
+			"それからここのパーツはサイズが違ってる。調整しなきゃね。あと設計図のサイズもちょっと修正しないと。",
+			"그리고 여기 부품은 사이즈가 달라. 조정해야 돼. 그리고 설계도의 사이즈도 좀 수정하지 않으면.",
+			null,
+			null,
+			"Also the part size here is wrong, need to adjust it, and also correct the size on the drawing.",
+			"Also, these parts are the wrong size. I'll have to adjust it. Also, the size of the blueprint needs to be corrected a little bit."
+		],
+		[
+			"msg",
+			306194,
+			"This production line is the only one left, avoid violent operation. The game will be over if it is broken.",
+			"这条生产线是仅存的宝贝了，千万不要暴力操作，弄坏了就完了。",
+			"この生産ラインは唯一残された宝物よ。くれぐれも乱暴に扱わないで……壊れたら修復不可能だと思って。",
+			"이 생산 라인은 유일하게 남은 보물이야. 절대 함부로 다루지 말아…… 부서지면 수복 불가능이라고 생각해.",
+			null,
+			null,
+			"This line is the only remaining treasure, do not violently operate, break it will be the end.",
+			"This production line is the only treasure left. Please don't treat it roughly. ...... If it breaks, think it's beyond repair."
+		],
+		[
+			"choice",
+			[
+				306575,
+				"Yssring, how's everything at ME Corp?",
+				"伊瑟琳，ME社的情况如何？",
+				"イザーリン、ME社の状況はどう？",
+				"이자린, ME사의 상황은 어때?",
+				null
+			],
+			[
+				306576,
+				"Yssring, anything I can help with?",
+				"伊瑟琳，有什么需要帮忙的么？",
+				"イザーリン、何か手伝おうか？",
+				"이자린, 뭐 좀 도와줄까?",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1155
+		]
+	],
+	"1155": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306195,
+			"Hmm... According to the data the productivity is too low... We've got to optimize it.",
+			"嗯…看来以现在的产能数据来看进度太缓慢了…得想办法进行分析优化。",
+			"……現在の生産能力データから見ると進捗が遅すぎるわね……何とか合理化を進めないと。",
+			"……현재의 생산 능력 데이터로 보면 진척이 너무 느려…… 어떻게든 합리화를 진행하지 않으면.",
+			null,
+			null,
+			"Well...it seems that the progress is too slow with the current capacity data...we have to find a way to analyze and optimize.",
+			"......Progress is too slow based on current capacity data. ......We need to streamline somehow."
+		],
+		[
+			"msg",
+			306196,
+			"We should also start testing the mass production type... But without Houkai beasts how can we test it....",
+			"还有量产型号的测试工作也得开始进行了…不过崩坏生物都没了该怎么测试呢……",
+			"それから量産型のテストも始めなきゃ……でも崩壊生物はいなくなっちゃったし、どうやってテストしようか……。",
+			"그리고 양산형 테스트도 시작해야 하는데…… 하지만 붕괴 생물은 사라져 버렸으니, 어떻게 테스트하겠어…….",
+			null,
+			null,
+			"There are also mass-produced models of the test work must also begin to carry out ... but the collapse of the creatures are gone how to test it ......",
+			"Then we have to start testing mass production ...... but the disintegrating organisms are gone, so how do we test ......."
+		],
+		[
+			"choice",
+			[
+				306577,
+				"Help! Houkai Beasts!",
+				"救命！有崩坏生物！",
+				"助けてー！崩壊生物だー！",
+				"도와줘! 붕괴 생물이야!",
+				null
+			],
+			[
+				306578,
+				"You want me to bring you some Houkai Beasts?",
+				"是要帮你找一些崩坏生物来么？",
+				"崩壊生物を探すの手伝おうか？",
+				"붕괴 생물 찾는 거 도와줄까?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1156,
+			1157
+		]
+	],
+	"1156": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306197,
+			"What? I was told Houkai beasts were all gone! Seele, you liar! Everyone retreat!",
+			"呃！不是说崩坏生物都不见了么！希儿果然是骗我的么！大家快撤！不要管生产线了！",
+			"え！？崩壊生物はいなくなったって言わなかった！？ゼ、ゼーレの奴、騙したわね！みみみみ、みんな急いで撤退！！生産ラインに構わずに！",
+			"에!? 붕괴 생물은 사라졌다고 말하지 않았어!? 제, 제레 녀석, 속였잖아! 다들 서둘러 철수하라!! 생산 라인은 신경 쓰지 말고!",
+			null,
+			null,
+			"Ugh! Didn't I tell you that all the collapsed creatures are gone! Sheil is really lying to me! Everyone, get out! Leave the production line alone!",
+			"What! You didn't tell me the disintegrating organisms were gone! Ze, Seele guy, you tricked us! Mimi mimi, everyone hurry up and retreat! Leave the production line alone!"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306198,
+			"...",
+			"……",
+			"…………ん？",
+			"…………응?",
+			null
+		],
+		[
+			"msg",
+			306199,
+			"So it's you... When was you inspired by Seele to act like this...",
+			"什么啊原来是你么…你这家伙什么时候学会了希儿那套的……",
+			"何だあなただったのね……いつの間にかゼーレみたいなやり方を覚えて……。",
+			"뭐야 당신이었구나…… 어느새 제레 같은 방식을 익혔네…….",
+			null,
+			null,
+			"What ah so it is you ah ... you guys when did you learn to Hill that set of ......",
+			"What was it you ...... learned how to do it like Seele before you knew it ......."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1158
+		]
+	],
+	"1157": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306200,
+			"No! Who said that? I didn't ask for this!!",
+			"不要！是谁说要找的！我才没有提出过这种委托啊！！",
+			"やめて！誰が探せって言ったの！そんなこと頼んでないから！！",
+			"그만해! 누가 찾으라고 했어! 그런 부탁 안 했으니까!!",
+			null,
+			null,
+			"No! Who said to look for it! I didn't ask for such a commission!",
+			"Stop it! Who told you to look for me! I didn't ask you to do that!"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306201,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			306202,
+			"So it's you... Did you misunderstand something?",
+			"什么啊原来是你么…感觉你是不是误会了什么……",
+			"って、何だあなただったの……何か誤解してるみたいね……。",
+			"어, 뭐야 당신이었어…… 뭔가 오해하고 있는 것 같네…….",
+			null,
+			null,
+			"What ah turned out to be you?...feel you are not misunderstood what ......",
+			"So, what was that you ......, I think you misunderstood something ......."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1158
+		]
+	],
+	"1158": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306203,
+			"Oh, it seems that you're fully recovered. How lucky you are to be able to survive the dangers every time....",
+			"对了，你的身体看起来似乎已经恢复了呢。你真是个奇特的家伙，每次总能化险为夷……",
+			"そういえば、身体はもうすっかり回復したみたいね。あなたも本当に奇特な人ね、毎回ピンチに陥るんだもん……。",
+			"그러고 보니 몸은 이제 완전히 회복된 모양이네. 당신도 정말 기특한 사람이야, 매번 위기에 빠지곤 하잖아…….",
+			null,
+			null,
+			"By the way, your body seems to have recovered it. You're a peculiar guy, you always manage to turn a danger into a success every time ......",
+			"Speaking of which, your body seems to be all better now. You're really an odd one too, you pinch yourself every time. ......"
+		],
+		[
+			"msg",
+			306204,
+			"You came to help building the mecha I suppose? That's great, I need your helping hand.",
+			"好吧，看样子你是过来帮助进行机甲制造的么，你来的正好，刚才的事情你可以帮得上忙。",
+			"いいわ、その様子だと機甲の製造を手伝いに来てくれたのね。さっきの話、聞こえてたんでしょ？手伝ってくれるわね……？",
+			"좋아, 그样子로 보니 기갑 제작을 도우러 온 거네. 아까 말, 들었었지? 도와주는 거겠죠……?",
+			null,
+			null,
+			"Well, it looks like you're here to help with the mech manufacturing. You're just in time to help with what just happened.",
+			"Okay, by the looks of it, you're here to help us manufacture armor. You heard what I just said, didn't you? You're here to help us, aren't you ......?"
+		],
+		[
+			"msg",
+			306205,
+			"This is the only production line we were able to salvage. It works well as to produce mecha, but the performance is yet to be tested.",
+			"这条是唯一抢救回来的生产线了，虽然可以完成机甲兵器的生产，但是对于机甲的性能还没有进行测试。",
+			"これが唯一復旧できた生産ラインよ。機甲兵器の生産はできたけど、性能はまだテストできてないの。",
+			"이게 유일하게 복구된 생산 라인이라구. 기갑 병기의 생산은 가능하지만, 성능은 아직 테스트를 못 했어.",
+			null,
+			null,
+			"This is the only salvaged production line, although the production of mecha weapons can be completed, but for the performance of the mecha has not been tested.",
+			"This is the only production line we were able to restore. We have been able to produce armored weapons, but we haven't been able to test their performance yet."
+		],
+		[
+			"msg",
+			306206,
+			"I planned to perform a drill using Houkai beasts, but fortunately all the Houkai beasts nearby disappeared.",
+			"本来是想要用崩坏生物进行实战演习的，但是值得高兴的是这一带的崩坏生物已经全部消失了~",
+			"本当は崩壊生物で実戦の演習をするつもりだったんだけど、喜ぶべきことにここ一帯の崩壊生物はすっかり姿を消しちゃったのよね。",
+			"원래는 붕괴 생물로 실전 연습을 할 생각이었는데, 다행히도 이 일대의 붕괴 생물은 완전히 사라져버렸더라구.",
+			null,
+			null,
+			"Originally, I wanted to use the crash creatures for a practical exercise, but happily the crash creatures in the area have all disappeared ~",
+			"I was actually planning to do some real-world exercises with decay organisms, but to my delight, the decay organisms have all but disappeared from this area."
+		],
+		[
+			"msg",
+			306207,
+			"Therefore we need some experienced combatant like you to help with the test.",
+			"所以测试机甲战斗能力的实验只能交给你这样有战斗经验的人来完成了。",
+			"だから、機甲の戦闘能力をテストできなくて……そこであなたの出番。戦闘経験のある人にテストをしてほしいの。",
+			"그래서, 기갑의 전투 능력을 테스트할 수 없어서…… 그쪽이 나설 차례죠. 전투 경험이 있는 사람에게 테스트를 해 주길 바라요.",
+			null,
+			null,
+			"So the experiment to test the combat ability of the mech can only be given to someone like you who has combat experience to complete.",
+			"So, I couldn't test the combat capability of the armor ...... and that's where you come in. I need someone with combat experience to do the test."
+		],
+		[
+			"msg",
+			306208,
+			"Now come with me. I am going to make the venue for the test ready.",
+			"那么跟我来吧，我去准备下实验场。",
+			"じゃあ、ついてきて。演習場の用意をするから。",
+			"그럼, 따라와. 연습장을 준비할 테니까.",
+			null,
+			null,
+			"Then come with me, I'll prepare the experimental field.",
+			"Then follow me. I'll get the exercise area ready."
+		]
+	],
+	"1159": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306209,
+			"Test start. Don't worry, we will be using practical firearms. Although it's not life-threatening, it hurts if you get shot.",
+			"那么实验开始。放心，我会把实弹换成训练用的子弹了，不过虽然不会有生命危险，但是被击中后还是挺疼的……",
+			"じゃあ、演習を始めるわよ。安心して、弾は訓練用のものと交換してあるから。でも命の危険はないとはいえ、命中したらそれなりに痛いわよ……。",
+			"그럼, 연습을 시작할게. 안심해, 탄은 훈련용으로 교체해 뒀으니까. 하지만 목숨의 위험은 없어도, 명중하면 제법 아플 거야…….",
+			null,
+			null,
+			"Then the experiment begins. Don't worry, I will replace the live ammunition with training bullets, but although there will be no life-threatening, but still quite painful after being hit ......",
+			"Then we'll start the exercise. Don't worry, I've replaced the bullets with training ones. But even though your life is not in danger, it will hurt a lot if you get hit. ......"
+		],
+		[
+			"msg",
+			306210,
+			"We will set the strength to max in order to test the mecha's abilities and combat data. You'd better not treat it as a drill and don't let your guards down.",
+			"为了测试机甲兵器的作战能力和战斗数据我会将它们的强度调高最高，这并不比实战轻松，所以请千万不要松懈。",
+			"機甲兵器の戦闘能力と戦闘データのテストだから、こいつらの強度は最高レベルに調整してあるわ。だから、実戦よりも楽とは決して思わないでね。くれぐれも気を抜かないように……。",
+			"기갑 병기의 전투 능력과 전투 데이터 테스트니까, 이 녀석들의 강도는 최고 수준으로 조정해 뒀어. 그러니까, 실전보다 쉽다고 생각하지는 말아 줘. 각별히 방심하지 않도록…….",
+			null,
+			null,
+			"In order to test the combat ability and combat data of the mecha weapon I will turn up their intensity to the maximum, which is not easier than the actual battle, so please do not let up.",
+			"It's a test of combat capability and combat data for armored weapons, so the strength of these guys is adjusted to the highest level. So don't ever think it's easier than a real battle. Don't let your guard down. ......"
+		],
+		[
+			"msg",
+			306211,
+			"Let's start... Please be careful.",
+			"那么开始吧…请多小心。",
+			"気をつけてね。",
+			"조심해.",
+			null,
+			null,
+			"So let's get started...please be more careful.",
+			"Be careful."
+		]
+	],
+	"1160": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			306212,
+			"Tatatat",
+			"哒哒哒！",
+			"ダダダッ！",
+			"다다닥!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dah dah dah!"
+		],
+		[
+			"msg",
+			306213,
+			"Bang!!",
+			"砰！！",
+			"バン！！",
+			"빵!!",
+			null,
+			null,
+			"BANG!!!",
+			"Bang!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306214,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			306215,
+			"That's it for today. Thanks for helping. I've got some precious data.",
+			"今天到此为止吧，辛苦了，多亏了你的帮忙，得到了很珍贵的数据。",
+			"今日はこのくらいにしましょう。お疲れ様。おかげで貴重なデータが得られたわ。",
+			"오늘은 이 정도로 하죠. 수고했어. 덕분에 귀중한 데이터를 얻을 수 있었어.",
+			null,
+			null,
+			"That's all for today. Thanks for your hard work, thanks to your help, got very precious data.",
+			"That's enough for today. Thanks for your hard work. You've given me some valuable data."
+		],
+		[
+			"msg",
+			306216,
+			"The new mecha has no problem in terms of combat ability... I am not surprised though, they're produced at the same standard.",
+			"新制作的机甲兵器在战斗性能上面似乎没有什么问题…嘛，毕竟是同一指标生产的，倒也不奇怪。",
+			"新しい機甲兵器の戦闘性能は何も問題ないようね……まぁ、従来のものと同じような仕様で生産したんだから、当然と言えば当然だけど。",
+			"새로운 기갑 병기의 전투 성능은 아무 문제없는 것 같네…… 뭐, 기존 것과 같은 사양으로 생산했으니까, 당연하다면 당연하지만.",
+			null,
+			null,
+			"The newly made mecha weapons seem to have no problems in terms of combat performance...well, it's not surprising that they are produced by the same index after all.",
+			"There seems to be nothing wrong with the combat performance of the new armored weapons. ...... Well, they were produced to the same specifications as the previous ones, so it's not surprising."
+		],
+		[
+			"msg",
+			306217,
+			"My next task is to optimize productivity...",
+			"那接下来的任务还是优化产能……",
+			"じゃあ、次の目標は生産能力を向上させることね……。",
+			"자, 다음 목표는 생산 능력을 향상시키는 거네…….",
+			null,
+			null,
+			"Then the next task is still to optimize the capacity ......",
+			"Okay, so the next goal is to increase production capacity. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306218,
+			"\"Alert! Alert! Overheat alert! Self-explosion program activated according to Protocol 42... Three...\"",
+			"「警报！警报！机体过热即将瘫痪！依据42号协议启动自爆程序…3…」",
+			"「警報！警報！機体がオーバーヒート、まもなくダウンします！42番プロトコルに従って自爆プログラム起動……3……」",
+			"「경고! 경고! 기체가 오버히트, 곧 다운됩니다! 42번 프로토콜에 따라 자폭 프로그램 가동……3……」",
+			null,
+			null,
+			"\"Alert! Warning! The fuselage is overheating and will soon be paralyzed! Initiating self-destruct sequence in accordance with protocol 42...3...\"",
+			"Alarm! Alarm! The aircraft is overheating and will be down shortly!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306219,
+			"What!! Wait a minute! Why is there self-explosion program? Hey! Run!",
+			"哇！！等等！怎么还有自爆程序！喂！快跑！",
+			"わっ！！待って、なんで自爆プログラムなんて搭載してるの！？ちょっと、早く逃げて！",
+			"왓!! 잠깐, 왜 자폭 프로그램 같은 걸 탑재하고 있는 거야!? 자, 빨리 도망쳐!",
+			null,
+			null,
+			"WOW!!! Wait! Why is there a self-destruct program! Hey! Run!",
+			"Whoa! Wait, why is there a self-destruct program on board! Hey, get out of here!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			306220,
+			"Boom!!!",
+			"轰！！！",
+			"ボーン！！！",
+			"보옹!!!",
+			null,
+			null,
+			"Boom!!!",
+			"Boom!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306221,
+			"Cough.... That was close...",
+			"咳咳咳…好险……",
+			"ゲホゲホ……危なかった……。",
+			"게호게호…… 위험했어…….",
+			null,
+			null,
+			"Cough cough cough...so close ......",
+			"Gehogeho ...... was a close call ......."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306222,
+			"Alright... I have some other important jobs to do. It's necessary to delete this dangerous protocol for good.",
+			"嗯…好吧，看来还有更重要的事情要做，有必要把这个危险的协议给永久删除。",
+			"うん……わかってるからそんな目で見ないで……どうやらもっと重要なことがあるわね。こんな危険なプログラムは永久に削除する必要があるわ。",
+			"응…… 알고 있으니까 그런 눈으로 보지 마…… 어떻게 보니 더 중요한 게 있네. 이런 위험한 프로그램은 영구히 삭제해야 해.",
+			null,
+			null,
+			"Hmmm...well, it seems there are more important things to do and it is necessary to remove this dangerous protocol permanently.",
+			"Yeah ...... I know, so don't look at me like that ...... apparently we have more important things to do. This dangerous program needs to be permanently removed."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306223,
+			"I thought I would have an army of powerful mecha protecting me 24/7, but it turns out that I will putting a chain of bombs on my waist.",
+			"本来想着总算有大批强力的机甲可以时刻保护我了…没想到居然是把一堆炸弹放在了自己身边。",
+			"強力な機甲が大量にあればもっと安全になるかと思ったけど……まさか大量の爆弾を置こうとしていたなんて。",
+			"강력한 기갑이 대량으로 있으면 더 안전해질 줄 알았지만…… 설마 대량의 폭탄을 놓으려고 했던 거야.",
+			null,
+			null,
+			"I thought I would have a large number of powerful mechs to protect me at all times...but I didn't expect to have a bunch of bombs placed around me.",
+			"I thought a large amount of powerful armor would make it safer. ...... I had no idea they were trying to place a large number of bombs."
+		],
+		[
+			"msg",
+			306224,
+			"Sigh.... My passion about work plunges...",
+			"哎…工作热情顿时就小了很多……",
+			"はぁ……頑張ってテストしたのに、このやり場のない虚無感はどこにぶつけたらいいのだろう。",
+			"하아…… 열심히 테스트했는데, 이 답답한 허무감은 어디에 털어놓아야 할까.",
+			null,
+			null,
+			"Hey ... work enthusiasm suddenly a lot smaller ......",
+			"Huh. ...... I did my best to test it, but where can I put this feeling of emptiness that I can't do anything about?"
+		]
+	],
+	"1161": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306225,
+			"...",
+			"……",
+			"……カチャカチャ。",
+			"……찰카닥.",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306226,
+			"Now this should do it. Except for the self destructive protocol, there are many other dangerous programs. I wonder what's wrong with the ME engineers who created the mecha...",
+			"这样应该差不多了，没想到除了自毁协议之外还有这么多危险的程序…真不知道ME社里制造机甲的工程师是怎么想的。",
+			"これでいいでしょ。自爆プログラムの他にも、まだこんなに危険なものを搭載していたなんて……ME社の機甲を製造したエンジニアは何を考えてたのかしら。",
+			"이제 됐지. 자폭 프로그램 말고도 아직 이렇게 위험한 걸 탑재하고 있었다니…… ME사의 기갑을 제조한 엔지니어는 뭘 생각했던 걸까.",
+			null,
+			null,
+			"This should be about right, I didn't expect there to be so many dangerous procedures in addition to the self-destruct protocol... I really don't know what the engineers in the ME community who make mechs think.",
+			"That should do it. I wonder what the engineers who built the ......ME company's armor were thinking, that besides the self-destruct program, they still had so much dangerous stuff on board."
+		],
+		[
+			"msg",
+			306227,
+			"But everything is fine now. Those little tricks are not big of a deal. Having every protocol that triggers self-explosion fixed, these mecha are now my reliable bodyguards.",
+			"哼哼…不过已经没有问题了，对于这些小伎俩我还是可以应付的，我已经修正了所有会引起自爆的协议，这样这些机甲就是最安全的保镖了~",
+			"フフン……でも、もう大丈夫。このくらいの小細工なら簡単に書き換えできるわ。自爆を引き起こすプログラムは全部修正したし、これで安全な用心棒の完成。",
+			"흐흠…… 하지만 이제 괜찮아. 이 정도 작은 수작은 간단히 다시 쓸 수 있으니까. 자폭을 일으키는 프로그램은 전부 수정했고, 이제 안전한 경호원 완성이네.",
+			null,
+			null,
+			"Hmph... but there's no problem anymore, I can still handle these tricks, I've fixed all the protocols that will cause self-destruct, so these mechs are the safest bodyguards~",
+			"Hmph ...... but you're all set. I can easily rewrite this little trick. I've fixed all the programs that cause self-destructs, and now we have a safe bouncer."
+		],
+		[
+			"msg",
+			306228,
+			"Thanks to you, I am able to discover the serious loophole. I can't imagine those mecha explode in the middle of battle field...",
+			"多亏了你这次的测试让我找到了最严重的漏洞，如果不是你的话，这些机甲在战场上自爆的画面我简直无法想象……",
+			"今回のテスト、あなたのおかげで最も重大な欠陥を見つけられたわ。あなたがいなかったら、この機甲は戦場で自爆してたでしょうね……想像もしたくない……。",
+			"이번 테스트, 당신 덕분에 가장 중대한 결함을 찾을 수 있었어. 당신이 없었으면, 이 기갑은 전장에서 자폭했을 거야…… 상상도 하고 싶지 않아…….",
+			null,
+			null,
+			"Thanks to you this test let me find the most serious vulnerability, if not for you, these mechs in the battlefield self-exploded picture I simply can not imagine ......",
+			"This test, thanks to you, I found the most serious flaw. Without you, this armor would have self-destructed on the battlefield. ...... I don't even want to imagine it. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306229,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306230,
+			"Just leave the rest to me. There are some more test to do. You can go take a rest now.",
+			"好了，接下来就交给我吧，还有一些后续的测试列表需要进行，你可以回去休息了。",
+			"ありがと……あとのことは私に任せて。残りは一連の可動テストをするだけだから、あなたは戻って休んでいいわよ。",
+			"고마워…… 이후 일은 내게 맡겨. 남은 건 일련의 가동 테스트만 하면 되니까, 넌 돌아가서 쉬어도 돼.",
+			null,
+			null,
+			"Well, leave the rest to me, there are some follow-up test lists that need to be done, you can go back to rest.",
+			"Thanks ...... I'll take care of the rest. The rest of us just need to do a series of mobility tests and you can go back and rest."
+		],
+		[
+			"msg",
+			306231,
+			"Switch on... Let me check what's next to test...",
+			"开机启动…让我看看接下来要测试的内容是……",
+			"スイッチオン、起動……さてと、次のテストの内容は——",
+			"스위치 온, 기동…… 자, 다음 테스트의 내용은——",
+			null,
+			null,
+			"Boot up...let me see what I want to test next ......",
+			"Switch on, start ...... Now, the next test is--"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306232,
+			"\"Alert! Alert! Safety protocol amended! Activating self-explosion program!\"",
+			"「警报！警报！检测到安全协议遭到修改！即刻启动自爆程序！」",
+			"「警報！警報！セキュリティプログラムの修正を検出！直ちに自爆プログラム起動！」",
+			"「경보! 경보! 보안 프로그램의 수정을 감지! 즉시 자폭 프로그램 기동!」",
+			null,
+			null,
+			"\"Alert! Alert! Security protocol modification detected! Initiate self-destruct sequence immediately!\"",
+			"Alarm! Alarm! Security program modification detected! Activate self-destruct program immediately!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306233,
+			"Hey!! Wait a minute! Why is there still self-explosion? How strange there is no...",
+			"诶！等等！怎么还有自爆！而且这次难得没有……",
+			"ええっ！待って！なんでまだ自爆プログラムが！？それに今回はまさか——",
+			"에엣! 잠깐! 왜 아직 자폭 프로그램이!? 게다가 이번에는 설마——",
+			null,
+			null,
+			"Eh! Wait! Why is there a self-destruct! And this time there is a rare ......",
+			"Ew! Wait! Why is there still a self-destruct program? And this time, I didn't think--"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306234,
+			"Boom!!",
+			"砰！！！！",
+			"——ボンッ！！！！",
+			"——펑!!!!",
+			null,
+			null,
+			"Bang ！！！！",
+			"--BONK ！！！！"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306235,
+			"Cough.... countdown this time...",
+			"咳咳……倒计时么……",
+			"ゲホゲホ……カウントダウンなし……？",
+			"게흐흑…… 카운트다운 없이……?",
+			null,
+			null,
+			"Ahem ...... countdown? ......",
+			"Gehogeho ...... no countdown ......?"
+		]
+	]
+}

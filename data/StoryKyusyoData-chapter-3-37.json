@@ -1,0 +1,1541 @@
+{
+	"157": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10103"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301580,
+			"Graymoth Squad starts boarding.",
+			"灰蛾部队开始登舰。",
+			"灰蛾部隊、搭乗開始。",
+			"회아 부대, 탑승 시작.",
+			"The Grey Moths are beginning to board.",
+			null,
+			"Grey Moth forces began boarding the ship.",
+			"Ash Moth Unit begins boarding."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301581,
+			"Be careful. Retreat immediately if you encounter Herrscher. Never try to fight her.",
+			"你们要小心。如果遇到律者千万不要战斗，立刻返回。",
+			"気をつけてください。もし律者に遭遇したらくれぐれも戦いは避け、直ちに引き返してください。",
+			"조심하세요. 만약 율자를 마주치면 꼭 싸움은 피하고 즉시 돌아오세요.",
+			"Be careful. If you encounter a Herrscher, retreat immediately and don't try to engage her.",
+			null,
+			"You should be careful. If you encounter a Ruler do not fight, return immediately.",
+			"Be careful. If you encounter a scribe, avoid fighting and turn around immediately."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301582,
+			"That depends if she lets us go.",
+			"前提是她得放我们走。",
+			"向こうが逃がしてくれればね。",
+			"상대가 놓아줘야지만 말이죠.",
+			"That depends on if she's willing to let us go.",
+			null,
+			"The premise is that she has to let us go.",
+			"If only the other side would let us go."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301583,
+			"Testing... Hyperion, everything's ready? The gate is about to open.",
+			"喂喂…休伯利安准备好了么？闸门马上要开启了。",
+			"ねぇ……ハイペリオンの準備はいい？ゲート、開くわよ。",
+			"저기……히페리온 준비는 됐어? 게이트, 열 거야.",
+			"Testing... Is the Hyperion ready to take off? The gates are about to open.",
+			null,
+			"Hey, hey...is Hubleyan ready? The gates are about to open.",
+			"Hey, are you ready for ...... Hyperion? Gates, open."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301584,
+			"It's ready to take off now!",
+			"准备完毕，出发！",
+			"OKよ。ハイペリオン、出発！！",
+			"OK. 히페리온, 출발!!",
+			"The Hyperion is ready, let's go!",
+			null,
+			"Ready, go!",
+			"OK. Hyperion, let's go!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301585,
+			"Got it. Gate open.",
+			"了解，闸门开启。",
+			"了解、ゲート開放。",
+			"알겠어, 게이트 개방.",
+			"Copy that. Opening the gates.",
+			null,
+			"Understand that the gates are open.",
+			"Copy that. Opening gate."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"bgm",
+			"Nier/The Dark Colossus Destroys All"
+		],
+		[
+			"msg",
+			301586,
+			"Boom!!",
+			"轰隆！！！！",
+			"ドゴーン！！！！",
+			"도고온!!!!",
+			null,
+			null,
+			"Rumble ！！！！",
+			"Dogone ！！！！"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV03_WarningAlert"
+		],
+		[
+			"msg",
+			301587,
+			"\"Alert! Alert! The camp is under attack!\"",
+			"「警报！警报！基地遭到攻击！」",
+			"「警報！警報！基地が攻撃を受けました！」",
+			"「경보! 경보! 기지가 공격을 받았습니다!」",
+			"\"Alert! Alert! The base is under attack!\"",
+			null,
+			"\"Alert! Warning! The base is under attack!\"",
+			"Alarm! Alarm! The base has been attacked!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			301588,
+			"Huh? What's is it again?",
+			"呃！又发生什么了！",
+			"ええっ？！今度は何？！",
+			"에엣?! 이번엔 뭐야?!",
+			"Ugh! What now?!",
+			null,
+			"Ugh! What's happening again!",
+			"What? What now?"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301589,
+			"A large number of Houkai appear near the camp! We are surrounded!",
+			"报告！基地附近发现大量崩坏生物！我们被包围了！",
+			"報告します！基地の周囲で大量の崩壊生物を発見！包囲されています！",
+			"보고합니다! 기지 주변에서 대량의 붕괴 생물을 발견! 포위되었습니다!",
+			"Report! A large number of Honkai beasts have been spotted near the base! We are surrounded!",
+			null,
+			"Report! A large number of collapsed creatures have been spotted near the base! We are surrounded!",
+			"Report! We have a large number of decaying organisms around the base! We are surrounded!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301590,
+			"What? That was quick...",
+			"什么！居然这么快就……",
+			"まさか！こんなに早く……。",
+			"말도 안 돼! 이렇게 빨리…….",
+			"What?! I can't believe they're here already....",
+			null,
+			"What! I can't believe it's so soon ......",
+			"No way!!! I can't believe how quickly ......."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301591,
+			"Hey, look! What is that up there?",
+			"喂！你们看！天上那个是什么东西！",
+			"ねぇ、見て！空のあれは何！？",
+			"저기, 봐! 하늘에 저건 뭐야!?",
+			"Hey, look! What's that in the sky!?",
+			null,
+			"Hey! Look! What is that thing in the sky!",
+			"Hey, look! What's that in the sky!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10128"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301592,
+			null,
+			"",
+			null,
+			null,
+			null
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			301593,
+			"This is... new species?!",
+			"这个是……新生种！？",
+			"あれは……新種の崩壊生物！？",
+			"저건……신종 붕괴 생물!?",
+			"That's... A new species of Honkai beast?!",
+			null,
+			"This is a ...... newborn species!",
+			"That's ...... a new kind of disintegrating organism!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			301594,
+			"Wat? How come such thing exists! Is it a dragon?!",
+			"怎！怎么会有这种东西……这个是龙么！？",
+			"なっ……何であんなのが……あれは……ドラゴン！？",
+			"엇…… 저게 대체…… 저건…… 드래곤!?",
+			"What is that thing...? That's.... A dragon!?",
+			null,
+			"How! How can there be such a thing ...... Is this a dragon!",
+			"What the ...... is that thing ...... that's a ...... dragon!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV05_ThunderBig"
+		],
+		[
+			"msg",
+			301632,
+			"Boom!!",
+			"轰隆！！",
+			"ドゴーンッ……！！",
+			"두고옹……!!",
+			null,
+			null,
+			"Boom!!!",
+			"Boom!!! ......!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"msg",
+			301595,
+			"It's Mei!  The thunderstorm in the sky... could it be Mei?",
+			"芽衣姐姐！天空中的雷暴云…难道是芽衣姐姐么！",
+			"上空の雷雲……もしかして芽衣お姉ちゃんじゃない！？",
+			"상공의 뇌운…… 설마 메이 언니가 아니야!?",
+			"There's thunderclouds in the sky... Is that Mei!?",
+			null,
+			"Meiko-neechan! The thunderstorm clouds in the sky...could it be Meiko-san!",
+			"Thunderclouds in the sky above: ...... Maybe it's not Mei's sister!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			301596,
+			"Herrscher...",
+			"律者……",
+			"律者……。",
+			"율자…….",
+			"The Herrscher....",
+			null,
+			"The Herrscher ......",
+			"Ruler: ......."
+		],
+		[
+			"bg",
+			"CG10136"
+		],
+		[
+			"msg",
+			301597,
+			"Seele! Spread the message to all! Abandon the camp and go aboard! We must retreat now!",
+			"希儿！传达给所有人！放弃基地全部登船！我们得立刻撤离！",
+			"ゼーレ！全員に伝えてください！基地を捨てて全員ハイペリオンへ乗船！ただちにここを離れます！",
+			"제레! 전원에게 전해 주세요! 기지를 버리고 전원 히페리온에 승선! 즉시 여기를 떠납니다!",
+			"Seele! Inform everyone! Abandon the base and board the Hyperion! We need to evacuate immediately!",
+			null,
+			"Hill! Pass it on to everyone! Abandon base and board all ships! We need to evacuate immediately!",
+			"Seele! Tell everyone! Abandon base and all aboard the Hyperion! We're leaving immediately!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"msg",
+			301598,
+			"Ah... Ok!",
+			"好…好的！",
+			"わ……わかった！",
+			"알…… 알았어!",
+			"Ah... Got it!",
+			null,
+			"Good...good!",
+			"I know what you mean ......!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			301599,
+			"Let... let me go first!",
+			"呜哇…让！让我先上去！",
+			"うわわ……さ、先に乗せて！",
+			"우와…… 저, 먼저 태워줘!",
+			"Waaaa... Let, Let me on first!",
+			null,
+			"Woohoo...let! Let me go up first!",
+			"Wow ......, get on it first!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"msg",
+			301600,
+			"Yssring, get the f**k off! Let the kids board first! Come to move the injured now!",
+			"伊瑟琳！你OO给我下来！让孩子们先登船！给我去搬伤员！",
+			"イザーリン！このバカ、降りてこい！子どもたちを先に乗せろ！負傷者を運ぶの手伝え！",
+			"이자린! 이 바보야, 내려와! 아이들을 먼저 태워! 부상자를 운반하는 걸 도와!",
+			"Yiserin, get the ☆☆ down! Let the children board the ship first! Help me carry the wounded!",
+			null,
+			"Estherine! You get down here! Let the children board first! Get me the wounded!",
+			"Estherine! You idiot, get down here! Get the kids on first! Help me carry the wounded!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			301601,
+			"Calm down! Just leave your things there! Queue up! Combatants should fend off the Houkai beasts in front of the gate with me! We must guarantee Hyperion's successful launch!",
+			"大家冷静！不要管物品了！有序登船！战斗人员跟我一起清理闸门前的崩坏生物！我们要保证休伯利安出站！",
+			"みなさん冷静に！持ち物には構わず、慌てず乗船してください！戦闘員は私と一緒にゲート前へ！崩壊生物を退治し、ハイペリオンが出航できるようにします！",
+			"여러분 침착하게! 소지품은 신경 쓰지 말고 당황하지 말고 승선해 주세요! 전투원은 나와 함께 게이트 앞으로! 붕괴생물을 퇴치하고 히페리온이 출항할 수 있게 하겠습니다!",
+			null,
+			null,
+			"Everybody calm down! Leave the items alone! Board the ship in an orderly fashion! Combatants join me in clearing the gates of disintegrating creatures! We need to make sure that Hubertine leaves the station!",
+			"Everyone stay calm! Don't worry about your belongings, and don't panic, get on board! Combatants, come with me to the gate! We will exterminate the disintegrating organisms so that Hyperion can set sail!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"msg",
+			301602,
+			"Go! Let us lend her a helping hand and stave off those beasts!",
+			"走！我们去帮姐姐大人！一定要挡住崩坏生物！",
+			"行こう！お姉ちゃんを助けないと！崩壊生物を食い止めよう！",
+			"가자! 언니를 구해야 해! 붕괴생물을 막아내자!",
+			"Let's go! We have to help Bronya! Stop those Honkai beasts!",
+			null,
+			"Go! Let's go help Sister-sama! We must block the collapse creatures!",
+			"Let's go! We have to save your sister! We have to stop the disintegrating organisms!"
+		]
+	],
+	"158": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10136"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			301603,
+			"Tatatat",
+			"哒哒哒",
+			"ダダダッ",
+			"다다닥",
+			null,
+			null,
+			"da da da da",
+			"tada-da-da-da (sound made by vehicles rolling on the floor and rolling off the top of a tall building)"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV05_ThunderBig"
+		],
+		[
+			"msg",
+			301604,
+			"Boom!!",
+			"轰隆！！",
+			"ドゴーン！！",
+			"도고온!!",
+			null,
+			null,
+			"Boom!!!",
+			"Boom!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301605,
+			"Strong Houkai Energy detected above the camp! We're being locked on by the Herrscher!",
+			"姐姐大人！基地上空发现强烈的崩坏能反应！我们已经被律者锁定了！",
+			"お姉ちゃん！基地の上空に強烈な崩壊エネルギー反応！もう律者が来たみたい！",
+			"언니! 기지 상공에 강렬한 붕괴 에너지 반응! 이미 율자가 온 것 같아!",
+			"Bronya! There's a strong Honkai reaction over the base! I think the Herrscher's already found us!",
+			null,
+			"Sister-sama! A strong disintegration energy reaction has been detected over the base! We've been locked on by the Ruler!",
+			"Sis! There's a strong disintegrating energy reaction over the base! I think the scribe has already arrived!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301606,
+			"Is everyone on the ship now?",
+			"所有人都上船了么！",
+			"全員、乗船しましたか！？",
+			"전원, 승선했습니까!?",
+			"Is everyone on board!?",
+			null,
+			"Is everyone on board!",
+			"Is everyone on board!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301607,
+			"Hang on! There are still some injured left!",
+			"等下！还有一些伤员没有登船！",
+			"待ってくれ！まだ負傷者が残ってる！",
+			"기다려! 아직 부상자가 남아있어!",
+			"Hang on! There's still some injured left!",
+			null,
+			"Wait a minute! There are still some wounded who have not been boarded!",
+			"Wait! There are still wounded!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301608,
+			"We can't wait any longer! Hyperion must take off now! Or it'll be turned into ashes with the camp!",
+			"来不急了！休伯利安号必须马上出发！不然就等着和基地一起化成灰吧！",
+			"くそっ、間に合わない！今すぐ発進しないと基地もろともハイペリオンまで灰になるわよ！",
+			"젠장, 시간이 안 돼! 지금 바로 출발하지 않으면 기지와 함께 히페리온까지 재가 되고 말 거야!",
+			"Damn it, we don't have any time left! If we don't launch now, the base and Hyperion will be reduced to ashes!",
+			null,
+			"There's no time to lose! The USS Huberian must depart now! Or we'll turn to dust with the base!",
+			"Damn it, we'll never make it! If we don't launch now, the base and Hyperion will be reduced to ashes!"
+		],
+		[
+			"msg",
+			301609,
+			"Hyperion! Main gun ready to shoot! Eliminate all those despicable Houkai beasts in the way!",
+			"休伯利安！主炮准备发射！给我把挡在前面的崩坏渣滓杀干净！",
+			"ハイペリオン、主砲発射用意！前方を遮ってる崩壊生物どもを一掃してやるわ！",
+			"히페리온, 주포 발사 준비! 전방을 막고 있는 붕괴 생물들을 일소해 주겠어!",
+			"Hyperion! Prepare to fire the main cannon! We'll wipe out the Honkai scum in our way!",
+			null,
+			"Hubertine! Main gun ready to fire! Kill the scum of the collapse in my way!",
+			"Hyperion, prepare to fire main cannon! We'll wipe out those disintegrating creatures blocking our advance!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301610,
+			"Himeko! There are still combatants up there!",
+			"姬子！前方还有战斗人员！",
+			"姫子！だめです！前方にはまだ戦闘員が——！",
+			"히메코! 안 돼요! 전방에는 아직 전투원이 ——!",
+			"Himeko! There's still combatants ahead!",
+			null,
+			"Himeko! There are combatants ahead!",
+			"Himeko! No, no, no! There are still fighters up ahead!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301611,
+			"Shoot!",
+			"发射！",
+			"発射ーッ！",
+			"발사-앗!",
+			"Fire!",
+			null,
+			"Launch!",
+			"Fire!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			301612,
+			"No!!",
+			"不要！！",
+			"いやっ！だめーーーーーっ！！",
+			"안 돼요-아아악!!",
+			null,
+			null,
+			"No!!!",
+			"No! No! Noooooooo!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301613,
+			"Boom!!!",
+			"轰！！！",
+			"ドゴーン！！！",
+			"도고온!!!",
+			null,
+			null,
+			"Boom!!!",
+			"Boom!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			301614,
+			"Oh... no... Why? Himeko!!!",
+			"啊…啊……不…为什么……大家……姬子！！！",
+			"あ……あ……だめ……どうして……みんな……姫子！！！",
+			"아…… 아…… 안 돼…… 왜…… 다들……히메코！！！",
+			"Ah.... Ah.... Why... Everyone... Himeko!!!",
+			null,
+			"Ah...ah ...... no...why ...... everyone ...... Himeko!!!",
+			"A...... a...... no...... why...... everyone... ...Himeko!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301615,
+			"Bronya! Hang in there! Don't let it get to you! Go aboard with Seele now!",
+			"布洛妮娅！振作点！快和希儿上船！",
+			"ブローニャ！しっかりなさい！ゼーレ、ブローニャを！",
+			"브로냐！정신 차려！제레、브로냐를！",
+			"Bronya! Pull yourself together! Board with Seele now!",
+			null,
+			"Bronya! Pull yourself together! Get on board with Hill!",
+			"Bronya! Stay with me! Seele, get Bronya!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			301616,
+			"No! We shouldn't leave anyone behind!",
+			"不！我们不能丢下任何人！",
+			"だめです！誰一人捨ててはいけません！",
+			"안 돼요! 누구 한 사람도 버려선 안 돼요!",
+			"No! We can't just leave them to die!",
+			null,
+			"No! We can't leave anyone behind!",
+			"No, you can't! No one must be thrown away!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			301617,
+			"Bronya! Where are you going?",
+			"姐姐大人！你要去哪！",
+			"お姉ちゃん！このままじゃ、みんな死んじゃう！",
+			"언니! 이대로면 모두 죽어버려요!",
+			"Bronya! If we don't get on board, we're going to die!",
+			null,
+			"Sister-sama! Where are you going!",
+			"Sis! If we don't do something, we'll all die!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			301618,
+			"I'm gonna bring the others here together!",
+			"我要把大家都带走！",
+			"全員、連れていきます！ブローニャはあきらめません。",
+			"전원 데려갈 거예요! 브로냐는 포기하지 않아요.",
+			"No! I'm going to bring them here! I won't give up!",
+			null,
+			"I'm taking everyone with me!",
+			"We will take them all! Bronya will not give up."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301619,
+			"Come back! You wanna die?",
+			"给我回来！你要找死么！",
+			"ブローニャ戻りなさい！死にたいの！？",
+			"브로냐 돌아와! 죽고 싶어!?",
+			"Get back here! Do you want to die!?",
+			null,
+			"Get back here! You want to die!",
+			"Bronya, get back here! You want to die!"
+		],
+		[
+			"msg",
+			301620,
+			"Tut! We've no time! Close the gate!",
+			"啧！没时间了！关闭舱门！",
+			"チッ……！時間がない！ハッチを閉めて！",
+			"쯧......! 시간이 없어! 해치를 닫아!",
+			"Tsk.....! We're out of time! Close the hatch!",
+			null,
+			"Tsk! There's no time for that! Close the hatch!",
+			"Tsk ......! We're running out of time! Close the hatch!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			301621,
+			"No! Himeko! Stop!",
+			"不！姬子！你给我停下！",
+			"だめです！姫子、待ってください！",
+			"안 돼요! 히메코, 기다려 주세요!",
+			null,
+			null,
+			"No! Himeko! You stop it!",
+			"No, you can't! Himeko, wait!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			301622,
+			"Bronya! Come here! We can't lose you!",
+			"姐姐大人！快上船！大家不能失去你！",
+			"お姉ちゃん！乗って！お姉ちゃんがいなくなったら、みんな希望を失う！",
+			"언니! 타! 언니가 없어지면 모두 희망을 잃어!",
+			"Bronya, get in! Everyone is depending on you!",
+			null,
+			"Sister-sama! Get on board! Everyone can't lose you!",
+			"Sis! Get in! If sis is gone, we all lose hope!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			301623,
+			"Let go of me, Seele! I want to save the others! Let me go!",
+			"希儿！放开我！让我去救大家！快放开我！",
+			"ゼーレ、放しなさい！みんなを助けなければ！早く放して！",
+			"제레, 놓으세요! 모두를 구해야 해! 빨리 놓아!",
+			"Let go of me, Seele! We have to save everyone! Let go of me now!",
+			null,
+			"Hill! Let go of me! Let me go and save everyone! Let go of me!",
+			"Seele, let go of me! We have to save everyone! Let go of me now!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				false
+			],
+			[
+				60,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			301624,
+			"Forgive me, Bronya...",
+			"对不起了…姐姐大人……",
+			"ごめんね……お姉ちゃん……。",
+			"미안해…… 언니…….",
+			null,
+			null,
+			"Sorry about that...sister-sama ......",
+			"Sorry ...... sis ......."
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			301625,
+			"Huh?!",
+			"哈！！",
+			"えいっ！！",
+			"에잇!!",
+			null,
+			null,
+			"Ha!!!",
+			"Yeah!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			301626,
+			"Seele?!",
+			"希儿！？",
+			"ゼーレ！？",
+			"제레!?",
+			null,
+			null,
+			"Hill!",
+			"Seele!"
+		],
+		[
+			"msg",
+			301627,
+			"What are you doing, Seele? Open the gate now, Himeko! Seele is still outside!",
+			"希儿你干什么！姬子快打开舱门！希儿还在外面！",
+			"ゼーレ、何をするんです！姫子、早くハッチを開けてください！ゼーレがまだ外に！",
+			"제레, 뭘 하는 거야! 히메코, 빨리 해치를 열어 주세요! 제레가 아직 밖에!",
+			null,
+			null,
+			"Hill, what are you doing? Himeko, open the hatch! Heer is still out there!",
+			"Seele, what are you doing! Himeko, open the hatch quickly! Seele is still outside!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				false
+			],
+			[
+				60,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			301628,
+			"I'm sorry, Bronya. Only you can lead us. Please live on with the others.",
+			"抱歉…姐姐大人，只有你才能带领大家…请和大家一起活下去。",
+			"ごめんね……みんなを率いていけるのはお姉ちゃんしかいない……みんなと一緒に生きて。他の人たちは私が助けるから。",
+			"미안해…… 모두를 이끌고 갈 수 있는 건 언니뿐이야…… 모두와 함께 살아. 다른 사람들은 내가 구할 테니까.",
+			null,
+			null,
+			"Sorry...Sister-sama, only you can lead the way...please live with everyone.",
+			"I'm sorry ...... only your sister can lead everyone ...... live with them. I will help the others."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				true
+			],
+			[
+				60,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			301629,
+			"No! No!!!!!",
+			"不！不要！不要！不要！不要！",
+			"だめっ、だめですっ！いけませんっ！いやぁっ！",
+			"안 돼, 안 돼요! 안 된다고요! 아니아아!",
+			null,
+			null,
+			"No! No! No! No! No!",
+			"No, no, no! No! No! No! No!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301630,
+			"Hyperion, take off!",
+			"休伯利安出发！",
+			"ハイペリオン、発進！",
+			"히페리온, 발진!",
+			null,
+			null,
+			"Hubertus departs!",
+			"Hyperion, launch!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				true
+			],
+			[
+				60,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			301631,
+			"Seele!!!",
+			"希儿！！！",
+			"ゼーレーーッ！！！",
+			"제레에에엣!!!",
+			"<size=60>SEELE!!!</size>",
+			null,
+			"Shire!!!",
+			"Zeelay!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301632,
+			"Boom!!",
+			"轰隆！！",
+			"ドゴーンッ……！！",
+			"두고옹……!!",
+			null,
+			null,
+			"Boom!!!",
+			"Boom!!! ......!"
+		],
+		[
+			"msg",
+			301633,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			301634,
+			"...",
+			"……",
+			"…………。",
+			"………….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301635,
+			"So, it's gone... At least Bronya survives. That's great.",
+			"走掉了么……太好了，至少姐姐大人活下来了。",
+			"行ったね……良かった、お姉ちゃんだけでも生き延びて……。",
+			"갔구나…… 다행이야, 언니만이라도 살아남아서…….",
+			"....You've gone. Great, at least my sister survived...",
+			null,
+			"Gone? ...... great, at least the sister adult survived.",
+			"You've gone. ...... Thank goodness your sister at least survived. ......"
+		],
+		[
+			"msg",
+			301636,
+			"I'm sorry. I tried hard to be a cheerful girl to make everyone happy, but I couldn't do anything in the end...",
+			"对不起，一直想要扮演着开朗的样子让大家露出笑容，但是最后却还是什么都做不到呢……",
+			"ごめんなさい、ずっと明るく振る舞ってみんなを笑顔にしていたかったけど……結局最後は何もできなかった……。",
+			"미안해, 계속 밝은 척 하며 모두를 웃게 하고 싶었는데…… 결국 끝엔 아무것도 못했어…….",
+			"I'm sorry, I wanted to act cheerful and bring a smile to everyone's face, but in the end I couldn't do anything...",
+			null,
+			"I'm sorry, I've been trying to play cheerful and make everyone smile, but in the end I couldn't do anything about it ......",
+			"I'm sorry, I wanted to act cheerful all the time and make everyone smile, but ...... in the end I couldn't do anything in the end. ......"
+		],
+		[
+			"msg",
+			301637,
+			"At least, let me be a selfish girl at this very moment.",
+			"至少现在…让希儿自私一下吧。",
+			"せめて今だけは……ゼーレのわがままを許して。",
+			"적어도 지금만은……제레의 제멋대로를 용서해.",
+			"At least for now.... Let me be selfish.",
+			null,
+			"At least for now...let Hill be selfish.",
+			"Forgive ...... Seele's selfishness, at least for now."
+		],
+		[
+			"bg",
+			"CG10139"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301638,
+			"The light in the sky... how gorgeous....",
+			"啊…天空中的光芒……好漂亮……",
+			"あ……空が輝いて……きれい……。",
+			"아…… 하늘이 반짝여…… 예뻐…….",
+			null,
+			null,
+			"Ah...the light in the sky ...... so beautiful ......",
+			"Ah ...... sky shines ...... beautiful ......."
+		],
+		[
+			"msg",
+			301639,
+			"If only this is not the scene of destruction...",
+			"如果这不是代表毁灭的光景该有多好……",
+			"これが崩壊後の光景じゃなかったら、どれだけ良かったか……。",
+			"이게 붕괴 후의 광경이 아니었다면, 얼마나 좋았을까…….",
+			"If only it wasn't a scene of annihilation...",
+			null,
+			"How nice it would be if this did not represent the light of destruction ......",
+			"How much better it would have been if this wasn't a post-collapse scene. ......"
+		],
+		[
+			"msg",
+			301640,
+			"What a shame I can't share this scenery with Bronya...",
+			"不能和姐姐大人一起看真是太可惜了……",
+			"お姉ちゃんと一緒に見られなくて本当に残念……。",
+			"언니와 함께 보지 못해서 정말 아쉬워…….",
+			"It's a shame I couldn't share this scenery with Bronya...",
+			null,
+			"It's a shame that you can't watch it with your sister ......",
+			"I'm really sorry I couldn't see it with my sister. ......"
+		],
+		[
+			"msg",
+			301641,
+			"Farewell...",
+			"再见了……",
+			"さよなら……。",
+			"잘 가…….",
+			null,
+			null,
+			"Goodbye ......",
+			"Goodbye ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV05_ThunderBig"
+		],
+		[
+			"msg",
+			301642,
+			"Boom!!",
+			"轰隆！！！！",
+			"ドゴーーン！！！！",
+			"두고오온！！！！",
+			null,
+			null,
+			"Rumble ！！！！",
+			"Dogone ！！！！"
+		],
+		[
+			"msg",
+			301643,
+			"Bronya.",
+			"姐姐大人。",
+			"——お姉ちゃん。",
+			"——언니.",
+			".....My sister.",
+			null,
+			"Sister-sama.",
+			"--Sis."
+		]
+	]
+}

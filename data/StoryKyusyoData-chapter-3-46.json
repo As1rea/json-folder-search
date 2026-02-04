@@ -1,0 +1,2402 @@
+{
+	"1162": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10135"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306236,
+			"Yssring, any new findings on this mecha that we fight against before?",
+			"伊瑟琳，之前与我们战斗的这台机甲有什么新的发现么？",
+			"イザーリン、この前戦った機甲のことで、何か新しい発見はありましたか？",
+			"이자린, 이 전 기갑의 일로, 무슨 새로운 발견은 있었나요?",
+			null,
+			null,
+			"Is there anything new about this mech we fought with earlier, Estherine?",
+			"Estherine, did you discover anything new about the armored you fought the last time you were there?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306237,
+			"Hmm... This is not the same model as the other ones and it is the only one mecha of this model. It should be a prototype that needs to be further tuned.",
+			"嗯……这个型号与其他的机甲都不同，而且似乎就生产了一台，应该还是属于实验阶段的试做机。",
+			"うん……この型番は他の機甲と違って、生産数が少ないみたい。たぶん、まだ実験段階にある試作機だったんじゃないかな。",
+			"음... 이 기종은 다른 기갑체와 달리 생산량이 적은 것 같아. 아마 아직 실험 단계에 있는 시제품이었던 게 아닐까.",
+			null,
+			null,
+			"Well ...... this model is different from all the other mechs, and it seems that just one was produced, which should still be a trial machine in the experimental stage.",
+			"Yeah ...... This model number seems to have been produced in small numbers, unlike other aircraft. Maybe it was a prototype that was still in the experimental stage."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306238,
+			"Prototype, was it? But it is much more powerful than the others. It will be a strong ally if we could re-activate it.",
+			"试做机么…不过它的机能的确比其他的机甲兵器强大太多了，如果能重新驱动它为我们所用的话，应该会是一个强力的帮手。",
+			"試作機ですか……でも、この機甲は他の機甲兵器よりも遥かに強力でした。もし再び起動し使えれば、心強い助っ人になるはずです。",
+			"시제기 말입니까... 하지만 이 기갑은 다른 기갑병기보다 훨씬 강력했습니다. 만약 다시 가동시켜 사용할 수 있다면 든든한 조력자가 될 겁니다.",
+			null,
+			null,
+			"The trial machine is...but it is indeed much more powerful than other mecha weapons, if we can re-drive it for our use, it should be a powerful helper.",
+			"Is it a prototype? ...... but this armor was far more powerful than any other armored weapon. If it could be activated and used again, it would be an encouraging aid."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306239,
+			"You're right, but it's badly damaged in the last fight. There isn't any relevant blueprint either. This is what I can fix based on my knowledge...",
+			"话是这么说啦…之前的战斗已经损坏的很严重了，而且没有相关的技术图纸，我只能按自己的理解来修复到现在这个阶段了……",
+			"そうは言ってもねえ……この前の戦闘で既にひどく損傷してるし、関連する技術の設計図すらない状況だと……。今の状態も自分の理解に基づいて修復したにすぎないし……。",
+			"그렇다고 해도…… 이전 전투에서 이미 심하게 손상되어 있고, 관련 기술의 설계도조차 없는 상황이라면……. 지금 상태도 자신의 이해에 기반해 수복했을 뿐이고…….",
+			null,
+			null,
+			"That said, la ... before the battle has been very badly damaged, and no related technical drawings, I can only repair to their own understanding of the current stage ......",
+			"That said, hey ...... it's already badly damaged from the last battle, and we're in a situation where we don't even have the blueprints for the relevant technology ....... And the current state is just a repair based on my own understanding. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306240,
+			"As it's fixed. Why don't we switch it on?",
+			"既然修复了那为什么不启动试试呢？",
+			"修復はしたんだ。じゃあ、何で起動してみないの？",
+			"수복은 했어. 그럼, 왜 작동해보지 않는 거야?",
+			null,
+			null,
+			"Since it is fixed then why not start to try it?",
+			"I've repaired it. So why don't you try starting it up?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306241,
+			"It's dangerous. You should know it's power already. I can't stop it in case of accidence.",
+			"太危险了…在它的战斗力你们也见过了，如果有什么意外的话我可制止不了它。",
+			"危険すぎるわ……こいつの戦闘力はあなたも見たでしょ。もし想定外のことが起きたら私には止められない。",
+			"너무 위험해... 이 녀석 전투력은 네 눈으로 봤잖아. 만약 예상치 못한 변수가 생기면 내가 막을 수 없을 거야.",
+			null,
+			null,
+			"It's too dangerous ... in its fighting power you have seen, if there are any accidents I can not stop it.",
+			"It's too dangerous. ...... You've seen what this guy can do in combat. If something unexpected happens, I won't be able to stop it."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306242,
+			"True, we should be more careful. Okay, we'll join if you want to test it.",
+			"的确，对于这台机甲谨慎处理也是应该的，那么启动实验我们也在一旁参加吧。",
+			"確かに、この機甲は慎重に扱うべきですね。では、起動試験にブローニャたちも参加しましょう。",
+			"확실히, 이 기갑은 신중히 다뤄야 하네요. 그럼, 기동 시험에 브로냐들도 참여하도록 하죠.",
+			null,
+			null,
+			"Indeed, it is appropriate to handle this mech with caution, so let's participate in the start-up experiment on the sidelines as well.",
+			"Indeed, this armor should be handled with care. Then, let Bronyas and others participate in the startup test."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306243,
+			"That's great... Please prepare for the fight, I will switch on the mecha.",
+			"既然这样的话就安心多了…那你们作好战斗准备，我来启动机甲。",
+			"そう、それなら安心かも……じゃあ、さっそくだけど戦闘の準備をしてくれる？機甲を起動するから。",
+			"그래, 그렇다면 안심이 될지도……그럼, 바로 전투 준비를 해줄래? 기갑을 기동할 테니까.",
+			null,
+			null,
+			"If that's the case it's much more reassuring...so get ready for battle and I'll start the mech.",
+			"Well, that might be a relief. ...... Well, let's get started, but can you get ready for battle? I'll activate the armor."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306244,
+			"Beep...",
+			"滴滴滴…",
+			"ピピピ——",
+			"삐삐삐——",
+			null,
+			null,
+			"Drip drip drip...",
+			"Beepee--"
+		],
+		[
+			"speaker",
+			204610
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				50,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306245,
+			"Activating... Detecting system...",
+			"启动开始…检测系统…",
+			"起動開始……検出システム……。",
+			"기동 시작……검출 시스템…….",
+			null,
+			null,
+			"Startup begins...detecting the system...",
+			"Startup start ...... detection system ......."
+		],
+		[
+			"msg",
+			306246,
+			"Scanning commands... Protect... protect... important...",
+			"扫描指令…保护…保护…重要的……",
+			"スキャンコマンド……保護……大事ナ……。",
+			"스캔 명령……보호……중요한…….",
+			null,
+			null,
+			"Scan command...protect...protect...important ......",
+			"Scan command ...... protection ...... important na ......."
+		],
+		[
+			"msg",
+			306247,
+			"must... find... that's her... she left... last thing...",
+			"必须…找回来…那是她……留下来最后的……",
+			"必ズ……取り戻す……あレは彼女が……残シた最後ノ……。",
+			"반드시…… 되찾아야 해…… 그것은 그녀가…… 남긴 마지막…….",
+			null,
+			null,
+			"Must...get it back...that's the last ...... she ...... left behind ......",
+			"She must ...... regain ...... the last ...... she had left ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				50,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306248,
+			"Hmm... It looks a bit strange...",
+			"唔…总感觉它的样子好像有点奇怪……",
+			"あれ……何だか様子がちょっと変……。",
+			"저거…… 왠지 상태가 좀 이상해…….",
+			null,
+			null,
+			"Well ... always feel like it looks a little strange ......",
+			"That ...... something looks a little strange ......."
+		],
+		[
+			"speaker",
+			204610
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				50,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306249,
+			"My mission... find it... the... important...",
+			"我的使命…找到那个东西……那个…重要的……",
+			"私の使命ハ……ソれを探スこと……あの……大事ナ……。",
+			"나의 사명은…… 그것을 찾는 것…… 그…… 중요한…….",
+			null,
+			null,
+			"My mission...to find that thing ...... that...important ......",
+			"My mission is to find the ......So that ......I'm important ......."
+		],
+		[
+			"msg",
+			306250,
+			"Ahhhhhhhhhhh!!!",
+			"啊啊啊啊啊————————————————！",
+			"アアあああアアアアぁぁぁ———————————————！",
+			"아아아아아아아아아아아아아아———————————————！",
+			null,
+			null,
+			"Ahhhhhhhhh --------- -------!",
+			"Aaaaaaahhhh! ---------------!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306251,
+			"The system has lost control over it! Quickly stop it!",
+			"唔！系统失控了！快阻止它！",
+			"うわっ！システムが暴走した！早く止めて！",
+			"우왁! 시스템이 폭주했어! 빨리 멈춰!",
+			null,
+			null,
+			"Well! The system is out of control! Stop it!",
+			"Whoa! The system's gone haywire! Stop it now!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV23_ExplosionClose"
+		],
+		[
+			"msg",
+			306252,
+			"Boom!!",
+			"轰隆！！！",
+			"ドゴーーン！！！",
+			"두고오오온!!!",
+			null,
+			null,
+			"BOOM!!!",
+			"Doggone!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306253,
+			"Oh no!! It breaks the gate and runs away!",
+			"糟了！它破坏闸门逃走了！",
+			"まずい、ゲートを破壊して逃げ出した！",
+			"안 됐어, 게이트를 파괴하고 도망쳤어!",
+			null,
+			null,
+			"Oh no! It broke the gate and escaped!",
+			"Oh no, they've broken down the gate and run away!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306254,
+			"Go, we should chase after it.",
+			"走，我们必须把它追回来。",
+			"行きましょう、連れ戻さないと。",
+			"가자, 데려오지 않으면.",
+			null,
+			null,
+			"Let's go, we have to get it back.",
+			"Let's go. We have to bring him back."
+		]
+	],
+	"1163": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306255,
+			"...... The mecha's footprint is nearby. Darn it, where did it go?",
+			"……那个机甲的足迹似乎就在这个附近，可恶…到底跑到哪里去了！",
+			"……あの機甲の足跡、ここで途絶えてる。くっ……一体どこに行っちゃったのよ！",
+			"……저 기갑의 발자국, 여기서 끊겨 있어. 씨…… 대체 어디로 간 거야!",
+			null,
+			null,
+			"...... that mech's footprint seems to be in this vicinity, damn it...where the hell did it go!",
+			"...... That armored footprint is cut off here. Damn ...... where the hell did it go!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306256,
+			"Calm down. Let's search through the nearby areas thoroughly. Luckily Houkai beasts are not here, this place is not that dangerous.",
+			"不要着急，我们仔细搜索一下附近的区域，幸好现在崩坏生物都不见了，这里也没有那么危险了。",
+			"焦らずに、付近を丁寧に捜索しましょう。幸い今は崩壊生物もいませんし、ここもそれほど危険ではありません。",
+			"서두르지 말고, 부근을 꼼꼼히 수색합시다. 다행히 지금은 붕괴生物도 없고, 여기도 그다지 위험하지 않아요.",
+			null,
+			null,
+			"Don't worry, let's search the nearby area carefully. Fortunately, now that the collapsing creatures are gone, this place is not so dangerous.",
+			"Let's not be hasty and search the vicinity carefully. Fortunately, there are no decaying organisms now, and this place is not too dangerous."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306257,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"bg",
+			"CG10116"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306258,
+			null,
+			"",
+			null,
+			null,
+			null
+		],
+		[
+			"msg",
+			306259,
+			null,
+			"",
+			null,
+			null,
+			null
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"msg",
+			306260,
+			"Hm...",
+			"唔……",
+			"う……。",
+			"으…….",
+			null,
+			null,
+			"Well ......",
+			"U......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306261,
+			"Are you okay? Do you feel sick?",
+			"你怎么了？是哪里不舒服么？",
+			"どうしたの？気分でも悪いの？",
+			"왜 그래? 기분이라도 안 좋아?",
+			null,
+			null,
+			"What's wrong with you? Are you uncomfortable somewhere?",
+			"What's wrong? Are you in a bad mood?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306262,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306263,
+			"Hey! Wait! Where are you going! Wait!",
+			"喂！等等！你要去哪！等等我！",
+			"ちょっと！待って、どこへ行くの？！待ちなさい！",
+			"잠깐! 기다려, 어디 가는 거야?! 기다리라고!",
+			null,
+			null,
+			"Hey! Wait! Where are you going! Wait for me!",
+			"Hey! Hey! Wait, where are you going? Wait!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306264,
+			"... Let's go.",
+			"……走，我们跟上去。",
+			"……追いかけましょう！",
+			"……쫓아가자!",
+			null,
+			null,
+			"...... go, we follow.",
+			"Let's go after ......!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			306265,
+			"Hey! Where are you going?",
+			"喂！你要去哪啊！",
+			"ちょっと！どこへ行くつもりよぉ！",
+			"잠깐! 어딜 가려는 거야!",
+			null,
+			null,
+			"Hey! Where are you going!",
+			"Hey! Where do you think you're going?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10141"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306266,
+			"Here is... Chamber of the Throne...",
+			"这里是……王座之间……",
+			"ここは……王座の間……。",
+			"여긴……왕좌의 방…….",
+			null,
+			null,
+			"Here is ...... between the thrones ......",
+			"This is the ...... throne room ......."
+		],
+		[
+			"speaker",
+			204610
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				50,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306267,
+			"Important thing... protect...",
+			"重要的东西……必须保护的……",
+			"大事なモの……必ズ守ル……。",
+			"중요한 것……반드시 지킬…….",
+			null,
+			null,
+			"What is important ...... must be protected ......",
+			"Important mo's ...... must protect ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				50,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306268,
+			"The mecha is also here... What's going on? You know it will come here already?",
+			"这个机甲也在这里…这是怎么回事？你知道它会来这里么？",
+			"この機甲もここに……どういうこと？ここに来るって知ってたの？",
+			"이 기갑도 여기에……무슨 일이지? 여기에 온 거 알아?",
+			null,
+			null,
+			"This mech is here too...what's going on? Did you know it was coming here?",
+			"What do you mean this armor is also here ......? Did you know it was coming here?"
+		],
+		[
+			"speaker",
+			204610
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				50,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306269,
+			"Can't let you... take it!!",
+			"不能让你们……夺走！！",
+			"お前ラニハ……奪わセぬ！！",
+			"라니를…… 빼앗게 두지 않아!!",
+			null,
+			null,
+			"Can't let you ...... take it away!!!",
+			"You Ranha ...... will not be deprived!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306270,
+			"Seele! Forget about that! Prepare to fight!",
+			"希儿！别管那些了！准备战斗！",
+			"ゼーレ！そんなことより、戦闘の準備を！",
+			"제레! 그런 것보다, 전투 준비를!",
+			null,
+			null,
+			"Hill! Forget about that! Prepare to fight!",
+			"Seele! That's not what I'm talking about! Prepare for battle!"
+		]
+	],
+	"1164": [
+		[
+			"speaker",
+			204610
+		],
+		[
+			"bg",
+			"CG10141"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				50,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306271,
+			"Must find... important thing...",
+			"必须要找到…需要保护的东西……",
+			"探サねばナらん……守ルべきモノヲ……。",
+			"찾아내지 않으면 안 돼…… 지켜야 할 것을…….",
+			null,
+			null,
+			"Must find...what needs to be protected ......",
+			"We need to look for ...... things to protect ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306272,
+			"Zilazila!",
+			"呲拉呲拉！",
+			"ジジ……ジ……。",
+			"지지…… 지…….",
+			null,
+			null,
+			"Blah blah blah!",
+			"Gigi ...... Gigi ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306273,
+			"What's wrong with this mecha?",
+			"这台机甲到底怎么了？",
+			"この機甲、一体どうしたの？",
+			"이 기갑체, 대체 어떻게 된 거야?",
+			null,
+			null,
+			"What's wrong with this mech?",
+			"What the hell is wrong with this armor?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306274,
+			"Seems to be looking for something......",
+			"似乎在找着什么东西……",
+			"何かを探しているようです……。",
+			"무언가를 찾고 있는 것 같아요…….",
+			null,
+			null,
+			"Seems to be looking for something ......",
+			"They are looking for something. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			306275,
+			"A mecha? Looking for things? Seriously?",
+			"都已经这个样子了还在寻找，机器也有这么强的执念么？",
+			"こんな姿になってまで探すなんて……機械とは思えない執念ね。",
+			"이런 모습이 되어서까지 찾다니…… 기계라고는 생각할 수 없는 집념이네요.",
+			null,
+			null,
+			"It's already like this and still looking, do machines have such a strong obsession?",
+			"It's hard to believe that ...... machine is so persistent to search for it even in such a shape."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306276,
+			"It doesn't give up even when it's damaged... I wonder what it is looking for.",
+			"明明已经损坏成这样了…它到底在寻找什么呢？",
+			"ここまで損傷しているのに……一体何を探しているのでしょう？",
+			"여기까지 손상되었는데…… 대체 무엇을 찾고 있는 걸까요?",
+			null,
+			null,
+			"It is obviously damaged like this...what exactly is it looking for?",
+			"What in the world are we looking for at ...... when it is so damaged?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306277,
+			"Zila... zila...",
+			"呲拉…呲拉…",
+			"ジー……ジジ……。",
+			"지이…… 지지…….",
+			null,
+			null,
+			"Baring...baring...",
+			"Gee ...... Gigi ......."
+		],
+		[
+			"speaker",
+			204610
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				50,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306278,
+			"My daughter...",
+			"我的女儿……",
+			"私のムスメ——",
+			"내 딸——",
+			null,
+			null,
+			"My daughter ......",
+			"My mus--"
+		],
+		[
+			"msg",
+			306279,
+			"Raiden Mei.",
+			"雷电芽衣。",
+			"芽衣。",
+			"메이.",
+			null,
+			null,
+			"Thunderbolt budgie.",
+			"Mei."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306280,
+			"!?",
+			"！？",
+			"！？",
+			"!?",
+			null,
+			null,
+			"!",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			306281,
+			"Mei......",
+			"芽衣姐姐……",
+			"芽衣お姉ちゃん……。",
+			"메이 언니......",
+			null,
+			null,
+			"Sister Meiko ......",
+			"Mei Sis. ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306282,
+			"Zilazila......",
+			"呲拉呲拉……",
+			"ジジ、ジ……。",
+			"지지, 지......",
+			null,
+			null,
+			"Barely bared ......",
+			"Gigi, Gigi. ......."
+		],
+		[
+			"speaker",
+			204610
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				50,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306283,
+			"I must protect... Raiden... Mei.",
+			"必须保护…雷电…芽衣。",
+			"必ズ守る……芽衣。",
+			"반드시 지킬게......메이.",
+			null,
+			null,
+			"Must protect...Raiden...Meiko.",
+			"Must protect ...... Mei."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306284,
+			"Urk!",
+			"咕！",
+			"くっ！",
+			"쿱!",
+			null,
+			null,
+			"Goo!",
+			"Damn!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			306285,
+			"Bang!",
+			"砰！",
+			"パァンッ！",
+			"팡!",
+			null,
+			null,
+			"Bang!",
+			"Pow!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306286,
+			"Mei?",
+			"姐姐大人！？",
+			"お姉ちゃん！？",
+			"언니!?",
+			null,
+			null,
+			"Sister-sama!",
+			"Sis!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306287,
+			"The mecha is about to be broken. That's enough for it. Stopping it is the best choice.",
+			"已经够了，这台机甲已经到极限了，继续活动下去只会造成更大的损伤，让它停止机能是最好的办法。",
+			"もう十分です。この機甲は限界を迎えています。今、この状態で動き続ければ修復不可能なところまで損傷が広がるだけ……最小の被害で機能を停止してやるのが一番です。",
+			"이제 충분합니다. 이 기갑은 한계를 맞이했습니다. 지금 이 상태로 움직이면 복구 불가능한 수준까지 손상이 확장될 뿐...... 최소한의 피해로 기능을 정지시키는 게 최선입니다.",
+			null,
+			null,
+			"Enough is enough, this mech has reached its limit, continue the activity will only cause more damage, let it stop function is the best way.",
+			"Enough is enough. This armor has reached its limits. If it continues to move in this state now, the damage will only spread to the point of irreparability. ...... It is best to stop it from functioning with the least amount of damage."
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV01_BronyaWalkaway"
+		],
+		[
+			"msg",
+			306288,
+			"Let's go. Perhaps Yssring can fix it.",
+			"我们走吧，或许伊瑟琳还能把它修复。",
+			"行きましょう。イザーリンならきっと修復してくれます。",
+			"가죠. 이자린이라면 분명 수리해 줄 거예요.",
+			null,
+			null,
+			"Let's go. Maybe Estherine can still get it fixed.",
+			"Let's go. I'm sure Estherine will fix it."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			306289,
+			"Okay... Let's bring the parts back...",
+			"好…那我们把这些零件收回去吧…",
+			"うん……じゃあ、このパーツを集めて帰ろう……。",
+			"음... 그럼 이 부품을 모아서 돌아가자....",
+			null,
+			null,
+			"OK...so let's take these parts back...",
+			"Yeah. ...... Well, let's collect these parts and go home. ......"
+		]
+	],
+	"1165": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10135"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306290,
+			"Oh my... As I expected, it becomes scraps again after going out for a walk...",
+			"咕…果然出去一圈之后回来又是破铜烂铁么……",
+			"うぐ……帰って来たと思ったらどうしてスクラップに……。",
+			"으윽... 돌아왔다 싶었는데 왜 스크랩이...",
+			null,
+			null,
+			"Goo ... really go out a circle and then come back to the broken iron it ......",
+			"Ugu...... thought you came back, so why ...... to scrap."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			306291,
+			"Can you fix it?",
+			"还能修的好么？",
+			"まだ修理できる？",
+			"아직 수리할 수 있어?",
+			null,
+			null,
+			"Can it still be repaired?",
+			"Can you still repair it?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306292,
+			"It's badly damaged... I don't think I can. We can only report to Bronya and throw it away.",
+			"这个程度的话…也许已经没办法了，只能向布洛妮娅汇报把这些零件扔掉了。",
+			"ここまでになると……もうどうしようもないかも。パーツを取って、他の機甲に流用するくらいしか使い道はないわね……。",
+			"여기까지 오면... 이젠 어쩔 수 없을지도. 부품을 떼어서 다른 기갑에 전용하는 정도밖에 쓸 데가 없겠네....",
+			null,
+			null,
+			"At this level...perhaps there is no way out but to report to Bronya to get rid of these parts.",
+			"By this point, ...... there may be nothing more we can do. The only way to use it is to take parts and divert them to other aircraft. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306293,
+			"... Okay.",
+			"…好吧。",
+			"そう……もうダメなのね……。",
+			"그래... 이젠 안 되는 거구나....",
+			null,
+			null,
+			"...well.",
+			"So ...... you're screwed. ......"
+		],
+		[
+			"msg",
+			306294,
+			"By the way. I haven't met Bronya since I am back to the camp. Where is she...",
+			"说回来，回到基地后就找不到布洛妮娅姐姐了，到底去了哪里呢……",
+			"そういえば、基地に戻ってからブローニャお姉ちゃんの姿が見えないな。一体どこに行っちゃったんだろう……。",
+			"그런데 말이야, 기지에 돌아왔을 때부터 브로냐 언니 모습이 안 보이네. 대체 어디로 갔을까....",
+			null,
+			null,
+			"Back to the base, after returning to find the sister of Bronya, in the end where to go ......",
+			"Come to think of it, I haven't seen sister Bronya since I got back to the base. I wonder where the heck she went. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10117"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306295,
+			null,
+			"",
+			null,
+			null,
+			null
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306296,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			306297,
+			"What was it that drives the mecha to be that persistent. It is just a mecha...",
+			"为什么会有这样的执念呢…明明是机器，到底在坚持些什么呢……",
+			"どうしてこれほどの執念を機械が……一体何に固執しているのでしょう……。",
+			"어째서 이토록 집착을 기계가... 대체 무엇에 집착하고 있는 걸까....",
+			null,
+			null,
+			"Why is there such an obsession...obviously a machine, in the end, what are you holding on to ......",
+			"Why is there so much obsession with what the machine is ...... fixated on ......?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH02_EV01_KnockDoor"
+		],
+		[
+			"msg",
+			306298,
+			null,
+			"",
+			"ブローニャ。",
+			"브로냐.",
+			null
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306299,
+			"... To a small extent, I regret to tell you this place.",
+			"……稍微有点后悔把这个地方告诉你了呢。",
+			"わざわざ探しに来たのですか……この場所をあなたに教えたのをちょっと後悔しています。",
+			"일부러 찾으러 온 건가... 이 장소를 당신에게 알려준 걸 좀 후회하고 있어.",
+			null,
+			null,
+			"...... slightly regretted telling you about this place yet.",
+			"Did you come all the way out here to look for ...... I kind of regret giving you this place."
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306300,
+			"What's the matter?",
+			"怎么了，找我有什么事情么？",
+			"どうしたんです、ブローニャに何か用ですか？",
+			"왜 그러세요, 브로냐에게 무슨 일이라도 있나요?",
+			null,
+			null,
+			"Why, is there something you want to see me about?",
+			"What's the matter, what do you want with Bronya?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306301,
+			"You gave the Homu plush you found to Bronya.",
+			"把找到的吼姆布偶交给了布洛妮娅。",
+			"見つけたホムのぬいぐるみをブローニャに渡した。",
+			"찾은 홈의 인형을 브로냐에게 건넸다.",
+			null,
+			null,
+			"Handed the found Howling Muppet to Bronya.",
+			"He gave the stuffed Homu he found to Bronya."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306302,
+			"This is...! Why do you have it?",
+			"这个是…！为什么你会有这个！？",
+			"これは……！どうしてあなたがこれを！？",
+			"이건……! 어떻게 당신이 이걸!?",
+			null,
+			null,
+			"This is...! Why do you have this!",
+			"This is ......! How did you get this!"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306303,
+			"Did you find it in this castle? Why was it in there... It's ages... since last time I saw it.",
+			"这城堡里面找到的么……为什么会在那里……已经…好久没有见到它了。",
+			"城内で見つけたんですか？……どうしてあそこに……もう……長いこと会っていなかったのに。",
+			"성 안에서 찾으신 건가요?…… 어떻게 거기에…… 벌써…… 오랫동안 만나지 못했는데.",
+			null,
+			null,
+			"Is it found inside this castle ...... Why is it there ...... has been...haven't seen it for a long time.",
+			"Did you find him in the castle? How did you find ...... him there ...... already ...... I hadn't seen him for a long time."
+		],
+		[
+			"choice",
+			[
+				306579,
+				"Bronya, you know this stuffed doll?",
+				"布洛妮娅认识这个布偶么？",
+				"ブローニャはこのぬいぐるみ知ってる？",
+				"브로냐는 이 인형 알아?",
+				null
+			],
+			[
+				306580,
+				"Does this stuffed doll mean anything?",
+				"这个布偶有什么寓意么？",
+				"このぬいぐるみ、ブローニャにとって大切なものなの？",
+				"이 인형, 브로냐에게 소중한 거야?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1166,
+			1167
+		]
+	],
+	"1166": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10117"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306304,
+			"Ah...",
+			"啊……",
+			"あ、すみません、驚いてしまって……。",
+			"아, 죄송합니다, 놀라서…….",
+			null,
+			null,
+			"Ah ......",
+			"Oh, sorry, I was surprised. ......"
+		],
+		[
+			"msg",
+			306305,
+			"Yes, it was once my best friend who stayed with me all the time, my precious doll.",
+			"是呢，它曾经是我最好的朋友，以前总是和我一起形影不离的重要的东西。",
+			"これはブローニャの一番の友達だったんです……前はどこに行くにも一緒でした。",
+			"이건 브로냐의 가장 친한 친구였어요…… 예전엔 어딜 가든 함께였죠.",
+			null,
+			null,
+			"Yes, it used to be my best friend, and it used to be an important thing that was always with me inseparable.",
+			"This was Bronya's best friend before ...... we went everywhere together."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1168
+		]
+	],
+	"1167": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10117"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306306,
+			"Meaning... you ask?",
+			"寓意么……",
+			"大切……。",
+			"소중해…….",
+			null,
+			null,
+			"Is the moral ......",
+			"Important ......."
+		],
+		[
+			"msg",
+			306307,
+			"To me, it was once my best friend... It always stayed with me, all the time, my precious doll.",
+			"对我来说，曾是是最好的朋友吧…以前总是和我一起形影不离的重要的东西。",
+			"はい、とても大切なものです。これはブローニャの一番の友達だったんです……前はどこに行くにも一緒でした。",
+			"네, 아주 소중한 거예요. 이건 브로냐의 가장 친한 친구였어요…… 예전엔 어딜 가든 함께였죠.",
+			null,
+			null,
+			"For me, it was a best friend, right?...something important that was always inseparable with me before.",
+			"Yes, it is very important. This was Bronya's best friend before ...... we went everywhere together."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1168
+		]
+	],
+	"1168": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10117"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306308,
+			"The robots of the rebel army are created based on it. Do you know the origin of the plush toy? It is the protagonist of the most famous manga called \"HOMU's Adventure\".",
+			"反抗军的机器人也都是以它们的原型制作的，你知道这么作品么？它可是来源于一本最著名的漫画作品《吼姆大冒险》，里面的主角吼姆哦。",
+			"レジスタンスのロボットもこれをモデルに作られています。この作品を知っていますか？『ホムの大冒険』というとても有名な漫画で、その主人公がホムです。",
+			"레지스탕스의 로봇도 이것을 모델로 만들어졌어요. 이 작품을 알고 계신가요? 『홈의 대모험』이라는 아주 유명한 만화로, 그 주인공이 홈입니다.",
+			null,
+			null,
+			"Resistance robots are also made with their prototypes, you know so works? It is from one of the most famous comic works \"Howlum Adventure\", the main character Howlum Oh.",
+			"The Resistance robots are also modeled after it. Do you know this work? It is a very famous cartoon called \"The Great Adventure of Hom,\" and its main character is Hom."
+		],
+		[
+			"msg",
+			306309,
+			"That manga is the best one in this century. Every adventure Homu experienced is a nice story, and also my precious memories.",
+			"那个漫画可以说是本世纪最经典的作品了，吼姆经历的故事可都是一段段佳话，给我留下了很多的回忆。",
+			"この漫画は今世紀最大の名作といえるでしょう。ホムの物語はどれも素晴らしくて……ブローニャは全て読破しています。",
+			"이 만화는 이 세기 최고의 명작이라고 할 수 있죠. 홈의 이야기는 모두 멋지고…… 브로냐는 전부 읽어 봤어요.",
+			null,
+			null,
+			"That cartoon can be said to be the century's most classic works, howl the story can be a good story, leaving me a lot of memories.",
+			"This comic is one of the greatest of this century. All of Hom's stories are great and I have read all of ...... Bronya."
+		],
+		[
+			"msg",
+			306310,
+			"Among all I like Homu and Homi's story to most. They trust each other, and never abandon the other. I highly recommend you to read.",
+			"其中我最喜欢的就是吼姆和吼美的故事，它们永远互相相信，永远不离不弃，非常推荐你去看一下呢。",
+			"中でも一番好きなのはホムとホミのお話です。二人はお互い信じ合っていて、永遠に一緒にいるのです。とてもおすすめですよ。",
+			"그중에서 가장 좋아하는 건 호므와 호미의 이야기예요. 두 사람은 서로를 믿고 의지하며 영원히 함께한답니다. 정말 추천해요.",
+			null,
+			null,
+			"One of my favorite is the story of Howlam and Howlam, they will always believe in each other and never leave each other, very recommended that you go to see it.",
+			"One of my favorite stories is about Hom and Homi. They believe in each other and are together forever. I highly recommend it."
+		],
+		[
+			"msg",
+			306311,
+			"And the exciting adventures Homu has with his friends... and...",
+			"还有吼姆的伙伴们一起充满热血的冒险，还有……",
+			"それからホムと仲間たちの血湧き肉躍る冒険、それから——",
+			"그리고 호므와 동료들의 피가 끓고 몸이 떨리는 모험, 그리고——",
+			null,
+			null,
+			"There is also Howlam's partners together full of hot blood adventure, and ......",
+			"Then the bloody adventures of Hom and his friends, and then--"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306312,
+			"And...",
+			"还有……",
+			"それから……。",
+			"그리고…….",
+			null,
+			null,
+			"And ......",
+			"Then go to ......."
+		],
+		[
+			"msg",
+			306313,
+			"And...",
+			"还有……",
+			"それ、から…………。",
+			"그, 그리고………….",
+			null,
+			null,
+			"And ......",
+			"It, from ............."
+		],
+		[
+			"msg",
+			306314,
+			"Sigh... I didn't want to recall it...",
+			"呃……明明已经不想回想起来的……",
+			"あぁ……もう思い出したくないのに……。",
+			"아…… 이젠 떠올리고 싶지 않은데…….",
+			null,
+			null,
+			"Uh ...... obviously already don't want to recall it ......",
+			"Oh ...... even though I don't want to remember anymore. ......"
+		],
+		[
+			"bg",
+			"CG10126"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306315,
+			"Why... Why do I meet it again. I had abandoned it already back then... Why it appears again...",
+			"为什么…为什么这个时候还要让我再见到它呢…当时就已经放弃了才对……为什么还会出现在这里……",
+			"どうして……どうして今また再会してしまったのでしょう……あのとき捨てたはずなのに……どうしてまたここに現れたんでしょう……。",
+			"왜…… 왜 지금 다시 만나게 된 걸까요…… 그땐 버렸을 텐데…… 왜 또 여기 나타난 거죠…….",
+			null,
+			null,
+			"Why ... why do I have to let me see it again at this time ... at that time have given up only ...... why will still appear here ......",
+			"Why...... did I see you again now...... why did you show up here again when I should have dumped you then? Why......."
+		],
+		[
+			"msg",
+			306316,
+			"Why you make me recall it again, the young and innocent me...",
+			"为什么要让我想起这些…想起那个时候天真的自己……",
+			"どうして、また思い出させようとするのでしょう……あの頃の無邪気な自分を……。",
+			"왜, 다시 떠올리려고 하는 걸까요…… 그때의 순수한 자신을…….",
+			null,
+			null,
+			"Why do I have to remind me of this ... remember that time naive self ......",
+			"Why do you try to remind me again ...... of how innocent I was back then?"
+		],
+		[
+			"msg",
+			306317,
+			"I won't be this sad if I were emotionless... How could I erase this painful feeling from my heart... What should I do... It's so painful... but I can't even shed a drop of tear...",
+			"如果是没有感情的我就不会这么悲伤了…这个内心的疼痛到底要怎么样才能消除…我到底该怎么办……明明很疼，却哭不出眼泪……",
+			"感情を無くしたブローニャは悲しくないはずないのに……この心の痛みはどこから来るのですか……どうやったら消せるのですか……一体どうすれば……とても痛いのに、一滴も涙を流せません……。",
+			"감정을 잃은 브로냐는 슬프지 않을 텐데…… 이 마음의 아픔은 어디서 오는 걸까요…… 어떻게 하면 사라질까요…… 대체 어떻게 해야…… 너무 아픈데, 한 방울의 눈물도 흘릴 수 없어요…….",
+			null,
+			null,
+			"If it is no feelings I will not be so sad ... this inner pain in the end how to eliminate ... what should I do in the end ...... obviously very painful, but can not cry tears ......",
+			"Bronyas who have lost their emotions should not be sad. ...... where does this heartache come from......... how can I turn it off...? ...How on earth can I ...... not shed a single tear even though it hurts so much......"
+		],
+		[
+			"msg",
+			306318,
+			"If I had know emotions were such heavy, I would rather abandon everything!",
+			"如果早知道感情是这么沉重的东西，干脆把一切都舍弃掉就好了！",
+			"感情がこんなに重苦しいものだと知っていたら、いっそ全て捨ててしまえれば良かったのに！",
+			"감정이 이렇게 무거운 것이라면 차라리 모두 버려버릴 걸 그랬어요!",
+			null,
+			null,
+			"If I had known that feelings are such a heavy thing, I would have simply given up everything!",
+			"If I had known that emotions could be so heavy, why didn't I just throw them all away!"
+		],
+		[
+			"msg",
+			306319,
+			"Why... why do you do this, make me resume my emotions and erase them again; give me hope and then leave me alone...",
+			"为什么…为什么你要教会我这些呢，让我拥有了感情却又将它抹杀……给了我希望却又离我而去……",
+			"どうして……どうして教えたのですか？ブローニャに感情を取り戻させて、また失わせて……希望を与えてからいなくなるなんて……。",
+			"왜…… 왜 가르쳐준 거예요? 브로냐에게 감정을 되찾게 했다가 다시 잃게 하고…… 희망을 준 뒤 사라지다니…….",
+			null,
+			null,
+			"Why...why did you teach me this, let me have the feelings but then erase it ...... gave me hope but then left me ......",
+			"Why did you teach ...... why? How could you let Bronya regain her emotions and then lose them again and give her ...... hope and then disappear? ......"
+		],
+		[
+			"msg",
+			306320,
+			"Why don't you kill me? Are you not my enemy? Why?",
+			"既然是敌人为什么不杀掉我们呢！为什么又让我活了下来呢！",
+			"敵なら、どうしてブローニャたちを殺さないのですか！どうしてまだ生かしておくのですか！",
+			"적이라면, 왜 브로냐들을 죽이지 않는 거예요! 왜 아직 살려두고 있는 거예요!",
+			null,
+			null,
+			"Why didn't they kill us if they were the enemy! Why did you let me live again!",
+			"If you are the enemy, why haven't you killed Bronya and the others? Why do you still let them live?"
+		],
+		[
+			"msg",
+			306321,
+			"What do you want me to do... How can I go back to what I was?",
+			"你到底要我怎么做呢…怎么做才能回到和从前一样呢！",
+			"一体どうしろと……どうすれば以前のように戻れるのですか！",
+			"대체 어떻게 하라는 거야…… 어떻게 하면 이전처럼 돌아갈 수 있는 거야!",
+			null,
+			null,
+			"What the hell do you want me to do...how can I go back to being the same as before!",
+			"What the hell do you want me to do ...... to get back to the way things were before!"
+		],
+		[
+			"msg",
+			306322,
+			"Why bother persisting... I can't see there's any point to struggle...",
+			"我到底…还在坚持些什么呢……这样的挣扎真的还有意义么！",
+			"ブローニャは一体……これからどれだけの痛みに耐えれば済むのでしょう……こんな悪足掻きをして本当に意味があるのですか！？",
+			"브로냐는 대체…… 앞으로 얼마나 더 고통을 견뎌야 하는 걸까요…… 이런 허탕을 치는 게 정말 의미가 있는 건가요!?",
+			null,
+			null,
+			"I am in the end ... still holding on to something ...... such a struggle is really still meaningful!",
+			"How much pain will Bronya have to endure ...... from now on? ...... Is there really any point in this kind of bad footsteps!"
+		],
+		[
+			"msg",
+			306323,
+			"Mei......",
+			"芽衣姐姐……",
+			"芽衣姉様……。",
+			"메이 언니…….",
+			null,
+			null,
+			"Sister Meiko ......",
+			"Mei Sis. ......."
+		],
+		[
+			"msg",
+			306324,
+			"Please tell me!",
+			"请你告诉我！",
+			"答えてください！",
+			"대답해 주세요!",
+			null,
+			null,
+			"Please tell me!",
+			"Please answer!"
+		],
+		[
+			"msg",
+			306325,
+			"Tell me, gently like you were before",
+			"用以前那样的温柔的表情告诉我……",
+			"以前のような優しい表情で答えてください……。",
+			"이전처럼 다정한 표정으로 대답해 주세요…….",
+			null,
+			null,
+			"Tell me with the same gentle expression as before ......",
+			"Please answer with the same kind look you had before: ......."
+		],
+		[
+			"msg",
+			306326,
+			"What should I do to find you back...",
+			"我该怎么样才能找回你……",
+			"どうすれば芽衣姉様を取り戻せるのか……。",
+			"어떻게 하면 메이 언니를 되찾을 수 있을까…….",
+			null,
+			null,
+			"How can I get you back ......",
+			"How can I get my sister Mei back? ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			306327,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			306328,
+			"...",
+			"…",
+			"…………。",
+			"………….",
+			null
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10117"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306329,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			306330,
+			"Sorry, I couldn't help...",
+			"抱歉，让你看到丢脸的样子了……",
+			"……すみません……みっともないところを見せてしまいました……。",
+			"……죄송해요…… 제가 추태를 보였네요…….",
+			null,
+			null,
+			"Sorry to show you the disgrace ......",
+			"I'm sorry ...... I'm sorry ...... I've shown you my shabby ......."
+		],
+		[
+			"msg",
+			306331,
+			"I am the leader of the Fire Moths, and should never falter ... Please don't mention this to Seele, it will niggle her.",
+			"明明是逐火之蛾的首领，却表现的这么动摇……请不要把这件事情告诉希儿，不然她一定会担心的。",
+			"火を追う蛾のリーダーが、こんな動揺を見せてはダメですね……このことはゼーレには内緒にしてください。きっと心配してしまうでしょうから。",
+			"불을 좇는 나방의 리더가 이런 동요을 보이면 안 되는데…… 이건 제레에게는 비밀로 해주세요. 분명 걱정할 테니까요.",
+			null,
+			null,
+			"Obviously the leader of the moth by fire, but behaving so shakily ...... Please do not tell this matter to Hir, or she will surely worry.",
+			"The leader of the fire-chasing moths should not be this upset. ...... Please do not tell Seele about this. I am sure he will be worried."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306332,
+			"I've come to myself. Please forget about what just happened. Thank you for giving me the plush.",
+			"我已经没事了，请把刚才的事情忘记吧，谢谢你把这个布偶给我。",
+			"もう大丈夫です。さっきのことは忘れてください。このぬいぐるみ、ありがとうございます。",
+			"이젠 괜찮아요. 아까 일은 잊어주세요. 이 인형, 고마워요.",
+			null,
+			null,
+			"I am fine now, please forget what just happened, and thank you for giving me this Muppet.",
+			"It's all right now. Forget about what just happened. Thank you for this stuffed animal."
+		],
+		[
+			"msg",
+			306333,
+			"Thanks...",
+			"谢谢……",
+			"ありがとう……。",
+			"고마워…….",
+			null,
+			null,
+			"Thanks ......",
+			"Thank you ......."
+		]
+	],
+	"1169": [
+		[
+			"bgm",
+			74
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306585,
+			"I found a black box, it's still intact...",
+			"捡到了完好的黑匣子……",
+			"完全なブラックボックスを拾った——",
+			"완전한 블랙박스를 주웠다——",
+			null,
+			null,
+			"Picked up intact black box ......",
+			"I picked up a complete black box--"
+		]
+	]
+}

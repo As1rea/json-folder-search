@@ -1,0 +1,4026 @@
+{
+	"10660": [
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"bg",
+			"CG10257"
+		],
+		[
+			"portraits",
+			[
+				30578,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			731981,
+			null,
+			"喔！真的有，几乎一模一样，阿库莉亚你好厉害！",
+			"あっ！本当にあったよ、そっくりなトラック！アクリアってホントすごいね！",
+			"앗! 정말 있었어, 똑같은 트럭! 아쿠리아 정말 대단해!",
+			null,
+			null,
+			"Wow! It's really there, it's almost exactly the same, Arkria you're amazing!",
+			"Ah! There really was a truck that looked just like it! Arkria is really amazing!"
+		],
+		[
+			"portraits",
+			[
+				30578,
+				30,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			731982,
+			null,
+			"钥匙还插在车上……阿库莉亚你是神吗！？",
+			"しかもキーがささったままになってる……アクリアって実は神さまなの！？",
+			"게다가 키가 꽂힌 채로 있어... 아쿠리아 사실 신인 거야!?",
+			null,
+			null,
+			"The keys are still in the car ...... Arkria are you a god!",
+			"And the key is still in the keypad. ...... Arkria is actually a god!"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30578,
+				30,
+				true
+			],
+			[
+				30569,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			731983,
+			null,
+			"<color=#6666FFFF>接下来，我会指引你找到我和你的车。 </color>",
+			"<color=#6666FFFF>問題が無ければ、あなたのトラックを誘導するわね。 </color>",
+			"<color=#6666FFFF>문제가 없다면, 당신의 트럭을 유도할게. </color>",
+			null,
+			null,
+			"<color=#6666FFFF>Next, I will direct you to me and your car. </color",
+			"<color=#6666FFFF>If there are no problems, I'll direct you to your track. </color>"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30578,
+				5,
+				false
+			],
+			[
+				30569,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			731984,
+			null,
+			"直接撞上去打一架，然后把你抢回来吗？",
+			"了解～！追いついたらそのまま追突すればいいのかな？",
+			"알겠어~! 따라잡으면 그대로 추돌하면 되는 거야?",
+			null,
+			null,
+			"Just crash and fight and get you back?",
+			"Understood~! If I catch up with them, should I just crash?"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30578,
+				5,
+				true
+			],
+			[
+				30569,
+				19,
+				false
+			]
+		],
+		[
+			"msg",
+			731985,
+			null,
+			"<color=#6666FFFF>没到时候。</color>",
+			"<color=#6666FFFF>今はそれができる状況じゃないわ。</color>",
+			"<color=#6666FFFF>지금은 그럴 상황이 아니야.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>Not in time. </color>",
+			"<color=#6666FFFF>Now is not the time for that. </color>"
+		],
+		[
+			"portraits",
+			[
+				30578,
+				5,
+				true
+			],
+			[
+				30569,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			731986,
+			null,
+			"<color=#6666FFFF>如果交火起来你的车发动机或者车胎被打爆了，我们就连跑都没得跑了。</color>",
+			"<color=#6666FFFF>もしトラックのエンジンやタイヤを撃たれて壊れてしまったら、逃げられなくなってしまうから。</color>",
+			"<color=#6666FFFF>트럭의 엔진이나 타이어를 쏴서 고장 나면, 도망칠 수 없게 되니까.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>If a firefight breaks out and your car's engine or tires are blown out, we won't even be able to run. </color",
+			"<color=#6666FFFF>Because if the truck's engine or tires were shot and destroyed, we wouldn't be able to escape. </color>"
+		],
+		[
+			"msg",
+			731987,
+			null,
+			"<color=#6666FFFF>开着它跟在我后面，隔着一个街区就行。</color>",
+			"<color=#6666FFFF>そのトラックを運転して、少し距離を取りながらついてきて。</color>",
+			"<color=#6666FFFF>그 트럭을 운전해서, 약간의 거리를 두며 따라와.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>Just follow me in it, a block away. </color",
+			"<color=#6666FFFF>Drive that truck and follow me for some distance. </color>"
+		],
+		[
+			"msg",
+			731988,
+			null,
+			"<color=#6666FFFF>我会挑一个好时机的。</color>",
+			"<color=#6666FFFF>私が仕掛けるタイミングを見計らうから。</color>",
+			"<color=#6666FFFF>내가 작동시킬 타이밍을 노릴게.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>I'll pick a good time. </color",
+			"<color=#6666FFFF>Because I'm going to find the right time to set it up. </color>"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"msg",
+			731989,
+			null,
+			"<color=#6666FFFF>接下来的计划，我来说明。</color>",
+			"<color=#6666FFFF>ここから先の計画を説明するわね。</color>",
+			"<color=#6666FFFF>여기서부터 앞으로의 계획을 설명할게.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>I'll explain the next plan. </color>",
+			"<color=#6666FFFF>I'll explain the plan from here on out. </color>"
+		]
+	],
+	"10661": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			731990,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			731991,
+			null,
+			"……………………",
+			"……………………",
+			"……………………",
+			null
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30578,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			731992,
+			null,
+			"到了。",
+			"着いたよ～。",
+			"도착했어~.",
+			null,
+			null,
+			"Arrived.",
+			"We're here!"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30578,
+				1,
+				true
+			],
+			[
+				30569,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			731993,
+			null,
+			"<color=#6666FFFF>地图显示前面是观景隧道，接下来就到指定位置了。</color>",
+			"<color=#6666FFFF>想定通りね。地図を確認したところ、この先が件のトンネルよ。</color>",
+			"「예상대로네. 지도를 확인해보니 이 앞이 문제의 터널이야.——",
+			null,
+			null,
+			"<color=#6666FFFF>The map shows the viewing tunnel ahead, and the next step is to the designated location. </color>",
+			"<color=#6666FFFF>As expected. I checked the map and this is the tunnel. </color>"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30578,
+				12,
+				false
+			],
+			[
+				30569,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			731994,
+			null,
+			"好嘞，然后把他们堵在这个隧道里揍一顿对吧。",
+			"了解！それで奴らをトンネルから出られないようにして、ボコボコにするんだよね？",
+			"알겠어! 그래서 놈들을 터널에서 나오지 못하게 하고 두들겨 패주자는 거지?",
+			null,
+			null,
+			"All right, then we'll stick them in this tunnel and beat them up, right?",
+			"Roger that! So we make sure they can't get out of the tunnel and we beat the crap out of them, right?"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30578,
+				12,
+				true
+			],
+			[
+				30569,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			731995,
+			null,
+			"最差情况下才这么做。",
+			"あくまで状況が最悪なときだけよ。",
+			"어디까지나 상황이 최악일 때만이야.",
+			null,
+			null,
+			"Worst case scenario only.",
+			"Only when things are at their worst."
+		],
+		[
+			"msg",
+			731996,
+			null,
+			"<color=#6666FFFF>保险起见，复述一遍我们刚才讨论的结果。</color>",
+			"<color=#6666FFFF>念のため、さっき話した内容を復唱してみてくれないかしら？</color>",
+			"<color=#6666FFFF>혹시 몰라, 아까 얘기한 내용을 다시 한번 말해줄 수 있을까?</color>",
+			null,
+			null,
+			"<color=#6666FFFF>To be on the safe side, restate the results of what we just discussed. </color>",
+			"<color=#6666FFFF>Just to be sure, could you recite what you just said? </color>"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				19,
+				false
+			],
+			[
+				30569,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			731997,
+			null,
+			"嗯！",
+			"おっけー！",
+			"오케이!",
+			null,
+			null,
+			"Uh-huh!",
+			"OKAY!"
+		],
+		[
+			"msg",
+			731998,
+			null,
+			"首先我们两辆车先后开进观景隧道……",
+			"まず、アクリアの乗ったトラックに続いてトンネルに入っていく。",
+			"먼저, 아쿠리아가 탄 트럭을 따라 터널로 들어가는 거야.",
+			null,
+			null,
+			"First our two cars drove into the viewing tunnel one after the other ......",
+			"First, they followed the truck with Arkria in it into the tunnel."
+		],
+		[
+			"msg",
+			731999,
+			null,
+			"然后阿库会把隧道里的灯和护送车辆的车灯都熄灭，并且干扰对方的通讯——阿库是带了EMP嘛？",
+			"それから、アクリアがトンネルの照明と護送部隊の車両のライトを全部消して、同時に敵の通信を妨害するんだよね——アクリア、EMPとか持ってるの？",
+			"그 다음, 아쿠리아가 터널 조명과 호송 부대 차량의 라이트를 모두 끄고, 동시에 적의 통신을 방해하는 거지——아쿠리아, EMP 같은 거 가지고 있어?",
+			null,
+			null,
+			"Then Aku will turn out the lights in the tunnel and the lights of the escort vehicle and jam the other side's communications - is Aku wearing an EMP?",
+			"Then, Akria will turn off all the lights in the tunnel and the convoy vehicles and jam the enemy's communications at the same time - Akria, do you have an EMP or something?"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				19,
+				true
+			],
+			[
+				30569,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			732000,
+			null,
+			"<color=#6666FFFF>就当我会魔法吧。然后？</color>",
+			"<color=#6666FFFF>まあ、魔法みたいな力を使えるとでも思ってくれればいいわ。その後は？</color>",
+			"<color=#6666FFFF>뭐, 마법 같은 힘을 쓸 수 있다고 생각해주면 돼. 그 다음은?</color>",
+			null,
+			null,
+			"<color=#6666FFFF>Let's pretend I can do magic. Then? </color",
+			"<color=#6666FFFF>Well, just think of it as being able to use powers like magic. And after that? </color>"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				1,
+				false
+			],
+			[
+				30569,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			732001,
+			null,
+			"这时交火的条件才达成，可以开始进攻。",
+			"その後は……戦える環境が整ったから、攻撃していいんだよね。",
+			"그 다음은... 전투 환경이 갖춰졌으니 공격해도 되는 거야.",
+			null,
+			null,
+			"This is when the conditions for a firefight are met and the attack can begin.",
+			"After that, we're ready to ...... fight, so we can attack."
+		],
+		[
+			"msg",
+			732002,
+			null,
+			"但交火只是为了吸引对方的注意力，以及协助你趁机夺车。",
+			"でも、敵の注意を引き付けるのと、アクリアが車を奪う隙を作るのが目的で——",
+			"하지만, 적의 주의를 끄는 것과 아쿠리아가 차량을 탈취할 틈을 만드는 게 목적이야——",
+			null,
+			null,
+			"But the firefight is just to get the other guy's attention, as well as to assist you in taking the car while you have the chance.",
+			"But the goal was to get the enemy's attention and to create an opening for Arkria to take the car--"
+		],
+		[
+			"msg",
+			732003,
+			null,
+			"如果能压制对方就压制，把我的车和车上的全部财产拿回来。",
+			"戦って、制圧できれば制圧して、あたしのトラックと全財産を取り返す。",
+			"싸워서 제압할 수 있으면 제압하고, 내 트럭과 전 재산을 되찾는 거지.",
+			null,
+			null,
+			"Suppress the other side if you can and get my car and all the property in it back.",
+			"We will fight and if we can control it, we will control it and get my truck and all my money back."
+		],
+		[
+			"msg",
+			732004,
+			null,
+			"如果不行就直接撤，我驾驶的车离得远没受到干扰影响。#n可以打开示廓灯吸引对方的注意力，调动对方用主力来追击。",
+			"もし制圧できなかったら撤退するんだよね。このトラックのライトは無事なはずだから、灯火して敵の注意を引き付けながら。",
+			"만약 제압하지 못하면 퇴각하는 거야. 이 트럭의 라이트는 무사할 테니, 불을 켜서 적의 주의를 끌면서.",
+			null,
+			null,
+			"If it doesn't work, just pull out. The car I'm driving is far away and not affected by the interference. You can turn on the silhouette lights to attract the attention of the other side and mobilize them to use their main force to pursue.",
+			"If we can't control them, we'll retreat. The lights on this truck should be safe, so we'll light it up and draw the enemy's attention while we're at it."
+		],
+		[
+			"msg",
+			732005,
+			null,
+			"就算没有成功吸引敌人的注意力，两辆造型相同的车会给对方制造那个决策……决策压力。",
+			"注意を引き付けられなかったとしても、見た目がそっくりなトラックが2台あることを生かして、なんだっけ……意思決定？そう、相手が意思決定をしにくい状況を作るんだった。",
+			"주의를 끌지 못했다 해도, 외관이 똑같은 트럭 두 대를 이용해서, 뭐더라…… 의사 결정? 맞아, 상대방이 의사 결정을 하기 어려운 상황을 만드는 거였지.",
+			null,
+			null,
+			"Even if they don't succeed in attracting the enemy's attention, two cars with the same shape will create that decision ...... making pressure on the opponent.",
+			"Even if you couldn't get their attention, you could take advantage of the fact that there are two trucks that look exactly alike and make what was it ...... decision making? Yes, we were going to make it difficult for them to make decisions."
+		],
+		[
+			"msg",
+			732006,
+			null,
+			"我的目标地点是吼姆博物馆附近的净化委员会办事处。而阿库的则是另一个街区的办公地点。",
+			"トンネルを離れたら、あたしはホム博物館の近くにある浄化委員会のオフィスに向かう。そしてアクリアは別のブロックにあるオフィスに行くわけだけど——",
+			"터널을 떠나면, 나는 HOM 박물관 근처에 있는 정화 위원회 사무실로 향할 거야. 그리고 아쿠리아는 다른 블록에 있는 사무실로 가는데——",
+			null,
+			null,
+			"My target location is the Purification Committee office near the Howeum Museum. And Aku's is an office in another neighborhood.",
+			"Once we leave the tunnel, I go to the purification committee's office near the Homme Museum. And Arkria goes to an office on another block."
+		],
+		[
+			"portraits",
+			[
+				30568,
+				5,
+				false
+			],
+			[
+				30569,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			732007,
+			null,
+			"说起来到了委员会对方就不会开火了吗？",
+			"そういえば、浄化委員会のオフィスまで敵は追いかけてくるよね？攻撃してこないかな？",
+			"그러고 보니, 정화 위원회 사무실까지 적들이 쫓아오겠지? 공격해오지는 않을까?",
+			null,
+			null,
+			"Speaking of which, won't the other side fire when we get to the committee?",
+			"Oh, by the way, the enemy will follow us to the purification committee's office, right? Won't they attack us?"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				5,
+				true
+			],
+			[
+				30569,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			732008,
+			null,
+			"<color=#6666FFFF>我做了调查，选的那两个目标地点……都有崩坏学园的学生实习。</color>",
+			"<color=#6666FFFF>その二か所は調査済みよ。崩壊学園の生徒がインターンシップを行っているわ。</color>",
+			"<color=#6666FFFF>그 두 곳은 이미 조사된 곳이야. 붕괴 학원 학생들이 인턴십을 하고 있다고.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>I did my research, and the two target locations ...... chosen both have Honkai students interning. </color>",
+			"<color=#6666FFFF>We've already investigated those two places. Honkai Academy students are doing internships there. </color>"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				4,
+				false
+			],
+			[
+				30569,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			732009,
+			null,
+			"然后还有一堆应对意外情况的后备计划……",
+			"アクシデントがあった時のための予備プランも準備してあるんだ……。",
+			"사고가 발생했을 때를 대비한 예비 플랜도 준비해 놨어……",
+			null,
+			null,
+			"And then there are a bunch of backup plans for the unexpected ......",
+			"I have a backup plan ready in case of an accident. ......"
+		],
+		[
+			"portraits",
+			[
+				30568,
+				7,
+				false
+			],
+			[
+				30569,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			732010,
+			null,
+			"是我的话肯定就是找个机会偷袭，然后打得过就打，打不过就跑了。",
+			"あたしだったら、襲撃のチャンスをうかがって、勝てそうなら戦う！勝てないなら逃げる！くらいしか思いつかないだろうな～。",
+			"내가 그랬다면, 습격할 기회를 노려서, 이길 수 있을 것 같으면 싸우고! 이길 수 없으면 도망가는! 정도밖에 생각하지 못했을 거야~.",
+			null,
+			null,
+			"If it was me I'd definitely just find a chance to sneak up on them and then fight if I could, or run away if I couldn't.",
+			"If it were me, I would look for a chance to attack, and if I thought I could win, I would fight! If not, I would run away! That's all I could think of!"
+		],
+		[
+			"portraits",
+			[
+				30568,
+				2,
+				false
+			],
+			[
+				30569,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			732011,
+			null,
+			"能这么短时间内想出这么复杂的计划，好厉害啊！",
+			"こんな短時間でここまで複雑なプランを考えることができるなんて、アクリアってホントすごい！",
+			"이렇게 짧은 시간 안에 이렇게 복잡한 플랜을 생각해낼 수 있다니, 아쿠리아는 정말 대단해!",
+			null,
+			null,
+			"So awesome to come up with such a complex plan in such a short period of time!",
+			"It is really amazing that Arkria can come up with such a complex plan in such a short time!"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				2,
+				true
+			],
+			[
+				30569,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			732012,
+			null,
+			"<color=#6666FFFF>这不是值得夸奖的事情。#n越复杂的计划也越脆弱。</color>",
+			"<color=#6666FFFF>褒められるほどの事じゃないわ。#nそれに複雑なプランほど隙が多い。</color>",
+			"<color=#6666FFFF>칭찬받을 만한 일은 아니야.#n게다가 복잡한 플랜일수록 빈틈이 많아.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>This is not something to be complimented. The more complex the plan the more fragile it is too. </color>",
+			"<color=#6666FFFF>That's not much praise. And the more complicated the plan, the more gaps there are. </color>"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				5,
+				false
+			],
+			[
+				30569,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			732013,
+			null,
+			"你对自己好严格哦……",
+			"アクリアは本当に自分に厳しいんだから……。",
+			"아쿠리아는 정말 자기 자신에게 엄격하네…….",
+			null,
+			null,
+			"You're so hard on yourself ......",
+			"Arkria is really hard on herself. ......"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				5,
+				true
+			],
+			[
+				30569,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			732014,
+			null,
+			"<color=#6666FFFF>只是我目前手中能用的棋子太少了。#n只能出此下策。</color>",
+			"<color=#6666FFFF>今、私が使える手駒はすごく限られているし。#n良い策ではないけど今回はこうするしかないわ。</color>",
+			"<color=#6666FFFF>지금 내가 쓸 수 있는 수단은 굉장히 제한적이야.#n좋은 계책은 아니지만 이번에는 이 방법밖에 없어.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>I just have too few pieces in my hands to use at the moment. This is the only way out. </color>",
+			"<color=#6666FFFF>I have very limited moves available to me right now. It's not a good plan, but it's what I have to do this time. </color>"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				22,
+				false
+			],
+			[
+				30569,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			732015,
+			null,
+			"我知道啦，阿库不想我上去硬碰硬嘛。好贴心~",
+			"あっ、わかった！あたしのことを心配して、真っ向から敵とぶつかる状況をなるべく避けたいんだよね？やさし～い。",
+			"아, 알겠어! 내 걱정 때문에 정면으로 적과 부딪히는 상황을 최대한 피하고 싶은 거지? 상냥하~다.",
+			null,
+			null,
+			"I know. Cu doesn't want me to go up against him. That's so sweet.",
+			"Oh, I get it! You're worried about me, and you want to avoid a situation where you have to go head-to-head with the enemy as much as possible, right? That's so sweet."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				22,
+				true
+			],
+			[
+				30569,
+				8,
+				false
+			]
+		],
+		[
+			"msg",
+			732016,
+			null,
+			"<color=#6666FFFF>……唔，闲话等赢了之后再说，要到了。</color>",
+			"<color=#6666FFFF>……まあ、そういう無駄話は逃げ切ってからすることね。もうすぐ着くわ。</color>",
+			"<color=#6666FFFF>……뭐, 그런 쓸데없는 이야기는 탈출한 다음에 하자곘어. 곧 도착할 거야.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>...... Well, the rambling will wait until after the win to arrive. </color>",
+			"<color=#6666FFFF>...... Well, you'll have to wait until after you get away to talk about those useless things. We're almost there. </color>"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				1,
+				false
+			],
+			[
+				30569,
+				8,
+				true
+			]
+		],
+		[
+			"msg",
+			732017,
+			null,
+			"确实………要动手了。",
+			"そうだね……もうすぐ始まるね。",
+			"그래…… 곧 시작이네.",
+			null,
+			null,
+			"Indeed ......... is going to do it.",
+			"Yes, ...... will be starting soon."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				1,
+				true
+			],
+			[
+				30569,
+				8,
+				false
+			]
+		],
+		[
+			"msg",
+			732018,
+			null,
+			"<color=#6666FFFF>保持冷静，做好准备。</color>",
+			"<color=#6666FFFF>落ち着いて準備して。</color>",
+			"<color=#6666FFFF>침착하게 준비해.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>Keep calm and be prepared. </color>",
+			"<color=#6666FFFF>Calm down and get ready. </color>"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				2,
+				false
+			],
+			[
+				30569,
+				8,
+				true
+			]
+		],
+		[
+			"msg",
+			732019,
+			null,
+			"嗯嗯！",
+			"うんうん！",
+			"응응!",
+			null,
+			null,
+			"Uh-huh!",
+			"Mm-hmm!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30569,
+				8,
+				true
+			]
+		],
+		[
+			"msg",
+			732020,
+			null,
+			"我，全神贯注地注视着红绿灯的变化。",
+			"あたしは信号が変わる瞬間に全神経を集中させた。",
+			"나는 신호가 바뀌는 순간에 전신경을 집중시켰다.",
+			null,
+			null,
+			"I, with my full attention, watched the stoplight change.",
+			"I focused all my attention on the moment the signal changed."
+		],
+		[
+			"bg",
+			"CG10257"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732021,
+			null,
+			"红灯……红灯还有十秒。",
+			"赤だ……赤があと10秒続く。",
+			"빨간불…… 빨간불이 10초 더 남았어.",
+			null,
+			null,
+			"Red light ...... red light with ten seconds to go.",
+			"It's red. ...... red lasts 10 more seconds."
+		],
+		[
+			"speaker",
+			320797
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30770,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			732022,
+			null,
+			"各单位，准备过隧道。",
+			"各位、間もなくトンネルに入る。",
+			"각위, 곧 터널에 들어갑니다.",
+			null,
+			null,
+			"All units, prepare to cross the tunnel.",
+			"Ladies and gentlemen, we will soon enter the tunnel."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732023,
+			null,
+			"无线电里的敌人们还对情况一无所知。",
+			"無線の内容に変化は見られない。こちらの作戦にまったく気づいていないようだ。",
+			"무전 내용에 변화는 없습니다. 우리의 작전을 전혀 눈치채지 못한 것 같습니다.",
+			null,
+			null,
+			"The enemies on the radio are still in the dark about the situation.",
+			"There is no change in the radio content. It seems that they are completely unaware of our operation."
+		],
+		[
+			"msg",
+			732024,
+			null,
+			"九、八、七……",
+			"9、8、7……。",
+			"9, 8, 7…….",
+			null,
+			null,
+			"IX, VIII, VII ......",
+			"9, 8, 7. ......."
+		],
+		[
+			"msg",
+			732025,
+			null,
+			"六、五、四……",
+			"6、5、4……。",
+			"6, 5, 4…….",
+			null,
+			null,
+			"VI, V, IV ......",
+			"6, 5, 4. ......."
+		],
+		[
+			"msg",
+			732026,
+			null,
+			"三、二、一……",
+			"3、2、1……。",
+			"3, 2, 1…….",
+			null,
+			null,
+			"III, II, I ......",
+			"3, 2, 1. ......."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				38,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732027,
+			null,
+			"好————————诶！？？！",
+			"よし——あれっ！？！？",
+			"좋아——엇!?!?",
+			null,
+			null,
+			"Good -------- eh!?",
+			"Okay - what the heck is that?"
+		],
+		[
+			"speaker",
+			320791
+		],
+		[
+			"portraits",
+			[
+				30644,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH02_EV06_DoorImpactB"
+		],
+		[
+			"msg",
+			732028,
+			null,
+			"轰————————————！！！！！！！！！",
+			"ドンッ——————！！！！！！！！！",
+			"쿵——————!!!!!!!",
+			null,
+			null,
+			"Boom --------- --- ！！！！！！！！！",
+			"Don't ------！！！！！！！！！"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				38,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732029,
+			null,
+			"这不是还没进隧道吗？怎么回事？",
+			"まだトンネルに入ってないのに！どういう事！？",
+			"아직 터널에 들어가지도 않았는데! 무슨 일이야!?",
+			null,
+			null,
+			"I thought we weren't in the tunnel yet. What's going on?",
+			"We haven't even entered the tunnel yet! What's going on?"
+		],
+		[
+			"msg",
+			732030,
+			null,
+			"怎么路口忽然开过来一辆大铲车。",
+			"バカでかいホイールローダーが急に現れたんだけど！？",
+			"갑자기 어마어마한 휠 로더가 나타났다고!?",
+			null,
+			null,
+			"How come a big forklift suddenly drove up at the intersection.",
+			"A ridiculously large wheel loader just appeared out of nowhere!"
+		],
+		[
+			"bgm",
+			132
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				38,
+				true
+			],
+			[
+				30569,
+				15,
+				false
+			]
+		],
+		[
+			"msg",
+			732031,
+			null,
+			"<color=#6666FFFF>卡琳，外面是什么情况？</color>",
+			"<color=#6666FFFF>カリン、外で何が起きているの？</color>",
+			"<color=#6666FFFF>카린, 밖에서 무슨 일이 일어나고 있는 거야?</color>",
+			null,
+			null,
+			"<color=#6666FFFF>Karin, what's going on out there? </color",
+			"<color=#6666FFFF>Karin, what's going on out there? </color>"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				38,
+				false
+			],
+			[
+				30569,
+				15,
+				true
+			]
+		],
+		[
+			"msg",
+			732032,
+			null,
+			"大、大铲车……忽然开来一辆大铲车……直接把你在的货车给铲走了！？",
+			"ホイールローダーが……いきなりバカでかいホイールローダーが突っ込んできて……アクリアの乗ったトラックをかっさらっていっちゃったんだよ！",
+			"휠 로더가……갑자기 엄청 큰 휠 로더가 돌진해 와서……아쿠리아가 탄 트럭을 낚아채 가버렸어!",
+			null,
+			null,
+			"Big, big forklift ...... suddenly drove a big forklift ...... directly to the truck you are in!",
+			"A wheel loader ...... suddenly a ridiculously large wheel loader plowed into it and snatched away the truck with ...... Arkria on it!"
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				30569,
+				15,
+				true
+			]
+		],
+		[
+			"msg",
+			732033,
+			null,
+			"阿库，哪儿来的大铲车啊！？",
+			"アクリア！あのホイールローダーはどこからきたの！？",
+			"아쿠리아! 저 휠 로더는 어디서 온 거야!?",
+			null,
+			null,
+			"Aku, where did the big forklift come from!",
+			"Arkria! Where did that wheel loader come from!"
+		],
+		[
+			"speaker",
+			320797
+		],
+		[
+			"portraits",
+			[
+				30770,
+				0,
+				false
+			],
+			[
+				30569,
+				15,
+				true
+			]
+		],
+		[
+			"msg",
+			732034,
+			null,
+			"各单位，哪来的大铲车啊！？",
+			"お、おい！あの車両は何だ！？",
+			"어, 어이! 저 차량은 뭐야!?",
+			null,
+			null,
+			"Units, where's the big forklift!",
+			"Oh, hey! What the hell is that vehicle!"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30770,
+				0,
+				true
+			],
+			[
+				30569,
+				23,
+				false
+			]
+		],
+		[
+			"msg",
+			732035,
+			null,
+			"<color=#6666FFFF>不知道啊！？</color>",
+			"<color=#6666FFFF>私も知らないわ！</color>",
+			"<color=#6666FFFF>나도 몰라!</color>",
+			null,
+			null,
+			"<color=#6666FFFF>Don't know! </color",
+			"<color=#6666FFFF>I don't know either! </color>"
+		],
+		[
+			"speaker",
+			320797
+		],
+		[
+			"portraits",
+			[
+				30770,
+				0,
+				false
+			],
+			[
+				30569,
+				23,
+				true
+			]
+		],
+		[
+			"msg",
+			732036,
+			null,
+			"不知道啊！？",
+			"わかりません！",
+			"모르겠어요!",
+			null,
+			null,
+			"I don't know!",
+			"I do not know!"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				10,
+				false
+			],
+			[
+				30569,
+				23,
+				true
+			]
+		],
+		[
+			"msg",
+			732037,
+			null,
+			"该怎么办？总之……总之先追上去吧！",
+			"どうすればいいの？と……とにかく追いかけないと！",
+			"어떻게 해야 하지? 일단... 쫓아가지 않으면!",
+			null,
+			null,
+			"What to do? Anyway ...... Anyway, let's catch up first!",
+			"What do I do? and ...... I have to go after them anyway!"
+		],
+		[
+			"portraits",
+			[
+				30568,
+				13,
+				false
+			],
+			[
+				30569,
+				23,
+				true
+			]
+		],
+		[
+			"msg",
+			732038,
+			null,
+			"要上了！！",
+			"いけえ！！",
+			"가자!!",
+			null,
+			null,
+			"It's going to be on!",
+			"Go!"
+		],
+		[
+			"speaker",
+			320797
+		],
+		[
+			"portraits",
+			[
+				30568,
+				13,
+				true
+			],
+			[
+				30770,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			732039,
+			null,
+			"总之先跟着吧！",
+			"とにかく追跡するんだ！",
+			"일단 추적하는 거야!",
+			null,
+			null,
+			"Anyway, follow first!",
+			"We're going to track it anyway!"
+		],
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				30770,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732040,
+			null,
+			"到底是什么情况？阿库，有什么头绪吗？",
+			"何が起きてるの？アクリア、何か思いあたる節ある？",
+			"무슨 일이야? 아쿠리아, 뭐 떠오르는 거라도 있어?",
+			null,
+			null,
+			"What the hell is going on? Cu, any clues?",
+			"What's going on? Arkria, do you have any idea what's going on?"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				true
+			],
+			[
+				30569,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			732041,
+			null,
+			"<color=#6666FFFF>我还在想……先跟上。</color>",
+			"<color=#6666FFFF>今考えている所よ……とにかく離されないようついてきて。</color>",
+			"<color=#6666FFFF>지금 생각 중이야... 일단 떨어지지 않게 따라와.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>I'm still trying to figure out ...... to follow up first. </color>",
+			"<color=#6666FFFF>I'm thinking about it right now. ...... Just follow along and don't let go. </color>"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30569,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			732042,
+			null,
+			"轰隆隆隆隆隆隆——————！",
+			"ブロロロロロロ——————！",
+			"브로로로로로로——————!",
+			null,
+			null,
+			"Rumble Rumble Rumble ------!",
+			"Brolololololololololol ------!"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				13,
+				false
+			],
+			[
+				30569,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			732043,
+			null,
+			"好……就要追上了……！",
+			"よし……もうすぐ……！",
+			"좋아... 이제 곧...!",
+			null,
+			null,
+			"Well ...... is about to catch up ......!",
+			"Okay, ...... soon to be ......!"
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				30569,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			732044,
+			null,
+			"…………！",
+			"…………！",
+			"…………!",
+			null
+		],
+		[
+			"speaker",
+			320797
+		],
+		[
+			"portraits",
+			[
+				30770,
+				0,
+				false
+			],
+			[
+				30569,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			732045,
+			null,
+			"——怎么回事？为什么目标货车的驾驶室打开了？",
+			"——なぜだ？どうしてターゲットのトラックの運転席のドアが開いているんだ？",
+			"——왜지? 어째서 타겟 트럭의 운전석 문이 열려 있는 거야?",
+			null,
+			null,
+			"--What's going on? Why is the cab of the target van open?",
+			"--Why? Why is the driver's door of the target truck open?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				30770,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732046,
+			null,
+			"无线电里发出惊讶的叫骂，同时在我的眼前，我的车——",
+			"無線から驚いたような声が響き、あたしの視線の先で——",
+			"무전에서 놀란 듯한 목소리가 울려 퍼지며, 내 시선 앞에서——",
+			null,
+			null,
+			"There was a surprised yell over the radio, and at the same time in front of my eyes, my car--",
+			"A startled voice came over the radio and out of my line of sight--"
+		],
+		[
+			"msg",
+			732047,
+			null,
+			"属于我的货车的……驾驶室车门，在高速行驶之中忽然——打开了。",
+			"あたしのトラックの運転席のドアが、高速移動中にも関わらず突然開いた。",
+			"내 트럭의 운전석 문이, 고속 이동 중임에도 불구하고 갑자기 열렸다.",
+			null,
+			null,
+			"The ...... cab door belonging to my van suddenly - in the middle of a high speed drive - opened.",
+			"The driver's door of my truck suddenly opened, even though I was traveling at high speed."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				30763,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732048,
+			null,
+			"————",
+			"————",
+			"————",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				30763,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732049,
+			null,
+			"一道身影，从车门里敏捷地翻出，踏上了货车顶部，然后快步跳上了后面的铲车。",
+			"そして何者かが素早くドアから外に飛び出し、トラックの上部に飛び乗ったかと思うと、あっという間にホイールローダーへと飛び移った。",
+			"그리고 누군가가 재빠르게 문 밖으로 뛰어나오더니, 트럭 위로 날아올라 타는가 싶더니 순식간에 휠 로더로 옮겨탔다.",
+			null,
+			null,
+			"A figure, flipping nimbly out of the door, stepped onto the top of the van, then jumped quickly onto the forklift behind it.",
+			"Then someone quickly jumped out the door and onto the top of the truck, and in a flash, he jumped to the wheel loader."
+		],
+		[
+			"speaker",
+			320798
+		],
+		[
+			"portraits",
+			[
+				30771,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732050,
+			null,
+			"唔！",
+			"うっ！",
+			"윽!",
+			null,
+			null,
+			"Mmm!",
+			"Ugh!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				30771,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732051,
+			null,
+			"然后，她娴熟又迅速地抓住了铲车驾驶室里的驾驶员，直接将她扔了出去。",
+			"その人物はホイールローダーを運転していた人物を素早く、手慣れた様子でつかむと、車外へと突き落とした。",
+			"그 인물은 휠 로더를 운전하던 사람을 빠르고 익숙한 동작으로 잡아서 차 밖으로 밀어냈다.",
+			null,
+			null,
+			"Then, skillfully and quickly, she grabbed the driver in the cab of the forklift and threw her straight out.",
+			"The person quickly and methodically grabbed the person driving the wheel loader and pushed him out of the vehicle."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732052,
+			null,
+			"这个人，好强……这种身体协调能力……阿库莉亚——",
+			"この人、強い……アクリア——",
+			"이 사람, 강하네...아쿠리아——",
+			null,
+			null,
+			"This man, so strong ...... this physical coordination ...... Arkria-",
+			"This guy has a strong ...... acreage--"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				true
+			],
+			[
+				30569,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			732053,
+			null,
+			"<color=#6666FFFF>我知道了，对方……</color>",
+			"<color=#6666FFFF>ええ。相手は……。</color>",
+			"<color=#6666FFFF>그래. 상대는...</color>",
+			null,
+			null,
+			"<color=#6666FFFF>I know, the other side ......</color>",
+			"<color=#6666FFFF>Yes. The other party is ....... </color>"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				30569,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			732054,
+			null,
+			"……至少是个构型植入者，最糟糕的情况……",
+			"……たぶん移植体のレシピエントだと思う。最悪の場合……。",
+			"......아마 이식체의 수혜자일 거야. 최악의 경우엔....",
+			null,
+			null,
+			"...... is at least a conformation implant, at worst ......",
+			"...... probably a recipient of a transplant body. Worst case ......."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				true
+			],
+			[
+				30569,
+				23,
+				false
+			]
+		],
+		[
+			"msg",
+			732055,
+			null,
+			"<color=#6666FFFF>会是……圣痕骑士。</color>",
+			"<color=#6666FFFF>聖痕騎士……かもしれないわ。</color>",
+			"<color=#6666FFFF>성흔 기사……일지도 몰라.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>It would be ...... Stigma Knight. </color>",
+			"<color=#6666FFFF>It could be the Stigmata Knight ....... </color>"
+		],
+		[
+			"speaker",
+			320797
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				true
+			],
+			[
+				30770,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			732056,
+			null,
+			"漂亮，长官好强！长官无敌啊！",
+			"お見事。さすが長官！やはり無敵だ！",
+			"훌륭해. 역시 대장! 역시 무적이야!",
+			null,
+			null,
+			"Beautiful, sir is so strong! Sir is invincible!",
+			"Well done. That's what I'm talking about, Mr. Secretary! You are still invincible!"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				30770,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732057,
+			null,
+			"麻烦了……！",
+			"また面倒なことに……！",
+			"또 귀찮은 일이……!",
+			null,
+			null,
+			"Trouble ......!",
+			"Also troublesome: ......!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30770,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732058,
+			null,
+			"夜晚的高速路上，狂风咆哮，吹起那少女猩红色的披风。",
+			"夜の高速道路は強風が吹き荒れ、少女のまとう深紅のマントがなびいている。",
+			"밤의 고속도로에는 강풍이 휘몰아치고, 소녀의 몸을 감싼 진홍색 망토가 나부끼고 있었다.",
+			null,
+			null,
+			"The wind howled on the highway at night, blowing that young girl's scarlet cloak.",
+			"A strong wind was blowing on the highway at night, causing the crimson cloak worn by the girl to flutter."
+		],
+		[
+			"msg",
+			732059,
+			null,
+			"而在控制了铲车之后，那凛冽的少女抽出了一把武器。",
+			"ホイールローダーを制圧すると、その凛々しい少女は武器を取り出した。",
+			"휠 로더를 제압하자, 그 당당한 소녀는 무기를 꺼냈다.",
+			null,
+			null,
+			"And after taking control of the forklift, the biting young girl drew a weapon.",
+			"Once the wheel loader was under control, the gallant girl took out her weapon."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"bg",
+			"CG10471"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732060,
+			null,
+			"随即朝后方…………瞄准！",
+			"そして後ろに向かって狙いを定め——",
+			"그리고 뒤를 향해 겨누며——",
+			null,
+			null,
+			"Then aim toward the rear ............!",
+			"Then he aimed backwards--"
+		],
+		[
+			"bgm",
+			100
+		],
+		[
+			"msg",
+			732061,
+			null,
+			"射击——！",
+			"発射した。",
+			"발사했다.",
+			null,
+			null,
+			"Shooting -!",
+			"Fired."
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			732062,
+			null,
+			"砰！",
+			"ドン！",
+			"쿵!",
+			null,
+			null,
+			"Bang!",
+			"Don!"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"msg",
+			732063,
+			null,
+			"呜哇！？",
+			"ひえっ！？",
+			"히익!?",
+			null,
+			null,
+			"Woohoo!",
+			"Hee!"
+		],
+		[
+			"msg",
+			732064,
+			null,
+			"好险，差点就被射中。",
+			"あっぶない！もう少しで当たる所だったよ！",
+			"위험해! 조금만 더 있었으면 맞을 뻔했어!",
+			null,
+			null,
+			"That was close, almost got shot.",
+			"Oh, no! You almost hit me!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"msg",
+			732065,
+			null,
+			"轰！！！！",
+			"ドン！！！！",
+			"쿵!!!",
+			null,
+			null,
+			"Boom ！！！！",
+			"Don ！！！！"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"bg",
+			"CG10257"
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732066,
+			null,
+			"这是……这个是？好夸张的破坏力。",
+			"な、なんなの？この異常な破壊力は……。",
+			"뭐, 뭐야? 이 비정상적인 파괴력은......",
+			null,
+			null,
+			"This is ...... this is? What an exaggeration of destruction.",
+			"Hey, what is this? This unusual destructive force is ......."
+		],
+		[
+			"speaker",
+			320797
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				true
+			],
+			[
+				30770,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			732067,
+			null,
+			"呜哇——！",
+			"わあっ——！",
+			"우악——!",
+			null,
+			null,
+			"Woohoo--!",
+			"Wow--!"
+		],
+		[
+			"msg",
+			732068,
+			null,
+			"长官，我们执行任务得这般尽职，你为何……",
+			"長官、我々は忠実に任務を遂行しているのに、なぜ……。",
+			"장관님, 우리는 충실히 임무를 수행하고 있는데, 왜......",
+			null,
+			null,
+			"Sir, we're doing our job so diligently, why are you ......",
+			"Mr. Secretary, we are faithfully carrying out our mission, so why not ......."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				true
+			],
+			[
+				30763,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			732069,
+			null,
+			"……",
+			"……",
+			"......",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732070,
+			null,
+			"砰砰砰！！",
+			"ドドドン！！",
+			"쿵쿵쿵!!",
+			null,
+			null,
+			"Bang, bang, bang!",
+			"Dododong!"
+		],
+		[
+			"msg",
+			732071,
+			null,
+			"恐怖的大枪毫不在乎地，继续开火。",
+			"少女は躊躇うことなくその恐ろしい銃を撃ち続けた。",
+			"소녀는 망설임 없이 그 무시무시한 총을 계속 쏘아댔다.",
+			null,
+			null,
+			"Without a care in the world, the great guns of terror continued to fire.",
+			"The girl continued to fire that dreaded gun without hesitation."
+		],
+		[
+			"msg",
+			732072,
+			null,
+			"不分敌我，毫无顾忌。",
+			"敵味方などまったく関係なく。",
+			"아군 적군 같은 건 전혀 상관하지 않고.",
+			null,
+			null,
+			"No distinction between enemy and self, no scruples.",
+			"It doesn't matter if you are friend or foe at all."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				true
+			],
+			[
+				30569,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			732073,
+			null,
+			"<color=#6666FFFF>我感觉到了，那个射击者绝对是个有强大攻击手段的圣痕使。</color>",
+			"<color=#6666FFFF>この人……間違いないわ。</color>",
+			"<color=#6666FFFF>이 사람...... 틀림없어. </color>",
+			null,
+			null,
+			"<color=#6666FFFF>I feel it, that shooter is definitely a Stigma Envoy with powerful attacks. </color>",
+			"<color=#6666FFFF>I'm pretty sure this guy is ....... </color>"
+		],
+		[
+			"msg",
+			732074,
+			null,
+			"<color=#6666FFFF>而现在她……在使用自己的圣痕能力。</color>",
+			"<color=#6666FFFF>——聖痕使いよ。</color>",
+			"<color=#6666FFFF>——성흔 사용자야. </color>",
+			null,
+			null,
+			"<color=#6666FFFF>And now she ...... is using her stigma ability. </color",
+			"<color=#6666FFFF>--Stigmata user. </color>"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				30569,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			732075,
+			null,
+			"麻烦了………………",
+			"困ったなぁ……。",
+			"곤란하네.......",
+			null,
+			null,
+			"Trouble ..................",
+			"I'm in trouble. ......"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				true
+			],
+			[
+				30569,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			732076,
+			null,
+			"<color=#6666FFFF>卡琳，已经够了，逃走吧。</color>",
+			"<color=#6666FFFF>もう十分よ、カリン。あなたは逃げて。</color>",
+			"<color=#6666FFFF>이제 충분해, 카린. 너는 도망쳐.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>Karin, enough already, flee. </color",
+			"<color=#6666FFFF>That's enough, Karin. You run away. </color>"
+		],
+		[
+			"msg",
+			732077,
+			null,
+			"<color=#6666FFFF>接下来的事情我自己解决。</color>",
+			"<color=#6666FFFF>後は私がなんとかするから。</color>",
+			"<color=#6666FFFF>남은 건 내가 어떻게든 할 테니까.</color>",
+			null,
+			null,
+			"<color=#6666FFFF>I'll take care of the rest myself. </color",
+			"<color=#6666FFFF>I'll handle the rest. </color>"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				30569,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			732078,
+			null,
+			"自己解决？",
+			"アクリア……。",
+			"아쿠리아.......",
+			null,
+			null,
+			"Solve it yourself?",
+			"Arkria. ......."
+		],
+		[
+			"portraits",
+			[
+				30568,
+				4,
+				false
+			],
+			[
+				30569,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			732079,
+			null,
+			"……我被小瞧了啊——",
+			"あたしも見くびられちゃったものだね～。",
+			"나도 얕보였네~.",
+			null,
+			null,
+			"...... I'm being underestimated ah--",
+			"I've been underestimated too, haven't I?"
+		],
+		[
+			"portraits",
+			[
+				30568,
+				21,
+				false
+			],
+			[
+				30569,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			732080,
+			null,
+			"不就是个圣痕使吗！看我把她打下来————！",
+			"ただの聖痕使いでしょ？こんな奴、やっつけてやるんだから——！",
+			"그냥 성흔 사용자잖아? 이런 녀석, 처리해 주겠어——!",
+			null,
+			null,
+			"Isn't it just a stigma envoy! Let's see me knock her down. ----",
+			"You're just a sacristan, aren't you? I'm going to beat this guy--"
+		]
+	],
+	"10662": [
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732081,
+			null,
+			"铲车，停了下来。",
+			"ホイールローダーが止まった。",
+			"휠 로더가 멈췄다.",
+			null,
+			null,
+			"The forklift, stopped.",
+			"The wheel loader stopped."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30763,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			732082,
+			null,
+			"。",
+			"。",
+			".",
+			null
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				9,
+				false
+			],
+			[
+				30763,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			732083,
+			null,
+			"呼……呼……呼……呼…………",
+			"ハァ……ハァ……ハァ……ハァ…………。",
+			"하...... 하...... 하...... 하.........",
+			null,
+			null,
+			"Paging ...... Paging ...... Paging ...... Paging ...... Paging ......... ...",
+			"Haa...... haa...... haa...... haa......... ...."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				30763,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			732084,
+			null,
+			"嗯……除了我之外，所有的追兵都被甩掉了么……",
+			"うん……あたし以外みんなついて来られなかったみたいだね……。",
+			"응...... 나 말고 다들 따라오지 못한 모양이네.......",
+			null,
+			null,
+			"Hmmm ...... Have all the pursuers been shaken off except me ......",
+			"Yeah. ...... I guess everyone couldn't keep up except for me. ......"
+		]
+	],
+	"10663": [
+		[
+			"bgm",
+			128
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				21,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732085,
+			null,
+			"怎么样？还能打吗？",
+			"どう？まだやるつもり？",
+			"어때? 아직 할 생각이야?",
+			null,
+			null,
+			"How's it going? Can you still fight?",
+			"What do you think? Are you still going to do it?"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				30568,
+				21,
+				true
+			],
+			[
+				30763,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			732086,
+			null,
+			"（上膛）",
+			"（弾を込めた。）",
+			"(탄환을 장전했다.)",
+			null,
+			null,
+			"(Cocking)",
+			"(Loaded.)"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				21,
+				false
+			],
+			[
+				30763,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			732087,
+			null,
+			"来，让我试试看……#n你到底有多少本事？",
+			"へへっ、そうこなくっちゃ。#nあたしが見極めてあげる……キミの力を。",
+			"헤헤, 그렇지.#n내가 판단해 주지... 네 힘을.",
+			null,
+			null,
+			"Come on, let me try ...... how much you've got?",
+			"Heh, that's what I'm talking about. I'll find out what you're made of ......."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				30568,
+				21,
+				true
+			],
+			[
+				30763,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			732088,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		]
+	],
+	"10664": [
+		[
+			"bgm",
+			128
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732089,
+			null,
+			"！",
+			"！",
+			"!",
+			null
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732090,
+			null,
+			"哼……",
+			"フン……。",
+			"흥…….",
+			null,
+			null,
+			"Hm ......",
+			"Hm. ......."
+		],
+		[
+			"msg",
+			732091,
+			null,
+			"感觉，也没有多强嘛？",
+			"それで本気？思ってたほど強くないじゃん。",
+			"그게 전력이야? 생각보다 강하지 않네.",
+			null,
+			null,
+			"It doesn't feel that strong, does it?",
+			"So you're serious? You're not as strong as I thought you were."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				30568,
+				1,
+				true
+			],
+			[
+				30763,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			732092,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				21,
+				false
+			],
+			[
+				30763,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			732093,
+			null,
+			"呼……把她交出来，不然我就继续了。",
+			"さあ、アクリアを解放して。さもないともっとボコボコにしちゃうよ。",
+			"자, 아쿠리아를 풀어줘. 안 그럼 더 두들겨 패줄 거야.",
+			null,
+			null,
+			"Whew ...... hand her over or I'll move on.",
+			"Now, let Arkria go. Or I'll beat you up even more."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				30568,
+				21,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				30568,
+				21,
+				true
+			],
+			[
+				30763,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			732095,
+			null,
+			"…………绝不。",
+			"…………絶対にイヤですわ。",
+			"…………절대로 싫어요.",
+			null,
+			null,
+			"............ never.",
+			"I absolutely hate ............."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				30763,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			732096,
+			null,
+			"还要打么——？",
+			"へぇ、まだやる気？",
+			"허, 아직도 할 마음이 있어?",
+			null,
+			null,
+			"Do we still have to fight--?",
+			"Oh, you still want to do it?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			732097,
+			null,
+			"砰！",
+			"ドン！",
+			"쾅!",
+			null,
+			null,
+			"Bang!",
+			"Don!"
+		],
+		[
+			"bgm",
+			168
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732098,
+			null,
+			"已经累到这么近的距离都会打偏了？不……不对——",
+			"どこに撃ってるの？#nあ……まさか——",
+			"어딜 쏘는 거야?#n아…… 설마——",
+			null,
+			null,
+			"Tired enough to miss at such close range? No ...... not right -",
+			"Where are you shooting at? Oh, ...... no way--"
+		]
+	],
+	"10665": [
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30763,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			732099,
+			null,
+			"————！",
+			"————！",
+			"————!",
+			null
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				30763,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			732100,
+			null,
+			"跑什么——",
+			"逃げるつもり——",
+			"도망칠 생각——",
+			null,
+			null,
+			"Run what--",
+			"I'm gonna run--"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732101,
+			null,
+			"那个白金色的少女一跃而上，跳上了货车车顶。",
+			"淡い金色の髪の少女はジャンプし、トラックの上へと飛び乗った。",
+			"옅은 금발의 소녀는 점프하여 트럭 위로 날아올랐다.",
+			null,
+			null,
+			"The platinum-colored girl leapt up onto the roof of the van.",
+			"The girl with the light golden hair jumped and hopped onto the truck."
+		],
+		[
+			"msg",
+			732102,
+			null,
+			"不再理会已经被我撞烂的铲车，再次滑入货车之中。",
+			"そして壊れたホイールローダーを残したまま、トラックへ乗り込むと逃走し始めた。",
+			"그리고 부서진 휠 로더를 남겨둔 채, 트럭에 올라타 도주하기 시작했다.",
+			null,
+			null,
+			"No longer paying attention to the forklift, which I had already smashed, I slid into the van again.",
+			"He then got into his truck and began to flee, leaving the broken wheel loader behind."
+		]
+	],
+	"10666": [
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732103,
+			null,
+			"一脚油门，开走了我的车。",
+			"あたしのトラックで。",
+			"내 트럭으로.",
+			null,
+			null,
+			"One foot on the gas and drove off with my car.",
+			"In my truck."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				13,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732104,
+			null,
+			"站住————！",
+			"こら、待ちなさい——！",
+			"이봐, 기다려——!",
+			null,
+			null,
+			"The station is located at ----!",
+			"Hey, wait--"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732105,
+			null,
+			"口头上的阻拦是没用的，不仅如此，那个她的驾驶理念也比我想象得要狂野得多。",
+			"叫んだところで無駄だった。それに彼女の運転テクニックはあたしが想像していたよりもずっと乱暴だった。",
+			"소리쳐도 소용없었다. 게다가 그녀의 운전 기술은 내가 상상했던 것보다 훨씬 거칠었다.",
+			null,
+			null,
+			"Verbal deterrents are useless, and not only that, but that her driving philosophy is much wilder than I thought it would be.",
+			"There was no use in yelling. Besides, her driving technique was much rougher than I had imagined."
+		],
+		[
+			"msg",
+			732106,
+			null,
+			"引擎咆哮，她直接撞开护栏，借着新长空市复杂的立体地形，重重地落在了另一条公路上。",
+			"エンジンがうなり声をあげフェンスを突き破ると、トラックは新長空市の複雑な立体構造を生かし、衝撃音をあげながら下の道路へと飛び降りた。",
+			"엔진이 윙윙거리며 펜스를 뚫고 나가자, 트럭은 신장공시의 복잡한 입체 구조를 이용해 충격음을 내며 아래 도로로 뛰어내렸다.",
+			null,
+			null,
+			"The engine roared, and she smashed right through the guardrail, taking advantage of the complex three-dimensional terrain of New Long Hollow City to land heavily on another highway.",
+			"As the engine roared to life and crashed through the fence, the truck took advantage of the complex three-dimensional structure of New Changkuo City and jumped down to the road below with a resounding impact."
+		],
+		[
+			"msg",
+			732107,
+			null,
+			"一瞬之间就消失得无影无踪。",
+			"……トラックは走り去り、視界から消え失せてしまった。",
+			"……트럭은 달려가더니 시야에서 사라져 버렸다.",
+			null,
+			null,
+			"In an instant it was gone without a trace.",
+			"The ...... truck drove off and disappeared from view."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732108,
+			null,
+			"阿库，能听得到吗？",
+			"アクリア、聞こえる？",
+			"아쿠리아, 들려?",
+			null,
+			null,
+			"Cu, can you hear me?",
+			"Arkria, can you hear me?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732109,
+			null,
+			"……………………",
+			"……………………",
+			"……………………",
+			null
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732110,
+			null,
+			"传递过来的感觉很混乱……但被联系着的感觉还在，是在车厢里撞到头了吗？",
+			"返事はないけど……アクリアとつながっているのはまだ感じるし、ひょっとして荷台の中で頭でも打っちゃったのかな？",
+			"대답은 없지만……아쿠리아와 연결된 느낌은 여전히 느껴지고, 혹시 적재함에서 머라도 부딪힌 걸까?",
+			null,
+			null,
+			"The sensation that came through was confusing ...... but the feeling of being connected was still there, did you hit your head in the carriage?",
+			"I haven't heard back, but I still feel connected to the ...... acreage, and I wonder if I hit my head in the back of the truck by any chance?"
+		],
+		[
+			"msg",
+			732111,
+			null,
+			"不行，得赶紧————啊……",
+			"このままじゃいけない。急いで追いかけないと——あっ……。",
+			"이대로는 안 돼. 서둘러 쫓아가지 않으면 —— 앗…….",
+			null,
+			null,
+			"No, we have to hurry ---- ah ......",
+			"We can't let this go on. We have to hurry and catch up - oh, ......."
+		],
+		[
+			"portraits",
+			[
+				30568,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732112,
+			null,
+			"……我开的那辆车的车胎，已经被打爆了。",
+			"……あたしが運転してきたトラックのタイヤ、パンクさせられちゃってるじゃん。",
+			"……내가 몰고 온 트럭 타이어가 펑크 나 버렸잖아.",
+			null,
+			null,
+			"...... The tires on the car I was driving had been blown out.",
+			"......The tires on the truck I drove have been flattened."
+		],
+		[
+			"msg",
+			732113,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			732114,
+			null,
+			"这么简单就把人丢了……老妈要是知道了肯定得笑话我。",
+			"こんな簡単に振り切られちゃったこと……お母さんに知られたら絶対に笑われちゃうよ。",
+			"이렇게 쉽게 따돌려지다니……엄마한테 알려지면 분명히 웃음거리가 될 거야.",
+			null,
+			null,
+			"It is so simple to lose people ...... Mom would have to laugh at me if she knew.",
+			"If my ...... mother knew that I got shaken off this easily, she would definitely laugh at me."
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV08_ToolKit"
+		],
+		[
+			"msg",
+			732115,
+			null,
+			"这附近也难找车……接下来应该……总之，先看看车的情况。",
+			"う～ん、この辺りじゃ代わりの車なんて見つかりそうにないし……アクリアが居てくれたら……。#nとにかく車の状況をよく確認してみよう。",
+			"으~음, 이 근처에서는 대체할 차량을 찾을 수 있을 것 같지도 않고……아쿠리아가 있었더라면…….#n어쨌든 차 상태를 자세히 확인해 봐야겠어.",
+			null,
+			null,
+			"It's also hard to find a car in this neighborhood ...... next should ...... Anyway, check out the car first.",
+			"Hmmm, I don't think we'll find a replacement car around here ...... if Akria stays ....... Anyway, let's check the car situation carefully."
+		]
+	],
+	"10667": [
+		[
+			"speaker",
+			320770
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV08_ToolKit"
+		],
+		[
+			"msg",
+			732116,
+			null,
+			"………………里面……好像有声音……？",
+			"………………あれ、中から……何か音がするような……？",
+			"………………어라, 안에서…… 무슨 소리가 나는 것 같은……?",
+			null,
+			null,
+			"Inside .................. ...... seems to have sound... ...?",
+			".................. Hey, I think I hear something ...... coming from inside. ......?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732117,
+			null,
+			"对啊，今晚发生的事情太多了，我都没来得及去思考。",
+			"そういえば、今日はあまりにたくさんの事がありすぎて、落ち着いて考えるヒマがなかったけど……。",
+			"생각해 보니, 오늘은 너무 많은 일이 있어서, 차분히 생각할 겨를이 없었지만…….",
+			null,
+			null,
+			"Yeah, so much has happened tonight that I haven't had time to think about it.",
+			"Come to think of it, there was so much going on today that I didn't have time to calm down and think about it, but ......."
+		],
+		[
+			"msg",
+			732118,
+			null,
+			"这辆货车是……从哪里来的？",
+			"そもそもこのトラック……どこの誰のものなんだろう。",
+			"애초에 이 트럭…… 대체 누구의 것일까.",
+			null,
+			null,
+			"Where is this van ...... from?",
+			"Who owns this track ...... in the first place?"
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"msg",
+			732119,
+			null,
+			"又为什么会停在那附近。",
+			"それにどうしてタイミングよくあそこに止めてあったのかな。",
+			"게다가 왜 타이밍 좋게 거기에 주차되어 있었을까.",
+			null,
+			null,
+			"And why it was parked in that neighborhood.",
+			"And why was it parked there at the right time?"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732120,
+			null,
+			"（咽口水）",
+			"（ゴクリ。）",
+			"(꿀꺽.)",
+			null,
+			null,
+			"(GAGGING)",
+			"(Gobble.)"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732121,
+			null,
+			"我……打开了车门。",
+			"あたしは恐る恐る荷台のドアを開けてみた。",
+			"나는 두려움에 떨며 트럭의 문을 열어보았다.",
+			null,
+			null,
+			"I ...... opened the car door.",
+			"I fearfully opened the door to the back of the truck."
+		],
+		[
+			"msg",
+			732122,
+			null,
+			"——另一边，货车车厢内。",
+			"——一方、トラックの荷台の中。",
+			"——한편, 트럭의 적재칸 안.",
+			null,
+			null,
+			"--On the other side, inside the van compartment.",
+			"-- on the other hand, in the back of a truck."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30579,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732123,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			732124,
+			null,
+			"难道说是……",
+			"もしかしたら……。",
+			"혹시…….",
+			null,
+			null,
+			"Could it be that ......",
+			"Perhaps you can contact us at ......."
+		],
+		[
+			"msg",
+			732125,
+			null,
+			"<color=#FF8C00FF>如何……要更新契约了吗？……阿库莉亚·赫萝普特。</color>",
+			"<color=#FF8C00FF>どうです……契約を更新したくなりましたか？……アクリア・ホロプト。</color>",
+			"<color=#FF8C00FF>어떻습니까…… 계약을 갱신하고 싶어지셨나요?……아쿠리아・홀로프트.</color>",
+			null,
+			null,
+			"<color=#FF8C00FF>How ...... is it going to renew the pact? ...... Arkria Heropot. </color>",
+			"<color=#FF8C00FF>How about you ...... want to renew your contract? ...... Arkria Holopt. </color>"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732126,
+			null,
+			"踏踏……踏踏……",
+			"タタッ……タタッ……。",
+			"타닥…… 타닥…….",
+			null,
+			null,
+			"Tap ...... Tap ......",
+			"Tattoo ...... Tattoo ......."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30579,
+				8,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732127,
+			null,
+			"为时尚早。",
+			"まだその時ではないわ。",
+			"아직 그 때가 아니야.",
+			null,
+			null,
+			"It's too early.",
+			"It's not time yet."
+		],
+		[
+			"portraits",
+			[
+				30579,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732128,
+			null,
+			"临时计划K已不适用，接下来回滚到一开始的情况，继续计划B就是了。",
+			"予備プランKはもう使えないから、プランBを継続するまでよ。初めの状況に戻っただけ。",
+			"예비 플랜 K는 이제 사용할 수 없으니, 플랜 B를 계속할 뿐이야. 처음 상황으로 돌아갔을 뿐이지.",
+			null,
+			null,
+			"Interim Plan K is no longer applicable, so next roll back to the situation at the beginning and just continue with Plan B.",
+			"The backup plan K is no longer available, so I'm just going to continue with Plan B. We're back to where we started."
+		],
+		[
+			"msg",
+			732129,
+			null,
+			"<color=#FF8C00FF>……你还真是……可怕的孩子……</color>",
+			"<color=#FF8C00FF>……あなた……本当に恐ろしい子ですね……。</color>",
+			"<color=#FF8C00FF>…… 당신…… 정말 무서운 아이네요……. </color>",
+			null,
+			null,
+			"<color=#FF8C00FF>...... you're still ...... a horrible child ......</color>",
+			"<color=#FF8C00FF>...... you ...... really are a horrible child ....... </color>"
+		],
+		[
+			"msg",
+			732130,
+			null,
+			"不过……如果我的推测是正确的……那我从刚才起就对现状……",
+			"だけど……もし私の推測が正しければ……さっきから私、現状に対して……。",
+			"하지만…… 만약 내 추측이 맞다면…… 아까부터 나, 현상황에 대해서…….",
+			null,
+			null,
+			"But ...... if my speculation is correct ...... then I'm right about the status quo from just now ......",
+			"But ...... if my guess is correct ...... from a while ago, I, ...... for the current situation."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732131,
+			null,
+			"踏踏……踏踏……",
+			"タタッ……タタッ……。",
+			"타닥…… 타닥…….",
+			null,
+			null,
+			"Tap ...... Tap ......",
+			"Tattoo ...... Tattoo ......."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30579,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732132,
+			null,
+			"……存在着很深的……",
+			"……とても深い……。",
+			"…… 매우 깊은…….",
+			null,
+			null,
+			"There exists a deep ......",
+			"...... very deep ......."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732133,
+			null,
+			"喀。",
+			"ガチャ。",
+			"찰칵.",
+			null,
+			null,
+			"Ka.",
+			"Gacha."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"msg",
+			732135,
+			null,
+			"门，被打开了。",
+			"ドアが開いた。",
+			"문이 열렸다.",
+			null,
+			null,
+			"The door, it was opened.",
+			"The door opened."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732136,
+			null,
+			"………………",
+			"………………",
+			"………………",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732137,
+			null,
+			"我，打开了门。",
+			"ドアを開けた。",
+			"문을 열었다.",
+			null,
+			null,
+			"Me, opening the door.",
+			"I opened the door."
+		],
+		[
+			"msg",
+			732138,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"msg",
+			732139,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			732140,
+			null,
+			"………………",
+			"………………",
+			"………………",
+			null
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732141,
+			null,
+			"你……不是，你谁啊？",
+			"キミ……誰？",
+			"너…… 누구?",
+			null,
+			null,
+			"You ...... are not, who are you?",
+			"Kimi ...... who?"
+		]
+	],
+	"10668": [
+		[
+			"speaker",
+			320770
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732142,
+			null,
+			"………………",
+			"………………",
+			"………………",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732143,
+			null,
+			"我，打开了门。",
+			"ドアを開けた。",
+			"문을 열었다.",
+			null,
+			null,
+			"Me, opening the door.",
+			"I opened the door."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732144,
+			null,
+			"（进去看看吧。）",
+			"（中に入ってみよう。）",
+			"(안으로 들어가 보자.)",
+			null,
+			null,
+			"(Go in and look around.)",
+			"(Let's go inside.)"
+		]
+	],
+	"10669": [
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732145,
+			null,
+			"好大，也是货物吧？",
+			"随分大きいね。これも荷物なの？",
+			"꽤 크네. 이것도 짐이야?",
+			null,
+			null,
+			"It's huge. It's cargo too, right?",
+			"It's so big. Is this your luggage too?"
+		],
+		[
+			"portraits",
+			[
+				30568,
+				8,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			732146,
+			null,
+			"发出声音的不是这个。",
+			"でも、さっきの音とは関係なさそうだね。",
+			"그래도 아까 소리랑은 관계 없을 것 같아.",
+			null,
+			null,
+			"That's not the one making the noise.",
+			"But it doesn't seem to have anything to do with the sound you just heard."
+		]
+	]
+}

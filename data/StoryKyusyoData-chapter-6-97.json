@@ -1,0 +1,2564 @@
+{
+	"1358": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308723,
+			"The Honkai on the earth will return to the dead plague…The big Honkai will fall……again.",
+			"地面的崩坏将回归死斑…大崩坏即将再次降临……么。",
+			"地表の崩壊エネルギーが死斑へと戻り……大崩壊が再び起こる……ですか。",
+			"지표의 붕괴 에너지가 사반으로 돌아가…… 대붕괴가 다시 일어난다…… 입니까.",
+			null,
+			null,
+			"The collapse of the ground will return to the dead spot...the great collapse is about to come again ......么.",
+			"Is the collapse energy of the earth's surface returning to the dead spot and ...... great collapse occurs again ......?"
+		],
+		[
+			"msg",
+			308724,
+			"What should we do……",
+			"到底该怎么办才好呢……",
+			"いったい、どうすればいいのでしょう……。",
+			"도대체, 어떻게 해야 하는 거죠…….",
+			null,
+			null,
+			"What to do in the end to do it ......",
+			"What on earth can we do about it? ......"
+		],
+		[
+			"choice",
+			[
+				309294,
+				"Bronya, don't worry too much.",
+				"布洛妮娅，别太担心了。",
+				"ブローニャ、心配しないで。",
+				"브로냐, 걱정하지 마.",
+				null
+			],
+			[
+				309314,
+				"Bronya, there must be a way.",
+				"布洛妮娅，一定还有办法的。",
+				"ブローニャ、きっとまだ方法はあるよ。",
+				"브로냐, 분명 아직 방법이 있을 거야.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1359
+		]
+	],
+	"1359": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308725,
+			"It's you…Kyushou, I told you to rest more? You are also a very restless person.",
+			"九霄…是你啊，不是让你再休息一下么？果然你也是闲不下来的人呢。",
+			"九霄……どうしましたか？もう少し休まなくていいのですか？",
+			"큐쇼…… 어떻게 된 거예요? 좀 더 쉬지 않아도 괜찮은 거예요?",
+			null,
+			null,
+			"Kyuushou...it's you. Didn't I tell you to take another break? Sure enough you are also idle people it.",
+			"Kyuushou...... what's wrong? Don't you need to rest a little longer?"
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308726,
+			"I think you get me wrong…I'm worried about how to tell everybody.",
+			"我想你是理解错了…我烦恼的是怎么向大家宣布这个事情。",
+			"違います……皆に何て言えばいいのか悩んでいるのです。",
+			"아닙니다…… 모두에게 뭐라고 말해야 할지 고민하고 있는 거예요.",
+			null,
+			null,
+			"I think you misunderstood...what bothers me is how to announce this to everyone.",
+			"No, sir. ...... I'm just wondering what I should tell everyone."
+		],
+		[
+			"msg",
+			308727,
+			"They fight for survival until now, but I am going to tell them the end of the world is coming…I don't know how to start.",
+			"她们为了生存而奋战到现在，然而我却要向她们宣告末日的降临…我实在不知道该怎么开口。",
+			"生きるために今まで戦ってきたのに、終焉が間近に迫ってるなんて……言えるわけがありません。",
+			"살기 위해 지금까지 싸워왔는데, 종말이 코앞에 다가왔다니…… 말할 수가 없어요.",
+			null,
+			null,
+			"They have fought to survive until now, yet I have to announce the end of days to them...I really don't know how to say it.",
+			"How can I say ...... that my demise is imminent when I've been fighting all this time to stay alive."
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308728,
+			"I'm sorry…to let you see such a useless me.",
+			"真是抱歉…让你看到了我这么不中用的样子。",
+			"ごめんなさい……情けない姿を見せてしまいましたね。",
+			"미안해요…… 초라한 모습을 보여버렸네요.",
+			null,
+			null,
+			"I'm so sorry...for showing you how unhelpful I am.",
+			"I'm sorry ...... I'm sorry I showed you how pathetic I am."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308729,
+			"It's not your fault, Bronya.",
+			"这不是你的错，布洛妮娅。",
+			"これはあなたのせいじゃないのよ、ブローニャ。",
+			"이건 당신 탓이 아니에요, 브로냐.",
+			null,
+			null,
+			"It's not your fault, Bronya.",
+			"This is not your fault, Bronya."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308730,
+			"Theresa……",
+			"德丽莎……",
+			"テレサ……。",
+			"테레사…….",
+			null,
+			null,
+			"Theresa ......",
+			"Teresa ......."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308731,
+			"I don't know this moment comes so fast, we have to accept this result……",
+			"没想到这一刻会来的这么快，看来我们也只能接受这个结果了……",
+			"この時がこんなに早く訪れるなんて、誰も予想していなかったこと。今は結果を受け入れるしかないわ……。",
+			"이 때가 이렇게 빨리 찾아올 줄, 아무도 예상하지 못했어요. 이제는 결과를 받아들일 수밖에 없죠…….",
+			null,
+			null,
+			"I did not expect this moment would come so quickly, it seems that we can only accept the result ......",
+			"No one could have predicted that this time would come so soon. Now we just have to accept the outcome. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308732,
+			"But people at the base!",
+			"可是基地的大家！",
+			"でも、基地のみんなは——！",
+			"하지만, 기지의 모두는——!",
+			null,
+			null,
+			"But everyone in the base!",
+			"But everyone on the base--!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308733,
+			"Bronya, this is an inevitale result…it's very sad, but we can't change anything now.",
+			"布洛妮娅，这是无法逃脱的结局…虽然一定会很悲伤，但是我们现在已经什么也无法改变了。",
+			"ブローニャ、これは逃れようのない運命なの……悲しいことだけど、今さらどうにもならないわ。",
+			"브로냐, 이건 피할 수 없는 운명이에요…… 슬픈 일이지만, 이젠 어쩔 수 없어요.",
+			null,
+			null,
+			"Bronya, there is no escaping the end...it must be sad, but there is nothing we can do to change it now.",
+			"Bronya, this is a fate you can't escape. ...... It's sad, but there's nothing you can do about it now."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308734,
+			"……People are still not out of Himeko's thing, I'm afraid they won't be able to accept this now.",
+			"……现在大家还没有从姬子的事情中缓过神来，如果再加上这个事情的话我害怕他们会承受不了。",
+			"……みんな、まだ姫子のことから立ち直れていないのに——立て続けにこんなことを知らせれば、きっと耐えられないと思います。",
+			"……다들, 아직 히메코 일에서 헤어나오지 못했는데——연이어 이런 소식을 알리면, 분명 견딜 수 없을 거예요.",
+			null,
+			null,
+			"...... Now everyone has not gotten over the Himeko thing, and I'm afraid they won't be able to handle it if we add this to the mix.",
+			"All of us at ...... are still recovering from Himeko - I'm sure we wouldn't be able to stand it if we were informed of this in rapid succession."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308735,
+			"Even so, they have the right to know the truth…rather than being unwitting, they should choose how to face the result after knowing the truth.",
+			"就算再不情愿也好，他们有知道结局的资格…与其在毫无预兆的情况下就迎来结局，不如在知道真相之后选择如何没有遗憾地面对才是。",
+			"それでも真実を知る資格がある……何の準備もないまま終わりを迎えるより、真実を知って心残りなく過ごした方がいいわ。",
+			"그래도 진실을 알 권리가 있어요…… 아무 준비도 없이 끝을 맞이하기보다, 진실을 알고 미련 없이 보내는 편이 나아요.",
+			null,
+			null,
+			"Even if they are reluctant, they have the right to know the end... Instead of seeing the end without warning, it is better to choose how to face it without regret after knowing the truth.",
+			"Still, you deserve to know the truth. ...... Better to know the truth and have no regrets than to end up unprepared."
+		],
+		[
+			"msg",
+			308736,
+			"We can only tell them the truth, and stay with them to welcome the end of our life peacefully……",
+			"我们能做的只有告诉他们真相，然后与他们一同平静地迎来生命的终结……",
+			"あたくしたちにできることは、みんなに真実を告げ、そして共に命の終わりを迎えることよ……。",
+			"아뜨키시타치가 할 수 있는 건, 모두에게 진실을 알리고, 그리고 함께 생명의 끝을 맞이하는 거예요…….",
+			null,
+			null,
+			"All we can do is to tell them the truth and then meet the end of life with them in peace ......",
+			"All we can do is tell everyone the truth, and then we can end our lives together. ......"
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				62,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308737,
+			"Go, I will go with you to tell everybody this news.",
+			"走吧，我会和你一起把这个消息告诉大家的。",
+			"行きましょう。一緒に、みんなに伝えるの。",
+			"가자. 함께, 모두에게 전하자.",
+			null,
+			null,
+			"Let's go, and I'll be with you to break the news.",
+			"Let's go. Together, we tell everyone."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				62,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308738,
+			"Ok…I will call up all the people.",
+			"好吧…我去召集大家。",
+			"はい……皆を招集してきます。",
+			"네…… 모두를 소집하겠습니다.",
+			null,
+			null,
+			"Okay...I'll get everyone together.",
+			"Yes ...... I will go convene everyone."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308739,
+			"Bronya! No! Something bad happens!",
+			"布洛妮娅！不！不好了！",
+			"ブローニャ！た、大変よ！",
+			"브로냐! 큰일이야!",
+			null,
+			null,
+			"Bronya! No! It's not good!",
+			"Bronya! Oh, my God!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308740,
+			"What's wrong? Don't be panic!",
+			"怎么了？别慌张！",
+			"どうしたのですか？落ち着いてください。",
+			"무슨 일이에요? 진정하세요.",
+			null,
+			null,
+			"What's going on? Don't panic!",
+			"What's wrong? Please calm down."
+		],
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308741,
+			"Grey Moth! They want to revenge for Himeko! They already left the base!",
+			"灰蛾小队她们！她们要去为姬子报仇！刚才已经从基地离开了！",
+			"灰蛾部隊が姫子の仇を取るって！今、基地を出ていったの！",
+			"회아 부대가 히메코의 원수를 갚겠대! 지금, 기지를 나갔어!",
+			null,
+			null,
+			"The Grey Moth Squad! They are going to take revenge for Himeko! They've just left the base!",
+			"The Ash Moth Squad is going to avenge Himeko! They just left the base!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308742,
+			"What…it's very dangerous outside! We need to stop them!",
+			"怎么会…现在外面还很危险！我们必须阻止她们！",
+			"そんな……外はまだ危険です。早く止めないと！",
+			"그런…… 밖은 아직 위험해. 빨리 막지 않으면!",
+			null,
+			null,
+			"How can... it's still dangerous out there! We have to stop them!",
+			"It is still dangerous outside such ....... We need to stop this now!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308743,
+			"Right! Well, let's go!",
+			"嗯！走，赶紧追上去！",
+			"ええ、急ぎましょう！早く追いかけないと！",
+			"응, 서두르자! 빨리 쫓아가지 않으면!",
+			null,
+			null,
+			"Yes! Go, hurry up and catch up!",
+			"Yeah, let's hurry! We have to go after them!"
+		]
+	],
+	"1360": [
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308744,
+			"Damn…I should have thought this! It wouldn't happen if I could notice earlier……",
+			"可恶…我早该想到的！如果能早点注意到她们的话就不会发生这样的事情了……",
+			"くっ……もっと早く隊員たちの様子に気付いていれば、こんなことにはならなかったのに……。",
+			"쿳…… 더 빨리 대원들의 상태를 눈치챘더라면, 이런 일은 없었을 텐데…….",
+			null,
+			null,
+			"Damn...I should have thought of that! If I would have noticed them earlier, this wouldn't have happened ......",
+			"Damn. ......If I had noticed the troopers earlier, this wouldn't have happened. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308745,
+			"It's my fault…otherwise they wouldn't……",
+			"都是我的错…如果不是我的话她们也不会……",
+			"ブローニャのせいです……ブローニャのせいでみんなが……。",
+			"브로냐 탓이에요…… 브로냐 탓에 모두가…….",
+			null,
+			null,
+			"It's my fault...if it wasn't for me they wouldn't ......",
+			"It's Bronya's fault. ...... Bronya's fault everyone is ......"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308746,
+			"Bronya, the Himeko thing is ended, please don't blame yourself, what we need to do is to take them back,",
+			"布洛妮娅，姬子的事情已经结束了，请你不要再自责了，我们现在最主要的是追回她们。",
+			"ブローニャ、姫子の件はもう終わったことよ。自分を責めるより、彼女たちを追いかけることに集中しましょう。",
+			"브로냐, 히메코 건은 이미 끝난 일이야. 자신을 탓하기보다는 그녀들을 쫓는 데 집중하자.",
+			null,
+			null,
+			"Bronya, the matter of Himeko is over, please stop blaming yourself, our main thing now is to recover them.",
+			"Bronya, what happened to Himeko is over. Instead of blaming yourself, focus on going after these girls."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308747,
+			"I know…I can't let them do it.",
+			"我知道…不能让她们再无谓地丧命了。",
+			"わかりました……もう二度と犠牲を出したりはしません。",
+			"알겠어요…… 다시는 희생자를 내지 않을 거예요.",
+			null,
+			null,
+			"I know...I can't let them lose their lives unnecessarily anymore.",
+			"I understand. ...... I will not make another sacrifice."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308748,
+			"The report from the outpost says they haven't gone far, we can still make it!",
+			"基地哨站的汇报来看她们一定还没有走远，只要我们加快脚步还来得及！",
+			"報告によると、まだそう遠くには行っていないわ。急げば間に合う。",
+			"보고에 따르면 아직 멀리 가지는 않은 모양이에요. 서두르면 늦지 않을 거야.",
+			null,
+			null,
+			"The base post reports that they must not be far away, as long as we speed up the pace is still too late!",
+			"According to reports, we haven't gotten very far. If we hurry, we can make it."
+		],
+		[
+			"msg",
+			308749,
+			"They must go towards that huge tower, let's go that direction!",
+			"如果是为姬子报仇的话她们一定朝着那座巨塔去了，我们往那个方向追踪吧！",
+			"姫子の仇を取るのなら、あの塔に向かうと思う。灰蛾部隊の痕跡を探しつつ、あれを目印に進めばどこかで出会えるはずよ。",
+			"히메코의 원한을 풀려면 저 탑으로 향할 거야. 회아 부대의 흔적을 찾아가면서 저것을 표지로 삼아 나아가면 어딘가에서 만날 수 있을 거야.",
+			null,
+			null,
+			"If it's revenge for Himeko then they must be heading towards that giant tower, let's track in that direction!",
+			"If we want to avenge Himeko, I think we'll head for that tower. If we follow that as a landmark while looking for traces of the Ash Moth Unit, we should be able to find them somewhere."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308750,
+			"But they haven't left any marks on the way, because they don't want us to know……",
+			"但是她们在路上也没有留下任何标示，肯定是不想我们让我们发现才故意这么做的……",
+			"ですが、道中に何の痕跡も残っていません。きっと居場所がバレないよう行動しているのでしょう……。",
+			"하지만 도중에 어떤 흔적도 남아있지 않아요. 분명히 위치를 들키지 않도록 행동하고 있는 거겠죠…….",
+			null,
+			null,
+			"But they also did not leave any markers on the road, surely they do not want us to let us find out to do so on purpose ......",
+			"But there are no traces left on the road. I am sure they are acting in such a way that their whereabouts are not known. ......"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308751,
+			"……then let's go to the bridge towards Nagazora, that's the way to Academic City, they must pass there.",
+			"……既然如此我们就往长空市那座大桥的方向进发吧，那里是通往学园都市的必经之路，她们也一定会经过那里。",
+			"……それなら、長空市の大橋に向かいましょう。学園都市へ行くのに必ず通るところだから、そこで待っていれば彼女たちに会えるはずよ。",
+			"……그렇다면 장공시의 대교로 향하자. 학원 도시로 가려면 반드시 지나가는 곳이니까, 거기서 기다리면 그녀들을 만날 수 있을 거야.",
+			null,
+			null,
+			"...... In that case let's head in the direction of that bridge in Nagumo City, which is the way to Gakuen City, and they will definitely pass through there.",
+			"...... Then head to the Grand Bridge in Changkuu City. It's a place you must pass through to get to the school city, so if you wait there, you should be able to meet the girls."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308752,
+			"Yes, you're right…let's go now! We have to be quicker to stop them!",
+			"嗯，你说的对…我们赶紧出发吧！一定赶在她们前面拦住她们！",
+			"そうですね……急ぎましょう！絶対、彼女たちを止めます！",
+			"그렇군요…… 서두릅시다! 절대로 그녀들을 막겠습니다!",
+			null,
+			null,
+			"Well, you're right...let's get going! Let's get ahead of them and stop them!",
+			"Yes, ...... hurry up! We will definitely stop these girls!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308753,
+			"……",
+			"……",
+			"……。",
+			"……。",
+			null
+		],
+		[
+			"msg",
+			308754,
+			"……",
+			"……",
+			"…………。",
+			"…………。",
+			null
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308755,
+			"The bridge is ahead of us…there's no sign of Grey Moth along the way…please, be safe……",
+			"再往前就是大桥了…果然一路上都没有灰蛾小队的踪迹…求求你们，千万不要有事啊……",
+			"あと少しで大橋に着きます……やはり、灰蛾部隊の痕跡はありません……どうか無事でいてください……。",
+			"조금 있으면 대교에 도착합니다……역시, 회아 부대의 흔적은 없습니다……부디 무사히 있어 주세요…….",
+			null,
+			null,
+			"Further ahead is the bridge ... really no sign of the Grey Moth team along the way ... please, don't be okay ......",
+			"We are almost at the big bridge. ......After all, there is no sign of the ash moth unit. ......Please be safe and sound. ......"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308756,
+			"Bronya, they are the Volkyria taught by Himeko, you need to trust them!",
+			"布洛妮娅，她们可是姬子培养出来的女武神，你要相信她们！",
+			"ブローニャ、彼女たちは姫子が育てた戦乙女よ、彼女たちを信じなさい！",
+			"브로냐, 그들은 히메코가 키운 발키리야, 그들을 믿으세요!",
+			null,
+			null,
+			"Bronya, they are the Valkyries trained by Himeko, you have to trust them!",
+			"Bronya, they are war maidens raised by Himeko, trust them!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308757,
+			"Yes……",
+			"嗯……",
+			"はい……。",
+			"네…….",
+			null,
+			null,
+			"Well ......",
+			"Yes. ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308758,
+			"Bang!",
+			"砰！",
+			"パァン——ッ！",
+			"팡——!",
+			null,
+			null,
+			"Bang!",
+			"Pow--pow--pow!"
+		],
+		[
+			"msg",
+			308759,
+			"Boom——",
+			"轰隆——",
+			"ドォオオオオンッ！！",
+			"도오오오온!!",
+			null,
+			null,
+			"Boom-",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308760,
+			"This is! The sound of fighting!",
+			"这个是！有战斗的声音！",
+			"これは、戦闘音です！",
+			"이것은 전투음입니다!",
+			null,
+			null,
+			"This one is! There is the sound of battle!",
+			"This is the sound of battle!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308761,
+			"From the bridge, they must be there!",
+			"是从大桥的方向传来的，她们一定就在前面！",
+			"大橋の方から聞こえてくるわ。やっぱり、そこにいるのよ！",
+			"다리 쪽에서 들려오네. 역시, 거기에 있는 거야!",
+			null,
+			null,
+			"It's coming from the direction of the bridge, they must be right in front of it!",
+			"I can hear you from the big bridge. I knew you were there!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308762,
+			"Go!",
+			"走！",
+			"急ぎましょう！",
+			"서두릅시다!",
+			null,
+			null,
+			"Go!",
+			"Let's hurry!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			308763,
+			"Boom!!!!",
+			"轰隆！！！！",
+			"ズドォオオオン——ッ！！！！",
+			"즈드오오온——!!!!",
+			null,
+			null,
+			"Rumble ！！！！",
+			"Zdooooooooooooooooooooooooooooooooooo-- ！！！！"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308764,
+			"Damn! Get away!",
+			"混账！给我让开！",
+			"くそっ！どけッ！",
+			"젠장! 비켜!",
+			null,
+			null,
+			"Bastard! Get out of my way!",
+			"Shit! Move!"
+		],
+		[
+			"msg",
+			308765,
+			"Himeko is waiting for us! We need to take revenge!!",
+			"姬子队长还在等着我们！我们一定要为她报仇！！",
+			"姫子隊長はきっと我々を待っている！絶対、仇を取ってやるんだ！！",
+			"히메코 대장은 분명히 우리를 기다리고 있을 거야! 반드시 원수를 갚아주겠어!!",
+			null,
+			null,
+			"Captain Himeko is still waiting for us! We must avenge her!!!",
+			"Captain Himeko must be waiting for us! We will avenge him for sure!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			308766,
+			"Growl!!!",
+			"吼吼吼！！！",
+			"ウォオオオオオ——ッ！！",
+			"우오오오오——!!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Wo-o-o-o-o-o--!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308767,
+			"Coo!!",
+			"咕！！",
+			"くっ！！",
+			"쿱!!",
+			null,
+			null,
+			"Goo!!!",
+			"Damn!"
+		],
+		[
+			"msg",
+			308768,
+			"Damn! Go to the hell!",
+			"可恶！给我去死！！",
+			"チッ！死ねぇッ！！",
+			"쯧! 죽어!!",
+			null,
+			null,
+			"Damn it! Go to hell!",
+			"Shit! Die!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308769,
+			"No! They are surrounded by Honkai creatures! They need our support!",
+			"不好！她们被崩坏生物包围了！我们得去支援她们！",
+			"まずいっ！崩壊生物に囲まれています！支援しないと！",
+			"안 됐어! 붕괴 생물에 둘러싸였어요! 지원하지 않으면!",
+			null,
+			null,
+			"No! They're surrounded by Avalanche creatures! We have to go to their aid!",
+			"Oh no! We're surrounded by decaying organisms! We need support!"
+		]
+	],
+	"1361": [
+		[
+			"speaker",
+			204662
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308770,
+			"Huh…Huh……",
+			"呼…呼……",
+			"はぁっ、はぁ……。",
+			"하아, 하아…….",
+			null,
+			null,
+			"Hoo...hoo ......",
+			"Hah, haha. ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308771,
+			"Great…finally catch up……are you alright?",
+			"太好了…总算赶上了……你们没事吧？",
+			"よかった……間に合いました……大丈夫ですか？",
+			"다행이야…… 제때 왔어…… 괜찮아요?",
+			null,
+			null,
+			"Great...finally caught up ...... Are you guys okay?",
+			"Thank goodness ...... I made it in time. ...... Is everything ok?"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308772,
+			"Not your business!",
+			"不用你管！",
+			"ほっといてくれ！",
+			"내버려 둬!",
+			null,
+			null,
+			"Don't worry about it!",
+			"Leave me alone!"
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"msg",
+			308773,
+			"Bronya…if it were not for you Himeko won't go to such dangerous place! It's all because of you!",
+			"布洛妮娅…如果不是你的话姬子也不会去那么危险的地方！都是因为你才！",
+			"ブローニャ……あんたさえいなければ、姫子隊長もあんな危ないところには行かなかった！全部、あんたのせいなんだよ！",
+			"브로냐…… 네가 없었으면, 히메코 대장도 그런 위험한 곳에 가지 않았을 거야! 전부 네 탓이야!",
+			null,
+			null,
+			"If it wasn't for you, Himeko wouldn't have gone to such a dangerous place! It's all because of you!",
+			"Bronya_...... if it weren't for you, Captain Himeko wouldn't have gone into such danger! It's all your fault!"
+		],
+		[
+			"msg",
+			308774,
+			"Why…Why you came back but Himeko didn't! We won't forgive you!",
+			"为什么…为什么姬子队长没有回来而你却回来了！我们是绝对不会原谅你的！",
+			"どうして……姫子隊長は戻らなかったのに、あんたは戻ってきたんだ！？絶対に……絶対に許せないッ！",
+			"왜…… 히메코 대장은 돌아오지 않았는데, 넌 돌아왔어!? 절대로…… 절대로 용서할 수 없어!",
+			null,
+			null,
+			"Why...why did Captain Himeko not come back and you did! We will never forgive you!",
+			"Why didn't ...... Captain Himeko come back, but you did! I will never ...... forgive you!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308775,
+			"Eh……",
+			"呃……",
+			"……ッ。",
+			"…….",
+			null,
+			null,
+			"Uh ......",
+			"......ッ."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308776,
+			"If we all went there together…we could protect here……she was already sick, but we couldn't help anything……",
+			"如果我们当时也一起去的话…就一定可以保护好姬子队长……她的身体明明已经支撑不住了，可我们却什么都帮不上……",
+			"あの時、私たちも一緒に行っていれば……姫子隊長を守れたのに……姫子隊長はあんな身体で……なのに、私たちは何もできなかった……。",
+			"그때 우리도 함께 갔더라면…… 히메코 대장을 지켰을 텐데…… 히메코 대장은 그런 몸으로…… 그런데 우리는 아무것도 못 했어…….",
+			null,
+			null,
+			"If we also went together at that time...we can definitely protect Captain Himeko ...... her body obviously can not support, but we can not help anything ......",
+			"If only we had gone with him at that time,...... we could have protected Captain Himeko,...... but he had such a body,...... and we couldn't do anything about it. We couldn't do anything......."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308777,
+			"Calm down everyone, let's go back first……",
+			"大家都冷静一下吧，这些事情回去在说……",
+			"落ち着いて、戻ってから話をしましょう……。",
+			"진정하고, 돌아가서 이야기하자…….",
+			null,
+			null,
+			"Let's all calm down, these things go back in to say ......",
+			"Calm down and we'll talk about it when we get back. ......"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308778,
+			"We won't! We will kill the Herrscher for Himeko!",
+			"我们是不会回去的！为了姬子队长我们一定会杀掉律者！",
+			"戻らないわ！姫子隊長のためにも、律者を殺して仇を取るんだからッ！",
+			"돌아가지 않아! 히메코 대장을 위해서도, 율자를 죽여 원수를 갚을 거니까!",
+			null,
+			null,
+			"We are not going back! We will kill the Ruler for the sake of Captain Himeko!",
+			"I'm not going back! For the sake of Captain Himeko, I'm going to avenge him by killing the Ritsushi!"
+		],
+		[
+			"msg",
+			308779,
+			"……even die! We need to die in the same place as Himeko!",
+			"……就算是死！我们也要死在和姬子队长一样的地方！",
+			"……たとえ、その先に死が待っていても、姫子隊長と同じ場所での死を望む！",
+			"……설령, 그 앞에 죽음이 기다리고 있어도, 히메코 대장과 같은 장소에서의 죽음을 바란다!",
+			null,
+			null,
+			"...... Even if we die! We will die in the same place as Captain Himeko!",
+			"...... even if death awaits me at the end of it, I want to die in the same place as Captain Himeko!"
+		],
+		[
+			"msg",
+			308780,
+			"Let's go! We can see Himeko after this bridge!",
+			"我们走！只要穿过这座大桥就能见到姬子队长了！",
+			"行こう、この橋を渡れば姫子隊長に会えるわ！",
+			"가자, 이 다리를 건너면 히메코 대장을 만날 수 있어!",
+			null,
+			null,
+			"Let's go! Just cross this bridge and we'll see Captain Himeko!",
+			"Let's go. If we cross this bridge, we can meet Captain Himeko!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308781,
+			"Stop!",
+			"给我站住！",
+			"待ってください！",
+			"기다려 주세요!",
+			null,
+			null,
+			"Stop right there!",
+			"Wait!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308782,
+			"Woo!",
+			"唔！",
+			"く……っ！",
+			"쿳……!",
+			null,
+			null,
+			"Well!",
+			"I'm going to go to ......!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308783,
+			"You are just like me before!",
+			"你们这样不就和当初的我一样么！",
+			"あなたたちは、あの時のブローニャと同じです！",
+			"당신들은 그때의 브로냐와 같습니다!",
+			null,
+			null,
+			"You guys are not the same as me at the beginning!",
+			"You guys are just like Bronya back then!"
+		],
+		[
+			"msg",
+			308784,
+			"Ignore your life for revenge! Cheat yourself while knowing nothing could be changed! To give yourself a reason to die out of hate and sorrow……",
+			"为了复仇而不顾生死！明明知道什么都改变不了却还是自欺欺人！借着仇恨和悲伤给自己一个了断的理由……",
+			"復讐のために死のうとしています。復讐をしても、何も変わらないとわかっているのに自分を騙して！憎しみと悲しみを理由に、死のうとしているのです……。",
+			"복수를 위해 죽으려 하고 있습니다. 복수를 해도, 아무것도 변하지 않는다는 걸 알면서 스스로를 속이고! 증오와 슬픔을 이유로, 죽으려 하고 있는 것입니다…….",
+			null,
+			null,
+			"To take revenge without regard for life and death! Knowing that nothing can be changed but still deceiving yourself! Give yourself a reason to end through hatred and sorrow ......",
+			"I am going to die for revenge. You know that revenge won't change anything, but you fooled yourself! They are willing to die because of hate and sorrow. ......"
+		],
+		[
+			"msg",
+			308785,
+			"Do you know…ever since my bid farewell with Seele…All the experienced these days are like dreams, the scene of Seele disappearing occurs to me again and again…like a nightmare in my mind……",
+			"你们知道么…从基地与希儿诀别的瞬间直到现在…感觉这几天的一切都像是在做梦一般，希儿从视线中消失的那一刻一遍又一遍地重演…如同噩梦一样萦绕在脑中……",
+			"ブローニャも経験があります……基地でゼーレと別れた瞬間の出来事が、繰り返し脳裏で再生がされていました。ゼーレが消えたあの瞬間を、何度も何度も……悪夢のように……。",
+			"브로냐도 경험이 있습니다……기지에서 제레와 헤어졌던 순간의 일이, 반복적으로 뇌리에 재생되고 있었습니다. 제레가 사라진 그 순간을, 몇 번이고 몇 번이고……악몽처럼…….",
+			null,
+			null,
+			"You know...from the moment I said goodbye to Hill at the base until now...I feel like everything in the past few days is like a dream...the moment Hill disappeared from sight is repeated over and over again...like a nightmare haunting my mind... ...",
+			"Bronya has experienced the same thing, ...... the moment when she left Seele at the base and the events of that moment played over and over again in her mind. That moment when Seele disappeared, over and over again,...... like a nightmare,......."
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308786,
+			"Himeko is right…when I know I will never see Seele, I just want to go with her…the destiny and hope of human beings mean nothing to me…but Himeko and you were fighting……",
+			"姬子她说的没错…当我以为永远也见不到希儿的时候，心里只想着去那个世界陪她…人类的命运和希望对我来说已经毫无价值了…明明姬子和你们都还在奋力抗争……",
+			"姫子の言った通りです……あの時、もう二度とゼーレに会えないと思った瞬間、人類の命運や希望などどうでもよくなりました……ただただゼーレのところに行きたかったのです……。姫子とあなたたちが、まだ戦っていたというのに……。",
+			"히메코가 말한 대로입니다……그때, 다시는 제레를 만날 수 없을 거라 생각한 순간, 인류의 운명이나 희망 등은 아무래도 좋아졌습니다……그저 제레의 곁으로 가고 싶었을 뿐입니다……. 히메코와 당신들이 아직 싸우고 있었다는 데도…….",
+			null,
+			null,
+			"Himeko was right... When I thought I would never see Hiei again, all I could think about was going to that world to be with her... The fate and hope of mankind was worthless to me... Himeko and you all were still fighting... ...",
+			"Himeko is right, ...... the moment I thought I would never see Seele again, I didn't care about the fate of humanity or my hope. ...... I just wanted to get to Seele! ....... Himeko and you guys were still fighting. ......"
+		],
+		[
+			"msg",
+			308787,
+			"So this kind of thing…I don't want to experience any more!",
+			"所以这样的事情…我已经不想再经历了！",
+			"もう、あんな思い……二度とごめんです！",
+			"이제, 그런 기분…… 다시는 싫어요!",
+			null,
+			null,
+			"So something like this...I don't want to go through it anymore!",
+			"I don't want to have to go through that ...... again!"
+		],
+		[
+			"msg",
+			308788,
+			"Right…Himeko died because she wanted to stop me…but if it's not my impulse and self-abasement, she can also spend her last time with everybody in peace!",
+			"没错…姬子是为了阻止我而死去的…如果不是我的冲动和自卑，她也一定可以安静地与大家一起度过最后的时光！",
+			"そうです……姫子はブローニャを止めるために死んだと言っても過言ではありません……ブローニャがいなければ、姫子はみんなと穏やかに最後の時間を過ごせたかもしれません。",
+			"그렇습니다……히메코는 브로냐를 막기 위해 죽었다고 해도 과언이 아닙니다……브로냐가 없었다면, 히메코는 모두와 평온하게 마지막 시간을 보낼 수 있었을지도 모릅니다.",
+			null,
+			null,
+			"That's right...Himeko died trying to stop me...if it wasn't for my impulsiveness and low self-esteem, she would have been able to spend her last days quietly with everyone!",
+			"Yes,...... it is no exaggeration to say that Himeko died to stop Bronya,...... without Bronya, Himeko could have spent her last hours peacefully with everyone."
+		],
+		[
+			"msg",
+			308789,
+			"I don't ask for your forgiveness…but because Himeko doesn't want me to die in hate and depression! She save me at the price of her own life!",
+			"我并不奢求你们能够原谅我…但正是因为姬子不想让我在仇恨和绝望中无谓的死去！所以才甘愿付出自己的生命将我拉出深渊！",
+			"許してくれるとは思っていません……ですが、姫子は自分の命を犠牲にしてまで、ブローニャを憎しみと絶望の淵から救ってくれました。",
+			"용서해줄 거라고 생각하지 않습니다…… 하지만, 히메코는 자신의 목숨을 희생해서까지, 브로냐를 증오와 절망의 끝에서 구해줬습니다.",
+			null,
+			null,
+			"I don't ask you to forgive me... but it's because Himeko didn't want me to die needlessly in hatred and despair! That's why she was willing to give her life to pull me out of the abyss!",
+			"I don't expect you to forgive me ......, but Himeko sacrificed her own life to save Bronya from the depths of hatred and despair."
+		],
+		[
+			"msg",
+			308790,
+			"But now you are repeating my past! So even I will die! I need to stop you! I must not waste Himeko's efforts!",
+			"而现在你们却在重蹈我自己的覆辙！所以即使是死！我也要把你们拉回来！这样才不会辜负姬子救下我的这条性命！",
+			"あの時のブローニャと同じようなことをするあなたたちを、ブローニャは何があろうと止めてみせます！そうしないと、姫子に合わせる顔がありません！それに、きっと姫子も力ずくで止めるはずですから。",
+			"그때의 브로냐와 같은 일을 하는 당신들을, 브로냐는 무슨 일이 있어도 막아 보이겠습니다! 그러지 않으면, 히메코에게 면목이 서지 않아요! 게다가, 분명 히메코도 힘으로 막았을 테니까.",
+			null,
+			null,
+			"And now you are repeating my own mistakes! So even if it means death! I have to pull you back! That way I won't fail Himeko for saving my life!",
+			"Bronya will do whatever it takes to stop you from doing what Bronya did back then! Otherwise, you will have no face to show to Himeko! Besides, I am sure Himeko will stop you by force."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308791,
+			"Coo! Then don't blame us!",
+			"咕！既然这样那就别怪我们不客气了！",
+			"ふん！それなら手加減はしない！",
+			"흥! 그렇다면 봐주지 않겠어!",
+			null,
+			null,
+			"Goo! In that case then don't blame us for not being polite!",
+			"Hmph! Then I'll go easy on you!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308792,
+			"Bang!!",
+			"砰！！",
+			"パァン——ッ！！",
+			"파앙——!!",
+			null,
+			null,
+			"BANG!!!",
+			"Pow--!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308793,
+			"Coo!!",
+			"咕！！",
+			"く……っ！！",
+			"크……!!",
+			null,
+			null,
+			"Goo!!!",
+			"I'm going to go to ......!!!!!!!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308794,
+			"Bang!!",
+			"砰！！",
+			"パァン——ッ！！",
+			"파앙——!!",
+			null,
+			null,
+			"BANG!!!",
+			"Pow--!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308795,
+			"Eh!",
+			"咳咳！",
+			"ゴホ……ッ！",
+			"컥……!",
+			null,
+			null,
+			"Ahem!",
+			"Goho......!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308796,
+			"What! Fight back! Bronya! Don't you want to stop us!",
+			"怎么了！还手啊！布洛妮娅！你不是要阻止我们么！",
+			"どうした、ブローニャ！止めるんじゃなかったの？",
+			"어떻게 된 거야, 브로냐! 막을 거 아니었어?",
+			null,
+			null,
+			"What's wrong! Fight back! Bronya! Aren't you going to stop us!",
+			"What's the matter, Bronya! I thought you were going to stop me."
+		],
+		[
+			"choice",
+			[
+				309295,
+				"Bronya! How are you!",
+				"布洛妮娅！你怎么样了！",
+				"ブローニャ、大丈夫！？",
+				"브로냐, 괜찮아!?",
+				null
+			],
+			[
+				309315,
+				"Bronya! Let me help you!",
+				"布洛妮娅！我来帮你！",
+				"ブローニャ！助けにきたよ！",
+				"브로냐! 도우러 왔어!",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1362
+		]
+	],
+	"1362": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308797,
+			"I'm ok…I owe them these……",
+			"我没事…这几拳是我欠她们的……",
+			"大丈夫です……これは彼女たちがブローニャに行える正当な権利です……。",
+			"괜찮아요...... 이건 그녀들이 브로냐에게 돌아갈 합당한 권리예요......",
+			null,
+			null,
+			"I'm fine...these punches are what I owe them ......",
+			"It's okay. ...... This is a legitimate right that these women can do to Bronya. ......"
+		],
+		[
+			"msg",
+			308798,
+			"Come on, if this can make them feel better……",
+			"来吧，如果这样能让她们消气的话……",
+			"これで気が済むのなら、いくらでも受けます……。",
+			"이렇게 해서 마음이 놓인다면, 얼마든지 받아들이겠어요......",
+			null,
+			null,
+			"Come on, if that'll take the heat off them ......",
+			"If this makes you feel better, I'll take as many as you want. ......"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308799,
+			"Woo…don't assume we will forgive you! Bronya!",
+			"呜…不要以为这样我们就会原谅你！布洛妮娅！",
+			"はっ、これで許されると思うなよ！ブローニャ！！",
+			"흣, 이렇게 해서 용서받을 거라 생각하지 마! 브로냐!!",
+			null,
+			null,
+			"Oooh...don't think we'll ever forgive you for that! Bronya!",
+			"Ha, don't think you'll be forgiven for this! Bronya!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308800,
+			"Bang!!",
+			"砰！！",
+			"バン——ッ！！",
+			"방——!!",
+			null,
+			null,
+			"BANG!!!",
+			"Bang--!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308801,
+			"Eh!",
+			"呃！",
+			"く……っ！",
+			"쿳......!",
+			null,
+			null,
+			"Ugh!",
+			"I'm going to go to ......!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308802,
+			"If you want to fight, fight with us.",
+			"既然要打的话，就让我来做你们的对手吧。",
+			"それ以上やるなら、あたくしが相手になるわ。",
+			"그 이상 하겠다면, 아타쿠시가 상대가 되어주지.",
+			null,
+			null,
+			"If you want to fight, let me be your opponent.",
+			"If you go any further, I'll be your partner."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308803,
+			"Theresa……",
+			"德丽莎……",
+			"テレサ……。",
+			"테레사......",
+			null,
+			null,
+			"Theresa ......",
+			"Teresa ......."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308804,
+			"They need to wake up like you, don't worry, I won't be too hard.",
+			"她们和你一样需要清醒一下呢，放心吧，我会手下留情的。",
+			"彼女たちもあなたと同じで、少し頭を冷やす必要があるのよ。安心して、手加減はしてあげるわ。",
+			"그녀들도 당신과 마찬가지로, 조금 머리를 식힐 필요가 있으니까. 안심해, 손좀 봐줄게.",
+			null,
+			null,
+			"They need to wake up just as much as you do. Don't worry, I'll be merciful.",
+			"They, like you, need to cool down a bit. Don't worry, I'll go easy on you."
+		],
+		[
+			"msg",
+			308805,
+			"Let me see how much they've got as Himeko's students~",
+			"就让我看看姬子教导出来的女武神有多少能耐吧~",
+			"ふふ～ん、姫子が育てた戦乙女の実力、あたくしに見せてみなさい！",
+			"후훗~, 히메코가 키운 전처녀의 실력을, 아타쿠시에게 보여봐!",
+			null,
+			null,
+			"Let me see how much the female warrior gods taught by Himeko can do ~",
+			"Hmmm, show me what you can do as a warrior maiden raised by Himeko!"
+		]
+	],
+	"1363": [
+		[
+			"speaker",
+			204662
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308806,
+			"Coo! Hurt!!",
+			"咕！疼疼疼！！",
+			"くっ！痛……っ！！",
+			"윽! 아파......!!",
+			null,
+			null,
+			"Goo! Ouch, Ouch, Ouch!!!",
+			"Damn!!! Ouch ......!"
+		],
+		[
+			"msg",
+			308807,
+			"We're still not enough to defeat Theresa……",
+			"果然还是战胜不了德丽莎园长……",
+			"やはり、テレサ学園長には勝てないか……。",
+			"역시, 테레사 학원장님께는 이길 수 없나…….",
+			null,
+			null,
+			"I really can't defeat the director of Theresa ......",
+			"After all, you can't beat the Teresa School Director. ......"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308808,
+			"Finally calm down.",
+			"看来终于冷静下来了么。",
+			"少しは頭が冷えたかしら？",
+			"조금은 머리가 식었을까?",
+			null,
+			null,
+			"It seems to have finally calmed down.",
+			"I hope you've cooled down a bit."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308809,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308810,
+			"So? Still want to revenge? If you don't give up now next time it won't be just like this.",
+			"怎么了？还想为姬子报仇么？要是还没有放弃的话下次可就不是淤青这么简单了。",
+			"どうしたの？まだ姫子の仇を取るつもり？諦めきれないっていうのなら、次はあざだけじゃ済まないわよ。",
+			"왜 그래? 아직 히메코의 원수를 갚을 생각이야? 포기하지 못한다면, 다음엔 상처만으로는 안 끝날 거야.",
+			null,
+			null,
+			"What's wrong? Still want to take revenge for Himeko? If you haven't given up yet, next time it won't be as simple as a bruise.",
+			"What's wrong? Are you still planning to avenge Himeko? If you can't give up, next time it won't be just a bruise."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308811,
+			"We won't be so impulsive…Bronya's right, if we do so Himeko would be really upset.",
+			"我们不会如此冲动了…布洛妮娅说的对，这么做的话换成姬子队长也一定会狠狠揍我们一顿的吧。",
+			"もうやめるよ……ブローニャの言った通り、姫子隊長ならきっと私たちを力ずくで止めるはずだもの。",
+			"이제 그만할게……브로냐가 말한 대로, 히메코 대장이라면 분명 우리를 힘으로 막았을 테니까.",
+			null,
+			null,
+			"We will not be so impulsive...Bronya is right, if we do so, Captain Himeko will also beat us up hard, right?",
+			"I'll stop now. ...... I'm sure Captain Himeko would stop us by force, just like Bronya said."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308812,
+			"Everybody……",
+			"大家……",
+			"みんな……。",
+			"다들…….",
+			null,
+			null,
+			"Everyone ......",
+			"Everyone can find out more at ......."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308813,
+			"We will inherit Himeko's will…to protect others, that's what she expected us to do……",
+			"我们会继承姬子队长的意志…用这条性命保护基地的大家，这样才是姬子队长期待的结果吧……",
+			"姫子隊長の意志を受け継いで、命あるかぎり基地のみんなを守る。それこそ、姫子隊長が私たちにしてほしいことだろうしね……。",
+			"히메코 대장의 의지를 이어받아, 생명이 다하는 날까지 기지의 모두를 지킬게. 그게 바로 히메코 대장이 우리에게 바라던 일이겠지…….",
+			null,
+			null,
+			"We will inherit the will of Captain Himeko ... with this life to protect everyone in the base, so that is the result that Captain Himeko expects it ......",
+			"We will carry on Captain Himeko's will and protect everyone at the base as long as we live. And that is exactly what Captain Himeko would want us to do. ......"
+		],
+		[
+			"msg",
+			308814,
+			"But Bronya, it doesn't mean that we have forgiven you…if you abandon us again, we won't be tolerant.",
+			"但是布洛妮娅，这不代表我们就原谅你了…如果你再抛弃大家的话，下次我们可不会手下留情了。",
+			"でもブローニャ、まだ許したわけじゃないからな……またみんなを裏切るような真似をしたら、次は手加減しないぞ。",
+			"하지만 브로냐, 아직 용서한 건 아니야……다시 한번 모두를 배신하는 짓을 한다면, 다음엔 봐주지 않을 거야.",
+			null,
+			null,
+			"But Bronya, that doesn't mean we forgive you...if you abandon everyone again, we won't be merciful next time.",
+			"But Bronya, I haven't forgiven you yet. ...... If you try to betray everyone again, I won't go easy on you next time."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308815,
+			"Yes, thank you.",
+			"嗯，谢谢你们。",
+			"ええ、ありがとうございます。",
+			"네, 감사합니다.",
+			null,
+			null,
+			"Well, thank you guys.",
+			"Yes, thank you."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV25_RunToMe"
+		],
+		[
+			"msg",
+			308816,
+			"Let's go, can't just wander around here! We will go on patrol, won't let the Herrscher go if we see her this time!",
+			"走吧，不能在这里游手好闲呢！我们巡逻去了，如果律者再出现的话一定不会放过她！",
+			"行こう、油を売ってる暇はない。見回りに行ってくる。もし律者がまた現れたら、その時は容赦しない！",
+			"가자, 시간 낭비할 여유 없어. 순찰 다녀올게. 만약 율자가 다시 나타난다면, 그땐 절대 용서하지 않겠어!",
+			null,
+			null,
+			"Let's go, we can't just lounge around here! We're going on patrol. If the Ruler shows up again, we won't let her go!",
+			"Let's go. No time to sell oil. I'm going to make my rounds. If the scribes show up again, then I will show no mercy!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				62,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308817,
+			"Finally the problem is solved, as Himeko's students, they have the same personality.",
+			"看来问题终于解决了呢，不愧是姬子教出来的学生，性格和姬子一模一样呢。",
+			"問題は解決したようね。さすが姫子の教え子、性格も姫子そっくりね。",
+			"문제는 해결된 모양이네. 역시 히메코의 제자답게, 성격도 히메코랑 똑 닮았네.",
+			null,
+			null,
+			"It seems that the problem has finally been solved, it is worthy of the students taught by Himeko, the character and Himeko exactly the same.",
+			"It looks like the problem is solved. As expected of Himeko's student, her personality is just like Himeko's."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				62,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308818,
+			"No, the problem is not solved……",
+			"不，问题并没有解决……",
+			"いいえ、まだ解決していません……。",
+			"아니요, 아직 해결되지 않았어요…….",
+			null,
+			null,
+			"No, the problem is not solved ......",
+			"No, it has not been resolved yet. ......"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308819,
+			"Bronya, you mean……",
+			"布洛妮娅，你是说……",
+			"ブローニャ、それって……。",
+			"브로냐, 그거…….",
+			null,
+			null,
+			"Bronya, you mean ......",
+			"Bronya, that's ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308820,
+			"To those who are full of hopes again…how should I tell them that the end of the world is coming……",
+			"面对再次怀抱希望的她们…我该怎么告诉她们末日降临的噩耗呢……",
+			"再び希望を抱いた彼女たちに……終焉の再来なんて、どう伝えればいいのでしょう……。",
+			"다시 희망을 품은 그들에게…… 종언의 재래란, 어떻게 전해야 할까요…….",
+			null,
+			null,
+			"Facing them with hope again...how do I tell them the bad news of the end ......",
+			"How can I tell these girls who are hopeful again that ...... the end is coming again? ......"
+		]
+	]
+}

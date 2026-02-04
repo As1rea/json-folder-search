@@ -1,0 +1,1561 @@
+{
+	"1411": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309229,
+			"Huh…huh…finally come abck alive……",
+			"呼…呼……终于活着回来了……",
+			"はぁ、はぁ……何とか生きて帰ってこれた……。",
+			"하, 하…… 간신히 살아서 돌아왔어…….",
+			"Hah... Hah... We've finally managed to make it back alive....",
+			null,
+			"Hoo...hoo ...... finally came back alive ......",
+			"Huh, huh ...... I managed to make it back alive. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			309230,
+			"Hey! Etherine! Are you ok!",
+			"喂！伊瑟琳！你们没事吧！",
+			"イザーリン！大丈夫でしたか？",
+			"이자린! 괜찮았어요?",
+			"Hey! Yiserin! Are you alright?",
+			null,
+			"Hey! Estherine! You guys are okay!",
+			"Estherine! Are you all right?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			309231,
+			"Bronya…so good to see you……",
+			"布洛妮娅…能见到你真是太好了……",
+			"ブローニャ……また会えてよかったわ……。",
+			"브로냐…… 다시 만나서 정말 좋았어…….",
+			"Bronya... I'm so glad I'm seeing your face again....",
+			null,
+			"Bronya...it's so good to see you ......",
+			"It's good to see you again, Bronja ....... ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			309232,
+			"What's wrong with you two! Why you do this without telling us!",
+			"你们两人怎么回事！为什么要故意瞒着我们做这种危险的事情！",
+			"何、考えてるんですか！どうしてブローニャたちに内緒で、あんな危険な真似を？",
+			"뭘 생각하는 거예요! 왜 브로냐들에게 비밀히 그런 위험한 짓을?",
+			"What on earth were you two thinking!? Why did you put yourselves in danger like this without telling anyone?",
+			null,
+			"What's wrong with you two! Why did you deliberately hide this dangerous thing from us!",
+			"What are you thinking? Why would you do such a dangerous thing without telling Bronya and the others?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			309233,
+			"Eh…sorry, I don't mean it…there are lots of complicated reasons behind……",
+			"呃…抱歉，我不是故意的…这其中有很多复杂的原因……",
+			"うっ……ごめんなさい、わざとじゃないの……いろいろと思うところがあってね……。",
+			"으…… 미안해, 일부러 그런 건 아니야…… 여러 가지 생각할 게 있어서…….",
+			null,
+			null,
+			"Uh...sorry, I didn't mean to...there are many complex reasons for this ......",
+			"Ugh ...... sorry, I didn't do that on purpose ...... I have a lot on my mind ......."
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			309234,
+			"To summarize…to stop the burst of big Honkai, we tried some dangerous methods…but we finally make it, luckily……",
+			"简而言之…为了阻止大崩坏的爆发，我们尝试了一些危险的方法…不过索性最终还是成功了，真是九死一生呢……",
+			"と、とにかく……大崩壊を阻止するため危険な方法を取ったけど……達成できて良かったわ！ほんと、危なかったけど……。",
+			"어, 어쨌든…… 대붕괴를 막으려고 위험한 방법을 썼지만…… 해내서 다행이야! 정말, 위험했지만…….",
+			"In short... In order to stop the Great Honkai from happening, we had to try this risky plan.... We barely survived, but we succeeded....",
+			null,
+			"In short ... in order to stop the outbreak of the great collapse, we tried some dangerous methods ... but so finally succeeded, really nine lives ......",
+			"And anyway, I'm glad we achieved ......, even though it was a risky way to stop the ...... Great Collapse! It really was a close call, but ......."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			309235,
+			"Why you don't let me know! Do you know how worried we are!",
+			"为什么不通知我！你知道我们有多担心么！",
+			"どうして、あたくしに言わなかったのよ！どれだけ心配したか分かってる？",
+			"왜, 나한테 말 안 했어! 얼마나 걱정했는지 알아?",
+			"Why didn't you tell me! Do you know how worried I was?",
+			null,
+			"Why didn't you inform me! Do you know how worried we were!",
+			"Why didn't you tell me! Do you know how worried I was?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309236,
+			"Woo…well, I will explain to you all the details when I get back!",
+			"唔…好啦，具体的事情我回去后会和你们详细解释的！",
+			"うっ……ごめんね。詳細は帰ってから、ゆっくり説明するから。",
+			"으…… 미안. 자세한 건 돌아가서 천천히 설명할게.",
+			null,
+			null,
+			"Well...well, I'll explain the details to you when I get back!",
+			"Ugh ...... sorry. I'll explain the details slowly when I get back."
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309237,
+			"Anyway…we need to back right now…we've got Sirin's Herrscher core, we might have some way to break the deadlock.",
+			"总之…现在我们得立即回去…如今获得了西琳的律者核心，我们或许有方法打破现在的僵局。",
+			"とにかく、早く帰りましょう……シーリンの律者コアを手に入れた今なら、この状況を打破できるかもしれない。",
+			"어쨌든, 빨리 돌아가자......시린의 율자 코어를 손에 넣은 지금이라면, 이 상황을 타개할 수 있을지도 몰라.",
+			"Anyway...now we have to go back immediately...now that we have obtained Sirin's Herrscher Core, we may have a way to break the current stalemate.",
+			null,
+			"Anyway...now we have to go back immediately...now that we have obtained the Herrscher's Core from Sirin, we may have a way to break the current stalemate.",
+			"Anyway, let's get home as soon as possible. ...... Now that we've got the Sheerin's Ruler Core, we might be able to get out of this situation."
+		],
+		[
+			"msg",
+			309238,
+			"But you come in a right time, I'm too tired to even walk…I think Kyushou as well…now we can return safely with you……",
+			"不过你们来的也好，现在的我已经连走路的力气都没有了…我想九霄一定也是…有你们在的话总算可以安全回去了……",
+			"来てくれて助かったわ。もう歩く力も残ってないの……きっと九霄もそうよ……あなたたちがいるお陰で、帰り道は安心だわ……。",
+			"와 줘서 도움이 됐어. 이미 걸을 힘도 남아있지 않아......분명 큐쇼도 그럴 거야......너희들이 있어 줘서, 돌아가는 길은 안심이 돼......",
+			null,
+			null,
+			"But you guys come good, now I have even the strength to walk ... I think Kyuushou must also be ... there are you guys in the words can finally go back safely ......",
+			"Thank God you're here. I don't have much strength left to walk anymore,...... and I'm sure Kyuushou does too,...... so thanks to you guys, I'll be safe on my way home."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			309239,
+			"Fine…I don't know there is a third Herrscher in Nagazora, luckily you two can hold her.",
+			"好吧…没想到长空市中居然还存在着第三个律者，真亏你们两个人可以与她抗衡。",
+			"わかりました……ですが、長空市に3人目の律者がいたとは思いませんでした。2人とも大変でしたね。",
+			"알겠습니다...... 하지만 장공시에 세 번째 율자가 있었다는 건 생각하지 못했어요. 두 분 모두 힘드셨겠네요.",
+			null,
+			null,
+			"Well...I didn't think there was a third Herrscher in the Long Sky City...it's a shame you two can fight her.",
+			"Okay, ......, but I didn't think there was a third scribe in Nagora City, and it's been a tough time for both of you."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			309240,
+			"No…not only us…actually we can't finish the task without her.",
+			"不…其实不止我们两个…如果没有她的话我们也不可能完成这个任务。",
+			"いや、2人じゃないの……彼女がいなかったら、この任務はクリアできなかった。",
+			"아니, 두 사람이 아니야......그녀가 없었다면, 이 임무는 클리어할 수 없었어.",
+			null,
+			null,
+			"No...actually it's not just the two of us...we couldn't have done it without her.",
+			"No, not two. ...... I couldn't have completed this mission without her."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			309241,
+			"You mean who?",
+			"她是指？",
+			"彼女？",
+			"그녀?",
+			null,
+			null,
+			"She means?",
+			"Her?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			309242,
+			"Coo! Nothing! I mean if the Herrscher core's Honkai energy was not absorbed a lot by the dead plague, we wouldn't be able to hold on until now!",
+			"咕！没什么！我是说如果不是律者核心的崩坏能被死斑吸收了很多，我们一定无法坚持到现在！",
+			"えっと、何でもない！律者コアの崩壊エネルギーが死斑に吸収されてなかったら、きっと上手くいかなかったわ！",
+			"어, 아무것도 아냐!율자 코어의 붕괴 에너지가 사반에 흡수되지 않았다면, 분명 잘 되지 않았을 거야!",
+			null,
+			null,
+			"Goo! It's nothing! I mean if the disintegration energy of the Ruler's core hadn't been absorbed so much by the Dead Spot, we definitely wouldn't have been able to last this long!",
+			"Um, nothing! If the disintegrating energy of the Rite Core hadn't been absorbed by the dead spots, I bet it wouldn't have worked!"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			309243,
+			"If you were not here in time…Kyushou and I may not make it……",
+			"如果不是你们及时赶到…或许我和九霄就再也回不去了……",
+			"来てくれて、本当に助かった……私と九霄だけじゃ無事に戻れたかどうか……。",
+			"와 줘서 정말 도움이 됐어......나와 큐쇼만으로는 무사히 돌아갈 수 있었을지......",
+			null,
+			null,
+			"If you had not arrived in time ... perhaps I and Kyuushou will never return ......",
+			"You came and really helped me. ...... I'm not sure if I could have made it back safely with just me and Kyuushou. ......"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			309244,
+			"We saw the marks around the base, and found you left…luckily we're here.",
+			"我们在巡逻的时候发现了放在基地附近的标记，才发现你们悄悄离开的…幸好及时赶到了。",
+			"見回りをしていたら基地付近にマークを見つけて……そこで、あなたたちがいないことに気付いたの……間に合ってよかったわ。",
+			"순찰을 하다가 기지 부근에 마크를 발견하고......거기서, 너희들이 없는 걸 눈치챘어......제때 도와서 다행이야.",
+			null,
+			null,
+			"We found the marker placed near the base while on patrol and realized you had left quietly...luckily we got there in time.",
+			"I was making my rounds and found a mark near the base ...... and that's when I realized you guys were gone ...... I'm glad I got there in time."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309245,
+			"Haha…thank you so much, Kyushou……",
+			"哈哈…那还真是太感谢你了，九霄……",
+			"ははっ、それなら九霄にお礼を言わないといけないわね……。",
+			"하하, 그렇다면 큐쇼에게 감사를 표해야겠네......",
+			null,
+			null,
+			"Haha...that's quite a thank you, Kyuushou ......",
+			"Haha, then I have to thank Kyuushou. ......"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				true
+			],
+			[
+				58,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309246,
+			"Also I don't really remember, but a savior needs to take everything into consideration! That's my sharp instincts given by god!",
+			"虽然不怎么记得当时的情景了，不过救世主当然要考虑到一切即将发生的状况！这就是神赋予我的敏锐直觉！",
+			"よくは覚えてないが、あらゆる可能性を考えて行動するのが、救世主だからなッ！これが神が我に与えし使命なのだ！",
+			"잘 기억하진 않지만, 모든 가능성을 생각해 행동하는 게 구세주의 운명이니까!이것이 신이 내게 내린 사명인 것이다!",
+			null,
+			null,
+			"I don't remember much of the scene, but of course the Savior had to take into account all the impending conditions! This is the keen intuition that God has given me!",
+			"I don't remember it well, but I'm a savior who considers all possibilities and acts accordingly! This is the mission God has given me!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				58,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309247,
+			"Because you are Kyushou……",
+			"真不愧是九霄呢……",
+			"さすが、九霄ね……。",
+			"역시, 큐쇼…….",
+			null,
+			null,
+			"Really worthy of the nine skies it ......",
+			"You're right, Kyuushou. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			309248,
+			"Woo! You sounds quite different from before……",
+			"唔！怎么感觉你的语气也和之前有很大的区别……",
+			"その口調、前とずいぶん違いますね……。",
+			"그 말투, 전과 많이 다르네요…….",
+			null,
+			null,
+			"Well! How do I feel that your tone is also very different from before ......",
+			"Your tone is very different from before. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			309249,
+			"Well…it's a long history…anyway let's go now……",
+			"这个…也是说来话长…总之我们快回去……",
+			"これも話せば長くなるわ……とにかく基地に戻りましょう……。",
+			"이것도 말하자면 길어지겠지만…… 어쨌든 기지로 돌아가자구요…….",
+			null,
+			null,
+			"This ... is also a long story ... Anyway, let's get back to ......",
+			"This is a long story too. ...... Anyway, let's go back to the base. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			309250,
+			"Bang!",
+			"噗通！",
+			"ドサ——ッ！",
+			"도삳——!",
+			null,
+			null,
+			"Poof!",
+			"Thud!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			309251,
+			"Hey! Etherine! Are you ok!",
+			"喂！伊瑟琳！你怎么了！",
+			"イザーリン！どうしたのよ！",
+			"이자린! 왜 그래!",
+			"Hey! Yiserin! What's wrong with you!",
+			null,
+			"Hey! Estherine! What's wrong with you!",
+			"Estherine! What's wrong with you!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309252,
+			"Woo…My body almost falls apart…please carry me…Theresa……",
+			"呜…我整个人已经快散架了…麻烦你背我一下吧…德丽莎……",
+			"うっ……もうダメ……悪いけどおぶってくれないかな……。",
+			"으…… 더는 못 참겠어…… 미안한데 업어다 줘…….",
+			"Ugh..... My body hurts all over.... Sorry, can you carry me for a bit....?",
+			null,
+			"Oooh...my whole body is already falling apart...please carry me for a while...Theresa ......",
+			"Ugh ...... I can't take it anymore ...... Sorry, can you give me a piggyback ride ......."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			309253,
+			"Ah…ok, you scared me.",
+			"哎…好吧，真是吓死我了。",
+			"はぁ……わかったわ。もうびっくりさせないで。",
+			"하아…… 알았어. 다시는 놀라게 하지 마.",
+			null,
+			null,
+			"Oops...well, it really scared me to death.",
+			"Huh, ...... I get it. Don't surprise me anymore."
+		]
+	],
+	"1412": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309254,
+			"Huh……finally get better after a break.",
+			"呼……休息了一下总算缓过来了。",
+			"ふぅ……休んだら、少し回復してきたわ。",
+			"후우…… 쉬고 나니, 조금 회복됐어.",
+			null,
+			null,
+			"Hoo ...... rested a bit to finally slow down.",
+			"Whew ...... I'm feeling a little better now that I've rested."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			309255,
+			"This is Sirin's Herrscher core……",
+			"这个就是西琳的律者核心么……",
+			"これがシーリンの律者コアですか……。",
+			"이것이 시린의 율자 코어입니까…….",
+			null,
+			null,
+			"Is this the core of the law of Celine ......",
+			"Is this the Sheerin's Ruler Core? ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			309256,
+			"Yes, it's not very dangerous in the cabin, but this core has massive power beyond our imagination……",
+			"是的，虽然现在装在隔离舱内没有太大的危险，可是这颗核心拥有的力量是我们无法想象的……",
+			"ええ、今は隔離用のケースに入ってるから大丈夫だけど、このコアの力は私たちの想像を遥かに超えるものよ……。",
+			"그래, 지금은 격리용 케이스에 들어있으니까 괜찮지만, 이 코어의 힘은 우리 상상을 훨씬 뛰어넘는 거야…….",
+			null,
+			null,
+			"Yes, although now installed in the isolation chamber without much danger, but this core has a power that we can not imagine ......",
+			"Yeah, it's fine now that it's in an isolation case, but the power of this core is far beyond anything we can imagine. ......"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			309257,
+			"But this power gives us new hope, if we can make use of it, we can probably stop the big Honkai.",
+			"但也是这股力量让我们有了新的希望，如果可以运用这颗律者核心，说不定我们就能阻止大崩坏的爆发。",
+			"でも、この力は私たちにとって新たな希望とも言えるわ。この律者コアを上手く利用できれば、大崩壊の発生も阻止できるかもしれない。",
+			"하지만 이 힘은 우리에게 새로운 희망이 될 수도 있어. 이 율자 코어를 잘 활용할 수만 있다면 대붕괴의 발생도 막을 수 있을지 몰라.",
+			null,
+			null,
+			"But it is also the power that gives us new hope. If we can use this Ruler Core, maybe we can stop the Great Crash from breaking out.",
+			"But this power is a new hope for us. If we can make good use of this ritard core, we may even be able to prevent the outbreak of the Great Collapse."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			309258,
+			"Stop the big Honkai…can we?",
+			"阻止大崩坏…真的能够做到么？",
+			"大崩壊を阻止する……そんなことが本当にできるの？",
+			"대붕괴를 막는다니... 그런 게 정말 가능한 거야?",
+			"Stopping the Great Honkai ...... Is such a thing really possible?",
+			null,
+			"Stopping the Great Crash...can it really be done?",
+			"Stopping the Great Collapse ...... Is such a thing really possible?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309259,
+			"Theoretically yes…because the dead plague absorbing Honkai energy is only one of the big Honkai conditions, our biggest crisis is Herrscher, she's like a bomb, will offer the dead plague the final energy and leads to the burst of big Honkai.",
+			"从理论上来说是可以做到的…因为死斑吸收崩坏能只是大崩坏的条件之一，而我们最大的危机其实还是律者，她就像是一个起爆器一样，会为死斑注入最后的能量从而引发大崩坏。",
+			"理論上はできるわ。死斑が崩壊エネルギーを吸収しているのは、大崩壊を発生させるための条件のひとつにすぎない……一番のカギとなるのは、やっぱり律者なのよ。律者が死斑へとエネルギーを注入することで大崩壊が起こる。律者こそが、起爆スイッチみたいなものなの。",
+			"이론상으론 가능해. 사반이 붕괴 에너지를 흡수하는 건 대붕괴를 발생시키기 위한 조건 중 하나에 불과해... 가장 중요한 열쇠는 역시 율자야. 율자가 사반에게 에너지를 주입함으로써 대붕괴가 발생하는 거야. 율자야말로 기폭 스위치 같은 존재인 셈이지.",
+			null,
+			null,
+			"Theoretically it can be done... because the dead spot absorbing collapse energy is only one of the conditions of the Great Collapse, and our biggest crisis is actually the Ruler, she is like an initiator, for the dead spot to inject the last energy to trigger the Great Collapse.",
+			"Theoretically, it can. The fact that the dead spots absorb decay energy is only one of the conditions for the Great Disintegration to occur,...... and the most important key is still the lawmaker. The Ritauru injects energy into the dead spots, which causes the great disintegration to occur. The Ritauru is like a detonator switch."
+		],
+		[
+			"msg",
+			309260,
+			"So our only hope now is find Herrschers and stop them…only in this way can we stop the big Honkai.",
+			"所以现在我们唯一的希望就是到达律者的身边阻止她们…只有这样才有机会制止大崩坏的爆发。",
+			"だから、唯一の希望は律者のところに行って彼女たちを止めること……そうすれば、いえ……それでしか、大崩壊の発生は止められないわ。",
+			"그러니 유일한 희망은 율자에게 가서 그들을 막는 것... 그렇게 해야만, 아니... 그렇게 해야만 대붕괴 발생을 막을 수 있어.",
+			null,
+			null,
+			"So now our only hope is to reach the Rulers and stop them...only then will we have a chance to stop the Great Crash from breaking out.",
+			"So our only hope is to go to the scribes and stop them...... and then, no...... only then, we can stop the outbreak of the Great Collapse."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			309261,
+			"But is it possible…let alone if we can defeat Herrschers, we need to get to the top of the the huge tower first…this is already difficult enough……",
+			"但是这真的做的到么…先不谈我们能不能战胜律者，如果要阻止她们我们首先得到达那座巨塔的塔顶才行吧…光是这个就已经……",
+			"でも、本当にできるのでしょうか……律者に勝てるかどうかは置いておいて、彼女たちのところに行くにも、まずあの巨塔の上まで辿り着く必要があります……それだけで、もう打つ手が……。",
+			"하지만 정말 할 수 있을까요... 율자에게 이길 수 있을지는 둘째치고, 그들이 있는 곳까지 가려면 먼저 저 거대 탑 꼭대기까지 도달해야 하는데... 그 것만으로도 이미 방법이...",
+			null,
+			null,
+			"But this really can do it ... let alone whether we can defeat the law, if we want to stop them we first have to reach the top of that huge tower to do it ... this alone is already ......",
+			"But can we really do it? ......Leaving aside whether or not we can beat the scribes, even to get to them, we have to get to the top of that huge tower first. ......That's all we have to do. The only way to beat them is to ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			309262,
+			"Yes……even it sounds impossibble, we still have one last card in hand.",
+			"是的……虽然这看起来几乎无法做到，但我们的手里还有着最后一张底牌。",
+			"ええ……一見、無理な感じがするけど、まだ切り札があるわ。",
+			"그래... 겉보기엔 무리 같지만, 아직 왕패가 하나 남아있어.",
+			null,
+			null,
+			"Yes ...... although this seems almost impossible to do, we have one last card in our hand.",
+			"Yeah, ...... at first glance, it seems impossible, but there's still a trump card."
+		],
+		[
+			"bgm",
+			54
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			309263,
+			"——That's the battleship Himeko left to us, Hyperion.",
+			"——那就是姬子留给我们的战舰，休伯利安号。",
+			"——姫子が残してくれた戦艦、ハイペリオン号よ。",
+			"——히메코가 남겨준 전함, 히페리온호야.",
+			null,
+			null,
+			"--That's the battleship that Himeko left us, the USS Huberian.",
+			"--It's the Hyperion, the battleship that Himeko left us."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			309264,
+			"You mean……",
+			"你的意思是……",
+			"それって……。",
+			"그게...",
+			null,
+			null,
+			"What you mean is ......",
+			"That's ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309265,
+			"Yes, that battleship was an airship, but remade into a battleship because of the damage in the big Honkai five years ago, what we need to now is to make it fly again.",
+			"没错，那艘战舰原本是一艘空中舰艇，但是因为在五年前的大崩坏中受损严重才勉强改装成轨道战舰使用，我们现在要做的就是让它重新起飞。",
+			"そう、あの艦は5年前の大崩壊での損壊がひどく、地上を駆るだけの戦艦になったわ。けど、もともとは空中戦艦だった。今こそ、私たちの手で再び空を飛べるよう直すのよ。",
+			"응, 그 함선은 5년 전 대붕괴에서 손상이 너무 심해 지상을 달리는 전함이 되었지. 하지만 원래는 공중전함이었어. 지금이야말로 우리 손으로 다시 하늘을 날 수 있게 수리해야 해.",
+			null,
+			null,
+			"Yes, that battleship was originally an airship, but it was only barely converted for use as an orbital battleship because it was badly damaged in the Great Crash five years ago, and all we have to do now is get it up and running again.",
+			"Yes, that ship was so badly damaged in the great collapse five years ago that it was reduced to a ground-driven battleship. But it was originally an airborne battleship. Now is the time for us to fix it up so that it can fly again."
+		],
+		[
+			"msg",
+			309266,
+			"But this can not be realized through current power unit, all the four nuclear engines are all damaged, we need to find the new power source, and now, it's in our hand.",
+			"不过这件事情光凭现在的动力炉是无法实现的，这艘战舰原本使用的四台核动力炉已经全部损坏，所以我们需要为它寻找新的动力源，而现在，这个新动力就在我们自己的手中。",
+			"もちろん、今の動力炉だと実現できない。この戦艦の動力炉は4つとも全壊してるからね、新しい動力源が必要だわ。そして今、その新しい動力源を手に入れたの。",
+			"물론 지금의 동력로로는 불가능해. 이 전함의 동력로는 네 개 모두 완파되었으니 새로운 동력원이 필요해. 그리고 지금, 그 새로운 동력원을 손에 넣었어.",
+			null,
+			null,
+			"But this matter is not possible with the current power furnace alone, the four nuclear power furnaces originally used by this warship have all been damaged, so we need to find a new power source for it, and right now, this new power is in our own hands.",
+			"Of course, this is not feasible with the current power reactors. All four of this battleship's power reactors are totally destroyed, so we need a new power source. And now we have that new power source."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			309267,
+			"So…you mean we can use Herrscher core as the new source of energy of Hyperion!",
+			"所以…你是说只要让律者核心成为休伯利安号的新动力就能让这艘战舰重新飞上天空么！",
+			"まさか……律者コアをハイペリオンの動力にして、ハイペリオンを再び飛ばそうということですか？",
+			"설마......율자 코어를 히페리온의 동력으로 삼아서, 히페리온을 다시 날리려는 겁니까?",
+			null,
+			null,
+			"So...you're saying that by making the Ruler's Core the new power source for the USS Huberian, you can get the ship back in the air!",
+			"Don't tell me you are trying to use the ...... Rite Core to power Hyperion and make Hyperion fly again?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			309268,
+			"Yes, that's the final plan!",
+			"没错，这就是最后的计划了！",
+			"そうよ、それが最後の計画。",
+			"그래, 그게 마지막 계획이야.",
+			null,
+			null,
+			"That's right, this is the final plan!",
+			"Yes, that's the last plan."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				58,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309269,
+			"Huh huh…The End Holy war finally starts…all the causalities will be cut off at that moment!",
+			"哼哼…终焉的圣战即将开始了么…一切的因果都将在那一刻斩断！",
+			"ふふっ、ついにラグナロクの火蓋が切って落とされるのだな……すべての因果を断つ時が訪れるのだ！",
+			"푸흐......드디어 라그나로크의 화약이 점화되는구나......모든 인과를 끊을 때가 찾아온 것이다!",
+			null,
+			null,
+			"Hmph...is the final holy war about to begin...all karma will be cut off at that moment!",
+			"Phew, at last the fires of Ragnarok will finally be set ...... the time to break all cause and effect!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			309270,
+			"Kyushou…what are you talking about?",
+			"九霄…你到底在说什么？",
+			"九霄……どういう意味ですか？",
+			"큐쇼......무슨 뜻이에요?",
+			"Kyuushou... What the heck are you talking about?",
+			null,
+			"Kyuushou...what the hell are you talking about?",
+			"Kyuushou...... what do you mean?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			309271,
+			"Ah ha ha…never mind, this is Kyushou's original personality, because Herrscher core's effect of evasion is temporarily stopped after defeating Sirin, her memory starts to recover.",
+			"啊哈哈…不用在意，这就是九霄原本的性格，因为战胜西琳之后律者核心的侵蚀暂时解除，所以九霄的记忆也重新恢复了。",
+			"あははっ……気にしないで、これが本来の九霄よ。シーリンに勝ったことで律者コアの侵食が一部収まったから、記憶も元に戻ったの。",
+			"아하하......신경 쓰지 마, 이게 본래의 큐쇼야. 시린을 이기고 나서 율자 코어의 침식이 일부 가라앉아서, 기억도 원래대로 돌아왔거든.",
+			"Haha.... Don't think about it too hard. This is Kyuushou's original personality. Defeating Sirin halted some of the erosion of the Herrscher Core, so her memory was restored. (TN: of the Herrscher core or by the herrscher core?)",
+			null,
+			"Ahahaha... don't care, this is the original character of Kyuushou, because the erosion of the Ruler's core was temporarily lifted after the victory over Celine, so Kyuushou's memory has been restored.",
+			"Haha ...... Never mind, this is the original Kyuushou. The win over Shilin stopped some of the erosion of the Rite of Resurrection core, so my memory is back to normal now."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			309272,
+			"That's to say…now is the original personality of this girl?",
+			"也就是说…这才是这个姑娘原本的性格么？",
+			"つまりは、これがこの子の本来の性格なの？",
+			"즉, 이 아이의 본래 성격이 이렇다는 거야?",
+			"In other words, this is how she normally acts?",
+			null,
+			"In other words...is this the original character of this girl?",
+			"In other words, is this her true nature?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				2,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309273,
+			"Sure…the dark seal has been broken! Now I am reborn! All the experiences is kept in my mind forever, so you don't need to worry, Kyushou-Sama is still your friend!",
+			"那当然…漆黑的封印已经破除！此刻的我已经完全重生！之前的历练已经化作永恒的记忆铭刻于脑海之中，所以汝等无需担忧，九霄大人依旧是你们忠实的战友！",
+			"無論……漆黒の封印は解かれた！我は完全なる復活を遂げたのだっ！しかしッ！心配は無用！今までの試練は、エターナルメモリーと化して脳裏に刻み込まれている！九霄様は今まで通り味方だ！",
+			"물론......칠흑의 봉인이 풀렸다! 내가 완전한 부활을 이뤄낸 것이다! 하지만! 걱정은 필요 없다! 지금까지의 시련은 이터널 메모리로 변해 뇌리에 새겨져 있다! 큐쇼님은 여전히 너희 편이다!",
+			"Of course ...... the jet-black seal is broken! I have been fully resurrected! But! Don't worry! My past ordeals are etched in my mind as an eternal memory! Lord Kyuushou is still your faithful comrade!",
+			null,
+			"Then of course... the dark seal has been broken! At this moment, I have been completely reborn! The previous experience has been engraved in my mind as an eternal memory, so you need not worry, Lord Kyuushou is still your faithful comrade!",
+			"Of course ...... the jet-black seal is broken! I have been fully resurrected! But! Don't worry! My past ordeals are etched in my mind as an eternal memory! Kurosawa-sama is still on my side!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				58,
+				2,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			309274,
+			"What does that mean……",
+			"这些话是什么意思……",
+			"意味がよくわかりません……。",
+			"뜻을 잘 모르겠어요......",
+			"I'm not sure what you're trying to say....",
+			null,
+			"What do these words mean ......",
+			"I'm not sure what you mean. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			309275,
+			"It bascially means…her memory is back, and she remembers the time fighting with us, so don't worry, we can get along as before……right?",
+			"大概就是说…她的记忆虽然已经恢复，并且之前和各位战斗过的记忆也还记得，所以不用担心，依旧和以前一样相处就好了……的意思吧？",
+			"えっと、記憶は元に戻ったけど、みんなと一緒に戦った記憶もちゃんと覚えてるから、今まで通りよろしくね……って感じかしら？",
+			"음, 기억은 원래대로 돌아왔지만, 모두와 함께 싸웠던 기억도 똑똑히 기억하고 있으니까, 앞으로도 잘 부탁해......라는 느낌?",
+			null,
+			null,
+			"Probably means... her memory has been restored and she still remembers the memories of the previous battle with you all, so don't worry, just keep getting along with the same as before ...... means, right?",
+			"Well, my memory has returned to normal, but I still remember the memories of fighting with everyone, so I guess I'm still here for you. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			309276,
+			"Somehome…I feel the previous Kyushou is more reliable……",
+			"总觉得…还是以前的九霄比较靠谱一些……",
+			"何だか……前の九霄の方が頼もしい気がします……。",
+			"왠지......예전 큐쇼가 더 믿음직스러운 기분이 들어요......",
+			"Somehow... I feel like she was more reliable before she got her memories back.",
+			null,
+			"Always feel ... or the previous nine skies more reliable some ......",
+			"I kind of feel that Kyuushou is more reliable before ....... ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309277,
+			"Ah ha ha……you're right.",
+			"啊哈哈……说的是呢。",
+			"あっ、あははっ……それは同感かな。",
+			"아, 아하하…… 그건 동감이네.",
+			"Ahaha.... You're probably right.",
+			null,
+			"Ahaha ...... said it.",
+			"Oh, haha ...... I guess I agree with that."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				58,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			309278,
+			"Hey! What do you mean! The savior is always in her best status!",
+			"喂！什么意思！救世主大人不论何时都是最好的状态！",
+			"どういうことだ！救世主たる我は、これこそが真の姿であり最強なのだぞ！",
+			"무슨 소리야! 구세주인 내가 바로 이 모습이 진정한 모습이자 최강인 것이다!",
+			"What do you mean! I am the savior, this is my true form, my strongest form!",
+			null,
+			"Hey! What do you mean! Lord Savior is always at his best no matter what time of day it is!",
+			"What do you mean! I am the savior, this is my true form, my strongest form!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				58,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309279,
+			"Yes yes…that's good.",
+			"是是…那样最好。",
+			"はいはい、そうね。",
+			"네네, 그렇네.",
+			"Sure, sure.",
+			null,
+			"Yes yes...that would be best.",
+			"Yes, yes, yes."
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				58,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309280,
+			"We need to prepare a lot, it's not a easy job to modify the engine of Hyperion.",
+			"让休伯利安号重新升空还需要很多准备，改装休伯利安号的引擎也不是一个轻松的工作。",
+			"ハイペリオンを再び飛べるようにするには、まだいろいろと準備が必要なの。楽な仕事ではないわ。",
+			"히페리온을 다시 날 수 있게 하려면 아직 여러 준비가 필요해. 쉬운 일이 아니야.",
+			null,
+			null,
+			"There was still a lot of preparation needed to get the Huberian back into the air, and modifying the Huberian's engines was not an easy job.",
+			"There is still a lot of work to be done to get Hyperion flying again. It's not an easy job."
+		],
+		[
+			"msg",
+			309281,
+			"If you are ready for a hard war, let's get started.",
+			"如果你们准备好决死一战的话，我们就立刻行动起来吧。",
+			"みんなが戦う覚悟を決めたら、すぐに行動しましょう。",
+			"모두가 싸울 각오를 했다면, 바로 행동에 옮기자구요.",
+			null,
+			null,
+			"If you are ready to fight to the death, let's move immediately.",
+			"As soon as everyone is ready to fight, let's act immediately."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			309282,
+			"This is the final war……",
+			"这就是最后的战斗了么……",
+			"最後の戦いになるのね……。",
+			"마지막 전투가 되는 거네…….",
+			null,
+			null,
+			"Is this the final battle ......",
+			"It's the last battle. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			309283,
+			"Yes…let's go, we've got nothing to lose now, let's take a leap of faith at the end of the world!",
+			"嗯…走吧，如今的我们已经没有可以失去的东西了，就让我们在残酷的末日面前放手一搏吧！",
+			"はい……行きましょう。今さら失うものなどありません。全力で戦うだけです。",
+			"네…… 갑시다. 이제와서 잃을 것 따윈 없어요. 전력을 다해 싸울 뿐입니다.",
+			null,
+			null,
+			"Well...let's go, nowadays we have nothing left to lose, let's let go in front of the cruel doom!",
+			"Yes ...... let's go. We have nothing to lose now. We just have to fight with all our might."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			309284,
+			"Let's grap the final hope by ourselves!",
+			"用我们自己的双手抓住这最后的一缕希望！",
+			"私たちの手で、最後の希望を掴もうッ！",
+			"우리 손으로, 마지막 희망을 잡자!",
+			null,
+			null,
+			"Grab this last ray of hope with our own hands!",
+			"Let us seize the last hope with our own hands!"
+		]
+	]
+}

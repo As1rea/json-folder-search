@@ -1,0 +1,1256 @@
+{
+	"1309": [
+		[
+			"speaker",
+			204622
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				62,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308107,
+			"Woo…so dizzy…did I drink too much.",
+			"呜…头好晕…看来这次真的喝太多了么。",
+			"うぅ……頭が痛い……ちょっと飲みすぎたようね。",
+			"우우… 머리가 아파… 조금 과음했나 봐.",
+			null,
+			null,
+			"Oooh...so dizzy...seems like I really drank too much this time.",
+			"Ugh ...... my head hurts ...... looks like I drank a little too much."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308108,
+			"Creaky——",
+			"吱呀——",
+			"ガチャ——",
+			"가차——",
+			null,
+			null,
+			"Squeak-",
+			"Gacha--"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308109,
+			"Who!?",
+			"谁！？",
+			"誰っ！？",
+			"누구야!?",
+			null,
+			null,
+			"Who!",
+			"Who?"
+		],
+		[
+			"bgm",
+			70
+		],
+		[
+			"portraits",
+			[
+				62,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308110,
+			"Woo…it's you, I thought it's Honkai beast, sorry sorry, I always need to be careful when living alone~",
+			"唔…是你啊，我还以为是崩坏生物呢，抱歉抱歉，一个人生活久看总是得提防着崩坏生物的袭击~",
+			"何だ……あなただったの。てっきり崩壊生物かと思ってしまったわ。ごめんなさい。1人での生活が長かったから、いつも崩壊生物の襲撃に備えているのよ。",
+			"뭐야… 당신이었구나. 완전히 붕괴생물인 줄 알았잖아. 미안해. 혼자서 지내온 지 오래라서, 항상 붕괴생물의 습격에 대비하고 있거든.",
+			null,
+			null,
+			"Well ... is you ah, I thought it was a collapse creatures, sorry sorry, a person living long look always have to watch out for the collapse creatures attack ~",
+			"What is it ......, it's you. I thought you were a disintegrator. I'm sorry, I've been on my own for so long, I'm always ready for a disintegrator attack."
+		],
+		[
+			"portraits",
+			[
+				62,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308111,
+			"Himeko and Bronya is sleeping, you should also take a break, it's difficult to survive without good physical condition.",
+			"姬子和布洛妮娅都睡着了，你也休息一下吧，在这里不保持体力的话可是很难生存下去的。",
+			"姫子とブローニャは眠っているわ。あなたも休んで。ここでは体力を温存しないと生き延びられないわよ。",
+			"히메코와 브로냐는 잠들어있어. 너도 좀 쉬어. 여기서는 체력을 아껴야 살아남을 수 있으니까.",
+			null,
+			null,
+			"Himeko and Bronya are asleep, you should also rest, it is difficult to survive here if you do not keep your strength.",
+			"Himeko and Bronya are sleeping. You should rest too. You need to conserve your strength to survive here."
+		],
+		[
+			"msg",
+			308112,
+			"Don't worry, I will keep awake during the night, also to get some air and sober up…my body is still not familiar with alcohol.",
+			"放心吧，守夜的事情就交给我了，正好去外面走走醒醒酒…果然不管多少次身体总是不习惯酒精呢。",
+			"安心して。夜の警備はあたくしに任せてくれればいいわ。ちょうど外に出て、酔いを覚まそうと思ってたから……やっぱり何度飲んでも、あたくしの身体はアルコールに慣れないわね。",
+			"안심해. 밤의 경비는 나에게 맡기면 돼. 마침 밖에 나가서 술깨를 하려고 했거든… 역시 몇 번 마셔도, 내 몸은 알코올에 익숙해지지 않는군.",
+			null,
+			null,
+			"Don't worry, I'll take care of the vigil, just go for a walk outside to wake up... It's true that no matter how many times the body is always not used to alcohol.",
+			"Don't worry. You can leave the night security to me. I was just about to go out and sober up when I saw this: ...... I knew my body would never get used to alcohol no matter how many times I drank it."
+		],
+		[
+			"choice",
+			[
+				308198,
+				"It's dangerous to walk out when drunk.",
+				"醉醺醺的样子出去也太危险。",
+				"酔っぱらったまま外に出たら危ない。",
+				"술에 취한 채로 밖에 나가면 위험해.",
+				null
+			],
+			[
+				308213,
+				"So drunk, you should be the one to rest.",
+				"一副醉醺醺的样子，该休息的是你才对。",
+				"酔っぱらっているようだけど、あなたも休まないと。",
+				"취한 것 같지만, 당신도 쉬어야 해.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1310
+		]
+	],
+	"1310": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				62,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308113,
+			"Hey hey hey…stop teaching, I am not a kid! I'm already…….",
+			"喂喂喂…一上来就说教么，别把我当小孩子啊！我可是已经……",
+			"ちょっと、ちょっと……顔を合わせるなりお説教なの。あたくしを子供扱いしないでよね！あたくしはもう——",
+			"잠깐, 잠깐… 마주치자마자 잔소리라니. 날 애 취급하지 마! 난 이미——",
+			null,
+			null,
+			"Hey, hey, hey...the moment you come up to preach, don't treat me as a child ah! I am already ......",
+			"Hey, hey ......, I'm preaching to you as soon as I see you. Don't treat me like a child! I'm not a--"
+		],
+		[
+			"msg",
+			308114,
+			"Eh! Almost spilled the beans, alcohol makes me dizzy. Ok, don't worry! I live on my own for so long, meet many more dangers than you, this kind of thing……",
+			"呃！差点说漏嘴了，果然头晕晕的容易出出事。好啦，不用你担心啦！我怎么说也一个人生活了这么久了，遇到的危险比你们多了去了，这种事情……",
+			"あ、危うく口を滑らすところだったわ。やっぱりお酒が入ると、すぐミスするわね。ほら、心配しないで！これでもずっと1人で暮らしてきたのよ。あなたよりもたくさん危険な目に遭ってきたんだから、これくらい……。",
+			"아, 위태롭게 입이 미끄러질 뻔했어. 역시 술이 들어가면 바로 실수를 하게 되네. 자, 걱정하지 마! 이래뵈도 계속 혼자 살아왔으니까. 당신보다도 더 많은 위험을 겪어왔으니, 이 정도는….",
+			null,
+			null,
+			"Ugh! I almost said something, it's true that dizziness is easy to get into trouble. Well, don't worry about it! I say how also a person living for so long, encountered more danger than you guys, this kind of thing ......",
+			"Oh, I almost slipped up. I guess I make mistakes easily when I'm drunk. Don't worry! I've lived alone my whole life. I've been in a lot more danger than you have. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308115,
+			"Bang!",
+			"砰！",
+			"バンッ！",
+			"빵악!",
+			null,
+			null,
+			"Bang!",
+			"Bang!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308116,
+			"Woo! Awch…why you hit me! I will slam you!",
+			"唔！好痛…你这扇破门为什么撞我啊！小心我砸了你！",
+			"きゃっ！イタタ……このボロ扉、どうしてぶつかるのよ！ぶっ壊すわよ！",
+			"앗! 아야…… 이 낡은 문이 왜 부딪히는 거야! 부숴버릴 거야!",
+			null,
+			null,
+			"Oh! It hurts...why are you hitting me with this stupid door! I'll smash you!",
+			"Kya! Ouch ...... How can this ragged door hit me! I'll smash it!"
+		],
+		[
+			"msg",
+			308117,
+			"Ok ok…go to sleep, I will take care of it……",
+			"好啦好啦…你去睡觉吧，交给我放心……",
+			"いいから、いいから……あなたはもう寝なさい。安心してあたくしに任せ……。",
+			"됐어, 됐어…… 당신은 이제 자요. 안심하고 내게 맡기고……",
+			null,
+			null,
+			"Okay, okay...you go to sleep, give me peace of mind ......",
+			"Just, just, just ...... you go to bed. Leave me in peace. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308118,
+			"bang!",
+			"砰！",
+			"ダンッ！",
+			"탕!",
+			null,
+			null,
+			"Bang!",
+			"Dang!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308119,
+			"Whoa! The bottles are so annoying! Why you come to my feet!",
+			"呜哇！这地上的酒瓶子真是碍事！好端端的滚到我脚下干嘛！",
+			"う～、な、何よこの酒瓶！ほんと邪魔ね！どうして、あたくしの足下なんかに転がって来るのよ！",
+			"으~, 뭐, 뭐야 이 술병! 정말 방해되네! 왜 내 발밑에 굴러온 거야!",
+			null,
+			null,
+			"Woohoo! That bottle on the floor is a real nuisance! Why is it rolling under my feet for good reason?",
+			"Ugh, what's with all the liquor bottles! You're really getting in the way! How dare you roll around under my feet!"
+		],
+		[
+			"msg",
+			308120,
+			"Coo……don't look at me like this……",
+			"咕……别用这种眼神看我……",
+			"うぐっ……そんな目であたくしを見ないでよ……。",
+			"으억…… 그런 눈으로 날 보지 말아요…….",
+			null,
+			null,
+			"Goo ...... don't look at me with that look ......",
+			"Ugh ...... don't look at me like that. ......"
+		],
+		[
+			"msg",
+			308121,
+			"Ok ok…I know, then you go with me ok?",
+			"好吧好吧…我知道了，既然这样的话你就和我一起去总行了吧？",
+			"はい、はい……分かったわよ。一緒に来なさい。それなら、安心でしょ？",
+			"알았어, 알았어…… 같이 오세요. 그럼 안심이 되죠?",
+			null,
+			null,
+			"Okay, okay...I get it, in that case you'll come with me, right?",
+			"Yes, yes ...... I understand. Come with me. Then you'll be safe, right?"
+		],
+		[
+			"portraits",
+			[
+				62,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308122,
+			"Ah…you are meddling, don't blame me if you can't wake up tomorrow.",
+			"哎…真是多管闲事的家伙，明天要是起不来可别怪我。",
+			"もう……本当にお節介なんだから。明日起きられなくなっても知らないからね。",
+			"정말…… 너무 참견이야. 내일 못 일어나도 몰라요.",
+			null,
+			null,
+			"Hey...really nosy guy, don't blame me if you can't get up tomorrow.",
+			"I'm already ...... really meddling. I don't know if you can't get up tomorrow."
+		]
+	],
+	"1311": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308123,
+			"Huh…what a quiet place, the whole world feels like deeply asleep, only we are awake, it's a lovely night if there're no zombies.",
+			"呼…真是安静的地方，整个世界就像陷入了沉睡一般，只有我们还醒着。要是没有死士的话一定是个不错的夜晚。",
+			"ふぅ……本当に静かな場所ね。まるで世界中が眠っていて、私たちだけが起きているみたい。ゾンビさえいなければ、きっと素敵な夜になったでしょうね。",
+			"휴…… 정말 조용한 곳이네. 마치 온 세상이 잠들고 우리만 깨어 있는 것 같아. 좀비만 없었으면 분명 멋진 밤이 됐을 텐데.",
+			null,
+			null,
+			"Phew...what a quiet place, it was like the whole world had fallen into a deep sleep and we were the only ones still awake. It must have been a nice night if there were no dead soldiers.",
+			"Whew ...... it really is a quiet place. It's like the whole world is asleep and we're the only ones awake. If it weren't for the zombies, it would have been a beautiful night."
+		],
+		[
+			"msg",
+			308124,
+			"Fine! If you want to go with me then be aware, as the new blood of \"Moths in Fire\", show me what you have.",
+			"好了！既然要和我一起巡逻那就打起精神吧，作为逐火之蛾的新人，让我看看你的实力吧。",
+			"ほら！あたくしと一緒に見回りをするなら元気を出してちょうだい。火を追う蛾の新人として実力を見せてよね。",
+			"자! 나랑 같이 순찰을 돌 거라면 힘내봐. 불을 좇는 나방의 신입으로서 실력을 보여봐.",
+			null,
+			null,
+			"All right! Since you're going to patrol with me then buck up and show me what you're made of as a newcomer to the Moth of Fire-by-Fire.",
+			"Come on! If you're going to make the rounds with me, you'd better cheer up. As the new moth to the fire, show me what you've got."
+		],
+		[
+			"msg",
+			308125,
+			"I noticed you when you attacked ME, you have good awareness and ability, but still lack experiences.",
+			"从你们进攻ME社的时候我就注意到你了，虽然战斗时的意识和能力都不错，但是还是缺乏经验呢！",
+			"あなたたちがME社へと攻め込んだ時から、九霄には注目していたのよ。戦闘時の考え方や能力はまずまずだけど、経験不足が否めないわね！",
+			"당신들이 ME사로 공격해 들어왔을 때부터 큐쇼를 주목하고 있었어. 전투 시의 사고방식이나 능력은 괜찮지만 경험 부족은 부정할 수 없네!",
+			null,
+			null,
+			"I noticed you from the time you attacked ME Society, although your awareness and ability in battle are good, but still lack of experience!",
+			"I have had my eye on Kyuushou ever since you guys invaded the ME company. His mindset and abilities in battle are not bad, but you can't deny his lack of experience!"
+		],
+		[
+			"msg",
+			308126,
+			"Huh…you are wondering why I know all these?",
+			"哼哼…你在想我为什么会知道这些吧？",
+			"フフン……どうして、あたくしがそんなことを知っているのか疑問に思っているのね？",
+			"흠…… 왜 아타쿠시가 그런 걸 알고 있는지 궁금해하고 있는 거네?",
+			null,
+			null,
+			"Hmmm...you're wondering why I know this, aren't you?",
+			"Huhn...... you wonder how I know that, don't you?"
+		],
+		[
+			"msg",
+			308127,
+			"Though I didn't join Bronya, but I always watched them, we have different opinions, but I still hope they're fine.",
+			"虽然我没有加入布洛妮娅她们，但是时不时地会在远处注视着她们，我们只是有着不同的理念，但还是希望她们能平安无事。",
+			"ブローニャたちとは一緒にいなかったけれど、常に遠くから彼女たちを見ていたのよ。あたくしたちの理念は違っているけど、それでも彼女たちの無事を願っていたからね。",
+			"브로냐들과는 함께 있지 않았지만, 항상 멀리서 그녀들을 지켜보고 있었어. 우리들의 이념은 다르지만, 그래도 그녀들의 무사함을 바랐으니까.",
+			null,
+			null,
+			"Although I did not join Bronya and the girls, from time to time I would watch them from afar, we just had different philosophies, but still hoped they would be safe.",
+			"I was never with Bronya and the others, but I was always watching them from afar. We had different philosophies, but we still wanted them to be safe."
+		],
+		[
+			"msg",
+			308128,
+			"Maye I just feel lonely…everytime when I'm alone I think about the old things, when everyone was working towards one goal, I taught them how to fight agains Honkai,",
+			"也许我也只是感到寂寞了吧…每当一个人的时候总是会想起以前的事情，那时候所有人在一起为了同一个目标而努力着的画面，我教导着她们如何成为强大的战士对抗崩坏，",
+			"もしかしたら、あたくしも寂しいだけなのかもしれないわね……いつも1人になると昔のことを思い出すの。あの時、皆と一緒に努力していた光景や、どうすれば崩壊に対抗できるのか教えていた時のことをね。",
+			"혹시 아타쿠시도 외로워서 그런 걸지도 모르겠네…… 항상 혼자 있으면 옛날 일이 떠오르거든. 그때 모두와 함께 노력하던 모습이나, 어떻게 하면 붕괴에 맞설 수 있을지 가르쳐주던 때를 말이야.",
+			null,
+			null,
+			"Maybe I just feel lonely too... Whenever I'm alone I always think of the old days, when everyone was working together for the same goal, I taught them how to become powerful warriors against the collapse.",
+			"Maybe I'm just lonely too. ...... I always think of the old days when I'm alone. The sight of me striving with everyone back then, teaching them how to fight the collapse."
+		],
+		[
+			"msg",
+			308129,
+			"I always feel like these memories are still alive, but they are actually far away……",
+			"总觉得这一切都历历在目，但是却已经变得遥不可及了……",
+			"いつも、それらがありありと目に浮かぶの。だけど、もう手の届かないものになってしまったわ……。",
+			"늘 그런 것들이 생생하게 눈앞에 떠올라. 하지만 이제는 손이 닿지 않는 것이 되어버렸어…….",
+			null,
+			null,
+			"It always feels like it's all vivid in my mind, but it's become unreachable ......",
+			"I can always see them in my mind's eye. But they're out of reach now. ......"
+		],
+		[
+			"msg",
+			308130,
+			"Coo…why I talked about it again. I mean, I taught Bronya how to fight, you're lucky, proud youself as the last Valkyrie of St. Freya HS!",
+			"咕…怎么又说起这种无聊的事情了。我的意思是，布洛妮娅她们的战斗技巧可都是我传授的，你今天可是走大运了，成为我大圣芙蕾雅学园的关门女武神而骄傲吧！",
+			"ふぅ……何でこんな話をしちゃったのかしら。あたくしが言いたいのはね、ブローニャたちの戦闘技術はあたくしが教えたものだってこと。あなたは本当にラッキーよ。我が聖フレイヤ学園最後の戦乙女になれるんだから！",
+			"후…… 왜 이런 이야기를 했을까. 아타쿠시가 말하고 싶은 건, 브로냐들의 전투 기술은 아타쿠시가 가르친 거라는 거야. 당신은 정말 운이 좋아. 우리 세인트 프레야 학원의 마지막 전투여자가 될 수 있으니까!",
+			null,
+			null,
+			"Goo...why are you talking about such boring things again? I mean, Bronya and their combat skills are taught by me, you are lucky today, become my great Saint Freya school closed Valkyrie and proud!",
+			"Phew... ...... I don't know why I'm telling you this. What I'm trying to say is that I taught Bronya and the others combat skills. You are so lucky. You're going to be the last of our St. Freya Academy maidens!"
+		],
+		[
+			"portraits",
+			[
+				62,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308131,
+			"Go, let me give you a lesson.",
+			"走吧，今天就让我来锻炼锻炼你。",
+			"行きましょう。今日はあたくしがあなたを鍛えてあげる。",
+			"가자. 오늘은 아타쿠시가 당신을 훈련시켜줄게.",
+			null,
+			null,
+			"Let's go, let me exercise you today.",
+			"Let's go. I will train you today."
+		]
+	],
+	"1312": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308132,
+			"Growl!",
+			"吼吼吼！",
+			"グルルルッ！",
+			"그르르릉!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Grrrrrrrrrrrrrrrrrrrrrrrr!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308133,
+			"These guys like to hide in the dark, I didn't think there are many of them, but now they show up.",
+			"果然这些家伙就是喜欢躲在阴暗的地方呢，本以为这附近没有多少数量，没想到一下子窜出来这么多。",
+			"やっぱり、こいつら薄暗い場所に隠れるのが好きね。この付近にそう数はいないと思っていたけど、一気にこれだけたくさん出てくるなんて予想外だわ。",
+			"역시 이 녀석들 어두운 곳에 숨는 걸 좋아하네. 이 근처에 그렇게 많지 않을 거라 생각했는데, 한꺼번에 이렇게 많이 나올 줄은 몰랐어.",
+			null,
+			null,
+			"It is true that these guys just like to hide in the shady places, I thought there was not much number in this vicinity, but I did not expect so many to come out at once.",
+			"I knew these guys like to hide in dimly lit places. I didn't think there would be that many of them around here, but I didn't expect to see so many at once."
+		],
+		[
+			"msg",
+			308134,
+			"It's time! Let me show you how to fight against Honkai! Watch!",
+			"正好！就给你演示一下与崩坏战斗的方法吧！看好了！",
+			"ちょうどいいわ！あなたに崩壊との戦い方を実演してあげる！見ていなさいっ！",
+			"딱 좋아! 당신에게 붕괴와의 싸움 방법을 시범 보여줄게! 잘 봐두라구!",
+			null,
+			null,
+			"Just in time! Let's show you how to fight against the crash! Watch this!",
+			"Just in time! I'll demonstrate to you how to fight disintegration! Watch me!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308135,
+			"Bang!",
+			"砰！！",
+			"ガキンッ！！",
+			"과광!!",
+			null,
+			null,
+			"BANG!!!",
+			"Clunk!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308136,
+			"It's not an end!!",
+			"还没结束呢！！",
+			"まだまだッ！！",
+			"아직이야!!",
+			null,
+			null,
+			"It's not over yet!!!",
+			"Not yet!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308137,
+			"Bang!",
+			"砰！！",
+			"ザシュッ！",
+			"촤스윽!",
+			null,
+			null,
+			"BANG!!!",
+			"Zash!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308138,
+			"Ha!!",
+			"嘿呀！！",
+			"ハァッ！！",
+			"하아!!",
+			null,
+			null,
+			"Heya!!!",
+			"Huh!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308139,
+			"Bang!!",
+			"砰！！",
+			"ザァンッ！",
+			"촤아앙!",
+			null,
+			null,
+			"BANG!!!",
+			"Zap!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308140,
+			"See, did you understand?",
+			"怎么样，刚才的战斗方式你学会了么？",
+			"どう？今の戦い方、マスターできた？",
+			"어때? 방금 전투 방식, 마스터했어?",
+			null,
+			null,
+			"How about it, did you learn how to fight just now?",
+			"How's it going? Have you mastered the way you fight now?"
+		],
+		[
+			"choice",
+			[
+				308199,
+				"How can a normal people has your muscles!",
+				"正常人怎么可能有你这样的臂力！",
+				"普通の人があなたみたいな腕力あるわけないでしょ！",
+				"평범한 사람이 너 같은 완력이 있을 리 없잖아!",
+				null
+			],
+			[
+				308214,
+				"Such a big weapon doesn't suits me, any other techniques?",
+				"这么大的武器不适合我，有别的战斗技巧么？",
+				"そんな大きな武器、私には合わない。",
+				"그렇게 큰 무기, 나한테는 안 맞아.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1313
+		]
+	],
+	"1313": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308141,
+			"Hey! Hey! Did you watch, I'm not saying the technique of Judah, but observing the environment and situation!",
+			"喂！喂！你到底有没有仔细看啊，我说的不是犹大的使用技巧，而是战斗中对于周围环境和情况的观察！",
+			"ちょっと！ちょっと！ちゃんと見てたの？あたくしが言っているのは誓約の十字架の使い方じゃなくて、戦闘中に周囲の様子を観察するってことよ！",
+			"잠깐! 잠깐! 제대로 보고 있었어? 아타시가 말하는 건 서약의 십자가 사용법이 아니라, 전투 중 주변 상황을 관찰하라는 거야!",
+			null,
+			null,
+			"Hey! Hey! I'm not talking about Judas's skills, but about the observation of the surroundings and the situation during the battle!",
+			"Hey! Hey! Hey! Were you watching me? I'm not talking about using your covenant cross, I'm talking about observing your surroundings during battle!"
+		],
+		[
+			"msg",
+			308142,
+			"You're good at fighting, but not enough attention, you need to always watch out, or others will take the advantage, if I wasn't behind you, you were already knocked down.",
+			"你的身手不错，不过注意力还是差了一些，在战斗的时候要时刻注意周围的形势，不然很容易陷入被动，刚才要不是我在你身后挡住崩坏生物，你早就已经躺下了。",
+			"あなたの腕はなかなかだけど、洞察力が足りていないの。戦闘中は周囲の状況を常に見ること。さもないと、簡単に劣勢に立たされるわよ。今だって、あたくしがあなたの背後にいなかったら、とっくにやられていたわ。",
+			"당신 실력은 꽤 괜찮지만, 통찰력이 부족해. 전투 중엔 주변 상황을 항상 파악해야 해. 안 그럼 쉽게 열세에 몰리게 될 거야. 지금도 아타시가 뒤에서 지켜주지 않았으면 벌써 당했을걸.",
+			null,
+			null,
+			"Your hands are good, but attention is still poor, in the fight to always pay attention to the surrounding situation, otherwise it is easy to fall into a passive, just now if I had not been behind you to block the collapse of the creature, you would have been lying down.",
+			"Your skill is quite good, but you lack insight. In battle, you should always look at your surroundings. Otherwise, you will be easily outnumbered. Right now, if I wasn't behind you, you'd have been beaten already."
+		],
+		[
+			"msg",
+			308143,
+			"If you still want to rely on your team mates to protect you then you're wrong, if you want to survive this dangerous world, you need to become stronger.",
+			"如果你还想着依赖自己的战友来保护自己的后背那就错了，真的想在这个濒临崩溃的世界活的更久的话，就得让自己变得更强大。",
+			"もし、まだ自分の戦友に背中を守ってもらおうと思っていたら大きな間違いよ。破滅に瀕したこの世界で生き延びたければ、自分自身がもっと強くならなくちゃ。",
+			"만약 아직도 동료들에게 등만 지켜달라고 생각한다면 큰 오산이야. 파멸에 빠진 이 세상에서 살아남으려면, 네 스스로가 더 강해져야만 해.",
+			null,
+			null,
+			"If you are still thinking of relying on your comrades to protect your back that would be a mistake, really want to live longer in a world on the verge of collapse, you have to make yourself stronger.",
+			"If you still think you can rely on your comrades-in-arms to protect your back, you are mistaken. If you want to survive in this world on the brink of destruction, you have to become stronger yourself."
+		],
+		[
+			"choice",
+			[
+				308200,
+				"I know, I will try my best.",
+				"我明白了，我会努力的。",
+				"分かった。頑張るよ。",
+				"알았어. 힘낼게.",
+				null
+			],
+			[
+				308215,
+				"I am more used to fight with you.",
+				"我还是习惯于和大家一起战斗。",
+				"やっぱり皆と一緒に戦う方が慣れてる。",
+				"역시 모두와 함께 싸우는 게 익숙해.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1314,
+			1315
+		]
+	],
+	"1314": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308144,
+			"Huh, nice.",
+			"嗯，不错的觉悟。",
+			"うん、いい覚悟ね。",
+			"응, 좋은 각오네.",
+			null,
+			null,
+			"Well, nice awakening.",
+			"Yeah, that's a good resolution."
+		],
+		[
+			"msg",
+			308145,
+			"It's not only for you, but also for your team mates, if you want to protect them, you need to protect yourself first.",
+			"这不仅是为了你，也是为了你的战友，如果你想保护他们的话，就得学会保护自己。",
+			"これはあなたのためだけじゃないわ。あなたの戦友のためでもあるの。もし、彼らを守りたいのなら、自分を守るすべを身につけることね。",
+			"이건 당신만을 위한 게 아니야. 당신 동료들을 위한 일이기도 해. 만약 그들을 지키고 싶다면, 자신을 지킬 방법을 배워야지.",
+			null,
+			null,
+			"This is not only for you, but also for your comrades, who have to learn to protect themselves if you want to protect them.",
+			"This is not just for you. It is also for your comrades-in-arms. If you want to protect them, learn to protect yourself."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1316
+		]
+	],
+	"1315": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308146,
+			"Really…then you'll find less and less people are behind you, finally you're the only one left.",
+			"是么…那样你会发现站在自己身后的人会越来越少，最后还是只剩下你一个人。",
+			"そう……でも、そのうち自分の背後に立つ人間がどんどん少なくなっていって、最後にはあなただけになっていることに気がつくわよ。",
+			"그래…… 하지만 언젠간 자신의 뒤에 서 있는 사람이 점점 줄어들어서, 결국에는 당신만 남게 될 거라는 걸 깨닫게 될 거예요.",
+			null,
+			null,
+			"Really...then you will find fewer and fewer people standing behind you, and in the end you will be the only one left.",
+			"Yes ......, but eventually you'll find yourself with fewer and fewer people standing behind you, and in the end you'll find yourself alone."
+		],
+		[
+			"msg",
+			308147,
+			"It's not only for you, but also for your team mates, if you want to protect them, you need to protect yourself first.",
+			"这不仅是为了你，也是为了你的战友，如果你想保护他们的话，就得学会保护自己。",
+			"これはあなたのためだけじゃないわ。あなたの戦友のためでもあるの。もし、彼らを守りたいのなら、自分を守るすべを身につけることね。",
+			"이건 당신만을 위한 것이 아니에요. 당신의 전우들을 위한 것이기도 해요. 만약 그들을 지키고 싶다면, 자신을 지킬 방법을 배워야 해요.",
+			null,
+			null,
+			"This is not only for you, but also for your comrades, who have to learn to protect themselves if you want to protect them.",
+			"This is not just for you. It is also for your comrades-in-arms. If you want to protect them, learn to protect yourself."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1316
+		]
+	],
+	"1316": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308148,
+			"Growl!",
+			"吼吼吼！",
+			"ウォオオオオンッ！",
+			"우오오오온!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Wo-o-o-oong!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308149,
+			"Ok~enough break, now show me!",
+			"好了~中场休息结束了，下面就让我看看你的表现吧！",
+			"よ～し、中休みはここまで。ここからは、あなたの腕前を見せてちょうだい！",
+			"좋아~, 중간 휴식은 여기까지. 이제부터는 네 실력을 보여줘!",
+			null,
+			null,
+			"Well ~ the intermission is over, let me see your performance below!",
+			"Alright, that's it for the mid-term break. From here on out, let's see how good you are!"
+		]
+	],
+	"1317": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308150,
+			"I'm much sober after sweating…after the long time, my body is not as strong as before.",
+			"果然出掉一身汗脑袋就清醒不少了…好久没有活动筋骨了，身体都有些锈掉的感觉了。",
+			"汗をかいたおかげで、頭がだいぶスッキリしたわ……久しぶりに身体を動かしたからか、身体のあちこちがサビついてたみたい。",
+			"땀을 흘린 덕분에 머리가 한결 개운해졌어…… 오랜만에 몸을 움직였던 탓인지 몸 여기저기가 녹슬었던 모양이야.",
+			null,
+			null,
+			"I really sweat off a lot of head clear...long time no activity, the body are some rust off the feeling.",
+			"Thanks to the sweat, my head feels much clearer. ...... Maybe it's because I haven't moved my body in a while, but I feel like I've been rusty all over."
+		],
+		[
+			"msg",
+			308151,
+			"Huh…but being with you always reminds me of the old things, don't know if it's bebcause of the alcohol, I tend to be more sentimental……",
+			"呼…和你在一起总会让我想起以前的事情，不知道是不是酒精的作用，总是会变得伤感起来……",
+			"ふぅ……あなたと一緒にいると昔のことを思い出すわ。アルコールのせいなのか分からないけど、何だか切なくなってきちゃった……。",
+			"후…… 당신과 함께 있으면 옛날 생각이 나네요. 알코올 때문인지 모르겠지만, 왠지 서글퍼져 버렸어…….",
+			null,
+			null,
+			"Phew...being with you always reminds me of the past, I don't know if it's the effect of alcohol, it always becomes sad ......",
+			"Whew ...... being with you reminds me of the old days. I don't know if it's the alcohol or what, but I'm starting to feel sad. ......"
+		],
+		[
+			"msg",
+			308152,
+			"If it's not the big Honkai, you must be an outstanding Valkyrie in St. Freya.",
+			"如果不是大崩坏的话，以你的能力一定能在圣芙蕾雅学园成为一个优秀的女武神吧。",
+			"あなたの能力なら、大崩壊がなければ聖フレイヤ学園で誰よりも優秀な戦乙女になれたでしょうね。間違いなく。",
+			"당신의 능력이라면, 대붕괴가 없었다면 세인트 프레야 학원에서 누구보다도 뛰어난 전투처녀가 될 수 있었을 거예요. 분명히.",
+			null,
+			null,
+			"If it wasn't for the Great Collapse, you would have been able to become an excellent Valkyrie at St. Freya's Academy with your abilities, right?",
+			"With your abilities, you would have been a better war maiden than anyone else at St. Freya's Academy if not for the Great Collapse. Without a doubt."
+		],
+		[
+			"msg",
+			308153,
+			"Now you look like them, no hesitation in the eyes, just walk towards your goal.",
+			"现在的你样子像极了以前的她们，眼神中没有犹豫，一心为着自己心中的目标前进。",
+			"今のあなたの姿は、昔の彼女たちみたいだわ。目には迷いがなく、心の中の目標に一心不乱に突き進むその感じ。",
+			"지금의 당신 모습은 옛날 그녀들 같아요. 눈에는 망설임이 없이 마음속 목표에 한결같이 돌진하는 그 느낌.",
+			null,
+			null,
+			"Now you look like the old them, no hesitation in the eyes, single-mindedly for the goal in their hearts.",
+			"The way you look now, you are just like those girls of the past. There is no hesitation in your eyes, and you are single-mindedly pursuing the goal in your heart."
+		],
+		[
+			"msg",
+			308154,
+			"But so many people give up their original thinking because of what happens now, they become the walking dead……including me.",
+			"但是现在太多的人因为眼前的人和物放弃了原本的执着，成为了在荒野中徘徊的行尸走肉……这其中也包括了我。",
+			"だけど、今はあまりに多くの人が目の前の人や物のために、それまで追い求めていたものを諦め、荒野を彷徨い歩く屍になってしまったわ……そして、あたくしもその中の一人。",
+			"하지만 지금은 너무 많은 사람들이 눈앞의 사람이나 물건을 위해 그동안 추구하던 것을 포기하고, 황야를 방황하며 떠돌아다니는 시체가 되어버렸어…… 그리고 저도 그 중 한 명이에요.",
+			null,
+			null,
+			"But now too many people have given up their original obsession because of the people and things in front of them, becoming the walking dead wandering in the wilderness ...... which also includes me.",
+			"But now too many people have given up what they were pursuing for the sake of the people and things in front of them, and have become corpses wandering in the wilderness. ...... And I am one of them."
+		],
+		[
+			"msg",
+			308155,
+			"But there're not many people like you that have hope in their eyes…so I don't want you to die here, at least I can teach you some survival skills, which might be helpful.",
+			"像你这样眼神中充满希望的人已经不多了…所以我不想让你死在这里，至少在这里把我仅存的一些生存经验教给你，这样也能对你有所帮助。",
+			"あなたみたいに目に希望が満ち溢れた人は、もう多くないわ……だから、あたくしはあなたにここで死んでほしくないの。あたくしの中にある生きるための知恵をあなたに教える……多少は役に立つはずよ。",
+			"당신처럼 눈에 희망이 가득한 사람은 이제 많지 않아…… 그래서, 아타쿠시는 당신이 여기서 죽었으면 하지 않아. 아타쿠시 안에 있는 살아가기 위한 지혜를 당신에게 가르쳐 줄게…… 어느 정도는 도움이 될 거야.",
+			null,
+			null,
+			"There are not many people like you who have hope in their eyes...so I don't want you to die here, at least here to teach you some of my only remaining survival experience, so that it can also help you.",
+			"Not many people have eyes full of hope like yours anymore...... so I don't want you to die here. I'm going to share with you some of the wisdom I have inside of me that will be of some use to you ......."
+		],
+		[
+			"portraits",
+			[
+				62,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308156,
+			"Woo~thank you for spending the night with me, I was always alone, can't tell things to others, I spoke to much, please don't mind~",
+			"唔~多谢你陪我度过这个夜晚，以前总是一个人，很多事情都没有倾述的地方，今天的话有点多了，你别介意~",
+			"うん、今夜はあたくしに付き合ってくれてありがとう。これまではいつも1人だったから、自分の気持ちを話すことなんて全然なかったの。少し話しすぎたかもしれないけど、気にしないでくれると嬉しいわ。",
+			"응, 오늘 밤은 나에게 맡겨줘서 고마워. 지금까지는 늘 혼자였으니까, 내 마음을 �얘히 할 기회가 전혀 없었거든. 좀 많이 말한 것 같지만, 신경 쓰지 말아주면 좋겠어.",
+			null,
+			null,
+			"Well, thank you for spending the night with me, I was always alone, there is no place to talk about many things, today there are a little too many words, you do not mind ~",
+			"Yes, thank you for being with me tonight. I've always been alone, so I never really talk about my feelings. I hope you don't mind if I'm talking a little too much."
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308157,
+			"Ok, let's go. Then night is long, our dream should end, but your way is long.",
+			"好了，走吧。夜还很长，我们的梦该醒来了，不过你要走的路还有很长呢。",
+			"ほら、行きましょう。まだ夜は長いわ。あたくしたちの夢はそろそろ醒めるけど、あなたが歩むべき道はまだまだ長いわよ。",
+			"자, 가자. 아직 밤은 길어. 우리들의 꿈은 이제 막 깨어나지만, 네가 걸어갈 길은 아직도 한참 남았으니까.",
+			null,
+			null,
+			"Okay, let's go. The night is still long and it's time to wake up to our dreams, but you have a long way to go.",
+			"Come on, let's go. The night is still long. Our dreams may be waking up soon, but you still have a long way to go."
+		]
+	]
+}

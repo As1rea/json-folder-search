@@ -1,0 +1,748 @@
+{
+	"219": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302520,
+			null,
+			"……",
+			"…………。",
+			"………….",
+			null
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV24_RadioSignals"
+		],
+		[
+			"msg",
+			302521,
+			null,
+			"呲拉…呲拉……",
+			"ピィィー……ガガッ……！",
+			"피이이…… 가각……!",
+			"Beepー ........ Kzzzt......!",
+			null,
+			"Bared...Bared ......",
+			""
+		],
+		[
+			"msg",
+			302522,
+			null,
+			"休伯利安…受损严重……",
+			"ハイペリオン……損傷甚大——",
+			"히페리온…… 손상 심대——",
+			"Hyperion... Badly damaged...",
+			null,
+			"Hyperion...badly damaged ......",
+			"Hyperion...... damage immense--"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV12_RadioReceive"
+		],
+		[
+			"msg",
+			302523,
+			null,
+			"呲拉…动力炉…全部瘫痪……",
+			"ジジッ……動力炉……全てダウン……。",
+			"지직…… 동력로…… 모두 다운…….",
+			"Kzzzzt.... Power generator...... All down.....",
+			null,
+			"Bared...Power Furnace...all paralyzed ......",
+			"Gigi ...... power reactor ...... all down ......."
+		],
+		[
+			"msg",
+			302524,
+			null,
+			"电力供给中断…呲啦…",
+			"電力供給中断……ガガッ……。",
+			"전력 공급 중단…… 가각…….",
+			"Power supply interrupted...... Zzzzzt....",
+			null,
+			"Power supply interruption...bared...",
+			"Power supply interruption: ...... gaga ......."
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV12_RadioReceive"
+		],
+		[
+			"msg",
+			302525,
+			null,
+			"大量舱室起火…呲拉…请立即撤离……",
+			"多数のキャビンから出火を、確認……ザザッ……ただちに退避してください……。",
+			"다수의 캐빈에서 화재 발생을 확인…… 자작…… 즉시 대피해 주십시오…….",
+			"....Compartments on fire..... bzzzzz...... Evacuate immediately........",
+			null,
+			"Large number of compartments on fire...bared...please evacuate immediately ......",
+			"Fire out of numerous cabins, confirm ...... zazzle ...... evacuate immediately ......."
+		],
+		[
+			"msg",
+			302526,
+			null,
+			"……",
+			"ピィィィィィィ——————",
+			"피이이이이이——————",
+			null
+		],
+		[
+			"msg",
+			302527,
+			null,
+			"……",
+			"——————",
+			"——————",
+			null
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302528,
+			null,
+			"咕…咳咳！",
+			"うぐっ……ゴホッ、ゴホッ！",
+			"으억…… 커헉, 커헉!",
+			"Ugh...... Ahem, ahem!",
+			null,
+			"Coo...ahem!",
+			"Ugh ...... gosh, gosh!"
+		],
+		[
+			"portraits",
+			[
+				58,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302529,
+			null,
+			"我还……活着么……",
+			"我は、まだ……生きているの……か。",
+			"나는 아직…… 살아 있는 걸……까.",
+			"I'm..... Still alive....?",
+			null,
+			"Am I still ...... alive ......",
+			"I am still ...... alive ......?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				58,
+				7,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302530,
+			null,
+			"呜……",
+			"うっ……。",
+			"으윽…….",
+			"Ugh...",
+			null,
+			"Woo ......",
+			"Ugh. ......."
+		],
+		[
+			"msg",
+			302531,
+			null,
+			"大家…都还好么？",
+			"皆さん……大丈夫ですか？",
+			"여러분…… 괜찮으신가요?",
+			"Everyone..... Are you alright?",
+			null,
+			"Everyone...are you all right?",
+			"Is everyone okay with ......?"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302532,
+			null,
+			"呜…疼疼疼…难道是扭到腰了么……",
+			"うっ……イタタタッ……腰を捻ってしまったかしら……。",
+			"으윽…… 아야야…… 허리를 삐었나 봐…….",
+			"Ugh...... ouch...... I think I twisted my back.......",
+			null,
+			"Oooh...pain pain pain...did I twist my back ......",
+			"Ugh...... ouch...... I think I twisted my back......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10184"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bgm",
+			46
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302533,
+			null,
+			"这里是…塔的里面么？",
+			"ここは……塔の中なのですか？",
+			"여기는…… 탑 안인가요?",
+			"Is this... Inside the tower?",
+			null,
+			"Is this...the inside of the tower?",
+			"Is this in the ...... tower?"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302534,
+			null,
+			"看来是被撞击的惯性甩进来了…虽然全身疼痛，不过看来我们至少成功活着进到塔里了。",
+			"どうやら、衝突時の慣性で外に投げ出されたようね……全身痛むけれど、生きて塔の中には入れたみたいよ。",
+			"충돌 시의 관성으로 밖으로 튕겨져 나온 모양이네…… 온몸이 쑤시지만, 살아서 탑 안에는 들어온 것 같아.",
+			"The inertia from the collision must have thrown us into the tower... My whole body aches, but it looks like we're all alive.",
+			null,
+			"It looks like we were thrown in by the inertia of the impact...I'm in pain all over, but it looks like we at least managed to get into the tower alive.",
+			"Apparently, the inertia of the collision threw him out of the tower. ...... His whole body aches, but it looks like he made it into the tower alive."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV24_RadioSignals"
+		],
+		[
+			"msg",
+			302535,
+			null,
+			"呲拉…布洛妮娅…磁啦……",
+			"ザァ──……ブローニャ……聞こえ……ザザッ——",
+			"자아──……브로냐…… 들려…… 자작——",
+			null,
+			null,
+			"Bare with me...Bronya...magneta ......",
+			"Zaah──...... Bronya...... hear...... zzzzzzzz--"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302536,
+			null,
+			"是伊瑟琳的通讯！喂！伊瑟琳！听得到么！我们进入塔的内部了！你们那边情况怎么样！",
+			"イザーリンからの通信です！#nこちらブローニャ！イザーリン！聞こえますか！ブローニャたちは塔の内部に入りました！そちらの状況はどうですか！",
+			"이자린의 통신입니다!#n여기 브로냐! 이자린! 들리나요! 브로냐들은 탑 내부로 들어왔습니다! 상황은 어떻게 되죠!",
+			"It's a transmission from Yiserin! This is Bronya! Yiserin! Do you read me? Bronya and her team are inside the tower! What's your status?",
+			null,
+			"It's Estherine's comm! Hello! Estherine! Can you hear me? We're inside the tower! What's the situation on your side!",
+			"Communication from Estherine! This is Bronya! Estherine! Do you read me? Bronya and her team have entered the tower! What is the situation there?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV12_RadioReceive"
+		],
+		[
+			"msg",
+			302537,
+			null,
+			"呲啦…稍微…呲啦…有点不妙……",
+			"……ちょっと……ジジッ……ちょっとマズいわ……。",
+			"……좀……지직…… 좀 망했어…….",
+			null,
+			null,
+			"Bared...slightly...bared...a little bad ......",
+			"...... a little ...... jiggly ...... a little mazy ......."
+		],
+		[
+			"msg",
+			302538,
+			null,
+			"战舰内部已…呲啦…全部瘫痪了…",
+			"戦艦の内部はもう……ザァ……全てダウンしてて……。",
+			"전함 내부는 이미…… 자아…… 모두 다운되어서…….",
+			null,
+			null,
+			"The interior of the battleship has...bared...all been paralyzed...",
+			"The inside of the battleship is already ...... zaa ...... all down and ......."
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV12_RadioReceive"
+		],
+		[
+			"msg",
+			302539,
+			null,
+			"估计…撑不了多久……呲啦……",
+			"恐らく……長くはもたない……ザザッ──",
+			"아마도…… 오래 버티지 못할 것 같아…… 사삭──",
+			"Probably won't ...... last long. ...... zzzzz...",
+			null,
+			"I guess...it won't last long ...... Bared ......",
+			"Probably won't ...... last long. ...... zzzzz..."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302540,
+			null,
+			"你等着！我们马上过来救援！",
+			"待っていてください！ブローニャたちがすぐに救助に向かいます！",
+			"기다리고 있어 주세요! 브로냐들이 바로 구하러 갈게요!",
+			"Wait for us! We'll come to rescue you soon!",
+			null,
+			"You wait! We'll be right over to rescue!",
+			"Please wait for us! Bronya and her team will come to your rescue soon!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302541,
+			null,
+			"别…别管我们…呲啦…赶快朝塔顶前进……",
+			"わ……私たちに構わないで……ザァ……急いで塔の頂上へ向かって……だい……！",
+			"와…… 우리는 신경 쓰지 말고…… 촤…… 서둘러 탑의 꼭대기로 가…… 대……!",
+			"Don't worry...... Us..... Hurry up and head to the top of the tower..........",
+			null,
+			"Don't...leave us alone...bare with us...hurry towards the top of the tower ......",
+			"Leave us ...... alone ...... za ...... hurry up and head to the top of the tower ...... ......!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV12_RadioReceive"
+		],
+		[
+			"msg",
+			302542,
+			null,
+			"趁着…呲啦…战舰堵住了缺口…",
+			"戦艦が……ジジッ……戦艦が穴を、塞いでいるうちに……。",
+			"전함이…… 지직…… 전함이 구멍을 막고 있는 동안에…….",
+			null,
+			null,
+			"Taking advantage...bared...the battleships blocked the gap...",
+			"The battleship is ...... jigging ...... the hole, while the battleship is ...... plugging the hole, while the battleship is ...... plugging the hole."
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV24_RadioSignals"
+		],
+		[
+			"msg",
+			302543,
+			null,
+			"呲啦…时间已经……呲啦……",
+			"ザァ……時間がもう……ザァァァァァァァ——",
+			"촤…… 시간이 이제…… 촤아아아아아——",
+			"Zaaa...... time already ...... zaaaaa--",
+			null,
+			"Bared...the time has ...... Bared ......",
+			"Zaaa...... time already ...... zaaaaa--"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302544,
+			null,
+			"伊瑟琳？喂！啧…通讯中断了！",
+			"イザーリン？どうしたのですか！#nそんな……通信が途切れてしまいました。",
+			"이자린? 무슨 일이에요!#n설마…… 통신이 끊겨 버렸어요.",
+			"Yiserin? Come in! Damn.... The communication was cut off.",
+			null,
+			"Estherine? Hello! Tch...the comms are down!",
+			"Estherine? What's wrong? Such ...... communication has been interrupted."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302545,
+			null,
+			"布洛妮娅，伊瑟琳说得对，我们得立刻赶往塔顶！如果停下脚步之前所做的努力都可能前功尽弃！",
+			"ブローニャ、イザーリンの言う通りよ。今すぐ塔の頂上に向かいましょう！足を止めていたら、これまでの努力が無駄になってしまうわ！",
+			"브로냐, 이자린이 말한 대로야. 지금 바로 탑의 정상으로 가자! 발을 멈추면 지금까지의 노력이 헛될 거야!",
+			"Bronya, Yiserin is right. We need to head to the top of the tower now! If we stop, all our efforts will have been for nothing!",
+			null,
+			"Bronya, Estherine is right, we need to get to the top of the tower now! If we stop all the efforts we've made before could be undone!",
+			"Bronya, Estherine is right. Let's head for the top of the tower now! If we stop, all our efforts will have been in vain!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302546,
+			null,
+			"可恶…难道又只能抛下她们了么！",
+			"クッ……まさか、また彼女たちを見捨てるしかないのですか！",
+			"쿡…… 설마 또 그들을 버려둬야만 하는 건가요!",
+			null,
+			null,
+			"Damn it...do we have to leave them behind again!",
+			"Kk...... no way, we have to abandon these girls again?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302547,
+			null,
+			"布洛妮娅，奇迹的背后总会付出代价，我们现在只有肩负起她们的意志继续前进才是对她们最好的回应！",
+			"ブローニャ、奇跡の影に代償はつきものだ。#n彼女たちの意志を引き継いで前に進むことが、彼女たちにとって最高の見返りだと思う！",
+			"브로냐、기적의 그림자엔 대가가 따르는 법이야.#n그들의 의지를 이어받아 앞으로 나아가는 게 그들에게 최고의 보답이 될 거라고 생각해!",
+			"Bronya, creating a miracle always has a price. The best way to pay it back is to carry on their will and move on!",
+			null,
+			"Bronya, there is always a price behind a miracle, and the only way we can respond to them now is to shoulder their will and move on!",
+			"Bronya, the shadow of a miracle comes at a price. I think the best payback for these women is to carry on their will and move forward!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				58,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302548,
+			null,
+			"九霄……",
+			"九霄……。",
+			"큐쇼…….",
+			"Kyuushou. .......",
+			null,
+			"Kyuushou......",
+			"Kyuushou......。"
+		],
+		[
+			"portraits",
+			[
+				58,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302549,
+			null,
+			"嗯，如你所说现在没有时间犹豫了……",
+			"はい、九霄の言う通りですね、今は迷っている時間はありません……。",
+			"네, 큐쇼 말씀대로네요, 지금은 망설일 시간이 없어요…….",
+			"Yeah, you're right. Now's not the time to hesitate.",
+			null,
+			"Well, as you say there's no time for hesitation now ......",
+			"Yes, Kyuushou is right, now is not the time to get lost. ......"
+		],
+		[
+			"msg",
+			303097,
+			null,
+			"伊瑟琳，请一定要撑住…我们走，律者一定在塔顶等着我们！",
+			"イザーリン、何としても持ち堪えてください……。#n行きましょう。律者はきっと塔の頂上で我々を待っているはずです！",
+			"이자린, 무슨 일이 있어도 견뎌내 주세요…….#n갑시다. 율자는 분명 탑의 꼭대기에서 우리를 기다리고 있을 거예요!",
+			"Yiserin, please try to hold on..... Let's go. The Herrscher must be waiting for us at the top of the tower.",
+			null,
+			"Estherine, please do hang in there...let's go, the Herrscher must be waiting for us at the top of the tower!",
+			"Estherine, please hold on at all costs. ...... Let's go. Herrscher is surely waiting for us at the top of the tower!"
+		]
+	]
+}

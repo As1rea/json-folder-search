@@ -1,0 +1,3628 @@
+{
+	"10160": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717689,
+			null,
+			"列车……",
+			"列車……。",
+			"열차…….",
+			null,
+			null,
+			"Trains ......",
+			"Trains. ......."
+		],
+		[
+			"msg",
+			717690,
+			null,
+			"有种完全不会停下来的感觉。",
+			"まったく停車しそうにない気がする。",
+			"전혀 멈출 기미가 보이지 않는다.",
+			null,
+			null,
+			"There's a sense that it won't stop at all.",
+			"I don't think it's going to stop at all."
+		]
+	],
+	"10161": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717691,
+			null,
+			"初始栖所。",
+			"始まりの住み家。",
+			"시작의 거처.",
+			null,
+			null,
+			"Initial perch.",
+			"The beginning habitat."
+		],
+		[
+			"msg",
+			717692,
+			null,
+			"消逝沙盒。",
+			"消えゆく箱庭。",
+			"사라져가는 작은 정원.",
+			null,
+			null,
+			"Fading Sandbox.",
+			"Disappearing box garden."
+		],
+		[
+			"msg",
+			717693,
+			null,
+			"断魂之夜。",
+			"魂を断たれる夜。",
+			"영혼이 끊어지는 밤.",
+			null,
+			null,
+			"The Night of the Broken Soul.",
+			"The night when the soul is cut off."
+		],
+		[
+			"msg",
+			717694,
+			null,
+			"心铉引擎。",
+			"心の弦の動力。",
+			"마음의 현의 동력.",
+			null,
+			null,
+			"Heart Hyun Engine.",
+			"The engine of the heart strings."
+		],
+		[
+			"msg",
+			717695,
+			null,
+			"████",
+			"████",
+			"████",
+			null,
+			null,
+			"████",
+			null
+		],
+		[
+			"msg",
+			717696,
+			null,
+			"最后一站的名字被马克笔全涂黑了，无法辨认。",
+			"最後の駅の名前はサインペンで黒く塗りつぶされていて読めない。",
+			"마지막 역의 이름은 사인펜으로 검게 칠해져 있어 읽을 수 없다.",
+			null,
+			null,
+			"The name of the last stop was all blacked out in marker and was unrecognizable.",
+			"The name of the last station is blacked out with a sign pen and is unreadable."
+		]
+	],
+	"10162": [
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717697,
+			null,
+			"那是……",
+			"あれは……。",
+			"저건…….",
+			"That's .......",
+			null,
+			"That's ......",
+			"That's ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717698,
+			null,
+			"我看错了吗？",
+			"見間違いかしら？",
+			"눈의 착각일까?",
+			null,
+			null,
+			"Am I mistaken?",
+			"Am I looking in the wrong place?"
+		],
+		[
+			"msg",
+			717699,
+			null,
+			"琪亚娜？！",
+			"キアナちゃん！？",
+			"키아나!?",
+			"Kiana!?",
+			null,
+			"Kiana?",
+			"Kiana!"
+		],
+		[
+			"msg",
+			717700,
+			null,
+			"可她不是被意志统括者……",
+			"でも、キアナちゃんは意志の統括者に……。",
+			"하지만, 키아나은 의지의 통괄자에…….",
+			null,
+			null,
+			"But she's not a will-o'-the-wisp ......",
+			"But Kiana, you can go to ...... to oversee the will."
+		],
+		[
+			"msg",
+			717701,
+			null,
+			"而且……幼女？",
+			"しかも……幼い女の子になってる？",
+			"게다가……어린 여자아이가 되어있어?",
+			null,
+			null,
+			"And ...... young girls?",
+			"And ...... is she becoming a little girl?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717702,
+			null,
+			"诶？诶？",
+			"えっ？ええっ？",
+			"엣? 에엣?",
+			"What? Huh?",
+			null,
+			"Eh? Eh?",
+			"What? Huh?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717703,
+			null,
+			"（左顾右盼）",
+			"（キョロキョロしている）",
+			"(두리번거리며)",
+			null,
+			null,
+			"(looking left and right)",
+			"(scurrying)"
+		],
+		[
+			"msg",
+			717704,
+			null,
+			"也没有……",
+			"やっぱりないなぁ……。",
+			"역시 없네……",
+			null,
+			null,
+			"Neither did ......",
+			"I knew I didn't have it. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717705,
+			null,
+			"必须靠近确认一下。",
+			"近づいて確認しないと。",
+			"가까이 가서 확인해야겠어.",
+			null,
+			null,
+			"Had to get closer to make sure.",
+			"We need to get closer and check."
+		]
+	],
+	"10163": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717706,
+			null,
+			"（焦急）（小跺脚）",
+			"（焦る）（じだんだを踏む）",
+			"(초조해함)(발을 동동 구르며)",
+			null,
+			null,
+			"(anxious) (little stomping)",
+			"(impatiently) (jittery)"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717707,
+			null,
+			"虽然变小了，但好像真的是琪亚娜……",
+			"幼くなっているけど、本当にキアナちゃんみたい……。",
+			"어려 보이지만, 정말 키아나 같아…….",
+			"She's gotten younger, but that definitely looks like Kiana......",
+			null,
+			"It's gotten smaller, but it seems like it's really Kiana ......",
+			"She's getting younger, but she really looks like Kiana. ......"
+		],
+		[
+			"choice",
+			[
+				717709,
+				null,
+				"靠近",
+				"近づく",
+				"다가감",
+				"Step closer"
+			]
+		]
+	],
+	"10164": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717710,
+			null,
+			"和小时候琪亚娜的照片长得如出一辙。",
+			"キアナちゃんの子どもの頃の写真とそっくり。",
+			"키아나 어릴 적 사진이랑 똑같아.",
+			"It looks exactly like the picture of Kiana when she was a child.",
+			null,
+			"It looks exactly like the picture of Kiana when she was a child.",
+			"It looks just like Kiana's childhood photo."
+		],
+		[
+			"msg",
+			717711,
+			null,
+			"不过……发型好像不同？",
+			"でも……髪型が違っているような？",
+			"그런데...... 머리 스타일이 다른 것 같은?",
+			"But ...... Her hair looks different?",
+			null,
+			"But ...... hairstyles seem different?",
+			"But ...... hair looks different?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717712,
+			null,
+			"？！",
+			"！？",
+			"!?",
+			null,
+			null,
+			"?",
+			null
+		],
+		[
+			"choice",
+			[
+				717714,
+				null,
+				"靠近",
+				"近づく",
+				"다가감",
+				null
+			]
+		]
+	],
+	"10165": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717715,
+			null,
+			"有琪亚娜常用的洗发水味道。",
+			"キアナちゃんがよく使っているシャンプーの香りがする。",
+			"키아나가 자주 쓰는 샴푸 향기가 난다.",
+			null,
+			null,
+			"It smelled like Kiana's usual shampoo.",
+			"It smells like the shampoo that Kiana often uses."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717716,
+			null,
+			"呣呣……",
+			"うーん……。",
+			"으음…….",
+			"umm ......",
+			null,
+			"umm ......",
+			"Hmmm ......."
+		],
+		[
+			"choice",
+			[
+				717718,
+				null,
+				"再靠近",
+				"さらに近づく",
+				"더 다가가기",
+				null
+			]
+		]
+	],
+	"10166": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717719,
+			null,
+			"烦死了，走开！",
+			"うっとうしいな、あっちいって！",
+			"짜증나, 저리 가!",
+			"That's annoying, go away!",
+			null,
+			"Bugger off, go away!",
+			"That's annoying, go away!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717720,
+			null,
+			"这个声音——",
+			"この声は——",
+			"이 목소리는 ——",
+			"This voice--",
+			null,
+			"This voice--",
+			"This voice--"
+		],
+		[
+			"bgm",
+			47
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717721,
+			null,
+			"是完整的琪亚娜啊啊！",
+			"絶対にキアナちゃんだ！",
+			"분명 키아나야!",
+			"It's really Kiana!",
+			null,
+			"It's the full Kiana ahhhh!",
+			"It's totally Kiana!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717722,
+			null,
+			"（芽衣喜极而泣，抱了上去）",
+			"（芽衣は大喜びで抱きついた）",
+			"(메이는 기쁨에 겨워 안겼다)",
+			"(Mei hugs her, overjoyed)",
+			null,
+			"(Meiko cries with joy and hugs)",
+			"(Mei hugged him overjoyed)"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717723,
+			null,
+			"（确认）手，手臂在！（抚摸）大腿也在！诶？（揉捏）脸，脸蛋软软？！",
+			"（確認する）て、手はある！（なでる）足もある！あら？（つねる）ほ、ほっぺたも柔らかい！？",
+			"(확인한다) 손, 손이 있어!(쓰다듬는다) 다리도 있어! 어라?(꼬집는다) 볼도 부드럽다!?",
+			null,
+			null,
+			"（Hands, arms! (Stroking) Thighs too! Eh? (kneading) Face, face soft?",
+			"(Checks) I have hands! (Nodding) I have feet, too! (Pinches) Oh? (Pinch) My cheeks are soft, too!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717724,
+			null,
+			"（推开）你恶心！！别碰我！我不认识你！",
+			"（押しのける）キモいよ！！触らないで！あんたなんて知らない！",
+			"(밀어내며) 징그러워!! 만지지 마! 너 같은 건 몰라!",
+			"(Pushing away) You're disgusting! Don't touch me! I don't know you!",
+			null,
+			"(PUSHING AWAY) You're disgusting! Don't touch me! I don't recognize you!",
+			"(Pushing away) You're disgusting! Don't touch me! I don't know you!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717725,
+			null,
+			"？！",
+			"！？",
+			"!?",
+			null,
+			null,
+			"?",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717726,
+			null,
+			"（“恶心”这个词炮决了芽衣的心灵）",
+			"（「キモい」という言葉が芽衣の心を打ち砕いた）",
+			"(\"「역겨워」\"라는 말에 메이의 마음이 산산조각이 났다)",
+			"(The word \"disgusting\" broke Mei's heart.)",
+			null,
+			"（\"Disgusting\" is the word that's been used to kill Meiko.)",
+			"(The word \"creepy\" broke Mei's heart.)"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717727,
+			null,
+			"为什么你知道我的名字？！",
+			"どうして私の名前を知ってるの！？",
+			"왜 내 이름을 알고 있는 거야!?",
+			"How do you know my name!?",
+			null,
+			"Why do you know my name?",
+			"How do you know my name!"
+		],
+		[
+			"msg",
+			717728,
+			null,
+			"难道……",
+			"まさか……。",
+			"설마.......",
+			"No way......",
+			null,
+			"Did ......",
+			"No way. ......."
+		],
+		[
+			"msg",
+			717729,
+			null,
+			"跟踪狂？！",
+			"ストーカー！？",
+			"스토커!?",
+			"Are you a stalker!?",
+			null,
+			"Stalker?",
+			"Stalker!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717730,
+			null,
+			"我才——",
+			"私は——",
+			"나는 ——",
+			null,
+			null,
+			"I just--",
+			"I--"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717731,
+			null,
+			"（逃跑）女变态啊！！",
+			"（走って逃げる）ヘンタイ！！",
+			"(뛰어서 도망치며) 변태!!",
+			"(Running away) Pervert!",
+			null,
+			"(Running away) Female pervert!",
+			"(Running away) Hentai!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717732,
+			null,
+			"听我解释啊！！",
+			"話を聞いて！！",
+			"이야기를 들어!!",
+			"Let me explain!",
+			null,
+			"Let me explain!",
+			"Listen to me!"
+		]
+	],
+	"10167": [
+		[
+			"bgm",
+			47
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717733,
+			null,
+			"变态！",
+			"ついて来ないで、ヘンタイ！",
+			"따라오지 마, 변태!",
+			"Pervert!",
+			null,
+			"Pervert!",
+			"Hentai!"
+		],
+		[
+			"msg",
+			717734,
+			null,
+			"你到底是谁！",
+			"一体誰なの！",
+			"대체 누구야!",
+			"Who the hell are you!?",
+			null,
+			"Who the hell are you!",
+			"Who in the world is this?"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717735,
+			null,
+			"终于控制不住了，过度的震惊令我跌坐了下来——",
+			"ついに我慢しきれなくなった。あまりのショックにその場に座り込んでしまった——",
+			"결국 참을 수 없게 되었다. 너무 큰 충격에 그 자리에 주저앉고 말았다 ——",
+			null,
+			null,
+			"Finally unable to control it, the overpowering shock caused me to drop into a sitting position--",
+			"Finally, I couldn't take it anymore. I was so shocked that I sat there--"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717736,
+			null,
+			"我……",
+			"私は……。",
+			"나는…….",
+			"I.......",
+			null,
+			"I ......",
+			"I am ......."
+		],
+		[
+			"msg",
+			717737,
+			null,
+			"我是芽衣啊……",
+			"芽衣よ……。",
+			"메이야…….",
+			"I'm Mei. .......",
+			null,
+			"I'm Meiko. ......",
+			"I'm Mei. ......."
+		],
+		[
+			"msg",
+			717738,
+			null,
+			"雷电……芽衣啊……",
+			"雷電……芽衣……。",
+			"라이덴……메이…….",
+			"Raiden ...... Mei .......",
+			null,
+			"Thunder and lightning ...... budgie ah ......",
+			"Raiden ...... Mei ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717739,
+			null,
+			"不认识！",
+			"知らない！",
+			"몰라!",
+			"Never heard of you!",
+			null,
+			"Not recognizable!",
+			"I don't know!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717740,
+			null,
+			"这算什么？",
+			"どういうこと？",
+			"무슨 소리야?",
+			"What do you mean?",
+			null,
+			"What is this?",
+			"What do you mean?"
+		],
+		[
+			"msg",
+			717741,
+			null,
+			"我们付出了生命的代价，为了给绝望的世界带来希望……",
+			"私たちは絶望的な世界に希望をもたらすために、命をかけて……。",
+			"우리는 절망적인 세상에 희망을 가져다주기 위해, 목숨을 걸고…….",
+			null,
+			null,
+			"We gave our lives to bring hope to a desperate world ......",
+			"We risk our lives to bring hope to a desperate world. ......"
+		],
+		[
+			"msg",
+			717742,
+			null,
+			"我拼尽一切地想要救你……",
+			"全力であなたを救おうとしたのに……。",
+			"전력으로 너를 구하려고 했는데…….",
+			"I tried my best to save you. ......",
+			null,
+			"I tried with all my might to save you ......",
+			"I tried my best to save you. ......"
+		],
+		[
+			"msg",
+			717743,
+			null,
+			"结果，你却……变小了？",
+			"それなのに、あなたは……小さくなってしまったの？",
+			"그런데 너는…… 작아져 버린 거야?",
+			"And yet you've... Gotten smaller?",
+			null,
+			"As a result, you have ...... gotten smaller?",
+			"And yet you've gone ...... small?"
+		],
+		[
+			"msg",
+			717744,
+			null,
+			"还不记得我了？",
+			"私のことを覚えていないの？",
+			"나를 기억하지 못하는 거야?",
+			"Don't you remember me?",
+			null,
+			"Still don't remember me?",
+			"Don't you remember me?"
+		],
+		[
+			"msg",
+			717745,
+			null,
+			"但是，但是……",
+			"でも、でも……。",
+			"하지만, 하지만…….",
+			"But, but .......",
+			null,
+			"But, but ......",
+			"But, but ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717746,
+			null,
+			"抱歉……",
+			"ごめんなさい……。",
+			"미안해…….",
+			"Sorry, .......",
+			null,
+			"Sorry ......",
+			"Sorry, ......."
+		],
+		[
+			"msg",
+			717747,
+			null,
+			"我真的，真的……看到你，我……真的……呜……",
+			"私、本当に……あなたに会えた。私……本当に……うぅ……。",
+			"나, 정말로……너를 만났어. 나……정말로……우우…….",
+			null,
+			null,
+			"I really, really ...... see you and I ...... really ...... woo ......",
+			"I really ...... met you. I ...... really ...... ugh ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717748,
+			null,
+			"嗯？",
+			"えっ？",
+			"엣?",
+			null,
+			null,
+			"Hmm?",
+			"What?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717749,
+			null,
+			"终于还是嚎啕大哭起来。",
+			"ついに大声で泣き始めてしまった。",
+			"드디어 큰 소리로 울기 시작해 버렸다.",
+			null,
+			null,
+			"Finally, it was still bawling.",
+			"Finally, she began to cry loudly."
+		],
+		[
+			"msg",
+			717750,
+			null,
+			"近在眼前的事实，却又如此不真实。",
+			"目の前の事実に近づいたが、とても非現実的だった。",
+			"눈앞의 사실에 다가갔지만, 너무 비현실적이었다.",
+			null,
+			null,
+			"The fact that it's so close to home is so unreal.",
+			"I approached the facts in front of me, but they were so unreal."
+		],
+		[
+			"msg",
+			717751,
+			null,
+			"作为梦，也过于美好了吧……",
+			"夢にしては、あまりにも素晴らしすぎる……。",
+			"꿈으로 하기에는, 너무나도 멋진…….",
+			null,
+			null,
+			"It's too good to be true as a dream ......",
+			"It is too good to be a dream. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717752,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			717753,
+			null,
+			"（小心翼翼）",
+			"（恐る恐る）",
+			"(두려운 듯이)",
+			null,
+			null,
+			"(Cautiously)",
+			"(FEARFULLY)"
+		],
+		[
+			"msg",
+			717754,
+			null,
+			"摸摸……",
+			"ナデナデ……。",
+			"쓰다듬어 주기…….",
+			null,
+			null,
+			"Touch ......",
+			"Nadene. ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717755,
+			null,
+			"（小琪亚娜眼中的芽衣，像一只可怜的小狗）",
+			"（キアナの目に映る芽衣はかわいそうな子犬のようだった）",
+			"(키아나의 눈에 비친 메이는 불쌍한 강아지 같았다)",
+			"(In Kiana's eyes, Mei looked like a poor puppy.)",
+			null,
+			"(Meiko in little Kiana's eyes, like a poor puppy)",
+			"(In Kiana's eyes, Mei looked like a poor puppy.)"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			717756,
+			null,
+			"不哭，不怕。",
+			"泣かないで。怖くないよ。",
+			"울지 마. 무섭지 않아.",
+			"Don't cry. I'm not afraid.",
+			null,
+			"Don't cry, don't be afraid.",
+			"Don't cry. I'm not afraid."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			717757,
+			null,
+			"呜——",
+			"うぅ——",
+			"우——",
+			null,
+			null,
+			"Woo--",
+			"Ugh--"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			717758,
+			null,
+			"（芽衣哭得更加撕心裂肺了）",
+			"（芽衣はさらに激しく泣いた）",
+			"(메이는 더욱 심하게 울었다)",
+			"(Mei cried even harder)",
+			null,
+			"(Meiko cried even more heartbreakingly)",
+			"(Mei cried even harder)"
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			717760,
+			null,
+			"吸，吸……",
+			"うぅ、うぅ……。",
+			"우, 우우......",
+			"Uuuuh, uuuuuh.......",
+			null,
+			"Suck, suck ......",
+			"Ugh, ugh. ......."
+		],
+		[
+			"msg",
+			717761,
+			null,
+			"你真的……不知道我是谁吗？",
+			"本当に……私が誰なのか分からないの？",
+			"정말로...... 내가 누군지 모르는 거야?",
+			"Do you really... Not know who I am?",
+			null,
+			"Do you really ...... not know who I am?",
+			"Are you sure you don't know who ...... I am?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717762,
+			null,
+			"（点头）",
+			"（うなずく）",
+			"(끄덕임)",
+			"(Nodding)",
+			null,
+			"(Nods)",
+			"(Nodding)"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717763,
+			null,
+			"小琪亚娜和我坐在同一个座位上——最左边和最右边的地方。",
+			"キアナちゃんは私と同じ列の座席に座っている——最も左側の席と最も右側の席。",
+			"키아나은 나와 같은 열의 좌석에 앉아있는—— 가장 왼쪽 자리와 가장 오른쪽 자리.",
+			null,
+			null,
+			"Little Kiana and I were sitting in the same seat - far left and far right.",
+			"Kiana is sitting in the same row of seats as me - the leftmost seat and the rightmost seat."
+		],
+		[
+			"msg",
+			717764,
+			null,
+			"虽然安慰了我，她心里还是提防着我这个“陌生人”吗……",
+			"私のことを慰めてくれたけど、彼女の心の中では、まだ私という「見知らぬ人」を警戒しているのかしら……。",
+			"나를 위로해주었지만, 그녀의 마음 속에서는 아직 나라는「 낯선 사람」을 경계하고 있는 걸까......",
+			null,
+			null,
+			"Even though she consoled me, was she still wary of me as a \"stranger\"? ......",
+			"She comforted me, but I wonder if in her mind she is still wary of the \"stranger\" that is me. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717765,
+			null,
+			"你是一个人来坐列车的吗？",
+			"あなた、1人で列車に乗っているの？",
+			"너, 혼자 기차 타고 있는 거야?",
+			"Are you on the train by yourself?",
+			null,
+			"Did you come alone on the train?",
+			"Are you on the train by yourself?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717766,
+			null,
+			"（点头）",
+			"（うなずく）",
+			"(끄덕임)",
+			"(Nodding)",
+			null,
+			"(Nods)",
+			"(Nodding)"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717767,
+			null,
+			"会不会太危险了？",
+			"危なくない？",
+			"위험하지 않아?",
+			"Isn't it dangerous?",
+			null,
+			"Would it be too dangerous?",
+			"Isn't it dangerous?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717768,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717769,
+			null,
+			"你要去哪？",
+			"どこに行くの？？",
+			"어디 가는 거야??",
+			"Where are you going?",
+			null,
+			"Where are you going?",
+			"Where are you going?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717770,
+			null,
+			"找东西。",
+			"探し物。",
+			"찾는 거.",
+			"I'm looking for something.",
+			null,
+			"Looking for something.",
+			"What we are looking for."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717771,
+			null,
+			"找什么东西呢？",
+			"何を探しているの？",
+			"뭘 찾고 있는데?",
+			"What are you looking for?",
+			null,
+			"Looking for something?",
+			"What are you looking for?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717772,
+			null,
+			"龙龙。",
+			"レオンだよ。",
+			"레온이야.",
+			null,
+			null,
+			"Dragon Dragon.",
+			"Leon."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717773,
+			null,
+			"（靠近）龙龙？",
+			"（近づいて）レオン？",
+			"(다가와) 레온?",
+			null,
+			null,
+			"(APPROACHING) Dragon?",
+			"(Approaching) Leon?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717774,
+			null,
+			"（远离）我不能说更多了，陌生人！",
+			"（離れて）これ以上は言えないよ、知らない人だもん！",
+			"(물러나) 더 이상은 말할 수 없어, 모르는 사람이잖아!",
+			null,
+			null,
+			"(STAYING AWAY) I can't say more than that, stranger!",
+			"(Steps away) I can't tell you any more, I don't know you!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717775,
+			null,
+			"仔细一看，她的头上没有戴那个绿色的变色龙发夹。",
+			"よく見てみると、彼女の頭にはあの緑色のカメレオンのヘアピンがなかった。",
+			"자세히 보니, 그녀의 머리에는 그 녹색 카멜레온 헤어핀이 없었다.",
+			"Upon closer inspection, she did not have that green chameleon hairpin on her head.",
+			null,
+			"Upon closer inspection, she wasn't wearing that green chameleon hair clip on her head.",
+			"Upon closer inspection, she did not have that green chameleon hairpin on her head."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			717776,
+			null,
+			"（小声）珍贵的东西……",
+			"（小声で）大切なものなの……。",
+			"(작은 소리로) 소중한 거야…….",
+			null,
+			null,
+			"(Whispering) Precious Things ......",
+			"(whispering) It's important. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			717777,
+			null,
+			"只是这么一说，眼泪就在小琪亚娜眼睛里打转了。",
+			"そう呟いたキアナちゃんの目に涙が浮かんだ。",
+			"그렇게 중얼거린 키아나의 눈에 눈물이 맺혔다.",
+			null,
+			null,
+			"Just saying that made tears well up in little Kiana's eyes.",
+			"Just saying that brought tears to Kiana's eyes."
+		],
+		[
+			"msg",
+			717778,
+			null,
+			"但她用肉肉的小手用力擦拭，还别过脸去，不让我看到。",
+			"しかし、彼女はやわらかい小さな手に力を入れて目をこすり、顔を背けて私に見せないようにした。",
+			"하지만 그녀는 부드러운 작은 손에 힘을 주어 눈을 비비고, 얼굴을 돌려 내가 보지 못하도록 했다.",
+			null,
+			null,
+			"But she wiped it off hard with her little fleshy hands and turned her face away from me.",
+			"But she rubbed her eyes with great effort with her fleshy little hands and turned her face away from me so I wouldn't see them."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				30535,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			717779,
+			null,
+			"哎呀~",
+			"もう～",
+			"이젠~",
+			null,
+			null,
+			"Oops.",
+			"Oh, my God."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10344"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717781,
+			null,
+			"和那个时候，也没什么区别呢——",
+			"あの時とまったく変わらない——",
+			"그때와 전혀 다를 바 없는 ——",
+			null,
+			null,
+			"It's not much different from that time--",
+			"It's exactly the same as it was then--"
+		],
+		[
+			"msg",
+			717782,
+			null,
+			"你不是脆弱的人，",
+			"あなたは弱い人じゃない。",
+			"넌 약한 사람이 아니야.",
+			null,
+			null,
+			"You're not fragile.",
+			"You are not weak."
+		],
+		[
+			"msg",
+			717783,
+			null,
+			"但有脆弱的一面。",
+			"でも、弱い一面がある。",
+			"하지만 약한 면도 있어.",
+			null,
+			null,
+			"But there is vulnerability.",
+			"But there is a weak side."
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bg",
+			"black"
+		],
+		[
+			"msg",
+			717785,
+			null,
+			"说起来……",
+			"そう言えば……。",
+			"그러고 보니…….",
+			null,
+			null,
+			"Speaking of which ......",
+			"Speaking of which, please visit ......."
+		],
+		[
+			"msg",
+			717786,
+			null,
+			"当时在这个世界，“变色龙”是我们和琪亚娜之间的联系，",
+			"あの時、この世界で「カメレオン」は私とキアナちゃんの絆であり——",
+			"그때, 이 세상에서 「카멜레온」은 나와 키아나의 유대였고——",
+			null,
+			null,
+			"In this world, the Chameleon was the link between us and Kiana.",
+			"At that time, in this world, \"Chameleon\" was my bond with Kiana,"
+		],
+		[
+			"msg",
+			717787,
+			null,
+			"也是我找回原本记忆的契机。",
+			"私が元の記憶を取り戻すきっかけでもあった。",
+			"내가 원래 기억을 되찾는 계기이기도 했다.",
+			null,
+			null,
+			"It was also an opportunity for me to retrieve my original memories.",
+			"It was also the beginning of my regaining my original memory."
+		],
+		[
+			"msg",
+			717788,
+			null,
+			"说不定，找到变色龙发夹的话……琪亚娜的记忆就能恢复……",
+			"もしかしたら、カメレオンのヘアピンを見つければ……キアナちゃんの記憶を取り戻せるかもしれない……。",
+			"혹시라도, 카멜레온 헤어핀을 찾으면…… 키아나의 기억을 되찾을 수 있을지도 모른다…….",
+			null,
+			null,
+			"Maybe if we find the chameleon hairpin ...... Kiana's memories will come back ......",
+			"Maybe if we find the chameleon hairpin, we can get ...... Kiana's memory back. ......"
+		],
+		[
+			"msg",
+			717789,
+			null,
+			"然后就能知道琪亚娜在这个世界发生了什么，为什么会变小……",
+			"そして、この世界でキアナちゃんに何が起こったのか、どうして小さくなってしまったのかを知ることができるはず……。",
+			"그리고, 이 세계에서 키아나에게 무슨 일이 일어났는지, 왜 작아져 버렸는지를 알 수 있을 거야…….",
+			null,
+			null,
+			"Then you can find out what happened to Kiana in this world and why she got smaller ......",
+			"And you can find out what happened to Kiana in this world and why she has become small. ......"
+		],
+		[
+			"msg",
+			717790,
+			null,
+			"（摇头）别，芽衣，你想得太乐观了。",
+			"（首を横に振る）いいえ、それは考えが甘すぎる。",
+			"(고개를 저으며) 아니, 그건 생각이 너무 얕아.",
+			null,
+			null,
+			"(shakes head) Don't, Meiko, you're thinking too optimistically.",
+			"(Shakes head) No, that's too much to think about."
+		],
+		[
+			"msg",
+			717791,
+			null,
+			"这个世界有没有摆脱崩坏意志还是未知数，至少不能让小琪亚娜陷入危险。",
+			"この世界に崩壊の意志から抜け出せるものがあるかは未知数……少なくとも、キアナちゃんを危険にさらすわけにはいかない。",
+			"이 세계에 붕괴의 의지에서 벗어날 수 있는 게 있을지는 미지수…… 적어도 키아나를 위험에 빠뜨릴 순 없어.",
+			null,
+			null,
+			"It was still unknown if this world had gotten rid of the Will of Collapse, so at least we couldn't put little Kiana in danger.",
+			"It is unknown if there is anything in this world that can break free from the will to collapse. ...... At the very least, we cannot put Kiana in danger."
+		],
+		[
+			"msg",
+			717792,
+			null,
+			"现在的她，风吹一下就会飘走似的。",
+			"今の彼女は風に吹かれたら飛んでいってしまいそう。",
+			"지금의 그녀는 바람만 불면 날아갈 것 같아.",
+			null,
+			null,
+			"Now she's as if she'll float away when the wind blows.",
+			"Now she seems to fly away when the wind blows."
+		],
+		[
+			"msg",
+			717793,
+			null,
+			"我得陪着她。",
+			"私がついていてあげないと。",
+			"내가 같이 있어줘야 해.",
+			"I have to stay with her.",
+			null,
+			"I have to stay with her.",
+			"I have to stay with them."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717794,
+			null,
+			"让姐姐我陪你找吧？",
+			"お姉ちゃんが一緒に探してあげようか？",
+			"언니가 같이 찾아줄까?",
+			"Why don't you let me look for you?",
+			null,
+			"Why don't you let me look for you?",
+			"Would your sister like me to look for her with you?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717795,
+			null,
+			"你很闲？",
+			"暇なの？",
+			"한가해?",
+			"You're not busy?",
+			null,
+			"You're idle?",
+			"Are you free?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717796,
+			null,
+			"嗯。",
+			"ええ。",
+			"응.",
+			"Nope.",
+			null,
+			"Uh-huh.",
+			"Yes."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717797,
+			null,
+			"该溜子？",
+			"ニートなの？",
+			"니트야?",
+			"Are you a NEET?",
+			null,
+			"The slipper?",
+			"Are you a NEET?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717798,
+			null,
+			"（青筋暴起）嗯？",
+			"（青筋を浮かべて）はぁ？",
+			"(핏대를 세우며) 하아?",
+			"W-What?",
+			null,
+			"(GRUNTS) Hmm?",
+			"(With a blue streak) Huh?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717799,
+			null,
+			"冷静，芽衣，冷静！",
+			"落ち着いて、冷静に！",
+			"진정하고, 침착하게!",
+			"(Stay calm, Mei!)",
+			null,
+			"Calm down, Meiko, calm down!",
+			"Stay calm and cool!"
+		],
+		[
+			"msg",
+			717800,
+			null,
+			"她失去了记忆，加上我给她的第一印象也不好……",
+			"彼女は記憶を失っている。それに私に対する第一印象もよくなかった……。",
+			"그녀는 기억을 잃었어. 게다가 나에 대한 첫인상도 별로였고…….",
+			null,
+			null,
+			"She lost her memory, plus I made a bad first impression ......",
+			"She has lost her memory. And her first impression of me was not good. ......"
+		],
+		[
+			"msg",
+			717801,
+			null,
+			"她不是隔壁家的熊孩子，不是！#n她是琪亚娜！是我最喜欢的人！",
+			"彼女は隣の家のじゃじゃ馬娘なんかじゃない！#n彼女はキアナなの！私の一番好きな人なのよ！",
+			"그녀는 옆집 말괄량이 같은 게 아니야!#n그녀는 키아나야! 내가 가장 좋아하는 사람이라고!",
+			null,
+			null,
+			"She's not the bear next door, no! She's Kiana! It's my favorite person!",
+			"She's not the next-door neighbor's brat! She's Kiana! She's my favorite person!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717802,
+			null,
+			"咳咳。",
+			"コ、コホン。",
+			"에, 에헴.",
+			null,
+			null,
+			"Ahem.",
+			"Oh, hon."
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717803,
+			null,
+			"仔细看，你觉得姐姐我真是坏人吗？",
+			"よく見て。本当にお姉ちゃんが悪い人に見える？",
+			"잘 봐. 정말로 언니가 나쁜 사람처럼 보여?",
+			"Take a good look. Do I really look like a bad person to you?",
+			null,
+			"Look closely. Do you think my sister is really a bad person?",
+			"Take a good look. Does your sister really look like a bad person?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717804,
+			null,
+			"（左看）（右看）",
+			"（左を見る）（右を見る）",
+			"(왼쪽을 본다)(오른쪽을 본다)",
+			null,
+			null,
+			"(looking left) (looking right)",
+			"(Look left) (Look right)"
+		],
+		[
+			"msg",
+			717805,
+			null,
+			"（踮脚）（凑近）",
+			"（つま先立ちになる）（顔を近づける）",
+			"(발끝으로 선다)(얼굴을 가까이 한다)",
+			null,
+			null,
+			"(tiptoeing) (approaching)",
+			"(stand on tiptoe) (bring face close)"
+		],
+		[
+			"msg",
+			717806,
+			null,
+			"是我们学校的校服……",
+			"うちの学校の制服……。",
+			"우리 학교 교복…….",
+			"It's our school uniform....",
+			null,
+			"It's our school uniform ......",
+			"Our school uniforms. ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717807,
+			null,
+			"你说的学校，是千羽学园吗？",
+			"あなたの言っている学校って、千羽学園のこと？",
+			"네가 말하는 학교라는 게 센바 학원 말이야?",
+			null,
+			null,
+			"The school you're talking about, is it Chifuyu Gakuen?",
+			"The school you are talking about is Senba Academy?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717808,
+			null,
+			"你怎么知道？！",
+			"どうして知っているの！？",
+			"어떻게 알고 있는 거야!?",
+			"How did you know!?",
+			null,
+			"How do you know?",
+			"How did you know!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717809,
+			null,
+			"我不正穿着那所学园的校服吗……",
+			"今まさにその学校の制服を着ているでしょ……。",
+			"지금 바로 그 학교 교복을 입고 있잖아…….",
+			null,
+			null,
+			"Am I not wearing the uniform of that school ......",
+			"You are wearing that very school uniform right now. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			717810,
+			null,
+			"哦哦！",
+			"あっ！",
+			"앗!",
+			null,
+			null,
+			"Ooh-ooh!",
+			"Ah!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			717811,
+			null,
+			"小琪亚娜，笨笨的……",
+			"キアナちゃん、おバカなんだから……。",
+			"키아나, 바보라니까…….",
+			"Kiana, you are so silly. ......",
+			null,
+			"Little Kiana, Dumb and Dumber ......",
+			"Kiana, you are so silly. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717812,
+			null,
+			"不对，我在学校没见过你，可能是偷来的校服……",
+			"違うよ。学校で会ったことないもん。盗んできた制服かもしれない……。",
+			"아니야. 학교에서 만난 적 없어. 훔쳐온 교복일지도 몰라…….",
+			null,
+			null,
+			"No, I haven't seen you at school, probably a stolen uniform ......",
+			"No, it's not. I've never seen you at school. Maybe it's the uniform I stole. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717813,
+			null,
+			"（微笑）（真诚）",
+			"（優しくほほ笑む）",
+			"(상냥하게 미소를 지으며)",
+			null,
+			null,
+			"(Smiling) (Sincerely)",
+			"(smiles) (looks sincere)"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			717814,
+			null,
+			"算啦，你长得好看，所以不是坏人吧。",
+			"分かった。お姉さんキレイだから悪い人じゃなさそう。",
+			"알았어. 언니 예쁘니까 나쁜 사람은 아닌 것 같아.",
+			null,
+			null,
+			"Forget it. You're good-looking, so you're not a bad guy.",
+			"I get it. He's cute, so he's not a bad guy."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				30535,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			717815,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			717816,
+			null,
+			"小琪亚娜，前途堪忧……",
+			"キアナちゃん、先が思いやられるわね……。",
+			"키아나, 앞날이 걱정스러워…….",
+			"Kiana, you have a long way to go. ......",
+			null,
+			"Little Kiana, the future is in doubt ......",
+			"Kiana, you have a long way to go. ......"
+		],
+		[
+			"msg",
+			717817,
+			null,
+			"她用短短的手指指着站台表——",
+			"彼女は短い指で路線図を示した——",
+			"그녀는 짧은 손가락으로 노선도를 가리켰다——",
+			null,
+			null,
+			"She pointed a short finger at the station table--",
+			"She indicated the route map with a short finger--"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			717818,
+			null,
+			"我们去学校找找看！",
+			"学校に探しに行きたい！",
+			"학교에 찾으러 가고 싶어!",
+			null,
+			null,
+			"Let's go to the school and find out!",
+			"Let's go to the school and look for them!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				30535,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			717819,
+			null,
+			"你真的有头绪吧？",
+			"何か手がかりがあるの？",
+			"뭐 단서라도 있어?",
+			null,
+			null,
+			"You really have a clue, don't you?",
+			"Do you really have a clue?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717820,
+			null,
+			"tou xu？",
+			"てがかり？",
+			"단서?",
+			"A clue?",
+			null,
+			"tou xu?",
+			"A handhold?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717821,
+			null,
+			"就是……可能龙龙掉在你去过的地方。",
+			"ええっと……レオンはあなたが行った場所に落としている可能性が高いでしょう？",
+			"어음…… 레온은 네가 간 곳에 떨어뜨렸을 가능성이 높지 않아?",
+			null,
+			null,
+			"It's ...... possible that Dragons fall where you've been.",
+			"In other words, ...... Leon will most likely have dropped it where you went."
+		],
+		[
+			"msg",
+			717822,
+			null,
+			"所以我们应该到上一站——",
+			"だから、まずはひとつ前の駅に行ってみるべきよ——",
+			"그러니까, 일단은 한 정거장 전으로 가보는 게 좋겠어——",
+			null,
+			null,
+			"So we should go to the last stop--",
+			"That's why you should go to the station in front of--"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717823,
+			null,
+			"到处找就对了！",
+			"あちこち探し回ればいいよ！",
+			"여기저기 뒤지면 되겠지!",
+			null,
+			null,
+			"Just look around!",
+			"You can look all over for it!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717824,
+			null,
+			"完全没有目标不是吗！",
+			"見当すらついてないのね……。",
+			"감도 안 오네…….",
+			null,
+			null,
+			"Totally aimless isn't it!",
+			"You don't even have a clue!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			717825,
+			null,
+			"Fighting！",
+			"ファイトー！オー！",
+			"파이토! 오!",
+			null,
+			null,
+			"Fighting!",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			717826,
+			null,
+			"不不，不是像运动会时一样给自己加油就能找到的呀，不要搞得跟真的一样！",
+			"ダメダメ。運動会の時みたいに自分を奮い立たせれば見つけられるってわけじゃないから。それっぽくやってもダメよ。",
+			"안 돼 안 돼. 운동회 때처럼 스스로를 북돋우면 찾을 수 있을 거란 생각은 접어. 그럴싸하게 해� 소용없어.",
+			null,
+			null,
+			"No, no, it's not something you can find by cheering yourself up like you do at the games yah, don't make it sound like it's real!",
+			"No, no, no. It's not like you can find it if you push yourself like you did at the field day. Don't make it sound real!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			717827,
+			null,
+			"那就拜托你陪我找龙龙咯~",
+			"じゃあ私と一緒にレオンを探して～",
+			"그럼 나랑 같이 레온 찾자~",
+			null,
+			null,
+			"Then please find Dragon with me.",
+			"Then come with me and find Leon."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717828,
+			null,
+			"（鞠躬）",
+			"（頭を下げる）",
+			"(고개를 숙인다)",
+			null,
+			null,
+			"(Bowing)",
+			"(bowing)"
+		],
+		[
+			"msg",
+			717829,
+			null,
+			"那个——",
+			"えっと——",
+			"어——",
+			null,
+			null,
+			"That--",
+			"Uh..."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717830,
+			null,
+			"我叫芽衣。",
+			"私は芽衣よ。",
+			"나는 메이야.",
+			null,
+			null,
+			"My name is Meiko.",
+			"I'm Mei."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			717831,
+			null,
+			"芽衣！",
+			"芽衣！",
+			"메이!",
+			null,
+			null,
+			"Budweiser!",
+			null
+		],
+		[
+			"msg",
+			717832,
+			null,
+			"准备下车啦！",
+			"降りよう！",
+			"내리자!",
+			null,
+			null,
+			"Get ready to get off!",
+			"Let's go down!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			717833,
+			null,
+			"真是让人担心的孩子。",
+			"本当に心配にさせる子ね。",
+			"정말 걱정하게 만드는 아이네.",
+			null,
+			null,
+			"What a worrying child.",
+			"You're really making me worry."
+		]
+	],
+	"10168": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			717834,
+			null,
+			"（探头）龙龙在这里吗？在这里吗？",
+			"（見渡しながら）レオンはどこにいるの？ここ？",
+			"(둘러보며) 레온은 어디에 있니? 여기?",
+			null,
+			null,
+			"(Probe) Is Dragon here? Is he here?",
+			"(Looking around) Is Leon here? Is he here?"
+		],
+		[
+			"msg",
+			717835,
+			null,
+			"唔……看不懂的字好多。",
+			"うーん……読めない……。",
+			"음... 읽을 수 없어...",
+			null,
+			null,
+			"Well ...... can't read a lot of words.",
+			"Hmmm ...... there are too many letters I can't read."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717836,
+			null,
+			"杂货摊？",
+			"雑貨屋さん？",
+			"잡화점?",
+			null,
+			null,
+			"A grocery stand?",
+			"General store?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717837,
+			null,
+			"报纸和书籍占了大头，还都是手写的……",
+			"新聞紙や書籍がスペースの大半を占めており、手書きのものもある。",
+			"신문지와 서적이 공간의 대부분을 차지하고 있으며, 손으로 쓴 것들도 있다.",
+			null,
+			null,
+			"Newspapers and books make up the bulk of it, and it's all handwritten ......",
+			"Newspapers and books occupy most of the space, some handwritten. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			717838,
+			null,
+			"字歪七扭八。",
+			"汚い字で書かれている。",
+			"지저분한 글씨로 쓰여져 있어.",
+			null,
+			null,
+			"The words are crooked.",
+			"It is written in dirty handwriting."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717839,
+			null,
+			"快走啦，芽衣。",
+			"早く行こう、芽衣！",
+			"빨리 가자, 메이!",
+			null,
+			null,
+			"Come on, Meiko.",
+			"Let's go quickly, Mei."
+		],
+		[
+			"msg",
+			717840,
+			null,
+			"走丢了我可不管哦？",
+			"はぐれても知らないよ～",
+			"헤어져도 모른다~",
+			null,
+			null,
+			"I don't care if you get lost.",
+			"I don't know if we get separated."
+		],
+		[
+			"choice",
+			[
+				717842,
+				null,
+				"稍微看看报纸的内容？",
+				"新聞の内容を少し読んでみる。",
+				"신문 내용을 조금 읽어본다.",
+				null
+			],
+			[
+				717854,
+				null,
+				"【还是陪琪亚娜比较重要！】",
+				"【やっぱりキアナちゃんと一緒にいることの方が大切！】",
+				"【역시 키아나과 함께 있는 게 더 중요해!】",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			10169,
+			10170
+		]
+	],
+	"10169": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717843,
+			null,
+			"——报纸0.5元一份。",
+			"——1部50円。",
+			"——1부 50원.",
+			null,
+			null,
+			"--Newspapers are $0.50 a copy.",
+			"--50 yen per copy of newsprint."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			717844,
+			null,
+			"《崩坏意志的补充真相》",
+			"『崩壊の意志の真相補足』",
+			"『붕괴의 의지의 진상 보충』",
+			null,
+			null,
+			"The Supplementary Truths of Collapsing Will",
+			"The True Supplement to The Will to Collapse.\""
+		],
+		[
+			"msg",
+			717845,
+			null,
+			"《圣痕计划执行前的“崩坏抗战”》",
+			"『聖痕計画実行前の「対崩壊戦」』",
+			"『성흔 계획 실행 전의「 대붕괴전」』",
+			null,
+			null,
+			"\"Crash Resistance\" before the implementation of the Stigmata program.",
+			"The \"War Against Collapse\" before the Stigmata Plan was implemented.\""
+		],
+		[
+			"msg",
+			717846,
+			null,
+			"《圣痕计划的超越性和愚蠢性》",
+			"『聖痕計画の超越性と愚行性』",
+			"『성흔 계획의 초월성과 우행성』",
+			null,
+			null,
+			"The Transcendence and Folly of the Stigmata Program.",
+			"The Transcendence and Folly of the Stigmata Project.\""
+		],
+		[
+			"msg",
+			717847,
+			null,
+			"《圣痕相关其一：流亡者的来龙去脉》",
+			"『聖痕関連その1：亡命者の経緯』",
+			"『성흔 관련 그1: 망명자의 경위』",
+			null,
+			null,
+			"Stigmata Related I: The Ins and Outs of Exile",
+			"Stigmata, Part 1: The History of the Asylum Seekers."
+		],
+		[
+			"msg",
+			717848,
+			null,
+			"《圣痕相关其二：灵魂的奇迹如何构建世界》",
+			"『聖痕関連その2：魂の奇跡はどうやって世界を築くか』",
+			"『성흔 관련 그2: 영혼의 기적은 어떻게 세계를 세우는가』",
+			null,
+			null,
+			"Stigmata II: How the Miracle of Souls Builds the World.",
+			"Stigmata Relation #2: How the Miracle of the Soul Builds Worlds.\""
+		],
+		[
+			"msg",
+			717849,
+			null,
+			"《一定能够战胜崩坏意志的方法》",
+			"『崩壊の意志に必ず勝てる方法』",
+			"『붕괴의 의지에 반드시 이길 수 있는 방법』",
+			null,
+			null,
+			"\"The Way to Defeat the Will to Disintegrate.",
+			"How to Always Win the Will to Collapse.\""
+		],
+		[
+			"msg",
+			717850,
+			null,
+			"等等……",
+			"待って……。",
+			"잠깐만.......",
+			null,
+			null,
+			"Wait ......",
+			"Wait. ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717851,
+			null,
+			"…………",
+			"…………",
+			"........",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			717852,
+			null,
+			"虽然不知道具体写了什么，总之现在……",
+			"詳しい中身は分からないが、とにかく今は……。",
+			"자세한 내용은 모르겠지만, 어쨌든 지금은.......",
+			null,
+			null,
+			"Not sure exactly what was written though, anyway now ......",
+			"I don't know the details of what's in it, but anyway, it's now at ......."
+		],
+		[
+			"msg",
+			717853,
+			null,
+			"我一点也不想看这些东西。",
+			"こんなものちっとも見たいと思わない。",
+			"이런 건 전혀 보고 싶지 않아.",
+			null,
+			null,
+			"I don't want to read any of this at all.",
+			"I don't want to see anything like this at all."
+		],
+		[
+			"choice",
+			[
+				717854,
+				null,
+				"【还是陪琪亚娜比较重要！】",
+				"【やっぱりキアナちゃんと一緒にいることの方が大切！】",
+				"【역시 키아나과 함께 있는 게 더 중요해!】",
+				null
+			]
+		]
+	]
+}

@@ -1,0 +1,1452 @@
+{
+	"1012": [
+		[
+			"speaker",
+			204616
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			305080,
+			"Madam, our outpost on the front line is under attack of Houkai creatures and has requested reinforcement!",
+			"报告，前线哨站遭到崩坏生物的攻击，请求支援！",
+			"報告、前線の見張り所が崩壊生物の攻撃を受けています。救援を求めます！",
+			"보고, 전초 감시초소가 붕괴 생물의 공격을 받고 있습니다. 구원을 요청합니다!",
+			"Report, the frontline outpost is under attack by Honkai Beasts. Requesting reinforcements!",
+			null,
+			"Report, the frontline outpost is under attack by avalanche creatures, requesting support!",
+			"Report, front line lookout station is under attack by disintegrating organisms. Call for help!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305081,
+			"Roger! We are on our way!",
+			"明白了，马上出发！",
+			"分かった、今すぐ出発よ！",
+			"알았어, 지금 바로 출발해야겠어!",
+			"Understood! We're departing now!",
+			null,
+			"Understood, leaving immediately!",
+			"All right, we're leaving now!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305082,
+			"Seele! I'm going with you! I could be helpful in case of casualties.",
+			"希儿，我也和你一起去！如果有伤员的话我能帮上忙！",
+			"ゼーレ、一緒に行っていいか？もし負傷者がいたら、治療しないといけない！",
+			"제레, 같이 가도 될까? 만약 부상자가 있으면 치료해야 하잖아!",
+			"Seele, I'm coming with you! If anyone is injured, we need to treat them!",
+			null,
+			"Hill, I'm coming with you! I can help if there are injured people!",
+			"Seele, can I go with you? If anyone is injured, we need to treat them!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305083,
+			"Sure, come along!",
+			"嗯，没问题！",
+			"ええ、そうして！",
+			"응, 그렇게 해!",
+			"Sure, let's go!",
+			null,
+			"Well, no problem!",
+			"Yes, and so!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305084,
+			"Good! Take these medic robots with you. They'll make things easier.",
+			"好！带上这些医疗机器人吧，有它们在会轻松许多！",
+			"よし！この医療ロボットを持っていこう。これがあれば大分楽になる！",
+			"좋아! 이 의료 로봇을 가져가자. 이것만 있으면 한결 수월해질 거야!",
+			"Alright! Let's take this medical robot. This will make things a lot easier!",
+			null,
+			"Yes! Take these medical robots with you, they'll make it a lot easier!",
+			"All right! Let's take this medical robot. This will make things a lot easier!"
+		]
+	],
+	"1013": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			305085,
+			"Roar...",
+			"吼吼吼……",
+			"ゴゴゴォ～……。",
+			"고고고오오…….",
+			"<i>Roaaaaaar</i>",
+			null,
+			"rolleyes ......",
+			"Gogo~......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305086,
+			"Darn it! It's worse than I thought. The number of Houkai creatures is greater than expected. We need to jump into the fray immediately.",
+			"啧！看来事态比想象的更严重呢，崩坏生物的数量超出了预计，我们得立刻参加战斗！",
+			"うげっ！思ってたより崩壊生物の数が多い。今すぐ対処しないと、基地にまで影響が出ちゃう！",
+			"윽! 생각보다 붕괴 생물이 더 많아. 당장 처리하지 않으면 기지까지 영향을 받을 거야!",
+			"Ugh! There's more Honkai beasts than I thought. If we don't deal with them right away they might start attacking the base!",
+			null,
+			"Tsk! It seems the situation is more serious than expected, the number of collapsing creatures is more than expected, we have to join the battle immediately!",
+			"Ugh! There are more disintegrating organisms than I thought. If we don't deal with them now, they'll even affect the base!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305087,
+			"Seele, let's split up! You go help fend off those Houkai creatures, and I will take care of the casualties.",
+			"希儿，我们分头行动吧！你去帮助击退崩坏生物，受伤的队员就交给我吧！",
+			"ゼーレ、手分けしよう！あんたは崩壊生物の撃退を、負傷者の処置は全部こっちがやる！",
+			"제레, 나눠서 하자! 넌 붕괴 생물을 격퇴하고, 부상자 처리는 전부 내가 할게!",
+			"Seele, let's split up! You go help fend off those Houkai beasts, and I'll take care of the wounded.",
+			null,
+			"Hill, let's split up! You go help repel the collapsing creatures, and leave the injured team members to me!",
+			"Seele, let's split up! You fight off the disintegrating organisms, and we'll take care of all the wounded!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305088,
+			"Will you be fine by yourself?",
+			"你一个人没问题么？",
+			"あなただけで大丈夫？",
+			"혼자서 괜찮아?",
+			"Will you be alright by yourself?",
+			null,
+			"Are you okay with being alone?",
+			"Are you alone and okay?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305089,
+			"Huh? Are you worrying about me? Well then, what about I borrow this one from you?",
+			"哼，你竟然也会关心别人，要是不放心的话就把这家伙借给我吧~",
+			"フンッ、あんたも他人に気遣いができたんだな。心配なら九霄、こいつを貸してくれ。",
+			"훗, 너도 남을 걱정할 줄 알게 됐구나. 걱정되면 큐쇼, 이 녀석을 빌려줘.",
+			"Hmm, so you do care for others. If you're worried, how about you lend me Kyuushou~?",
+			null,
+			"If you don't feel comfortable, lend this guy to me~",
+			"Hmmm, you could care for others, too. If you're worried, Kyuushou, lend me this."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305090,
+			"Sigh... Why did I even bother to ask? Alright. You there, go help Emesa and treat the wounded.",
+			"哎~早知道就不担心你了，还真是会挑时间使唤人…好吧，那你就先帮助埃米沙救援受伤的人吧。",
+			"まったく、最初っからその気だったんでしょ。本当にどんな時でも人をこき使うんだから……分かったわ、じゃあ、あなたはとりあえずエミザを手伝って負傷者を受け入れて。",
+			"정말, 처음부터 그럴 생각이었겠지. 진짜 언제든 사람을 부려먹네…… 알았어, 그럼 당신은 일단 에미자를 도와서 부상자를 받아들여.",
+			"As if you weren't planning on doing that from the start... You really know how to get on people's nerves, you know that? Alright... Kyuushou, go help Emesa treat the wounded. (TN: Might be mistranslated, seems Seele is saying \"You really pick the worst times to annoy people\" but DeepL is missing something)",
+			null,
+			"Hey ~ I should have known not to worry about you, but really will pick the time to make people ... Well, then you first help the Emesa rescue injured people it.",
+			"Totally, you've been trying to do that all along. You really do rub people the wrong way at any time. ...... Okay, well, you help Emesa with the wounded for now and accept the wounded."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305091,
+			"Don't call me Emesa!",
+			"不要叫我埃米沙！",
+			"エミザって呼ぶな！",
+			"에미자라고 부르지 마!",
+			null,
+			null,
+			"Don't call me Emesa!",
+			"Don't call me Emesa!"
+		]
+	],
+	"1014": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305092,
+			"Hurry up! There are more wounded who need healing!",
+			"不要傻站着，那边还有需要治疗的伤员！",
+			"ボケッと突っ立ってる暇ないぞ……あそこにまだ手当の必要な負傷者がいる！",
+			"멍하니 서 있을 시간 없어…… 저기에 아직 처치가 필요한 부상자가 있어!",
+			"Don't just stand there, there are wounded who need treatment!",
+			null,
+			"Don't just stand there, there are wounded people over there who need treatment!",
+			"No time to just stand there in a daze. ...... There's a wounded man over there who still needs medical attention!"
+		],
+		[
+			"msg",
+			305093,
+			"Hey! Wrong direction! The other side! Here!",
+			"喂！不是那边！是这里！这里！",
+			"おい！そっちじゃない！こっち！こっち！",
+			"야! 그쪽 아니야! 이쪽! 이쪽!",
+			"Hey! Hey! Not that way! Over here! Over here!",
+			null,
+			"Hey! Not that way! It's here! Over here!",
+			"Hey! Hey! Not that way! Over here! Over here!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305094,
+			"All Houkai creatures have been taken care of. How are things going on your side?",
+			"入侵的崩坏生物已经击退了，你们这边怎么样了？",
+			"侵入した崩壊生物は倒したけど、あなたたちの方はどう？",
+			"침입한 붕괴 생물은 쓰러뜨렸는데, 너희 쪽은 어때?",
+			"We've taken care of the Honkai beasts that invaded the area, how are you guys doing?",
+			null,
+			"The invading Avalanche creatures have been repelled, how is your side?",
+			"We've taken down the disintegrating organisms that invaded the area, but what about you guys?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305095,
+			"What are you doing?! Even a robot does it better than you!",
+			"你OO的到底在想什么！连机器人做的都比你好！",
+			"まったく、何考えてるんだよ！ロボットの方がまだマシだ！",
+			"정말, 무슨 생각을 하는 거야! 로봇이 차라리 나을 지경이네!",
+			"What the ☆☆ are you doing!? Even a robot does it better than you!",
+			null,
+			"What the hell are you OO's thinking! Even the robots are doing better than you!",
+			"What the hell were you thinking! I'd still rather have a robot!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305096,
+			"Hehe... I see that you've been working hard.",
+			"啊哈哈…看来真是辛苦你了~",
+			"アハハ……苦労しているみたいね～。",
+			"아하하…… 고생하는 것 같네~.",
+			"Hahaha...... Sounds like you're having a hard time!",
+			null,
+			"Ahahaha... seems really hard for you ~",
+			"Hahaha ...... sounds like you're having a hard time!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305097,
+			"Humph. Useless newbie.",
+			"哼，真是不中用的家伙。",
+			"フンッ、少しは役に立ってくれよな。",
+			"흥, 좀 도움이라도 됐으면 좋겠네.",
+			"Hmph, this newbie is useless.",
+			null,
+			"Hm, what an unhelpful guy.",
+			"Hmmm, a little help, huh?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305098,
+			"Come on, don't be so mean. Not everyone can match your skills. Even I won't be as good as you. And this one is only a rookie.",
+			"是你自己太拼了吧…就算是我也跟不上你的调子，何况是这个新人呢。",
+			"あなたが頑張りすぎなのよ……私でもあなたにはついていけないのに、この新人じゃなおさらよ。",
+			"당신이 너무 무리하는 거야…… 나조차도 당신을 따라가지 못하는데, 이 신입이야 말로 더욱이.",
+			"You're the one that works too hard... Even I can't keep up with your pace, let alone the newbie.",
+			null,
+			"You're the one who's working too hard...even I can't keep up with your tune, let alone this new guy.",
+			"You're trying too hard ...... even I can't keep up with you, and even more so with this new guy."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305099,
+			"If I'm not trying this hard, many would have died because of my own fault. Is that any different from a murderer?",
+			"如果我们不拼命的话，原本能够活下去的人就会失去活着的权利，因为我们的过失而丧失生命，那我和杀人凶手有什么区别……",
+			"私が頑張らなかったら、生きられる人が生きる権利を失ってしまうだろ。過失で命を失うなんて、それじゃ殺人犯と同じじゃないか……。",
+			"내가 열심히 하지 않으면 살 수 있는 사람이 살 권리를 잃게 되잖아. 과실로 목숨을 잃게 하는 건, 그 그건 살인범이나 다를 바 없지…….",
+			"If I don't work my hardest, people are going to die because of me. Death by negligence isn't any different from being a murderer.",
+			null,
+			"If we don't fight for our lives, people who would have been able to live will lose the right to live and lose their lives because of our negligence, then what is the difference between me and a murderer ......",
+			"If I didn't do my best, people who could live would lose their right to live. To lose a life through negligence, that's just like a murderer. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305100,
+			"Alright, alright. Thanks to you, everybody is still alive. You should just try to relax a bit.",
+			"呼！好啦好啦，多亏了你的努力大家都活得好好的，你也不要总是这么紧绷着神经啦~",
+			"うん！ほら、ほら、あなたの頑張りのおかげでみんなしっかり生きているんだから、いつもそんなに神経を張りつめなくたっていいじゃない！",
+			"응! 자, 자, 당신의 노력 덕분에 모두가 잘 살고 있으니까, 항상 그렇게 신경을 곤두세우지 않아도 된다고!",
+			"Look, everyone is alive and well thanks to your hard work, so you can at least relax a little.",
+			null,
+			"Hoo! Well, well, thanks to your efforts we all live well, you do not always so tight nerves ~",
+			"Yes! Look, look, everyone is alive and well thanks to your hard work, so you don't have to be so nervous all the time!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305101,
+			"...Really? It's a relief to hear that.",
+			"……是么，那就好。",
+			"……そうか、ならいいけど。",
+			"……그래, 그렇다면 괜찮지만.",
+			".....Alright, that's good to hear.",
+			null,
+			"...... is it, that's good.",
+			"...... Okay, I hope so."
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305102,
+			"Sorry. I was a bit too harsh towards you. You actually did well as a beginner. So, what do you think? Interested in joining the Medic Team?",
+			"抱歉，刚才是我说的太重了，你作为新手来说做的已经不错了，怎么样有没有意思加入医疗组？",
+			"ごめん、さっきは言いすぎた。新人にしてはよくやってると思う。なあ？医療チームに入る気はないか？",
+			"미안, 아까는 말이 너무 심했어. 신입치고는 잘하고 있다고 생각해. 그치? 의료 팀에 들어올 생각 없어?",
+			"Sorry, I was out of line earlier. I think you're doing well for a rookie. Hey, you know what? Are you interested in joining the medical team?",
+			null,
+			"Sorry, just now I said too heavy, you as a newcomer has done a good job, how about whether there is interest in joining the medical team?",
+			"Sorry, I was out of line earlier. I think you're doing well for a rookie. Hey, you know what? Are you interested in joining the medical team?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305103,
+			"Hey! I asked you to relax, not to steal my team member!",
+			"喂喂！我是让你放松一下不是让你来挖墙脚啊！真是的！",
+			"ちょっと！私はあなたの気を軽くしようとしただけなのに。うちの有望株を取ろうとしないでくれる？",
+			"잠깐! 난 당신의 마음을 가볍게 해주려고 했을 뿐인데. 우리의 유망주를 빼앗아가려고 하지 말아줄래?",
+			"Hey, hey! I was just asking you to relax, not to poach the newbie!",
+			null,
+			"Hey, hey! I'm asking you to relax, not to troll! What the hell!",
+			"Hey! I was just trying to lighten your load. Don't try to take our promising stock."
+		],
+		[
+			"choice",
+			[
+				305104,
+				"Let me think about it.",
+				"让我考虑一下。",
+				"考えさせてください。",
+				"생각해보게 해주세요.",
+				null
+			],
+			[
+				305105,
+				"Please, let me join you.",
+				"请务必让我加入。",
+				"ぜひ加えてください。",
+				"꼭 추가해 주세요.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1015
+		]
+	],
+	"1015": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305106,
+			"And you there! How come you are seriously considering it!?",
+			"你也不要这么快就着了她的道啊！！",
+			"あなたも即答しないでよ！！",
+			"너도 즉답하지 마!!",
+			"And don't just give her an answer right away!!!",
+			null,
+			"You should not fall into her trap so quickly!",
+			"And don't you dare give me a quick answer either!!!!"
+		]
+	],
+	"1016": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305107,
+			"The battle is over. Let's return to the home base.",
+			"看来战斗结束了呢，我们也回基地吧。",
+			"どうやら戦いは終わったようね。基地に帰りましょう。",
+			"아무래도 전투는 끝난 것 같네. 기지로 돌아가자구.",
+			"Looks like the battle is over. Let's return to the base.",
+			null,
+			"Looks like the battle is over, let's go back to the base too.",
+			"Looks like the fight is over. Let's go back to the base."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305108,
+			"*Panting*",
+			"呼……呼……",
+			"ふぅ……ふぅ……。",
+			"후…… 후…….",
+			"<i>haaa.... haaaa....</i>",
+			null,
+			"Hoo ...... Hoo ......",
+			"Phew. ...... Phew. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305109,
+			"Emesa, are you alright?",
+			"埃米沙，你怎么了？",
+			"エミザ、どうしたの？",
+			"에미자, 왜 그래?",
+			"Emesa, are you feeling alright?",
+			null,
+			"Emesa, what's wrong with you?",
+			"Emesa, what's wrong?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305110,
+			"Do not... call me Emesa...",
+			"不要…叫我埃米沙……",
+			"エミザって……呼ぶな……。",
+			"에미자라고…… 부르지 마…….",
+			"Don't... Call me Emesa....",
+			null,
+			"Don't...call me Emesa ......",
+			"Don't call Emesa ....... ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305111,
+			"Hey!",
+			"喂！",
+			"ちょっと！",
+			"잠깐!",
+			null,
+			null,
+			"Hey!",
+			"Hey!"
+		],
+		[
+			"msg",
+			305112,
+			"Your body is so hot... You are having a fever!",
+			"身体好烫…你发烧了啊喂！",
+			"身体が熱い……あなた熱があるわよ、ねえ！",
+			"몸이 뜨겁네…… 너 열 있는 거 아니야, 응!",
+			"Your body is hot... You have a fever!",
+			null,
+			"Your body is so hot...you have a fever!",
+			"Body hot ...... you have a fever, hey!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305113,
+			"Leave me be... Let me go!",
+			"不要管我…放开我！",
+			"構うな……放っておいてくれ！",
+			"신경 꺼…… 내버려 둬!",
+			"Don't worry... Leave me alone!",
+			null,
+			"Leave me alone...let go of me!",
+			"Leave me alone ...... leave me alone!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305114,
+			"Stop pushing yourself so hard. It's enough for today! Come back with me!",
+			"真是爱逞强的家伙啊，今天就到这里吧！乖乖和我回去！",
+			"本当に強がりなやつなんだから。今日はここまで！大人しく私と帰るのよ！",
+			"정말 강짜부리는 녀석이네. 오늘은 여기까지! 얌전히 나랑 돌아가는 거야!",
+			"Stop acting like you're immortal, that's enough for today! Come back with me!",
+			null,
+			"You're such a hero, that's all for today! Come back with me!",
+			"He's a really strong guy. That's enough for today! Go home with me like a big boy!"
+		],
+		[
+			"msg",
+			305115,
+			"You even don't take care of yourself. I don't think that's considered \"responsible\" for a medic.",
+			"连自己的身体状况都不了解，这样可是医务员失格哦~",
+			"も～自分の体のことも分かっていないんじゃ、医者失格だよ！",
+			"정말~ 자기 몸도 모르면서 의사 면허는 무슨 면허야!",
+			"If you can't recognize the state of your own body, you're in no position to be taking care of others~",
+			null,
+			"If you don't even know your own health condition, it's a medical professional's fault!",
+			"You don't even know what you're doing to your own body, you're not a doctor!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305116,
+			"Shut up... I know myself pretty well...",
+			"少啰嗦…我的身体状态我自己知道……",
+			"う、うるさい……自分の体のことは自分が一番分かっている……。",
+			"시, 시끄러워…… 내 몸은 내가 제일 잘 알아…….",
+			"Ugh, shut up.... I know my body best...",
+			null,
+			"Less nagging...my body state I know myself ......",
+			"Ugh, shut up ...... I know my body best ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305117,
+			"Yeah, yeah.",
+			"是是~",
+			"はい、はい。",
+			"네, 네.",
+			"Yeah, yeah.",
+			null,
+			"Yes, yes~",
+			"Yes, yes."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305118,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305119,
+			"What? Giving up already?",
+			"怎么了，不反抗了么？",
+			"どうしたの。いつもの口答えはしないの？",
+			"왜 그래. 평소처럼 말대꾸 안 해?",
+			"What's the matter? No backtalk this time?",
+			null,
+			"What's the matter, no more resistance?",
+			"What's the matter? No backtalk as usual?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305120,
+			"I have no more strength left... Do whatever you want.",
+			"没力气了…随你高兴吧。",
+			"力がでない……好きにしろ。",
+			"힘이 안 나…… 마음대로 해.",
+			"I'm too weak... Do whatever you want.",
+			null,
+			"No more strength...as you like.",
+			"No power. ...... Do what you want."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305121,
+			"Humph. Look at you. Do you know your limit now?",
+			"哼哼~平时一副盛气凌人的样子现在也终于老实了呢~",
+			"フフン～いつもは血気盛んなのに、やっとおとなしくなったわね～！",
+			"푸흥~ 평소엔 혈기왕성하더니, 드디어 조용해졌구나~!",
+			"Hmph~ You're usually so bloodthirsty, but you've finally gone quiet~!",
+			null,
+			"Hmph~ Usually an overbearing look now also finally honest it ~",
+			"Hmph~ You're usually so bloodthirsty, but you've finally gone quiet~!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305122,
+			"Watch your wicked mouth! I'll remember this...",
+			"你这家伙…给我记住了……",
+			"この……覚えてろよ……。",
+			"이런…… 기억해둬…….",
+			"You two... I'll remember this....",
+			null,
+			"You guys...remember me ......",
+			"Remember this ......, ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305123,
+			"Whoa, whoa, whoa. Are you going to give me a lesson? I'm right here, come at me! You've forgotten your place, don't you?",
+			"哦哟~你的意思是要给我好看么？那就来啊~现在的你可是任我鱼肉都无法反抗的哦~",
+			"あら～私に仕返しするつもり？ならどうぞ～。今のあなたじゃ、どうあがいても私に抗えないわよ～！",
+			"어머~ 내게 복수할 셈이야? 그럼 어서 해봐~ 지금 네 모습으론 어떻게 발버둥쳐도 날 이길 수 없을걸~!",
+			"Oh, you're trying to get back at me, aren't you? Then go ahead~! You can't resist me now, no matter how hard you try!",
+			null,
+			"Oh yo~ You mean you want to give me a good time? Then come on~ Now you are at my mercy and you can't resist~",
+			"Oh, you're trying to get back at me, aren't you? Then go ahead~! You can't resist me now, no matter how hard you try!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305124,
+			"Ugh! What are you doing?",
+			"呃！你想做什么…",
+			"うぅ！何がしたいんだ……。",
+			"윽! 뭘 원하는 거야…….",
+			null,
+			null,
+			"Ugh! What do you want to do...",
+			"Ugh! What do you want? ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305125,
+			"Heh heh heh...",
+			"嘿嘿嘿~",
+			"ヘヘヘ～。",
+			"헤헤헤~.",
+			null,
+			null,
+			"Hey hey hey~",
+			"Hehehe~."
+		],
+		[
+			"choice",
+			[
+				305126,
+				"Seele, be gentle with a patient.",
+				"希儿，对病人要温柔点。",
+				"ゼーレ、病人には優しくしなきゃ。",
+				"제레, 환자에게는 친절하게 해야지.",
+				null
+			],
+			[
+				305127,
+				"Seele, don't mess up with a patient.",
+				"希儿，不要欺负病人。",
+				"ゼーレ、病人をいじめちゃダメだって。",
+				"제레, 환자를 괴롭히면 안 된다고.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1017
+		]
+	],
+	"1017": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305128,
+			"I know, I know. Just joking!",
+			"哎呀~我知道了，只是开玩笑啦~",
+			"ん～分かってるって。ただの冗談だよ～冗談！",
+			"음~ 알아. 그냥 장난이야~ 장난!",
+			null,
+			null,
+			"Oops, I know, just kidding!",
+			"Hmmm - I know, I know. I'm just kidding~ kidding!"
+		],
+		[
+			"msg",
+			305129,
+			"But I hope Emesa has learned her lesson. A medic must always take good care of herself!",
+			"不过这次对于埃米沙来说也是一个教训，作为医护人员连自己都管不好可不行哦~",
+			"でも、今回はエミザにとっていい教訓になったんじゃない。医者として、自分のことも管理できないなんてダメだもの。",
+			"하지만 이번 일은 에미자에게 좋은 교훈이 되지 않았을까. 의사로서 자신도 관리하지 못하면 안 되니까.",
+			"But I hope Emesa's learned her lesson. As a medic, it's no good if you can't even take care of yourself.",
+			null,
+			"But this is also a lesson for Emesa, as a health care worker can not even manage their own can not be Oh ~",
+			"But maybe this time it was a good lesson for Emesa. As a doctor, it's no good if you can't even manage yourself."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305130,
+			"Whatever...",
+			"怎么样都无所谓了……",
+			"どうでもいい……。",
+			"어쩌든 상관없어…….",
+			"Whatever...",
+			null,
+			"It doesn't matter how it is ......",
+			"It doesn't matter. ......"
+		],
+		[
+			"msg",
+			305131,
+			"This is... the only thing I can do...",
+			"这是我…仅存的价值……",
+			"これが私の……存在価値……。",
+			"이것이 나의…… 존재 가치…….",
+			null,
+			null,
+			"This is my...only remaining value ......",
+			"This is my ...... existence value ......."
+		],
+		[
+			"msg",
+			305132,
+			"So... *Zzz*",
+			"所以……所以……",
+			"だから……だから……。",
+			"그러니까…… 그러니까…….",
+			null,
+			null,
+			"So ...... so ......",
+			"That's why ......, so ......."
+		],
+		[
+			"msg",
+			305133,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305134,
+			"She fell asleep... What a stubborn.",
+			"睡着了么…真是爱逞强的家伙。",
+			"寝たのね……本当に強がりなヤツなんだから。",
+			"잠들었네…… 정말 강한 척하는 녀석이야.",
+			"She fell asleep... What a stubborn girl.",
+			null,
+			"Did you fall asleep...you're such a feisty guy.",
+			"You slept with him. ...... He's a really strong guy."
+		],
+		[
+			"msg",
+			305135,
+			"Sigh... Let's go home. It looks like we have to carry her back. She's always making troubles for others.",
+			"哎~回基地吧，看来要把她背回去了，果然是会使唤人的家伙呢~",
+			"やれやれ～基地に戻りましょう。彼女をおんぶして帰らないとね。やっぱり人使いが荒いんだから。",
+			"아니~ 기지로 돌아가자. 그녀를 업고 돌아가야겠네. 역시 사람 부리는 거 거칠어.",
+			"Oh dear~ Let's head back to the base. I'll have to give her a piggyback ride home. She's always making trouble for others. (TN: Redo)",
+			null,
+			"Hey ~ back to the base, it seems to carry her back, really will make the guy it ~",
+			"Oh dear - let's go back to the base. I have to give her a piggyback ride home. I'm still a bit rough on people."
+		]
+	]
+}

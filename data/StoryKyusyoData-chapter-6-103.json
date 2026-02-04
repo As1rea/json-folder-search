@@ -1,0 +1,1822 @@
+{
+	"1401": [
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10177"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309166,
+			"We're close to the power unit, I know a pit lane that is safer to get there, follow me.",
+			"我们的位置离动力区很近了，我知道一条维修通道可以更安全的抵达，跟我来吧。",
+			"動力エリアにかなり近づいているわ。補修用の通路を知ってるから、ついてきて。",
+			"동력 구역에 꽤 가까워졌어. 보수용 통로를 알고 있으니 따라와.",
+			null,
+			null,
+			"We're close to the powerhouse, and I know a maintenance lane to get there more safely, so follow me.",
+			"We're getting pretty close to the power area. I know a repair corridor, follow me."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				67,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			309167,
+			"Hey! Seaweed Head, you're wrong! This way is the main way, don't take us to a wrong way!",
+			"喂！海藻头，你走错了吧！明明这条路才是主干道，别乱带路啊！",
+			"おい、道間違ってないか？あっちがメイン通路だろ？",
+			"야, 길 잘못 들지 않았어? 저쪽이 메인 통로잖아?",
+			null,
+			null,
+			"Hey! Seaweed head, you're going the wrong way! This road is the main road, don't lead the way!",
+			"Hey, I think you're going the wrong way. That's the main corridor, right?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			309168,
+			"No no…this is the main way, but we will meet lots of mechas, so it's better to take the emergency passage.",
+			"不不…这条虽然是主干道，但是从这里走的话一定会遇到很多机甲兵器的阻拦，所以走这条应急通道会比较好一些。",
+			"うん、確かにメイン通路はあっちよ。でも、機甲兵器の邪魔がきっと入ってくるわ。だから、あまり知られていない補修通路を行った方がいいと思うの。",
+			"응, 확실히 메인 통로는 저쪽이야. 하지만 기갑병기의 방해가 분명 들어올 거야. 그래서, 잘 알려지지 않은 보수 통로로 가는 게 좋을 것 같아.",
+			null,
+			null,
+			"No no...this one is the main road, but if you go from here you will definitely encounter a lot of mecha weapons blocking, so it would be better to take this emergency route.",
+			"Yeah, sure, the main corridor is that way. But I'm sure the armored weapons will get in the way. So I think it's better to take the lesser-known repair corridor."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309169,
+			"Ha? That's dirty and stinky! Those mechas are nothing, let's just go and get them!",
+			"哈？那种又脏又臭的地方鬼才高兴去！不就是那些破机甲么，一路拆过去不就行了！",
+			"はぁ？あんな汚くて臭いところヤダよ！機甲なんて、ぶっ壊せばいいじゃんか！",
+			"하아? 그렇게 더럽고 냄새나는 곳 싫어! 기갑병기 같은 거 그냥 부숴 버리면 되잖아!",
+			null,
+			null,
+			"Huh? It's a dirty, smelly place that no one wants to go to! It's just those damn mechs, just take them apart all the way there!",
+			"Huh? I don't want to be in that dirty, smelly place! Why don't you just destroy the armor!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309170,
+			"Well…we should be careful, what if some accidents happen……",
+			"那个…我们还是得注意安全才行啊，如果出什么意外的话……",
+			"えっと……身の安全も大事でしょ！何かあったら……。",
+			"음…… 몸의 안전도 중요한 거 아니야! 뭐라도 생기면…….",
+			null,
+			null,
+			"That ... we still have to pay attention to safety to do ah, if there is any accident ......",
+			"Let's see, ......, your personal safety is important too! If you need anything, please contact ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309171,
+			"You, shut up! Take the main way!",
+			"就是你事多，别废话！走大路！",
+			"うるさい！グズグズするな！こっちだ、こっち！",
+			"시끄러! 지지리 늑장 부리지 마! 이쪽이야, 이쪽!",
+			null,
+			null,
+			"You're the one with too much on your plate, so cut the crap! Take the main road!",
+			"Shut up! Quit your squirming! Come on, come on, come on!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309172,
+			"Fine……",
+			"好吧……",
+			"仕方ないわね……。",
+			"어쩔 수 없지…….",
+			null,
+			null,
+			"Okay ......",
+			"I don't have a choice. ......"
+		],
+		[
+			"choice",
+			[
+				309303,
+				"You really know this place.",
+				"你们对这里真是了解呢。",
+				"ここに詳しいね。",
+				"여기 정말 잘 아는구나.",
+				null
+			],
+			[
+				309323,
+				"Is it ok to follow Sin?",
+				"跟着杏走没问题么？",
+				"シンについていって大丈夫？",
+				"신을 따라가도 괜찮을까?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1402,
+			1403
+		]
+	],
+	"1402": [
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10177"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309173,
+			"Really…the reason is simple, I'm the designer of the ship, I know every details about it, for Sin……she might just get familiar with it by living here for long.",
+			"是么…原因很简单，我是这搜船的设计者，对于月光王座内的所有细节我都了如指掌，而杏的话…大概只是在这里生活久了自然而然就熟悉了吧。",
+			"そうね……理由は簡単よ。私がこの月光王座の設計者だから。この船のことは全部把握してるわ。シンは……ここで長い間暮らしてたからね、大体のことがわかると思うわ。",
+			"그래…… 이유는 간단해. 내가 이 월광왕좌의 설계자니까. 이 배에 관한 건 전부 파악하고 있으니까. 신은…… 여기서 오랫동안 살았으니까, 대충은 알 거라 생각해.",
+			null,
+			null,
+			"Is it...the reason is simple, I am the designer of this search ship, for the moonlight throne within all the details I know like the back of my hand, and apricot words...probably just live here for a long time naturally familiar with it.",
+			"Well, ...... the reason is simple. Because I am the designer of the Moonlight Throne. I know everything about this ship. Shin has lived ...... here for a long time, so I think I know most of what's going on."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1404
+		]
+	],
+	"1403": [
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10177"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309174,
+			"Don't worry, Sin lives here longer than me, she should have gone to every places she can, so at least she shouldn't get lost.",
+			"放心吧，杏在这艘船里生活的时间可比我还久，以她的个性一定把所有能去的地方都摸了个遍了吧，所以至少是不会迷路的。",
+			"安心して、シンは私よりこの船にいた時間が長いのよ。あの子の性格からして、この艦の入れるところには全部行ってるはず、迷子になることはないと思うわ。",
+			"안심해, 신은 나보다 이 배에 있던 시간이 더 길어. 애 성격상, 이 함선의 들어갈 수 있는 곳에는 다 가봤을 테니, 길 잃을 일은 없다고.",
+			null,
+			null,
+			"Don't worry, Apricot has been living in this ship for longer than I have, and with her personality she must have touched all the places she can go, so at least she won't get lost.",
+			"Rest assured, Shin has been on this ship longer than I have. With her personality, I'm sure she's been to all the places this ship can get into, and I don't think she'll get lost."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1404
+		]
+	],
+	"1404": [
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10177"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309175,
+			"This Moonlight Throne has a very different design approach compared to Hyperion, Hyperion needs different space as a transport operation ship, but Moonlight Throne is different, it relys on UAV, so has a larger space of the cabin.",
+			"这艘月光王座和休伯利安的设计思路有很大的不同，休伯利安号作为女武神的运输作战舰艇需要兼顾到很多人员活动区域，但是月光王座不同，它是以无人机架作为主要作战单位，因此舱室的设计就会宽大许多。",
+			"この月光王座は、ハイペリオンのコンセプトと全く違うの。ハイペリオンは、戦乙女の輸送作戦艦艇として人員の動線も考えなきゃいけないようになってる。けど、月光王座は無人機を主要戦力にしてるから、格納庫が広くなってるのよ。",
+			"이 월광왕좌는 히페리온의 컨셉과 완전히 달라. 히페리온은 전투처녀의 수송 작전함으로서 인원의 동선도 고려해야 하게 돼 있지만. 하지만 월광왕좌는 무인기를 주력으로 삼고 있으니, 격납고가 넓어진 거야.",
+			null,
+			null,
+			"This moonlight throne and Hublian design ideas are very different, Hublian as the Valkyrie transport combat ships need to take into account a lot of personnel activity area, but the moonlight throne is different, it is a drone rack as the main combat unit, so the design of the cabin will be much wider.",
+			"This Moonlight Throne is completely different from the Hyperion concept. The Hyperion is designed to be a transport operation ship for war maidens, which also requires the consideration of personnel flow lines. However, the Gekko Oza has a wider hangar because it uses unmanned vehicles as its main force."
+		],
+		[
+			"msg",
+			309176,
+			"But you must feel nervous when enter here for the first time, because its design style is quite advanced, the huge corridor can be very depressing when nothing is there……",
+			"不过你第一次进入这艘船的话还是会有些不安吧，因为它的设计风格还是挺超前的，这种巨大的回廊在空无一物的时候的确会让人有些压抑……",
+			"初めてこの艦に入る人は、少し戸惑うことがあるでしょうね。一応、これのデザインはかなり前衛的にしてあるから。それに、こう通路が広くてスカスカだと落ち着かないのよ、私……。",
+			"처음 이 함선에 들어오는 사람은 조금 당황할 수 있겠네. 일단, 이거 디자인이 상당히 전위적으로 되어 있으니까. 게다가, 이렇게 통로가 넓적하고 텅 비어 있으면 안정감이 없어, 나…….",
+			null,
+			null,
+			"But you will still be a little uneasy if you enter this ship for the first time, because its design style is still quite ahead of its time, this huge corridor in the absence of a thing does make people a little depressed ......",
+			"I think people entering this ship for the first time may be a little confused. In case you're wondering, the design of this thing is pretty avant-garde. And I don't feel comfortable when the aisles are wide and scanty like this, I ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309177,
+			"You're just too timid, I quite enjoy the feeling of freedom~",
+			"那是你自己胆小吧，我倒是挺喜欢这种无拘无束的感觉~",
+			"お前が臆病なだけだろ。ボクは窮屈じゃないこの感じ、わりと好きだけどな～",
+			"너 겁쟁이일 뿐이잖아. 난 답답하지 않은 이 느낌, 꽤 좋아하지만 말이야~",
+			null,
+			null,
+			"That is your own cowardly bar, I do like the feeling of unrestrained ~",
+			"You're just a coward. I like this feeling of not being cramped."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309178,
+			"Haha…I take it as a compliment.",
+			"呵呵…那我就当是你在夸我吧。",
+			"ははっ……褒め言葉として受け取っておくわ。",
+			"하하… 칭찬으로 받아둘게.",
+			null,
+			null,
+			"Oh...then I'll take that as a compliment from you.",
+			"Haha ...... I'll take that as a compliment."
+		]
+	],
+	"1405": [
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10177"
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309179,
+			"Woo…there's no danger along the way, unexpectedly smooth.",
+			"唔…一路走来居然没有什么危险，没想到会这么顺利。",
+			"うーん……特に何も起こらなかったわね。こんなサクサク進めるとは思わなかったわ。",
+			"으음… 특별히 아무 일도 없었네. 이렇게 순조롭게 진행될 줄은 몰랐어.",
+			null,
+			null,
+			"Well...there was actually no danger along the way, I didn't expect it to go so smoothly.",
+			"Hmmm ...... nothing special happened. I didn't expect it to be this crispy."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309180,
+			"The mechas here should be all broken in previous fight? After all here is the heart of Moonlight Throne~",
+			"这里的机甲兵器早就在之前的战斗中坏光了吧？毕竟这里可是月光王座的心脏啊~",
+			"ここの機甲兵器は過去の戦闘でとっくに壊れたんだろ？一応、ここは月光王座の心臓部だしな。",
+			"여기의 기갑 병기는 과거 전투에서 이미 부서진 거잖아? 일단 여기는 월광왕좌의 심장부이기도 하고.",
+			null,
+			null,
+			"The mecha weapons here have long been broken in the previous battle, right? After all, this is the heart of the Moonlight Throne~",
+			"The armored weapons here have long since been destroyed in past battles, right? In case you're wondering, this is the heart of the Moonlight Throne."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309181,
+			"You know more than I thought, true…if the purpose is to destroy Moonlight Throne, this is the main direction to attack it.",
+			"没想到杏你还想的挺多的嘛，的确…如果要摧毁月光王座的话，这里的确是首要的进攻方向。",
+			"よくわかってるわね。確かに月光王座を壊すなら、ここを落とすのがもっとも効率的よ。",
+			"잘 알고 있네. 확실히 월광왕좌를 부수려면 여기를 공격하는 게 가장 효율적이지.",
+			null,
+			null,
+			"I didn't expect you to think much about it, indeed... If you want to destroy the Moonlight Throne, this is indeed the primary direction of attack.",
+			"You know exactly what I mean. Surely, if you want to destroy the Moonlight Throne, the most efficient way is to drop it here."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				67,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			309182,
+			"Of course! I've been thinking how to destroy this battleship for a while~",
+			"那当然！有段时间我可是天天想着怎么弄坏这艘战舰呢~",
+			"当然だろ！この艦を壊す方法を考えたことあるからな！",
+			"당연하지! 이 함선을 파괴하는 방법을 생각해본 적 있거든!",
+			null,
+			null,
+			"Of course! I've been thinking about how to break this ship for a while.",
+			"Of course not! I've thought of ways to destroy this ship before!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309183,
+			"Coo…ok, I took back what I've said…please don't ever think about such things……",
+			"咕…好吧，前言撤回…你以后还是少想一些这种事情吧……",
+			"はぁ……前言撤回するわ……そういうことは、できれば考えないでちょうだい……。",
+			"하아… 앞말 취소할게… 그런 건 가능하면 하지 말아줘…",
+			null,
+			null,
+			"Goo...well, the preamble withdrawn...you'd better think less about such things in the future ......",
+			"Huh. ...... I take back my previous statement. ...... Please don't think about those things if you can help it. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309184,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309185,
+			"Here it is…this is the final door to the power unit, we will get there after this.",
+			"就是这里了…这扇隔离门是通往动力炉的最后一道闸门，只要打开它我们就到了。",
+			"ここよ……このドアを開ければ動力炉に辿り着くわ。",
+			"여기야… 이 문을 열면 동력로에 도달해.",
+			null,
+			null,
+			"This is it...this isolation door is the last gate to the power furnace, just open it and we're there.",
+			"Here it is: ...... Open this door and you'll reach the power reactor."
+		],
+		[
+			"msg",
+			309186,
+			"You get prepared, I will open the door, according to the data, the Honkai energy of this area is all from there, we need to be careful.",
+			"你们做好战斗准备，我去打开这扇大门，从仪器检测到的数据来看，这个区域的崩坏能都是从那里涌出来的，所以一定要保持警惕。",
+			"ドアを開けるから、戦闘準備をしておいて。データによると崩壊エネルギーは、この中から溢れてきてるわ。気をつけて。",
+			"문을 열 거니까 전투 준비해둬. 데이터에 따르면 붕괴 에너지가 이 안에서 넘쳐나고 있다고. 조심해.",
+			null,
+			null,
+			"You guys get ready for battle, I'm going to open this door. From the data detected by the instruments, the collapse energy in this area is coming out from there, so be sure to stay alert.",
+			"I'm going to open the door, so get ready for battle. Data shows that the disintegrating energy is flooding out of this thing. Be careful."
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309187,
+			"Huh…Hopefully there're no Honkai creatures rushing out……",
+			"呼…希望不要忽然有崩坏生物冲出来就好……",
+			"ふぅ、崩壊生物が湧いてこなければいいんだけど……。",
+			"휴, 붕괴 생물이 나타나지 않으면 좋겠는데…….",
+			null,
+			null,
+			"Phew...I hope no collapsed creatures suddenly come out of the woodwork ......",
+			"Whew, I hope no disintegrating organisms spring up. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309188,
+			"Beep Beep Beep——",
+			"滴滴滴——",
+			"ピピピ——",
+			"삐삐삐——",
+			null,
+			null,
+			"Drip-drip-drip-",
+			"Beepee--"
+		],
+		[
+			"msg",
+			309189,
+			"「Wrong Password.」",
+			"「密码错误。」",
+			"「パスワードが間違っています」",
+			"「비밀번호가 틀렸습니다」",
+			null,
+			null,
+			"\"Wrong password.\"",
+			"Password is incorrect.\""
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309190,
+			"Woo…this password is wrong, another one?",
+			"呜…这个密码不对么，难道是另一个？",
+			"えっ！間違ってる！？もう一つの方かな？",
+			"엣! 틀렸다고!? 다른 걸 말한 걸까?",
+			null,
+			null,
+			"Oooh...is this password wrong, is it another one?",
+			"What? ! You're wrong! Is it the other one?"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309191,
+			"Eh! Maybe the password has changed, let me think……",
+			"呃！可能这艘船的密码和之前不太一样，让我想想……",
+			"うぐぐ……この艦のパスワード、私の世界とは違うみたい。ちょっと、それっぽいのがないか思い出してみるわ……。",
+			"으으…… 이 함선의 비밀번호는 내 세계와 다른 모양이네. 잠깐, 비슷한 게 없을까 생각해 볼게…….",
+			null,
+			null,
+			"Ugh! Maybe the code for this ship is not the same as before, let me think ......",
+			"Ugh ...... password for this ship, it looks different from my world. Let me see if I can remember if there's anything that looks like it. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309192,
+			"Beep Beep Beep——",
+			"滴滴滴——",
+			"ピピピ——",
+			"삐삐삐——",
+			null,
+			null,
+			"Drip-drip-drip-",
+			"Beepee--"
+		],
+		[
+			"msg",
+			309193,
+			"「Wrong Password.」",
+			"「密码错误。」",
+			"「パスワードが間違っています」",
+			"「비밀번호가 틀렸습니다」",
+			null,
+			null,
+			"\"Wrong password.\"",
+			"Password is incorrect.\""
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV21_WarningAlertTunnelB"
+		],
+		[
+			"msg",
+			309194,
+			"「Detect the possibility of intrusion, turn off password mode, start defense mode.」",
+			"「检测到侵入可能，关闭密码功能，进入防御模式。」",
+			"「侵入者の可能性を検出、パスワードロック——防御モードに入ります」",
+			"「침입자 가능성 감지, 패스워드 락——방어 모드로 들어갑니다」",
+			null,
+			null,
+			"\"Intrusion possibility detected, disable password function and enter defense mode.\"",
+			"Detect possible intruder, password lock--enter defense mode.\""
+		],
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309195,
+			"Eh! Wait! What's happening!",
+			"呃！等等！这是怎么回事！",
+			"嘘……ッ！待って、待って！どういうことよ！？",
+			"거짓……! 잠깐, 잠깐! 무슨 소리야!?",
+			null,
+			null,
+			"Ugh! Wait! What's going on here!",
+			"Lies ......! Wait, wait! What the hell is going on?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309196,
+			"Crack…Crack……",
+			"喀拉…喀拉……",
+			"ガシャ——ガタッ、ガタン……！",
+			"철컥——덜컥, 덜컹……!",
+			null,
+			null,
+			"Kara...Kara ......",
+			"Rumble--rattle, rattle. ......!"
+		],
+		[
+			"msg",
+			309197,
+			"「Find the intruder, start to clear off!」",
+			"「发现侵入者，开始排除！」",
+			"「侵入者発見。排除を開始します」",
+			"「침입자 발견. 제거를 시작합니다」",
+			null,
+			null,
+			"\"Intruder found, start eliminating!\"",
+			"Intruder detected. Initiating clearance."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309198,
+			"Whoa! Mechas again!",
+			"呜哇！怎么又是机甲兵器！",
+			"うわぁあああっ！何でまた機甲が出てくるのよ！",
+			"우와아아악! 왜 또 기갑이 나오는 거야!",
+			null,
+			null,
+			"Woohoo! What's with the mecha weaponry again!",
+			"Aaahhh! Why is that armor coming out again!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			309199,
+			"Hey! What's wrong with you?",
+			"喂！你搞什么飞机啊？",
+			"おいっ！何やってんだ！",
+			"야! 뭘 하는 거야!",
+			null,
+			null,
+			"Hey! What the hell are you doing?",
+			"Hey! What the hell are you doing?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			309200,
+			"Well…well…woo…there must be something wrong!",
+			"那个…这个…呜…一定是哪里出了问题！",
+			"えっと……その……うぅ、どうしてなの！",
+			"어...... 그...... 우우, 어떻게 된 거야!",
+			null,
+			null,
+			"That...this...oooh...something must have gone wrong!",
+			"Um ...... its ...... ugh, why!"
+		],
+		[
+			"msg",
+			309201,
+			"Any! Anyway protect me first! I'm thinking about the solution!",
+			"总！总之你们先保护我！我再想想办法！",
+			"と、とにかく私を守って！別の方法を考えるから！",
+			"어, 어쨌든 나를 지켜줘! 다른 방법을 생각할 테니까!",
+			null,
+			null,
+			"General! Anyway, you guys protect me first! I'll think of something else!",
+			"and protect me anyway! I'll think of another way!"
+		]
+	],
+	"1406": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10177"
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309202,
+			"Woo…what's wrong, is the password here reset by Cocolia……",
+			"唔…怎么回事，难道这个世界的密码被可可利亚重新设定了么……",
+			"うーん、どういうことなの……まさか、この世界のカカリアにパスワードを変更されたのかな……。",
+			"으음, 어떻게 된 일이지...... 설마, 이 세계의 쿠쿠리아에게 패스워드를 변경당한 걸까.......",
+			null,
+			null,
+			"Well...what's going on, is this world's password was reset by Coccolia ......",
+			"Hmm, what do you mean ...... I don't think so, did the Kakaria of this world change my password ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309203,
+			"Do you know what should we do now!",
+			"你搞没搞定啊喂！",
+			"くっ！何とかなんないのか！",
+			"큭! 어떻게든 안 되는 거야!",
+			null,
+			null,
+			"You did not fix ah hey!",
+			"Damn! Can't you do something!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309204,
+			"Eh! Don't worry…I have other ways, please give me more time!",
+			"呃！不用担心…我还有其他方法，再给我一些时间！",
+			"うっ、心配ないわ……まだ方法はある……けど、少し時間がほしいの！",
+			"윽, 걱정 마...... 아직 방법은 있어...... 하지만, 조금 시간이 필요해!",
+			null,
+			null,
+			"Ugh! Don't worry...I have other ways to do this...just give me some more time!",
+			"Ugh, don't worry ...... there's still a way ...... but I just need some time!"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309205,
+			"If the password doesn't work we have to break into through the back door……",
+			"如果密码不行的话只能使用后门暴力破解了……",
+			"パスワードがダメなら、バックドアから強行突破するしかないわ……。",
+			"패스워드가 안 되면, 백도어에서 강행 돌파하는 수밖에 없어.......",
+			null,
+			null,
+			"If the password does not work then you can only use the backdoor violence crack ......",
+			"If the password doesn't work, you'll have to force your way through the back door. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309206,
+			"Ha! You put a backdoor in mother's ship!?",
+			"哈！你这混蛋居然在妈妈的船上装后门！？",
+			"はぁ？お前、ママの船にバックドアなんてつけてたのか！？",
+			"하아? 너, 엄마의 배에 백도어 같은 걸 달아뒀었어!?",
+			null,
+			null,
+			"Ha! You bastard actually put a back door in mom's boat!",
+			"Huh? You had a back door on your mom's boat!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309207,
+			"No! It's not like that…anyway this is something like administrator rights!",
+			"不！不是这个意思…总之这是一个管理员权限一样的东西！",
+			"いや、そういう意味合いのじゃなくて……とにかく、管理者権限みたいなものなの！",
+			"아니, 그런 의미가 아니라서…… 아무튼, 관리자 권한 같은 거야!",
+			null,
+			null,
+			"No! That's not what it means... Anyway, it's an admin access like thing!",
+			"No, not in that sense. ...... Anyway, it's like admin rights!"
+		],
+		[
+			"msg",
+			309208,
+			"After all we need some program for us to manage as a designer……",
+			"毕竟作为设计者总需要一些能够方便进入管理的程序……",
+			"一応、設計者だからね。管理モードに入るためのプログラムがあるのよ……。",
+			"일단, 설계자니까. 관리 모드에 들어가기 위한 프로그램이 있거든…….",
+			null,
+			null,
+			"After all, as a designer you always need something that can be easily accessed to manage the program ......",
+			"I'm the designer, in case you're wondering. There's a program to get you into management mode at ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309209,
+			"Shut up! I can't pretend I didn't hear you!",
+			"别废话！既然你说这个我可不能当做没听到啊！",
+			"うるさい！今の聞かなかったことにはできないからな！",
+			"시끄러워! 지금 건 못 들은 척할 수 없으니까!",
+			null,
+			null,
+			"Don't talk nonsense! Since you say this I can not pretend not to hear ah!",
+			"Shut up! I can't pretend I didn't hear that!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309210,
+			"Hey! Sin! Let's solve these mechas first…I will explain to you later!",
+			"喂！杏！我们先解决这些机甲兵器再说吧…我之后再和你解释！",
+			"もう！シン！それよりも先に機甲兵器を何とかしてちょうだい……これについてはあとでちゃんと説明するから。",
+			"됐어! 신! 그보다 먼저 기갑병기를 어떻게 좀 해줘…… 이건 대해서는 나중에 제대로 설명할 테니까.",
+			null,
+			null,
+			"Hey! Apricot! Let's take care of these mecha weapons first...I'll explain to you later!",
+			"Oh, God! Shin! Do something about the armored weapon first. ...... I'll explain all about this later."
+		],
+		[
+			"choice",
+			[
+				309304,
+				"There're not so many enemies, I will finish the rest.",
+				"敌人也没多少了，后面就交给我吧。",
+				"敵も残り少ないし、あとは私一人に任せて。",
+				"적도 얼마 남지 않았으니, 이제는 나 혼자서 맡길게.",
+				null
+			],
+			[
+				309324,
+				"Etherine is right, let's remove the enemies in front of us.",
+				"伊瑟琳说的对，先解决眼前的敌人吧。",
+				"イザーリンの言う通り、まずは目の前の敵を倒そう。",
+				"이자린이 말한 대로, 우선 눈앞의 적을 쓰러뜨리자.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1407,
+			1408
+		]
+	],
+	"1407": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10177"
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309211,
+			"Hey! Why you also urge her to do this!",
+			"喂！怎么连你也怂恿她啊！",
+			"あ、あなたまでそんなこと言わないで！",
+			"아, 당신까지 그런 말 하지 마!",
+			null,
+			null,
+			"Hey! Why are you encouraging her too?",
+			"Oh, don't even you say that!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1409
+		]
+	],
+	"1408": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10177"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309212,
+			"Kyushou is right! Sin…be a good girl!",
+			"九霄说的对！杏…听话！",
+			"九霄の言う通りよ！シン、ちゃんと話を聞いて！",
+			"큐쇼의 말대로야! 신, 제대로 말을 들어!",
+			null,
+			null,
+			"Kyuushou is right! Apricot...do as you're told!",
+			"Kyuushou is right! Shin, listen to me!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1409
+		]
+	],
+	"1409": [
+		[
+			"speaker",
+			204585
+		],
+		[
+			"bg",
+			"CG10177"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309213,
+			"Haha~just tell me if you don't want to suffer!",
+			"呵呵~要是不想受苦的话就乖乖告诉我吧！",
+			"ふん、痛い目に遭いたくなかったら、正直に教えろよな！",
+			"흥, 괴로운 꼴 당하고 싶지 않으면, 솔직히 가르쳐라!",
+			null,
+			null,
+			"Oh ~ if you do not want to suffer, then be good and tell me!",
+			"Hmph, if you don't want to get hurt, you better be honest with me!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309214,
+			"Ok ok! I will tell you! Don't come!",
+			"好吧好吧！我告诉你还不行嘛！你不要过来啊！",
+			"はいはい！あとでちゃんと教えるから、こっち来ないで！",
+			"알았어 알았어! 나중에 제대로 가르쳐줄 테니까, 이리 오지 마!",
+			null,
+			null,
+			"All right, all right! I'll tell you! Don't come any closer!",
+			"Yes, yes, yes! I'll teach you later, just don't come over here!"
+		]
+	],
+	"1410": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10177"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			309215,
+			"Boom——!",
+			"轰隆——！",
+			"ドォオォオオオン——ッ！",
+			"드오오오온——!",
+			null,
+			null,
+			"Boom-!",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309216,
+			"Finally…open, it's a password I've never used……",
+			"终于…打开了，果然是我从来没有使用过的密码……",
+			"ふぅ……やっと開いた。やっぱり私の知らないパスワードが設定されてたわ……。",
+			"후우…… 겨우 열렸어. 역시 내가 모르는 패스워드가 설정되어 있었어…….",
+			null,
+			null,
+			"Finally...opened it, and sure enough, I never used the password ......",
+			"Whew ...... finally opened it. I knew it had a password set that I didn't know. ......"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309217,
+			"The mecha defense along the way is quite weak, only here…maybe during the war, this door is not shut, to let intruders enter the power unit……",
+			"一路过来通道里的机甲防御很弱，唯独这里的机甲兵器健在…难道在战斗发生的时候，这扇隔离门并没有关闭，难道是故意让入侵者进入到动力区域的么……",
+			"ここに来るまで機甲兵器の防衛は薄かったのに、突然こんなに湧いてくるなんて……まさか、隔離ドアが閉じられていなかったのは、わざと侵入者を動力エリアまで入らせて撃退するためだったとか……？",
+			"여기 오기 전까지 기갑 병기의 방어는 허술했는데, 갑자기 이렇게 많이 나타나다니…… 설마 격리 도어가 닫히지 않은 건 고의로 침입자들을 동력 구역까지 유인해서 격퇴하기 위한 거였던 걸까……?",
+			null,
+			null,
+			"All the way over the passage in the mech defense is very weak, only here the mech armament is healthy... Could it be that when the battle occurred, this isolation door was not closed, is it deliberately let the intruder into the power area ......",
+			"The defense of armored weapons was thin until we got here, and then all of a sudden they sprang up like this. ...... I didn't think that the quarantine door was not closed to intentionally let the intruders enter the power area to repel them...? ...?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				67,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			309218,
+			"Eh…what the hell, the series of codes is so complicated, who would understand it!",
+			"啧…什么东西，这一串串代码搞的这么复杂，你弄这种东西谁看的懂！",
+			"チッ……何だこれ。こんなプログラムコード、誰がわかるってんだ。",
+			"쳇…… 뭐야 이거. 이런 프로그램 코드, 누가 알아보겠어.",
+			null,
+			null,
+			"Gee...what a thing, this string of code to make so complicated, you make such things who can read!",
+			"Damn ...... what the heck. Who would understand such a program code?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			309219,
+			"Cool! I forget Sin is still here…huh…at least she knows nothing about programming, otherwise it's too dangerous.",
+			"咕！忘了杏还在看着…呼…还好她对程序的事情一窍不通，不然真的是危险了。",
+			"あッ！シンに見られてること忘れてた……プログラムに詳しくなくて助かったわ、でないと大変だった……。",
+			"앗! 신에게 지켜보고 있는 거 잊었어…… 프로그램에 대해 잘 몰라서 다행이야, 안 그랬으면 큰일 날 뻔했어…….",
+			null,
+			null,
+			"Goo! Forgot that Apricot was still watching...phew...good thing she doesn't know anything about procedures, otherwise it would have been really dangerous.",
+			"Ack!!! I forgot that Sin was watching me. ...... Thank God I'm not familiar with the program, or I would have had a hard time. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				67,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			309220,
+			"Huh, boring, I thought finally I could control this.",
+			"哼，真是无聊，还以为终于能获得月光王座的控制权了。",
+			"ふん、つまんないの。やっと月光王座のコントロール権限を手に入れると思ったのになぁ。",
+			"흥, 재미없어. 겨우 월광왕좌의 제어 권한을 손에 넣을 줄 알았는데 말야.",
+			null,
+			null,
+			"Hm, how boring, thought I could finally gain control of the Moonlight Throne.",
+			"Hmm, boring. I thought I was finally going to get the authority to control the Moonlight Throne."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			309221,
+			"Sin…do you want to sail Moonlight Throne so much?",
+			"杏…你就这么想驾驶月光王座么？",
+			"シン……そんなに月光王座を操縦したいの？",
+			"신…… 그렇게 월광왕좌를 조종하고 싶어?",
+			null,
+			null,
+			"Apricot...do you want to drive the Moonlight Throne that badly?",
+			"Sin...... you want to pilot the Moonlight Throne so badly?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309222,
+			"Of course, one day it would be mine! And I will go wherever I want, you will all become my crew.",
+			"那当然，总有一天月光王座会是我杏玛尔的东西！到时候本大爷想去哪就去哪，你们这些人都会是我的小弟。",
+			"当たり前だろ。いつか月光王座は、このシン・マール様のものにして見せるんだ！どこに行くのもボクの自由。全員、ボクの手下にしてやるよ。",
+			"당연하지. 언젠가 월광왕좌는 이 신・마루 님의 것으로 만들어 주겠어! 어디 가든 내 자유야. 모두 내 부하로 만들어 줄 거라고.",
+			null,
+			null,
+			"Then, of course, one day the Moonlight Throne will be mine, Apricot Marr's! When that time comes, my lord will go wherever he wants to go, and all of you people will be my minions.",
+			"Of course. Someday, I will show you that the Moonlight Throne belongs to Shin Maal-sama! Wherever I go, I'm free to go. I'll make them all my servants."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309223,
+			"Ah…that's horrible, hope that day will never come.",
+			"哎…光是想想就觉得可怕，希望那一天永远不会到来。",
+			"はぁ……考えるだけで寒気がする。そのいつかが、永遠に来ないといいわ。",
+			"하아…… 생각만 해도 소름이 돋아. 그 '언젠가'가 영원히 오지 않으면 좋겠다.",
+			null,
+			null,
+			"Hey ... just thinking about it makes me feel terrible, I hope that day never comes.",
+			"Huh ...... gives me chills just thinking about it. I hope that someday never comes."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				67,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			309224,
+			"Ah? What did you say?",
+			"啊？你说什么？",
+			"あん？何か言ったか？",
+			"엥? 뭐라고 했어?",
+			null,
+			null,
+			"Huh? What did you say?",
+			"Huh? What did you say?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			309225,
+			"I mean…that day will come……",
+			"我是说…那一天一定会到来的……",
+			"えっと……そんな日が早く来るといいね……。",
+			"그게…… 그 날이 빨리 오면 좋겠네…….",
+			null,
+			null,
+			"I mean...that day will surely come ......",
+			"Let's see... ...... I hope that day comes soon. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309226,
+			"Fine, I will keep the secret for you this time, if it's fixed I will also lose the chance to get it~",
+			"好吧，看在你这么诚心的份上这次的事情我就帮你保密，要是修复掉的话不就连我自己都失去夺取的机会了么~",
+			"ふん、賛同してくれるってんなら、今回は大目に見てやるよ。それにこれを修復されたら、こっちも奪う機会を失うしな。",
+			"흥, 찬동해 준다면 이번엔 봐주지. 어차피 이걸 수리당하면 우리도 빼앗을 기회를 잃게 되니까.",
+			null,
+			null,
+			"Well, look at you so sincere on the part of this time I'll help you to keep it a secret, if the repair is not even I myself lost the opportunity to take it ~",
+			"Well, if you agree with me, I'll tolerate it this time. Besides, if they fix this, we'll lose our chance to take it away from them."
+		],
+		[
+			"msg",
+			309227,
+			"Huh, until that moment, you need to help!",
+			"哼，等到本大爷动手的那一刻，你可得给我好好帮忙！",
+			"ボクが計画を実行すると時、ちゃんと手伝えよなっ！",
+			"내가 계획을 실행할 때, 제대로 도와줄 거지!",
+			null,
+			null,
+			"Hmph, wait until the moment when this big master do it, you have to give me a good help!",
+			"When I carry out my plan, you'll have to help me out!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309228,
+			"Ah…what a crazy idea……",
+			"哎…真是疯狂的想法……",
+			"はぁ……それは恐ろしい計画になりそうね……。",
+			"하…… 그건 끔찍한 계획이 될 것 같네…….",
+			null,
+			null,
+			"Hey...what a crazy idea ......",
+			"Huh ...... that sounds like a horrible plan ......."
+		]
+	]
+}

@@ -1,0 +1,949 @@
+{
+	"10740": [
+		[
+			"speaker",
+			320810
+		],
+		[
+			"portraits",
+			[
+				30785,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733315,
+			null,
+			"我在一号口。",
+			"私は1番出口にいるよ。",
+			"나는 1번 출구에 있어.",
+			null,
+			null,
+			"I'm on port one.",
+			"I'll be at exit 1."
+		],
+		[
+			"msg",
+			733316,
+			null,
+			"一号口，不是七号口！",
+			"１番出口。7番出口じゃない！",
+			"1번 출구. 7번 출구 아니야!",
+			null,
+			null,
+			"Exit one, not seven!",
+			"Exit 1, not exit 7!"
+		],
+		[
+			"msg",
+			733317,
+			null,
+			"一号口，不是B出口。",
+			"１番出口だって。B出口じゃないって。",
+			"1번 출구라고. B 출구 아니라고.",
+			null,
+			null,
+			"Exit one, not exit B.",
+			"He said Exit 1, not Exit B."
+		]
+	],
+	"10741": [
+		[
+			"speaker",
+			320811
+		],
+		[
+			"portraits",
+			[
+				30786,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733318,
+			null,
+			"这个拉面！这口感……这嚼劲……",
+			"このラーメン！この味……それに歯ごたえ……。",
+			"이 라면! 이 맛…… 그리고 씹는 느낌…….",
+			null,
+			null,
+			"This ramen! This texture ...... this chewiness ......",
+			"This ramen! This taste ...... and it's crunchy ......."
+		],
+		[
+			"msg",
+			733319,
+			null,
+			"这是……这是……！",
+			"これは……これは……！",
+			"이건…… 이건……!",
+			null,
+			null,
+			"This is ...... This is ......!",
+			"This is ...... this is ......!"
+		],
+		[
+			"msg",
+			733320,
+			null,
+			"是料理包！！",
+			"インスタントだ！！",
+			"인스턴트야!!",
+			null,
+			null,
+			"It's a cooking bag!",
+			"Instant!"
+		]
+	],
+	"10742": [
+		[
+			"speaker",
+			320812
+		],
+		[
+			"portraits",
+			[
+				30787,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733321,
+			null,
+			"钥匙忘带了，打电话撬锁。",
+			"ねぇ聞いてよ。鍵を家の中に忘れちゃって、電話で鍵師を呼んだんだ。",
+			"저기 들어봐. 열쇠를 집 안에 두고 나와서, 전화로 열쇠공을 불렀어.",
+			null,
+			null,
+			"Forgot your keys, called to pick the lock.",
+			"Hey, listen. I left my keys in the house and called a locksmith."
+		],
+		[
+			"msg",
+			733322,
+			null,
+			"撬完锁忘了，带了旧钥匙。",
+			"それで鍵師に鍵を開けてもらったあと、錠前を交換して新しい鍵をもらったんだ。でも、家の中に新しい鍵を忘れて、間違えて古い方の鍵を持って出てきちゃった……。",
+			"그래서 열쇠공에게 열쇠를 열어달라고 한 다음, 자물쇠를 교체하고 새 열쇠를 받았어. 그런데 집 안에 새 열쇠를 두고 나와서, 실수로 옛날 열쇠를 가지고 나와버렸어…….",
+			null,
+			null,
+			"Forgot the lock after picking it and brought the old key.",
+			"So I had a locksmith unlock the house, then he replaced the lock and gave me a new key. But I forgot the new key in the house and came out with the old one by mistake. ......"
+		],
+		[
+			"msg",
+			733323,
+			null,
+			"手机忘家里，父母旅游去。",
+			"今度はスマホも家の中。両親は旅行先だし、鍵師は帰っちゃったし……。",
+			"이번에는 스마트폰도 집 안에. 부모님은 여행 중이시고, 열쇠공은 이미 돌아갔고…….",
+			null,
+			null,
+			"I left my cell phone at home, and my parents went on a trip.",
+			"Now the phone is in the house too. My parents are on vacation and the locksmith has left. ......"
+		],
+		[
+			"msg",
+			733324,
+			null,
+			"与其干着急，不如作诗句。",
+			"——焦ってもしょうがないから、とりあえず詩でも作ろう。",
+			"——초조해봐야 소용없으니, 일단 시라도 지어볼까.",
+			null,
+			null,
+			"Instead of drying up, why don't you make a verse?",
+			"--I'm in no hurry, so I'll just write a poem for now."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				19,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733325,
+			null,
+			"（好像在绝境中诞生了诗意。）",
+			"（最悪の状況に置かれて詞のインスピレーションが湧いたみたい。）",
+			"(최악의 상황에 처하니 시적 영감이 솟아나는 모양이야.)",
+			null,
+			null,
+			"(It's as if poetry is born out of desperation.)",
+			"(It's like being put in the worst possible situation to inspire a lyric.)"
+		]
+	],
+	"10743": [
+		[
+			"speaker",
+			320810
+		],
+		[
+			"portraits",
+			[
+				30785,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733326,
+			null,
+			"你知道吗？这个广场是有名的碰头地点。",
+			"知ってる？この広場は有名な待ち合わせ場所なんだよ。",
+			"알고 있어? 이 광장은 유명한 만남 장소야.",
+			null,
+			null,
+			"Did you know? This square is a famous rendezvous point.",
+			"Did you know? This square is a famous meeting place."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				19,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733327,
+			null,
+			"是因为视野很宽敞吗？",
+			"見通しが良いからかな？",
+			"시야가 탁 트여서 그런 걸까?",
+			null,
+			null,
+			"Is it because the view is so spacious?",
+			"Is it because of the prospect?"
+		]
+	],
+	"10744": [
+		[
+			"speaker",
+			320810
+		],
+		[
+			"portraits",
+			[
+				30785,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733328,
+			null,
+			"我要搭地铁，但我现在在检票口外站着。",
+			"どうしたんだい？——私？地下鉄に乗ろうとしているけど、改札の前に立っているしかない状況なんだ。",
+			"무슨 일이야?——나? 지하철을 타려고 하는데, 개찰구 앞에 서 있을 수밖에 없는 상황이야.",
+			null,
+			null,
+			"I need to take the subway, but I'm standing outside the ticket gate right now.",
+			"What's wrong with you? --Me? I'm trying to get on the subway, but I'm in a situation where I have to stand in front of the turnstiles."
+		],
+		[
+			"msg",
+			733329,
+			null,
+			"二维码还在转圈，手机提示要重新登录发验证码。",
+			"ICカードは弾かれるし、スマホは再ログインにワンタイムパスワードの手続きが必要だと表示されててね……。",
+			"IC 카드는 안 되고, 스마트폰은 재로그인에 일회용 비밀번호 절차가 필요하다고 나오고…….",
+			null,
+			null,
+			"The QR code was still spinning and the phone prompted to log back in to send a verification code.",
+			"My IC card is being played, and my phone is showing that I need to go through the one-time password process to log in again. ......"
+		],
+		[
+			"msg",
+			733330,
+			null,
+			"这就是用扫码APP乘地铁给我带来的自信！",
+			"クッ……私は文明の利器を使いこなしてみせるぞ！",
+			"큭…… 나는 문명의 이기를 잘 다뤄 보이겠어!",
+			null,
+			null,
+			"That's how much confidence riding the subway with the scanner app has given me!",
+			"Kk ...... I'm going to be civilized and I'm going to use my skills!"
+		]
+	],
+	"10745": [
+		[
+			"speaker",
+			320813
+		],
+		[
+			"portraits",
+			[
+				30788,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733331,
+			null,
+			"你也喜欢……这种狭小的地方吗？",
+			"あなたも……こういう狭い場所が好きなの？",
+			"너도…… 이런 좁은 장소를 좋아해?",
+			null,
+			null,
+			"Do you also like the tight quarters of ......?",
+			"Do you also like ...... these small places?"
+		],
+		[
+			"msg",
+			733332,
+			null,
+			"咕嘿嘿……很安心呢……还会被乘电梯的人用鄙夷的目光注视……嘻嘻……",
+			"フヒヒ……なんだかすごく落ち着くわ……エレベータに乗ってきた人にも変なものを見る目で見てもらえるし……フ……フフ……。",
+			"훗훗…… 왠지 굉장히 안정감이 느껴져…… 엘리베이터에 탄 사람들한테도 이상한 눈빛으로 쳐다보여지고…… 훗…… 훗훗…….",
+			null,
+			null,
+			"Goo hehehe ...... it's very reassuring it ...... will also be gazed at by people riding the elevator with disdain ...... hehehehe ......",
+			"It's kind of very relaxing ...... fuh ...... I can get people on the elevator to look at me like I'm looking at something weird ...... fuh It's ......ffff......."
+		],
+		[
+			"msg",
+			733333,
+			null,
+			"……#n你怎么不用那种目光注视我……？",
+			"……#nところで、あなたはなんでそういう目で私のことを見ないわけ……？",
+			"……#n그런데, 너는 왜 그런 눈으로 나를 보지 않는 거야……?",
+			null,
+			null,
+			"...... Why don't you look at me with that gaze ......?",
+			"......By the way, why don't you look at me that way......?"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				12,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733334,
+			null,
+			"嗯？我觉得你的爱好蛮有趣的啊。",
+			"えっ？だってあなたの趣味、なんだかすごく面白いな～って思って。",
+			"어? 왜냐하면 네 취향, 뭔가 엄청 재미있을 것 같아서~.",
+			null,
+			null,
+			"Uh-huh? I think you have an interesting hobby.",
+			"Eh? Because I thought your hobby was kind of very interesting."
+		],
+		[
+			"speaker",
+			320813
+		],
+		[
+			"portraits",
+			[
+				30788,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733335,
+			null,
+			"那样……就……没意思了…………",
+			"それじゃあ……なんだか……つまらないわ…………。",
+			"그럼…… 뭔가…… 재미없어………….",
+			null,
+			null,
+			"That would ...... be ...... pointless ............",
+			"Then it's ...... something ...... boring ............."
+		]
+	],
+	"10746": [
+		[
+			"speaker",
+			320814
+		],
+		[
+			"portraits",
+			[
+				30789,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733336,
+			null,
+			"记住，十分钟后VIP就会抵达这里，护盾的工作情况怎么样？",
+			"いいか、10分後にVIPがここに到着する。シールドの準備は出来ているか？",
+			"잘 들어, 10분 후에 VIP가 여기에 도착한다. 실드 준비는 되어 있나?",
+			null,
+			null,
+			"Remember, the VIPs will be here in ten minutes. How are the shields working?",
+			"Listen, the VIPs will be here in 10 minutes. Are the shields ready?"
+		],
+		[
+			"speaker",
+			320815
+		],
+		[
+			"portraits",
+			[
+				30790,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733337,
+			null,
+			"OK，这次依旧是用实弹对吧？",
+			"OKです。今回も実弾を使うんですよね？",
+			"OK입니다. 이번에도 실탄을 쓰는 거죠?",
+			null,
+			null,
+			"OK, we're still using live rounds this time, right?",
+			"OK. You are going to use live ammunition again, right?"
+		],
+		[
+			"speaker",
+			320814
+		],
+		[
+			"portraits",
+			[
+				30789,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733338,
+			null,
+			"对……等等，那个金发女，你在偷听什么呢？",
+			"そうだ……待て。そこの金髪女、お前何盗み聞きしてる？",
+			"그래…… 잠깐. 저기 금발 여자, 너 뭐 몰래 듣고 있어?",
+			null,
+			null,
+			"Yeah ...... wait, that blonde, what are you eavesdropping on?",
+			"That's right. ...... Wait. What are you eavesdropping on, you blonde bitch?"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				15,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733339,
+			null,
+			"啊……哈哈哈哈~",
+			"あ……あははは～。",
+			"아…… 아하하하~.",
+			null,
+			null,
+			"Ah ...... hahahahahaha~",
+			"Ah ...... haha~!"
+		]
+	],
+	"10747": [
+		[
+			"speaker",
+			320812
+		],
+		[
+			"portraits",
+			[
+				30787,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733340,
+			null,
+			"对，收件人名字就是“无情沙马客”，那个就是我。",
+			"そう、受取人の名前は「無情のビジュアル系」でしょ？それ、僕なんだ。",
+			"그래, 수취인 이름은 「무정의 비주얼계」 맞지? 그거, 나야.",
+			null,
+			null,
+			"Yes, the name of the recipient is \"Ruthless Shamark\", that's me.",
+			"Yes, the recipient's name is \"Relentless Visualizer,\" right? That's me."
+		],
+		[
+			"msg",
+			733341,
+			null,
+			"那个叫“山本”的也是我。",
+			"その「ヤマモト」っていうのも僕だよ。",
+			"그 「야마모토」라는 것도 나야.",
+			null,
+			null,
+			"That Yamamoto guy is me, too.",
+			"That \"Yamamoto\" is me, too."
+		]
+	],
+	"10748": [
+		[
+			"speaker",
+			320816
+		],
+		[
+			"portraits",
+			[
+				30791,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733342,
+			null,
+			"呜呜！大姐头！真的要这么做吗！",
+			"ううっ！姉貴！本当にそんな事するんですか！",
+			"우웅! 누나! 정말로 그런 일 하는 거야!",
+			null,
+			null,
+			"Woo-hoo! Big Sister! Do you really have to do this!",
+			"Ugh! Sis! Are you really going to do that?"
+		],
+		[
+			"speaker",
+			320817
+		],
+		[
+			"portraits",
+			[
+				30792,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733343,
+			null,
+			"对，就是得纹一整个长空市的地图在你背上。",
+			"そうだ。長空市全体の地図の入れ墨をお前の背中に彫るんだよ。",
+			"그래. 장공시 전체 지도를 네 등에 문신으로 새겨주겠어.",
+			null,
+			null,
+			"Yeah, it means you have to tattoo a map of the entire city of Long Hollow on your back.",
+			"That's right. I'm going to tattoo a map of the entire city of Changkuo on your back."
+		]
+	],
+	"10749": [
+		[
+			"speaker",
+			320818
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30803,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			733344,
+			null,
+			"您好，请出示证件。",
+			"こんにちは。IDを見せて下さい。",
+			"안녕하세요. 신분증을 보여주세요.",
+			null,
+			null,
+			"Hello, please show me your ID.",
+			"Hi, I need to see your ID."
+		],
+		[
+			"msg",
+			733345,
+			null,
+			"嗯，巫小姐是吗……之前在西伯利亚要塞的观察团工作，再之前是在极乐都……真是辛苦您了。需要我带您去教务楼吗？",
+			"巫さんですね、ありがとうございます。この前はシベリア要塞の視察団の仕事、その前は極楽都の件もありましたし……本当にお疲れ様でした。それでは、教務棟へご案内します。",
+			"무 씨이시군요, 감사합니다. 이번에는 시베리아 요새 시찰단 업무, 그 전에는 극락도 사건도 있었고... 정말 수고 많으셨습니다. 그럼 교무동으로 안내해 드리겠습니다.",
+			null,
+			null,
+			"Well, Ms. Woo is it ...... Before that, I was working in the observer mission of Siberian Fortress, and before that, I was in the Polar Capital ...... It's really hard for you. Do you need me to take you to the faculty building?",
+			"You are Miko, thank you very much. I really appreciate your hard work on the Siberian Fortress inspection team work, and before that, on the Paradise Metropolis ....... Now, let me show you to the teaching building."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30803,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733346,
+			null,
+			"我认识路。",
+			"大丈夫よ。",
+			"괜찮아요.",
+			null,
+			null,
+			"I know the way.",
+			"It's okay."
+		],
+		[
+			"speaker",
+			320818
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30803,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			733347,
+			null,
+			"学园的各个区域是会定期调节位置的，您要去的H区现在位于最南边。",
+			"ですが……学園の各施設は定期的に位置が入れ替わっていまして、もし教務棟に行かれる場合、現在は一番南側にありますからね。",
+			"하지만... 학원의 각 시설은 정기적으로 위치가 바뀌고 있어서, 만약 교무동에 가실 경우 현재는 가장 남쪽에 있답니다.",
+			null,
+			null,
+			"The zones of the school are regularly adjusted in position, and the H zone you are going to is now located in the southernmost part.",
+			"But ...... each facility at the school changes location periodically, so if you are going to the teaching building, it is currently the most southerly one, you know."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30803,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733348,
+			null,
+			"我向她亮了另一张证件，#n一张过期的学生证。",
+			"私は別のIDカードを見せた。#n——昔使っていた学生証だ。",
+			"나는 다른 ID 카드를 보여주었다.#n——예전에 사용하던 학생증이었다.",
+			null,
+			null,
+			"I flashed her another piece of identification, an expired student ID.",
+			"I showed him another ID card. -- my old student ID card."
+		],
+		[
+			"speaker",
+			320818
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30803,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			733349,
+			null,
+			"原来如此，是我多虑了。",
+			"……そういう事でしたか。いらぬ心配でしたね。",
+			"...그런 일이었군요. 쓸데없는 걱정이었네요.",
+			null,
+			null,
+			"I see. I was overthinking it.",
+			"...... That's what you meant. That was an unnecessary worry."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30803,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733350,
+			null,
+			"她对我露出微笑。",
+			"そう言うと彼女は私に向かって微笑んだ。",
+			"그렇게 말하며 그녀는 나를 향해 미소를 지었다.",
+			null,
+			null,
+			"She flashed me a smile.",
+			"She smiled at me as she said this."
+		],
+		[
+			"speaker",
+			320818
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30803,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			733351,
+			null,
+			"欢迎回家。",
+			"おかえりなさい。",
+			"어서 오세요.",
+			null,
+			null,
+			"Welcome home.",
+			"Welcome back."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30803,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733352,
+			null,
+			"嗯，回来的感觉真好。",
+			"ただいま。こうして温かく迎えてくれる人が居るのは、すごく気持ちがいいものね。",
+			"다녀왔어. 이렇게 따뜻하게 맞아주는 사람이 있다는 건 정말 기분 좋은 일이야.",
+			null,
+			null,
+			"Well, it's good to be back.",
+			"I'm home. It feels so good to have someone who welcomes you warmly like this."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30803,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			733353,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"bgm",
+			39
+		],
+		[
+			"msg",
+			733354,
+			null,
+			"——[H-1到了，H-1到了，下车请带好随身物品。]——",
+			"—［H-1に到着しました。H-1に到着しました。お降りの際には忘れ物のないようご注意下さい。］—",
+			"—［H-1에 도착했습니다. H-1에 도착했습니다. 내리실 때는 분실물이 없도록 주의해 주세요.］—",
+			null,
+			null,
+			"--[H-1 is here, H-1 is here, please take your belongings with you when you get off.] --",
+			"-[You have arrived at H-1 You have arrived at H-1. Please make sure you do not forget anything when disembarking.] -[You have arrived at H-1."
+		]
+	]
+}

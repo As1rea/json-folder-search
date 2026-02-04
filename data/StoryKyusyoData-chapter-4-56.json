@@ -1,0 +1,4222 @@
+{
+	"196": [
+		[
+			"speaker",
+			204662
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301957,
+			"Most parts on the list have been collected.",
+			"清单上的零件已经基本收集完毕。",
+			"リストの部品は大体集め終わりました。",
+			"리스트의 부품은 대체로 모으기 끝났습니다.",
+			"The group has finished collecting most of the parts on the list.",
+			null,
+			"The parts on the list have largely been collected.",
+			"I have finished collecting most of the parts on the list."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301958,
+			"Okay, check the load distribution and return immediately.",
+			"好，确认负重分配，立即返回。",
+			"よし、重量の分配を確認してすぐに帰るわよ。",
+			"좋아, 중량 배분을 확인하고 바로 돌아갈게.",
+			null,
+			null,
+			"Okay, confirm weight distribution and return immediately.",
+			"Okay, I'll check the weight distribution and be right back."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301959,
+			"Roger that.",
+			"是。",
+			"はい。",
+			"네.",
+			null,
+			null,
+			"Yes.",
+			"Yes."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301960,
+			"At least we did it... The mission is 50% complete now. Hope Hyperion is all good.",
+			"总算是有惊无险…这样至少任务已经完成了一半了，希望休伯利安号那边能平安无事。",
+			"ここまでずっと生きた心地がしなかったわね……でも、これで少なくとも任務の半分は完了ね。ハイペリオン号の方も無事でいてくれればいいんだけど。",
+			"여기까지 계속 살아있는 기분이 없었네…… 하지만, 이제 적어도 임무의 절반은 완료네. 히페리온호 쪽도 무사히 있어주면 좋겠는데.",
+			"At least we did it... The mission is 50% complete now. I hope the Hyperion is still alright.",
+			null,
+			"It was a scare...so at least the mission is half done...hopefully the Huberian will be safe.",
+			"I haven't felt alive all the way here ......, but that's at least half of the mission done. I hope the Hyperion is safe and sound as well."
+		],
+		[
+			"msg",
+			301961,
+			"Here you are, these are your loads. It will be a lot more difficult to go back, don’t fall behind.",
+			"拿着，这些是你的负重，回去的路可比来时要艰难多了，不要掉队。",
+			"ほら、持って。これはあなたの分よ。帰り道は来たときよりも大変だから遅れないようにね。",
+			"자, 가져. 이건 네 몫이야. 돌아가는 길은 올 때보다 힘들 거니까 늦지 않게 해.",
+			"Here, take these, they're for <color=#cc66ffFF>you</color>. The way back is a lot tougher, so don't fall behind.",
+			null,
+			"Take this, these are your load, the way back can be much tougher than when you came, don't fall behind.",
+			"Here, take it. This is for you. The way back is harder than the way you came, so don't be late."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			301962,
+			"Roar--!",
+			"吼吼吼——！",
+			"グルルル——！",
+			"그르르르——!",
+			null,
+			null,
+			"Ho-ho-ho-ho!",
+			"Grrrr--!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301963,
+			"What’s that sound!?",
+			"这个声音是！？",
+			"この音は！？",
+			"이 소리는!?",
+			null,
+			null,
+			"This voice is!",
+			"What is that sound!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301964,
+			"Captain Himeko! Look at the sky! It’s that dragon!",
+			"姬子队长！看天上！是那条巨龙！",
+			"姫子隊長！上です！あのドラゴンです！",
+			"히메코 대장! 위입니다! 저 드래곤입니다!",
+			"Captain Himeko! Look up in the sky! It's that giant dragon!",
+			null,
+			"Captain Himeko! Look up in the sky! It's that giant dragon!",
+			"Captain Himeko! It's up there! It's that dragon!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301965,
+			"Tsk! Dammit! How did it catch up so fast!",
+			"啧！见鬼！居然这么快就追上来了么！",
+			"もう！なんてこと！こんなに早く追ってくるなんて！",
+			"아니! 맙소사! 이렇게 빨리 쫓아오다니!",
+			null,
+			null,
+			"Sheesh! Damn! They're catching up so fast!",
+			"Oh, my God! Oh, my God! I can't believe they followed us so fast!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			301966,
+			"Roar--!",
+			"吼吼吼——！",
+			"グォォォォォ！！！！",
+			"그오오오오오!!!!",
+			null,
+			null,
+			"Ho-ho-ho-ho!",
+			"Guv: ！！！！"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301967,
+			"It’s gone... I think it didn’t see us.",
+			"飞走了…似乎没有发现我们。",
+			"飛んでった……私たちのことは見えていなかったのかしら。",
+			"날아갔어…… 우리를 보지 못했을까?",
+			null,
+			null,
+			"Flew away...didn't seem to notice us.",
+			"I wonder if he didn't see us flying ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301968,
+			"That direction... No! It’s targeting Hyperion!",
+			"那个方向是…不对！它的目标是休伯利安号！",
+			"あの方角は……マズい！あいつの目標はハイペリオン号よ！",
+			"저 방향은…… 안 되겠어! 저 녀석의 목표는 히페리온호야!",
+			null,
+			null,
+			"That direction is...no! It's aiming at the USS Huberian!",
+			"That direction is ...... bad! His target is the Hyperion!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301969,
+			"Captain! We had a report from the sentinel in front! Lots of Houkai creatures have appeared around the car park! We are surrounded!",
+			"队长！前方哨位报告！在停车场周围出现大量崩坏生物！我们被包围了！",
+			"隊長！前方の見張りから報告です！スクラップ工場の周囲に大量の崩壊生物が出現！包囲されました！",
+			"대장! 전방 감시초소에서 보고입니다! 스크랩 공장 주변에 대량의 붕괴 생물이 출현! 포위되었습니다!",
+			null,
+			null,
+			"Captain! Forward post report! A large number of collapsed creatures have appeared around the parking lot! We're surrounded!",
+			"Captain! Sir! The forward lookout reports! A large number of disintegrating organisms have appeared around the scrap yard! We're surrounded!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301970,
+			"Seems the Herrscher wants to destroy us all... Everyone, arm yourselves! Prepare to break through!",
+			"看来律者是要把我们全部消灭…命令所有人全副武装！准备突围！",
+			"どうやら律者はここで私たちを消滅させるつもりのようね……全員完全武装！突破用意！",
+			"유라가 여기서 우리를 소멸시킬 작정인가 �... 전원 완전무장! 돌파 준비!",
+			null,
+			null,
+			"It looks like the Herrscher is going to wipe us all out...order everyone to arm themselves! Prepare to break out!",
+			"Looks like the scribes intend to annihilate us here. ...... All fully armed! Prepare to breach!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301971,
+			"Got it!",
+			"是！",
+			"はッ！",
+			"하앗!",
+			null,
+			null,
+			"Yes!",
+			"Ha!"
+		]
+	],
+	"197": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			301972,
+			"Dadada!",
+			"哒哒哒！",
+			"ダダダッ——！",
+			"다다닥!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dah-dah--!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301973,
+			"Everyone, keep up! Focus fire to create a breaking point!",
+			"所有人跟上！集中火力创造突破口！",
+			"全員続けっ！火力を集中して突破口を開くわよ！",
+			"전원 계속 전진! 화력 집중해서 돌파구를 열 거야!",
+			null,
+			null,
+			"Everybody follow! Concentrate your firepower to create a breach!",
+			"Everybody keep up! Concentrate your firepower and we'll make a breakthrough!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301974,
+			"Captain! Many Houkai creatures have appeared on the left flank! We are under attack from both sides!",
+			"队长！左翼出现大量崩坏生物！我们被夹击了！",
+			"隊長！左翼から大量の崩壊生物が！このままでは挟み撃ちです！",
+			"대장! 좌익에서 대량의 붕괴 생물이! 이대로는 협공당할 겁니다!",
+			"Captain! Many Honkai beasts have appeared on the left flank! We are under attack from both sides!",
+			null,
+			"Captain! A large number of collapsed creatures have appeared on the left flank! We're being pinned down!",
+			"Captain! Massive disintegrating organisms coming from the left flank! If we don't do something, we'll be pinched!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301975,
+			"Dammit! Take cover! Establish firebase! We can’t let them come close!",
+			"可恶！寻找掩护！建立火力点！不能让它们压上来！",
+			"しまった！障壁となる壁を探して！迎撃ポイントを作るわ！あいつらを近づけたらダメよ！",
+			"젠장! 장벽이 될 벽을 찾아! 영격 포인트를 만들 거야! 저 녀석들을 가까이 오게 두면 안 돼!",
+			null,
+			null,
+			"Damn! Find cover! Establish a fire point! We can't let them get on top of us!",
+			"Sheesh! Look for a barrier wall! We'll make an intercept point! We can't let them get to us!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			301976,
+			"Dadada!",
+			"哒哒哒！",
+			"ダダダッ——！",
+			"다다닫——!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dah-dah--!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301977,
+			"Captain! There are too many Houkai creatures! We can’t last long! If they surround us, we can’t get out!",
+			"队长！崩坏生物太多了！我们支撑不了多久！如果崩坏兽的包围网形成我们就出不去了！",
+			"隊長！崩壊生物が多すぎます！もう、持ちこたえられません！崩壊獣に包囲網を完成させられたら、ここから出られなくなります！",
+			"대장! 붕괴 생물이 너무 많아요! 더는 버틸 수 없어요! 붕괴수에게 포위망을 완성시키면, 여기서 나갈 수 없게 됩니다!",
+			"Captain! There's too many Honkai beasts! We can't hold them for long! If they surround us, we'll never make it out of here!",
+			null,
+			"Captain! There are too many Avalanche creatures! We can't hold them for long! We can't get out if the Avalanche Beast's encircling net forms!",
+			"Captain! There are too many decaying organisms! We can't hold on any longer! If the Honkai Beasts complete their siege, we'll never get out of here!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301978,
+			"There are still too many of us. It’s hard for all of us to break through. Someone must play decoy to create an opportunity for the main force...",
+			"我们的人数还是太多了，要全部突围很困难，必须有人来牵制它们为大部队创造机会……",
+			"私たちの人数が多すぎる。全員でこの囲みを突破するのは難しいわ。誰かがあいつらを牽制して、部隊にチャンスを作らないと……。",
+			"우리 인원이 너무 많아. 전원이서 이 포위망을 돌파하는 건 어려워. 누군가가 저 녀석들을 견제해서 부대에 찬스를 만들어야지…….",
+			null,
+			null,
+			"We still have too many people, to all break out very difficult, must be someone to hold them to create opportunities for the big troops ......",
+			"There are too many of us. It's going to be hard for all of us to break through this enclosure. Someone has to keep those guys in check and create opportunities for the troops. ......"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301979,
+			"Captain Himeko, leave it to us!",
+			"姬子队长，把牵制的任务交给我们吧！",
+			"姫子隊長、牽制の役目は私たちに任せてください！",
+			"히메코 대장, 견제의 임무는 우리에게 맡겨 주세요!",
+			null,
+			null,
+			"Captain Himeko, give us the task of holding back!",
+			"Captain Himeko, leave the checking role to us!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301980,
+			"...Okay.",
+			"……好。",
+			"……分かったわ。",
+			"……알겠어.",
+			null,
+			null,
+			"...... is good.",
+			"...... Okay, I get it."
+		],
+		[
+			"msg",
+			301981,
+			"Take the explosives... Hope they can be of help.",
+			"这些炸药给你们…希望能派上用处。",
+			"この爆薬をあなたたちに渡すわ……うまく使ってね。",
+			"이 폭약을 너희들에게 넘겨줄게…… 잘 사용해.",
+			null,
+			null,
+			"These explosives are for you...hope they come in handy.",
+			"I'm going to give you guys these explosives and you can put them to good use at ......."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301982,
+			"Yeah. Thanks, Captain.",
+			"嗯，谢谢队长。",
+			"はい、ありがとうございます。隊長。",
+			"네, 감사합니다. 대장.",
+			null,
+			null,
+			"Well, thank you Captain.",
+			"Yes, thank you. Captain."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301983,
+			"Everyone else, follow me!",
+			"其他人跟我走！",
+			"他の者は私に続いて！",
+			"다른 자들은 나를 따라와!",
+			null,
+			null,
+			"The rest of you come with me!",
+			"The others follow me!"
+		],
+		[
+			"choice",
+			[
+				302218,
+				"I will also stay to defend.",
+				"我也留下来防守。",
+				"私も残って守る。",
+				"나도 남아서 지키겠어.",
+				null
+			],
+			[
+				302219,
+				"We can’t leave them.",
+				"不能丢下她们。",
+				"彼女たちを見捨てられない。",
+				"그녀들을 버려둘 수 없어.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			198
+		]
+	],
+	"198": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301984,
+			"Are you going to stay here and die!",
+			"你要留在这里送死么！",
+			"ここに残っていたら死ぬわよッ！",
+			"여기에 남아있으면 죽을 거야!",
+			null,
+			null,
+			"Are you going to stay here and die!",
+			"If you stay here, you will die!"
+		],
+		[
+			"msg",
+			301985,
+			"Follow my orders! This is the way Greymoths fight!",
+			"给我服从命令！这就是灰蛾部队的作战方式！",
+			"命令に従いなさい！これが灰蛾部隊の戦い方なのよ！",
+			"명령에 따르세요! 이것이 회아 부대의 싸움 방식이에요!",
+			null,
+			null,
+			"Obey my orders! That's how the Grey Moth troops fight!",
+			"Obey my orders! This is the way the Ash Moth Unit fights!"
+		],
+		[
+			"msg",
+			301986,
+			"We must live and go back! Or everyone will die! If you understand, get moving!",
+			"我们必须活着回去！不然所有人都得死！明白的话就给我动起来！",
+			"私たちは必ず生きて帰らなくちゃいけないの！さもないと全員死ぬのよ！分かったら動きなさい！",
+			"우리는 반드시 살아서 돌아가야 해요! 그렇지 않으면 모두 죽는 거예요! 알겠으면 움직이세요!",
+			null,
+			null,
+			"We have to get back alive! Or everyone will die! Move if you understand!",
+			"We have to make it back alive! Or we will all die! Now, move!"
+		],
+		[
+			"msg",
+			301987,
+			"Go!",
+			"走！",
+			"行くわよ！",
+			"갈 거예요!",
+			null,
+			null,
+			"Go!",
+			"Let's go!"
+		]
+	],
+	"199": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301988,
+			"We are almost at Hyperion! Everybody, prepare to help the ship!",
+			"马上就要到休伯利安了！大家打起精神！准备救援战舰！",
+			"もうすぐハイペリオンよ！みんな頑張って！着き次第、戦艦の救援行動に移るわよ！",
+			"곧 히페리온이에요! 모두 힘내요! 도착하는 대로 전함의 구원 작전으로 넘어갈 거예요!",
+			null,
+			null,
+			"It's almost time to get to Hublian! Brace yourselves, everyone! Prepare to rescue the battleship!",
+			"It's almost Hyperion! Good luck, everyone! As soon as we get there, we'll move in to rescue the battleships!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301989,
+			"We have detected lots of Houkai creatures in front, but there is no battle. Hyperion is safe for now.",
+			"报告，前方发现大量崩坏生物，但是并没有战斗发生，休伯利安现在安全。",
+			"報告します。前方に大量の崩壊生物を発見。ですが、まだ戦闘にはなっていません。ハイペリオンは現在のところ安全です。",
+			"보고합니다. 전방에 대량의 붕괴 생물을 발견. 하지만, 아직 전투는 벌어지지 않았습니다. 히페리온은 현재로선 안전합니다.",
+			null,
+			null,
+			"Report, a large number of Avalanche creatures have been spotted ahead, but there is no battle taking place and Hublian is now safe.",
+			"Report. A large number of disintegrating organisms were found in the front. However, there has been no battle yet. Hyperion is safe for now."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301990,
+			"They didn’t attack Hyperion? Are they waiting for us to get back and kill us all...",
+			"它们没有对休伯利安发动攻击？难道是想等我们到达后一网打尽么……",
+			"ハイペリオンに攻撃を加えていない？まさか、私たちが戻るのを待って一網打尽にするつもりなのかしら……？",
+			"히페리온에 공격을 가하지 않았어? 설마, 우리가 돌아오는 걸 기다려 일망타진하려는 건가......?",
+			null,
+			null,
+			"They didn't launch an attack on Hublian? Did they want to wait for us to arrive and kill them all ......",
+			"Have they not attacked Hyperion? Don't tell me they are waiting for us to return to round them up ......?"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301991,
+			"No matter what, we must return to the ship immediately. Everyone, prepare to attack. Watch your surroundings, Houkai creatures may attack any time.",
+			"不管怎么说，我们必须立刻返回战舰，全员准备突击，注意周围情况，崩坏生物可能会忽然发动进攻。",
+			"とにかく、今すぐ戦艦に戻らなくちゃ。全員突撃準備。周囲の状況に注意して。崩壊生物が突然攻撃を仕掛けてくるかもしれないわよ。",
+			"어쨌든, 지금 당장 전함으로 돌아가야 해요. 모두 돌격 준비. 주변 상황에 주의하세요. 붕괴 생물이 갑자기 공격을 해올지도 몰라요.",
+			null,
+			null,
+			"In any case, we must return to the warship immediately, all hands prepare to assault, pay attention to the surrounding situation, the collapse creatures may suddenly attack.",
+			"Anyway, we have to get back to the battleship now. All hands prepare to charge. Be aware of your surroundings. The disintegrating organisms may suddenly attack."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301992,
+			"Got it!",
+			"是！",
+			"はい！",
+			"네!",
+			null,
+			null,
+			"Yes!",
+			"Yes!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			301993,
+			"Roar!!",
+			"吼吼吼！！",
+			"ウオォォォーン！！",
+			"우오오오온!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Woah!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			301994,
+			"Woah!! We are gonna die! There’s no hope this time!",
+			"哇！！要死了！这次真的没希望了！",
+			"わあ！！死ぬ死ぬッ！今回こそ、本当にダメなやつ！",
+			"와아!! 죽는다 죽는다! 이번엔 정말로 안 되는 녀석!",
+			"Woah!! We're gonna die! There’s no hope this time!",
+			null,
+			"Wow!!! I'm going to die! There's really no hope this time!",
+			"Aah! I'm dying, dying! This time, a real bad one!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			301995,
+			"Shut the @#$* up! Take the weapon!",
+			"少OO啰嗦！给我把武器拿上！",
+			"うっさい、黙れっ！さっさと武器持って来い！！",
+			"시끄러, 닥쳐! 어서 무기 가져와!!",
+			"Stop ☆☆ing crying! Grab a weapon!",
+			null,
+			"Stop nagging! Get me the weapon!",
+			"Shut up! Shut up! Get your weapons and get in here!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301996,
+			"It’s all because of you! If Kyushou is here, we may still have some hope! What are we gonna do now!",
+			"都是因为你！要是把九霄说不定还有一丝希望！现在可怎么办！",
+			"全部あなたのせいよ！九霄が残っていればまだ一縷の望みがあったかもしれないのに！どうするのよ！",
+			"다 네 탓이야! 큐쇼가 남아있었더라면 아직 한 줄기 희망이 있었을 텐데! 어떻게 할 거야!",
+			"It's all your fault! If Kyuushou remained with us we'd still have a sliver of hope left! Now what are we giong to do!?",
+			null,
+			"It's all because of you! If the Kyuushou may have a ray of hope! Now what to do!",
+			"It's all your fault! If only Kyuushou had remained, there might still be a ray of hope! What are you going to do!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301997,
+			"Shut up!",
+			"闭嘴！",
+			"ぐちぐち言うな！",
+			"징징대지 마!",
+			null,
+			null,
+			"Shut up!",
+			"Stop mumbling!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301998,
+			"It’s useless... Himeko and Kyushou are both not here... How can we defeat her... We’re done, we’re done, we’re really done...",
+			"没用了…姬子和九霄都不在…凭我们怎么可能战胜她的…完了完了这下真的完了……",
+			"無駄よ……姫子も九霄もいないんだもの……私たちだけじゃ勝てないわよ……終わったわ。今度こそ完全に終わりよ……。",
+			"소용없어……히메코도 큐쇼도 없는 걸……우리들만으로는 이길 수 없어……끝났어. 이번에는 완전히 끝이야…….",
+			null,
+			null,
+			"useless ... Jiuzi and Kyuushou are not in ... with how we can beat her ... finished finished this is really finished ......",
+			"It's no use.......Without Himeko and Kyuushou, we can't win on our own.......It's over. This time it's completely over. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			301999,
+			"Dadada!",
+			"哒哒哒！",
+			"ドンッ！ダダダッ！！",
+			"쿵! 타다다다!!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Boom! Dah-dah-dah!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			302000,
+			"I heard the sound of fighting! Did the Houkai creatures start to attack!?",
+			"有战斗的声音！难道是崩坏生物发动攻击了！？",
+			"戦う音！ちっ、ついに崩壊生物がここまで攻撃を仕掛けてきたか！",
+			"싸우는 소리! 쳇, 드디어 붕괴 생물이 여기까지 공격을 해온 건가!",
+			null,
+			null,
+			"There are sounds of battle! Could it be that the Avalanche creatures have attacked!",
+			"The sound of fighting! Damn, the disintegrating creatures have finally attacked this far!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			302001,
+			"We are dying... Dying... Dying...",
+			"要死要死要死要死要死……",
+			"死ぬんだ、死ぬんだ、死ぬんだ……。",
+			"죽는 거야, 죽는 거야, 죽는 거야…….",
+			null,
+			null,
+			"To die to die to die to die to die ......",
+			"Die, die, die. ......."
+		],
+		[
+			"msg",
+			302002,
+			"Dying... Dying... Die... Why am I still alive?",
+			"要死…要死…要……怎么还没死？",
+			"死ぬんだ……死ぬんだ……死ぬ……あれ、死んでない？",
+			"죽는 거야……죽는 거야……죽어……어라, 안 죽었어?",
+			null,
+			null,
+			"To die ... to die ... to ...... how not yet dead?",
+			"I'm dying ...... I'm dying ...... I'm dying ...... Oh, no, you're not dead?"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302003,
+			"Did they give up because we don’t taste good!?",
+			"难道是因为我们太难吃了所以放弃了吧！",
+			"まさか、私たちが不味いことに気づいたのかしら！もしかして、諦めてくれた！？",
+			"설마, 우리가 위험한 걸 눈치챈 걸까! 포기해준 거야!?",
+			null,
+			null,
+			"Did we give up because it was too hard to eat!",
+			"No way, they must have figured out we're not good enough! Maybe they gave up on us!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302004,
+			"You shut up! Houkai creatures will never let us go. They must be planning something so they surrounded us...",
+			"你闭嘴！崩坏生物不可能放过我们，它们把我们包围起来一定是在计划着什么……",
+			"静かに！崩壊生物が人間を放っておくはずないだろう。こうして包囲したからには、きっと何か裏があるはずだ……。",
+			"조용히! 붕괴 생물이 인간을 내버려둘 리 없잖아. 이렇게 포위했으니 분명 뭔가 속셈이 있을 거야…….",
+			null,
+			null,
+			"You shut up! There's no way the Avalanche creatures will leave us alone, they must be planning something by surrounding us ......",
+			"Quiet! No disintegrating creature would leave humans alone. There must be something behind the scenes because they have surrounded us in this way. ......"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302005,
+			"Captain Himeko and others are back!",
+			"报告！姬子队长她们回来了！",
+			"報告します！姫子隊長たちが戻ってきました！",
+			"보고합니다! 히메코 대장님들이 돌아왔습니다!",
+			null,
+			null,
+			"Report! Captain Himeko and the girls are back!",
+			"Report! Captain Himeko and the others are back!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302006,
+			"Was that sound from Himeko? There’s Houkai creatures everywhere! We must help them!",
+			"刚才的战斗声是姬子她们么？外面都是崩坏生物！我们得去接应她们！",
+			"さっきの戦闘の音は姫子たちだったのか？外は崩壊生物だらけだ！迎えに行こうっ！",
+			"아까 전투 소리는 히메코 일행이었어? 밖은 붕괴 생물 투성이야! 마중 나가자!",
+			null,
+			null,
+			"Is the sound of battle just now Himeko and the girls? There are all the Avalanche creatures out there! We have to go get them!",
+			"Was that the sound of battle just now, Himeko and the others? There are disintegrating creatures everywhere outside! Let's go get them!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302007,
+			"Seems the Houkai creatures are not attacking them. The Greymoths have entered the ship.",
+			"崩坏生物似乎没有攻击她们，灰蛾部队已经进入舰内了。",
+			"いえ、崩壊生物は灰蛾部隊を攻撃していないようです。既に部隊員は艦内に入りました。",
+			"아니요, 붕괴 생물은 회아 부대를 공격하지 않은 것 같습니다. 이미 부대원들은 함내로 들어왔습니다.",
+			null,
+			null,
+			"The Avalanche creatures didn't seem to be attacking them, and the Grey Moth force had entered the ship.",
+			"No, the disintegrating organisms do not appear to have attacked the ash moth unit. The troopers have already entered the ship."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302008,
+			"No way...",
+			"怎么会……",
+			"なんだって……？",
+			"뭐라고……?",
+			null,
+			null,
+			"How can ......",
+			"What did you say ......?"
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"msg",
+			302009,
+			"Himeko! How are you!",
+			"姬子！你们怎么样！",
+			"姫子！どうだった！？",
+			"히메코! 어땠어!?",
+			"Himeko! How are you guys doing!",
+			null,
+			"Himeko! How are you guys doing!",
+			"Himeko! How was it!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302010,
+			"We’re fine... And we brought everything back safely.",
+			"没事…东西都安全带回来了。",
+			"大丈夫よ……部品は全て持って帰って来たわ。",
+			"괜찮아…… 부품은 모두 가지고 돌아왔어.",
+			null,
+			null,
+			"It's okay...everything is back safely.",
+			"It's okay. ...... I brought all the parts back."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302011,
+			"How could you be fine! You had more people when you left!",
+			"怎么可能没事！去的时候可不止你们几个啊！",
+			"何が大丈夫なんだ！ここを出たとき、もっと人がいただろう！他の隊員はどうした！？",
+			"뭐가 괜찮다는 거야! 여기를 나설 때 더 많은 사람들이 있었잖아! 다른 부대원들은 어떻게 된 거야!?",
+			null,
+			null,
+			"How can it be fine! There were more than a few of you there!",
+			"What the hell is okay with you! There were probably more people there when we left here! What happened to the rest of the squad!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302012,
+			"We were under attack from Houkai creatures. Others had died.",
+			"遇到了崩坏生物的袭击，其他的人都牺牲了。",
+			"崩壊生物の襲撃に遭って……ここにいない人たちはみんな犠牲になったわ。",
+			"붕괴 생물의 습격을 당해서…… 여기 없는 사람들은 모두 희생되었어.",
+			null,
+			null,
+			"The others were sacrificed when they were attacked by avalanche creatures.",
+			"We were attacked by a disintegrating organism and everyone who wasn't here ...... was sacrificed."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302013,
+			"Was it from the Houkai creatures outside!?",
+			"是外面的崩坏生物干的么！？",
+			"今、外にいる崩壊生物にやられたのか！？",
+			"지금 밖에 있는 붕괴 생물에게 당한 거야!?",
+			null,
+			null,
+			"Is it the work of the collapsed creatures outside!",
+			"Now you've been hit by the disintegrating organisms out there!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302014,
+			"No... We didn’t face too much resistance when we broke back in. Most of the loss was from the battles with their vanguard.",
+			"不…我们突破进来的时候没有收到太大的阻碍，是在与它们的先头部队的战斗中损失的。",
+			"いいえ……私たちが突破して入って来るとき、外のやつらはそれほど邪魔にならなかったわ。それよりも、あいつらの先遣部隊にやられたのよ。",
+			"아니요…… 우리가 돌파해 들어올 때 밖의 녀석들은 그다지 방해가 되지 않았어. 그보다는, 그들의 선견 부대에게 당한 거야.",
+			null,
+			null,
+			"No...we didn't receive much of an obstacle when we broke in, and were lost in the battle with their advance guard.",
+			"No. ...... When we broke through and came in, the guys outside weren't much of a hindrance. It was more their advance team that got us."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302015,
+			"Bastards! No matter what, it’s those @#$* Houkai creatures! Let’s attack them before they attack us!",
+			"混蛋！不管怎么说都是那帮OO崩坏生物干的！趁它们还没攻击我们先下手进攻吧！",
+			"クソッ！忌々しい崩壊生物どもめ！攻撃してこない今のうちに、こっちから仕掛けてやろう！",
+			"썅! 이 빌어먹을 붕괴 생물들! 공격 안 해오는 지금이 기회다, 우리가 먼저 덤벼주자!",
+			null,
+			null,
+			"Bastard! No matter what, it was those OO Avalanche creatures that did it! Let's attack before they attack us!",
+			"Damn you! Damn disintegrating creatures! While they're not attacking, let's get them while we still can!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302016,
+			"No, we cannot win with our current strength. I don’t know what they are waiting for, but the situation is good for us.",
+			"不行，以我们现在的战力主动出击是不可能有胜算的，虽然不知道它们在等什么，不过目前的状况对我们来说是好事。",
+			"ダメよ。今の私たちの戦力では、どう転んでも勝ち目がないわ。あいつらが何を待っているのか分からないけれど、今の状況は私たちにとって好都合よ。",
+			"안 돼. 지금 우리 전력으론 어찌 되든 이길 수 없어. 저것들이 뭘 기다리는진 몰라도, 지금 상황은 우리에겐 오히려 유리해.",
+			null,
+			null,
+			"No, there is no way we can win by taking the initiative with our current battle power. I don't know what they are waiting for, but the current situation is good for us.",
+			"No, we can't. With our current strength, we don't stand a chance no matter what. I don't know what they are waiting for, but the situation is favorable for us."
+		],
+		[
+			"msg",
+			302017,
+			"Yssring, fix the power furnace with the parts collected as soon as possible. We may have a chance to break through with Hyperion.",
+			"伊瑟琳，你赶紧用收集到的零件把动力炉修好，我们依靠着休伯利安号或许还有机会突破重围。",
+			"イザーリン、今すぐ集めた部品で動力炉を修理して。ハイペリオン号さえ直れば、この包囲を突破できるはずよ。",
+			"이자린, 지금 당장 모은 부품으로 동력로를 수리해. 히페리온호만 고치면 이 포위망을 돌파할 수 있을 거야.",
+			"Yiserin, fix the power furnace with the parts collected as soon as possible. We may have a chance to break through with Hyperion.",
+			null,
+			"Estherine, you hurry with the collected parts to repair the power furnace, we rely on the Huberian may still have a chance to break through the siege.",
+			"Estherine, repair the power reactor with the parts you've gathered right now. As long as the Hyperion is fixed, we should be able to break through this siege."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302018,
+			"Yes, I’m on it.",
+			"好的，我这就去。",
+			"分かった。すぐに取りかかる。",
+			"알겠어. 바로 시작할게.",
+			null,
+			null,
+			"Okay, I'm on my way.",
+			"Ok, I'll get right on it. I'll get right on it."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			302019,
+			"The rest of you, prepare the fortification with me. We will have a tough battle after they are fixed... Ouch!",
+			"其他人跟我准备火力工事，等修理完毕后一场硬仗是免不了的……呃！",
+			"他の人たちは防御方面の工事を準備して。動力炉の修理が終わったら激しい戦いになるのは間違いないわ……うっ！",
+			"다른 사람들은 방어 시설 구축 준비해. 동력로 수리가 끝나면 본격적인 전투가 시작될 테니까... 으악!",
+			null,
+			null,
+			"The rest of you and I prepare fire fortifications, when the repair is completed a hard battle is inevitable ...... uh!",
+			"The others get ready to work on the defensive side. Once the power reactor is repaired, you can bet it's going to be a fierce battle. ...... Ugh!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			302020,
+			"Himeko, are you okay?!",
+			"姬子你没事吧！",
+			"姫子、大丈夫！？",
+			"히메코, 괜찮아!?",
+			null,
+			null,
+			"Are you okay, Himeko?",
+			"Himeko, are you okay!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302021,
+			"I’m fine, don’t worry...",
+			"没事，不要管我……",
+			"大丈夫よ。放っておいて……。",
+			"괜찮아. 신경 쓰지 마...",
+			null,
+			null,
+			"It's okay, leave me alone ......",
+			"It's okay. Just leave it alone and go to ......."
+		]
+	],
+	"200": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302022,
+			"The surrounding Houkai creatures are still not moving. What are they waiting for...",
+			"周围的崩坏生物依然没有动静，它们到底在等什么……",
+			"周囲の崩壊生物はまだ動きがないわね。一体何を待っているのかしら……。",
+			"주변 붕괴 생물들은 아직 움직임이 없네. 대체 뭘 기다리고 있는 거지...",
+			null,
+			null,
+			"The surrounding collapsing creatures still haven't moved, what are they waiting for in the end ......",
+			"Still no movement on the surrounding decaying organisms. I wonder what on earth they are waiting for. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302023,
+			"Himeko, the engine repairs are done... I have done my best with the parts you brought back. However, they are just substitutes, the power furnace can only run for a few hours...",
+			"姬子，引擎已经修理完毕了…我已经做了那些带回来的零件能修理的极限了，但是那毕竟只是代替品，只能支撑动力炉运作几个小时而已……",
+			"姫子、エンジンの修理が終わったよ……持ち帰ってきた部品でできる限りの修理はしたわ。だけど代替品でしかないから、動力炉を動かせるのは数時間かも……。",
+			"히메코, 엔진 수리 끝났어... 가져온 부품으로 최대한 수리했어. 하지만 임시처리일 뿐이라 동력로 가동은 몇 시간밖에 못 버틸 거야...",
+			null,
+			null,
+			"Himeko, the engine has been repaired ... I have done the limit of those brought back parts can repair, but that is only a substitute after all, can only support the operation of the power furnace for a few hours only ......",
+			"Himeko, I've finished repairing the engine ...... as best I can with the parts I brought back. But they're only replacements, so I may only be able to run the power reactor for a few hours. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302024,
+			"So if the power furnace is down again, we will face the same situation...",
+			"也就是说如果动力炉再次瘫痪，我们还将遇到与现在同样的状况么……",
+			"つまり、また動力炉が壊れてしまうかもしれないのね。最悪、今と同じ状況に陥る可能性もあると……。",
+			"그 말은 또 동력로가 망가질 수도 있다는 거네. 최악의 경우 지금 같은 상황이 재현될 수도 있다고...",
+			null,
+			null,
+			"That means if the power furnace goes down again, we will be in the same situation as now ......",
+			"So the power reactor could break down again. Worst case scenario, we could end up in the same situation as we are now. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302025,
+			"Right...",
+			"是的……",
+			"そうよ……。",
+			"그래…….",
+			null,
+			null,
+			"Yes ......",
+			"Yes, ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302026,
+			"We can leave the Nagazora area with a few hours. There is more unknown outside, seems we just have to hand our fate to the god.",
+			"如果有几小时的话就能够驶出长空市范围了，对于我们来说外面是更加未知的地方，看来只能将命运交给上天了。",
+			"数時間あれば長空市の影響外へと抜け出せるわ。ただ、私たちにとって外は未知の場所も同然……より危険な場所かもしれない。こればっかりは、天に命運を預けるしかなさそうね。",
+			"몇 시간이면 창공시의 영향권 밖으로 벗어날 수 있어. 다만 우리에겐 외부는 미지의 영역과 마찬가지야... 더 위험한 곳일지도 몰라. 이건 정말 하늘에 운명을 맡길 수밖에 없을 것 같네.",
+			null,
+			null,
+			"If we had a few hours we would have been able to sail out of the city limits of Longkong, for us outside is more unknown, it seems that we can only leave our fate to the heavens.",
+			"A few hours is all it takes to get out of the influence of Changkuu City. But for us, the outside may be as dangerous as the unknown, if not more dangerous than ....... I guess we'll just have to leave our fate in the hands of the heavens."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302027,
+			"If those Houkai creatures keep coming after us, we still have to fight them! Then why don’t we just fight them here! Our winning chance will only decrease if they keep running us down!",
+			"如果那些崩坏生物继续追着我们的话还是免不了与它们一战！既然这样不如在这里就决一死战！这样消耗下去我们的胜率只会越来越小！",
+			"どっちにしろあの崩壊生物たちは追ってくるだろ！？追いかけっこで精神を疲弊させるくらいなら、ここで迎え撃ってやろうじゃんか！このまま消耗していったら勝率がどんどん下がる一方だぞ！",
+			"어차피 저 붕괴 생물체들이 쫓아오는 거잖아!? 쫓고 쫓기며 정신을 피폐하게 만드는 것보다, 여기서 맞서 싸우는 게 나아! 이렇게 계속 소모전을 벌이다간 승률은 점점 떨어질 거야!",
+			null,
+			null,
+			"If those collapsed creatures continue to chase us, it is still inevitable to fight with them! If that's the case, let's fight to the death right here! Our chances of winning will only get smaller and smaller if we continue to consume like this!",
+			"Those disintegrating creatures are going to come after us anyway! Instead of exhausting our spirit by chasing after them, why don't we just intercept them here! If we continue to wear them down, our odds of winning will only get worse and worse!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302028,
+			"......",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302029,
+			"I actually have a suggestion... But I’m not sure if I should say it...",
+			"其实我一直有一个建议…不知道该不该说……",
+			"ね、ねぇ……実はずっと言おうか迷ってたんだけど……言うべきか分からなくて……。",
+			"저기…… 사실 계속 말하려고 망설이고 있었는데…… 말해야 할지 몰라서…….",
+			null,
+			null,
+			"In fact, I have always had a suggestion ... do not know whether to say ......",
+			"Hey, hey ...... I've actually been thinking about saying this for a long time, but I wasn't sure if I should ...... say it."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302030,
+			"Not like you are going to say anything else other than running away...",
+			"反正你除了逃跑就没有别的建议了吧……",
+			"イザーリン、どうせ逃げるに一票とか言うんだろう。",
+			"이자린, 도망치기에 한 표 던진다든가 할 거 아니야?",
+			null,
+			null,
+			"Anyway, you have no other advice except to run away, right ......",
+			"Estherine, I'm sure you'll say you voted to run anyway."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302031,
+			"No, what I mean is... Maybe we can choose to go back to ME Corp..",
+			"不，我的意思是…也许我们选择可以回到ME社……",
+			"ち、違うもん。私の意見っていうのは……ME社に戻ってもいいんじゃないかなと思って……。",
+			"아, 아닌걸. 내 의견은…… ME사로 돌아가도 되지 않을까 생각해서…….",
+			null,
+			null,
+			"No, I mean...maybe we choose to be able to go back to ME Society ......",
+			"Hey, it's not the same. My opinion is that it would be good to go back to ......ME company. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302032,
+			"Being smart is your only advantage... But this time, did you lose your mind...",
+			"你这家伙脑袋聪明是唯一的优势，这次终于连智商也吓掉了么……",
+			"はぁ？頭の良さが唯一の取り柄だっていうのに、頭溶けちゃったのか……？",
+			"하아?? 머리가 좋다는 게 유일한 장점이라면서, 머리가 녹아버린 거야……?",
+			null,
+			null,
+			"You guys are the only advantage of smart head, this time finally even the IQ also scared off it ......",
+			"Huh? You say your smarts are the only thing you've got going for you, and now your head's melted ......?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302033,
+			"Yssring, what’s your thought?",
+			"伊瑟琳，你有什么想法么？",
+			"イザーリン、あなたの考えを聞かせて。",
+			"이자린, 네 생각을 말해 봐.",
+			"Yiserin, what’s your thought?",
+			null,
+			"Estherine, do you have any ideas?",
+			"Estherine, let me know what you think."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302034,
+			"Do you remember the last time after the Herrscher attacked? A Houkai energy vacuum was formed around ME Corp, so Houkai creatures disappeared for a few days... If we can utilize that few days and get parts from the mekas in ME Corp, maybe we can fix the power furnance completely...",
+			"你们还记得之前一次律者攻击后的情形么？ME社周围形成了崩坏能的真空区导致崩坏生物消失了几天…如果利用这几天的安全期在ME社用那些机甲的零件的话，说不定能修好动力炉……",
+			"前回、律者に攻撃された後のこと覚えている？ME社の周囲に崩壊エネルギーの真空エリアが現れて崩壊生物が消えたでしょ……まだ真空エリアが残っていれば、安全な状況下でME社の機甲部品を取りつつ動力炉を直せるかも……。",
+			"지난번에 율자에게 공격당한 후의 일 기억나? ME사 주변에 붕괴 에너지의 진공 지대가 나타나서 붕괴 생물체가 사라졌잖아…… 아직 진공 지대가 남아 있다면, 안전한 상황에서 ME사의 기갑 부품을 수거하면서 동력로를 고칠 수 있을지도…….",
+			null,
+			null,
+			"Do you remember the situation after the previous attack of the Ruler, the formation of a vacuum of disintegration energy around the ME Society caused the disintegration creatures to disappear for a few days ... If you use these days of safety in the ME Society with those mecha parts, maybe we can fix the power furnace ......",
+			"Do you remember after the last time the law attacked us, a vacuum area of disintegrating energy appeared around the ME company and the disintegrating organisms disappeared. ...... If there is still a vacuum area, maybe we can fix the power reactor while taking the ME company's armored parts under safe circumstances. ......."
+		],
+		[
+			"msg",
+			302035,
+			"Maybe we can also find Bronya...",
+			"而且，说不定还能找回布洛妮娅……",
+			"それに、ブローニャを探し出せるかもしれない……。",
+			"게다가, 브로냐를 찾아낼 수 있을지도 몰라…….",
+			null,
+			null,
+			"And, maybe even get back Bronya ......",
+			"Besides, you might be able to find Bronya at ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302036,
+			"...But returning to the ME Corp means we will face the Herrscher directly. Also, if we head back now, the vacuum will soon end, so it is not any less dangerous.",
+			"……但是回到ME社也就意味着将再次与律者正面交锋，而且我们现在回去，真空期的时间也即将结束，危险程度并不会降低。",
+			"……でも、ME社に戻るということは、また律者と正面からぶつかることになるのよ。それに私たちが今戻っても、真空エリアがそう長く続くとは思えない。危険なのには変わりないわよ。",
+			"……하지만 ME사로 돌아간다는 건, 다시 율자와 정면으로 부딪히게 된다는 거야. 게다가 우리가 지금 돌아가도 진공 에어리가 그렇게 오래 지속될 것 같지 않아. 위험한 건 변함없어.",
+			null,
+			null,
+			"...... But going back to the ME Society also means that we will once again go head to head with the Rulers, and the vacuum period is coming to an end now that we are going back, and the level of danger will not be reduced.",
+			"...... but going back to ME Inc. would mean going head to head with the scribes again. And I don't think the vacuum area will last that long if we go back now. It's still going to be dangerous."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302037,
+			"So... It’s your call now...",
+			"所以…就交给你们来选择了……",
+			"だから……あなたたちに決めてほしいの……。",
+			"그러니까…… 너희들이 결정해 주길 바라…….",
+			null,
+			null,
+			"So...it's up to you to choose ......",
+			"So I want ...... you guys to decide ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302038,
+			"So much effort to run away, and we are going back now... But if we can get Bronya back, I choose to go back!",
+			"好不容易逃出来了又要回去么…但是如果能找回布洛妮娅的话我选择回去！",
+			"せっかく逃げ出せたのにまた戻るのか……でも、ブローニャを探し出せるっていうなら戻りたい！",
+			"간신히 도망쳤는데 또 돌아가는 거야…… 하지만 브로냐를 찾아낼 수 있다면 돌아가고 싶어!",
+			null,
+			null,
+			"So easy to escape and go back to it ... but if I can find Bronya then I choose to go back!",
+			"I just got away and now I have to go back to ...... but I want to go back if it means I can find Bronya!"
+		],
+		[
+			"choice",
+			[
+				302220,
+				"I also agree to go back.",
+				"我也赞成回去。",
+				"私も戻るのに賛成。",
+				"나도 돌아가는 것에 찬성해.",
+				null
+			],
+			[
+				302221,
+				"I think it's too dangerous.",
+				"我觉得太危险了。",
+				"危なすぎると思う。",
+				"너무 위험하다고 생각해.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			201
+		]
+	],
+	"201": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302039,
+			"I see.",
+			"我明白了。",
+			"分かったわ。",
+			"알았어.",
+			null,
+			null,
+			"I get it.",
+			"Okay, I get it."
+		],
+		[
+			"msg",
+			302040,
+			"No one knows what will happen if we leave Nagazora. If we go back to ME Corp, it will be dangerous, but we still have some hope. We are also very familiar with the environment there so the battles will be less difficult.",
+			"离开长空市的话未来的路我们也无从知晓，回到ME社虽然危险但至少能够有一线希望，而且那里的地形与环境我们也最熟悉，战斗的难度会降低很多。",
+			"長空市を離れれば、その先の道は私たちにも全く分からない。けど、ME社に戻れば危険だけど、少なくとも一縷の望みがある。それにあそこの地形と環境は私たちもよく知っているから、戦闘の難度もだいぶ下がるわね。",
+			"창공시를 떠나면 그 앞의 길은 우리에게도 전혀 알 수 없어. 하지만 ME사로 돌아가면 위험하지만 적어도 한 줄기의 희망이 있어. 게다가 거기의 지형과 환경은 우리도 잘 알고 있으니까, 전투 난이도도 상당히 떨어질 거야.",
+			null,
+			null,
+			"We have no way of knowing what the future holds if we leave the city of Nagumo. Returning to ME Society is dangerous but at least there is a ray of hope, and the terrain and environment there are most familiar to us, making it much less difficult to fight.",
+			"If we leave Changkuu City, we have no idea what the road ahead will be for us either. But if we go back to the ME company, it will be dangerous, but at least there is a silver lining. Besides, we know the terrain and environment there very well, so the difficulty of the battle will be much lower."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302041,
+			"In other words...",
+			"也就是说……",
+			"それはつまり……。",
+			"그건 즉…….",
+			null,
+			null,
+			"That is to say ......",
+			"That is, ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302042,
+			"Himeko, sometimes you can also use your brain to think~",
+			"哼，姬子你偶尔也会冷静思考问题了呢~",
+			"ふんっ、姫子もたまには冷静にものを考えるんだな。",
+			"흥, 히메코도 가끔은 냉정하게 생각하네.",
+			null,
+			null,
+			"Hm, Himeko you will occasionally calmly think about the problem it ~",
+			"Hmph, Himeko thinks things over calmly once in a while, doesn't she?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302043,
+			"I prefer to hold my own destiny rather than waiting for miracles to happen.",
+			"与其期待偶然发生的奇迹，不如将命运握在自己的手中，",
+			"奇跡を期待するよりも、運命を己の手で掴み取るほうがいいでしょ。",
+			"기적을 기대하기보다 운명을 자신의 손으로 잡아채는 편이 나아.",
+			null,
+			null,
+			"Instead of expecting a miracle to happen by chance, we should take our fate into our own hands.",
+			"It's better to take fate into your own hands than to expect miracles."
+		],
+		[
+			"msg",
+			302044,
+			"Hyperion, start!",
+			"休伯利安号出发！",
+			"ハイペリオン号出発！",
+			"히페리온호 출발!",
+			null,
+			null,
+			"The USS Hubertarian departs!",
+			"Departure of the Hyperion!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			302045,
+			"Roger... Starting the power furnace.",
+			"了解…动力炉启动。",
+			"了解……動力炉起動。",
+			"확인...동력로 기동.",
+			null,
+			null,
+			"Understand...power furnace start-up.",
+			"Roger ...... power reactor startup."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			302046,
+			"Boom--",
+			"轰——",
+			"ゴォォォォ——",
+			"우오오오——",
+			null,
+			null,
+			"Boom...",
+			"Gooooo--"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			302047,
+			"Power output stable... Please, I hope there will be no problem...",
+			"目前出力稳定…千万不要出问题啊……",
+			"現在、出力安定……お願いだからトラブルは起きないでよ……。",
+			"현재, 출력 안정...제발 문제만은 일어나지 말아줘....",
+			null,
+			null,
+			"At present the power is stable ... do not have problems ah ......",
+			"Currently, the output is stable ...... please don't give me any trouble ......."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302048,
+			"The Houkai creatures in front have moved! They are coming towards our battleship!",
+			"报告！前方的崩坏生物有动作了！它们正在朝向战舰涌来！",
+			"報告します！前方の崩壊生物に動きあり！戦艦に向かって押し寄せてきます！",
+			"보고합니다! 전방의 붕괴생물에 움직임 있음! 전함을 향해 밀려옵니다!",
+			null,
+			null,
+			"Report! The Avalanche creatures up ahead are making a move! They are coming towards the battleship!",
+			"Report! There is movement in the disintegrating organisms ahead! They are pushing towards the battleship!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302049,
+			"So, they have started the attack. There is no miracle in this world...",
+			"终于开始进攻了么，果然这个世界根本不存在什么奇迹……",
+			"ようやく攻撃を仕掛けてきたわね。やっぱり、この世界に奇跡なんて存在しないのよ……。",
+			"드디어 공격을 걸어왔네. 역시, 이 세상에 기적 같은 건 존재하지 않는 거야....",
+			null,
+			null,
+			"Finally began to attack it, it is true that this world does not exist any miracle ......",
+			"You're finally attacking me. After all, there are no miracles in this world. ......"
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302050,
+			"All personnel, first level battle preparation! We are breaking through the Houkai creatures and returning to ME Corp!",
+			"全员进入一级战斗准备！我们要突破崩坏生物的包围返回ME社！",
+			"全員、一級戦闘配置！崩壊生物の包囲を突破してME社に戻る！",
+			"전원, 1급 전투 배치! 붕괴생물의 포위를 돌파하고 ME사로 돌아간다!",
+			null,
+			null,
+			"All hands to level one battle ready! We're going to break through the Avalanche creatures and return to ME Society!",
+			"All hands, first class combat positions! Break through the siege of the disintegrating organisms and return to ME Company!"
+		]
+	],
+	"202": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			302051,
+			"Dadada!",
+			"哒哒哒！",
+			"ダダダッ——！",
+			"다다닫——!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dah-dah--!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302052,
+			"C3, C6 compartments are breached! Houkai creatures are coming to the bridge!",
+			"C3、C6仓已被突破！崩坏生物正在朝舰桥进攻！",
+			"C3、C6キャビンが突破されました！崩壊生物が艦橋に向かって進行中！",
+			"C3, C6 캐빈이 돌파당했습니다! 붕괴생물이 함교를 향해 진행 중!",
+			null,
+			null,
+			"Silos C3 and C6 have been breached! Avalanche creatures are attacking the bridge!",
+			"Cabins C3 and C6 have been breached! Disintegrating organisms are advancing toward the bridge!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302053,
+			"Abandon sector C! Withdraw all personnel! Focus the defense on the bridge and power furnace!",
+			"舍弃C区！让人员撤回！集中力量防守舰桥和动力炉！",
+			"Cエリアを放棄！人員を撤退させて！戦力を艦橋と動力炉の防御に集中！",
+			"C 구역을 포기! 인원을 철수시켜! 전력을 함교와 동력로 방어에 집중!",
+			null,
+			null,
+			"Abandon Zone C! Pull back your personnel! Concentrate on defending the bridge and power furnaces!",
+			"Abandon Area C! Pull back all personnel! Concentrate our forces on defending the bridge and power reactors!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			302054,
+			"Roar!!",
+			"吼吼吼！！",
+			"グルルル——！！",
+			"그르릉——!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Grrrr--!"
+		],
+		[
+			"msg",
+			302055,
+			"Boom!!",
+			"轰隆！！",
+			"ゴォォォオ！！",
+			"고오오오!!!",
+			null,
+			null,
+			"Boom!!!",
+			"Gooooo!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302056,
+			"Dragon form Houkai beast is attacking the ship! Outer armor heavily damaged!",
+			"龙型崩坏兽正在进攻战舰！外装甲受损严重！",
+			"竜型の崩壊獣が戦艦に攻撃してきています！外装甲の被害は甚大です！",
+			"용형 붕괴수가 전함을 공격해오고 있습니다! 외장갑 피해가 심각합니다!",
+			null,
+			null,
+			"Dragon type Honkai Beast is attacking the battleship! The outer armor is badly damaged!",
+			"A dragon-shaped Honkai Beast is attacking the battleship! The damage to the outer armor is extensive!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302057,
+			"Yssring! How much time until we reach the Houkai vacuum!",
+			"伊瑟琳！离崩坏真空区还有多少时间！",
+			"イザーリン！崩壊の真空エリアまであとどれくらい！？",
+			"이자린!붕괴의 진공 에어리어까지 아직 멀었어?",
+			"Yiserin! How much time until we reach the Houkai vacuum!",
+			null,
+			"Estherine! How much time is left before the collapse of the vacuum!",
+			"Estherine! How close to the vacuum area of collapse!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			302058,
+			"About half an hour!",
+			"还有半小时左右！",
+			"あと30分くらいっ！",
+			"아직 30분 정도요!",
+			null,
+			null,
+			"About half an hour to go!",
+			"About half an hour to go!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			302059,
+			"Keep accelerating! Get away from the Houkai beasts in the air!",
+			"继续加速！甩开空中的崩坏兽！",
+			"加速を続けて！空にいる崩壊獣を振り払うのよ！",
+			"가속을 계속해! 하늘에 있는 붕괴수를 떨쳐버리는 거야!",
+			null,
+			null,
+			"Keep accelerating! Get rid of the crashing beasts in the air!",
+			"Keep accelerating! Shake off those Honkai Beasts in the sky!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302060,
+			"We are already at the limit... If we keep pushing, the power furnace will fail...",
+			"已经是极限了…再继续加速的话动力炉会撑不住的……",
+			"既に限界よ……これ以上加速したら動力炉がもたない……。",
+			"이미 한계야... 이 이상 가속하면 동력로가 버티지 못할 거야...",
+			null,
+			null,
+			"Is already the limit ... continue to accelerate if the power furnace will not hold up ......",
+			"It's already at its limit. ...... If it accelerates any further, the power reactor won't be able to keep up. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302061,
+			"We just need a few minutes! Get in distance and finish it with our main gun!",
+			"只要几分钟就行了！拉开距离用主炮解决掉它！",
+			"数分間だけでいい！距離をあけたら主砲でやっつけるわ！",
+			"몇 분만 버텨! 거리 벌린 뒤 주포로 처리할 테니까!",
+			null,
+			null,
+			"It will only take a few minutes! Pull back and finish it off with the main gun!",
+			"Just for a few minutes! If we go the distance, we'll take them out with the main gun!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302062,
+			"But... But...",
+			"可…可是……",
+			"で……でも……。",
+			"그... 하지만...",
+			null,
+			null,
+			"But...but ......",
+			"You can also visit ...... at ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302063,
+			"But what! Speed up!",
+			"可是什么！快加速！",
+			"何が「でも」よ！早く加速して！",
+			"뭐가 「든 」야! 어서 가속해!",
+			null,
+			null,
+			"But what! Speed up!",
+			"What's your \"but\"? Accelerate!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302064,
+			"Even the engine can make it, we can’t use the main gun... The lines to the main gun were cut off in the attack just now...",
+			"就算引擎能撑住主炮也发射不了…与主炮线路在刚才的攻击中被切断了……",
+			"動力炉がもったとしても、今は主砲が発射できないのよ……主砲との回路がさっきの攻撃で切断されちゃったから……。",
+			"동력로가 버틴다 해도 주포는 쓸 수 없어... 아까 공격으로 주포 회로가 끊어졌거든...",
+			null,
+			null,
+			"Even if the engine can hold up the main gun can not be launched ... and the main gun line was cut off in the attack just now ......",
+			"Even if the power reactor holds, the main gun can't fire now because the circuit to the main gun was severed in the attack earlier. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302065,
+			"Find a way to fix them immediately! The ship can’t last long like this! If the outer armor of the bridge is compromised, we are done!",
+			"立即想办法修复！不然战舰撑不了多久！舰桥的外装甲被破坏的话就全完了！",
+			"今すぐ方法を考えて修理して！さもないと戦艦がもうもたないわ！艦橋の外装甲が破壊されたらおしまいよ！",
+			"지금 당장 방법을 생각해서 수리해! 안 그러면 전함이 더 버틸 수 없을 거야! 함교의 외부 장갑이 파괴되면 끝이야!",
+			null,
+			null,
+			"Find a way to fix it immediately! Otherwise the battleship won't last long! If the outer armor of the bridge is destroyed, it's all over!",
+			"You need to figure out a way to fix it right now! Or the battleship won't last much longer! If the exterior armor of the bridge is destroyed, we're finished!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302066,
+			"Ouch... We have found where the damage is... It’s in the C sector you just abandoned...",
+			"咕…损坏的地点已经查明了…就在刚才被你放弃的C区……",
+			"うぅ……損壊地点はもう調べがついてるの……さっきあなたが放棄したCエリアよ……。",
+			"으윽…… 손괴 지점은 이미 확인했잖아…… 아까 네가 포기한 C 구역이라고…….",
+			null,
+			null,
+			"Goo...the location of the damage has been identified...it's in Area C that you just abandoned ......",
+			"Ugh. ...... the point of loss has already been looked into. ...... It's the C area you abandoned earlier. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302067,
+			"I’ll have someone to protect you and enter C sector! Get your engineering squad to reinforce the armor of the bridge. We need to hold them off as long as we could!",
+			"我会让人保护你进入C区！另外让你的工程班加固舰桥区域的装甲，能挡多久是多久！",
+			"人をつけてあなたを守るからCエリアに行きなさい！それから、あなたのエンジニア班に艦橋エリアの装甲を強化させて。できるだけ持ちこたえられるように！",
+			"호위병을 붙여서 널 지키게 할 테니 C 구역으로 가! 그리고 네 엔지니어 팀에게 함교 구역의 장갑을 강화시켜. 최대한 버틸 수 있게!",
+			null,
+			null,
+			"I'll have someone protect you going into Area C! Also have your engineering squad reinforce the armor on the bridge area for as long as they can!",
+			"I'll put someone on to protect you, go to area C! Then have your engineering team reinforce the armor in the bridge area. Make sure it holds up as long as possible!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302068,
+			"Can I please not go...",
+			"我能不去么……",
+			"べ、べつに行くのは私じゃなくても……。",
+			"별, 별로 내가 가지 않아도…….",
+			null,
+			null,
+			"Can I not go to ......",
+			"I don't have to be the one to go to ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302069,
+			"Just go!",
+			"快去！",
+			"早く行きなさい！",
+			"빨리 가라구요!",
+			null,
+			null,
+			"Go!",
+			"Go, go, go!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302070,
+			"Alright...",
+			"好吧……",
+			"分かったわよ……。",
+			"알겠어…….",
+			null,
+			null,
+			"Okay ......",
+			"All right. ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302071,
+			"Rest of you, attack harder! We can’t let the Houkai creatures break through here!",
+			"其他人加强火力！不能让崩坏生物突破这里！",
+			"他の人は火力を強化して！崩壊生物をここまで来させるわけにはいかないわよ！",
+			"다른 사람들은 화력을 강화해! 붕괴 생물을 여기까지 오게 둘 순 없잖아!",
+			null,
+			null,
+			"The rest of you, step up your firepower! We can't let the Avalanche creatures break through here!",
+			"The rest of you, beef up your firepower! We can't let these disintegrating creatures get this far!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302072,
+			"Got it!",
+			"是！",
+			"はい！",
+			"네!",
+			null,
+			null,
+			"Yes!",
+			"Yes!"
+		]
+	],
+	"203": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			302073,
+			"Boom!!!",
+			"轰！！！",
+			"ドォォォォン！！！",
+			"두우우우운!!!",
+			null,
+			null,
+			"Boom!!!",
+			"D'oh!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302074,
+			"The armor won’t hold the next attack! We are losing the bridge!",
+			"装甲撑不住下一次攻击了！舰桥要守不住了！",
+			"装甲がもう限界です。次の攻撃を持ちこたえられない！艦橋を守り切れません！",
+			"장갑이 한계에 도달했어요. 다음 공격은 버틸 수 없어요! 함교를 지킬 수 없습니다!",
+			null,
+			null,
+			"The armor won't hold the next attack! The bridge will not hold!",
+			"My armor is at its limit. It won't hold the next attack! We can't protect the bridge!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302075,
+			"Yssring! Have you fixed the cables!",
+			"伊瑟琳！电缆修好了么！",
+			"イザーリン！ケーブルは直ったの！？",
+			"이자린! 케이블은 고쳤어!?",
+			"Yiserin! Have you fixed the cables!",
+			null,
+			"Estherine! Is the cable fixed!",
+			"Estherine! The cable is fixed!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			302076,
+			"*Gasp*! *Gasp*! *Gasp*! I’m on, I’m on it... Finally... Finally made it... Connection to the main gun is back, charging started.",
+			"呼！呼！呼！来了来了…总…总算是赶上了……主炮已经恢复连接，开始充能。",
+			"はぁ！はぁ！はぁ！う、うん……なん……なんとか間に合った……主砲との接続は回復したわ。エネルギー充填も開始OK。",
+			"하! 하! 하! 으, 응... 어쩌... 어쩌다가 시간에 맞췄어...... 주포와의 연결은 회복했어. 에너지 충전도 시작 OK.",
+			null,
+			null,
+			"Whew! Hoo! Whew! Here we go...finally...finally catching up ...... main gun is back connected and starting to recharge.",
+			"Huh! Huh! Haa! Ugh, yeah...... what...... I managed to get there in time...... connection with the main gun has been restored. OK to start energy charging as well."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			302077,
+			"Right now! Hyperion, start acceleration!",
+			"就是现在！休伯利安号开始加速！",
+			"今よ！ハイペリオン号加速！",
+			"지금이야! 히페리온호 가속!",
+			null,
+			null,
+			"Now is the time! The USS Huberian is starting to accelerate!",
+			"Now! Accelerate the Hyperion!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302078,
+			"Understand. Increasing power output and accelerating. Please, don’t break...",
+			"了解，动力炉出力增加开始加速，一定不要坏掉啊……",
+			"了解。動力炉の出力を上げて加速を開始。絶対に壊れないでよね……。",
+			"알겠어. 동력로의 출력을 올려서 가속 시작. 절대 안 망가져라.......",
+			null,
+			null,
+			"Understand, the power furnace out of the increase in power began to accelerate, must not break down ah ......",
+			"Copy that. Increase power reactor output and begin acceleration. Don't ever break down. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			302079,
+			"Roar!",
+			"吼吼吼！",
+			"ウウゥ、グルル！！！",
+			"우우우, 그르르!!!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Uuuh, grrrl!!!!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302080,
+			"We have got away from it! Main gun, aim on it! Prepare to fire!",
+			"甩掉了！主炮瞄准！准备开炮！",
+			"振り切った！主砲の照準を合わせて！発射用意！",
+			"흔들림 멈췄어! 주포 조준 맞춰! 발사 준비!",
+			null,
+			null,
+			"Shaken off! Main gun on target! Prepare to fire!",
+			"He's swung it out! Main gun, aim! Prepare to fire!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302081,
+			"Main gun charging completed. Aiming start. Fire control unlocking in 4 seconds...",
+			"主炮填充完毕，校准开始，预计4秒后解除火控装置……",
+			"主砲充填完了。照準開始。4秒後に安全装置解除……。",
+			"주포 충전 완료. 조준 시작. 4초 후 안전장치 해제......",
+			null,
+			null,
+			"Main gun fill completed, calibration started, expect to disarm fire control device in 4 seconds ......",
+			"Main gun filling complete. Aiming started. 4 seconds later the safety is released. ......"
+		],
+		[
+			"msg",
+			302082,
+			"3... 2... 1... Target locked. Ready to fire.",
+			"3…2…1……已锁定目标，随时可以开火。",
+			"3……2……1……目標をロックオン。いつでも撃てる。",
+			"3......2......1...... 목표 록온. 언제든지 발사 가능.",
+			null,
+			null,
+			"3...2...1...... is locked on target and ready to fire.",
+			"3......2......1...... target locked on. Ready to fire at any time."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			302083,
+			"Roar!",
+			"吼吼吼！",
+			"ウゴォォォン！！",
+			"우우우우우우웅!!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Ugooooooooo!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302084,
+			"Whoa! That... That thing is catching up!",
+			"呜哇！那…那家伙追上来了！",
+			"うわっ！あ……あいつ追いついてきた！",
+			"우왁! 아...... 저 녀석 쫓아왔어!",
+			null,
+			null,
+			"Whoo-hoo! That...that guy's catching up!",
+			"Oh my gosh! Oh ...... he's catching up!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302085,
+			"Fire!",
+			"开火！",
+			"てッ！！！",
+			"테!!!",
+			null,
+			null,
+			"Fire!",
+			"Te!!!!!!!!!!!!!!!!!!!!!!!!!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302086,
+			"Boom!!!",
+			"轰！！！",
+			"ドォォォンッ！！",
+			"두오오온!!!",
+			null,
+			null,
+			"Boom!!!",
+			"D'oh!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			302087,
+			"Roar!",
+			"吼吼吼！",
+			"グルルル！！",
+			"그르르르!!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Grrrrr!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302088,
+			"Mi... Mi.. Mi...",
+			"打…打…打……",
+			"いけ……いけ……いけ……！",
+			"가라…… 가라…… 가라……!",
+			null,
+			null,
+			"Fight...fight...fight ......",
+			"Go ...... go ...... go ...... go ......!"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302089,
+			"We have missed it!!!",
+			"打偏了居然！！！",
+			"そんな、外れた！！",
+			"그런, 빗나갔어!!",
+			null,
+			null,
+			"Missed the shot actually!!!",
+			"Oh no, it's off!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			302090,
+			"Roar!",
+			"吼吼吼！",
+			"ゴォォォォ！！",
+			"꾸어어어어!!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Gooooooo!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302091,
+			"Don’t panic! That shot had greatly interfered its movement! Take this opportunity and rush into the vacuum area!",
+			"别慌张！刚才那一炮已经很大的干扰了它的行动，趁着这段时间冲入真空区！",
+			"慌てないで！今の一撃で行動を大きく阻害できたはずよ。今のうちに崩壊エネルギーの真空エリアに突入しましょう！",
+			"당황하지 마! 지금의 일격으로 행동을 크게 저지했을 거야. 지금이야말로 붕괴 에너지의 진공 에어리어로 돌입하자!",
+			null,
+			null,
+			"Don't panic! That shot just now has greatly disturbed its movement, take advantage of this time to rush into the vacuum!",
+			"Don't panic! That blow you just delivered could have severely hampered the action. Let's get into the vacuum area of disintegrating energy while we still can!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			302092,
+			"Right, right, right! We can see ME Corp already! We are almost in the vacuum area... If we can enter it, we will be safe!",
+			"对对对！已经能看到ME社了！我们马上就进入真空区了…只要进去的话我们就得救了！",
+			"そ、そうよね！もうME社は見えてるし……！もうすぐ真空エリアに入れる……中に入りさえすれば助かる！",
+			"그, 그래! 이미 ME사는 보이고...! 이제 진공 에어리어에 들어갈 수 있어... 안으로 들어가기만 하면 구원받을 수 있어!",
+			null,
+			null,
+			"Yes, yes, yes! We can already see the ME Society! We're about to enter the vacuum zone...if we get in we'll be saved!",
+			"Yes, I know! I can already see the ME company and ......! We're almost to the vacuum area, as long as we can get inside ...... we'll be saved!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			302093,
+			"Rest of you, don’t relax! Hold off the Houkai creatures’ attack in the passage! They will be weaker once we enter the vacuum area!",
+			"其他人不要松懈！守住通道崩坏生物的进攻！只要进入真空区它们的攻势就会衰弱下来！",
+			"他の人たちは緊張を緩めないで！通路を守って崩壊生物の進攻を食い止めるのよっ！直に攻勢も弱まるわ！",
+			"다른 사람들은 긴장 늦추지 마! 통로를 지켜 붕괴 생물의 진격을 막아내는 거야! 곧 공세도 약해질 거야!",
+			null,
+			null,
+			"Don't let up on the others! Hold the attack of the avalanche creatures! As soon as they enter the vacuum, their attack will be weakened!",
+			"The rest of you, don't relax! Protect the passage and stop the advance of the disintegrating creatures! Soon the offensive will slow down!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			302094,
+			"Dadada!",
+			"哒哒哒！",
+			"ダダダッ——！",
+			"다다닫!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dah-dah--!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			302095,
+			"Himeko! We are in the vacuum area now! That thing will not...",
+			"姬子！我们进入真空区了！那个家伙已经追不……",
+			"姫子！真空エリアに入った！きっと、あいつももう追って……。",
+			"히메코! 진공 에리어에 들어왔어! 분명, 저 녀석도 이미 쫓아오고 있을 거야…….",
+			null,
+			null,
+			"Himeko! We're in the vacuum! That guy can't chase anymore ......",
+			"Himeko! He's in the vacuum area! I bet that guy's already chasing ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			302096,
+			"Roar!!",
+			"吼吼吼！！",
+			"ウォォォーン！！",
+			"우오오오온!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Whoo-hoo!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302097,
+			"Ahhhh! Why is it still coming after us! This is not what we are promised!",
+			"啊啊啊！怎么还在追啊！和说好的不一样啊！",
+			"な、ななッ！どうしてまだ追ってくるの！想定と違うじゃない！",
+			"뭐, 뭐야! 왜 아직도 쫓아오는 거야! 예상과 다르잖아!",
+			null,
+			null,
+			"Ahhhhh! Why are you still chasing ah! It's not the same as the promised ah!",
+			"Nah, nah! Why are they still chasing us? It's not what I expected!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302098,
+			"Ughh... This big one is different with other Houkai creatures, is it...",
+			"可恶…果然这样的大家伙和其他的崩坏生物不能相提并论么！",
+			"クソッ……やっぱり、こういうデカいやつは他の崩壊生物と同列に扱っちゃいけないのね。",
+			"젠장…… 역시 이런 덩치 큰 놈은 다른 붕괴 생물과 동급으로 취급하면 안 되는 거네.",
+			null,
+			null,
+			"Damn it...it's true that such a big guy can't be compared to the other creatures of collapse!",
+			"Damn ...... I knew we shouldn't treat these big ones the same as other decaying organisms."
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302099,
+			"Yssring! Max power output from the power furnace! We must reach ME Corp!",
+			"伊瑟琳！动力炉最大出力！一定要抵达ME社！",
+			"イザーリン！動力炉を最大出力に！必ずME社にたどり着いて！",
+			"이자린! 동력로를 최대 출력으로! 반드시 ME사에 도착해!",
+			"Yiserin! Max power output from the power furnace! We must reach ME Corp!",
+			null,
+			"Estherine! Maximum power output of the power furnace! We must reach ME Society!",
+			"Estherine! Power reactors at maximum output! Make sure you reach the ME Company!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			302100,
+			"Ah? Oh... Okay! Hyperion, max power!",
+			"啊？哦…好的！休伯利安最大出力！",
+			"え？あ……分かったわ！ハイペリオン、最大出力！",
+			"에? 아…… 알았어! 히페리온, 최대 출력!",
+			null,
+			null,
+			"Huh? Oh...yes! Maximum out of Hubertarian!",
+			"Huh? Oh, ...... I get it! Hyperion, maximum power!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			302101,
+			"Boom!!!",
+			"轰！！！",
+			"ドォォォォォン！！",
+			"두오오오오온!!",
+			null,
+			null,
+			"Boom!!!",
+			"D'oh!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302102,
+			"Whoa! Engine 3 exploded... I won’t take the responsibility if the ship is also blown up!!",
+			"呜哇！3号引擎爆炸了…要是连船一起炸了我可不管哦！！",
+			"うわっ！3番エンジンが爆発した……船まで一緒に爆発したら私知らないからね！",
+			"우왁! 3번 엔진이 폭발했어…… 배까지 함께 폭발하면 나 몰라!",
+			null,
+			null,
+			"No. 3 engine exploded ... if even the ship blew up together I do not care Oh!",
+			"Oh my gosh, engine #3 just blew up...... if the ship blows up with it, I don't know about that!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302103,
+			"I don’t care! If we stop now, we are done!",
+			"就算坏掉也没关系！如果在中途停下我们就完了！",
+			"壊れても構いやしないわ！途中で止まったら、それこそおしまいよ！",
+			"망가져도 상관 안 해! 중간에 멈추면 그게 바로 끝이야!",
+			null,
+			null,
+			"Even if it breaks down, it doesn't matter! If we stop in the middle, we're done!",
+			"I don't care if it breaks! If we stop in the middle of the road, we're done!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			302104,
+			"Ohhhhh---------!",
+			"哦哦哦哦哦————————！",
+			"お願いっ、ME社まで耐えて！！",
+			"부탁이야, ME사까지 견뎌내!!",
+			null,
+			null,
+			"Ohhhhhhhhhhh --------!",
+			"Please, endure until ME company!!!!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			302105,
+			"Boom!!!",
+			"轰隆！！！",
+			"ゴォォン！！",
+			"꾸어어언!!",
+			null,
+			null,
+			"BOOM!!!",
+			"Gong!"
+		]
+	]
+}

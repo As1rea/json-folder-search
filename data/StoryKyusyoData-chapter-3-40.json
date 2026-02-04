@@ -1,0 +1,1264 @@
+{
+	"1136": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306086,
+			"Oh! It's great you came.",
+			"啊…你来的正好。",
+			"あ……いいところに来たわね。",
+			"아…… 좋은 타이밍에 왔네.",
+			null,
+			null,
+			"Ah...you're just in time.",
+			"Ah ...... you've come to the right place."
+		],
+		[
+			"msg",
+			306087,
+			"Do you still remember the box you brought to me before? The weapon it stores is now completed. It may be useful for us to battle the Houkai beasts in this opeartion.",
+			"还记得之前你们帮我带回来的箱子么，那里面的武器终于准备完成了，说不定可以在这次与崩坏生物的战斗中发挥效果。",
+			"この間、持ち帰ってくれた箱のこと覚えてる？あれに入ってた武器の準備がついにできたの。今回の崩壊生物との戦いで、きっと絶大な効果を発揮してくれるはずだわ。",
+			"지난번에 가져다 준 상자 기억하지? 그 안에 있던 무기 준비가 드디어 끝났어. 이번 붕괴 생물과의 싸움에서 분명 엄청난 효과를 발휘할 거야.",
+			null,
+			null,
+			"Remember the box you brought back for me earlier? The weapons in there are finally ready and may be effective in this battle with the collapsing creatures.",
+			"Remember that box you brought back the other day? The weapon in that thing is finally ready. I'm sure it will be immensely effective in this battle against the disintegrating creatures."
+		],
+		[
+			"msg",
+			306088,
+			"Previously we captured the larva during the fight against the bug-form Houkai beast. We were able to learn a lot about the Houkai beasts thanks to it. The pheromone tracking experiment was not successful, but we are able to move a large step forward in investigating the nature of Houkai beasts.",
+			"之前我们在与虫形崩坏生物的战斗中捕获的幼虫，那次的经历让我对崩坏生物的认知获得了很多情报。虽然之前的信息素追踪不是那么成功，但是对于了解崩坏生物诞生本质的探索还是有很大的帮助。",
+			"こないだの虫形崩壊生物との戦いで幼虫を捕獲したとき、いろいろと情報を手に入れることができてね。フェロモンの追跡はうまくいかなかったけど、崩壊生物の生態を理解する上では大きな助けになったわ。",
+			"저번에 벌레 형태 붕괴 생물과 싸울 때 유충을 포획했을 때 여러 정보를 얻을 수 있었어. 페로몬 추적은 잘 안 됐지만, 붕괴 생물의 생태를 이해하는 데 큰 도움이 됐지.",
+			null,
+			null,
+			"The larvae we captured in the previous battle with insectoid disintegrating creatures, that experience gave me a lot of information about the knowledge of disintegrating creatures. Although the previous pheromone tracking was not that successful, it was still a great help in the quest to understand the nature of the birth of the disintegrating creatures.",
+			"I was able to get a lot of information from the larvae I captured the other day in my battle with the insectoid disintegrator. Tracking the pheromones didn't work, but it was a big help in understanding the ecology of the decaying organisms."
+		],
+		[
+			"msg",
+			306089,
+			"The principle of making this weapon is simple. I extracted the Houkai pheromone of the larva and amended slight its sequence. If those pheromones can cause the bugs to change their emotions, I wonder if it will have the same effect on other Houkai beasts.",
+			"这次研制的兵器其实原理很简单，我提取了幼虫的崩坏信息素并稍加修改了里面的信息素排序，如果这些信息素可以导致虫子们的情绪发生改变，我想知道它们作用在其他崩坏生物的身上是不是会有同样的效果。",
+			"今回開発した兵器は、そのフェロモンに基づいているの。原理は実に簡単。幼虫の崩壊フェロモンを抽出して、配列を変えただけ。この特製フェロモンを使えば、崩壊生物に情緒の変化を与えられるはずだわ。",
+			"이번에 만든 무기는 그 페로몬을 기반으로 한 거야. 원리는 정말 간단해. 유충의 붕괴 페로몬을 추출해서 배열만 바꾼 거야. 이 특제 페로몬을 사용하면 붕괴 생물에게 감정 변화를 일으킬 수 있을 거야.",
+			null,
+			null,
+			"The principle of the weapon developed this time is actually very simple, I extracted the larvae's disintegration pheromones and slightly modified the pheromone sorting inside, if these pheromones can cause the bugs to change their mood, I wonder if they will have the same effect when acting on other disintegrating creatures.",
+			"The weapon we have developed is based on those pheromones. The principle is really quite simple. We simply extracted the disintegrating pheromones from the larvae and rearranged them. With this special pheromone, we should be able to induce an emotional change in the decaying organism."
+		],
+		[
+			"msg",
+			306090,
+			"This is a simple mission, you just need to use the bullets that contain Houkai pheromones and fire them to the beasts. Observe the reaction of the beasts shot.",
+			"实验的任务很简单，在战斗时将装有崩坏信息素的子弹射入崩坏生物的体内就行了，然后观察中弹崩坏生物的反应就行了。",
+			"……で、この実験に付き合ってほしいんだけど。戦闘中、この特製フェロモンを詰めた銃弾を崩壊生物に発射すればオッケーよ。あとは崩壊生物の反応を観察すればいいの。",
+			"……그래서 이 실험에 협조해 주길 바라. 전투 중에 이 특제 페로몬을 채운 탄환을 붕괴 생물에게 발사하기만 하면 돼. 그 다음엔 붕괴 생물의 반응을 관찰하면 되는 거야.",
+			null,
+			null,
+			"The task of the experiment is very simple, in the battle will be equipped with disintegration pheromone bullets into the body of the disintegrated creatures on the line, and then observe the reaction of the shot disintegrated creatures on the line.",
+			"I'd like you to go with me on this experiment at ....... During the battle, fire a bullet filled with this special pheromone at the decaying organism and you're good to go. Then you can observe the reaction of the decaying organism."
+		],
+		[
+			"msg",
+			306091,
+			"Don't worry. It's not dangerous at all. I will be monitoring you using binoculars in the defensive line. Trust me.",
+			"别担心，不会有什么危险的，我会在防线内用望远镜观察情况的，请相信我吧。",
+			"心配しないで、危険なことはないから…………私には。観察の方は私に任せて…………防御線から双眼鏡で見るから。",
+			"걱정하지 마, 위험한 일은 없을 테니까…………내게는. 관찰은 내게 맡기고…………방어선에서 쌍안경으로 볼 테니까.",
+			null,
+			null,
+			"Don't worry, there's no danger. I'll be watching the situation with binoculars from inside the defense line, so trust me.",
+			"Don't worry, there's no danger to ............ me. Leave the observation to me and I'll watch with binoculars from the ............ defensive line."
+		]
+	],
+	"1137": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306092,
+			"Testing... Connection seems to be fine. There are a few things to pay attention to for the first experiment.",
+			"喂喂…看来通讯没有问题，首次试验有几个重要的地方我先说明一下吧。",
+			"はい、これがあなたの通信機。本兵器の初実験だから、大事な点を説明するわね……。",
+			"네, 이것이 당신의 통신기. 이 병기의 첫 실험이니까, 중요한 점을 설명해 줄게…….",
+			null,
+			null,
+			"Hey hey ... seems to be no problem with communication, the first test there are a few important places I first explain it.",
+			"Yes, this is your communicator. This is the first test of this weapon, so I'll explain the important points. ......"
+		],
+		[
+			"msg",
+			306093,
+			"First off, the pheromone weapon is still on trial. The accurate dose for an effective result is still unknown. So please make a record when it is not effective before you shoot again.",
+			"首先这个信息素武器还处于试验阶段，对于崩坏生物的作用剂量没有准确的定位，所以如果攻击后没有发生反应的话请麻烦记录下来，然后继续攻击。",
+			"まず、このフェロモン武器はまだ試験段階にあるってこと。崩壊生物に対する有効量も正確に決まってないわ。だから攻撃しても何の反応もない場合、悪いけどそのまま撃ち続けてほしいの。",
+			"우선, 이 페로몬 무기는 아직 시험 단계에 있다는 거. 붕괴 생물에 대한 유효량도 정확히 정해지지 않았어. 그러니까 공격해도 아무 반응이 없는 경우, 미안하지만 그대로 계속 쏴 주길 바라.",
+			null,
+			null,
+			"First of all, this pheromone weapon is still in the experimental stage, there is no accurate positioning of the dose of action for the disintegrating creatures, so if no reaction occurs after the attack please bother to record it and then continue the attack.",
+			"First of all, this pheromone weapon is still in the testing phase. We haven't even determined the exact amount that is effective against decaying organisms. So, if you don't get any response from them, I'm sorry, but please just keep shooting."
+		],
+		[
+			"msg",
+			306094,
+			"Next, the expected effect is to change the target's emotion to a specific one, so that target will lose the ability to fight and will be confused. That means it is not something that can kill them. Don't rely on the weapon that much.",
+			"其次，预期的作用效果是让崩坏生物进入某种特定的情绪，来当它们丧失战斗能力混乱它们的行动。所以这不是一种直接杀伤性武器，请注意不要太依赖它的作用。",
+			"次に、予期される効果は崩壊生物の情緒を変えて戦意を失わせ、混乱させるというもの。つまり、これは相手を殺傷する武器ではない。だから、この作用を過度に頼りすぎないで。",
+			"다음으로, 예상되는 효과는 붕괴 생물의 정서를 변화시켜 전의를 상실시키고 혼란시키는 것. 즉, 이는 상대를 살상하는 무기가 아니다. 그러므로, 이 작용을 지나치게 의존하지 마십시오.",
+			null,
+			null,
+			"Secondly, the intended effect is to make the collapsing creatures enter a particular mood to confuse their actions when they lose their ability to fight. So this is not a direct killing weapon, please be careful not to rely too much on its effects.",
+			"Second, the anticipated effect is to change the emotional state of the decaying organism, disorienting and confusing it into fighting. In other words, this is not a weapon to kill or injure an opponent. So, don't rely too heavily on this effect."
+		],
+		[
+			"msg",
+			306095,
+			"Finally, never use it to multiple beasts at the same time. This might lead to unexpected results...",
+			"最后，千万不要在同一时间对复数的崩坏生物使用，可能会造成不可预知的结果……",
+			"最後に、くれぐれも複数の崩壊生物へ同時に使用しないこと。予測のつかない結果を招くかもしれないから……。",
+			"마지막으로, 여러 붕괴 생물에게 동시에 사용하지 않도록 주의하십시오. 예측할 수 없는 결과를 초래할 수 있기 때문입니다…….",
+			null,
+			null,
+			"Finally, never use it on a plural number of collapsed creatures at the same time, it may cause unpredictable results ......",
+			"Finally, please do not use it on more than one decaying organism at the same time. It may cause unpredictable results. ......"
+		],
+		[
+			"msg",
+			306096,
+			"Hmm... That's it. Do you understand?",
+			"嗯，大概就是这些了，听明白了么？",
+			"うん、だいたいこんなとこかな。分かった？",
+			"응, 대충 이런 정도겠지. 알았어?",
+			null,
+			null,
+			"Well, that's about it, you got it?",
+			"Yeah, that's about it. Got it?"
+		],
+		[
+			"choice",
+			[
+				306569,
+				"I don't get it.",
+				"不明白。",
+				"分からない。",
+				"모르겠어.",
+				null
+			],
+			[
+				306570,
+				"Isn't it more straightforward to just go ahead and do it?",
+				"还是身体力行比较直观吧。",
+				"やっぱり身をもって体験したほうがいい。",
+				"역시 몸으로 직접 체험하는 게 좋아.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1138,
+			1139
+		]
+	],
+	"1138": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306097,
+			"Well then... I'll repeat...",
+			"好吧…那我再说一遍吧……",
+			"そう……じゃあ、もう一回言うわね……。",
+			"그래…… 그럼, 다시 한 번 말해줄게…….",
+			null,
+			null,
+			"Ok...I'll say it again then ......",
+			"So ...... then I'll say it one more time: ......."
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306098,
+			"Wait! Where are you trying to bring me to? No way! Observation at close range? You kidding me? Help!",
+			"唔…等等！你要拉我去哪！不要不要！近距离观察什么的我才不去！救命！！",
+			"何？わからないから一緒に来いって？……待って、懇切丁寧に一から説明するから！わ……わわ！引っ張らないで、やだやだ！至近距離で観察なんてしたくない、私は行かないから！助けてぇ！！",
+			"뭐? 모르니까 같이 오라고?…… 잠깐, 친절하게 처음부터 설명해 줄게! 와…… 와아! 끌지 마, 싫어 싫어! 극근접 관찰 같은 건 하고 싶지 않아, 나는 안 갈 거야! 도와줘어!!",
+			null,
+			null,
+			"Well...wait! Where are you pulling me! No, no, no! I'm not going to get a close look or anything! Help!",
+			"What? You want me to come with you because you don't understand? ...... wait, I'll explain it to you from the beginning in detail! Wa...... wa! Don't pull me away, no! I don't want to observe at close range, I'm not going! Help me!"
+		]
+	],
+	"1139": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306099,
+			"I know I can leave it to you, so I am not going... I'd rather observe from afar...",
+			"交给你还是很令人安心的，所以就不自己去了…我还是在远处观察就行了……",
+			"あなたに任せておけば安心だもの。だから、私は行かなくても遠くから観察してればいいの！",
+			"당신에게 맡겨두면 안심이니까. 그래서, 나는 가지 않아도 멀리서 관찰하고 있으면 되는 거야!",
+			null,
+			null,
+			"Leave it to you or very reassuring, so do not go yourself ... I still observe from afar on the line ......",
+			"I know I can trust you to take care of it. So I don't have to go, just observe from afar!"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306100,
+			"Wait! Where are you trying to bring me to? No way! Observation at close range? You kidding me? Help!",
+			"唔…等等！你要拉我去哪！不要不要！近距离观察什么的我才不去！救命！！",
+			"わ……待って！引っ張らないで！わ、私が近くにいても足手まといだよ？やだやだ！至近距離で観察って何よ、私は行かないから！助けてぇ！！",
+			"와…… 잠깐! 끌지 마! 와, 내가 가까이 있어도 발목 잡히는 거야? 싫어 싫어! 극근접 관찰이 뭐야, 나는 안 갈 거야! 도와줘어!!",
+			null,
+			null,
+			"Well...wait! Where are you pulling me! No, no, no! I'm not going to get a close look or anything! Help!",
+			"Wait, ......! Don't pull me away! I'm not going to be able to stay near you, okay? No, no, no! What do you mean, up close and personal? I'm not going anywhere! Help me!"
+		]
+	],
+	"1140": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			306101,
+			"*Howling*",
+			"吼吼吼……",
+			"ガウウウ……。",
+			"그르르르…….",
+			null,
+			null,
+			"rolleyes ......",
+			"Gauauw ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306102,
+			"Fire! Quickly!",
+			"快！快攻击它！",
+			"早く！攻撃して、早く！",
+			"빨리! 공격해, 빨리!",
+			null,
+			null,
+			"Quickly! Attack it!",
+			"Come on! Come on! Attack! Come on!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			306103,
+			"Tatatat",
+			"哒哒哒！",
+			"ダダダッ！",
+			"다다닥!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dah dah dah!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			306104,
+			"Roarrrr!!!",
+			"吼吼吼！！",
+			"ガウウウ！！ガウガウ！",
+			"그르르르!! 그르그르!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"GauGau! GauGau!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306105,
+			"How come they become even more excited! It shouldn't be like this...",
+			"呜哇！崩坏生物的情绪怎么更兴奋了！不应该是这样啊……",
+			"うわ！なんで崩壊生物がよけい興奮したの！？こんなはずじゃ……。",
+			"우왓! 왜 붕괴 생물이 더 흥분한 거야!? 이런 건 아니었는데…….",
+			null,
+			null,
+			"Woohoo! Why are the crash creatures more excited! It's not supposed to be like this ......",
+			"Wow! Why did the disintegrating organisms get more excited! It wasn't supposed to be like this: ......."
+		],
+		[
+			"msg",
+			306106,
+			"They should become slothful accordingly to the changed pheromones... Looks like different types of Houkai beasts have their own way of interpreting the pheromones...",
+			"明明把信息素的情绪调成了怠惰…看来不同的崩坏生物对信息素的理解果然也不同……",
+			"フェロモンは怠惰な気分になるよう調合してあったのに……実に興味深い。どうやら、崩壊生物によってフェロモンに対する理解が違うみたいね……。",
+			"페로몬은 나태한 기분이 되도록 조합해 뒀는데…… 실로 흥미로워. 어쩌면, 붕괴 생물에 따라 페로몬에 대한 이해가 다른 모양이네…….",
+			null,
+			null,
+			"Obviously the pheromone emotion tuned to laziness ... It seems that different crash creatures really do have different understanding of pheromones ......",
+			"The pheromones were formulated to make you feel lazy, yet ...... really interesting. Apparently, different decaying organisms have different understandings of pheromones. ......"
+		],
+		[
+			"msg",
+			306107,
+			"I wanted to try if it works and didn't expect to stir up a hornet's nest...",
+			"本来打算先尝试一下作用的，没想到却被你给拖下了水…真是失策。",
+			"ちょっと作用を試すつもりだったんだけど、真逆に働くとは……失敗したわ。",
+			"작용을 좀 시험해볼 생각이었는데 정반대로 작용하다니...실패했어.",
+			null,
+			null,
+			"I was going to try the role first, but I didn't expect to be dragged down by you...what a blunder.",
+			"I was going to test the action a bit, but I failed ...... to see that it works in the exact opposite direction."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			306108,
+			"Roarrrr!!!",
+			"吼吼吼！！",
+			"ガウウウ！！",
+			"가우우우!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"GAWWW!!!!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306109,
+			"Hey! Another wave of Houkai beasts! Stop them!",
+			"喂喂！下一波崩坏生物又上来了！快阻止它们！",
+			"ちょっとちょっと！次の崩壊生物の一群がやって来たわよ！早く食い止めて！",
+			"잠깐 잠깐! 다음 붕괴生物의 무리가 쳐들어오고 있어! 어서 저지해야 해!",
+			null,
+			null,
+			"Hey, hey! The next wave of crashing creatures is coming up again! Stop them now!",
+			"Hey, hey, hey! The next group of disintegrating organisms is coming! Stop them!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			306110,
+			"Tatatat",
+			"哒哒哒！",
+			"ダダダッ！",
+			"다다다닥!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dah dah dah!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			306111,
+			"*Howling*",
+			"吼吼吼……",
+			"ガウウウ……。",
+			"가우우우…….",
+			null,
+			null,
+			"rolleyes ......",
+			"Gauauw ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306112,
+			"They stop... Does it finally work?",
+			"呜…崩坏生物的攻击停止了…难道起作用了么……",
+			"あれ……崩壊生物の攻撃が止まった……もしかして効いたのかしら……？",
+			"어라……붕괴 생물의 공격이 멈췄어……혹시 효과가 있었던 걸까……？",
+			null,
+			null,
+			"Oooh...the attack of the collapsing creatures stopped...did it work ......",
+			"That ...... disintegrating organisms have stopped attacking ...... maybe it worked ......?"
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306113,
+			"Looks like they are stopping moving gradually! We succeed!",
+			"看来活动的迹象的确减弱了！我们成功了！",
+			"動きが弱まった……！！やった、成功よ！",
+			"움직임이 약해졌어……！！해냈어, 성공이야!",
+			null,
+			null,
+			"It does look like the signs of activity have waned! We did it!",
+			"The movement has weakened. ......! Yay, we made it!"
+		],
+		[
+			"msg",
+			306114,
+			"The effects to different Houkai beasts varies among the types, I shall make use of the recorded data and optimize the ratio of the pheromones!",
+			"对于不同的崩坏生物造成的效用似乎有着微妙的差别，接下来就是统计效果和类型来优化信息素的配比了！",
+			"崩壊生物によって効き目に微妙な差があるみたい。これから効果とタイプの統計データを取って、フェロモンの配分を最適化しないとね。",
+			"붕괴 생물에 따라 효과에 미묘한 차이가 있는 것 같아. 이제부터 효과와 타입의 통계 데이터를 모아서 페로몬 배분을 최적화해야겠지.",
+			null,
+			null,
+			"There seems to be a subtle difference in the utility caused by different avalanche creatures, the next step is the statistical effect and type to optimize the pheromone ration!",
+			"There seems to be a subtle difference in effectiveness between decaying organisms. I'm going to have to get statistical data on effectiveness and type to optimize pheromone distribution."
+		],
+		[
+			"msg",
+			306115,
+			"Let's return and optimize the weapon. It is a great finding!",
+			"走吧，立刻回防御工事中进行改良，这可是一个大发现！",
+			"行きましょ、防御陣地に戻って改良を進めましょう。これは大発見よ！",
+			"가자, 방어 진지로 돌아가서 개량을 진행하자. 이건 대발견이야!",
+			null,
+			null,
+			"Let's go, immediately back to the fortifications for improvement, this is a big discovery!",
+			"Let's go. Let's go back to the defensive position and proceed with the improvements. This is a great find!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			306116,
+			"Roarrrr!!",
+			"吼吼吼！！！",
+			"ガウウウ！！！",
+			"그르르우!!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"GAWWWW!!!!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306117,
+			"Why? It worked, but why then?",
+			"呜！刚才不是成功了么…到底是怎么了？",
+			"うひゃあっ！さっき成功したはずじゃ……一体どうしたの？",
+			"우햐앗! 아까 성공했을 텐데…… 대체 어떻게 된 거야?",
+			null,
+			null,
+			"Woo! Didn't it just work...what the hell is going on?",
+			"Yikes! I thought we made it earlier. ...... What the hell is wrong with you?"
+		],
+		[
+			"choice",
+			[
+				306571,
+				"Might be hungry?",
+				"大概是肚子饿了？",
+				"お腹すいてるんじゃない？",
+				"배 안 고프니?",
+				null
+			],
+			[
+				306572,
+				"Might be in heat?",
+				"大概是发情了？",
+				"発情期なんじゃない？",
+				"발정기 아니야?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1141,
+			1142
+		]
+	],
+	"1141": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306118,
+			"Are they hungry? I wonder if Houkai beasts will feel hungry. They consume Houkai Energy to live, do they really need to ingest?",
+			"肚子饿了……崩坏生物也会有饥饿感么？崩坏生物不是以崩坏能作为能量的么，那么它们会有需要进食的必要么？",
+			"お腹が空いた？……崩壊生物でも空腹を感じるのかしら？崩壊生物は崩壊エネルギーを基にして動いてるんでしょ？それなら食べる必要はないんじゃない？",
+			"배고파?……붕괴 생물이라도 공복감을 느끼는 걸까? 붕괴 생물은 붕괴 에너지를 기반으로 움직이고 있는 거잖아? 그렇다면 먹을 필요는 없는 거 아니야?",
+			null,
+			null,
+			"I'm hungry ...... Do Avalanche creatures also have hunger? Avalanche creatures do not use avalanche energy as energy, so they will have the need to eat?",
+			"Hungry? I wonder if ...... decay organisms feel hungry? Decayed organisms run on decay energy, right? Then they don't need to eat, do they?"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306119,
+			"Huh? What did you say? Now we look like their food to them, isn't it a bigger problem?",
+			"诶！等等！现在最根本的问题不是我们变成食物了么！？",
+			"えっ、待って！もしかして今、私たちがエサの対象になってるってこと！？",
+			"엇, 잠깐! 혹시 지금 우리가 먹이 대상이 되고 있다는 거야!?",
+			null,
+			null,
+			"Eh! Wait! Isn't the fundamental problem now that we've become food!",
+			"Oh, wait! Could it be that we are the bait now!"
+		],
+		[
+			"msg",
+			306120,
+			"I don't want to be eaten! Let's quit!",
+			"我还不想被吃掉！我们赶紧逃吧！！",
+			"食べられるなんて冗談じゃないわ！急いで逃げるわよ！！",
+			"먹힌다니 농담도 아니야! 서둘러 도망가자!!",
+			null,
+			null,
+			"I don't want to be eaten yet! Let's run away!!!",
+			"You've got to be kidding me if you think they're going to eat us! We've got to get out of here!"
+		]
+	],
+	"1142": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306121,
+			"Estrous... erm... I didn't know Houkai beasts will be in estrus too... What is their perception of their identity? I wonder if they could distinguish gender and questions, and even the emotions to other beasts....",
+			"发情…嗯…崩坏生物也会有这种感情么？崩坏生物对于个体的认知到底处于什么程度呢？它们是否能区分出性别还是问题，更不要说对于其他个体的依赖感了……",
+			"発情か……うーん……崩壊生物にもそんな感情があるのかしら？崩壊生物の個体認知は一体どうなってるんだろう？そもそも性別の区別があるのかどうかも謎ね。他の個体に恋愛感情を抱くかどうか以前に……。",
+			"발정이야…… 음…… 붕괴 생물에게도 그런 감정이 있을까? 붕괴 생물의 개체 인지는 대체 어떻게 되어 있는 걸까? 애초에 성별 구분이 있는지 없는지도 수수께끼네. 다른 개체에게 연애 감정을 품을지 어떨지 이전에…….",
+			null,
+			null,
+			"Emotion...hmmm...do Avalanche creatures also have such feelings? What exactly is the level of cognition of Avalanche creatures for individuals? Whether they can distinguish between the sexes is still in question, not to mention the sense of attachment to other individuals ......",
+			"Rutting. ...... Hmmm... I wonder if disintegrating organisms have such feelings? I wonder what the individual cognition of disintegrating organisms is all about? I'm not even sure if there is a gender distinction to begin with. I'm not sure if they have romantic feelings for other individuals before ......."
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306122,
+			"Huh? What did you say? Now we look like their lovers to them, isn't it a bigger problem?",
+			"诶！等等！现在根本的问题不是我们变成了恋爱对象了么！？",
+			"えっ、待って！それが正しいなら、私たちが恋愛対象になってるってこと！？",
+			"엣, 잠깐! 그게 맞다면, 우리가 연애 대상이 되고 있다는 거야!?",
+			null,
+			null,
+			"Eh! Wait! Isn't the fundamental problem now that we've become love interests!",
+			"Oh, wait! If that's right, that means we're in love!"
+		],
+		[
+			"msg",
+			306123,
+			"No way... I can't accept this! Let's quit!",
+			"不行不行…只有这个我不能接受！我们赶紧逃吧！",
+			"だ、だめだめ……それだけは受け入れられないわ！急いで逃げるわよ！",
+			"안, 안 돼…… 그건 절대 받아들일 수 없어! 서둘러 도망쳐야 해!",
+			null,
+			null,
+			"No no...only this I can't accept! Let's run away!",
+			"No, no, no, no. ...... That's just unacceptable! Let's get the hell out of here!"
+		]
+	],
+	"1143": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306124,
+			"Phew... We managed to escape from the beasts...",
+			"呼…呼…终于逃回来了……",
+			"フー、フー……やっと逃げられた……。",
+			"후, 후…… 겨우 도망쳤어…….",
+			null,
+			null,
+			"Hoo...hoo...finally escaped back ......",
+			"Hoo, hoo ...... finally got away ......."
+		],
+		[
+			"msg",
+			306125,
+			"How surprising that the Houkai beasts have that much excessive emotions... To pick up negative emotions, a substantial number of experiments are required...",
+			"没想到崩坏生物还有这么多多余的感情…要从众多的感情中挑选出负面的情绪看来还需要大量的实验才行呢……",
+			"まさか崩壊生物にこんな無駄な感情が備わっていたなんて……数多くの感情の中からマイナスの情緒を選び出すにはまだ膨大な実験が必要みたいね……。",
+			"설마 붕괴 생물에 이런 쓸데없는 감정이 갖춰져 있었다니…… 수많은 감정 중에서 마이너스 정서를 골라내려면 아직도 엄청난 실험이 필요할 것 같네…….",
+			null,
+			null,
+			"I did not expect the collapse creatures have so many extra feelings ... to pick out the negative emotions from the many feelings seems to require a lot of experimentation to do it ......",
+			"I didn't think that disintegrating organisms were equipped with such useless emotions. ......It seems that it still takes a huge amount of experimentation to pick out the negative emotions from the many ......."
+		],
+		[
+			"msg",
+			306126,
+			"Hmm... Let's forget about this weapon for now. We can't put it into use at this stage.",
+			"嗯…这个秘密武器还是先封印起来好了，目前来说实战应用还是太困难了。",
+			"うん……この秘密兵器はひとまず封印しておいたほうがいいわね。今のところ実戦に応用するのは難しいわ……。",
+			"응…… 이 비밀 병기는 일단 봉인해 두는 게 좋을 것 같네. 지금으로선 실전에 응용하기는 어려울 거야…….",
+			null,
+			null,
+			"Well...this secret weapon is better to seal up first, for now the practical application is still too difficult.",
+			"Yeah ...... this secret weapon should be sealed for now. It's hard to apply it to real-world situations at the moment. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306127,
+			"You're back. How is the weapon testing? Is it powerful?",
+			"你们回来了啊，怎么样？那个武器的威力如何？",
+			"おかえり。どうだった？あの武器の威力は。",
+			"어서 와. 어땠어? 그 무기 위력은.",
+			null,
+			null,
+			"You're back, how was it? How was the power of that weapon?",
+			"Welcome back. How was it? How powerful was that weapon?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			306128,
+			"Hmm... So far the results are kind of...",
+			"嗯…目前的实验结果来说稍微有点……",
+			"えーと……目下の実験結果からすると、まだちょっと——",
+			"어음…… 현재 실험 결과로는 아직 좀 ——",
+			null,
+			null,
+			"Well ... slightly in terms of the current experimental results ......",
+			"Well, based on the results of the experiment underway at ......, it's still a bit--"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306129,
+			"Huh? Don't tell me we risked our lives only to bring you back some rubbish!",
+			"嗯？你该不会说我们冒死带回来一堆废物吧！",
+			"んん？まさか命をかけて持ち帰ったのがゴミだったなんて言わないよな！？",
+			"음? 설마 목숨 걸고 가져온 게 쓰레기였다는 말은 하지 않겠지!?",
+			null,
+			null,
+			"Hmm? You're not going to say we risked our lives to bring back a bunch of crap, are you?",
+			"Hm? Don't tell me that what you risked your life to bring back was garbage!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306130,
+			"Kind of... impressive.",
+			"有点厉害……",
+			"——ちょっと……すごいことが起こりました。",
+			"—— 조금…… 엄청난 일이 벌어졌어요.",
+			null,
+			null,
+			"It's kind of awesome ......",
+			"-- hey ...... something amazing happened."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306131,
+			"Oh really? It looks like ordinary firearms, I can use it then. Give me one so that I can protect myself.",
+			"嚯嚯~真的么！看样子和普通的枪械差不多呢，这样我也可以使用呢~给我一把防身吧。",
+			"へえ～本当？見たところ普通の銃器と大差ないな。これなら扱えそうだ。護身用に一丁くれよ。",
+			"헤에~ 정말? 보통 총기랑 별다를 거 없어. 이 정도면 다룰 수 있을 것 같아. 호신용으로 하나 줘.",
+			null,
+			null,
+			"Ho ho ho~ really! It looks similar to a normal firearm, so I can use it too~ Give me one for self-defense.",
+			"Heh - really? From the looks of it, it's not much different from a regular firearm. I think I can handle this. Give me one for self-defense."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			306132,
+			"Erm... It is still in trial stage, so it is slightly unstable...",
+			"等下…这个还处于实验阶段，所以还稍微有点不稳定……",
+			"待って……これはまだ実験段階だから、安定してなくて……。",
+			"잠깐…… 이건 아직 실험 단계라서, 안정적이지 않아서…….",
+			null,
+			null,
+			"Wait...this is still in the experimental stage, so it's still slightly unstable ......",
+			"Wait ...... this is still in the experimental stage, so it's not stable and ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306133,
+			"Come on, don't be stingy!",
+			"啊？别这么小气嘛！",
+			"あ？ケチケチすんなよ！",
+			"아? 짜져 하지 마!",
+			null,
+			null,
+			"What? Don't be so stingy!",
+			"Huh? Don't be stingy!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			306134,
+			"Ok... Here you go. I must remind you that this is too powerful and you shouldn't use it unless you're in dire need. No better not use it even if you're in dire straits...",
+			"好吧……给你，但是这个的威力太强大了…所以不到危机时刻千万不要使用…最好危机时刻也不要使用……",
+			"いいわ……あげる。でも威力が強大すぎるから……危機的瞬間まで決して使わないで……危機的瞬間でも使わないのが一番だけど……。",
+			"좋아…… 줄게. 하지만 위력이 너무 강력하니까…… 위기의 순간까지 절대 사용하지 마…… 위기의 순간이라도 안 쓰는 게 제일이지만…….",
+			null,
+			null,
+			"Well ...... to you, but the power of this is too powerful ... so do not use it until the moment of crisis ... better not to use ...... even in times of crisis",
+			"Okay, I'll give you ....... But it's too powerful, so it's best to never use it until ...... the moment of crisis, and never use it even at ...... the moment of crisis. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306135,
+			"Huh? What did you say?",
+			"嗯？你说什么？",
+			"は？何言ってんだ？",
+			"하? 뭐라고?",
+			null,
+			null,
+			"Hmm? What did you say?",
+			"Huh? What are you talking about?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			306136,
+			"No... nothing...",
+			"没…没什么……",
+			"な、何でもないわ……。",
+			"아, 아무것도 아니야…….",
+			null,
+			null,
+			"Nothing...nothing ......",
+			"Hey, it's nothing. ......"
+		]
+	]
+}

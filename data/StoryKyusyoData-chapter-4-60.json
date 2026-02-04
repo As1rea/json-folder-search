@@ -1,0 +1,994 @@
+{
+	"1201": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			306656,
+			"Dadada!",
+			"哒哒哒！",
+			"ダダダッ——！",
+			"다다닫——!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dah-dah--!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306657,
+			"*Gasp*... This is never going to end. Without reinforcements, we can’t last long!",
+			"呼呼…这样战斗下去真是没完没了，如果没有增援的话恐怕撑不了多久了！",
+			"はぁ、はぁ……このまま戦っていてもキリがありません。応援が来ない限り、もう持ちこたえられないかと！",
+			"하아, 하아…… 이대로 싸워도 끝이 없어. 지원이 오지 않는 한, 더 이상 버틸 수 없을 것 같아!",
+			null,
+			null,
+			"Phew...this battle is really endless, if there is no reinforcement, I'm afraid it will not last long!",
+			"Haha, haha...... there is no end to this fighting. I'm not sure we can hold on any longer unless we get some backup!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306658,
+			"Don't give up, keep fighting!",
+			"不要放弃，坚持下去！",
+			"諦めないで。頑張って！",
+			"포기하지 마. 힘내!",
+			null,
+			null,
+			"Don't give up, hang in there!",
+			"Don't give up. Hang in there!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306659,
+			"The Greymoths are really good... They are not even breaking a sweat in such an intensive battle...",
+			"灰蛾部队的家伙还真是厉害啊…这么激烈的战斗居然不带喘气的……",
+			"灰蛾部隊は本当にすごいわね……こんなに激しい戦闘でも息が上がらないなんて……。",
+			"회아 부대는 정말 대단하네…… 이렇게 격렬한 전투에서도 숨이 차지 않다니…….",
+			null,
+			null,
+			"Grey Moth Force guys are really powerful ah ... so fierce battle actually did not take a breath ......",
+			"The ash moth unit is really amazing ...... that they don't catch their breath in such intense combat. ......"
+		],
+		[
+			"msg",
+			306660,
+			"But this is the best they could do... It’s only a matter of time before the defense is breached.",
+			"不过现在的状态也已经是极限了……防线被突破只是时间问题而已。",
+			"でも、今の状態ももう限界……防衛線が突破されるのも時間の問題ね。",
+			"하지만, 지금 상태도 한계야…… 방어선이 돌파되는 건 시간 문제겠지.",
+			null,
+			null,
+			"But the current state is also the limit ...... defense is broken is just a matter of time.",
+			"But I think it's only a matter of time before the current state of the ...... defense line is breached."
+		],
+		[
+			"choice",
+			[
+				306976,
+				"I will get Himeko back.",
+				"我去把姬子叫回来。",
+				"姫子を呼んでくる。",
+				"히메코를 불러올게.",
+				null
+			],
+			[
+				306977,
+				"Let the HOMU robots join the battle.",
+				"让吼姆机器人也参加战斗吧。",
+				"ホムロボットも戦闘に加えよう。",
+				"호무로 로봇도 전투에 참가시키자.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1202,
+			1203
+		]
+	],
+	"1202": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306661,
+			"I don’t think Himeko is any more optimistic either. They have a lot less people than we do. Not much hope asking her to come back.",
+			"姬子那边恐怕也不是很乐观吧，她们的人比我们少多了，让她回来恐怕希望不大。",
+			"うーん、姫子の方もかなり厳しい状況だと思う……。あっちの方が人少ないし、彼女に戻ってもらうのは難しそう。",
+			"음, 히메코 쪽도 꽤 힘든 상황일 것 같아……. 저쪽은 인원도 적으니 그녀를 돌려보내는 건 어려울 거야.",
+			null,
+			null,
+			"I'm afraid that Himeko's side is not very optimistic, right? They have much fewer people than we do, so I'm afraid there's not much hope for her to come back.",
+			"Hmmm, I think Himeko is in a very difficult situation ....... There are fewer people over there and it's going to be difficult to get her to come back."
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306662,
+			"We have insufficient ammunition, and humans cannot fight forever... Even we ask you to join the battle now, it’s hard to last until the end...",
+			"弹药不足，人类的体力也是有极限的…就算让你现在加入战斗也很难说可以撑到最后……",
+			"弾薬は足りないし、人間の体力にも限界がある……あなたに今から戦闘に加わってもらっても、最後までもたないでしょうね……。",
+			"탄약도 부족하고, 인간의 체력에도 한계가 있어…… 당신이 지금부터 전투에 참여해도, 끝까지 버티지 못할 거야…….",
+			null,
+			null,
+			"Insufficient ammunition, human physical strength is also the limit ... even if you join the battle now it is difficult to say that you can last until the end ......",
+			"We don't have enough ammunition, and our human strength is limited. ......If you were to join us in battle now, you wouldn't last. ......"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1204
+		]
+	],
+	"1203": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306663,
+			"Unfortunately, those engineering robots can’t do much. I would rather use them to set up some barriers instead of putting them in battle.",
+			"很遗憾，那些工程机器人可不是什么逆转战局的家伙，让它们去战斗还不如多设几道路障。",
+			"残念だけど、あの工事ロボットは戦局を逆転できるほどの代物ではないの。あいつらに戦わせるくらいなら、バリケードを作らせた方がマシだわ。",
+			"아쉽지만, 저 공사 로봇은 전황을 역전시킬 만한 물건이 아니야. 저 녀석들을 싸우게 하는 것보다는 바리케이드를 만들게 하는 편이 나아.",
+			null,
+			null,
+			"Unfortunately, those engineering robots are not guys who turn the tide of battle, and it would be better to let them fight than to set up a few more roadblocks.",
+			"Unfortunately, those construction robots aren't good enough to turn the tide. I'd rather have them build barricades than let them fight."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1204
+		]
+	],
+	"1204": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306664,
+			"It would be nice to have helpers as powerful as the Greymoths. They are brave, rigid and unafraid of death...",
+			"要是能有像灰蛾部队一样强大的帮手就好了，勇敢，刚硬，不惧死亡……",
+			"灰蛾部隊みたいに強い助っ人がいればいいんだけど。勇敢で、強くて死を恐れない……。",
+			"회아 부대처럼 강한 도움이 있다면 좋을 텐데. 용감하고, 강하고 죽음을 두려워하지 않는…….",
+			null,
+			null,
+			"It would be nice to have powerful helpers like the Grey Moth Force, brave, tough and unafraid of death ......",
+			"I wish I had a strong helper like the ash moth unit. Brave, strong and unafraid of death. ......"
+		],
+		[
+			"msg",
+			306665,
+			"Hmm... Hold on, speaking of that... I may have thought of something.",
+			"唔…等等，说到这个的话…我似乎想起来了点什么。",
+			"あっ……待って。そう言えば……何かいいものがあったような。",
+			"앗…… 잠깐. 그러고 보니…… 뭔가 좋은 게 있었던 것 같은데.",
+			null,
+			null,
+			"Well...wait, speaking of which...I seem to have remembered something.",
+			"Oh, ...... wait. Oh, I think I found something good at ......."
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306666,
+			"Right... We may have a way to find more forces. Maybe there is a solution!",
+			"对了…我们或许还有可以补充兵力的方法，或许还有救！",
+			"そうだ……まだ兵力を補う方法があるかもしれない。もしかしたら、助かるかも！",
+			"그래…… 아직 병력을 보충할 방법이 있을지도 몰라. 어쩌면, 도움이 될 수도 있어!",
+			null,
+			null,
+			"By the way...we may still have a way to replenish our troops and perhaps save!",
+			"Yes, ...... there may be a way to still supplement the troops. Maybe they can be saved!"
+		],
+		[
+			"msg",
+			306667,
+			"A few prototype mekas from the assembly line of ME Corp are stored in the hangar of Hyperion. I wanted Himeko to take them out and gather combat data, but forgot about it due to emergency situation. Maybe we can get them up running and use in battle.",
+			"ME社的那条流水线的机甲兵器有几台试做机存放在休伯利安的机库中，本来想让姬子带出去收集战斗资料的，情况紧急就给遗忘掉了，我们或许可以把它们启动了投入战场。",
+			"実はME社の工場から機甲兵器の試作機を数台拝借してて、格納庫に保管してあるのよ。姫子に預けて戦闘データを収集する予定だったんだけど、緊急事態だし……。そいつらを起動させて、戦場に投入できるかもしれない。",
+			"사실 ME사 공장에서 기갑 병기의 시제기를 몇 대 빌려서 격납고에 보관해뒀어. 히메코에게 맡겨 전투 데이터를 수집할 예정이었지만, 긴급 사태라……. 그 녀석들을 기동시켜 전장에 투입할 수 있을지도 몰라.",
+			null,
+			null,
+			"ME Society that assembly line of mecha weapons have a few trial machines stored in the hangar in Huberlian, originally intended to let Himeko take out to collect combat information, the situation is urgent to be forgotten, we may be able to start them into the battlefield.",
+			"I actually borrowed a couple of prototype armored weapons from ME's factory and have them stored in my hangar. I was going to leave them with Himeko to collect combat data, but it's an emergency situation and ....... I might be able to activate them and put them into the field."
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306668,
+			"We never found a way to perfectly control the mekas to fight Houkai creatures due to problems with their internal safety protocols. However, I did change their internal priority execution commands. Based on my calculation, they should work.",
+			"之前因为那些机甲内部安全协议的问题一直没能想出完美控制它们和崩坏生物对抗的手段，但我给这批机甲修改了内部的关键优先执行指令，按照计算推断的话，应该是能派上用场的。",
+			"以前は機甲内部のセキュリティプロトコルの問題で、上手く命令系統が働かなかったの。でも、機甲内部のキーをいじって、命令の優先度を改造したから、計算上はうまく動いてくれるはずよ。",
+			"이전에는 기갑 내부의 보안 프로토콜 문제로, 제대로 명령 계통이 작동하지 않았어. 하지만 기갑 내부의 키를 조작해서 명령의 우선도를 개조했으니까, 계산상으로는 잘 움직여줄 거야.",
+			null,
+			null,
+			"Previously, because of the internal security protocols of those mechs have not been able to come up with the means to perfectly control them against the collapsing creatures, but I gave this batch of mechs modified internal key priority execution instructions, according to calculations extrapolated, it should be able to come in handy.",
+			"Previously, the chain of command didn't work well because of a security protocol issue inside the armor. But I tweaked the keys inside the armor and modified the priority of the commands, so it should work computationally."
+		],
+		[
+			"msg",
+			306669,
+			"Anyway, let’s bring them from the hangar first. While they were never used in actual battle... But if we die here, we will never have a chance to use them!",
+			"总之先把它们从机库带过来吧，虽说没有投入过实战…但就这么死在这里不是再也没有使用的机会了！",
+			"とにかく、まずは格納庫から機甲を持ってきましょう。実戦に投入したことはないけれど……ここでこうして死んじゃったら、もう使う機会もなくなっちゃうわ！",
+			"어쨌든, 먼저 격납고에서 기갑을 가져오자. 실전에 투입해본 적은 없지만…… 여기서 이렇게 죽어버리면, 다시 쓸 기회도 없어지잖아!",
+			null,
+			null,
+			"Anyway, first bring them from the hangar, although not put into actual combat ... but just die here is not never used again!",
+			"Anyway, first let's get some armor from the hangar. I've never put it into actual combat, but ...... if it dies like this here, I'll never get a chance to use it again!"
+		],
+		[
+			"msg",
+			306670,
+			"It will be fine... As long as they don’t take our own people as enemies, I will call that a success...",
+			"没问题的…只要不把自己人当成敌人…应该就算是成功了……",
+			"大丈夫……味方をちゃんと識別してくれれば……成功するはずよ……。",
+			"괜찮아…… 아군을 제대로 식별해준다면…… 성공할 거야…….",
+			null,
+			null,
+			"No problem...as long as you don't treat your own people as enemies...it should be considered a success ......",
+			"Don't worry ...... if you identify your allies properly ...... you should be successful ......."
+		]
+	],
+	"1205": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306671,
+			"The hangar is just above the power sector. It’s not far, but still highly dangerous... We have no more available support for you, so everything is up to you.",
+			"机库的位置就在动力区的上方，虽然距离不远，但还是很危险…这边已经没有人手支援了，所以一切靠你了。",
+			"格納庫の位置は動力エリアの上方よ。距離は遠くないけれど、とても危険だから注意してね……こっちはもう人手を回せないし、全てあなたにかかっているわ。",
+			"격납고의 위치는 동력 에어리어의 상방이야. 거리는 멀지 않지만, 매우 위험하니까 조심해…… 이쪽은 이미 인력을 돌릴 수 없으니, 모두 네게 달려있어.",
+			null,
+			null,
+			"The location of the hangar is just above the power area, although not far away, but still very dangerous ... this side has no manpower support, so everything depends on you.",
+			"The hangar is located above the power area. It's not far away, but it's very dangerous, so be careful. ...... We can't manhandle them anymore, and it's all on you."
+		],
+		[
+			"msg",
+			306672,
+			"The activation button to those mekas is with me. You just need to switch on the power in the hangar. I will control them to move from here.",
+			"那些机甲兵器的启动按钮在我这边，你只要启动机库中的电源就行了，我这边会负责控制它们进行移动。",
+			"機甲兵器の起動ボタンは私のところにあるわ。あなたは格納庫内の電源を起動させるだけでいいから。機甲の起動は私に任せて。",
+			"기갑 병기의 기동 버튼은 내가 가지고 있어. 넌 격납고 내부의 전원을 기동시키기만 하면 돼. 기갑의 기동은 나에게 맡겨.",
+			null,
+			null,
+			"The start button for those mecha weapons is on my side, you just need to start the power in the hangar, and my side will be responsible for controlling them to move.",
+			"The activation button for the armored weapon is at my place. All you have to do is activate the power supply in the hangar. I'll take care of the armored activation."
+		],
+		[
+			"msg",
+			306673,
+			"So, we are counting on you. Please do it as soon as possible.",
+			"那么就拜托你了，请尽快。",
+			"それじゃあお願いね。できるだけ早くね。",
+			"그러면 부탁할게. 될 수 있는 한 빨리.",
+			null,
+			null,
+			"Then it's up to you, please, as soon as possible.",
+			"So, please do me a favor. As soon as possible."
+		]
+	],
+	"1206": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306674,
+			"They are finally here... Already, now I just need them to enter the battlefield. I will leave the rest of battle to the program. At this stage, there is still a lot of risk trying to write the remote control commands without interfering with the safety protocols.",
+			"终于来了么…很好，接下来只要让它们进入战场就行了，剩下的就依靠程序自行作战吧，现阶段要把远程操作的指令要绕过全部安全协议写上去风险还是很大的。",
+			"やっと来たわね……でかしたわ。あとは機甲を戦場に送り込むだけ……プログラムに従って戦ってくれるわ。直接、遠隔操作をするにはセキュリティプロトコルを避けて書き直す必要があるから、今はこれで見守りましょう。",
+			"드디어 왔구나…… 잘했어. 이제 기갑을 전장에 보내기만 하면…… 프로그램에 따라 싸워줄 거야. 직접 원격 조종을 하려면 보안 프로토콜을 피해서 다시 써야 하니까, 지금은 이대로 지켜보자.",
+			null,
+			null,
+			"Finally came? ... very good, the next as long as they enter the battlefield on the line, the rest will rely on the program to fight on their own, at this stage to the remote operation of the instructions to bypass all the security protocols to write up the risk is still very large.",
+			"It's finally here ...... and we've done it. Now all we have to do is send the armor into the battlefield and it will fight according to the ...... program. Directly, we'll have to rewrite it to avoid security protocols for remote control, so let's keep an eye on it for now."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306675,
+			"*Kala*... *Kala*...",
+			"喀拉喀拉……",
+			"ウィーン、ガシャン……。",
+			"위이인, 가챤…….",
+			null,
+			null,
+			"Kerala ......",
+			"Vienna, Gashan. ......"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306676,
+			"What’s wrong with these junks! They are not even attacking the Houkai creatures! They are only blocking our way!",
+			"这群破铜烂铁到底是怎么回事！完全都不攻击崩坏生物啊，这样放在这只会碍手碍脚吧！",
+			"何よ、この鉄くず！？全然崩壊生物を攻撃しないじゃないの。これじゃあ、足手まといよ！",
+			"뭐야, 이 고철덩어리!? 완전히 붕괴 생물을 공격하지 않는 거 아냐? 이러니까 발목만 잡히잖아!",
+			null,
+			null,
+			"What the hell is wrong with this group of broken iron! They don't attack the creatures of destruction at all, so they're just getting in the way!",
+			"What's with this scrap iron? You don't attack disintegrating organisms at all! You're slowing us down!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306677,
+			"Uh... That’s weird, they are supposed to start attacking once they detect enemy units... Is there something wrong with the detecting program...",
+			"呃…奇怪，照理说如果判断为敌方单位的话就会发起进攻，难道是判定程序出了问题了么……",
+			"あれ……変ねえ。敵のユニットと判断すれば攻撃するはずなんだけど。まさか識別プログラムに問題でも……？",
+			"어라…… 이상하네. 적 유닛으로 판단하면 공격해야 하는데. 설마 식별 프로그램에 문제라도……?",
+			null,
+			null,
+			"Uh ... strange, as a matter of fact, if the judgment of the enemy unit will attack, is it a problem with the decision process ......",
+			"That ...... is weird. It should attack if it determines that the unit is an enemy unit. Is there a problem with the identification program ......?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306678,
+			"Roar!",
+			"吼吼吼！",
+			"グォォォォォ！！",
+			"그오오오오옹!!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Gooooooo!!!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306679,
+			"Oh no...",
+			"糟了……",
+			"しまった……。",
+			"젠장…….",
+			null,
+			null,
+			"Oh no. ......",
+			"Shit. ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			306680,
+			"Boom!!",
+			"砰！！",
+			"ガシャンッ！",
+			"가챤!!",
+			null,
+			null,
+			"BANG!!!",
+			"Clash!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306681,
+			"!?",
+			"！？",
+			"！？",
+			"!?",
+			null,
+			null,
+			"!",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306682,
+			"They are attacking... The program worked!",
+			"攻击了…程序奏效了！",
+			"攻撃した……プログラムが機能したんだ！",
+			"공격했어…… 프로그램이 작동한 거야!",
+			null,
+			null,
+			"The attack is on...and the program worked!",
+			"The ...... program you attacked worked!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			306683,
+			"Dadada!",
+			"哒哒哒！！",
+			"ダダダッ！！ダダダッ！！",
+			"다다닫!! 다다닫!!",
+			null,
+			null,
+			"Ta-da!!!",
+			"Dah dah dah dah dah dah dah dah dah dah dah dah dah! Dah dah dah dah dah dah dah dah dah dah dah dah dah!"
+		],
+		[
+			"msg",
+			306684,
+			"Boom!",
+			"轰隆！",
+			"ゴォォォン！",
+			"고오오온!",
+			null,
+			null,
+			"Boom!",
+			"Gong!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306685,
+			"They are quite good. The essence of ME Corp technologies is actually very useful when they fight seriously~",
+			"好厉害，不愧是ME社的科技核心，认真打起来还是挺有用的嘛~",
+			"すごい。さすがはME社の技術を集めた結晶。真面目に戦ってくれればかなり役に立ってくれるわね。",
+			"대단하네. 역시 ME사의 기술을 모아 만든 결정체. 진짜로 싸워준다면 꽤 쓸만하겠네.",
+			null,
+			null,
+			"So powerful, worthy of the ME society's technology core, serious fight or quite useful well ~",
+			"Amazing. This is indeed the crystallization of ME company's technology. They'll be quite useful to us if they fight seriously."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306686,
+			"We can’t lose to these mekas either! Attack harder!",
+			"我们也不能输给这些机甲！加强攻势！",
+			"私たちも機甲に負けていられないわ！火力集中ッ！",
+			"우리들도 기갑에게 지지 않을 거야! 화력 집중!",
+			null,
+			null,
+			"We can't lose to these mechs either! Intensify the offensive!",
+			"We can't afford to be outmatched by armor! Concentrate firepower!"
+		]
+	],
+	"1207": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306687,
+			"Ha... Himeo’s squad is as good as the meka weapons. Are they really humans...",
+			"哈…真不愧是姬子那家伙的部队…作战能力完全不逊色于机甲兵器呢，这些家伙真的是人类么……",
+			"はは……さすがは姫子の部隊……戦闘能力は機甲兵器と遜色ないわ。あいつら本当に人間なのかしら……。",
+			"하하…… 역시 히메코 부대…… 전투 능력은 기갑 병기와 손색없네. 저 녀석들 정말 인간인 걸까……",
+			null,
+			null,
+			"Ha ... really worthy of the Himeko guy's troops ... combat ability is not inferior to the mecha weapons it, these guys are really human ......",
+			"Haha,...... as expected of Himeko's troops,...... their combat capability is on par with armored weapons. I wonder if those guys are really human ......."
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306688,
+			"But these meka weapons are still not attacking as hard as they should. Where’s the problem?",
+			"不过这些机甲兵器的攻击欲望还是没有想象的强烈，到底是哪里出了问题呢？",
+			"うーん、でも、機甲兵器が攻撃に至る閾値が思っていたほど高くないわね。一体どこに問題があるのかしら？",
+			"음…… 하지만 기갑 병기의 공격 발동 임계값이 생각보다 높지 않네. 대체 어디에 문제가 있는 거지?",
+			null,
+			null,
+			"Still, the desire of these mecha weapons to attack is not as strong as imagined, so what went wrong?",
+			"Hmmm, but the threshold for an armored weapon to reach an attack is not as high as I thought it would be. Where exactly is the problem?"
+		],
+		[
+			"msg",
+			306689,
+			"I remember I used a violent way trying to change the internal codes of the meka... And I found a special piece of information. There was a hidden priority execution command tracing from that piece of information...",
+			"我记得之前用了暴力的方法试图修改了机甲内部的代码…发现了一段比较特殊的信息片段，通过这段信息延伸汇聚而成的，则有着一段隐藏的优先执行指令……",
+			"確か以前、無理やり機甲内部のコードを修正しようとして……特殊なコードを見つけたんだよね。そのコードには、高優先度の隠された命令が書いてあって……。",
+			"확실히 예전에 억지로 기갑 내부 코드를 수정하려고…… 특이한 코드를 발견했었어. 그 코드엔 고우선순위의 숨겨진 명령이 작성되어 있었고…….",
+			null,
+			null,
+			"I remember using violent methods to try to modify the internal code of the mecha ... found a rather special piece of information, through the extension of this piece of information convergence, there is a hidden priority execution instructions ......",
+			"I'm pretty sure I found a ...... special code before when I tried to modify the code inside the armor by forcing it. That code had a high priority hidden instruction in it, ......."
+		],
+		[
+			"msg",
+			306690,
+			"And I simply swapped the target of those commands to “human”...",
+			"而我只是将这些机甲兵器要执行指令的对象换成了“人类”而已……",
+			"その命令の対象を「人間」に書き換えたんだけど……。",
+			"그 명령의 대상을인간로 바꿨는데…….",
+			null,
+			null,
+			"I just change the object of these mechs to carry out instructions to \"human\" ......",
+			"I rewrote the subject of that order to \"human beings.\" ......"
+		],
+		[
+			"msg",
+			306691,
+			"So they will not actively attack Houkai creatures, but will only do so when humans are under threat?",
+			"所以它们才不会主动攻击崩坏生物，只有在人类受到威胁时才会执行保护的行为么？",
+			"もしかして、保護対象のことだったのかな……。だから、人間が脅威にさらされたときだけ行動するとか？",
+			"혹시, 보호 대상에 대한 이야기였던 걸까……. 그래서 인간이 위협에 처했을 때만 행동한다든가?",
+			null,
+			null,
+			"Is that why they don't actively attack the collapsing creatures and only perform acts of protection when humans are threatened?",
+			"Maybe it was a protected species. ...... So they only act when humans are threatened or something?"
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306692,
+			"Ouch... The results are successful, but these mekas are still too passive because they will only respond when we are in danger. I should re-adjust them later...",
+			"咕…就结果来看确实是成功了，不过只有当我们遇到危险才会行动的机器人也太被动了，之后还是再仔细调整一下吧……",
+			"ぐっ……結果だけ見れば間違いなく成功ね。でも、私たちが危険に遭わないと行動しないロボットって、さすがに受け身すぎよね。今後はもう少し細かく調整しなくちゃ……。",
+			"윽…… 결과만 보면 분명히 성공이네. 하지만 우리가 위험에 처하지 않으면 행동하지 않는 로봇이라니, 역시 수동적이긴 하네. 앞으로는 좀 더 세세하게 조정해야겠어…….",
+			null,
+			null,
+			"Goo ... on the results are indeed successful, but only when we encounter danger will act the robot is too passive, after or carefully adjust it ......",
+			"Gg...... results alone show that it's definitely a success. But a robot that doesn't act unless we are in danger is indeed too passive. We need to make more detailed adjustments in the future. ......"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306693,
+			"Fortunately, with their protection, I can keep my focus on the power furnace. You should also...",
+			"不过还好有了它们舍身的保护，看来我也可以继续在动力炉上集中精神了。你也……",
+			"でも、彼らが捨て身で守ってくれたから、私も引き続き動力炉の修復に集中できるのよね。あなたも……。",
+			"하지만 그들이 목숨 걸고 지켜줬으니, 나도 계속 동력로 수복에 집중할 수 있겠네. 당신도…….",
+			null,
+			null,
+			"But fortunately with their surrendered protection, it looks like I can continue to focus on the power furnace as well. You too ......",
+			"But they protected me with their abandon so I can continue to focus on repairing the power reactor. You can also visit ......."
+		],
+		[
+			"msg",
+			306694,
+			"Please keep fighting, but don’t die.",
+			"请在不会死掉的程度下继续奋斗吧。",
+			"死なない程度に頑張ってちょうだいね。",
+			"안 죽을 정도로 힘내줘.",
+			null,
+			null,
+			"Please keep fighting to the extent that you will not die.",
+			"Please do your best not to die."
+		]
+	]
+}

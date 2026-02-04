@@ -1,0 +1,1293 @@
+{
+	"10540": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729715,
+			null,
+			"快速通知一下吧。",
+			"早くみんなに連絡しよう。",
+			"빨리 모두에게 연락하자.",
+			null,
+			null,
+			"Let's have a quick notice.",
+			"Let's contact everyone as soon as possible."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729716,
+			null,
+			"………………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			729717,
+			null,
+			"我快速通知了在舷窗附近的猎兵们要前往会议室。",
+			"窓の近くにいた猟兵らに会議室に向かうよう伝えた。",
+			"창가 근처에 있던 헌터 병사들에게 회의실로 오라고 전했다.",
+			null,
+			null,
+			"I quickly informed the hunters who were near the porthole that they were going to head to the conference room.",
+			"He told the hunters near the window to head for the conference room."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			10541
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			10541
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			10541
+		]
+	],
+	"10541": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729718,
+			null,
+			"…………好了。",
+			"…………よし。",
+			"…………좋아.",
+			null,
+			null,
+			"............ is good.",
+			"............ Okay."
+		],
+		[
+			"msg",
+			729719,
+			null,
+			"接下来是在宿舍区的孩子们。",
+			"次は生活区画にいる子どもたちだな。",
+			"다음은 생활 구역에 있는 아이들이다.",
+			null,
+			null,
+			"Next up were the kids in the dormitory area.",
+			"Next up are the children in the living quarters."
+		],
+		[
+			"choice",
+			[
+				729893,
+				null,
+				"前往宿舍区召集猎兵。",
+				"生活区画へ向かい猟兵たちを招集する。",
+				"생활구역으로 가서 사냥병들을 소집한다.",
+				null
+			]
+		]
+	],
+	"10542": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729720,
+			null,
+			"……走吧。",
+			"……行こう。",
+			"……가자.",
+			null,
+			null,
+			"...... Let's go.",
+			"Let's go to ......."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729721,
+			null,
+			"………………",
+			"………………",
+			"………………",
+			null
+		],
+		[
+			"msg",
+			729722,
+			null,
+			"我来到了宿舍区。",
+			"生活区画へとやってきた。",
+			"생활 구역에 도착했다.",
+			null,
+			null,
+			"I came to the dormitory area.",
+			"We came to the living quarters."
+		],
+		[
+			"msg",
+			729723,
+			null,
+			"猎犬09和猎犬04在这里。",
+			"猟犬09と04がいる。",
+			"헌터독 09와 04가 있다.",
+			null,
+			null,
+			"Hound 09 and Hound 04 are here.",
+			"There are hounds 09 and 04."
+		],
+		[
+			"choice",
+			[
+				729894,
+				null,
+				"和猎犬09谈谈。",
+				"猟犬09と話す。",
+				"사냥개09와 대화한다.",
+				null
+			],
+			[
+				729895,
+				null,
+				"迅速通知他们，然后直接去下一个地点。",
+				"子供たちに早く知らせて、そのまま次の場所へと向かう。",
+				"아이들에게 빨리 알리고, 그대로 다음 장소로 향한다.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			10543,
+			10545
+		]
+	],
+	"10543": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			320734
+		],
+		[
+			"bg",
+			"CG10280"
+		],
+		[
+			"portraits",
+			[
+				30702,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729724,
+			null,
+			"老爹，小队的装备岚音姐和我已经全部更新过了，现在装备的金属材质都做了抗性处理，携行具的关键部件也换成合成纤维的了，累死我俩了。",
+			"お父さん、私と嵐音姉さんで猟犬小隊の装備、全部更新しておきました。金属素材はすべて耐性のある処理を施し、重要なパーツも合成繊維のものに変えておきました。もうクタクタです。",
+			"아버지, 제가 란음 누나랑 함께 헌터독 소대 장비 전부 업데이트해 놓았어요. 금속 소재는 모두 내성 처리했고, 중요한 부품도 합성 섬유로 교체해 놓았어요. 이제 완전 녹초가 됐네요.",
+			null,
+			null,
+			"Pops, the squad's equipment Arashina and I have already updated all of them, the metal of the equipment is now made resistant, and the key parts of the carrying gear have been replaced with synthetic fibers, it's exhausting for both of us.",
+			"Dad, my sister Arashine and I have updated all the equipment of the hound platoon. All metal materials have been treated to make them resistant, and important parts have been replaced with synthetic ones. I am exhausted."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729725,
+			null,
+			"对抗寒铁这种级别的植入者就要做这么多战前准备，现在去会议室集合。",
+			"寒鉄クラスのレシピエントに対抗するには、それくらい準備を徹底しないといけないからな。では会議室に集合してくれ。",
+			"한철 급의 레시피언트에 대항하려면 그 정도 준비를 철저히 해야 하니까. 그럼 회의실에 집합해 줘.",
+			null,
+			null,
+			"So much pre-battle preparation is needed to fight against an implanter of Cold Iron's caliber, now gather in the conference room.",
+			"Because you have to be that thorough in your preparation if you want to compete with the cold-iron class of recipients. Now go to the conference room and assemble."
+		],
+		[
+			"speaker",
+			320734
+		],
+		[
+			"portraits",
+			[
+				30702,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729726,
+			null,
+			"那个那个，岚音姐一直很担心老爹哦，虽然她没说，但是这次的作战部署她已经事先全部了解过了。",
+			"あの、嵐音姉さんがお父さんのことずっと心配してました。口には出しませんが、今回の作戦の状況について目を通してるみたいですよ。",
+			"저기, 란음 언니가 아버지 일을 계속 걱정하셨어요. 입으로는 안 내지만, 이번 작전 상황에 대해 보고 있는 모양이에요.",
+			null,
+			null,
+			"That that, Arashina-san has been very worried about Pops Oh, although she didn't say it, she's already known all about this battle deployment beforehand.",
+			"Well, Arashine is worried about your father all the time. She hasn't said it out loud, but I think she's already read all about the situation of this operation."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729727,
+			null,
+			"我会夸奖她的。",
+			"そうか、後で誉めておくよ。",
+			"그랬구나, 나중에 칭찬해 둘게.",
+			null,
+			null,
+			"I'll compliment her.",
+			"Oh well, I'll give credit where credit is due later."
+		],
+		[
+			"speaker",
+			320734
+		],
+		[
+			"portraits",
+			[
+				30702,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729728,
+			null,
+			"不要跟她说是我说的哦，嘻嘻嘻。",
+			"私が言ったとは言わないで下さいね。フフフ。",
+			"제가 말했다고는 하지 말아 주세요. 훗훗.",
+			null,
+			null,
+			"Don't tell her I said that. Oh, hee hee hee hee.",
+			"Please don't tell me I said that. Hmph."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729729,
+			null,
+			"（猎犬09，克里斯汀，重装构型植入者，不知为何特别热衷于在我面前夸猎犬02，是团队的装备整修师。）",
+			"（猟犬09ことクリスティン。重装備の移植体のレシピエントだ。なぜか彼女は私の前で猟犬02のことをいつも決まって褒めちぎるのだ。彼女は装備のメンテナンスを担当している。）",
+			"(사냥개09 즉 크리스틴. 중장비의 이식체 레시피언트다. 왠지 그녀는 내 앞에서 사냥개02 얘기를 늘 극찬한다. 그녀는 장비 정비를 담당하고 있다.)",
+			null,
+			null,
+			"(Hound 09, Kristin, Heavy Configuration implant, for some reason particularly keen on praising Hound 02 in front of me, is the team's equipment refurbisher.)",
+			"(Christine, aka Hound 09. She is the recipient of a heavily implanted transplant. For some reason, she always praises Hound 02 in front of me. She is in charge of equipment maintenance.)"
+		],
+		[
+			"choice",
+			[
+				729896,
+				null,
+				"和猎犬04谈谈。",
+				"猟犬04と話す。",
+				"사냥개04와 대화한다.",
+				null
+			],
+			[
+				729897,
+				null,
+				"迅速通知他们，然后直接去下一个地点。",
+				"子供たちに早く知らせて、そのまま次の場所へと向かう。",
+				"아이들에게 빨리 알리고, 그대로 다음 장소로 향한다.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			10544,
+			10545
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			10546
+		]
+	],
+	"10544": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			320729
+		],
+		[
+			"bg",
+			"CG10280"
+		],
+		[
+			"portraits",
+			[
+				30697,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729730,
+			null,
+			"诶嘿嘿……好可爱啊……啊老爹！我没在看什么哦！",
+			"エヘヘ……かわいい……あっ、お父ちゃん！あたし、別に何も見てないよ！",
+			"에헤헤…… 귀여워…… 앗, 아빠! 나, 별로 아무것도 안 보고 있었어!",
+			null,
+			null,
+			"Eh hehehe ...... so cute ah ...... ah old dad! I'm not looking at anything oh!",
+			"Ahehe ...... cute ...... Oh, Dad! I didn't see anything!"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729731,
+			null,
+			"老四，去会议室集合。以及你这个岁数买点偶像周边很正常的。",
+			"猟犬04、会議室に集合だ。まあその年頃なら、アイドルグッズを持っていても別におかしくはない。",
+			"사냥개04, 회의실에 집합이다. 뭐 그 나이면 아이템 굿즈 가지고 있어도 별로 이상할 건 없지.",
+			null,
+			null,
+			"Senior, gather in the conference room. As well as it's normal to buy some idol peripherals at your age.",
+			"Hound04, meet in the conference room. Well, at your age, I wouldn't be surprised if you have some idol stuff."
+		],
+		[
+			"speaker",
+			320729
+		],
+		[
+			"portraits",
+			[
+				30697,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729732,
+			null,
+			"是、是这样吗？我不奇怪吗？老爹年轻的时候也买吗？",
+			"そ、そうかな？あたし変じゃない？お父ちゃんも若い頃、持ってた？",
+			"그, 그런가? 나 이상해? 아빠도 젊었을 때 가지고 있었어?",
+			null,
+			null,
+			"Is it, is it? Don't I wonder? Did Pops buy them when he was young?",
+			"Well, do you think so? Am I weird? Did your dad have one when he was younger?"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729733,
+			null,
+			"呃……先去开会吧。",
+			"オホン……今はとにかく集合しよう。",
+			"엣흠…… 지금은 어쨌든 집합하자.",
+			null,
+			null,
+			"Uh ...... go to the meeting first.",
+			"Ohon...... now let's just get together."
+		],
+		[
+			"speaker",
+			320729
+		],
+		[
+			"portraits",
+			[
+				30697,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729734,
+			null,
+			"果然我是很奇怪的女孩子吧……老爹不要安慰我了……呜呜呜……",
+			"やっぱりあたし、ちょっと変な女の子なのよ……お父ちゃん、気休めの言葉なんて言わないで……ううぅ……。",
+			"역시 나, 좀 이상한 여자애야…… 아빠, 위로의 말 같은 거 하지 말아…… 우우…….",
+			null,
+			null,
+			"It's true that I'm a very strange girl, right? ...... Pops don't comfort me ...... Wooooooo......",
+			"I'm a bit of a weird girl after all......Dad, don't say a word to make me feel better......Shiksik......"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729735,
+			null,
+			"（猎犬04，莉莉丝·维拉尔德，水之构型植入者，是偶像宅。）",
+			"（猟犬04ことリリス･ベラルタ。水の移植体のレシピエントでアイドルオタクだ。）",
+			"(사냥개04, 일명 릴리스 벨라르타. 물의 이식체 레시피언트에 아이돌 덕후다.)",
+			null,
+			null,
+			"(Hound 04, Lilith Velarde, a Water Construct implant, is an idol otaku.)",
+			"(Lilith Velarta, aka Hound Dog 04. She's a water transplant recipient and an idol geek.)"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			10546
+		]
+	],
+	"10545": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729736,
+			null,
+			"快速通知一下吧。",
+			"早くみんなに連絡しよう。",
+			"빨리 모두에게 연락하자.",
+			null,
+			null,
+			"Let's have a quick notice.",
+			"Let's contact everyone as soon as possible."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729737,
+			null,
+			"………………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			729738,
+			null,
+			"我快速通知了在宿舍区附近的猎兵们要前往会议室。",
+			"生活区画にいた猟兵らに会議室に向かうよう伝えた。",
+			"생활 구역에 있던 사냥병들에게 회의실로 향하라고 전했다.",
+			null,
+			null,
+			"I quickly informed the hunters who were near the dormitory area that they were going to head to the conference room.",
+			"He told the hunters in the living quarters to head for the conference room."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			10546
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			10546
+		]
+	],
+	"10546": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729739,
+			null,
+			"…………好了。",
+			"…………よし。",
+			"…………좋아.",
+			null,
+			null,
+			"............ is good.",
+			"............ Okay."
+		],
+		[
+			"msg",
+			729740,
+			null,
+			"最后是在射击室的两个。",
+			"後は射撃室にいる二人だ。",
+			"이제 사격실에 있는 두 명만 남았다.",
+			null,
+			null,
+			"The last two were in the shooting room.",
+			"The rest are the two in the shooting room."
+		],
+		[
+			"choice",
+			[
+				729898,
+				null,
+				"前往射击室召集猎兵。",
+				"射撃室へ向かい猟兵たちを招集する。",
+				"사격실로 가서 사냥병들을 소집한다.",
+				null
+			]
+		]
+	],
+	"10547": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729741,
+			null,
+			"……走吧。",
+			"……行こう。",
+			"……가자.",
+			null,
+			null,
+			"...... Let's go.",
+			"Let's go to ......."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729742,
+			null,
+			"………………",
+			"………………",
+			"………………",
+			null
+		],
+		[
+			"msg",
+			729743,
+			null,
+			"我来到了射击室。",
+			"射撃室へとやってきた。",
+			"사격실에 도착했다.",
+			null,
+			null,
+			"I made my way to the shooting room.",
+			"We came to the shooting room."
+		],
+		[
+			"msg",
+			729744,
+			null,
+			"猎犬06和猎犬08在这里。",
+			"猟犬06と08がいる。",
+			"사냥개06과 08이 있다.",
+			null,
+			null,
+			"Hound 06 and Hound 08 are here.",
+			"There are hounds 06 and 08."
+		],
+		[
+			"choice",
+			[
+				729899,
+				null,
+				"和猎犬06谈谈。",
+				"猟犬06と話す。",
+				"사냥개06과 대화한다.",
+				null
+			],
+			[
+				729900,
+				null,
+				"迅速通知他们，直接前往会议室。",
+				"子供たちに早く知らせて、そのまま会議室へ向かう。",
+				"아이들에게 빨리 알리고, 그대로 회의실로 향한다.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			10548,
+			10550
+		]
+	],
+	"10548": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			320731
+		],
+		[
+			"bg",
+			"CG10280"
+		],
+		[
+			"portraits",
+			[
+				30699,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729745,
+			null,
+			"今天……也幸运地活了下来呢。",
+			"今日も……幸運にも生き延びられました。",
+			"오늘도... 운 좋게 살아남았어.",
+			null,
+			null,
+			"Today ...... is also lucky to be alive yet.",
+			"You were lucky to survive today ......."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729746,
+			null,
+			"小六，到会议室集合。",
+			"猟犬06、会議室に集合だ。",
+			"사냥개06, 회의실로 집합이다.",
+			null,
+			null,
+			"Xiaoliu, gather in the conference room.",
+			"Hound 06, meet in the conference room."
+		],
+		[
+			"speaker",
+			320731
+		],
+		[
+			"portraits",
+			[
+				30699,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729747,
+			null,
+			"老爹今天看上去很阴森，没事吧？",
+			"父さん、今日はなんだか暗い感じがするけど、大丈夫？",
+			"아빠, 오늘은 왠지 어두운 느낌이 드는데, 괜찮아?",
+			null,
+			null,
+			"Pops is looking grim today. Is everything okay?",
+			"Dad, I'm feeling kind of gloomy today, are you okay?"
+		],
+		[
+			"msg",
+			729748,
+			null,
+			"来，给老爹我的幸运四叶草，这样我就把我的运气传递给老爹了哦~",
+			"はい、父さんにこの四葉のクローバーをあげます。これで私の持つ幸運が父さんにも共有されました。",
+			"네, 아빠에게 이 네 잎 클로버를 드릴게요. 이제 제가 가진 행운이 아빠에게도 공유되었어요.",
+			null,
+			null,
+			"Here, give Pops my lucky four-leaf clover so I can pass on my luck to Pops!",
+			"Yes, I will give this four-leaf clover to my father. This will share the luck I have with my father."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729749,
+			null,
+			"（猎犬06，阿纯，处于测试阶段的血之构型的植入者，绰号幸运儿。）",
+			"（猟犬06こと純。まだ試験段階の血の聖痕移植体のレシピエントだ。あだ名はラッキーボーイ。）",
+			"(사냥개06 즉 순. 아직 시험 단계의 혈흔 이식체 레시피언트다. 별명은 럭키보이.)",
+			null,
+			null,
+			"(Hound 06, Chun, implant of the Blood Construct in the testing phase, nicknamed Lucky.)",
+			"(Hound 06, or Jun. He is the recipient of a blood stigmata transplant that is still in the testing phase. His nickname is Lucky Boy.)"
+		],
+		[
+			"choice",
+			[
+				729901,
+				null,
+				"和猎犬08谈谈。",
+				"猟犬08と話す。",
+				"사냥개08과 대화한다.",
+				null
+			],
+			[
+				729902,
+				null,
+				"迅速通知他们，直接前往会议室。",
+				"子供たちに早く知らせて、そのまま会議室へ向かう。",
+				"아이들에게 빨리 알리고, 그대로 회의실로 향한다.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			10549,
+			10550
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			10551
+		]
+	],
+	"10549": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			320733
+		],
+		[
+			"bg",
+			"CG10280"
+		],
+		[
+			"portraits",
+			[
+				30701,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729750,
+			null,
+			"难敌号、怖军号……那艘是装载了三个崩坏炉的擎天巨人号吧？帅啊！",
+			"戦艦フォーミダブルにルテリブル……あれは3つの崩壊炉を備えたアトラスだな？かっけー！",
+			"전함 포미더블에 뤼테리블... 저건 3개의 붕괴로를 장착한 아틀라스군? 멋지다!",
+			null,
+			null,
+			"The Difficult Enemy, Terrorist Army ...... That's the Optimus Prime ship loaded with three Crash Furnaces, right? Cool!",
+			"Battleship Formidable and Lutheriable...... That's an Atlas with three disintegrating reactors, right? Cool!"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729751,
+			null,
+			"小八，去会议室集合。",
+			"猟犬08、会議室で集合だ。",
+			"사냥개08, 회의실에서 집합이다.",
+			null,
+			null,
+			"Hachi, gather in the conference room.",
+			"Hound 08, meet in the conference room."
+		],
+		[
+			"speaker",
+			320733
+		],
+		[
+			"portraits",
+			[
+				30701,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729752,
+			null,
+			"了解了解。这次他们还把<color=#DC143CFF>山之座</color>号开出来了。聚变炉换成了37式崩坏炉，舰长应该是艾斯摩尔上校。",
+			"はいよ、了解。今回更に<color=#DC143CFF>山の座</color>まで担ぎ出してきたな。原子炉を37式崩壊炉に換装したやつだ。艦長は確かアイスモール大佐のはず。",
+			"알았어, 로저. 이번엔 <color=#DC143CFF>산의 자리</color>까지 끌고 왔군. 원자로를 37식 붕괴로로 교체한 놈이야. 함장은 아마 아이스몰 대령일 거야.",
+			null,
+			null,
+			"Understanding. This time they also took out the <color=#DC143CFF>Zodiac of the Mountains</color>. The fusion furnace has been replaced with a Type 37 disintegration furnace, and the captain is supposed to be Colonel Esmoor.",
+			"Yes, I got it. This time, they even brought out the <color=#DC143CFF>Seat of the Mountain</color>. The one with the reactor replaced with a Type 37 Disintegrator Reactor. I believe the captain is Colonel Eismoll."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729753,
+			null,
+			"我只记得它在维修厂呆了很多年。",
+			"あの船はドッグに何年も置かれていたと記憶しているが。",
+			"그 함선은 도크에 몇 년째 방치되어 있었다고 기억하는데.",
+			null,
+			null,
+			"All I remember is that it was in the repair shop for many years.",
+			"I seem to recall that ship sitting in the docks for years."
+		],
+		[
+			"speaker",
+			320733
+		],
+		[
+			"portraits",
+			[
+				30701,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729754,
+			null,
+			"不过怎么没有现役军舰啊，都是老古董……我看腻月光王座级了。",
+			"現役の軍艦が全然いないじゃん。どれもこれも骨董品だな……ムーンライト･スローンは飽きるほど見たし。",
+			"현역 군함이 하나도 없잖아. 다 골동품이네... 문라이트･슬론은 질리도록 봤고.",
+			null,
+			null,
+			"How come there are no active warships though, they're all old ...... I'm tired of seeing the Moonlight Throne class.",
+			"You don't see any active warships at all. They're all antiques. ...... I've seen enough Moonlight Thrones to be bored."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729755,
+			null,
+			"（猎犬08，里德·法斯特，最基础的雷之构型植入者，团队里最熟悉载具的人。）",
+			"（猟犬08ことリド･ファスト。一番基本的な雷の移植体のレシピエントで、小隊の中で乗り物に最も詳しい人物だ。）",
+			"(사냥개08, 일명 리드‧패스트. 가장 기본적인 번개 이식체의 수혜자로, 소대 내에서 차량에 가장 익숙한 인물이다.)",
+			null,
+			null,
+			"(Hound 08, Reed Fast, the most basic Thunder's Construct implant and the most familiar carrier on the team.)",
+			"(Lido Fast, aka Hound 08. Recipient of the most basic lightning implant, and the most knowledgeable person in the platoon about vehicles.)"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			10551
+		]
+	]
+}

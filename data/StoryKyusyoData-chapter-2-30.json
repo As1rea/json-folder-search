@@ -1,0 +1,1439 @@
+{
+	"1105": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305865,
+			"Yssring lied to me!",
+			"可恶！伊瑟琳你这家伙居然骗我！！",
+			"まったく！イザーリンのやつ騙したわね！",
+			"정말! 이자린 녀석 속였네!",
+			null,
+			null,
+			"Damn! How dare you lie to me, Estherine!",
+			"Oh, my God! You tricked me, Ysraelin!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305866,
+			"How's that, Seele? Did you find the den?",
+			"希儿，怎么样？找到虫子的巢穴了么？",
+			"ゼーレ、どうだった虫の巣見つかった？",
+			"제레, 어땠어? 벌레 둥지 찾았어?",
+			null,
+			null,
+			"Hill, what's up? Did you find the bug's lair?",
+			"Seele, how did you find the worm's nest?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305867,
+			"I was covered in slime all day and found nothing!",
+			"找到个鬼啊！我满身粘液在那里趴了一天都没有动静！",
+			"見つかるわけないじゃない！体中粘液だらけにして、あの場所に1日中隠れて何も収穫なしよ！",
+			"찾을 리가 없잖아! 온몸에 점액을 뒤집어쓰고 그 곳에 하루 종일 숨어있었는데 아무것도 얻은 거 없어!",
+			null,
+			null,
+			"What the hell did you find? I'm covered in slime lying there all day without moving!",
+			"You'll never find me! I've got mucus all over me and I've been hiding in that place all day and I've got nothing to show for it!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305868,
+			"I think we need more than cocoons. They seem to be able to distinguish their own species. I need you to do me a favor again.",
+			"……看来只有虫茧还是不够，它们似乎有其他识别同类的方法，既然这样的话得发布一个新委托了。",
+			"……どうやら虫のマユだけでは足りないようね。彼らには仲間を識別する他の方法があるみたい。となると、新しい依頼をお願いしないと……。",
+			"……아무래도 벌레의 고치만으로는 부족한 모양이네. 녀석들끼리 서로를 식별하는 다른 방법이 있는 것 같아. 그렇다면 새로운 의뢰를 부탁하지 않으면…….",
+			null,
+			null,
+			"...... It seems that only the insect cocoons are still not enough, they seem to have other ways of identifying their kind, in that case a new commission will have to be issued.",
+			"...... Apparently, insect cocooning isn't enough. It seems they have other ways to identify their mates. So I'll have to ask for a new request: ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305869,
+			"I reject!",
+			"我拒绝！！",
+			"断るわ！！",
+			"거절할 거야!!",
+			null,
+			null,
+			"I refuse!!!",
+			"I refuse!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305870,
+			"Just leave it to me and Bronya. You should get some rest.",
+			"没事，这次委托我就找布洛妮娅吧，这次辛苦你了，请休息吧。",
+			"大丈夫、今回の依頼はブローニャにお願いする。お疲れ様。ゆっくり休んで。",
+			"괜찮아, 이번 의뢰는 브로냐에게 부탁할게. 수고했어. 천천히 쉬어.",
+			null,
+			null,
+			"It's okay, this time entrust me to find Bronya, this time hard work, please rest.",
+			"No problem, I will ask Bronya to take care of this request. Thanks for your help. Have a good rest."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305871,
+			"Don't you mention Sister again. I don't believe you.",
+			"哼，又想用这种伎俩么！不要用姐姐大人来骗我了！我是不会信的！",
+			"フンッ、またその手を使う気！お姉ちゃんをダシに騙さないで！信じないからね！",
+			"흥, 또 그 수를 쓸 셈이야! 언니를 빌미로 속이지 마! 믿지 않을 거니까!",
+			null,
+			null,
+			"Hmph, you're trying to use this trick again! Don't try to trick me with your sister! I won't believe it!",
+			"You're using that trick again! Don't use my sister as an excuse to cheat me! I don't believe you!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305872,
+			"Seele, you're back.",
+			"希儿你回来了。",
+			"ゼーレ、帰ってきたんですね。",
+			"제레, 돌아왔군요.",
+			null,
+			null,
+			"Hill you're back.",
+			"Seele, you are back."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305873,
+			"Sister.",
+			"咕…姐姐大人。",
+			"あ……お姉ちゃん！",
+			"아…… 언니!",
+			null,
+			null,
+			"Goo...sister-sama.",
+			"Oh ...... sis!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305874,
+			"Yssring, have we found the den?",
+			"伊瑟琳，怎么样，找到巢穴的位置了么？",
+			"イザーリン、どうですか、巣の位置は見つかりましたか？",
+			"이자린, 어때요, 둥지 위치는 찾았나요?",
+			null,
+			null,
+			"Estherine, how is it? Have you found the location of the nest?",
+			"Estherine, how are you doing, have you found the location of the nest?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305875,
+			"Not yet. The plan was foiled. The Houkai creatures are cleverer than we thought. They must have a complete communication system.",
+			"还没有…计划失败了，这些崩坏生物似乎没有想象的那么简单，它们有着一套完整的信息传递体系。",
+			"まだ……計画は失敗したわ。この崩壊生物はそれほど単純ではないみたい。あいつらには完璧な情報伝達システムがある。",
+			"아직…… 계획은 실패했어. 이 붕괴 생물은 그렇게 단순하지 않은 모양이야. 녀석들에겐 완벽한 정보 전달 시스템이 있어.",
+			null,
+			null,
+			"Not yet...the plan failed, these disintegrating creatures seem to be not as simple as they think, they have a complete system of information transfer.",
+			"Still the ...... plan has failed. It seems these disintegrating organisms are not so simple. They have a perfect communication system."
+		],
+		[
+			"msg",
+			305876,
+			"We need living larvae for research on how they communicate, so we may know how to track them down.",
+			"所以我觉得有必要抓捕一些活体的幼虫进行研究，这样就可以查明它们的传递方法，通过这个方法找到巢穴。",
+			"だから、生きた幼虫を捕まえて研究をする必要があると思う。そうすれば、あいつらの意思伝達方法が分かるかも。それで巣にたどり着ける。",
+			"그러니 살아있는 유충을 잡아서 연구할 필요가 있다고 생각해. 그렇게 하면 녀석들의 의사 전달 방법을 알 수 있을지도 몰라. 그렇게 해서 둥지에 도달할 수 있을 거야.",
+			null,
+			null,
+			"So I felt the need to capture some live larvae for study so that I could identify their method of delivery and find the nest through this method.",
+			"So I think we need to catch live larvae and study them. Then maybe we can figure out how those guys communicate. That way we can get to the nest."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305877,
+			"Catching the Houkai creatures? There's a lot of risks.",
+			"抓捕崩坏生物么…之前没有尝试过这样的作战，一定存在不小的风险。",
+			"崩壊生物を捕まえるですか……これまでそのような作戦は試したことがありません。きっとかなりの危険がつきまといます。",
+			"붕괴 생물을 잡는 건가요…… 지금까지 그런 작전은 시도해 본 적 없어요. 분명 상당한 위험이 따를 거예요.",
+			null,
+			null,
+			"Capture the collapsed creature?... There must be a considerable risk of not having tried such combat before.",
+			"Catching a decaying organism? ...... I have never tried such a strategy before. It must be very dangerous."
+		],
+		[
+			"msg",
+			305878,
+			"I got it. I can handle that.",
+			"我明白了，这次委托我来吧，这样比较妥当。",
+			"分かりました。この依頼はブローニャが受けます。それが妥当でしょう。",
+			"알겠습니다. 이 의뢰는 브로냐가 받겠습니다. 그게 타당할 거예요.",
+			null,
+			null,
+			"I understand, entrust me this time, it is more appropriate.",
+			"Understood. Bronya will accept this request. That would be appropriate."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305879,
+			"Really?",
+			"咕…居然真的……",
+			"うっ……本当だったんだ……。",
+			"으…… 정말이었어…….",
+			null,
+			null,
+			"Goo...it's actually true ......",
+			"Ugh ...... it was true ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305880,
+			"Seele, you should go to rest. I'll take care of the mission.",
+			"希儿，你这次就好好休息吧，之前的任务辛苦了，后面就交给我吧。",
+			"ゼーレ、あなたは今回ゆっくり休んでください。これまでの任務、ご苦労様でした。あとは私に任せてください。",
+			"제레, 이번엔 편히 쉬세요. 지금까지의 임무, 수고하셨습니다. 이제부터는 제게 맡겨주세요.",
+			null,
+			null,
+			"Hill, you just rest this time, the previous task hard, leave the back to me.",
+			"Seele, I hope you have a good rest this time. Thank you for your hard work on this mission so far. Please leave the rest to me."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305881,
+			"I'm not tired. I want to go on a mission with Sister!",
+			"不！没有！我一点都不辛苦！请务必让希儿和姐姐大人一起出击！",
+			"いえ！全然！全然疲れてないわ。ゼーレもお姉ちゃんと一緒に出撃させて！",
+			"아니! 전혀! 전혀 안 피곤해요. 제레도 언니랑 같이 출격시켜 주세요!",
+			null,
+			null,
+			"No! No! I'm not having a hard time at all! Please make sure that Hii-chan and Sister-sama strike together!",
+			"Not at all! Not at all! I'm not tired at all. Let Seele go out with her sister!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305882,
+			"But...",
+			"可是……",
+			"しかし……。",
+			"하지만…….",
+			null,
+			null,
+			"But ......",
+			"But see ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305883,
+			"Just catch some bugs. No big deal. We'll be quick, right, Sister?",
+			"不就是抓几只虫子嘛！轻轻松松~走吧姐姐大人！让我们速战速决！",
+			"虫を何匹か捕まえるだけでしょ！簡単、簡単～行きましょう、お姉ちゃん！善は急げよ！",
+			"벌레 몇 마리 잡는 거잖아! 쉽죠, 쉽죠~ 가자, 언니! 선은 서두르는 게 좋아!",
+			null,
+			null,
+			"It's just catching a few bugs! It's easy. Let's go, sister! Let's do it quickly!",
+			"All you have to do is catch a few bugs! Easy, easy - let's go, sister! Let's go, sis!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305884,
+			"If you're so eager, let's go.",
+			"好吧，既然你这么积极，那就一起去吧。",
+			"分かりました。あなたがそんなに積極的なら、一緒に行きましょう。",
+			"알겠습니다. 당신이 그렇게 적극적이라면, 함께 가죠.",
+			null,
+			null,
+			"Well, since you are so positive, let's go together.",
+			"I understand. If you are so positive, let's go together."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305885,
+			"Bring these bug catchers with you. They may come in handy.",
+			"既然这样，那你们带上这些捕捉器吧，虽然不知道有没有用，但是值得一试。",
+			"それなら、この捕獲装置を持って行って。役に立つかどうかは分からないけど試す価値はある。",
+			"그렇다면, 이 포획 장치를 가져가세요. 도움이 될지 모르겠지만 시도해 볼 만해요.",
+			null,
+			null,
+			"In that case, take these traps with you. I don't know if they work, but it's worth a try.",
+			"Then take this capture device. I don't know if it will help, but it's worth a try."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305886,
+			"Let's go.",
+			"明白了，那我们出发了。",
+			"分かりました。では、行きましょう。",
+			"알겠습니다. 그럼, 갑시다.",
+			null,
+			null,
+			"Got it, then we're off.",
+			"I understand. Then, let's go."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305887,
+			"Yeah! I can work with Sister!",
+			"嗯嗯！走喽~和姐姐大人一起做任务！",
+			"うん、うん！行こう～お姉ちゃんと一緒に任務をするんだ！",
+			"응, 응! 가자~ 언니랑 같이 임무를 하자!",
+			null,
+			null,
+			"Yes, yes! Let's go! Do the task with your sister!",
+			"Yeah, yeah! Let's go~ I'm going on a mission with my sister!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305888,
+			"Wait, slow down...",
+			"嗯，慢走……",
+			"うん、気をつけて……。",
+			"응, 조심해…….",
+			null,
+			null,
+			"Well, take care ......",
+			"Yeah, take care ......."
+		],
+		[
+			"msg",
+			305889,
+			"Such an energetic girl.",
+			"真是好搞定的丫头。",
+			"ゼーレ・チョロライ……なんてね。",
+			"제레・쵸로라이…… 농담이야.",
+			null,
+			null,
+			"What a great girl to handle.",
+			"I can't believe Seele Chololai ......."
+		]
+	],
+	"1106": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10099"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305890,
+			"The Houkai creatures we killed have returned. We need to do more than catching them.",
+			"果然之前消灭的崩坏生物又回来了，看来捕捉任务不是那么简单可以完成的呢。",
+			"やはり以前倒した崩壊生物が戻ってきています。捕獲任務はそんな簡単にいかなそうですね。",
+			"역시 이전에 쓰러뜨린 붕괴생물이 돌아왔군요. 포획 임무가 쉽지 않을 것 같네요.",
+			null,
+			null,
+			"Sure enough, the collapsed creatures that were destroyed before have returned, and it seems that the capture mission is not so simple to complete.",
+			"After all, the disintegrating organisms that we previously defeated are returning. It seems that the capture mission is not going to be that easy."
+		],
+		[
+			"msg",
+			305891,
+			"Just kill some of them first. There are too many of them.",
+			"先消减崩坏生物的数量吧，现在这个状态恐怕也无法执行任务。",
+			"まずは崩壊生物の数を減らしましょう。この状態では任務を遂行できないと思われます。",
+			"먼저 붕괴생물의 수를 줄입시다. 이 상태에선 임무 수행이 불가능할 것 같습니다.",
+			null,
+			null,
+			"First of all, let's reduce the number of collapsing creatures. I'm afraid I can't carry out the mission in this state now.",
+			"First, let's reduce the number of decaying organisms. In this state, it is unlikely that you will be able to accomplish your mission."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305892,
+			"You can count on us.",
+			"嗯，交给我们吧！",
+			"うん、私たちに任せて！",
+			"응, 우리에게 맡겨!",
+			null,
+			null,
+			"Well, leave it to us!",
+			"Yeah, we'll take care of it!"
+		]
+	],
+	"1107": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10099"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305893,
+			"Most of the bugs are killed. Let's go catch some, Seele.",
+			"大部分的敌人已经消灭了，希儿，我们开始抓捕任务吧。",
+			"大部分の敵は倒しました。ゼーレ、捕獲任務を始めましょう。",
+			"대부분의 적을 처리했어. 제레, 포획 임무를 시작하자.",
+			null,
+			null,
+			"Most of the enemies have been eliminated. Hillel, let's start the capture mission.",
+			"Most of the enemies have been defeated. Seele, let's start the capture mission."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305894,
+			"What exactly should we do, Sister?",
+			"好的姐姐大人！所以具体要怎么做呢？",
+			"うん、お姉ちゃん！それで具体的にはどうするの？",
+			"응, 언니! 그럼 구체적으로 어떻게 하는 거야?",
+			null,
+			null,
+			"Okay sister-sama! So what exactly do I have to do?",
+			"Yeah, sis! So what exactly do you do?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305895,
+			"We aim for the larvae, but the can fly and are agile, so we need to interrupt their movement.",
+			"我们的目标是那些幼体，但是飞行生物的机动力很强，如果要捕捉的话得先干扰它们的动作才行。",
+			"目標はあの幼体です。ですが飛行生物の機動力が高いので、捕獲するならまず彼らの動きを封じなければなりません。",
+			"목표는 저 유체예요. 하지만 비행생물의 기동력이 높으니, 포획하려면 먼저 움직임을 봉인해야 해요.",
+			null,
+			null,
+			"Our target is the hatchlings, but the flying creatures are very mechanically strong, so if you want to capture them you have to interfere with their movements first.",
+			"Our target is that juvenile. However, the flying creatures are highly mobile, so if we want to capture them, we must first block their movement."
+		],
+		[
+			"msg",
+			305896,
+			"We are divided into 3 groups. I'm in charge of interrupting the larvae; Seele is responsible for the catching; and you need to destroy any coming Houkai creatures.",
+			"为了避免其他崩坏生物的干扰我们需要分成三组，我来负责干扰幼虫，希儿负责捕捉，而你负责消灭增援的崩坏生物。",
+			"他の崩壊生物の妨害を避けるために3組に分かれましょう。ブローニャは幼虫の動きを封じます。ゼーレは捕獲を、あなたは増援の崩壊生物を担当してください。",
+			"다른 붕괴생물의 방해를 피하려면 3팀으로 나눠요. 브로냐는 유충의 움직임을 봉인하고, 제레는 포획을, 당신은 증원 붕괴생물을 맡아주세요.",
+			null,
+			null,
+			"In order to avoid interference from other Avalanche creatures we need to split into three groups, I will be responsible for interfering with the larvae, Hill is responsible for capturing, and you are responsible for eliminating reinforcements of Avalanche creatures.",
+			"Split into three groups to avoid interference from other decaying organisms. Bronya will block the movement of the larvae. Seele will be in charge of the capture and you will be in charge of the reinforcements of the disintegrating organisms."
+		],
+		[
+			"choice",
+			[
+				305897,
+				"Can I really handle that?",
+				"我真的可以胜任么？",
+				"本当に私にできるの？",
+				"정말 내가 할 수 있을까?",
+				null
+			],
+			[
+				305898,
+				"Understood.",
+				"明白。",
+				"分かった。",
+				"알았어.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1108
+		]
+	],
+	"1108": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10099"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305899,
+			"We do as Sister said. We will succeed.",
+			"既然姐姐大人这么决定的话就这么办吧，我们一定会成功的~",
+			"お姉ちゃんがそう決めたんだからそうしましょう。きっと成功するわ！",
+			"언니가 그렇게 결정했으니까 그렇게 하자. 분명 성공할 거야!",
+			null,
+			null,
+			"If you're so determined, let's do it, we'll definitely succeed~",
+			"That's what your sister decided, so let's do it. You'll make it!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305900,
+			"Let's go.",
+			"嗯，那么开始吧！",
+			"はい、では始めましょう！",
+			"네, 그럼 시작하자!",
+			null,
+			null,
+			"Well, then let's get started!",
+			"Yes, then let's begin!"
+		]
+	],
+	"1109": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10099"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305901,
+			"Seele, go to your place.",
+			"希儿，到你的位置了！",
+			"ゼーレ、幼虫の動きを封じました！",
+			"제레, 유충의 움직임을 봉쇄했어!",
+			null,
+			null,
+			"Hill, it's your spot!",
+			"Seele, I've got the larvae in motion!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305902,
+			"I got this.",
+			"交给我吧！",
+			"任せて！",
+			"맡겨!",
+			null,
+			null,
+			"Leave it to me!",
+			"I got it!"
+		],
+		[
+			"msg",
+			305903,
+			"Ha.",
+			"哈！！！",
+			"はっ！！！",
+			"핫!!!",
+			null,
+			null,
+			"Ha!!!",
+			"Ha!!!!"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305904,
+			"Good catch!",
+			"抓住了！",
+			"捕まえた！",
+			"잡았어!",
+			null,
+			null,
+			"Gotcha!",
+			"Gotcha!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305905,
+			"Great. Now we should caught the amount Yssring needs.",
+			"干得好，这样应该满足伊瑟琳要求的数量了。",
+			"よくやりました。これでイザーリンの要求した数も満たせたはずです。",
+			"잘 했어. 이제 이자린이 요구한 숫자도 채웠을 거야.",
+			null,
+			null,
+			"Well done, this should meet the amount requested by Estherine.",
+			"Well done. You should now have fulfilled the number requested by Isserling."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305906,
+			"She just stays there and wait. We can carry any more bugs.",
+			"呼~真是的，那个家伙就会强人所难，再多我们也带不回去啦！",
+			"ふぅ～まったく。あいつは難題ばっかり吹っ掛けるんだから。これ以上は私たちでも無理だよ！",
+			"후우~ 정말. 저 녀석은 난제만 잔뜩 던지니까. 이 이상은 우리도 무리야!",
+			null,
+			null,
+			"Phew~ really, that guy will force people, more we can't bring back!",
+			"Whew~ indeed. He's always making things so difficult. Even we can't go any further!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305907,
+			"Guys, we have to get back to the base before the bugs strike back.",
+			"各位辛苦了，趁着虫子们大规模反攻之前立即返回基地吧。",
+			"みなさん、お疲れ様です。虫たちが大規模反撃をしてくる前に基地に帰りましょう。",
+			"여러분, 수고하셨습니다. 벌레들이 대규모 반격을 하기 전에 기지로 돌아갑시다.",
+			null,
+			null,
+			"All of you have worked hard, so return to base immediately before the bugs make a massive counterattack.",
+			"Ladies and gentlemen. Let's get back to base before the bugs launch a massive counterattack."
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"msg",
+			305908,
+			"Mission accomplished. Yssring, these are the larvae you want.",
+			"伊瑟琳，委托完成了，这是你要的崩坏生物的幼体。",
+			"イザーリン、依頼を完了しました。これがあなたの欲しがってた崩壊生物の幼体です。",
+			"이자린, 의뢰를 완료했습니다. 이것이 당신이 원하던 붕괴 생물의 유체입니다.",
+			null,
+			null,
+			"Estherine, the commission is complete. Here are the larvae of the disintegrating creatures you asked for.",
+			"Estherine, I have completed your request. This is the juvenile disintegrating organism you wanted."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305909,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305910,
+			"What? Are you scared of them? The Houkai creatures are not for the faint-hearted.",
+			"怎么了？难道是看到崩坏生物后吓得不敢动了么？就你这个胆子也想研究幼体，我看还是算了吧~",
+			"どうしたの？まさか崩壊生物を見て怖くなって動けないとか？あなたのその度胸で幼体研究をしたいなんて、よくやるわ～。",
+			"왜 그래? 설마 붕괴 생물을 보고 무서워서 움직이지 못한다든가? 네 그 배짱으로 유체 연구를 하고 싶다니, 참 대단하네~.",
+			null,
+			null,
+			"What's wrong? Are you afraid to move after seeing a collapsed creature? I think you should forget about studying hatchlings even if you have the guts to do so~",
+			"What's wrong with you? Don't tell me you saw a disintegrating organism and got scared to move? How dare you have that guts to want to study juveniles!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305911,
+			"No, I just fear that these larvae will contact other bugs in some way.",
+			"不，我只是担心如果把它们带回来，这些幼虫会使用某种联络手段将其他虫子引来基地……",
+			"いや、私はただ、こいつらを連れ帰って、この幼虫が何かしらの連絡手段を使って他の虫を基地に呼び寄せるんじゃないかと心配で……。",
+			"아니, 나는 그냥 이 녀석들을 데려오면 이 유충이 무슨 연락 수단을 써서 다른 벌레들을 기지로 불러올까 봐 걱정돼서…….",
+			null,
+			null,
+			"No, I'm just worried that if we bring them back, these larvae will use some sort of contact to draw other bugs to the base ......",
+			"No, I'm just worried that I'm going to bring these guys back and that these larvae will use some means of communication to bring other bugs to the base. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305912,
+			"That's terrible.",
+			"嗯，这的确是个问题。",
+			"ええ、それは確かに問題ですね。",
+			"예, 그건 확실히 문제가 되겠네요.",
+			null,
+			null,
+			"Well, that does seem to be a problem.",
+			"Yes, that is indeed a problem."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305913,
+			"So please strengthen the defense of the base, especially the lab. We need armed guardians all the time.",
+			"那麻烦你们在实验的阶段加强基地的警备…特别是这个实验室，最好24小时都有武装保护……",
+			"じゃあ悪いけど、実験の最中は基地の警戒を強めておいて……特にこの実験室。できれば24時間武装保護を……。",
+			"그럼 미안한데, 실험하는 동안 기지 경계를 강화해 놓고…… 특히 이 실험실. 가능하면 24시간 무장 경비를…….",
+			null,
+			null,
+			"Then please strengthen the security of the base during the phase of your experiments...especially this laboratory, it is best to have armed protection 24 hours a day ......",
+			"Then I'm sorry, but please keep the base on high alert during the experiment ...... especially this lab. If possible, 24-hour armed protection ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305914,
+			"OK, I'll get your more protection.",
+			"了解了，我会给你抽调人手的。",
+			"分かりました。人員を割きましょう。",
+			"알겠습니다. 인원을 배치하겠습니다.",
+			null,
+			null,
+			"Understood, I will give you a draw.",
+			"I understand. Let's allocate personnel."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305915,
+			"Then I can focus on the experiment. Let's get started, Seele.",
+			"嗯，既然这样我就放心了。希儿，我们开始实验吧。",
+			"うん、これで安心できる。ゼーレ、実験を始めましょう。",
+			"응, 이러면 안심이 돼. 제레, 실험 시작하자.",
+			null,
+			null,
+			"Well, in that case I'm relieved. Hillel, let's start the experiment.",
+			"Yeah, that's a relief. Seele, let's start the experiment."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305916,
+			"Me?",
+			"嗯？关我什么事？",
+			"ん？私に関係あるの？",
+			"음? 나랑 상관있어?",
+			null,
+			null,
+			"Hmm? What's it to me?",
+			"Hmm? What does this have to do with me?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305917,
+			"Get these bugs for me. I don't want them to bite me.",
+			"帮我把这些虫子拿出来…我怕它咬我。",
+			"この虫を出してよ……噛まれたら恐いもん。",
+			"이 벌레 좀 꺼내줘…… 물리면 무서우니까.",
+			null,
+			null,
+			"Help me get these bugs out...I'm afraid it will bite me.",
+			"Get this bug out of me. ...... I'd be afraid of being bitten."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305918,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		]
+	]
+}

@@ -1,0 +1,2186 @@
+{
+	"10230": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720113,
+			null,
+			"已经和屋子里的人了解过情况了……",
+			"部屋の中にいる人には状況を説明したから……。",
+			"방 안에 있는 사람에게는 상황을 설명해 뒀어……",
+			null,
+			null,
+			"Already understood the situation with the people in the house ......",
+			"I explained the situation to the people in the room, so you can go to ......."
+		],
+		[
+			"msg",
+			720114,
+			null,
+			"接下来做什么呢？",
+			"これから何をする？",
+			"이제 무엇을 할까?",
+			null,
+			null,
+			"What to do next?",
+			"What are you going to do now?"
+		],
+		[
+			"msg",
+			720115,
+			null,
+			"要先去屋外接一碗雪吗？",
+			"まずは外に出てお碗に雪を入れてくる？",
+			"일단 밖에 나가서 그릇에 눈을 담아올까?",
+			null,
+			null,
+			"Do you want to go outside and get a bowl of snow first?",
+			"Do you want to go outside and put some snow in your bowl first?"
+		],
+		[
+			"msg",
+			720116,
+			null,
+			"还是……",
+			"それとも……。",
+			"아니면……",
+			null,
+			null,
+			"Or ......",
+			"Or visit ......."
+		]
+	],
+	"10231": [
+		[
+			"bgm",
+			152
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719163,
+			null,
+			"来自圣痕的送葬长列，",
+			"聖痕から来た葬送の長い列。",
+			"성흔에서 온 장송의 긴 행렬.",
+			null,
+			null,
+			"The long column of funerals from the stigmata.",
+			"A long line of funeral processions coming from the Stigmata."
+		],
+		[
+			"msg",
+			719164,
+			null,
+			"自古无鼓声也无吟乐。",
+			"古来より太鼓の音も吟唱もない。",
+			"예로부터 북소리도 읊조림도 없었다.",
+			null,
+			null,
+			"Since ancient times there is no drumming nor gin music.",
+			"There has been no drumming or chanting since ancient times."
+		],
+		[
+			"msg",
+			719165,
+			null,
+			"残忍的口下着脑、血、肉的骤雨，",
+			"残忍な口の中で、脳、血、肉の大雨が降り注いでいる。",
+			"잔혹한 입안에서, 뇌와 피와 살의 폭우가 쏟아진다.",
+			null,
+			null,
+			"The cruel mouth raining down a plume of brains, blood, and flesh.",
+			"A brutal mouthful of brains, blood, and flesh rained down."
+		],
+		[
+			"msg",
+			719166,
+			null,
+			"失败的献身者，感到愧疚与羞辱。",
+			"失敗した奉仕者は後ろめたさと恥を感じている。",
+			"실패한 봉사자는 죄책감과 수치심을 느끼고 있다.",
+			null,
+			null,
+			"Failure of the consecrated, feeling guilt and shame.",
+			"Failed servants feel guilt and shame."
+		],
+		[
+			"msg",
+			719167,
+			null,
+			"此为世界之背离与沦丧，你我同为流亡者。",
+			"これが世界の乖離と喪失となり、あなたと私は亡命者となる。",
+			"이것이 세계의 이질감과 상실이 되어, 당신과 나는 망명자가 된다.",
+			null,
+			null,
+			"This is the apostasy and degradation of the world, and you and I are exiles together.",
+			"This will be the divergence and loss of the world, and you and I will be exiles."
+		],
+		[
+			"msg",
+			719168,
+			null,
+			"纤纤灵魂如黄金之梦，",
+			"細い魂は黄金の夢のよう。",
+			"가느다란 영혼은 황금빛 꿈과 같다.",
+			null,
+			null,
+			"The slender soul is like a dream of gold.",
+			"The slender soul is like a golden dream."
+		],
+		[
+			"msg",
+			719169,
+			null,
+			"游离着苦语、哀号与光辉。",
+			"苦しみの言葉、号泣、輝きから離れる。",
+			"고통의 말, 울부짖음, 빛남으로부터 멀어지다.",
+			null,
+			null,
+			"Wandering with bitter words, wailing and glory.",
+			"Leave the words of suffering, weeping, and brilliance."
+		],
+		[
+			"msg",
+			719170,
+			null,
+			"女孩哭泣着，",
+			"少女は泣いている。",
+			"소녀는 울고 있다.",
+			null,
+			null,
+			"The girl cried and",
+			"The girl is crying."
+		],
+		[
+			"msg",
+			719171,
+			null,
+			"把不可知未来预测的占卜师找寻，",
+			"予知できない未来を予測する占い師を探し求める。",
+			"예측할 수 없는 미래를 점치는 점술사를 찾아 헤맨다.",
+			null,
+			null,
+			"Seek out the soothsayer who predicts the unknowable future.",
+			"Seek out fortune tellers who can predict the unforeseeable future."
+		],
+		[
+			"msg",
+			719172,
+			null,
+			"愿她们在芬芳缭绕的世界尽头，",
+			"かぐわしい香りに包まれた世界の果てで、",
+			"향기로운 냄새에 휩싸인 세계의 끝에서,",
+			null,
+			null,
+			"May they be at the end of the fragrant world.",
+			"At the end of the world surrounded by a fragrant scent,"
+		],
+		[
+			"msg",
+			719173,
+			null,
+			"指引灵魂的安宁解脱，",
+			"彼女たちが魂の安らかな解放を導かんことを願う。",
+			"그들이 영혼의 평온한 해방을 이끌어주기를 바란다.",
+			null,
+			null,
+			"Guiding the soul to peaceful liberation.",
+			"May they lead you to the peaceful liberation of your souls."
+		]
+	],
+	"10232": [
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719175,
+			null,
+			"我现在没有心情看这些。",
+			"今はこういうのを読む気分じゃないの。",
+			"지금은 이런 걸 읽을 기분이 아니야.",
+			null,
+			null,
+			"I'm not in the mood to read this right now.",
+			"I'm not in the mood to read these things right now."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719176,
+			null,
+			"而且对帮助布洛妮娅似乎没有什么帮助。",
+			"それにブローニャを助けるのに役立ちそうもない。",
+			"게다가 브로냐를 돕는 데 도움이 될 것 같지도 않아.",
+			null,
+			null,
+			"And it doesn't seem to help much in helping Bronya.",
+			"And it's not going to help Bronya."
+		]
+	],
+	"10233": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719177,
+			null,
+			"可以把一碗雪放在希儿和杏的房间前。",
+			"お碗に雪を入れてゼーレちゃんとシンちゃんの部屋の前に置いておきましょう。",
+			"그릇에 눈을 담아 제레과 신 방 앞에 놔두자.",
+			null,
+			null,
+			"You can put a bowl of snow in front of Hill and Apricot's room.",
+			"Fill the bowl with snow and place it in front of Seele and Shin's room."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719178,
+			null,
+			"放在这里就可以了吧……",
+			"ここに置けばいいの？",
+			"여기에 놓으면 되는 거야?",
+			null,
+			null,
+			"Just put it here ......",
+			"You can leave it here: ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719179,
+			null,
+			"嗯。",
+			"ええ。",
+			"응.",
+			null,
+			null,
+			"Hmm.",
+			"Yes."
+		]
+	],
+	"10234": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719180,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"msg",
+			719181,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			719182,
+			null,
+			"………………",
+			"………………",
+			"………………",
+			null
+		],
+		[
+			"msg",
+			719183,
+			null,
+			"什么都没有发生。",
+			"何も起こらない。",
+			"아무 일도 일어나지 않아.",
+			null,
+			null,
+			"Nothing is happening.",
+			"Nothing happens."
+		]
+	],
+	"10235": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719184,
+			null,
+			"我想了解降灵的仪式和依凭物。",
+			"降霊の儀式と依り代について知りたいの。",
+			"강령의식과 의례물에 대해 알고 싶어.",
+			null,
+			null,
+			"I would like to understand the rituals and dependencies of the séance.",
+			"I would like to know more about the seance rituals and the yorin."
+		],
+		[
+			"speaker",
+			320672
+		],
+		[
+			"portraits",
+			[
+				30561,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719185,
+			null,
+			"呃……你从哪听来的？停，不用告诉我，你已经用过了ME社的那台旧电视，对不对？你们想让布洛妮娅听到她妹妹的声音，对不对？这个世界发生的一切都在我的观测之中。",
+			"えっ……どこでそのことを聞いたの？待って、言わなくてもいいよ。ME社にあった古いテレビを使ったんでしょう？ブローニャに妹たちの声を聞かせようとしているのね？この世界で起こることはすべて私の観測の範囲に含まれているのよ。",
+			"어... 어디서 그걸 들은 거야? 잠깐, 말 안 해도 돼. ME사에 있던 오래된 텔레비전을 사용한 거지? 브로냐에게 동생들의 목소리를 들려주려고 하는 거야? 이 세계에서 일어나는 일은 다 내 관측 범위에 포함되어 있으니까.",
+			null,
+			null,
+			"Uh ...... where did you hear that? Stop, don't tell me, you've used that old TV from the ME Society, right? You want Bronya to hear her sister's voice, don't you? Everything that happens in this world is under my observation.",
+			"What? ...... Where did you hear about that? Wait, you don't have to tell me, you used an old TV from the ME company, didn't you? You're trying to get Bronya to listen to her sisters, aren't you? Everything that happens in this world is included in my scope of observation."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719186,
+			null,
+			"你会帮我吗？",
+			"手伝ってくれるの？",
+			"도와줄 거야?",
+			null,
+			null,
+			"Will you help me?",
+			"Can you give me a hand?"
+		],
+		[
+			"speaker",
+			320672
+		],
+		[
+			"portraits",
+			[
+				30561,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719187,
+			null,
+			"当然，做人要守信。",
+			"もちろん。約束を守ることは大事だからね。",
+			"물론이지. 약속을 지키는 건 중요하니까.",
+			null,
+			null,
+			"Of course, one must keep one's word.",
+			"Of course. It's important to keep your word."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719188,
+			null,
+			"太好了！",
+			"よかった！",
+			"다행이야!",
+			null,
+			null,
+			"Great!",
+			"Good!"
+		],
+		[
+			"speaker",
+			320672
+		],
+		[
+			"portraits",
+			[
+				30561,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719189,
+			null,
+			"他们把这个过程叫做“降灵”，但实际上并没有什么宗教或者神秘学要素。只是通过某个媒介，读取某个圣痕上的某一段指令而已。如果圣痕持有者有很强的执念和自我意识，通常都能读到关键的灵魂信息。",
+			"彼らはこのプロセスのことを「降魂」と呼んでいるけれど、実際には何かの宗教や神秘学の要素があるわけじゃないの。あくまでも特定の媒介を通じて、特定の聖痕の一部の指令を読み取るだけよ。聖痕の持ち主が強い執念や自己意識を持っていれば、通常は重要な魂の情報を読み取れるの。",
+			"그들은 이 과정을 「강혼」이라고 부르지만, 실제로 어떤 종교나 신비주의적 요소가 있는 건 아니야. 단지 특정 매개체를 통해 특정 성흔의 일부 지령을 읽어내는 것뿐이지. 성흔의 소유자가 강한 집념이나 자의식을 가지고 있다면, 보통 중요한 혼의 정보를 읽어낼 수 있어.",
+			null,
+			null,
+			"They call this process \"séance\", but there is no religious or occult element to it. It's just a medium that reads the instructions on a particular stigmata. If the stigmata bearer has a strong sense of persistence and self-awareness, he or she can usually read the key soul information.",
+			"They call this process \"descent of souls,\" but there is not really any religious or mystical component to it. It is simply the reading of the directives of a specific part of a particular sacrament through a specific medium. If the owner of the sacrament has a strong sense of persistence or self awareness, they can usually read important soul information."
+		],
+		[
+			"msg",
+			719190,
+			null,
+			"不过不是什么东西都可以用作降灵的，虽然在圣痕世界可以不用管太多乱七八糟的现实规则，但圣痕世界有它自己的规矩——",
+			"でも、どんなものでも降魂に使えるわけじゃないのよ。聖痕世界では現実世界の七面倒くさいルールに縛られる必要なんてないけど、聖痕世界には聖痕世界のルールがあるの——",
+			"하지만 어떤 것이든 강혼에 사용할 수 있는 건 아니야. 성흔 세계에서는 현실 세계의 성가신 규칙에 얽매일 필요 없지만, 성흔 세계에는 성흔 세계의 규칙이 있는 거야——",
+			null,
+			null,
+			"But not everything can be used as a séance, although in the Stigmata world can not care too much about the messy rules of reality, but the Stigmata world has its own rules -",
+			"But not just anything can be used for a seance. In the world of stigmata, there is no need to be bound by the seven cumbersome rules of the real world, but in the world of stigmata, there are the rules of the stigmata world--the rules of the stigmata world."
+		],
+		[
+			"msg",
+			719191,
+			null,
+			"如果你想要某个珍贵的东西，就要拿出相应的另一件对自己来说珍贵的东西。",
+			"何か大切なものを望むのであれば、自分にとってそれに見合う大切なものを差し出さなければならないのよ。",
+			"뭔가 소중한 것을 바라고 싶다면, 자신에게 그에 상응하는 소중한 것을 내놓아야 해.",
+			null,
+			null,
+			"If you want something precious, you have to come up with another thing that is precious to you accordingly.",
+			"If you want something important, you have to offer something that is correspondingly important to you."
+		],
+		[
+			"msg",
+			719192,
+			null,
+			"不一定是指某件物品，也可以是情报、体验、甚至是心情。用于交换的物品合不合适，你自己会强烈地理解这一切，所以你没办法作弊。",
+			"必ずしも物とは限らないよ。情報や体験、気持ちなんかでもいいの。交換に用いるものが適しているかどうかは、自分自身ではっきりと分かるから、ズルはできないよ。",
+			"꼭 물건일 필요는 없어. 정보나 체험, 감정 같은 것도 돼. 교환에 사용하는 것이 적합한지 아닌지는 자신이 분명히 알 수 있으니까, 속임수를 쓸 순 없어.",
+			null,
+			null,
+			"It doesn't necessarily mean a particular item, but also intelligence, experience, or even mood. The item used for the exchange is suitable or not, and you yourself will strongly understand all this, so you have no way to cheat.",
+			"It doesn't necessarily have to be a thing. It can be information, experiences, or even feelings. You can't cheat, because you can clearly see for yourself if what you use for exchange is suitable or not."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719193,
+			null,
+			"也包括那台电视机吗……",
+			"あのテレビも含まれているの……？",
+			"그 텔레비전도 포함되어 있는 거야...?",
+			null,
+			null,
+			"Does it also include that TV ......",
+			"Does that include that TV ......?"
+		],
+		[
+			"speaker",
+			320672
+		],
+		[
+			"portraits",
+			[
+				30561,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719194,
+			null,
+			"是的。雷电龙马用于交换的是整个ME社。虽然不过是圣痕世界里的，但在人心中的地位是同等的。",
+			"そうだよ。雷電龍馬が交換対象にしたのはME社そのものなの。あくまでも聖痕世界の中に限られているけどね。でも、人々の心の中では同等の地位を占めている。",
+			"그래. 라이덴 료마가 교환 대상으로 삼은 건 ME사 그 자체야. 어디까지나 성흔 세계 안에서만 통하는 거지만. 하지만 사람들의 마음속에선 동등한 지위를 차지하고 있어.",
+			null,
+			null,
+			"Yes. What Raiden Ryoma used in exchange is the entire ME Society. Although it is but in the world of stigmata, it has equal status in the hearts of people.",
+			"That's right. Raiden Ryoma's exchange target was the ME company itself. It is limited to the world of the Stigmata, though. But it occupies an equal position in people's hearts."
+		],
+		[
+			"msg",
+			719195,
+			null,
+			"那台电视机用了这一次之后就“坏掉了”，说明它被消耗掉了。不同的东西，坏掉的方式和过程也不一样……准确来说，会朝某个坏的方向变化。",
+			"あのテレビはその1回の使用で「壊れた」のよ。つまり、消費されたってこと。それぞれの物によって、壊れる方法や過程も異なるの……正確に言えば、ある種の悪い変化が生じるってこと。",
+			"그 텔레비전은 한 번 사용하자마자 「고장났」어. 즉, 소비됐다는 거지. 각각의 물건에 따라 고장나는 방식이나 과정도 달라... 정확히 말하자면, 어떤 나쁜 변화가 생긴다는 거야.",
+			null,
+			null,
+			"The TV set \"broke\" after this one use, which means it was consumed. The way and process of breaking down varies from one thing to another. ...... To be precise, it will change in some bad direction.",
+			"That TV was \"broken\" after that one use. That means it was consumed. Different things break in different ways and by different processes. ...... To be precise, some sort of bad change occurs."
+		],
+		[
+			"msg",
+			719196,
+			null,
+			"因为“交出珍贵的东西”这一行为，就是对灵魂的透支。",
+			"「大切なものを差し出す」という行為が、魂に対する消耗だからね。",
+			"「소중한 것을 내놓는」 행위가 영혼에 대한 소모이기 때문이지.",
+			null,
+			null,
+			"The act of \"handing over something precious\" is an overdraft on the soul.",
+			"The act of \"offering up something precious\" is a drain on the soul."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719197,
+			null,
+			"？！",
+			"！？",
+			"!?",
+			null,
+			null,
+			"?",
+			null
+		],
+		[
+			"speaker",
+			320672
+		],
+		[
+			"portraits",
+			[
+				30561,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719198,
+			null,
+			"所以，你们这次愿意付出多么“珍贵的东西”，用作读取灵魂信息的媒介呢？",
+			"それで、今回はどれほどの「大切なもの」を差し出して魂の情報を読み取る媒介にするつもりなの？",
+			"그래서 이번엔 얼마나 많은 「소중한 것」을 내놓고 영혼의 정보를 읽어내는 매개체로 삼을 생각이야?",
+			null,
+			null,
+			"So, what \"precious thing\" are you willing to give this time to be used as a medium for reading soul messages?",
+			"So, how much \"precious\" stuff are you going to offer up this time as a medium to read the soul's information?"
+		],
+		[
+			"msg",
+			719199,
+			null,
+			"你们想要选择什么“依凭物”呢？",
+			"どんな「依り代」を選ぼうとしているの？",
+			"어떤 「의례 도구」를 선택하려는 거지?",
+			null,
+			null,
+			"What \"dependencies\" do you want to choose?",
+			"What kind of \"dependents\" are you trying to select?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30535,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719200,
+			null,
+			"我……",
+			"私は……。",
+			"나는......",
+			null,
+			null,
+			"I ......",
+			"I ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719201,
+			null,
+			"请给我们一点时间思考……",
+			"少し考える時間をちょうだい……。",
+			"잠시 생각할 시간을 줘......",
+			null,
+			null,
+			"Please give us some time to think ......",
+			"Give me some time to think about it. ......"
+		],
+		[
+			"speaker",
+			320672
+		],
+		[
+			"portraits",
+			[
+				30561,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719202,
+			null,
+			"我建议也听一听布洛妮娅的想法，",
+			"ブローニャの考えも聞いてみるといいよ。",
+			"브로냐의 생각도 들어보는 게 좋을 거야.",
+			null,
+			null,
+			"I suggest listening to Bronya's ideas, too.",
+			"You can ask Bronya what she thinks too."
+		],
+		[
+			"msg",
+			719203,
+			null,
+			"虽然她现在是那副可怜样子，但并非是个木头人哦，",
+			"今はかわいそうな状態だけど、決して人形ではないから。",
+			"지금은 불쌍한 상태지만 결코 인형이 아니니까.",
+			null,
+			null,
+			"Although she is now that pathetic look, but not a wooden person oh.",
+			"I feel sorry for her now, but she is by no means a puppet."
+		],
+		[
+			"msg",
+			719204,
+			null,
+			"更不是什么等着被人拯救的、楚楚可怜的小女孩。",
+			"ましてや誰かに助けてもらうのを待っているだけの弱々しい少女でもないしね。",
+			"하물며 누군가에게 도움을 받기만을 기다리는 나약한 소녀도 아니고 말이야.",
+			null,
+			null,
+			"Not to mention some poor little girl waiting to be rescued and churlish.",
+			"And I'm not a weak girl, though I'm waiting for someone to help me."
+		]
+	],
+	"10236": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719205,
+			null,
+			"布洛妮娅。",
+			"ブローニャちゃん。",
+			"브로냐.",
+			null,
+			null,
+			"Bronya.",
+			"Bronya."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				false
+			],
+			[
+				201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719206,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719207,
+			null,
+			"布洛妮娅姐姐。",
+			"ブローニャお姉さん。",
+			"브로냐 언니.",
+			null,
+			null,
+			"Sister Bronya.",
+			"Bronya sister."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719208,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719209,
+			null,
+			"我们，一定能让你听到她们的声音！",
+			"私たちが妹の声を聞かせてあげるからね！",
+			"우리가 동생의 목소리를 들려줄게!",
+			null,
+			null,
+			"We, for sure, can let you hear their voices!",
+			"We will surely make our sisters' voices heard!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719210,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			719211,
+			null,
+			"（小声）石头……",
+			"（小声で）石……。",
+			"(작은 소리로) 돌......",
+			null,
+			null,
+			"(Whisper) Stone ......",
+			"(whisper) stone ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				true
+			],
+			[
+				201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719212,
+			null,
+			"什么？",
+			"えっ？",
+			"엣?",
+			null,
+			null,
+			"What?",
+			"What?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				false
+			],
+			[
+				201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719213,
+			null,
+			"（小声）石头就行……",
+			"（小声で）石でいいです……。",
+			"(작은 소리로) 돌로도 돼요......",
+			null,
+			null,
+			"(Whispering) Stone is fine ......",
+			"(whisper) Just a stone. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719214,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			719215,
+			null,
+			"石头怎么可以……",
+			"石でいいはずないよ……。",
+			"돌로는 안 될 거야......",
+			null,
+			null,
+			"How can a stone ......",
+			"It can't just be a rock. ......"
+		],
+		[
+			"msg",
+			719216,
+			null,
+			"想要听到她们的声音，肯定需要很珍贵、很珍贵的东西！",
+			"妹たちの声が聞きたかったら、大切なものが必要になるの。すごく大切なものだよ！",
+			"여동생들의 목소리를 듣고 싶다면, 소중한 것이 필요해. 정말로 소중한 거야!",
+			null,
+			null,
+			"It must take something very, very precious to hear their voices!",
+			"If I want to hear my sisters' voices, I need something very important. Something very important!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				true
+			],
+			[
+				201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719217,
+			null,
+			"琪亚娜……",
+			"キアナちゃん……。",
+			"키아나......",
+			null,
+			null,
+			"Kiana ......",
+			"Kiana. ......."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719218,
+			null,
+			"我能理解小琪亚娜的心情……",
+			"キアナちゃんの気持ちは理解できる……。",
+			"키아나의 마음을 이해할 수 있어......",
+			null,
+			null,
+			"I can understand the feelings of little Kiana ......",
+			"I understand how Kiana feels. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			719219,
+			null,
+			"应该说，那种心情随着对“交换”本身的思索，已经涌现出来了。",
+			"その気持ちは「交換」そのものに対する思考によって湧き上がってきたと言うべきかもしれない。",
+			"그 마음은 「교환」 그 자체에 대한 사고로 인해 솟아올랐다고 말할 수 있을지도 모른다.",
+			null,
+			null,
+			"It should be said that that mood has emerged with the contemplation of \"exchange\" itself.",
+			"Perhaps I should say that this feeling was brought about by thoughts about the \"exchange\" itself."
+		],
+		[
+			"msg",
+			719220,
+			null,
+			"想想到底要用什么……",
+			"一体何を使えば……。",
+			"대체 무엇을 사용해야......",
+			null,
+			null,
+			"Think about what exactly to use ......",
+			"What in the world can I use ......."
+		],
+		[
+			"msg",
+			719221,
+			null,
+			"才能完成希儿和杏的“降灵”……",
+			"ゼーレちゃんとシンちゃんの「降魂」を実現させられるか……。",
+			"제레과 신의 「강혼」을 실현시킬 수 있을까......",
+			null,
+			null,
+			"In order to complete the \"séance\" of Hill and Apricot ......",
+			"Can you make Seele and Shin's \"seance\" happen? ......"
+		]
+	],
+	"10237": [
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719222,
+			null,
+			"这是小琪亚娜送给我的第一件礼物。",
+			"それはキアナちゃんのくれた最初のプレゼントだった。",
+			"그건 키아나이 준 첫 선물이었어.",
+			null,
+			null,
+			"This is the first gift that little Kiana gave me.",
+			"That was the first gift Kiana gave me."
+		],
+		[
+			"msg",
+			719223,
+			null,
+			"在我伤心绝望的时候，是小琪亚娜给予了我力量，",
+			"私が傷ついて絶望している時、キアナちゃんは私に力を与えてくれた。",
+			"내가 상처받고 절망할 때, 키아나은 나에게 힘을 주었어.",
+			null,
+			null,
+			"In my time of sadness and despair, it was little Kiana who gave me the strength to",
+			"When I was hurting and despairing, Kiana-chan gave me strength."
+		],
+		[
+			"msg",
+			719224,
+			null,
+			"直到现在，依然如此。",
+			"今までずっとそうだった。",
+			"지금까지 계속 그랬어.",
+			null,
+			null,
+			"Until now, it remains so.",
+			"It has been that way all this time."
+		],
+		[
+			"msg",
+			719225,
+			null,
+			"所以……",
+			"だから……。",
+			"그러니까....",
+			null,
+			null,
+			"So ......",
+			"So go to ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719226,
+			null,
+			"对不起……我，我其实舍不得。",
+			"ごめんなさい……私、実は手放すのが惜しいの。",
+			"미안해... 나, 사실 놓아주기가 아쉬운 거야.",
+			null,
+			null,
+			"Sorry ...... me, I actually couldn't let go.",
+			"I'm sorry ...... I'm actually reluctant to let it go."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719227,
+			null,
+			"没关系。",
+			"大丈夫だよ。",
+			"괜찮아.",
+			null,
+			null,
+			"It doesn't matter.",
+			"It's okay."
+		],
+		[
+			"msg",
+			719228,
+			null,
+			"电视机会“说话”，但花朵不会。",
+			"テレビは「話」をするけど、花はしない。",
+			"텔레비전은 「말」을 하지만, 꽃은 하지 않아.",
+			null,
+			null,
+			"The TV will \"talk,\" but the flowers won't.",
+			"Television does the \"talking\" but not the flowers."
+		]
+	],
+	"10238": [
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719229,
+			null,
+			"我真的很喜欢这个相机……",
+			"本当にこのカメラが好き……。",
+			"정말 이 카메라가 좋아....",
+			null,
+			null,
+			"I really like this camera ......",
+			"I really like this camera. ......"
+		],
+		[
+			"msg",
+			719230,
+			null,
+			"它里面的照片可以无限增加，",
+			"この中の写真はいくらでも増やせる。",
+			"이 안의 사진은 얼마든지 늘릴 수 있어.",
+			null,
+			null,
+			"It can have infinitely increasing photos in it.",
+			"The number of photos in this category can be infinitely increased."
+		],
+		[
+			"msg",
+			719231,
+			null,
+			"感觉透过它，可以看到整个世界。",
+			"これを通じて世界を見られる気がする。",
+			"이걸 통해 세상을 볼 수 있을 것 같아.",
+			null,
+			null,
+			"It feels like you can see the whole world through it.",
+			"I feel I can see the whole world through this."
+		],
+		[
+			"msg",
+			719232,
+			null,
+			"但是……",
+			"でも……。",
+			"그런데....",
+			null,
+			null,
+			"But ......",
+			"But you can also visit ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719233,
+			null,
+			"你感觉到什么了吗？",
+			"何か感じたの？",
+			"뭔가 느낀 거 있어?",
+			null,
+			null,
+			"Do you feel anything?",
+			"Did you feel anything?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719234,
+			null,
+			"宁蒂她很喜欢，",
+			"ニンディは好きだよ。",
+			"닌디는 좋아.",
+			null,
+			null,
+			"Nindy, she loved it.",
+			"I like Ninti."
+		],
+		[
+			"msg",
+			719235,
+			null,
+			"不对，是非常非常非常非常非常……",
+			"ううん、すごく、すごく、すごく、すごく……。",
+			"아니, 정말, 정말, 정말, 정말.......",
+			null,
+			null,
+			"No, it's very, very, very, very, very ......",
+			"No, very, very, very, very ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719236,
+			null,
+			"琪亚娜的声音越来越小",
+			"キアナちゃんの声が徐々に小さくなっていった。",
+			"키아나의 목소리가 점점 작아져 갔다.",
+			null,
+			null,
+			"Kiana's voice is getting smaller and smaller",
+			"Kiana's voice gradually became quieter."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719237,
+			null,
+			"这个太贵重了。",
+			"これはすごく大切だから……。",
+			"이건 정말 중요하니까.......",
+			null,
+			null,
+			"This is too expensive.",
+			"This is too important."
+		]
+	],
+	"10239": [
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719238,
+			null,
+			"琪亚娜？",
+			"キアナちゃん？",
+			"키아나?",
+			null,
+			null,
+			"Kiana?",
+			"Kiana?"
+		],
+		[
+			"msg",
+			719239,
+			null,
+			"你，你认真的吗？",
+			"ほ、本気なの？",
+			"진, 진심이야?",
+			null,
+			null,
+			"You, are you serious?",
+			"Oh, are you serious?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			719240,
+			null,
+			"芽衣你看，盆栽不会说话，相机也没办法发出声音。",
+			"芽衣お姉さん、見て。鉢植えは話さないし、カメラもしゃべらない。",
+			"메이 언니, 봐. 화분은 말도 안 하고 카메라도 말을 안 해.",
+			null,
+			null,
+			"You see, Meiko, the potted plants don't talk and the camera doesn't make a sound.",
+			"Mei sis, look. The potted plants don't speak, and the camera can't get a word out."
+		],
+		[
+			"msg",
+			719241,
+			null,
+			"但是用我自己的身体，说不定就——",
+			"でも、私の体を使えば、もしかしたら——",
+			"하지만, 내 몸을 사용하면, 아마도 ——",
+			null,
+			null,
+			"But with my own body, maybe it's-",
+			"But with my own body, maybe--"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			719242,
+			null,
+			"不可以这么做！",
+			"そんなのダメよ！",
+			"그런 건 안 돼!",
+			null,
+			null,
+			"Not allowed to do that!",
+			"You can't do that!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			719243,
+			null,
+			"我赶紧跪下来，双手用力抓着小琪亚娜的肩膀——",
+			"私は慌てて膝をつき、両手でキアナちゃんの肩を力強くつかんだ——",
+			"나는 허둥지둥 무릎을 꿇고, 두 손으로 키아나의 어깨를 힘껏 잡았다——",
+			null,
+			null,
+			"I hurriedly kneeled down and grabbed little Kiana's shoulders with both hands hard -",
+			"I rushed to my knees and grabbed Kiana's shoulders with both hands - forcefully."
+		],
+		[
+			"msg",
+			719244,
+			null,
+			"周围所有的目光都转了过来。",
+			"周りの目が一斉にこちらを向いた。",
+			"주변의 시선이 일제히 이쪽을 향했다.",
+			null,
+			null,
+			"All eyes around the room turned.",
+			"All eyes around us turned to us at once."
+		],
+		[
+			"bgm",
+			152
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			719245,
+			null,
+			"我不允许你这么做，琪亚娜！",
+			"そんなことはさせないわ、キアナちゃん！",
+			"그런 건 절대 안 돼, 키아나!",
+			null,
+			null,
+			"I won't allow you to do that, Kiana!",
+			"I won't let that happen, Kiana!"
+		],
+		[
+			"msg",
+			719246,
+			null,
+			"如果你这么做了，然后坏掉了，甚至消失了，我……",
+			"そんなことして、壊れて、さらには消えてしまったら、私……。",
+			"그렇게 하다가 부서지고, 결국 사라져버리면, 나....",
+			null,
+			null,
+			"If you do and then it breaks down or even disappears, I ......",
+			"If you do that and it breaks and even disappears, I ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719247,
+			null,
+			"芽衣……",
+			"芽衣お姉さん……",
+			"메이 언니......",
+			null,
+			null,
+			"Meiko ......",
+			"Mei Sis: ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719248,
+			null,
+			"想想为你着想的人啊！",
+			"あなたのことを考えている人だっているのよ！",
+			"너를 생각해주는 사람도 있다고!",
+			null,
+			null,
+			"Think of the people who are looking out for you!",
+			"There are even people who are thinking about you!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719249,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719250,
+			null,
+			"抱，抱歉！",
+			"ご、ごめんなさい！",
+			"미, 미안해요!",
+			null,
+			null,
+			"Hugs, sorry!",
+			"I'm sorry!"
+		],
+		[
+			"msg",
+			719251,
+			null,
+			"我不是故意……这么大声，我……",
+			"ついうっかり……こんなに大声を出して、私……。",
+			"무심결에... 이렇게 큰 소리를 내다니, 나......",
+			null,
+			null,
+			"I didn't mean to ...... be so loud, I ......",
+			"I ...... inadvertently ...... me so loud and I ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719252,
+			null,
+			"怎么回事……",
+			"どういうことなの……。",
+			"무슨 말이야......",
+			null,
+			null,
+			"What's going on ......",
+			"What does that mean? ......."
+		],
+		[
+			"msg",
+			719253,
+			null,
+			"如果价值对等了，你们会知道的。",
+			"価値が等しければ、おのずと分かるはずだから。",
+			"가치가 같다면, 저절로 알 수 있을 테니까.",
+			null,
+			null,
+			"If the values were equal, you would know.",
+			"If the value is equal, it should be obvious."
+		],
+		[
+			"msg",
+			719254,
+			null,
+			"哪怕只是对这种“交换”进行思考，内心就会自然而然地对珍贵与否，进行十分笃定的判断……无论是身体，还是心情……都渐渐地不受控制……",
+			"この「交換」について考えるだけでも、心は自然と大切なものかどうか、はっきりとした判断を行っている……肉体的にも感情的にも……徐々に抑えられなくなっていく……。",
+			"이 「 교환 」에 대해 생각하는 것만으로도, 마음은 저절로 소중한 것인지 아닌지, 분명한 판단을 내리고 있다…… 육체적으로도 감정적으로도…… 점점 억제할 수 없게 되어간다…….",
+			null,
+			null,
+			"Even just thinking about this \"exchange\", the heart will naturally make a very certain judgment about precious or not ...... both physically and emotionally ...... are gradually The body and mood ......",
+			"Just thinking about this \"exchange\", the mind naturally makes a clear decision about whether it is important or not ...... physically and emotionally ...... gradually becoming uncontrollable ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719255,
+			null,
+			"芽衣……？",
+			"芽衣……？",
+			"메이……?",
+			null,
+			null,
+			"Meiko ......?",
+			null
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719256,
+			null,
+			"（抱住）请不要离开我，琪亚娜。不要离开我……",
+			"（抱きしめながら）お願いだから私の前からいなくならないで、キアナちゃん。私から離れないで……。",
+			"(껴안으며) 제발 내 앞에서 사라지지 말아요, 키아나. 내 곁을 떠나지 말아요…….",
+			null,
+			null,
+			"(Hold on) Please don't leave me, Kiana. Don't leave me ......",
+			"(hugging her) Please don't leave me, Kiana. Don't leave me. ......"
+		],
+		[
+			"msg",
+			719257,
+			null,
+			"（抱住）我不想再失去你了。",
+			"（抱きしめながら）もうあなたを失いたくないの。",
+			"(껴안으며) 더는 당신을 잃고 싶지 않아요.",
+			null,
+			null,
+			"(hugging) I don't want to lose you again.",
+			"(hugging her) I don't want to lose you anymore."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			719258,
+			null,
+			"对我来说，",
+			"私にとって、",
+			"나에게는,",
+			null,
+			null,
+			"For me.",
+			"For me,"
+		],
+		[
+			"msg",
+			719259,
+			null,
+			"怎么可能有比琪亚娜更重要的存在呢。",
+			"キアナちゃんよりも大切な存在なんてあるはずがない。",
+			"키아나보다 소중한 존재 따윈 있을 수 없어.",
+			null,
+			null,
+			"How can there be a more important existence than Kiana.",
+			"There is no one more important than Kiana."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30535,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			719260,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			719261,
+			null,
+			"嗯，我答应你，芽衣。",
+			"うん、約束するよ、芽衣お姉さん。",
+			"응, 약속할게, 메이 언니.",
+			null,
+			null,
+			"Well, I promise you, Meiko.",
+			"Yes, I promise, Mei-sis."
+		],
+		[
+			"msg",
+			719262,
+			null,
+			"我们再想想别的吧……",
+			"他のものを考えよう……。",
+			"다른 걸 생각해보자…….",
+			null,
+			null,
+			"Let's think about something else ......",
+			"Think of something else. ......"
+		]
+	]
+}

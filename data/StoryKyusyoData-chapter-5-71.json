@@ -1,0 +1,1803 @@
+{
+	"1263": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307326,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307327,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307328,
+			"……This is the Theresa you mentioned with Bronya before?",
+			"……这位就是你和布洛妮娅之前提到的德丽莎么？",
+			"……このちっこいのが、以前ブローニャとあんたが話していたテレサなのか？",
+			"……이 작은 애가, 예전에 브로냐와 네가 이야기했던 테레사인가?",
+			"......This is the Theresa that you and Bronya mentioned before?",
+			null,
+			"...... Is this the Theresa you and Bronya mentioned earlier?",
+			"...... is this little guy the Teresa that Bronya and you were talking about earlier?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307329,
+			"Yes.",
+			"嗯。",
+			"ええ、そうよ。",
+			"그래, 맞아.",
+			null,
+			null,
+			"Hmm.",
+			"Yes, it is."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307330,
+			"Well…I heard from Bronya that she is the head of the Valkyrie school and the teacher of Himeko as well.",
+			"那个…我听布洛妮娅说她是女武神学校的学园长也是姬子的老师……",
+			"あーっと……ブローニャの話じゃ、彼女は戦乙女で、学校の学園長で、姫子の先輩でもあるって……。",
+			"아……브로냐의 말로는, 그녀는 전투처녀이고, 학교의 학원장이고, 히메코의 선배이기도 하다고…….",
+			"Erm.... I heard from Bronya that she's the headmistress of the Valkyrie academy, and your teacher as well...",
+			null,
+			"That ... I heard from Bronya that she is the head of the school of the Valkyrie is also Himeko's teacher ......",
+			"Oh, ...... Bronya says she's a war maiden, the school's dean, and Himeko's senior. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307331,
+			"Yes.",
+			"对。",
+			"そうよ。",
+			"그래.",
+			"That's correct.",
+			null,
+			"Right.",
+			"Yes."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307332,
+			"But…but……",
+			"可是…可是……",
+			"でもよ……。",
+			"근데 말이지…….",
+			null,
+			null,
+			"But...but ......",
+			"But yes. ......."
+		],
+		[
+			"bgm",
+			47
+		],
+		[
+			"msg",
+			307333,
+			"Isn't she a OO little kid!!!",
+			"这OO的不是小孩子么！！！",
+			"ロリのただのガキじゃんかよ！！",
+			"로리인 그냥 꼬맹이잖아!!",
+			"Isn't this ☆☆ a child?!",
+			null,
+			"This OO's are not children!!!",
+			"You're just a kid, Lori!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307334,
+			"Coo!",
+			"咕！",
+			"ごふっ！",
+			"엣취!",
+			null,
+			null,
+			"Goo!",
+			"Phew!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307335,
+			"Ah!! I noticed since at the beginning! Is it because of Honkai! Or it's natural! It's not scentific! Are you……",
+			"啊啊！！从见面开始就很在意了！！是被崩坏感染才变成这样的么！还是说天生发育不良？这不科学啊！你不是已经要……",
+			"一目見た時から気になってたんだよ！まさか崩壊に感染して、そんな身体になったのか！？それとも生まれながらの発育不良？こんなの、現代医学じゃありえない！あんた……。",
+			"처음 봤을 때부터 신경 쓰였어! 설마 붕괴에 감염되어 그런 몸이 된 거야!? 아니면 태생적인 발육부진? 이런 건 현대 의학으로도 불가능해! 너.......",
+			"I've been wondering about you since I first saw you! Don't tell me you were infected by the Honkai and have a body like that! Or were you stunted from birth? This kind of thing is not possible with modern science! You.......",
+			null,
+			"Ahhh!!! I've been concerned since we met! Did he become like this because he was infected by Avalanche! Or was he born with stunted growth? This is not scientific ah! You are not already going to ......",
+			"I've been wondering about you since the first glance I saw you! Don't tell me you were infected with a disintegration and have a body like that! Or was she stunted from birth? This kind of thing is not possible with modern medicine! You ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307336,
+			"Coo!",
+			"咚！",
+			"ドンッ！",
+			"쿵!",
+			null,
+			null,
+			"Dang!",
+			"Boom!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			307337,
+			"I won't be nice if you keep saying this~",
+			"再说下去我就不客气了哦~",
+			"それ以上言ったら、許さないわよ～",
+			"그 이상 말하면 용서하지 않을 거야~",
+			"If you say more, I won't forgive you ~",
+			null,
+			"If you say more, I will not be polite Oh ~",
+			"If you say any more, I won't forgive you!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				62,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			307338,
+			"So! Sorry…please put down the cross in your hand……",
+			"抱！抱歉…请把手里的大十字架放下好么……",
+			"す、すまん……ひとまず、その手に持っている十字架を下ろしてくれないか……。",
+			"죄, 죄송...... 일단 그 손에 들고 있는 십자가를 내려주지 않을래.......",
+			"Sorry, sorry... Can you please put down that massive cross in your hand?",
+			null,
+			"Hugs! Sorry...can you please put the big cross down in your hand ......",
+			"Sorry, I'm sorry. ...... For the moment, could you put down that cross in your hand? ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307339,
+			"Huh, as childish as before.",
+			"哼，还是和以前一样孩子气。",
+			"フンッ、相変わらず子供っぽいんだから。",
+			"흥, 여전히 어린애 같으니라고.",
+			"Hmph, still as childish as ever.",
+			null,
+			"Hm, still as childish as ever.",
+			"Hmph, you're still being childish."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307340,
+			"Woo……",
+			"呜……",
+			"うぅ……。",
+			"우으......",
+			null,
+			null,
+			"Woo ......",
+			"Ugh. ......."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307341,
+			"……",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307342,
+			"Hey…don't you think the atmosphere is weird? Shouldn't you have lots of things to say after such a long time?",
+			"那个…你们不觉得气氛很僵硬么？这么久没有见面不应该有更多的话可以聊么？",
+			"なぁ……あんたら、ぎこちなさすぎないか？普通、久しぶりに会ったら積もる話もあるだろ？",
+			"저기...... 너희들, 너무 어색하지 않아? 보통 오랜만에 만나면 할 이야기도 많잖아?",
+			null,
+			null,
+			"Don't you think the atmosphere is very stiff? Shouldn't we have more to talk about after not seeing each other for so long?",
+			"Hey, ......, aren't you guys being too awkward? Usually, when you haven't seen each other in a while, you have a lot to talk about, don't you?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307343,
+			"I have nothing to say with a deserter, we will leave when Bronya wakes up.",
+			"我和临阵脱逃的人没什么好说的，等布洛妮娅醒了我们就离开。",
+			"敵前逃亡するような人と話すことは何もないわ。ブローニャの目が覚めたら出ていくわよ。",
+			"적전도망하는 사람과 할 말은 없어. 브로냐가 눈뜨면 나갈 거야.",
+			"I've got nothing to say to a deserter. We're leaving when Bronya wakes up.",
+			null,
+			"I have nothing to say to the proctor, we'll leave when Bronya wakes up.",
+			"I have nothing to say to someone who would flee before the enemy. I'll leave when Bronya wakes up."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307344,
+			"Where are you going? Fighting with Herrscher?",
+			"你们要去哪？难道还要去和律者战斗么？",
+			"どこに行くつもり？まさか、まだ律者と戦う気？",
+			"어디 갈 셈이야? 설마 아직 율자와 싸울 셈이야?",
+			"Where are you going? Are you going to fight the Herrscher?",
+			null,
+			"Where are you going? Are you going to fight the Herrscher?",
+			"Where are you going? Don't tell me you're still fighting the scribes?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			307345,
+			"Not your business.",
+			"和你无关。",
+			"あなたには関係ないわ。",
+			"당신과는 상관없어요.",
+			"It's none of your business.",
+			null,
+			"Nothing to do with you.",
+			"It's none of your business."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307346,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307347,
+			"Himeko you are such a topic killer……",
+			"姬子你这家伙还真是话题终结者啊……",
+			"姫子って、ほんと話を終わらせるのが得意だよな……。",
+			"히메코는 정말 이야기를 끝내는 게 능숙하네…….",
+			null,
+			null,
+			"Himeko you guys are really the end of the topic ......",
+			"Himeko is really good at finishing stories. ......"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307348,
+			"Well, is Theresa living on her own after that disaster? Impressive!",
+			"那个，德丽莎在那场大灾难之后都是一个人生活的么？实在是太厉害了！",
+			"なぁ、テレサはあの大災害の後、ずっと1人で過ごしてたんだろ？すげーじゃん！",
+			"야, 테레사는 그 대재난 이후로 계속 혼자 지냈잖아? 대단하네!",
+			null,
+			null,
+			"That, is Theresa living alone after the catastrophe? It's really awesome!",
+			"Hey, Teresa spent all that time alone after that catastrophe, right? That's amazing!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307349,
+			"Nothing impressive, just find a place to hide herself, it's easy.",
+			"有什么厉害的，只要找个地方躲起来，一味逃避的话谁都可以苟活下来。",
+			"すごくも何ともないわよ。適当な場所を探しては隠れて、ずっと逃げ回ってただけ。誰でも生き延びられるわ。",
+			"대단할 것도 없어요. 적당한 장소를 찾아 숨고, 계속 도망 다녔을 뿐이에요. 누구라도 살아남을 수 있어요.",
+			"What's so great about it? Anyone can survive if they find a place to hide and run away from it all.",
+			null,
+			"What's so great about it? Just find a place to hide, and anyone can survive if they just run away.",
+			"It wasn't great or anything. I just found a decent place to hide and I've been on the run for a long time. Anyone can survive."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307350,
+			"Shut up!",
+			"你闭嘴！",
+			"あんたは黙ってろ！",
+			"당신은 입 다물어요!",
+			null,
+			null,
+			"You shut up!",
+			"You shut up!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				62,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			307351,
+			"It's ok…she's saything the truth. I did choose to escape, unlike you.",
+			"没事…姬子说的是事实。我的确选择了逃避，没办法像你们一样勇敢的战斗。",
+			"いいの……姫子の言っていることは事実よ。あたくしは確かに逃げることを選んだ。あなたたちのように勇敢に戦えなかったの。",
+			"괜찮아요……히메코가 말하는 건 사실이에요. 저는 확실히 도망을 선택했어요. 여러분처럼 용감하게 싸우지 못했죠.",
+			"No... She's saying the truth. I did choose to run away. I'm not brave enough to fight like the rest of you.",
+			null,
+			"It's okay...what Himeko said is true. I did choose to run away and couldn't fight as bravely as you did.",
+			"No ...... what Himeko is saying is true. I certainly chose to run away. I couldn't fight as bravely as you guys."
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307352,
+			"I don't want to see you fighting with Kiana, so……",
+			"我不想看到你们和琪亚娜战斗的样子，所以……",
+			"あたくしは、あなたたちがキアナと戦う姿を見たくなかったの。だから……。",
+			"저는 여러분이 키아나와 싸우는 모습을 보고 싶지 않았어요. 그래서…….",
+			"I didn't want to see you guys fight Kiana. That's why I...",
+			null,
+			"I don't want to see you guys fighting Kiana, so ......",
+			"I didn't want to see you guys fight Kiana. That's why I went to ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			307353,
+			"So you leave us behind! What a easy choice.",
+			"所以就干脆抛下所有人拍拍屁股走人么？还真是轻松的选择呢。",
+			"だからいっそのこと、皆を見捨てて尻尾を巻いて逃げたの？ずいぶんと簡単な選択ね。",
+			"그러니까 차라리 모두를 버리고 꼬리를 말고 도망친 거야? 꽤나 쉬운 선택이네.",
+			"So you just abandoned everyone and ran away? Easy choice to make.",
+			null,
+			"So you just leave everyone behind and go away? That's an easy choice.",
+			"So you decided to just abandon everyone and run away with your tail between your legs? That's a pretty easy choice."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307354,
+			"It's not like that!",
+			"不是的！",
+			"違うわよッ！",
+			"아니야!",
+			null,
+			null,
+			"It's not!",
+			"No!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307355,
+			"……I will go outside, you all take a break.",
+			"……我去外面巡逻，你们好好休息吧。",
+			"……私は外を見回りに行ってくるから、あなたたちはゆっくり休んでてちょうだい。",
+			"……나는 밖을 살펴보러 갈 테니까, 너희들은 천천히 쉬고 있어.",
+			"...... I'm going to go take a look around outside, you guys get some rest.",
+			null,
+			"...... I'm going to patrol outside, so you guys get some rest.",
+			"...... I'm going to go take a look around outside, you guys get some rest."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307356,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307357,
+			"Wait! You're the one need to rest! Don't forget your body is…...",
+			"等等！现在最需要休息的是你！你别忘了你的身体已经……",
+			"待て！今、休息が必要なのは姫子も同じだ！忘れんなよ、あんたの身体だってもう……。",
+			"기다려! 지금 휴식이 필요한 건 히메코도 마찬가지야! 잊지 마, 네 몸도 이미…….",
+			"Wait! You're the one that needs to rest! Don't forget your body is…...",
+			null,
+			"Wait! You are the one who needs to rest the most right now! Don't you forget your body has ......",
+			"Wait! Himeko needs rest now, too! Don't forget, even your body is already ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			307358,
+			"Just leave me alone!",
+			"和你说了多少次了别管我！",
+			"エミザ、私に構わないでって何度言わせるつもり！",
+			"에미자, 내게 신경 쓰지 말라고 몇 번이나 말하게 할 셈이야!",
+			"Emesa, how many times do I have to tell you to leave me alone!",
+			null,
+			"How many times have I told you to leave me alone!",
+			"Emesa, how many times do I have to tell you to leave me alone!"
+		],
+		[
+			"choice",
+			[
+				308189,
+				"Emesa was right, let me in charge of the patrol.",
+				"埃米沙说的对，巡逻的事情就交给我来吧。",
+				"エミザの言う通り、見回りは私に任せて。",
+				"에미자가 말한 대로, 순찰은 나에게 맡겨.",
+				null
+			],
+			[
+				308204,
+				"Let me go with you, or it's too dangerous.",
+				"我和你一起去吧，一个人太危险了。",
+				"一緒に行くよ。1人じゃ危険すぎるから。",
+				"같이 갈게. 혼자면 너무 위험하니까.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1264,
+			1265
+		]
+	],
+	"1264": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307359,
+			"She's right! Stay! I won't let you step out of here today!",
+			"她说的没错！你给我好好呆着！你今天要是敢踏出这里一步我和你没完！",
+			"九霄の言うとおりだ！大人しくしろ！今日、ここから一歩でも出ようものなら、許さないからなッ！",
+			"큐쇼의 말이 맞아! 얌전히 있어! 오늘, 여기서 한 발짝이라도 나가려 들면, 용서하지 않을 테니까!",
+			"She's right! You stay right where you are! If you take one step out of here today, I won't forgive you!",
+			null,
+			"She's right! You stay right where you are! If you take one step out of here today, I'm not done with you!",
+			"Kyuushou is right! Be a big boy! If you take even one step out of this place today, I won't forgive you!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1266
+		]
+	],
+	"1265": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307360,
+			"No! You must stay! I won't let you step out of here today!",
+			"不行！姬子必须给我在这呆着！你要是敢踏出这里一步我今天和你没完！",
+			"ダメだッ！姫子は今日一日ここで大人しくしてろ！一歩でも出ようものなら、今日こそ許さないからな！",
+			"안 돼! 히메코는 오늘 하루 여기서 얌전히 있어! 한 발짝이라도 나가려 들면, 오늘은 정말 용서하지 않을 테니까!",
+			null,
+			null,
+			"No way! Himeko must stay here! If you dare to step out of here, I'm not finished with you today!",
+			"No! Himeko, you stay here all day! If you take one more step, I won't let you get away with it today!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1266
+		]
+	],
+	"1266": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10166"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307361,
+			"How? Whatever happened to me you're not just a piece of cake.",
+			"怎么？我的身子再怎么样撂倒你还是绰绰有余的。",
+			"へぇ？どんなに身体が不調だろうと、あなたを倒すくらいわけないんだけど。",
+			"허엉? 아무리 몸이 안 좋아도, 당신을 쓰러뜨리는 정도는 쉬운 일인데.",
+			"Huh? I don't care how sick I am, there's no way you're beating me in a fight.",
+			null,
+			"What? My body is still more than enough to take you down.",
+			"Huh? I don't care how physically challenged you are, there's no way I'm going to beat you."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307362,
+			"Ha! Then try it!",
+			"嚯嚯！那就试试！",
+			"ほぅ？だったら、試してみるか？見回りは私と九霄で行く。",
+			"호오? 그렇다면, 한번 해볼까? 살펴보는 건 나와 큐쇼가 갈게.",
+			"Oh yeah? Bring it!",
+			null,
+			"Ho ho ho! Then try it!",
+			"Really? Then, let's give it a try, shall we? I and Kyuushou will make the rounds."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307363,
+			"Go, I will deal with Himeko.",
+			"你们去吧，姬子就由我来挡着。",
+			"あなたたち、行きなさい。姫子はあたくしがなだめておくから。",
+			"너희들, 가라. 히메코는 내가 달래 둘 테니까.",
+			"You two go ahead. I'll calm Himeko down.",
+			null,
+			"You guys go ahead, I'll hold the Kioko back.",
+			"You guys, go. I'll calm Himeko down."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			307364,
+			"Theresa!",
+			"德丽莎你！",
+			"テレサ、あなた！",
+			"테레사, 당신!",
+			null,
+			null,
+			"Theresa you!",
+			"Teresa, you!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307365,
+			"Or you want to try me?",
+			"还是说你想和我比划一下试试么？",
+			"何？あたくしと勝負したいの？",
+			"뭐? 내가랑 승부하고 싶다고?",
+			"What? Do you want to play with me?",
+			null,
+			"Or do you want to try it with me?",
+			"What? You want to play with me?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			307366,
+			"Huh!",
+			"啧！",
+			"ちっ！",
+			"쳇!",
+			"Hmph!",
+			null,
+			"Sheesh!",
+			"Shit!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			307367,
+			"Let's go Kyushou!",
+			"九霄我们走！",
+			"九霄、行くぞ！",
+			"큐쇼, 가자!",
+			"Kyuushou, let's go!",
+			null,
+			"Kyuushou let's go!",
+			"Kyuushou, let's go!"
+		],
+		[
+			"msg",
+			307368,
+			"And……",
+			"还有……",
+			"それから……。",
+			"그리고…….",
+			null,
+			null,
+			"And ......",
+			"Then go to ......."
+		],
+		[
+			"msg",
+			307369,
+			"If you still have anything to say take the chance…or there's no time. And be gentle, I won't give you treatment.",
+			"你们两要是有什么话还是早点说清楚吧…不然可就没时间了。要是想打架的话下手轻点，我可不会给你们治疗。",
+			"あんたら、何か言いたいことがあるなら、さっさと話し合えよな……さもないと、このまま一生平行線だぞ。あと喧嘩するなら手加減しろよ。あんたらの治療はしないからな。",
+			"너희들, 할 말이 있으면 빨리 이야기해…… 안 그럼 이대로 평생 평행선이야. 그리고 싸우려면 살살 해. 너희들 치료는 안 해줄 테니까.",
+			"If you two have something to say, you should say it.... There might not be another opportunity. And if you want to fight each other, you'd better take it easy. I'm not going to treat any injuries.",
+			null,
+			"If you two have something to say, it's better to say it early...or there won't be time. If you want to fight, go easy on me, I'm not going to treat you.",
+			"You guys, if you have something to say, get on with it ...... or you'll be on a parallel track for the rest of your lives. And if you're going to fight, go easy on me. I'm not going to treat you guys."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				62,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			307370,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307371,
+			"Fine, go! Don't go too far, or I won't wait if you don't come back!",
+			"行了，要去就去！别走太远，不然回不来了我可不会来找你们！",
+			"分かったわよ。行くなら、さっさと行きなさい！遠くに行かないようにね。帰って来れなくても探しに行かないから！",
+			"알았어. 갈 거면 빨리 가! 멀리 가지 말라구. 돌아오지 못해도 찾으러 가지 않을 테니까!",
+			"All right, all right. If you're going, get going! Don't go far. If you don't come back, I won't go looking for you!",
+			null,
+			"All right, if you want to go, go! Don't go too far, or I won't come to you if you don't come back!",
+			"All right, all right. If you're going, get going! Don't go far. If you don't come back, I won't go looking for you!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307372,
+			"Don't you worry!",
+			"不用你操心！",
+			"ハンッ！心配いらねぇよ！",
+			"흥! 걱정 필요 없어!",
+			null,
+			null,
+			"Don't worry about it!",
+			"Han! Don't worry!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV02_GateClose"
+		],
+		[
+			"msg",
+			307373,
+			"Bang!",
+			"砰！",
+			"バンッ！",
+			"팡!",
+			"*door slam*",
+			null,
+			"Bang!",
+			"Bang!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			307374,
+			"What a soft kid.",
+			"真是个温柔的孩子呢。",
+			"優しい子ね。",
+			"상냥한 아이네.",
+			"What a sweet girl...",
+			null,
+			"What a gentle boy.",
+			"You're a sweet girl."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307375,
+			"Huh, just an arrogant girl……",
+			"哼，不过是个自以为是的自大小鬼罢了……",
+			"フンッ、自分が正しいと思ってる、ただの偉そうなガキよ……。",
+			"흥, 자기가 옳다고 생각하는, 그저 거만한 꼬맹이야…….",
+			"Hah. She's just am arrogant brat...",
+			null,
+			"Hm, just a smug arrogant brat ......",
+			"Hmmm, he's just a pompous little kid who thinks he's right. ......"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307376,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV14_WindWooshA"
+		],
+		[
+			"msg",
+			307377,
+			"Sorry, I follow with impulse, but turned out to be your burden.",
+			"抱歉，一时激动跟了过来，现在反而变成了你的累赘了呢。",
+			"すまん。ついカッとなってついて来ちゃったけど、足手まといだよな。",
+			"미안. 뜨거운 맘에 따라왔지만, 발목을 잡는 거겠지.",
+			"Sorry. I got mad and decided to follow you, but I'm the one slowing you down.",
+			null,
+			"I'm sorry, I got excited and came along, and now I've become a burden to you instead.",
+			"I'm sorry. I got mad and followed you, but you're slowing me down."
+		],
+		[
+			"msg",
+			307378,
+			"I'm still too useless……",
+			"果然我还是太没用了……",
+			"どうして私はこうも役立たずなんだ……。",
+			"왜 나는 이렇게도 쓸모없는 걸까…….",
+			"I'm still pretty useless...",
+			null,
+			"Sure enough I'm still too useless ......",
+			"Why am I so useless. ......"
+		],
+		[
+			"choice",
+			[
+				308190,
+				"Emesa has already tried, don't blame yourself.",
+				"埃米沙已经很努力了，不用自责。",
+				"エミザは十分頑張った。自分を責めないで。",
+				"에미자는 충분히 힘썼어. 자신을 탓하지 마.",
+				null
+			],
+			[
+				308205,
+				"Thanks to Emesa they have the chance to stay alone.",
+				"多亏了埃米沙才给了她们独处的机会。",
+				"エミザのおかげで彼女たちを2人にしてあげられた。",
+				"에미자 덕분에 그녀들을 두 사람으로 만들어 줄 수 있었어.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1267,
+			1268
+		]
+	],
+	"1267": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307379,
+			"Thank you. It's all because of your motivation, that makes our here.",
+			"谢谢。多亏了有你鼓励着我们前进，我们才能走到这里。",
+			"ありがとう。あんたが進むよう励ましてくれたおかげで、ここまで来れたんだ。",
+			"고마워. 네가 나아가도록 격려해 준 덕분에, 여기까지 올 수 있었어.",
+			null,
+			null,
+			"Thank you. Thanks to you encouraging us to move forward, we have been able to get here.",
+			"Thank you. I wouldn't have made it this far without your encouragement to keep going."
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307380,
+			"But, I guess all of you're tired, it's time to stop here.",
+			"不过，我想大家一定都累了吧，是时候该停下脚步了。",
+			"ここまでの道で姫子とブローニャは疲れてる。少し休むべき時だったんだ。",
+			"여기까지 오는 길에 히메코와 브로냐는 지쳤어. 조금 쉬어야 할 때였어.",
+			null,
+			null,
+			"However, I think we must all be tired, it's time to stop.",
+			"Himeko and Bronya are tired from the road to here. It was time for a little rest."
+		],
+		[
+			"msg",
+			307381,
+			"At least today let them relax and rest well with important people.",
+			"至少今天让她们放下包袱和自己重要的人一起好好休息吧。",
+			"少なくとも、今日だけは彼女たちの肩の荷を下ろさせて、大切な人と一緒に休ませてあげよう。",
+			"적어도 오늘만은 그녀들의 어깨 짐을 덜어주고, 소중한 사람과 함께 쉬게 해주자.",
+			null,
+			null,
+			"At least let them put down their baggage and rest with their significant others today.",
+			"At least for today, let's take a load off their shoulders and let them rest with their loved ones."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1269
+		]
+	],
+	"1268": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307382,
+			"I just don't like it, how people act acold but actually care about each other.",
+			"我只是看不惯而已，明明很重视对方却要装作冷漠的样子。",
+			"ただ気にくわないんだよ。明らかに相手のことを大切に思っておきながら、あんな風に冷たい態度を装うのがな。",
+			"그냥 마음에 안 들어. 분명 상대를 소중히 여기면서도, 그런 식으로 차가운 태도를 보이는 게 말이야.",
+			"I just don't like it. I mean, they obviously care about each other, but they still pretend to be indifferent.",
+			null,
+			"I just can't stand to see it. I obviously value each other but I have to pretend to be indifferent.",
+			"I just don't like it. I mean, you obviously care about them, but to feign such a cold attitude like that."
+		],
+		[
+			"msg",
+			307383,
+			"When they lose each other they must regret the words that are not said.",
+			"当失去对方的时候才后悔没有把自己的心声说出来的话一定会后悔一辈子的。",
+			"相手を失ってから、自分の心の声を言わなかったことを後悔することがある。そういった後悔は、一生続くんだ。",
+			"상대를 잃고 나서, 자신의 마음 속 목소리를 말하지 않았던 걸 후회할 때가 있어. 그런 후회는 평생 계속되는 거야.",
+			"When you lose someone, you might regret not telling them your honest feelings. Those regrets will stay for the rest of your life.",
+			null,
+			"When the loss of each other only regret not to say their hearts out words will certainly regret for life.",
+			"After you lose someone, you may regret not speaking your mind. Those regrets last a lifetime."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1269
+		]
+	],
+	"1269": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307384,
+			"I'm so jealous, to have someone aside……",
+			"真是羡慕她们呢，能有这样的人在身边……",
+			"あいつらが羨ましいよ。そんな人が、今も傍にいてくれるんだから……。",
+			"저 녀들이 부러워. 그런 사람이, 지금도 곁에 있어 주니까…….",
+			null,
+			null,
+			"I really envy them, to have such people around ......",
+			"I envy those guys. Someone like that is still there for them. ......"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307385,
+			"Eh!",
+			"咳咳咳！",
+			"ゴホッ、ゴホッ、ゴホッ！",
+			"콜록콜록콜록!",
+			"(Cough cough cough)!",
+			null,
+			"Cough cough cough!",
+			"Gosh, gosh, gosh!"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307386,
+			"Sorry…I'm fine.",
+			"抱歉…我没事。",
+			"すまない……大丈夫だ。",
+			"미안... 괜찮아.",
+			null,
+			null,
+			"Sorry...I'm fine.",
+			"Sorry ...... it's ok."
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307387,
+			"Let's go, I need to be helpful as well!",
+			"走吧，既然答应了你一起出来巡逻那我也得帮上忙才行！",
+			"行こう。あんたが見回りを引き受けてくれたからには、私も手伝わないとな！",
+			"가자. 네가 순찰을 맡아준 이상, 나도 도와야지!",
+			null,
+			null,
+			"Let's go, since I promised you to come out together to patrol that I also have to help to do!",
+			"Let's go. Now that you've taken over the watch, I've got to help out!"
+		]
+	]
+}

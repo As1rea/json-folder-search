@@ -1,0 +1,1147 @@
+{
+	"1046": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10104"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305406,
+			"Yssring! Bronya sent me to help you fix the gate. How is it going?",
+			"伊瑟琳~姐姐大人让我来协助你维修闸门。怎么样，目前维修进度如何了？",
+			"イザーリン。お姉ちゃんが私にゲートの修理を手伝えって。どうなの？今のところ、修理ははかどってる？",
+			"이자린. 언니가 나에게 게이트 수리를 도와달라고 했어. 어때? 지금까지 수리는 잘 되고 있어?",
+			null,
+			null,
+			"Estherine ~ Sister-sama asked me to assist you in repairing the gates. How is it, how is the progress of the repair so far?",
+			"Estherine. Your sister wants me to help fix the gate. How's it going? How are the repairs going so far?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305407,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			305408,
+			"I need to solder it here... And there, the physical structure is damaged... Hmm... Better to replace it with some stronger material...",
+			"这个地方也需要焊接一下…还有这个位置的物理结构也受到了创伤…嗯…得考虑更换强度更高的材料…",
+			"ここは溶接が必要……それからこの場所は物理ダメージを受けてる……うん、強度の高い材料に交換しないと……。",
+			"여기는 용접이 필요해…… 그리고 이 부분은 물리적 손상을 입었어…… 음, 강도 높은 재료로 교체해야겠어…….",
+			null,
+			null,
+			"This place also needs to be welded...and the physical structure of this location has also been traumatized...well...have to consider replacing the material with higher strength...",
+			"This place needs welding ...... and then this place has physical damage ...... yeah, we need to replace it with a stronger material ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305409,
+			"Hey!",
+			"喂！",
+			"ちょっと！",
+			"잠깐!",
+			null,
+			null,
+			"Hey!",
+			"Hey!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305410,
+			"Material... What material should I use...",
+			"……材料…材料。",
+			"……材料……材料。",
+			"……재료……재료.",
+			null,
+			null,
+			"...... materials...materials.",
+			"...... materials. ...... materials."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305411,
+			"Heeeeeelp! We have Houkai creatures here!!!",
+			"救命啊！！崩坏生物入侵啦！！！",
+			"助けて！崩壊生物が侵入したわ！！！",
+			"도와줘! 붕괴생물이 침입했어!!!",
+			null,
+			null,
+			"Help!!! Avalanche creatures are invading!!!",
+			"Help! The disintegrating organisms have invaded!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305412,
+			"Aaaaagh! Don't come any closer! And don't you underestimate me! You Houkai filth!",
+			"哇！别过来！我可是很厉害的！你们这些可恶的崩坏生物！",
+			"わっ！来ないで！私、スゴイのよ！ほ、崩壊生物なんかイチコロなんだから……！",
+			"왓! 오지 마! 나, 엄청난 거야! 호, 붕괴생물 따윈 단숨에 처리할 수 있으니까……!",
+			null,
+			null,
+			"Whoa! Don't come any closer! I'm very powerful! You damn crashing creatures!",
+			"Whoa! Get away from me! I'm amazing! I can take care of disintegrating organisms. ......!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305413,
+			"Sigh... Look at you... I wouldn't be surprised if you really got eaten by those monsters.",
+			"哎…你这个样子被崩坏生物吃掉也不奇怪。",
+			"やれやれ……あなたのその様子じゃ崩壊生物に食べられても不思議じゃないわね。",
+			"어쩌면…… 네 그 모습으론 붕괴생물에게 먹혀도 이상하지 않겠네.",
+			null,
+			null,
+			"Hey...it's not surprising that you're eaten by avalanche creatures in this condition.",
+			"Oh dear, ...... no wonder you were eaten by a disintegrating organism by the looks of you."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305414,
+			"Oh, it's Seele... You really scared me...",
+			"咕，是希儿啊…吓死我了……",
+			"ぐっ、ゼーレ……びっくりした……。",
+			"꿱, 제레…… 깜짝 놀랐어…….",
+			null,
+			null,
+			"Goo, it's Hill ah...scared me to death ......",
+			"Gosh, Seele ...... surprised me ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305415,
+			"Watch your tones! We came here only with the intention to protect you from those man-eating monsters.",
+			"你这是什么语气啊？我们可是为了防止你在发呆的时候被吃掉才好心过来保护你的哦！",
+			"それはどういう意味よ？私たちは、あなたがボケッとしている時に食べられないよう守っているのよ！",
+			"그게 무슨 뜻이야? 우리는 네가 멍때리고 있을 때 먹히지 않게 지켜주고 있는 거라고!",
+			null,
+			null,
+			"What kind of tone is that? We are here to protect you from being eaten while you are in a daze!",
+			"What does that mean? We're protecting you from being eaten when you're blah blah blah!"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305416,
+			"Since you seem to be strong enough to take care yourself... Well, why don't we just go back?",
+			"不过既然你这么厉害看来也不需要保护呢，我们回去吧~",
+			"でも、あなたがそんなにすごいなら守らなくても大丈夫ね。私たち帰ろ～っと！",
+			"그런데 네가 그렇게 대단하다면 지켜주지 않아도 되겠네. 우리들 돌아가자~!",
+			null,
+			null,
+			"But since you are so powerful seems not to need protection it, let's go back ~",
+			"But if you're so great, I don't have to protect you. We're going home!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305417,
+			"Wait... Wait! Alright, I'm sorry. Please, stay here and protect me...",
+			"等，等下…我错了，麻烦你们保护我吧……",
+			"ま、待って……私が悪かった。お願いだから守って……。",
+			"잠, 잠깐…… 내가 잘못했어. 부탁이니까 지켜줘…….",
+			null,
+			null,
+			"Wait, wait...I was wrong, please protect me ......",
+			"Well, wait ...... my bad. Please protect me. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305418,
+			"Humph... Now we are talking. So, how much progress have you made so far?",
+			"哼~这还差不多，话说现在进度如何了？",
+			"ふふんっ！そうこなくっちゃ。それで進捗状況はどうなの？",
+			"흥! 그렇게 나오라면 그렇지. 그럼 진행 상황은 어때?",
+			null,
+			null,
+			"Hm~That's more like it, say how is the progress now?",
+			"Hmmm! That's what I'm talking about. So how's the progress going?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305419,
+			"I've done evaluating the situation. Himeko really didn't take the consequences into consideration... Hyperion's main gun severely damaged the physical structure of the gate.",
+			"初步的检查已经结束了，姬子那个家伙真是不想后果…休伯利安的主炮导致闸门的物理结构遭到了强大的冲击。",
+			"初期検査は終わったわ。姫子のやつ、本当に後先考えないんだから……ハイペリオンの主砲がゲートの物理構造にとんでもない衝撃を与えてる。",
+			"초기 검사는 끝났어. 히메코 녀석, 정말 앞뒤 안 가리고…… 히페리온의 주포가 게이트의 물리 구조에 엄청난 충격을 줬어.",
+			null,
+			null,
+			"The initial inspection is over, and that Himeko guy really didn't want the consequences...the main cannon of the Hublian caused a powerful impact on the physical structure of the gate.",
+			"I'm done with the initial inspections. Himeko's guy really doesn't think ahead. ...... Hyperion's main gun is making a tremendous impact on the physical structure of the gate."
+		],
+		[
+			"msg",
+			305420,
+			"Though it doesn't appear to be that bad, if you take a closer look, you'll find countless small fractures which are the evidence of the inward collapse. If we leave it like that...",
+			"虽然表面看起来没有特别大的损坏，但是你看…这些细小的裂缝已经遍布整个闸门的各处，冲击带来的内在结构的崩解才是最致命的损伤，如果放着不管的话后果很严重，再加上…",
+			"見た目には特に大きな損傷はないけれど、見て……この細かいヒビがゲート中あちこちにあるでしょ。衝撃で内部構造が致命的なダメージを受けてるの。このまま放っておいたら、もっと悪くなる。それに……。",
+			"겉보기엔 특별히 큰 손상은 없지만, 봐…… 이 작은 균열이 게이트 전체에 여기저기 있잖아. 충격으로 내부 구조가 치명적인 데미지를 입었어. 이대로 내버려두면 더 나빠질 거야. 게다가…….",
+			null,
+			null,
+			"Although the surface does not seem particularly large damage, but you see ... these tiny cracks have been spread throughout the gate in various places, the impact brought about by the disintegration of the internal structure is the most fatal damage, if left unattended the consequences are very serious, plus ...",
+			"There is no major damage visually, but look at ...... you see these fine cracks all over the gate. The internal structure has been critically damaged by the impact. If we leave it like this, it will get worse. Also see ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305421,
+			"Alright, I need no explanations. It's not like I could understand it. Just tell us what to do.",
+			"好啦好啦~你说这么多我也听不懂啦，直接告诉我们应该做什么就行了。",
+			"分かった、分かった！そんなにたくさん言われても私には分からないよ。私たちが何をすればいいか直接教えてよ。",
+			"알겠어, 알겠다고! 그렇게 많이 말해도 나는 모르겠어. 우리가 뭘 해야 하는지 직접 알려줘.",
+			null,
+			null,
+			"Okay, okay ~ you say so much I can not understand it, tell us directly what we should do on the line.",
+			"Okay, okay! I don't know what you're talking about, even if you told me so much. Just tell me directly what we need to do."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305422,
+			"The Engineering Team will start to work on it soon. And you will just need to protect us.",
+			"马上工程班会开始维修工作，你们只要保护我们的安全就行了。",
+			"すぐにエンジニア班が修理作業を始めるわ。あなたたちは、私たちの安全を守ってくれればいい。",
+			"곧 엔지니어 팀이 수리 작업을 시작할 거야. 너희들은 우리의 안전을 지켜주기만 하면 돼.",
+			null,
+			null,
+			"Soon the engineering class will start the maintenance work, you just need to protect our safety.",
+			"The engineering team will begin repair work immediately. You guys just keep us safe."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305423,
+			"Roger that! You can count on us!",
+			"明白了~交给我们吧！",
+			"分かった、任せておいて！",
+			"알았어, 맡겨둬!",
+			null,
+			null,
+			"Understood ~ leave it to us!",
+			"All right, I'll take care of it!"
+		]
+	],
+	"1047": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10104"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305424,
+			"Well, a simple job, after all. It's a relief that we don't need to do the actual fixing job.",
+			"看来是最简单粗暴的工作呢，如果说要帮忙修理的话我可没自信。",
+			"単純明快な仕事ね！もし修理を手伝えって言われたら、自信なかったんだよね。",
+			"단순명료한 일이네! 만약 수리를 도우라고 했다면, 자신 없었을 텐데.",
+			null,
+			null,
+			"It seems to be the most simple and rough work, if I say to help repair it I do not have the confidence.",
+			"Plain and simple, that's a job! If you had asked me to help with the repairs, I wouldn't have been sure."
+		],
+		[
+			"msg",
+			305425,
+			"Just relax. We've taken out the very most of the Houkai creatures last night. Perhaps there's only one or two that we missed. I'm sure we can even take a nap or whatever.",
+			"放心吧，附近的崩坏生物在昨晚的作战中已经消灭的差不多了，即使有也只是少数散兵游勇而已，靠我们两个就足够应付，搞不好还能偷闲一下呢~",
+			"安心して。付近の崩壊生物は昨夜のうちにほとんど消滅させたから。いたとしても少数の残存兵がさまよっているだけだよ。私たち2人で十分対処できるわ。もしかしたら少しゆっくりできるかもね。",
+			"안심해. 부근의 붕괴생물은 어젯밤에 거의 소멸시켰으니까. 있을지라도 소수의 잔존병이 헤매고 있을 뿐이야. 우리 둘이면 충분히 처리할 수 있어. 어쩌면 조금 여유를 부릴 수도 있겠네.",
+			null,
+			null,
+			"Don't worry, the nearby collapsed creatures in last night's battle has been almost wiped out, even if there are only a few stragglers, just rely on the two of us is enough to deal with, may also be able to steal some time ~",
+			"Don't worry. Most of the decaying organisms in the area were eliminated last night. If there are any, they are only a few remaining soldiers wandering around. The two of us are more than capable of dealing with them. Maybe we can take it a little slower."
+		],
+		[
+			"msg",
+			305426,
+			"Well then, mission start: Protect the Engineering Team while they are working on the gate.",
+			"那么开始任务吧，在工程班维修的过程中保护她们就行了。",
+			"じゃあ、任務を始めましょう。エンジニア班が修理している間、彼女たちを守っているだけでいいわ。",
+			"자, 임무를 시작하자. 엔지니어 팀이 수리하는 동안, 그녀들을 지키기만 하면 돼.",
+			null,
+			null,
+			"Then start the task, just protect them during the engineering class repair.",
+			"Then let's start the mission. Just protect the girls while the engineering team repairs them."
+		]
+	],
+	"1048": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10104"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305427,
+			"*Rizzzzzzzzzzzz*",
+			"滋啦——滋啦——",
+			"ガガ——ガガ——",
+			"가가——가가——",
+			null,
+			null,
+			"Zira - Zira -",
+			"Gaga--ga--ga--ga--ga--ga--ga--ga--ga--ga--ga--ga--ga--ga."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305428,
+			"Hey! Why are you guys so noisy! What are you doing? Encouraging Houkai creatures?",
+			"喂！你们吵死啦！这么大噪音是在给崩坏生物助兴么！",
+			"ちょっと！あなたたち、うるさいわよ！こんなにうるさくしてたら崩壊生物が喜んじゃうわよ！",
+			"잠깐! 너희들, 시끄럽구나! 이렇게 소음을 내면 붕괴생물이 기뻐할 거야!",
+			null,
+			null,
+			"Hey! You're making a lot of noise! Are you making so much noise to cheer up the crashing creatures!",
+			"Hey! Hey! You guys, shut up! You're making too much noise, you'll make the disintegrating organisms happy!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305429,
+			"Repairing the gate is no simple job... We need to cut through the deformed metal plates, remove the steel reinforcements, make new cells and then fill them with replacement materials. All those are heavy industrial works... So it's normal to be this noisy.",
+			"维修闸门需要很多的工序…把变形的钢筋切割分离，重新打洞注入新的填补材料，这些都是体力活…有点噪音不是很正常么。",
+			"ゲートの修理にはたくさんの工程が必要なの……変形した鉄筋を切断して、穴を空けて新しい補強材料を注入する。これらはみんな肉体労働……少しくらいの騒音はしょうがない。",
+			"게이트 수리에는 많은 공정이 필요해... 변형된 철근을 절단하고, 구멍을 뚫어 새로운 보강재를 주입하는. 이건 모두 육체 노동... 조금 정도의 소음은 어쩔 수 없지.",
+			null,
+			null,
+			"Repair gates require a lot of processes ... the deformation of the steel cut and separated, re-punched holes injected with new filling material, these are physical work ... a little noise is not normal.",
+			"Repairing a gate requires a lot of processes...... cutting deformed rebar, making holes and injecting new reinforcing material. These are all physical labor...... and a little bit of noise is not a problem."
+		],
+		[
+			"msg",
+			305430,
+			"By the way, since we have very limited resources and time, what we are doing here is actually no more than the necessary minimum. Having such a gate as our last defense? If you ask me, I'd rather blow it up and rebuild a new one.",
+			"而且因为工期和资材的限制这已经是最大限度地减少工程量了，这样千疮百孔的闸门居然是我们的最后屏障，一想到这里我就想要把它炸掉重建……",
+			"しかも工期と資材の制約から、これでも工程を最大限減らしている状態。こんなめちゃくちゃなゲートでも私たちの最後の砦だからね。そう考えると爆破して建て直したくなるわ……。",
+			"게다가 공기와 자재 제약으로, 이마저도 공정을 최대한 줄인 상태야. 이런 엉망진창 게이트라도 우리의 마지막 보루니까. 그렇게 생각하면 폭파해서 다시 지으려고 생각할 정도야......",
+			null,
+			null,
+			"And because of the limitations of the construction period and materials this has been the maximum reduction in the amount of work, such a porous gate is actually our final barrier, the thought of it I want to blow it up and rebuild ......",
+			"Moreover, due to construction schedule and material constraints, the process is still being reduced to the maximum extent possible. Even this messed up gate is our last hurrah. That makes me want to blow it up and rebuild it. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305431,
+			"Sigh... I thought it's gonna be easy. Apparently, I was wrong...",
+			"咕…但是原本以为是个轻松的任务，没想到居然被坑了……",
+			"ぐっ……もっと気軽な任務かと思ってた。まさか、こんな裏があるなんて……。",
+			"꿀꺽... 더 가벼운 임무인 줄 알았어. 설마, 이런 뒷사정이 있을 줄이야......",
+			null,
+			null,
+			"Goo ... but originally thought it was an easy task, I did not expect to be pitted ......",
+			"Gosh ...... I thought it was a more casual assignment. I had no idea there was such a backstory. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305432,
+			"Why do you think I requested bodyguards in the first place? Focus on your job, and we will focus on ours.",
+			"不然你以为我为什么要请保镖呢，好好干吧…我们继续施工了。",
+			"じゃなかったら、どうして私が護衛を要請するの。しっかりね……私たちは工事を続けるわ。",
+			"그렇지 않으면, 어째서 내가 호위를 요청하겠어. 확실히 해... 우리는 공사를 계속할 거야.",
+			null,
+			null,
+			"Why else do you think I hired a bodyguard? Do a good job...we're moving on to construction.",
+			"Otherwise, why would I request an escort. Stay strong ...... we'll keep working on the construction."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305433,
+			"Hey! Wait!",
+			"喂！等等！",
+			"ちょっと！待って！",
+			"잠깐! 기다려!",
+			null,
+			null,
+			"Hey! Wait!",
+			"Hey! Hey! Wait!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305434,
+			"*Bang! Bang! Bang!*",
+			"咚！咚！咚！",
+			"ドン！ドン！ドン！",
+			"동! 동! 동!",
+			null,
+			null,
+			"Dang! Dang! Boom!",
+			"Don! Don! Don! Don! Don!"
+		],
+		[
+			"msg",
+			305435,
+			"*Rizzzzzzzzzzzz*",
+			"滋啦——滋啦——滋啦！",
+			"ガガ——ガガ——ガガ！",
+			"가가——가가——가가!",
+			null,
+			null,
+			"Zilla - zilla - zilla!",
+			"Gaga--gaga--gaga!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305436,
+			"Just give a break!!!",
+			"至少让我休息一下啦！！！",
+			"少しは休ませてよ！！！",
+			"좀 쉬게 해 주라구!!!",
+			null,
+			null,
+			"At least let me take a break!",
+			"Give me some rest!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		]
+	],
+	"1049": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10103"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305437,
+			"Phew! Well, we made it before the deadline. Thanks, everyone. And good job. Looks like I can sleep well again tonight.",
+			"呼，总算是在工期内完成了，真是不容易…各位辛苦了，今晚终于能睡个好觉了。",
+			"ふぅ、何とか工期内に終わりそう。本当よくやったわ……みんなお疲れ様。今夜はゆっくり眠れそうね。",
+			"후우, 어쨌든 공사 기간 내에 끝날 것 같네. 정말 잘했어…… 다들 수고했어. 오늘 밤은 편히 잘 수 있겠네.",
+			null,
+			null,
+			"Phew, finally finished within the construction period, it's not easy...everyone worked hard, and finally get a good night's sleep tonight.",
+			"Phew, we managed to finish within the construction period. Good job, guys. ...... Thanks for all your hard work. Looks like I'll be able to get a good night's sleep tonight."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305438,
+			"So, it's finally over... Let's go back and have some good rest.",
+			"总，总算结束了么……终于可以休息一下了，那我们先回去了。",
+			"と、とりあえず終わったのね……ようやく休めるわ。じゃあ私たちは先に帰るね。",
+			"일, 일단은 끝난 거네…… 이제야 쉴 수 있겠어. 그럼 우리는 먼저 갈게.",
+			null,
+			null,
+			"Total, finally over? ...... can finally take a break, then we go back first.",
+			"And you're done anyway. ...... I can finally rest. Well, we'll go home first."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305439,
+			"Seele. Our business here is not done yet. I still need to do the acceptance check. Please stay for a bit longer.",
+			"希儿，虽然是完工了，但是还有后期验收需要做，麻烦你们再稍等一会吧。",
+			"ゼーレ、工事は終わったけれど、まだ点検をしないといけないの。悪いけどもう少し待って。",
+			"제레, 공사는 끝났지만 아직 점검을 해야 해. 미안하지만 조금만 더 기다려.",
+			null,
+			null,
+			"Hill, although it is completed, but there is a late acceptance needs to be done, please wait a little longer.",
+			"Seele, the construction is finished, but we still need to do some inspections. I'm sorry, but you'll have to wait a little longer."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305440,
+			"Err... just a bit, right?",
+			"呃…你确定只一会么？",
+			"……本当に少しだけ？",
+			"……정말 조금만?",
+			null,
+			null,
+			"Uh...are you sure it's only for a little while?",
+			"...... really a little bit?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305441,
+			"Um-huh, let me see...",
+			"嗯，我看看……",
+			"うん、少し……。",
+			"응, 조금…….",
+			null,
+			null,
+			"Well, let's see ......",
+			"Yeah, a little ......."
+		],
+		[
+			"msg",
+			305442,
+			"Everything looks good.",
+			"似乎没什么问题了。",
+			"何も問題はないみたいね。",
+			"아무 문제 없는 것 같네.",
+			null,
+			null,
+			"Nothing seems to be wrong anymore.",
+			"Sounds like everything is fine."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305443,
+			"Great. Let's go!",
+			"太好了~那我们走啦~",
+			"よかった～！もういいよね？これで帰れる～！",
+			"다행이다~! 이제 된 거지? 이제 집에 갈 수 있어~!",
+			null,
+			null,
+			"Great! Then let's go!",
+			"Thank God~! We're good to go, right? We can go home now~!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305444,
+			"Hmm... Wait, this screw here is not quite in the right place... And the wall here is not entirely flat. And that drainage line is slightly inaccurate...",
+			"嗯…等下，这里的螺丝钉似乎拧的歪了一些…还有这个水泥的面有点斜了，还有这条排水线好像也标歪了一点……",
+			"うん……あ、待って、このネジ少し曲がっている……このコンクリは面が傾いているし、この排水溝も基準より曲がってる……。",
+			"응…… 아, 잠깐만, 이 나사가 조금 휘어져 있어…… 이 콘크리트는 면이 기울어졌고, 이 배수로도 기준보다 휘어져 있어…….",
+			null,
+			null,
+			"Well ... wait a minute, the screws here seem to be screwed crooked some ... and this cement surface is a bit slanted, and this drainage line seems to be marked crooked a little ......",
+			"Yeah...... oh wait, this screw is a little bent...... this concrete is tilted on the face and this drain is also bent more than the standard......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305445,
+			"What? I can't see any of what you just said!",
+			"哪有~不是很直嘛！",
+			"どこがよ！まっすぐじゃないの！",
+			"뭐가 어때요! 똑바로 된 거잖아요!",
+			null,
+			null,
+			"No, it's not very straight!",
+			"What the hell is wrong with you? It's not straight!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305446,
+			"No... We must stay here for some rework.",
+			"不行…还是得返工。",
+			"ダメよ……やり直し。",
+			"안 돼요…… 다시 해요.",
+			null,
+			null,
+			"No...still have to rework.",
+			"No. ...... redo."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305447,
+			"*Rizzzzzzzzzzzz*",
+			"滋啦——滋啦——",
+			"ガガ——ガガ——",
+			"가가——가가——",
+			null,
+			null,
+			"Zira - Zira -",
+			"Gaga--ga--ga--ga--ga--ga--ga--ga--ga--ga--ga--ga--ga--ga."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305448,
+			"Aaargh! Not again! Hey! Help me carry this fainted guy back! Otherwise, none of us could rest today!",
+			"啊！居然又开始了！喂！和我一起把这家伙抬回去！不然我们今天谁都歇不了！",
+			"あ！また始めた！ちょっと、いい加減帰らせてよ～！私たち休めないじゃない……。",
+			"아! 또 시작했어요! 잠깐, 이제 좀 돌려보내줘요~! 우리들 쉴 수 없잖아…….",
+			null,
+			null,
+			"Ah! It's starting again! Hey! Let's carry this guy back with me! Or we won't be able to rest today!",
+			"Ah! Here we go again! Hey, let me go home for good! We can't rest! ......"
+		]
+	]
+}

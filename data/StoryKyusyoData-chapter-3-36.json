@@ -1,0 +1,1476 @@
+{
+	"150": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10091"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301526,
+			"Cough!",
+			"咳咳！",
+			"ゲッゲホッ！",
+			"겟켓호!",
+			"[Cough cough!]",
+			null,
+			"Ahem!",
+			"Ghee ghee!"
+		],
+		[
+			"msg",
+			301527,
+			"It hurts....",
+			"呃！好痛……",
+			"うう！いたたた……。",
+			"우우! 아야야…….",
+			"Ugh! Everything hurts...",
+			null,
+			"Ugh! That hurts ......",
+			"Ugh! Ita-ta-ta. ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301528,
+			"Huh? You're awake! Hey come! She's awake!",
+			"唔！你醒了么！姐姐大人！她醒过来了！",
+			"あ！目が覚めた！お姉ちゃん、気がついたよ！",
+			"아! 눈을 떴어! 언니, 정신 차렸어!",
+			"Ah, you're awake! Sis, she's awake!",
+			null,
+			"Well! You're awake! Sister-sama! She's awake!",
+			"Ah! I'm awake! Sis, I'm awake!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301529,
+			"Are you alright? Do you know who I am? Does it hurt?",
+			"怎么样？知道我是谁么？身体有什么问题么？还有哪里疼么？",
+			"どうです？私が誰だか分かりますか？身体は問題ないですか？まだどこか痛みますか？",
+			"어때요? 내가 누군지 알아보겠어요? 몸은 괜찮아요? 아직 어디 아픈 데 있어요?",
+			"How are you feeling? Do you know who I am? Does it hurt anywhere?",
+			null,
+			"How's that? Do you know who I am? Is there anything wrong with your body? Does it hurt anywhere else?",
+			"What do you think? Do you know who I am? Is everything alright with your body? Do you still feel any pain?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			301530,
+			"Hang on! You're too aggressive!",
+			"等下！等下！姐姐大人太心急啦！",
+			"待って待って、お姉ちゃん、焦りすぎ！",
+			"잠깐잠깐, 언니, 너무 성급해!",
+			"Hold on! Slow down!",
+			null,
+			"Wait! Wait! You're too eager, sister!",
+			"Wait, wait, sis, you're in too much of a hurry!"
+		],
+		[
+			"choice",
+			[
+				301658,
+				"This somehow looks familiar.",
+				"总感觉是似曾相识的情景。",
+				"この光景いつかどこかで見たような気がする。",
+				"이 광경 언젠가 어디선가 본 것 같은 느낌이 들어.",
+				"(This is a familiar scene...)"
+			],
+			[
+				301659,
+				"I got Bronya worried again.",
+				"又让布洛妮娅担心了。",
+				"またブローニャに心配かけちゃった。",
+				"또 브로냐를 걱정하게 만들었어.",
+				"(I got Bronya worried again.)"
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			151
+		]
+	],
+	"151": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10091"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301531,
+			"You scolded at me last time when I did the same to you.",
+			"嘿嘿，上次这样的时候可是被姐姐大人狠批了一顿呢。",
+			"エヘヘ、前回こうなったときは、お姉ちゃんにこってりしぼられたのにね。",
+			"에헤헤, 지난번 이렇게 됐을 땐 언니한테 혼쭐이 났었는데.",
+			"Ehehe, the last time this happened Bronya really chewed me out.",
+			null,
+			"Hey, the last time this was done it was severely criticized by the elder sister.",
+			"Ehehe, the last time this happened, I was squeezed stiff by my sister."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301532,
+			"Oh... I'm sorry. I didn't want to, but I had to train you... Now that you're a reliable soldier. The operation could not run that smooth without you. Although it was quite close at the end.",
+			"唔…抱歉，那是为了锻炼你才迫不得已…不过现在的你已经变得十分可靠了，这次的作战多亏了你才能顺利结束，虽然最后遇到在那样的危机，不过还好有惊无险。",
+			"う……すみません、あれはあなたを鍛えるためにやむを得ず……でも、今のあなたはもう十分頼りになります。今回の作戦はあなたのおかげで順調にいきました。最後は危なかったですが、無事で良かったです。",
+			"음…… 죄송해요, 그땐 당신을 단련시키려고 어쩔 수 없이…… 하지만 지금 당신은 이미 충분히 믿음직스러워요. 이번 작전은 당신 덕분에 순조로웠어요. 마지막은 위험했지만, 무사해서 다행이에요.",
+			null,
+			null,
+			"Well ... sorry, that is in order to train you had to ... but now you have become very reliable, this battle thanks to you to end smoothly, although the last encounter in the crisis, but fortunately there is no danger.",
+			"U...... sorry, that was unavoidable to train you......, but you are already dependable enough now. This operation went well thanks to you. It was close at the end, but I am glad you are safe."
+		],
+		[
+			"msg",
+			301533,
+			"Now that you look fine, that's great. Do you know you had been unconscious for one whole day.",
+			"看你的样子似乎也没什么大碍了，你整整昏迷了一整天呢，真是太好了。",
+			"その様子だと命に別状はなさそうですね。丸一日気を失っていたのですよ。本当に良かった。",
+			"그 모양으로 보니 생명엔 지장이 없을 것 같군요. 꼬박 하루를 의식을 잃고 있었답니다. 정말 다행이에요.",
+			"Looks like you're alright. You were out cold for an entire day.",
+			null,
+			"It's great to see that you seem to be okay. You were unconscious the whole day.",
+			"By the looks of it, he seems to be in life-threatening condition. I was out cold for a whole day. I'm really glad."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301534,
+			"Yes, you know what. She was so worried that she can't even eat or sleep well.",
+			"对啊，这段时间姐姐大人可是坐立不安，饭都没吃好呢~",
+			"そうそう、お姉ちゃんは居ても立ってもいられず、ずっとご飯も食べてないんだよ～！",
+			"그러니까! 언니가 앉아있을 수 없어서 계속 밥도 안 먹었단 말이에요~!",
+			"Yeah, it's true! And Bronya here was so worried she barely ate.",
+			null,
+			"Yes, during this period of time, sister-sama is restless, did not eat a good meal ~",
+			"Oh yeah, my sister couldn't stay and eat all the time~!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301535,
+			"Ahem, Seele! That's it for the chitchat... Now that you're awake, let me update you the current situation.",
+			"希儿！咳咳！先别说这些了……既然醒了就跟你简单说明一下现在的情况吧。",
+			"ゼーレ！それは言うなと……ゴホン、目が覚めたのなら簡単に今の状況を説明しましょう。",
+			"제레! 그것은 말하지 말라니까…… 콜록, 정신을 차렸다면 간단히 현재 상황을 설명하지요.",
+			"Seele! Don't say that.... Ahem. Since you're awake, let me give you a briefing on what's going on right now.",
+			null,
+			"Hill! Ahem! Let's not talk about that for now ...... Since you're awake, let's briefly explain to you what's going on now.",
+			"Seele! Don't say that and ...... Gohon, if you're awake, let me briefly explain what's going on now."
+		],
+		[
+			"msg",
+			301536,
+			"Under Herrscher's attack, ME is heavily damaged. We almost lost the arsenal too. Luckily we've salvaged one production line. So we got some result in this operation.",
+			"ME社在律者的攻击下受到的重创，兵工厂也损失严重，不过幸好我们抢救回了一条制造流水线，所以这次的作战也不是一无所获。",
+			"ME社は、律者の攻撃で激しく損壊しました。兵器工場の損傷も深刻です。ただ、幸いなことに製造ラインの1本は復旧できました。ですから、今回の作戦は無駄なものではありません。この収穫は大きなものです。",
+			"ME사는 율자의 공격으로 심하게 손상되었습니다. 병기 공장의 손상도 심각합니다. 다만, 다행히 제조 라인의 1개는 복구할 수 있었습니다. 따라서 이번 작전은 헛된 것이 아닙니다. 이 수확은 큰 것입니다.",
+			"ME Corporation was serverely damaged by the Herrscher's attack. The weapons manufacturing plant was also severely damaged. Luckily we've managed to salvage one of the production lines, so it wasn't all in vain.",
+			null,
+			"The ME Society was badly hit by the Ruler's attack, and the arsenal was badly damaged, but fortunately we salvaged a manufacturing line, so the battle wasn't for nothing.",
+			"The ME company was severely damaged by the Ruler's attack. The weapons factory was also severely damaged. Fortunately, however, one of the production lines has been restored. Therefore, this operation was not in vain. This harvest is a big one."
+		],
+		[
+			"msg",
+			301537,
+			"I don't know why the Herrscher did not finish us off, the situation is still not optimistic...",
+			"虽然不知道为什么律者没有对我们进行致命一击，但是我们现在的情况依然不乐观……",
+			"どうして、律者が私たちにトドメを刺さなかったのかは分かりません。ただ、依然として楽観視できる状況ではありませんが……。",
+			"왜 율자가 우리에게 최후의 일격을 가하지 않았는지는 모르겠습니다. 단, 여전히 낙관할 수 있는 상황은 아니지만……",
+			"I don't know why the Herrscher didn't finish us off, but things still aren't looking great for us...",
+			null,
+			"I don't know why the Ruler didn't strike a fatal blow at us, but we're still not in a good position ......",
+			"I do not know why the scribes did not tome us. However, the situation still does not warrant optimism. ......"
+		],
+		[
+			"msg",
+			301538,
+			"Anyway, you should get some more rest as you're just awake. I'll ask Emesa to check your condition again just in case.",
+			"算了…先不讲这个了，你刚醒还是再休息一下吧，以防万一让埃米沙再来给你检查一下吧。",
+			"……詳細はまた今度にしましょう。意識が戻ったばかりの身体に障ってはいけません。ゆっくり休んでください。万一に備えて、エミザにもう一度検査してもらいましょう。",
+			"……자세한 건 다음 기회로 미루지요. 의식이 돌아온 지 얼마 안 된 몸에 해로울 순 없습니다. 천천히 쉬세요. 만일을 대비해, 에미자에게 다시 한번 검사를 받도록 합시다.",
+			"...Let's get into the details later. I don't want to stress you out right after you've woken up. You should get some rest. I'll have Emesa check your condition again just in case.",
+			null,
+			"Forget it...let's not talk about this, you just woke up or rest again, just in case let Emesa come back to check you again.",
+			"...... for more details. Do not disturb the body that has just regained consciousness. Get some rest. Have the emissary examine you again, just in case."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301539,
+			"Hmm, you looked grief before you woke up. Was it a nightmare? That worried me a lot.",
+			"嗯，你醒来之前表情很痛苦，真的吓死我了呢，是做噩梦了么？",
+			"うん、目が覚める前、表情がとても辛そうでびっくりしたわ。怖い夢でも見たの？",
+			"응, 정신을 차리기 전에 표정이 너무 고통스러워서 깜짝 놀랐어. 무서운 꿈이라도 꾼 거야?",
+			"Hmm, you looked pretty sad before you woke up. Was it a nightmare? That worried me a lot.",
+			null,
+			"Well, you woke up with a painful expression before, really scared me, is it a nightmare?",
+			"Yeah, before I woke up, I was surprised to see you looking so pained. Did you have a scary dream?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301540,
+			"Tell what you saw in the dream.",
+			"将梦里的事情说了出来。",
+			"夢で見たことを話した。",
+			"꿈에서 본 것을 이야기했다.",
+			"(I told them what I had seen in my dream.)",
+			null,
+			"Tell us what happened in the dream.",
+			"I told him what I had seen in my dream."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301541,
+			"Kiana wake up in the dream... In the theme park you also mentioned that you met Mei... And now the Herrscher. Perhaps it is not a coincidence.",
+			"梦里沉睡的琪亚娜苏醒了么……之前你在游乐园中也说过遇见过芽衣姐…律者的事情，看来或许不是巧合。",
+			"夢の中で眠っていたキアナが目覚めたのですか……この前遊園地でも芽衣姉……律者に会ったと言ってましたね。これは偶然の一致ではなさそうです。",
+			"꿈속에서 잠자던 키아나가 깨어났다고요…… 이전 놀이공원에서도 메이 언니…… 율자를 만났다고 하셨죠. 이건 우연의 일치로 보이진 않습니다.",
+			"Kiana woke up in the dream... In the theme park you also mentioned that you met Mei... And now the Herrscher. Perhaps it's more than a coincidence.",
+			null,
+			"Did the dream of sleeping Kiana awakened ...... before you also said in the amusement park met Meiko Sister ... the Ruler thing, it seems that perhaps not a coincidence.",
+			"So Kiana, who was asleep in a dream, woke up ...... last time at the amusement park and also said she met Mei's sister ...... Ritus. This does not seem to be a coincidence."
+		],
+		[
+			"msg",
+			301542,
+			"What a mysterious girl. You've lost your memory, but you can always experience something bizarre.",
+			"你真是有些不可思议，虽然记忆还没有恢复，但是却总能看到一些奇特的光景。",
+			"本当に不思議です。まだ記憶も回復していないのに、そのような奇妙な光景を見るなんて。いや、記憶がないからでしょうか。",
+			"정말 신기합니다. 아직 기억도 회복되지 않았는데, 그런 기묘한 광경을 보다니. 아니, 기억이 없기 때문일까요.",
+			"You're a mystery. You've lost your memory, but you keep seeing strange things in your dreams...",
+			null,
+			"There's something really incredible about you, always seeing some strange light even though your memory hasn't returned.",
+			"It is really strange. To see such strange sights when I haven't even recovered my memory yet. No, maybe it is because I have no memory."
+		],
+		[
+			"msg",
+			301543,
+			"Though I have no idea what's going on, it must be a foretell... of something ominous.",
+			"虽然不知道是怎么回事，但一定预示着什么…总有一种不好的预感。",
+			"どういうことかは分かりませんが、きっと何かの暗示でしょう……何だか悪い予感がします。",
+			"무슨 뜻인지는 모르겠지만, 분명 어떤 암시일 거야…… 왠지 나쁜 예감이 들어.",
+			"I don't know what it means, but I feel like it might be fortelling something ominous.",
+			null,
+			"I don't know what's going on, but it must portend something...there's always a bad feeling.",
+			"I don't know what it means, but I'm sure it's an allusion to something ...... I have a bad feeling about this."
+		],
+		[
+			"msg",
+			301544,
+			"Seele, tell Himeko that we are going to investigate around. Perhaps some crisis is coming...",
+			"希儿，通知姬子。我们一起到周围调查一下吧，也许危机已经朝我们逼近了。",
+			"ゼーレ、姫子に伝えてください。一緒に周囲を調べてみましょう。もしかしたら、脅威はすぐそこまで来ているかもしれません。",
+			"제레, 히메코에게 전해주세요. 함께 주변을 살펴봅시다. 어쩌면 위협은 바로 코앞까지 다가왔을지도 몰라요.",
+			"Seele, please tell Himeko. Let's check the surroundings together. Perhaps the threat is just around the corner.",
+			null,
+			"Shire, inform Himeko. Let's investigate around together, maybe the crisis is approaching us.",
+			"Seele, please tell Himeko. Let's check the surroundings together. Perhaps the threat is just around the corner."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301545,
+			"Yes ma'am!",
+			"好的，姐姐大人~",
+			"分かったわ、お姉ちゃん。",
+			"알았어, 언니.",
+			"Okay, sister-sama~",
+			null,
+			"Okay, sister-sama~",
+			"All right, sister."
+		],
+		[
+			"choice",
+			[
+				301660,
+				"Please let me go with you.",
+				"请务必带上我。",
+				"どうか私も連れてって。",
+				"제발 나도 데려가 줘.",
+				null
+			],
+			[
+				301661,
+				"I am going to make myself ready.",
+				"我这就去准备。",
+				"すぐに支度するから。",
+				"금방 준비할게.",
+				"Hold on, let me get ready."
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			152
+		]
+	],
+	"152": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10091"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301546,
+			"It's fine that you stay here. You're weak now and should take a good rest.",
+			"你不用去，你现在还很虚弱，还是好好休息吧。",
+			"あなたは行かなくていいです。今は身体を休めるのが先決です。よく休んでください。",
+			"당신은 가지 않아도 돼요. 지금은 몸을 쉬는 게 먼저예요. 잘 쉬세요.",
+			"You should stay here. You're still weak, you should get some more rest.",
+			null,
+			"You don't have to go, you are still weak, it's better to rest.",
+			"You do not have to go. Your first priority now is to rest your body. Rest well."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301547,
+			"Well, look at her eyes. She's determined. It's unbelievably safe around the base camp, why don't you just let her join. It can be a good chance for rehab.",
+			"嘛…看她的眼神好像非去不可呢，既然现在基地周围出奇的安全，姐姐大人就让她出去活动一下吧，躺了这么久身体也会僵硬的吧？",
+			"ん～、どうしても行きたいって目つきだよ。今基地の周囲は珍しく安全だし、少し外に出て動いてもいいんじゃない？ずっと寝ていたら身体がなまっちゃうでしょ？",
+			"음~, 어떻게든 가고 싶다는 눈빛이네. 지금 기지 주변은 드물게 안전하니까, 잠깐 밖에 나가서 움직여도 괜찮지 않아? 계속 누워있으면 몸이 굳어버릴 거야.",
+			"Look at the determination in her eyes. It doesn't seem like she's going to take no for an answer, so why don't you let her tag along? It's pretty safe right now when there's no Honkai Beasts around.",
+			null,
+			"Well ... look at her eyes seem to have to go, since the base around the surprisingly safe, sister let her go out to move a little, lying for so long body will be stiff, right?",
+			"Hmmm...you've got that look in your eyes that says you really want to go. It's unusually safe around the base right now, so why don't you get out and move around a bit? If you sleep all the time, your body will get tired, won't it?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301548,
+			"... Alright, you can come with us. If your dream is true, you might discover something we cannot see.",
+			"……好吧，那就和我们一起去吧，如果你的梦境是真的，或许会有我们看不到的发现，",
+			"……わかりました、では、一緒に行きましょう。あなたの夢が現実になるなら、ブローニャたちには気づけないような違和感を見つけられるかもしれません。",
+			"……알겠어요, 그럼 함께 가죠. 당신의 꿈이 현실이 된다면, 브로냐들에는 눈치채지 못할 이상한 점을 찾을 수 있을지도 몰라요.",
+			"...Alright, you can come with us. If your dream was fortelling something, you might discover something we'd overlook.",
+			null,
+			"...... Well, come with us then, if your dream is true, perhaps there will be discoveries that we cannot see",
+			"...... Okay, well, let's go together. If your dream becomes a reality, you may find some discomfort that Bronyas and others may not be able to notice."
+		],
+		[
+			"msg",
+			301549,
+			"But the Houkai creatures' current status is weird. Don't force yourself too much and retreat immediately when you're in danger.",
+			"不过现在崩坏生物的活动状态很诡异，一定不要逞强，遇到危险就立即撤退。",
+			"ただ、くれぐれも無理はしないように。……実は崩壊生物の動きが不穏なのです。",
+			"다만, 절대 무리는 하지 말아요. ……사실 붕괴 생물의 움직임이 불온해요.",
+			"But the absence of Honkai beasts is strange... Don't force yourself too much and retreat immediately if you're in danger.",
+			null,
+			"However, the state of activity of the collapsing creatures is very weird now, so you must not be brave and retreat immediately if you encounter danger.",
+			"Just please don't take it too hard. ...... actually the movement of disintegrating organisms is disturbing."
+		],
+		[
+			"choice",
+			[
+				301662,
+				"Unbelievably safe?",
+				"出奇安全是指？",
+				"ゼーレが言ってた、珍しく安全っていうのは？",
+				"제레가 말했던, 드물게 안전하다는 건?",
+				"It's safe?"
+			],
+			[
+				301663,
+				"Houkai beasts' current status is weird?",
+				"崩坏生物的活动诡异？",
+				"崩壊生物の動きが不穏って？",
+				"붕괴 생물의 움직임이 불온하다고?",
+				"There's no Honkai Beasts?"
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			153
+		]
+	],
+	"153": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10091"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301550,
+			"Right, while you're unconscious, all Houkai creatures near the base camp were gone ...",
+			"嗯，在你昏迷的这段时间里，基地周围的崩坏生物全不见了……",
+			"あなたが気を失っている間に、基地周辺の崩壊生物が姿を消しました。何かの予兆かもしれません。もし危険があれば即撤退をします。",
+			"당신이 의식을 잃은 사이에, 기지 주변의 붕괴 생물들이 모습을 감췄어요. 무슨 예조일지도 몰라요. 만약 위험이 있으면 즉시 철수할게요.",
+			"Oh, right. While you were unconscious, all the Honkai Beasts around the base disappeared.",
+			null,
+			"Well, during the time you were unconscious, all the collapsed creatures around the base were gone ......",
+			"While you were unconscious, the decaying organisms around the base disappeared. This may be a sign of something. If there is any danger, we will retreat immediately."
+		],
+		[
+			"msg",
+			301551,
+			"As if they disappeared into air.",
+			"仿佛凭空消失了一般。",
+			"一体、崩壊生物に何が……まるで消滅してしまったかのよう。",
+			"대체, 붕괴 생물에게 무슨 일이…… 마치 소멸해버린 것 같아.",
+			"I'm not sure where they went, but this might be a bad omen...",
+			null,
+			"It was as if it had disappeared into thin air.",
+			"What in the world is happening to the collapsing organisms ...... as if they have disappeared."
+		]
+	],
+	"154": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301552,
+			"No traces of the Houkai here, as I've thought. Such tranquility is so abnormal that it makes me feel uneasy. Somehow it reminds me of the silence before a storm...",
+			"果然还是没有崩坏生物的踪迹呢，这诡异的安静实在让人不习惯，总感觉是暴风雨前的宁静……",
+			"やっぱり崩壊生物の痕跡はないね。こう静かだと慣れなくて不気味だね。嵐の前の静けさのような……。",
+			"역시 붕괴 생물의 흔적은 없네. 이렇게 조용하면 적응이 안 되고 으스스해. 폭풍 전의 고요 같은…….",
+			"I still don't see any traces of Honkai Beasts. It's eerie how quiet it is. It's like the calm before the storm......",
+			null,
+			"Sure enough, there is still no sign of the collapsing creatures, the eerie quiet is really uncomfortable, it always feels like the calm before the storm ......",
+			"I still don't see any traces of decaying organisms. It's eerie how quiet it is. It's like the calm before the storm. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301553,
+			"The base camp is now exposed and we can only cancel the relocation plan considering the current situation of ME. We must find a safe place before the next attack from the Houkai......",
+			"嗯，基地的位置已经暴露，以ME社现在的状态原本的转移计划也只能终止了，必须赶在下次崩坏生物进攻前找到安全的地方……",
+			"ええ、基地の場所はバレてしまいましたし、今のME社の状態では当初の移転計画も中止せざるをえません。崩壊生物が攻めてくるまでに安全な場所を探さないと……。",
+			"에, 기지의 위치는 들켜버렸고, 지금 ME사 상태에선 원래의 이전 계획도 중단할 수밖에 없어. 붕괴 생물이 쳐들어오기 전에 안전한 장소를 찾아야 하는데......",
+			"Yeah... The location of our base was exposed, and there's no way we'd be able to relocate inside the ME Corp.'s building in its current state. We need to find a safe place before the Honkai Beasts attack again...",
+			null,
+			"Well, the location of the base has been exposed, the ME Society's current state of the original transfer plan can only be terminated, we must rush to find a safe place before the next attack of the collapsing creatures ......",
+			"Yes, the location of the base has been exposed, and with the current state of the ME company, the original relocation plan has to be cancelled. We need to find a safe place before the disintegrating organisms attack. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301554,
+			"But... where can we go...",
+			"但是…我们还能去哪里呢……",
+			"でも……どこへ行けばいいんだろう……。",
+			"하지만...... 어디로 가야 할까......",
+			null,
+			null,
+			"But...where else can we go ......",
+			"But ...... where do I go ......."
+		]
+	],
+	"155": [
+		[
+			"bgm",
+			11
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301555,
+			"...",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301556,
+			"This is...",
+			"这个是……",
+			"これは……。",
+			"이건......",
+			null,
+			null,
+			"This is ......",
+			"This can be found at ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301557,
+			"What's up, Himeko?",
+			"怎么了姬子？",
+			"どうしました、姫子？",
+			"왜 그래, 히메코?",
+			null,
+			null,
+			"What's wrong Himeko?",
+			"What's wrong, Himeko?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301558,
+			"Isn't it Oath of Judah? Don't tell me Theresa is here!",
+			"唔！这个不是犹大誓约的长矛么！难道德丽莎园长在这里么！",
+			"あっ！これ、誓約の十字架の霊刀じゃない！まさかテレサ学園長がここに！？",
+			"앗! 이거, 서약의 십자가 영검이잖아! 설마 테레사 학원장이 여기에!?",
+			"Huh? Isn't this the <tooltip entry=38>Oath of Judah</tooltip>? Does that mean principal Theresa is here!?",
+			null,
+			"Well! Isn't this the spear of the Judas Iscariot? Isn't the head gardener here?",
+			"Ah! This is not the Spirit Sword of the Cross of the Pledge! Don't tell me that Teresa, the dean of the school, is here!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301559,
+			"...",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"msg",
+			301560,
+			"Scraps only. No need to be surprised.",
+			"只是废铜烂铁罢了，没什么好惊讶的。",
+			"ただのガラクタよ。別に驚くことはないわ。",
+			"그냥 잡동사니야. 별로 놀랄 일도 아니라고.",
+			"It's just a piece of scrap metal. Don't worry about it.",
+			null,
+			"It's just scrap metal, nothing to be surprised about.",
+			"It's just a piece of junk. Nothing surprising."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301561,
+			"Himeko! This shows that Theresa is still alive! We must find her!",
+			"喂！姬子！这说明德丽莎园长还活着啊！我们得去找她！",
+			"ちょっと、姫子さん！これってテレサ学園長がまだ生きてるってことでしょ！探さなきゃ！",
+			"잠깐, 히메코 씨! 이건 테레사 학원장이 아직 살아있다는 거잖아! 찾아야 해!",
+			"Hey! That must mean that Principal Theresa is still alive! We have to find her!",
+			null,
+			"Hey! Himeko! This means that Head Gardener Theresa is still alive! We have to go find her!",
+			"Hey, Himeko! This must mean that Teresa, the headmistress of the school, is still alive! We have to find her!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301562,
+			"None of my business. She has given up to fight. She's no longer our companion.",
+			"和我无关，她自己放弃了战斗，已经不是我们的战友了。",
+			"私には関係ないわ。あの人は自分から戦いを放棄したんだもの。もう戦友でもなんでもない。",
+			"나랑은 상관없어. 그 사람은 스스로 싸움을 포기했던 걸. 이젠 전우도 뭣도 아니야.",
+			"It's got nothing to do with me. She's given up on fighting. She's no longer our companion.",
+			null,
+			"Nothing to do with me, she gave up the fight herself and is no longer our comrade.",
+			"It's none of my business. That man has given up the fight on his own. He is no longer a comrade-in-arms."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301563,
+			"How could you...",
+			"怎么会……",
+			"どうして……。",
+			"왜…….",
+			null,
+			null,
+			"How can ......",
+			"Why ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301564,
+			"Don't worry, Seele. Theresa can't be killed that easily. If she was here before, then it means she still has the will to fight. Therefore we will definitely get her back.",
+			"希儿，不用太担心。以德丽莎的能力不会有危险的，既然她来过这里，就表明她还有战斗的意志，所以我们一定会把她找回来的。",
+			"テレサの能力なら危険はないでしょう。ここに来たのなら、まだ戦う意志があるということです。ですから、きっと戻ってきてくれます。",
+			"테레사님의 능력이라면 위험은 없을 겁니다. 여기까지 왔다는 건 아직 싸울 의지가 있다는 뜻이에요. 그러니 분명 돌아와 줄 거예요.",
+			"Don't worry, Seele. Theresa can't be killed that easily. If she was here before, then it means she still has the will to fight. We'll definitely get her back on our team.",
+			null,
+			"Shire, don't worry too much. With Theresa's ability there will be no danger. Since she has been here, it shows that she still has the will to fight, so we will definitely get her back.",
+			"Theresa's abilities would not be in danger. If she came here, it means she is still willing to fight. Therefore, I am sure she will come back."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301565,
+			"Right...",
+			"嗯……",
+			"うん……。",
+			"응…….",
+			null,
+			null,
+			"Well ......",
+			"Yeah. ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301566,
+			"Humph. I don't care.",
+			"哼，随便你们。",
+			"フン、勝手になさい。",
+			"흥, 마음대로 하세요.",
+			"Hmph. Do what you want.",
+			null,
+			"Hm, whatever you guys.",
+			"Well, go your own way."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301567,
+			"It's getting late, let's call it the day. We should then plan for what to do next.",
+			"好了，今天的调查就到这里吧，天色也不早了，我们回去制定一下后面的计划。",
+			"では、今日の調査はここまでにしましょう。日も暮れてきました。帰って今後の計画を立てましょう。",
+			"자, 오늘 조사는 여기까지 하죠. 날도 저물었으니 돌아가서 향후 계획을 세우도록 합시다.",
+			"Well, that's enough for today's investigation. It's getting dark out. Let's go home and plan out what to do next.",
+			null,
+			"Well, that's it for today's investigation, it's getting late, let's go back and make plans for the back.",
+			"Well, that's it for today's survey. It is getting dark. Let's go home and make plans for the future."
+		]
+	],
+	"156": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10095"
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301568,
+			"After a few days of investigation, within a large area near the camp, the Houkai creatures are no longer active. We've not yet figured out the reason, but this grants us enough time to reassemble.",
+			"经过这几天的调查，基地周围很大范围内的崩坏生物停止了活动，虽然原因还没有查明，但是这个给了我们宝贵的时间重新调整。",
+			"調査班の報告によると、基地周辺の広い範囲で崩壊生物が姿を消しました。原因は明らかではありませんが、これは態勢を立て直す貴重な機会です。利用しない手はありません。",
+			"조사반 보고에 따르면 기지 주변 광범위 지역에서 붕괴생물이 사라졌습니다. 원인은 불분명하지만 이는 전력을 재정비할 귀중한 기회입니다. 놓칠 수 없죠.",
+			"We've been investigating the area around the base for few days and determined that the Honkai Beasts are no longer active. We still don't know the reason, but this gives us enough time to reassemble.",
+			null,
+			"After the last few days of investigation, a large area around the base of the collapsed creatures ceased to be active, although the cause has not been identified, but this gives us valuable time to readjust.",
+			"The survey team reports that the decaying organisms have disappeared over a large area around the base. The cause is not clear, but this is a rare opportunity to regroup. We cannot afford not to take advantage of it."
+		],
+		[
+			"msg",
+			301569,
+			"However, the investigation must go on. Himeko, lead the Graymoth Squad and extent the area of investigation to the suburb of Nagazora.",
+			"但是崩坏生物的活动必须继续调查。姬子，你带领灰蛾部队扩大搜索范围，调查长空市外围的情况。",
+			"ただし、崩壊生物の動向については調査を続ける必要があります。姫子は灰蛾部隊を率いて捜索範囲を拡大し、長空市の周囲の状況を調査してください。",
+			"다만 붕괴생물 동향에 대한 지속적 조사가 필요합니다. 히메코는 회아부대를 이끌고 수색 범위를 확대해 장공시 주변 정황을 조사해주십시오.",
+			"However, we haven't finished investigating yet. Himeko, lead the Graymoth Squad to investigate the suburbs of Nagazora.",
+			null,
+			"But the activities of the Avalanche creatures must continue to be investigated. Himeko, you lead the Grey Moth unit to expand the search and investigate the situation on the outskirts of Nagumo City.",
+			"However, we must continue to investigate the trend of the collapsed organisms. Himeko should lead the ash moth unit to expand the search area and investigate the situation around Changku City."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301570,
+			"Got it. Will go tonight.",
+			"好，今晚出发。",
+			"分かった、今夜出発するわ。",
+			"알겠어요, 오늘 밤 출발할게요.",
+			"Got It. I'll leave tonight.",
+			null,
+			"Okay, leaving tonight.",
+			"Ok, I'm leaving tonight."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301571,
+			"Also, find if there is any suitable place to be our next base camp near Nagazora.",
+			"另外，找一下长空市周围可以成为基地的候选吧。",
+			"それから、長空市の周囲で基地にできそうな候補地を探してきてください。",
+			"추가로 장공시 주변에서 기지 건설 가능 후보지도 탐색해주시길 바랍니다.",
+			"Also, find if there is a suitable location for our next base camp near Nagazora.",
+			null,
+			"Also, look for candidates around Nagasu City that can become a base.",
+			"Then go and find a potential site around Changkuu City that could be used as a base."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			301572,
+			"Huh? Are we going to relocate?",
+			"呃…怎么了？要搬家么？",
+			"え……どういうこと？引っ越すの？",
+			"어...? 무슨 말씀이세요? 이사를 가자는 건가요?",
+			null,
+			null,
+			"Uh...what's up? Moving?",
+			"What do you mean, ......? Are you moving?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			301573,
+			"Yes, the base has been exposed to the enemies, plus the Herrscher's attack, it is no longer safe here.",
+			"嗯，基地的位置已经暴露了，而且律者的攻击你们也看到了，现在这里已经不安全了。",
+			"はい、基地の場所がバレてしまいましたから。それに律者の攻撃をみなさんも見たでしょう。ここはもはや安全ではありません。",
+			"네, 기지의 위치가 들켜 버렸으니까요. 게다가 율자의 공격을 여러분도 목격했을 겁니다. 여긴 더 이상 안전하지 않아요.",
+			"Yes. The base has been exposed to the enemies, and even a Herrscher knows our location. It's not safe here.",
+			null,
+			"Well, the location of the base has been exposed, and with the Ruler's attack as you can see, it's not safe here anymore.",
+			"Yes, because the location of the base has been exposed. And you have all seen the attack by the scribes. It is no longer safe here."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301574,
+			"But! But what to do with the stuff here?",
+			"但！但是！这么多东西要怎么办……",
+			"で、でも！こんなにたくさんの物をどうやって……。",
+			"그, 그래도! 이렇게 많은 물건을 어떻게…….",
+			"But! But what about all the stuff here?",
+			null,
+			"But! But! What to do with so much stuff ......",
+			"And, but! How do you get so much stuff to ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			301575,
+			"Take only those useful with you. You should be ready to move out in a few days, we need to hurry.",
+			"带上最有用的东西，其他就舍弃吧。这几天大家都开始准备，我们要尽快转移。",
+			"必要な物だけを持って、あとは放棄しましょう。数日以内に動けるよう、みなさん準備しておいてください。これは早ければ早いほどいいです。",
+			"필요한 것만 챙기고 나머지는 버리기로 해요. 며칠 안에 움직일 수 있게 모두 준비해 두세요. 이건 빠르면 빠를수록 좋아요.",
+			"Take only what you need and abandon the rest. Everyone needs to be prepared to move within the next few days. The sooner we can move, the better.",
+			null,
+			"Take the most useful things with you and discard the rest. Everyone start preparing in the next few days, we need to move as soon as possible.",
+			"Take only what you need and abandon the rest. Everyone should be prepared to move within a few days. The sooner you do this, the better."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301576,
+			"That's not possible... The injured have not yet recovered. Relocating the camp is no easy task.",
+			"说的容易…之前战斗的伤员还没有康复，转移的困难度可是很高的。",
+			"言うのは簡単だけどさ……こないだの戦いでの負傷者もまだ回復してないんだ。移動はかなり厳しいぜ。",
+			"말로는 쉽지…… 지난 전투에서의 부상자들도 아직 회복되지 않았어. 이동은 상당히 힘들 거야.",
+			null,
+			null,
+			"Easy to say...the wounded from previous battles have not yet recovered and the difficulty of transferring them can be very high.",
+			"Easier said than done. ...... and the wounded from the battle the other day are still recovering. It's going to be tough to get around."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301577,
+			"I understand, but we have no other choice...",
+			"我明白…但是这也是迫不得已……",
+			"分かっています……でもやむを得ないのです……。",
+			"알고 있어요…… 하지만 어쩔 수 없는 일이에요…….",
+			null,
+			null,
+			"I understand...but it's a necessity ......",
+			"I know ...... but it is unavoidable. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				59,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301578,
+			"Alright, cheer up! You can count on me whenever you have troubles! Don't forget I'm your jack of all trades!",
+			"好啦好啦~不要一副愁眉苦脸的样子，如果有什么困难就找我吧！别忘了我可是大家的万事屋哦！",
+			"はいはい～そんな暗い顔してないで！何か困ったことがあったらゼーレに任せて。みんなの万事屋がここにいるってこと、忘れないで！",
+			"네네~ 그런 어두운 표정 짓지 말고! 뭔가 곤란한 일이 생기면 제레에게 맡겨. 모두의 만능 해결사가 여기 있다는 것, 잊지 말아요!",
+			null,
+			null,
+			"Okay, okay, okay, don't look so sad, if you have any difficulties, you can find me! Don't forget that I'm everyone's everything house!",
+			"Yes, yes - don't look so gloomy! If you have any problems, leave it to Seele. Remember, everyone's all-rounder is here!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				59,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301579,
+			"Thank you, Seele. We must unite in order to survive!",
+			"…谢谢你希儿。我们现在必须团结起来，这样才能一起活下去！",
+			"……ありがとう、ゼーレ。今は団結しなければなりません。一緒に生きていくために！",
+			"……고마워, 제레. 지금은 단결해야 해요. 함께 살아가기 위해서!",
+			null,
+			null,
+			"...Thank you Shire. We have to stick together now so we can survive together!",
+			"Thanks ......, Seele. Now we must unite. To live together!"
+		]
+	]
+}

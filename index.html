@@ -1,0 +1,577 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JSON Folder Search</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-slate-50 text-slate-900">
+    <div class="min-h-screen">
+        <!-- Header -->
+        <header class="border-b bg-white">
+            <div class="mx-auto max-w-6xl px-4 py-4 flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
+                <div>
+                    <h1 class="text-xl font-semibold">JSON Folder Search</h1>
+                    <p class="text-sm text-slate-500">
+                        Select a folder of .json files, search by keyword, click to view details.
+                    </p>
+                </div>
+
+                <div class="flex flex-col gap-2 sm:flex-row sm:items-center">
+                    <label class="inline-flex items-center gap-2">
+                        <span class="text-sm font-medium text-slate-700">Folder</span>
+                        <input id="folderInput" type="file" webkitdirectory multiple
+                            class="block w-full text-sm file:mr-3 file:rounded-lg file:border file:border-slate-200 file:bg-white file:px-3 file:py-2 file:text-sm file:font-medium hover:file:bg-slate-50 cursor-pointer" />
+                    </label>
+                    <button id="loadFromSiteBtn"
+                        class="rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm font-medium hover:bg-slate-50">
+                        Load from website (/data)
+                    </button>
+                    <button id="clearBtn"
+                        class="rounded-lg border border-slate-200 bg-white px-3 py-2 text-sm font-medium hover:bg-slate-50">
+                        Clear
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main -->
+        <main class="mx-auto max-w-6xl px-4 py-6">
+            <!-- Controls -->
+            <div class="mb-4 grid gap-3 md:grid-cols-3">
+                <div class="md:col-span-2">
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Search</label>
+                    <div class="relative">
+                        <input id="searchInput" type="text" placeholder="Type a keyword (e.g. user id, name, status)..."
+                            class="w-full rounded-xl border border-slate-200 bg-white px-4 py-3 pr-10 text-sm shadow-sm focus:outline-none focus:ring-2 focus:ring-slate-300" />
+                        <button id="clearSearchBtn" title="Clear search"
+                            class="absolute right-2 top-1/2 -translate-y-1/2 rounded-lg px-2 py-1 text-slate-500 hover:bg-slate-100">
+                            ✕
+                        </button>
+                    </div>
+                    <p id="statusText" class="mt-2 text-xs text-slate-500">
+                        No folder loaded yet.
+                    </p>
+                </div>
+
+                <div>
+                    <label class="block text-sm font-medium text-slate-700 mb-1">Options</label>
+                    <div class="rounded-xl border border-slate-200 bg-white p-3 shadow-sm space-y-2">
+                        <label class="flex items-center gap-2 text-sm">
+                            <input id="caseSensitive" type="checkbox" class="h-4 w-4 rounded border-slate-300" />
+                            Case sensitive
+                        </label>
+                        <label class="flex items-center gap-2 text-sm">
+                            <input id="searchKeysOnly" type="checkbox" class="h-4 w-4 rounded border-slate-300" />
+                            Search keys only (not values)
+                        </label>
+                        <label class="flex items-center gap-2 text-sm">
+                            <input id="prettyWrap" type="checkbox" checked class="h-4 w-4 rounded border-slate-300" />
+                            Wrap JSON in detail view
+                        </label>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Content -->
+            <div class="grid gap-4 md:grid-cols-2">
+                <!-- List -->
+                <section class="rounded-2xl border border-slate-200 bg-white shadow-sm">
+                    <div class="border-b px-4 py-3 flex items-center justify-between">
+                        <h2 class="text-sm font-semibold">Results</h2>
+                        <span id="countBadge"
+                            class="text-xs rounded-full bg-slate-100 px-2 py-1 text-slate-600">0</span>
+                    </div>
+
+                    <div id="list" class="max-h-[70vh] overflow-auto divide-y">
+                        <!-- items injected here -->
+                    </div>
+
+                    <div id="emptyState" class="p-6 text-center text-sm text-slate-500 hidden">
+                        No matches. Try another keyword.
+                    </div>
+                </section>
+
+                <!-- Detail -->
+                <section class="rounded-2xl border border-slate-200 bg-white shadow-sm">
+                    <div class="border-b px-4 py-3">
+                        <div class="flex items-center justify-between gap-3">
+                            <div class="min-w-0">
+                                <h2 class="text-sm font-semibold">Detail</h2>
+                                <p id="detailTitle" class="text-xs text-slate-500 truncate">Select an item to view JSON
+                                </p>
+                            </div>
+
+                            <button id="copyBtn"
+                                class="rounded-lg border border-slate-200 bg-white px-3 py-2 text-xs font-medium hover:bg-slate-50 disabled:opacity-50"
+                                disabled>
+                                Copy JSON
+                            </button>
+                        </div>
+
+                        <!-- Detail search -->
+                        <div class="mt-3 flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
+                            <div class="relative w-full sm:max-w-md">
+                                <input id="detailSearchInput" type="text" placeholder="Search within this JSON..."
+                                    class="w-full rounded-xl border border-slate-200 bg-white px-3 py-2 pr-9 text-sm shadow-sm focus:outline-none focus:ring-2 focus:ring-slate-300"
+                                    disabled />
+                                <button id="detailClearBtn" title="Clear"
+                                    class="absolute right-2 top-1/2 -translate-y-1/2 rounded-lg px-2 py-1 text-slate-500 hover:bg-slate-100 disabled:opacity-50"
+                                    disabled>✕</button>
+                            </div>
+
+                            <div class="flex items-center gap-2">
+                                <span id="detailMatchBadge"
+                                    class="text-xs rounded-full bg-slate-100 px-2 py-1 text-slate-600">0 matches</span>
+
+                                <button id="detailPrevBtn"
+                                    class="rounded-lg border border-slate-200 bg-white px-2 py-1 text-xs font-medium hover:bg-slate-50 disabled:opacity-50"
+                                    disabled>Prev</button>
+
+                                <button id="detailNextBtn"
+                                    class="rounded-lg border border-slate-200 bg-white px-2 py-1 text-xs font-medium hover:bg-slate-50 disabled:opacity-50"
+                                    disabled>Next</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="p-4">
+                        <pre id="detail"
+                            class="text-xs rounded-xl border border-slate-200 bg-slate-50 p-4 overflow-auto max-h-[70vh] whitespace-pre-wrap"></pre>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // ---------- State ----------
+        /** @type {{ id: string, name: string, path: string, rawText: string, json: any, searchableText: string, keysText: string }[]} */
+        let filesIndex = [];
+        let selectedId = null;
+
+        // ---------- DOM ----------
+        const folderInput = document.getElementById('folderInput');
+        const searchInput = document.getElementById('searchInput');
+        const listEl = document.getElementById('list');
+        const emptyState = document.getElementById('emptyState');
+        const statusText = document.getElementById('statusText');
+        const countBadge = document.getElementById('countBadge');
+        const detailEl = document.getElementById('detail');
+        const detailTitle = document.getElementById('detailTitle');
+        const copyBtn = document.getElementById('copyBtn');
+        const clearBtn = document.getElementById('clearBtn');
+        const clearSearchBtn = document.getElementById('clearSearchBtn');
+        const loadFromSiteBtn = document.getElementById('loadFromSiteBtn');
+
+        const caseSensitive = document.getElementById('caseSensitive');
+        const searchKeysOnly = document.getElementById('searchKeysOnly');
+        const prettyWrap = document.getElementById('prettyWrap');
+
+        const detailSearchInput = document.getElementById('detailSearchInput');
+        const detailClearBtn = document.getElementById('detailClearBtn');
+        const detailMatchBadge = document.getElementById('detailMatchBadge');
+        const detailPrevBtn = document.getElementById('detailPrevBtn');
+        const detailNextBtn = document.getElementById('detailNextBtn');
+
+        let detailRawPretty = "";
+        let detailMatches = [];
+        let detailMatchIndex = -1;
+
+        // ---------- Helpers ----------
+        function escapeHtml(str) {
+            return str.replace(/[&<>"']/g, (m) => ({
+                "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;"
+            }[m]));
+        }
+
+        function collectKeys(obj, out = []) {
+            if (obj && typeof obj === 'object') {
+                for (const k of Object.keys(obj)) {
+                    out.push(k);
+                    collectKeys(obj[k], out);
+                }
+            }
+            return out;
+        }
+
+        function normalize(text, isCaseSensitive) {
+            return isCaseSensitive ? text : text.toLowerCase();
+        }
+
+        function makeSnippet(text, needle, isCaseSensitive) {
+            const hay = normalize(text, isCaseSensitive);
+            const ndl = normalize(needle, isCaseSensitive);
+            const idx = hay.indexOf(ndl);
+            if (idx === -1) return text.slice(0, 140);
+
+            const start = Math.max(0, idx - 60);
+            const end = Math.min(text.length, idx + ndl.length + 60);
+            let snippet = text.slice(start, end);
+
+            if (start > 0) snippet = "…" + snippet;
+            if (end < text.length) snippet = snippet + "…";
+            return snippet;
+        }
+
+        function highlight(text, needle, isCaseSensitive) {
+            if (!needle) return escapeHtml(text);
+            const flags = isCaseSensitive ? "g" : "gi";
+            const re = new RegExp(needle.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), flags);
+            return escapeHtml(text).replace(re, (m) => `<mark class="rounded bg-yellow-200 px-1">${escapeHtml(m)}</mark>`);
+        }
+
+        function setWrap() {
+            detailEl.classList.toggle('whitespace-pre-wrap', prettyWrap.checked);
+            detailEl.classList.toggle('whitespace-pre', !prettyWrap.checked);
+        }
+
+        // ---------- Rendering ----------
+        function renderList(items, keyword) {
+            listEl.innerHTML = "";
+
+            if (!items.length) emptyState.classList.remove('hidden');
+            else emptyState.classList.add('hidden');
+
+            for (const item of items) {
+                const isSelected = item.id === selectedId;
+                const snippet = makeSnippet(item.searchableText, keyword, caseSensitive.checked);
+
+                const row = document.createElement('button');
+                row.type = "button";
+                row.className =
+                    "w-full text-left px-4 py-3 hover:bg-slate-50 focus:outline-none focus:bg-slate-50 " +
+                    (isSelected ? "bg-slate-50" : "");
+                row.innerHTML = `
+        <div class="flex items-start justify-between gap-3">
+          <div class="min-w-0">
+            <div class="flex items-center gap-2">
+              <span class="text-sm font-semibold truncate">${escapeHtml(item.name)}</span>
+              ${isSelected ? `<span class="text-[10px] rounded-full bg-slate-200 px-2 py-0.5 text-slate-700">Selected</span>` : ""}
+            </div>
+            <div class="text-xs text-slate-500 truncate">${escapeHtml(item.path || "")}</div>
+            <div class="mt-2 text-xs text-slate-700 leading-relaxed">${highlight(snippet, keyword, caseSensitive.checked)}</div>
+          </div>
+          <span class="shrink-0 text-xs text-slate-400">›</span>
+        </div>
+      `;
+
+                row.addEventListener('click', () => {
+                    selectedId = item.id;
+                    showDetail(item);
+                    applySearch();
+                });
+
+                listEl.appendChild(row);
+            }
+
+            countBadge.textContent = String(items.length);
+        }
+
+        function showDetail(item) {
+            const pretty = JSON.stringify(item.json, null, 2);
+            detailRawPretty = pretty;
+
+            detailEl.textContent = pretty;
+            detailTitle.textContent = item.path || item.name;
+            copyBtn.disabled = false;
+
+            setDetailSearchEnabled(true);
+            detailSearchInput.value = "";
+            highlightAllMatchesInDetail("");
+
+            copyBtn.onclick = async () => {
+                try {
+                    await navigator.clipboard.writeText(pretty);
+                    copyBtn.textContent = "Copied!";
+                    setTimeout(() => (copyBtn.textContent = "Copy JSON"), 900);
+                } catch (e) {
+                    alert("Could not copy. Your browser might block clipboard access here.");
+                }
+            };
+        }
+
+        function applySearch() {
+            const keyword = searchInput.value.trim();
+            const cs = caseSensitive.checked;
+
+            if (!filesIndex.length) {
+                renderList([], keyword);
+                statusText.textContent = "No folder loaded yet.";
+                countBadge.textContent = "0";
+                return;
+            }
+
+            if (!keyword) {
+                renderList(filesIndex, keyword);
+                statusText.textContent = `Loaded ${filesIndex.length} JSON file(s). Showing all.`;
+                return;
+            }
+
+            const needle = normalize(keyword, cs);
+            const useKeysOnly = searchKeysOnly.checked;
+
+            const filtered = filesIndex.filter(f => {
+                const hay = normalize(useKeysOnly ? f.keysText : f.searchableText, cs);
+                return hay.includes(needle);
+            });
+
+            renderList(filtered, keyword);
+            statusText.textContent = `Loaded ${filesIndex.length} JSON file(s). Found ${filtered.length} match(es) for “${keyword}”.`;
+        }
+
+        // ---------- Load from WEBSITE (/data) ----------
+        async function loadFromWebsite() {
+            filesIndex = [];
+            selectedId = null;
+
+            detailEl.textContent = "";
+            detailTitle.textContent = "Select an item to view JSON";
+            copyBtn.disabled = true;
+
+            statusText.textContent = "Loading from /data/files.json …";
+
+            try {
+                // files.json is an array like ["a.json","b.json"]
+                const listRes = await fetch("./data/files.json", { cache: "no-store" });
+                if (!listRes.ok) throw new Error("files.json not found or not accessible");
+                const fileNames = await listRes.json();
+
+                const jsonFiles = (Array.isArray(fileNames) ? fileNames : [])
+                    .filter(n => typeof n === "string" && n.toLowerCase().endsWith(".json"));
+
+                if (!jsonFiles.length) {
+                    statusText.textContent = "No JSON files listed in /data/files.json.";
+                    applySearch();
+                    return;
+                }
+
+                const results = await Promise.all(
+                    jsonFiles.map(async (name, idx) => {
+                        try {
+                            const res = await fetch(`./data/${encodeURIComponent(name)}`, { cache: "no-store" });
+                            if (!res.ok) return null;
+                            const rawText = await res.text();
+
+                            const json = JSON.parse(rawText);
+                            const keys = collectKeys(json).join(" ");
+                            const searchableText = typeof json === "string" ? json : JSON.stringify(json);
+
+                            return {
+                                id: `site-${Date.now()}-${idx}`,
+                                name,
+                                path: `data/${name}`,
+                                rawText,
+                                json,
+                                searchableText,
+                                keysText: keys
+                            };
+                        } catch {
+                            return null;
+                        }
+                    })
+                );
+
+                filesIndex = results.filter(Boolean);
+
+                statusText.textContent =
+                    `Loaded ${filesIndex.length} valid JSON file(s) from /data. ` +
+                    (filesIndex.length < jsonFiles.length ? "Some files failed or were invalid JSON and were skipped." : "");
+
+                applySearch();
+            } catch (err) {
+                statusText.textContent =
+                    "Could not load from /data. Make sure you created /data/files.json and uploaded your data folder.";
+                console.error(err);
+            }
+        }
+
+        // ---------- Load from USER FOLDER (your original) ----------
+        async function loadFolder(fileList) {
+            filesIndex = [];
+            selectedId = null;
+
+            detailEl.textContent = "";
+            detailTitle.textContent = "Select an item to view JSON";
+            copyBtn.disabled = true;
+
+            const files = Array.from(fileList).filter(f => f.name.toLowerCase().endsWith(".json"));
+            statusText.textContent = "Reading files…";
+
+            const readPromises = files.map((file, idx) => new Promise((resolve) => {
+                const reader = new FileReader();
+                reader.onload = () => {
+                    const rawText = String(reader.result || "");
+                    try {
+                        const json = JSON.parse(rawText);
+
+                        const keys = collectKeys(json).join(" ");
+                        const searchableText = typeof json === "string" ? json : JSON.stringify(json);
+
+                        resolve({
+                            id: `${Date.now()}-${idx}`,
+                            name: file.name,
+                            path: file.webkitRelativePath || file.name,
+                            rawText,
+                            json,
+                            searchableText,
+                            keysText: keys
+                        });
+                    } catch {
+                        resolve(null);
+                    }
+                };
+                reader.onerror = () => resolve(null);
+                reader.readAsText(file);
+            }));
+
+            const results = await Promise.all(readPromises);
+            filesIndex = results.filter(Boolean);
+
+            statusText.textContent =
+                `Loaded ${filesIndex.length} valid JSON file(s) (${files.length} .json selected). ` +
+                (filesIndex.length < files.length ? "Some files were invalid JSON and were skipped." : "");
+
+            applySearch();
+        }
+
+        // ---------- Detail search ----------
+        function setDetailSearchEnabled(enabled) {
+            detailSearchInput.disabled = !enabled;
+            detailClearBtn.disabled = !enabled;
+            detailPrevBtn.disabled = true;
+            detailNextBtn.disabled = true;
+            detailMatchBadge.textContent = "0 matches";
+        }
+
+        function highlightAllMatchesInDetail(query) {
+            const q = query.trim();
+            detailMatches = [];
+            detailMatchIndex = -1;
+
+            if (!q) {
+                detailEl.textContent = detailRawPretty;
+                detailMatchBadge.textContent = "0 matches";
+                detailPrevBtn.disabled = true;
+                detailNextBtn.disabled = true;
+                return;
+            }
+
+            const cs = caseSensitive.checked;
+            const flags = cs ? "g" : "gi";
+            const re = new RegExp(q.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), flags);
+
+            let match;
+            while ((match = re.exec(detailRawPretty)) !== null) {
+                detailMatches.push({ start: match.index, end: match.index + match[0].length });
+                if (match.index === re.lastIndex) re.lastIndex++;
+            }
+
+            let html = "";
+            let last = 0;
+            for (let i = 0; i < detailMatches.length; i++) {
+                const { start, end } = detailMatches[i];
+                html += escapeHtml(detailRawPretty.slice(last, start));
+                html += `<mark data-hit="${i}" class="rounded bg-yellow-200 px-0.5">${escapeHtml(detailRawPretty.slice(start, end))}</mark>`;
+                last = end;
+            }
+            html += escapeHtml(detailRawPretty.slice(last));
+            detailEl.innerHTML = html;
+
+            detailMatchBadge.textContent = `${detailMatches.length} match${detailMatches.length === 1 ? "" : "es"}`;
+
+            const has = detailMatches.length > 0;
+            detailPrevBtn.disabled = !has;
+            detailNextBtn.disabled = !has;
+
+            if (has) {
+                detailMatchIndex = 0;
+                scrollToDetailHit(detailMatchIndex);
+            }
+        }
+
+        function scrollToDetailHit(i) {
+            const el = detailEl.querySelector(`mark[data-hit="${i}"]`);
+            if (!el) return;
+
+            detailEl.querySelectorAll("mark[data-hit]").forEach(m => {
+                m.classList.remove("ring-2", "ring-slate-400");
+            });
+
+            el.classList.add("ring-2", "ring-slate-400");
+            el.scrollIntoView({ block: "center", behavior: "smooth" });
+        }
+
+        // ---------- Events ----------
+        folderInput.addEventListener('change', (e) => {
+            const files = e.target.files;
+            if (!files || !files.length) return;
+            loadFolder(files);
+        });
+
+        loadFromSiteBtn.addEventListener('click', loadFromWebsite);
+
+        searchInput.addEventListener('input', applySearch);
+        caseSensitive.addEventListener('change', applySearch);
+        searchKeysOnly.addEventListener('change', applySearch);
+        prettyWrap.addEventListener('change', setWrap);
+
+        clearSearchBtn.addEventListener('click', () => {
+            searchInput.value = "";
+            applySearch();
+            searchInput.focus();
+        });
+
+        clearBtn.addEventListener('click', () => {
+            folderInput.value = "";
+            searchInput.value = "";
+            filesIndex = [];
+            selectedId = null;
+
+            listEl.innerHTML = "";
+            emptyState.classList.add('hidden');
+            countBadge.textContent = "0";
+            statusText.textContent = "No folder loaded yet.";
+
+            detailEl.textContent = "";
+            detailTitle.textContent = "Select an item to view JSON";
+            copyBtn.disabled = true;
+
+            setDetailSearchEnabled(false);
+            detailSearchInput.value = "";
+            detailEl.textContent = "";
+        });
+
+        detailSearchInput.addEventListener('input', () => {
+            highlightAllMatchesInDetail(detailSearchInput.value);
+        });
+
+        detailClearBtn.addEventListener('click', () => {
+            detailSearchInput.value = "";
+            highlightAllMatchesInDetail("");
+            detailSearchInput.focus();
+        });
+
+        detailPrevBtn.addEventListener('click', () => {
+            if (!detailMatches.length) return;
+            detailMatchIndex = (detailMatchIndex - 1 + detailMatches.length) % detailMatches.length;
+            scrollToDetailHit(detailMatchIndex);
+        });
+
+        detailNextBtn.addEventListener('click', () => {
+            if (!detailMatches.length) return;
+            detailMatchIndex = (detailMatchIndex + 1) % detailMatches.length;
+            scrollToDetailHit(detailMatchIndex);
+        });
+
+        // initial
+        setWrap();
+        applySearch();
+        setDetailSearchEnabled(false);
+    </script>
+</body>
+
+</html>

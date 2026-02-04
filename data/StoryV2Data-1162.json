@@ -1,0 +1,1414 @@
+{
+	"11625": [
+		[
+			"bgm",
+			171
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10539"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2021838,
+			null,
+			"————",
+			"————",
+			"————",
+			null
+		],
+		[
+			"speaker",
+			320882
+		],
+		[
+			"bg",
+			"CG10257"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30952,
+				19,
+				false
+			]
+		],
+		[
+			"msg",
+			2021839,
+			null,
+			"卡琳，关店了。",
+			"カリン、閉店だ。",
+			"카린, 문 닫아.",
+			null,
+			null,
+			"Karin, close the store.",
+			"Karin, we're closed."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30907,
+				1,
+				false
+			],
+			[
+				30952,
+				19,
+				true
+			]
+		],
+		[
+			"msg",
+			2021840,
+			null,
+			"收到~",
+			"了解～！",
+			"알겠어~!",
+			null,
+			null,
+			"Copy that.",
+			"Roger~!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30952,
+				19,
+				true
+			]
+		],
+		[
+			"msg",
+			2021841,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				false
+			],
+			[
+				30952,
+				19,
+				true
+			]
+		],
+		[
+			"msg",
+			2021842,
+			null,
+			"今天也过去了，不知道她们找到秘柜的线索了吗。",
+			"今日もバイトお疲れ様、あたし！#nそういえば、秘密の棚の手がかりは見つかったかな？",
+			"오늘도 아르바이트 수고했어, 나!#n그러고 보니 비밀 선반 단서는 찾았어?",
+			null,
+			null,
+			"Today also passed, I wonder if they found the clue to the secret cabinet.",
+			"Thanks for the part-time job today, me! Speaking of which, did you find any clues to the secret shelf?"
+		],
+		[
+			"portraits",
+			[
+				30907,
+				12,
+				false
+			],
+			[
+				30952,
+				19,
+				true
+			]
+		],
+		[
+			"msg",
+			2021843,
+			null,
+			"去问问情况吧。",
+			"みんなに状況を聞きに行こう。",
+			"다들한테 상황 물어보러 가자.",
+			null,
+			null,
+			"Go and ask for information.",
+			"Let's go ask everyone what's going on."
+		]
+	],
+	"11626": [
+		[
+			"bgm",
+			173
+		],
+		[
+			"speaker",
+			320894
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30964,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021844,
+			null,
+			"有线索了。",
+			"手がかりが見つかりました。",
+			"단서를 찾았어요.",
+			null,
+			null,
+			"Got a clue.",
+			"A clue was found."
+		],
+		[
+			"speaker",
+			320895
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30965,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021845,
+			null,
+			"太好了！洛姿那边呢？",
+			"よかった！ローズの方は？",
+			"다행이다! 로즈 쪽은?",
+			null,
+			null,
+			"That's great! What about Roz?",
+			"Good! How's Rose?"
+		]
+	],
+	"11627": [
+		[
+			"bgm",
+			173
+		],
+		[
+			"speaker",
+			320895
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30965,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021846,
+			null,
+			"那主公——接下来我们就……？",
+			"ではヴァイス様——私たちはこれから……",
+			"그럼 바이스 님——저희는 이제...",
+			null,
+			null,
+			"So Lordy - what do we ...... do next?",
+			"Well, Mr. Weiss--we will now go to ......"
+		],
+		[
+			"msg",
+			2021847,
+			null,
+			"你们……#s这是怎么了？怎么表情这么凝重？",
+			"あなたたち……#sどうしたの？どうしてそんなに険しい顔をしているの？",
+			"너희들...#s왜 그래? 왜 그렇게 험악한 표정을 짓고 있는 거야?",
+			null,
+			null,
+			"What's wrong with you ......#s? What's with the stony faces?",
+			"What's wrong with you ......#s? Why do you look so grim?"
+		],
+		[
+			"msg",
+			2021848,
+			null,
+			"不是已经知道敌人是谁了吗？",
+			"もう敵が誰かわかったんでしょう？",
+			"이제 적이 누군지 알겠지?",
+			null,
+			null,
+			"Don't we already know who the enemy is?",
+			"You already know who the enemy is, don't you?"
+		],
+		[
+			"speaker",
+			320867
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30905,
+				19,
+				false
+			]
+		],
+		[
+			"msg",
+			2021849,
+			null,
+			"因为这个敌人，有点太强了。",
+			"その敵が少し手ごわすぎるからよ。",
+			"그 적이 좀 만만찮아서 그래.",
+			null,
+			null,
+			"Because this enemy, it's a little too strong.",
+			"Because that enemy is a little too tough."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				false
+			],
+			[
+				30905,
+				19,
+				true
+			]
+		],
+		[
+			"msg",
+			2021850,
+			null,
+			"谁啊？",
+			"そんなに強いの？",
+			"그렇게 강해?",
+			null,
+			null,
+			"Who is it?",
+			"Are they that strong?"
+		],
+		[
+			"speaker",
+			320867
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30905,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			2021851,
+			null,
+			"我们早该意识到的。说到走私，我们就早该意识到的。",
+			"もっと早く気づくべきだったわ。密輸の話をした時点で気づけたはずなのに。",
+			"더 빨리 깨달았어야 했어. 밀수 이야기를 했을 때쯤엔 알 수 있었을 텐데.",
+			null,
+			null,
+			"We should have realized it long ago. When it comes to smuggling, we should have realized it long ago.",
+			"I should have realized it earlier. I should have realized it when you told me about the smuggling."
+		],
+		[
+			"speaker",
+			320894
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30964,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021852,
+			null,
+			"查询货单的结果是，这些货物是由三家大型的物流公司和六家小型的物流公司负责配送的。",
+			"荷物のリストを調べた結果、これらの物資は3つの大手物流会社と6つの小規模な物流会社が輸送を担当していたことがわかりました。",
+			"화물 목록을 조사한 결과, 이 물자들은 3개의 대형 물류 회사와 6개의 소규모 물류 회사가 수송을 담당하고 있었다는 사실을 알게 되었습니다.",
+			null,
+			null,
+			"The result of the inquiry on the manifest was that the goods were distributed by three large logistics companies and six small logistics companies.",
+			"An examination of the list of shipments revealed that three major logistics companies and six smaller logistics companies were responsible for transporting these supplies."
+		],
+		[
+			"msg",
+			2021853,
+			null,
+			"但稍微再深入一点一下就会知道，这些公司背后都是一个势力。",
+			"ですが、もう少し深く掘り下げればすぐにわかるのですが、これらの会社の背後には同じ勢力がついています。",
+			"하지만, 조금만 더 깊이 파고들면 금방 알 수 있는데, 이 회사들 뒤에는 같은 세력이 있습니다.",
+			null,
+			null,
+			"But dig a little deeper a bit and you will realize that there is a power behind all these companies.",
+			"But if you dig a little deeper, you will soon find that the same forces are behind these companies."
+		],
+		[
+			"speaker",
+			320896
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30966,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021854,
+			null,
+			"洛姿，黑道……抓了几个。",
+			"ローズ、ギャングを……数人捕まえた。",
+			"로즈, 갱단을... 몇 명 잡았어.",
+			null,
+			null,
+			"Lozzy, the mob ...... caught a few.",
+			"Rose, we caught a few of the gang ......."
+		],
+		[
+			"msg",
+			2021855,
+			null,
+			"知道了，莎拉赫，有名人士。",
+			"わかった。シャラハ、有名人。",
+			"알겠어. 샤라하, 유명인사.",
+			null,
+			null,
+			"Got it, Salah. Famous people.",
+			"Okay, I get it. Shalaha, celebrity."
+		],
+		[
+			"speaker",
+			320867
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30905,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			2021856,
+			null,
+			"……那个名叫莎拉赫的佣兵，几乎可以认为就是长空市最大的地下走私组织“斯基泰列车”的二把手。",
+			"……あのシャラハという傭兵は、長空市最大の地下密輸組織「スキタイエクスプレス」のナンバー2だと思っていいわ。",
+			"......그 샤라하라는 용병은 장공시 최대의 지하 밀수 조직 「스키타이 익스프레스」의 넘버 2라고 봐도 좋아.",
+			null,
+			null,
+			"...... The mercenary named Salah can almost be regarded as the second-in-command of the largest underground smuggling organization in the city of Longkong, the \"Scythian Train\".",
+			"...... I like to think that mercenary named Sharaha is the number two in the largest underground smuggling ring in Changkuu City, the Scythian Express."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				false
+			],
+			[
+				30905,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			2021857,
+			null,
+			"她不是佣兵吗？怎么会是黑帮的二把手？",
+			"彼女は傭兵じゃないの？どうしてギャングのナンバー2なの？",
+			"그녀는 용병이잖아? 어떻게 갱단의 넘버 2인 거야?",
+			null,
+			null,
+			"Isn't she a mercenary? How come she's the second-in-command of a gang?",
+			"Isn't she a mercenary? Why is she the number two in the gang?"
+		],
+		[
+			"speaker",
+			320867
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30905,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			2021858,
+			null,
+			"长空市的黑帮和电影里的黑帮不一样，也和其他城市的类似性质组织完全不同。",
+			"長空市のギャングは映画のギャングとは違うし、他の街の類似組織ともまったく異なるわ。",
+			"창공시의 갱들은 영화 속 갱단과도 다르고, 다른 도시의 유사 조직과도 완전히 달라.",
+			null,
+			null,
+			"The gangs in Long Hollow are not like the gangs in the movies, and are completely different from organizations of a similar nature in other cities.",
+			"The gangs in Chang Kuai aren't like the gangs in the movies, and they're very different from similar organizations in other cities."
+		],
+		[
+			"msg",
+			2021859,
+			null,
+			"它们是用黑帮结构以绕过驻军协议的……南陆联合军队。",
+			"彼らはギャングの皮をかぶって駐留軍の協定を回避している……南大陸連合の軍隊よ。",
+			"그들은 갱단의 가면을 쓴 채 주둔군 협정을 회피하고 있어…… 남대륙 연합의 군대야.",
+			null,
+			null,
+			"They are the ...... Southland Combined Armed Forces that use a mob structure to get around the garrison agreement.",
+			"They're circumventing the garrison agreement by getting under the skin of the gangs ......, the Confederate Army of the Confederacy."
+		],
+		[
+			"msg",
+			2021860,
+			null,
+			"虽然他们的底层人员确实是内战时期或者更早时候的黑市所制造的暴力团体，但是长空市的所有黑帮高层，都是曾经有军衔的中高级军官。",
+			"彼らの下っ端はたしかに内戦時代やそれ以前の闇市が生み出した暴力団体だけど、長空市のすべてのギャングの幹部は、かつては階級のある中上級将校だった。",
+			"그들의 하급 조직은 확실히 내전 시대나 그 이전의 암시장에서 태어난 폭력조직이지만, 창공시의 모든 갱단 간부들은 과거 계급이 있는 중상급 장교 출신이었어.",
+			null,
+			null,
+			"While it's true that their underbelly is a violent group created by the black market during the Civil War or earlier, all of the top gangsters in Long Hollow are mid to high ranking officers who once held military rank.",
+			"Their underlings are indeed violent groups created by the black market during the civil war and before, but the cadres of all gangs in Changku City used to be middle and senior officers with rank."
+		],
+		[
+			"msg",
+			2021861,
+			null,
+			"所以，佣兵莎拉赫才只能以佣兵的身份为“斯基泰人”服务，无法成为黑帮的一员。",
+			"だから、シャラハは傭兵として「スキタイ人」に仕えることしかできず、ギャングの一員にはなれない。",
+			"그래서 샤라하는 용병으로서 「스키타이인」에게만 복무할 수 있을 뿐, 갱단의 일원이 될 수 없어.",
+			null,
+			null,
+			"That is why the mercenary Salah could only serve the Scythians as a mercenary and could not become a member of the gang.",
+			"So Shalaha can only serve the \"Scythians\" as a mercenary and not as a gang member."
+		],
+		[
+			"speaker",
+			320894
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30964,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021862,
+			null,
+			"绰号“斯基泰人”的黑帮首领就是斯基泰列车的支配者。",
+			"「スキタイ人」と呼ばれるギャングのリーダーがスキタイエクスプレスの支配者です。",
+			"「스키타이인」이라 불리는 갱단 리더가 스키타이 익스프레스의 지배자야.",
+			null,
+			null,
+			"The gang leader, nicknamed \"The Scythian\", is the ruler of the Scythian train.",
+			"The gang leader known as the \"Scythians\" is the ruler of the Scythian Express."
+		],
+		[
+			"speaker",
+			320895
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30965,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021863,
+			null,
+			"…………也就是说，我们对付的实际上是，南陆军方。",
+			"…………つまり、私たちが相手にしているのは、実は南大陸連合の軍隊ってこと。",
+			"…………즉, 우리가 상대하고 있는 건 사실 남대륙 연합의 군대라는 거.",
+			null,
+			null,
+			"............ That means we're dealing with, in effect, the SA side.",
+			"............ So, what we're dealing with is actually the Confederate Army of the Confederacy."
+		],
+		[
+			"speaker",
+			320898
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30968,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021864,
+			null,
+			"哼，这样就合理了。难怪他们要秘柜……这样就合理了。",
+			"フンッ、それなら納得だ。道理で彼らが秘密の棚をほしがるわけだな……これでつじつまが合う。",
+			"흥, 그렇다면 납득이 가. 그래서 그들이 비밀 창고를 원했던 거군…… 이제 퍼즐이 맞아떨어져.",
+			null,
+			null,
+			"Heck, that makes sense. No wonder they want secret cabinets ...... That makes sense.",
+			"Hmmm, that makes sense. No wonder they want a secret shelf. ...... This makes sense."
+		],
+		[
+			"speaker",
+			320894
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30964,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021865,
+			null,
+			"绝对不能让秘柜……落到那群人的手里，用多少经费都无所谓。",
+			"絶対に秘密の棚を……あの連中の手に渡してはいけません。どれだけ経費がかかっても構いません。",
+			"절대로 비밀 창고를…… 저 녀석들 손에 넘겨선 안 돼. 얼마나 경비가 들더라도 상관없어.",
+			null,
+			null,
+			"Never let the secret cabinet ...... fall into the hands of that group, it doesn t matter how much funding is used.",
+			"Never put your secret shelves in the hands of those ...... guys. I don't care how much it costs."
+		],
+		[
+			"speaker",
+			320895
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30965,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021866,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			320898
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30968,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021867,
+			null,
+			"啧，这怎么打？对方能调用的植入者，数量恐怕是我们的几十倍。用的可能还是军用植入体。正面突入基本必死无疑。",
+			"チッ、どうやって戦う？相手が動員できるレシピエントは私たちの数十倍にもなるだろ。しかも使っているのは軍用移植体かもしれない。正面突破しようものなら、間違いなく死ぬ。",
+			"쳇, 어떻게 싸우지? 상대가 동원할 수 있는 레시피언트는 우리의 수십 배에 달할 거야. 게다가 사용하는 건 군용 이식체일 수도 있고. 정면 돌파를 시도한다면 분명히 죽을 거야.",
+			null,
+			null,
+			"Gee, how can we fight this? I'm afraid the number of implants the other side can call upon is dozens of times that of ours. The ones they're using are probably military implants. A frontal assault is basically certain death.",
+			"Tsk, how do we fight them? The number of recipients they could mobilize would be dozens of times greater than ours. And what's more, they may be using military-grade implants. If we try to break through head-on, we will die for sure."
+		],
+		[
+			"msg",
+			2021868,
+			null,
+			"瞳，知道地点了吗？",
+			"瞳、秘密の棚の場所はわかったか？",
+			"동공, 비밀의 장소는 알아냈어?",
+			null,
+			null,
+			"Hitomi, do you know the location?",
+			"Eyes, did you find out where the secret shelf is?"
+		],
+		[
+			"speaker",
+			320894
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30964,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021869,
+			null,
+			"在确定是斯基泰列车之后就很好确定地点了，我查了一下录像和用电量就找到了。",
+			"スキタイエクスプレスと確定すれば、場所の割り出しは簡単でした。録画映像と電力使用量を調べたらすぐに見つかりました。",
+			"스키타이 익스프레스로 확정되면, 장소의 파악은 간단했습니다. 녹화 영상과 전력 사용량을 조사하니 바로 찾을 수 있었습니다.",
+			null,
+			null,
+			"After identifying it as a Scythian train it was easy to determine the location, I found it by checking the video and electricity usage.",
+			"Once we determined that it was Skitay Express, it was easy to determine the location. It was easy to find after examining the recorded video and power usage."
+		],
+		[
+			"msg",
+			2021870,
+			null,
+			"秘柜在长空大厦，斯基泰列车持有的一座办公楼，平时不作为走私窝点使用。",
+			"秘密の棚は長空ビルにあります。スキタイエクスプレスの所有するオフィスビルで、普段、密輸の拠点としては使用されていません。",
+			"비밀의 선반은 장공 빌딩에 있습니다. 스키타이 익스프레스가 소유한 오피스 빌딩으로, 평소에는 밀수 거점으로 사용되지 않습니다.",
+			null,
+			null,
+			"The secret cabinet is in the Long Sky Building, an office building held by Skittles Train that is not normally used as a smuggling den.",
+			"The Secret Shelf is located in the Long Air Building. This office building is owned by Sukhitai Express and is not normally used as a smuggling hub."
+		],
+		[
+			"speaker",
+			320898
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30968,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021871,
+			null,
+			"……难办了，那附近有岗哨，还是一条步行街……正常的车辆根本开不进去。我们就算打进去，也无法搬运秘柜本身。",
+			"……厄介だな。その周辺には見張り所があるし、歩行者天国の通りだ……普通の車両は入れない。私たちが突入しても、秘密の棚本体を運び出せない。",
+			"……귀찮게 되겠군. 그 주변에는 감시초소도 있고, 보행자 천국 거리라서…… 일반 차량은 들어갈 수 없어. 우리가 돌입해도, 비밀의 선반 본체를 운반해낼 수 없고.",
+			null,
+			null,
+			"...... Difficult to do, there is a guard post in that neighborhood, or a pedestrian street ...... Normal vehicles can t drive in at all. Even if we fight in, we can t carry the secret cabinet itself.",
+			"It's ...... tricky. There are watchtowers around the area, and it's a pedestrian street ...... normal vehicles can't get in. Even if we raid it, we can't carry out the secret shelf itself."
+		],
+		[
+			"speaker",
+			320894
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30964,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021872,
+			null,
+			"如果……如果我装上军用级的金属构型圣痕植入体……肯定能做到移动出去。",
+			"もし……私が軍用レベルの金属の聖痕移植体を装備できれば……きっと外に移動させられるはずです。",
+			"만약……내가 군용 수준의 금속 성흔 이식체를 장착할 수 있다면……분명히 밖으로 이동할 수 있을 거예요.",
+			null,
+			null,
+			"If ...... if I put in a military grade metal constructed stigma implant ...... surely I could manage to move out.",
+			"If ...... I could equip a military level metal stigmatic implant, ...... surely I could move it outside."
+		],
+		[
+			"speaker",
+			320898
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30968,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021873,
+			null,
+			"能，但能搬多久呢？斯基泰列车就是操纵长空市物流系统的帮会，他们的人一定会对我们紧抓死咬……而且这么做还会惊动净化委员会……啊头都要大了……！！",
+			"できるだろうけど、どこまで運べる？スキタイエクスプレスは長空市の物流システムを操っている団体だから、しつこく追いかけてくるぞ……しかもそんなことをすれば浄化委員会に気づかれる……あぁ、頭が痛い……！！",
+			"할 수는 있겠지만, 어디까지 운반할 수 있을까? 스키타이 익스프레스는 장공시의 물류 시스템을 조종하는 단체라서, 집요하게 쫓아올 거야... 게다가 그런 짓을 하면 정화위원회에게 들킬 거야... 아, 머리가 아파...!!",
+			null,
+			null,
+			"Yes, but for how long? Skittles Train is the gang that manipulates the logistics system in Long Hollow City, and their people will definitely be all over us ...... And doing so will alert the Purification Committee ...... Ah heads are going to roll... ...!",
+			"You could do it, but how far can you carry it? Sukhitai Express is the group that manipulates the logistics system in Changkuk City, so they'll be persistent in coming after you. ...... And if you do that, the purification committee will notice. ...... Oh, my head hurts! ......!"
+		],
+		[
+			"speaker",
+			320895
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30965,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021874,
+			null,
+			"……可恶……如果我没有受伤的话，用我的风之构型……",
+			"……くっ……私が万全の状態で、風の聖痕を使えれば……。",
+			"......큭...... 내가 완벽한 상태에서, 바람의 성흔을 사용할 수만 있다면.......",
+			null,
+			null,
+			"...... Damn it ...... If I'm not hurt, use my wind configuration ......",
+			"If ...... I am in perfect condition and can use the wind stigmata, I can ......."
+		],
+		[
+			"speaker",
+			320898
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30968,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021875,
+			null,
+			"别太自恋了新兵，你也不行。",
+			"うぬぼれるな、新兵。お前でも無理だよ。",
+			"건방지게 굴지 마, 신병. 너라도 무리야.",
+			null,
+			null,
+			"Don't get too self-absorbed recruit, you can't either.",
+			"Don't get cocky, recruit. Even you can't do it."
+		],
+		[
+			"msg",
+			2021876,
+			null,
+			"问题的关键只有一件：我们可能成功突入，但是要如何搬走这个东西？",
+			"問題の鍵は一つだけ。突入には成功するかもしれないが、どうやってその荷物を運び出すか。",
+			"문제의 열쇠는 하나뿐. 돌입에는 성공할지 모르지만, 어떻게 그 화물을 운반해낼 것인가.",
+			null,
+			null,
+			"There is only one thing at stake: we may succeed in breaking in, but how are we going to move this thing?",
+			"There is only one key to the problem. We may succeed in raiding the place, but how do we get the stuff out of there?"
+		],
+		[
+			"speaker",
+			320867
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30905,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			2021877,
+			null,
+			"而且……我们的行动一直都被对方所察觉，甚至还设下了陷阱。",
+			"それに……私たちの動きは常に相手に察知されていて、罠さえ仕掛けられている。",
+			"게다가...... 우리의 움직임은 항상 상대에게 감지되고 있고, 함정까지 설치되어 있어.",
+			null,
+			null,
+			"And ...... our actions have always been detected by the other side, and even set traps.",
+			"Besides, ...... our movements are always detected by our opponents and even traps are set for us."
+		],
+		[
+			"msg",
+			2021878,
+			null,
+			"如果想着依靠金属圣痕来驱动秘柜……如果对方把外壳换成了陶瓷制的呢？",
+			"金属の聖痕を使って秘密の棚を動かそうとしても……相手が外装を陶器に変えてしまったら？",
+			"금속 성흔을 이용해 비밀 선반을 움직이려 해도…… 상대가 외장을 도자기로 바꿔버리면?",
+			null,
+			null,
+			"If one thinks about relying on metal stigmata to power the secret cabinet ...... What if the opponent changes the shell to one made of ceramic?",
+			"What if you try to move a secret shelf using a metal stigmata but your ...... opponent turns the exterior into ceramic?"
+		],
+		[
+			"speaker",
+			320898
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30968,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021879,
+			null,
+			"果然……必须得有载具才可以。",
+			"……やっぱり車が必要だ。",
+			"……역시 차가 필요해.",
+			null,
+			null,
+			"Sure enough ...... you have to have a carrier to do that.",
+			"......I still need a car."
+		],
+		[
+			"speaker",
+			320867
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30905,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			2021880,
+			null,
+			"而且晚上的长空市没有净化委员，长空大厦的黑帮能在外巡逻警戒的高级人员一定更多……我们只有一个选择。",
+			"しかも夜の長空市には浄化委員がいない。長空ビルのギャングのうち、外でパトロールに当たる上級メンバーはもっと多くなるはず……つまり、私たちの選択肢は一つしかないわね。",
+			"게다가 밤의 장공시에는 정화 위원이 없어. 장공 빌딩 갱단 중에서 외부 순찰을 담당하는 상급 멤버는 훨씬 더 많을 거야…… 즉, 우리 선택지는 하나뿐이네.",
+			null,
+			null,
+			"And there is no purification commissioner in Long Hollow City at night, and there must be more senior personnel in Long Hollow Mansion s gangs who can patrol and guard outside ...... We have only one choice.",
+			"Moreover, there are no purification committee members in Changkuu City at night. There should be more senior members of the Changku Building gang patrolling outside ...... which means we only have one option."
+		],
+		[
+			"msg",
+			2021881,
+			null,
+			"在白天，开载具，在对方反应过来集结部队之前抢走秘柜，用载具带走。",
+			"昼間に車両を使って、向こうが反応して部隊を集結させる前に秘密の棚を奪い、運び出す。",
+			"낮에 차량을 이용해, 상대방이 반응해 부대를 집결시키기 전에 비밀 선반을 탈취해 운반해 내는 거야.",
+			null,
+			null,
+			"During the day, drive the carrier and grab the secret cabinet before the other side reacts by rallying their troops and take it away with the carrier.",
+			"Using vehicles during the day, they take the secret shelves and carry them out before the other side can react and rally their forces."
+		],
+		[
+			"speaker",
+			320898
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30968,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021882,
+			null,
+			"〇的，我算是知道东西为什么会在长空大厦了……那条步行街太长，开车进去的话足够他们喝杯咖啡再叫增援了……",
+			"なんで長空ビルにあるのかわかったぞ……あの歩行者天国はやたら長いからな。車で入れば、あいつらがコーヒーを一杯飲んでから援軍を呼んでも間に合うくらい時間がかかる……。",
+			"왜 장공 빌딩에 있는지 알겠어…… 저 보행자 천국은 유난히 길거든. 차로 들어가면, 저 녀석들이 커피 한 잔 마시고 나서 원군을 불러도 시간이 충분할 정도로 오래 걸려…….",
+			null,
+			null,
+			"○'s, I kind of know why things are in the Longacre Building ...... That walkway is so long, it's enough for them to get a cup of coffee and call for reinforcements if they drive in ......",
+			"I know why it's in the Long Sky Building. ...... That pedestrian mall is awfully long. If you drive in, it'll take so long that those guys can call for reinforcements after they've had a cup of coffee and still make it in time. ......"
+		],
+		[
+			"speaker",
+			320895
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30965,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021883,
+			null,
+			"……到底要怎么办才好……！",
+			"……一体どうすればいいの……！",
+			"……대체 어떻게 해야 돼……!",
+			null,
+			null,
+			"What the hell is ...... going to do about it ......!",
+			"......What the heck do I do? ......"
+		],
+		[
+			"speaker",
+			320894
+		],
+		[
+			"portraits",
+			[
+				30907,
+				5,
+				true
+			],
+			[
+				30964,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2021884,
+			null,
+			"大家……别急，总归能想到办法的……对吧，维姐？",
+			"みなさん……焦らないでください。何か方法が見つかるはずです……そうですよね、ヴァイスさん？",
+			"여러분…… 당황하지 마세요. 분명 방법이 있을 거예요…… 그렇죠, 바이스 씨?",
+			null,
+			null,
+			"Everyone ...... don't worry, there's always a way ...... right, Sister Vi?",
+			"Everyone ...... please don't be in a hurry. We'll find a way ...... right, Mr. Weiss?"
+		]
+	],
+	"11628": [
+		[
+			"bgm",
+			173
+		],
+		[
+			"speaker",
+			320867
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30905,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			2021885,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			2021886,
+			null,
+			"啊，嗯，总归能想到办法的。",
+			"あっ、そうね。",
+			"아, 그래.",
+			null,
+			null,
+			"Ah, well, there's always a way.",
+			"Oh, yes."
+		],
+		[
+			"msg",
+			2021887,
+			null,
+			"虽然已经不多，但我们还有一点时间。",
+			"時間はあまりないけど——",
+			"시간은 많지 않지만",
+			null,
+			null,
+			"It's not much longer, but we still have a little time.",
+			"I don't have much time, but--"
+		],
+		[
+			"msg",
+			2021888,
+			null,
+			"总归能想到办法的……",
+			"何か方法が見つかるはず……。",
+			"뭔가 방법이 찾아질 거야…….",
+			null,
+			null,
+			"There's always a way ......",
+			"You can find out how to do something about it at ......."
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30905,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			2021889,
+			null,
+			"维哀斯不自觉地重复着这句话。",
+			"ヴァイスは無意識にその言葉を繰り返していた。",
+			"바이스는 무의식적으로 그 말을 반복하고 있었다.",
+			null,
+			null,
+			"Velez unconsciously repeated the words.",
+			"Weiss unconsciously repeated the words."
+		]
+	],
+	"11629": [
+		[
+			"bgm",
+			173
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10539"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2021890,
+			null,
+			"………………",
+			"………………",
+			"………………",
+			null
+		],
+		[
+			"msg",
+			2021891,
+			null,
+			"但几个小时过去了，直到周围的店铺也都陆续关门，人流绝迹，地下基地的空气都被紧张的呼吸变得浑浊……",
+			"しかし、数時間が経過して周囲の店も次々と閉店し、人通りが途絶えた後も、#s地下基地の空気は緊張でより重苦しくなる一方だった……。",
+			"하지만, 몇 시간이 지나고 주변 가게도 차례로 문을 닫으며, 사람들의 발길이 끊긴 후에도, #s지하 기지의 공기는 긴장으로 더욱 무거워지기만 했다…….",
+			null,
+			null,
+			"But hours passed, until the surrounding stores were also closing, the flow of people was extinct, and the air in the underground base was clouded by nervous breathing ......",
+			"But even after a few hours had passed and the surrounding stores closed one by one and the traffic had died down, the air in the #s underground base was still more grim with tension. ......"
+		],
+		[
+			"msg",
+			2021892,
+			null,
+			"也还是没有。",
+			"結局、具体的な方法は見つからなかった。",
+			"결국, 구체적인 방법은 찾지 못했다.",
+			null,
+			null,
+			"And still nothing.",
+			"In the end, no concrete method was found."
+		],
+		[
+			"speaker",
+			320867
+		],
+		[
+			"bg",
+			"CG10494"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30905,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			2021893,
+			null,
+			"大家……今天先到这里为止吧。",
+			"みんな……今日はここまでにしましょう。",
+			"다들…… 오늘은 여기까지 하자.",
+			null,
+			null,
+			"Everyone ...... Let's stop here for today.",
+			"Let's all go to ...... that's all for today."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30905,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			2021894,
+			null,
+			"苍龙需要休息，我一个人去二楼透透气。",
+			"蒼龍は休まないといけないし、私は2階へ行って気分転換するわ。",
+			"창룡은 쉬어야 할 테니, 나는 2층으로 가서 기분 전환할게.",
+			null,
+			null,
+			"Cthulhu needed to rest, so I went to the second floor alone to get some air.",
+			"Soryu needs to rest and I'm going upstairs to freshen up."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30905,
+				19,
+				false
+			]
+		],
+		[
+			"msg",
+			2021895,
+			null,
+			"解散。",
+			"解散。",
+			"해산.",
+			null,
+			null,
+			"Dismissed.",
+			null
+		]
+	]
+}

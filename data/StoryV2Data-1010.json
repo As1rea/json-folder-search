@@ -1,0 +1,7394 @@
+{
+	"10100": [
+		[
+			"bgm",
+			154
+		],
+		[
+			"speaker",
+			320411
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30270,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			715382,
+			null,
+			"芽衣姐姐，你还好吗？",
+			"芽衣お姉ちゃん、大丈夫？",
+			"메이 언니, 괜찮아?",
+			"Mei-sama, are you okay?",
+			null,
+			"Mei-san, are you okay?",
+			"Mei, sis, are you okay?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				30270,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			715383,
+			null,
+			"应该没事……",
+			"大丈夫よ……。",
+			"괜찮아.......",
+			"I should be fine…",
+			null,
+			"Should be fine ......",
+			"It's okay. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				true
+			],
+			[
+				665,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			715384,
+			null,
+			"怪物凭空消失了，怎么回事……",
+			"おい、怪物が急に消えたぞ。一体どうなっているんだ……。",
+			"야, 괴물이 갑자기 사라졌어. 대체 무슨 일이 일어난 거야.......",
+			"Those monsters vanished out of thin air, what happened?",
+			null,
+			"Monster vanishes into thin air, what's going on ......",
+			"Hey, the monster has suddenly disappeared. What the hell is going on? ......"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				665,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715385,
+			null,
+			"（看来提升崩坏隔离力场的功率是有用的，大家都脱离幻觉了）",
+			"（どうやら崩壊隔離フィールドの出力を上げたのが効果的だったようですね。皆、幻覚から抜け出せました）",
+			"(붕괴 격리 필드의 출력을 높인 게 효과적이었나 봐요. 모두 환각에서 벗어났어요)",
+			"(It seems that increasing the power of the Honkai Isolation Force Field is useful, and causes everyone to stop hallucinating)",
+			null,
+			"(Looks like boosting the power of Honkai's isolation forcefield is working, everyone's out of the illusion)",
+			"(Apparently, increasing the output of the Honkai quarantine field was effective. Everyone came out of the hallucination.)"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				false
+			],
+			[
+				665,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715386,
+			null,
+			"检查完毕，没有发现任何飞船破损。",
+			"検査完了。宇宙船の被害は一切確認できませんでした。",
+			"검사 완료. 우주선의 피해는 전혀 확인되지 않았습니다.",
+			"Inspection finished, there was no damage to the ship found.",
+			null,
+			"The inspection was completed and no airship breakage was found.",
+			"Inspection completed. No damage to the spacecraft was observed."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				true
+			],
+			[
+				70,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			715387,
+			null,
+			"博士呢？",
+			"博士は？",
+			"박사님은?",
+			"Where’s Doctor?",
+			null,
+			"Where's the doctor?",
+			"Dr. B.?"
+		],
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715388,
+			null,
+			"在驾驶室，没有回应。",
+			"コックピットですが、応答がありません。",
+			"조종실인데, 응답이 없습니다.",
+			"In the pilot cockpit, there’s no response.",
+			null,
+			"In the cab, no response.",
+			"Cockpit, but no response."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			715389,
+			null,
+			"她也没有回应我……",
+			"ブローニャにも応答がありません……。",
+			"브로냐에게도 응답이 없어요.......",
+			"She didn’t respond to me either…",
+			null,
+			"She didn't respond to me either ......",
+			"Bronya has not responded either. ......"
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				true
+			],
+			[
+				304,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			715390,
+			null,
+			"快去，千万不能让博士有事。",
+			"急ぎましょう。博士に万が一のことがあってはいけません。",
+			"서두릅시다. 박사님에게 만에 하나라도 무슨 일이 생겨서는 안 됩니다.",
+			"Let’s go quickly, we can’t let anything happen to the Doctor.",
+			null,
+			"Go now. Nothing must happen to the Doctor.",
+			"Let's hurry. Do not let anything happen to Dr."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				304,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			715391,
+			null,
+			"所有人：好！",
+			"全員：ええ！",
+			"전원: 네!",
+			"Right!",
+			null,
+			"All: Good!",
+			"All: Yes!"
+		]
+	],
+	"10101": [
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715392,
+			null,
+			"门被锁上了！",
+			"ドアに鍵がかかっている！",
+			"문에 자물쇠가 걸려 있어!",
+			"The door is locked!",
+			null,
+			"The door was locked!",
+			"The door is locked!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				665,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715393,
+			null,
+			"本大爷把它打穿！",
+			"ボクがぶち破ってやるよ！",
+			"내가 박살내 주겠어!",
+			"I’ll bust it down!",
+			null,
+			"Benjamin put it through!",
+			"I'll break it down for you!"
+		],
+		[
+			"speaker",
+			320411
+		],
+		[
+			"portraits",
+			[
+				30270,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715394,
+			null,
+			"你们别急——",
+			"待って——",
+			"기다려——",
+			"You guys take it easy-",
+			null,
+			"You guys take it easy--",
+			"Wait--"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715395,
+			null,
+			"希儿用自己的能力出现在了门的另一侧。",
+			"ゼーレは自分の能力を使ってドアの反対側に移動した。",
+			"제레는 자신의 능력을 사용해 문 반대편으로 이동했다.",
+			"Seele used her powers to appear on the other side of the door.",
+			null,
+			"Seele used her ability to appear on the other side of the door.",
+			"Seele used his ability to move to the other side of the door."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715396,
+			null,
+			"干得好，希儿。",
+			"よくやりました、ゼーレ。",
+			"잘 했어, 제레.",
+			"Good job, Seele.",
+			null,
+			"Well done, Seele.",
+			"Well done, Seele."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715397,
+			null,
+			"呀啊啊啊啊啊啊——！！",
+			"キャアアアアア——！！",
+			"꺄아아아아——!!",
+			"Huaaaaaaaaaagh!",
+			null,
+			"",
+			"Caaaaaaaahhh--!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715398,
+			null,
+			"希儿，里面发生了什么？",
+			"ゼーレちゃん、中で何があったの？",
+			"제레야, 안에서 무슨 일이 있었던 거야?",
+			"Seele, what’s going on in there?",
+			null,
+			"Seele, what's going on in there?",
+			"Seele, what happened inside?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715399,
+			null,
+			"（门解锁了）",
+			"（ドアが解錠される）",
+			"(문이 열리는 소리)",
+			"(The door unlocks)",
+			null,
+			"(door unlocked)",
+			"(DOOR UNLOCKS)"
+		]
+	],
+	"10102": [
+		[
+			"speaker",
+			320411
+		],
+		[
+			"portraits",
+			[
+				30270,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715400,
+			null,
+			"博士没事，只是睡着了而已。",
+			"博士は大丈夫。ただ寝ていただけだから。",
+			"박사님은 괜찮아. 그냥 잠들어 있었을 뿐이야.",
+			"The Doctor is fine, she just fell asleep.",
+			null,
+			"The Doctor's fine. He just fell asleep.",
+			"Dr. Brennan: Dr. Brennan is fine. He was just sleeping."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				30270,
+				2,
+				true
+			],
+			[
+				665,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			715401,
+			null,
+			"你搞什么，海藻头！",
+			"何してるんだ、ワカメ頭！",
+			"뭐 하는 거야, 다시마 머리!",
+			"The fuck were you doing, seaweed head!",
+			null,
+			"What are you up to, seaweed head!",
+			"What are you doing, wakame-head?"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				false
+			],
+			[
+				665,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			715402,
+			null,
+			"呃，之前被芽衣那啥……之后身体很疲劳，就……",
+			"うっ、さっき芽衣に……それから疲れ果てて……。",
+			"윽, 방금 메이에게... 그리고 지쳐서...",
+			"Before Mei uh… After that my body… tired… So I just…",
+			null,
+			"Uh, my body was very tired after being Mei's that ...... earlier, so ......",
+			"Ugh, I just told Mei ...... and then I was exhausted and ......."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				true
+			],
+			[
+				70,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			715403,
+			null,
+			"那惨叫是？",
+			"あの悲鳴は？",
+			"그 비명 소리는 뭐야?",
+			"And that scream was?",
+			null,
+			"What was that scream?",
+			"What was that scream?"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715404,
+			null,
+			"一个大活人突然出现在面前，能不惨叫吗……",
+			"いきなり生きた人間が目の前に現われたら悲鳴くらいあげるでしょ……。",
+			"갑자기 살아있는 사람이 눈앞에 나타나면 비명 정도는 지르겠지.......",
+			"If a big, living person suddenly appeared in front of you, would you not scream...?",
+			null,
+			"Can you not scream when a large living person suddenly appears in front of you ......",
+			"If a living person suddenly appeared in front of you, you would at least scream. ......"
+		],
+		[
+			"speaker",
+			320411
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				true
+			],
+			[
+				30270,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			715405,
+			null,
+			"原谅博士吧——",
+			"博士を許してあげて——",
+			"박사님을 용서해주세요——",
+			"Forgive me, Doctor-",
+			null,
+			"Forgive Dr.--",
+			"You'll have to forgive Dr.--"
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				true
+			],
+			[
+				30270,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			715406,
+			null,
+			"从计划上太空，到抵达空间站，到全域联结，到去月球……",
+			"宇宙へ行く計画を立ち上げてから、宇宙ステーションに行って、全域連結、そして月……。",
+			"우주로 가는 계획을 세운 이후로, 우주 정거장에 가서, 전역 연결, 그리고 달.......",
+			"From planning to go to space, to arriving on the space station, to the Global Connection, to going to the Moon…",
+			null,
+			"From planning to go to space, to arriving at the space station, to full connectivity, to going to the moon ......",
+			"After launching the plan to go to space, to the space station, to the entire area consolidated, and then to the moon ......."
+		],
+		[
+			"msg",
+			715407,
+			null,
+			"博士已经十几天没睡觉了。",
+			"博士はもう十日以上寝てないの。",
+			"박사님은 벌써 열흘 이상 잠을 자지 않았어.",
+			"I guess the Doctor hasn’t slept for more than 10 days…",
+			null,
+			"The Doctor hadn't slept in ten days.",
+			"He hasn't slept for more than ten days."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				true
+			],
+			[
+				70,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			715408,
+			null,
+			"难怪怎么都叫不醒博士。",
+			"道理でいくら呼んでも起きないわけだ。",
+			"그러니까 아무리 불러도 안 일어나는 거였군.",
+			"No wonder why we couldn’t wake Doctor up.",
+			null,
+			"No wonder no one can wake up the Doctor.",
+			"No wonder they don't wake up no matter how many times I call them."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715409,
+			null,
+			"所以怎么了？为什么都聚在门口？",
+			"それでどうしたの？どうして入口に集まってるの？",
+			"그래서 어쩌려고? 왜 다들 입구에 모여 있는 거야?",
+			"So what’s going on, why did we all gather at the door?",
+			null,
+			"So what's going on? Why are they all gathered at the door?",
+			"So what's going on? Why are you all gathered at the entrance?"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				true
+			],
+			[
+				35,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			715410,
+			null,
+			"博士没有陷入幻觉？",
+			"博士は幻覚に陥らなかったのですか？",
+			"박사님은 환각에 빠지지 않았나요?",
+			"Doctor didn’t fall under the effects of the hallucinations?",
+			null,
+			"The Doctor didn't fall into a hallucination?",
+			"Did Dr. Barton not hallucinate?"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				35,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			715411,
+			null,
+			"什么幻觉？",
+			"なんの幻覚？",
+			"무슨 환각?",
+			"What hallucinations?",
+			null,
+			"What hallucinations?",
+			"What kind of hallucination?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				35,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			715412,
+			null,
+			"伊瑟琳看向窗外——",
+			"イザーリンは窓の外に目を向けた——",
+			"이자린은 창밖을 바라보았다——",
+			"Yiserin looked out the window-",
+			null,
+			"Estherine looks out the window--",
+			"Estherine looked out the window--"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bgm",
+			130
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"bg",
+			"CG10428"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715414,
+			null,
+			"这……",
+			"これは……。",
+			"이건…….",
+			"This-",
+			null,
+			"This ......",
+			"This can be found at ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			715415,
+			null,
+			"她看到的不是漆黑一片的宇宙，而是星云一般的诡谲景象，",
+			"彼女の目に飛び込んできたのは漆黒の宇宙ではなく、星雲のような異様な光景だった。",
+			"그녀의 눈에 들어온 것은 칠흑 같은 우주가 아닌, 성운 같은 이상한 광경이었다.",
+			"Instead of the pitch-black universe, she saw a treacherous sight of something akin to a nebula,",
+			null,
+			"Instead of a darkened universe, she saw a nebulous, treacherous landscape that",
+			"What she saw was not jet-black space, but a strange, nebula-like scene."
+		],
+		[
+			"msg",
+			715416,
+			null,
+			"来自月球。",
+			"それは月から来ていた。",
+			"그것은 달에서 오고 있었다.",
+			"Coming from the Moon.",
+			null,
+			"From the moon.",
+			"It came from the moon."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"msg",
+			715417,
+			null,
+			"这是什么……",
+			"これは何……。",
+			"이건 뭐지…….",
+			"What is this…?",
+			null,
+			"What is this ......",
+			"What is this ......."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"msg",
+			715418,
+			null,
+			"现实扭曲力场。",
+			"現実歪曲フィールドです。",
+			"현실 왜곡 필드입니다.",
+			"A Reality Distortion Field.",
+			null,
+			"Reality distorting force fields.",
+			"Reality distortion field."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			715419,
+			null,
+			"经过观测，是一片以月球为中心，半径约96000千米的现实扭曲力场。",
+			"観測によると、それは月を中心とする半径約96000キロメートルの現実歪曲フィールドだった。",
+			"관측에 따르면, 그것은 달을 중심으로 반경 약 96000킬로미터의 현실 왜곡 필드였습니다.",
+			"It was observed to be a Reality Distortion Field, with a radius of 96,000 km centered on the Moon.",
+			null,
+			"Upon observation, it is a field of reality distorting forces centered on the moon with a radius of about 96,000 kilometers.",
+			"According to observations, it was a reality distortion field with a radius of about 96,000 kilometers centered on the Moon."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"msg",
+			715420,
+			null,
+			"恐怕这就是集体幻觉产生的原因。",
+			"おそらくこれが集団幻覚を引き起こした原因でしょう。",
+			"아마도 이것이 집단 환각을 일으킨 원인일 겁니다.",
+			"I am afraid that this is the cause of the collective hallucinations.",
+			null,
+			"I'm afraid that's where the collective hallucination comes in.",
+			"Perhaps this is what caused the collective hallucination."
+		],
+		[
+			"msg",
+			715421,
+			null,
+			"幻觉内容具有高度的相似性，即认知到崩坏生物入侵。",
+			"幻覚の内容は崩壊生物の侵入を認識するという点で、高い類似性を持っています。",
+			"환각의 내용은 붕괴 생물의 침입을 인식한다는 점에서, 높은 유사성을 지니고 있습니다.",
+			"The content of the hallucinations have a high degree of similarity, i.e., the perception of an invasion of Honkai Beasts.",
+			null,
+			"The hallucinatory content has a high degree of similarity to the cognizance of Honkai creature invasion.",
+			"The content of the hallucinations is highly similar in that they perceive an invasion of Honkai organisms."
+		],
+		[
+			"msg",
+			715422,
+			null,
+			"但芽衣姐姐看到的和我们不一样，她看到了另一个自己，和疑似崩坏意志的存在，还听到了琪亚娜的声音。",
+			"しかし、芽衣姉様が見たものはブローニャたちと違います。芽衣姉様はもう一人の自分——崩壊の意志と思われる存在を目の当たりにし、キアナの声を聞いたそうです。",
+			"하지만, 메이 언니가 본 것은 브로냐들과 다릅니다. 메이 언니는 또 다른 자신——붕괴의 의지로 여겨지는 존재를 목격했고, 키아나의 목소리를 들었다고 합니다.",
+			"But what Mei-sama saw was different. She saw another self, and the existence of the suspected Will of the Honkai, she also heard Kiana's voice.",
+			null,
+			"But Mei-san sees differently than we do, she sees her other self, and the suspected presence of Honkai's will, and hears Kiana's voice.",
+			"However, what Sister Mei saw was different from Bronya and the others. Sister Mei saw her other self - a being she believed to be Honkai's will to collapse - and she heard Kiana's voice."
+		],
+		[
+			"msg",
+			715423,
+			null,
+			"而且很有可能……芽衣姐姐在刚出发的时候就看到了。",
+			"しかもおそらく……芽衣姉様は出発したばかりの時から見ています。",
+			"게다가 아마도……메이 언니는 출발한 직후부터 보고 있었습니다.",
+			"And most likely... She also saw that sight when we first set out.",
+			null,
+			"And most likely ...... Mei sister saw it when she first set out.",
+			"And probably ...... Sister Mei has been watching since she just departed."
+		],
+		[
+			"msg",
+			715424,
+			null,
+			"因为崩坏爆发的源头是月球，是崩坏意志本身。",
+			"崩壊発生の源は月であり、崩壊の意志そのものです。",
+			"붕괴 발생의 원천은 달이며, 붕괴의 의지 그 자체입니다.",
+			"Because the source of the Honkai Eruption is the Moon, and the Will of the Honkai itself.",
+			null,
+			"For the source of the Crash eruption is the Moon, the Honkai will itself.",
+			"The source of Honkai occurrence is the moon, the very will of Honkai."
+		],
+		[
+			"msg",
+			715425,
+			null,
+			"所以在月球以外的地方，恐怕没有彻底根除幻觉攻击的办法。",
+			"そのため、月以外の場所では、幻覚攻撃を完全に取り除く方法はないと思われます。",
+			"따라서 달 이외의 장소에서는 환각 공격을 완전히 제거할 방법이 없다고 여겨집니다.",
+			"I'm afraid that there is no way to completely eradicate the hallucination attacks anywhere that isn't the Moon.",
+			null,
+			"So I'm afraid there's no way to completely eradicate phantom attacks outside of the moon.",
+			"Therefore, there seems to be no way to completely eliminate hallucinatory attacks outside of the moon."
+		],
+		[
+			"msg",
+			715426,
+			null,
+			"目前看下来，芽衣姐姐受到的影响最深；",
+			"今のところ、芽衣姉様が最も大きく影響を受けています。",
+			"현재로서는 메이 언니가 가장 크게 영향을 받고 있습니다.",
+			"At present, the greatest impact was on Mei-sama;",
+			null,
+			"Looking down the list so far, Mei's sister has been the most affected;",
+			"So far, Sister Mei has been the biggest influence."
+		],
+		[
+			"msg",
+			715427,
+			null,
+			"九霄，我和杏其次；",
+			"その次が九霄、ブローニャ、シン。",
+			"그 다음이 큐쇼, 브로냐, 신.",
+			"Kyuushou, followed by me and Sin;",
+			null,
+			"Kyuushou, Sin and I followed;",
+			"Next in line are Kyuushou, Bronya, and Sin."
+		],
+		[
+			"msg",
+			715428,
+			null,
+			"宁蒂和希儿几乎没受到影响；",
+			"ニンディとゼーレはほとんど影響を受けていません。",
+			"닌디와 제레는 거의 영향을 받지 않았습니다.",
+			"Ninti and Seele were barely affected;",
+			null,
+			"Ninti and Seele were barely affected;",
+			"Ninti and Seele are largely unaffected."
+		],
+		[
+			"msg",
+			715429,
+			null,
+			"博士完全没有受到影响，大概是在睡觉的缘故。",
+			"博士がまったく影響を受けていないのは寝ていたためでしょう。",
+			"박사가 전혀 영향을 받지 않은 것은 자고 있었기 때문일 겁니다.",
+			"Doctor was completely unaffected, probably because she was asleep.",
+			null,
+			"The Doctor was completely unaffected, presumably because he was sleeping.",
+			"The reason that Dr. D. was not affected at all is probably because he was sleeping."
+		],
+		[
+			"msg",
+			715430,
+			null,
+			"这应该和每个人圣痕的特质有关，但没有证据证明。",
+			"これは各自の聖痕の特質と関係していると考えられますが、確たる証拠はありません。",
+			"이는 각자의 성흔의 특질과 관계가 있다고 생각되지만, 확실한 증거는 없습니다.",
+			"This is likely related to the traits of each person's Stigmata, but I have no proof of this.",
+			null,
+			"It's supposed to have something to do with the traits of each person's stigmata, but there's no evidence for that.",
+			"This may have something to do with the characteristics of each of the stigmata, but there is no hard evidence."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"bg",
+			"black"
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715432,
+			null,
+			"总结得可真详细……",
+			"とても詳しくまとめているわね……。",
+			"아주 상세하게 정리했네요…….",
+			"Your summary is very detailed…",
+			null,
+			"That's a pretty detailed summary ......",
+			"You have a very detailed summary at ......."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			715433,
+			null,
+			"有什么主意吗，博士？",
+			"博士、ここからどうすればいいのでしょうか？",
+			"박사님, 여기서 어떻게 하면 좋을까요?",
+			"Any ideas, Doctor?",
+			null,
+			"Any ideas, Doc?",
+			"Doctor, what should we do from here?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715434,
+			null,
+			"伊瑟琳双手交叉，扶着自己的下巴。",
+			"イザーリンは腕を組み、あごに指を当てた。",
+			"이자린은 팔을 끼고 턱에 손가락을 대었다.",
+			"Yiserin crossed her arms and supported her chin.",
+			null,
+			"Estherine crossed her arms and held her chin.",
+			"Estherine crossed her arms and put her fingers to her chin."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715435,
+			null,
+			"飞船本身搭载了崩坏隔离力场，布洛妮娅提升了它的功率，所以你们才脱离了幻觉。",
+			"宇宙船自体に崩壊隔離フィールドが搭載されていて、ブローニャがその出力を上げたから、あなたたちは幻覚から覚めることができた。",
+			"우주선 자체에 붕괴 격리 필드가 탑재되어 있고, 브로냐가 그 출력을 올렸기 때문에, 여러분은 환각에서 깨어날 수 있었어.",
+			"The ship itself is carrying a Honkai Isolation Force Field, and Bronya increased its power output so that you could be pulled out of the hallucinations.",
+			null,
+			"The ship itself carries the Honkai isolation force field, and Bronya boosted its power, which is why you guys are out of the illusion.",
+			"The spaceship itself was equipped with a disintegrating isolation field, and Bronya increased its output so that you were able to awaken from your hallucination."
+		],
+		[
+			"msg",
+			715436,
+			null,
+			"但越靠近月球，崩坏能浓度越高，需要的功率也会越大。",
+			"でも、月に近づけば近づくほど、崩壊エネルギーの濃度が高くなり、必要な出力も大きくなるわ。",
+			"하지만, 달에 가까워질수록, 붕괴 에너지의 농도가 높아지고, 필요한 출력도 커져.",
+			"But, the closer we get to the Moon, the higher the concentration of Honkai Energy and the more power you will need to resist the hallucinations.",
+			null,
+			"But the closer you get to the moon, the higher the concentration of Honkai energy and the more power you'll need.",
+			"But the closer you get to the moon, the higher the concentration of Honkai energy and the greater the output required."
+		],
+		[
+			"msg",
+			715437,
+			null,
+			"最后，哪怕最大功率开着，也依然消除不了幻觉攻击，还会把返程的能源耗尽。",
+			"仮に最大出力にしたとしても、幻覚攻撃を消すことはできず、帰りのエネルギーを使い果たすだけ。",
+			"만약 최대 출력으로 한다 해도, 환각 공격을 없앨 수는 없고, 돌아올 에너지를 다 써버릴 뿐이야.",
+			"In the end, even if at maximum output, it still won't be enough to eliminate the hallucination attack and will exhaust the energy for the trip back.",
+			null,
+			"In the end, even with maximum power on, it still won't eliminate the hallucinatory attack and will drain the energy out of the return trip.",
+			"Even if you maxed it out, it would not eliminate the hallucinatory attack and would only use up energy on the way home."
+		],
+		[
+			"msg",
+			715438,
+			null,
+			"所以……把勘察月球时使用的发射型的隔离力场部署出去。",
+			"だから……月面探査時に使用する発射型の隔離フィールドを用意したわ。",
+			"그래서…… 월면 탐사 시 사용하는 발사형 격리 필드를 준비했어.",
+			"So... Deploy the launch-type Isolation Force Field used in the survey of the Moon.",
+			null,
+			"That's why ...... deployed the launch-type isolation force fields used in surveying the moon.",
+			"So ...... I've prepared a launchable isolation field to be used during lunar exploration."
+		],
+		[
+			"msg",
+			715439,
+			null,
+			"但消耗得越多，在月球的探索就越困难……",
+			"けれど、それをたくさん使ってしまえば、月面探査が難しくなってしまう……。",
+			"그렇지만, 그것을 많이 사용해 버리면, 월면 탐사가 어려워져 버려…….",
+			"But, if the more it is used, the more difficult it will be to explore the Moon.",
+			null,
+			"But the more you consume, the more difficult it will be to explore on the Moon ......",
+			"But if we use a lot of it, it will make lunar exploration more difficult. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				true
+			],
+			[
+				216,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			715440,
+			null,
+			"弑神装甲呢？只要启动就能吸收崩坏能。",
+			"イザーリン博士、神殺し装甲なら起動させるだけで崩壊エネルギーを吸収できないかしら？",
+			"이자린 박사, 신살자装甲이라면 기동시키기만 해도 붕괴 에너지를 흡수할 수 없을까?",
+			"What about the God-Slayer Armor? It can absorb Honkai Energy as soon as it is activated.",
+			null,
+			"What about the Kingslayer armor? It absorbs Honkai energy as soon as it's activated.",
+			"Dr. Estherine, if the God Killer armor can absorb Honkai energy just by activating it, can't it?"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				216,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			715441,
+			null,
+			"我们还要救琪亚娜吧？",
+			"まだキアナを助けないといけないでしょ？",
+			"아직 키아나를 구해야 하지 않아?",
+			"We still have to save Kiana, right?",
+			null,
+			"We still have to save Kiana, right?",
+			"We still have to help Kiana, don't we?"
+		],
+		[
+			"msg",
+			715442,
+			null,
+			"就算是低功率，它对使用者的负担也极大，而且是对抗崩坏意志的杀手锏。现在启用，到了月球就没有余力对抗崩坏意志了。",
+			"出力を抑えたとしても、使用者に対する負担が極めて大きいわ。それに崩壊の意志と戦うための切り札なのよ。月に到着してから崩壊の意志と戦う余力がなくなってしまうわ。",
+			"출력을 억제한다 해도, 사용자에 대한 부담이 매우 커. 게다가 붕괴의 의지와 싸우기 위한 비장의 수단이야. 달에 도착한 후 붕괴의 의지와 싸울 여력이 없어져 버릴 거야.",
+			"Even at low power, it's extremely taxing on the user and is something that can kill the Will of the Honkai. If we activate it now, we won't have any power left to fight against the Will of the Honkai when we get to the Moon.",
+			null,
+			"Even at low power, it is extremely taxing on the user and is a killer app against Honkai's will. Now that it's enabled, there's no power left to fight Honkai's will when you get to the moon.",
+			"Even if the output is reduced, the burden on the user is extremely high. Besides, it is a trump card to fight the will of Honkai. Once they reach the moon, they will not have enough power to fight the will of Honkai."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				true
+			],
+			[
+				216,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			715443,
+			null,
+			"确实……",
+			"たしかに……。",
+			"확실히…….",
+			"That’s true…",
+			null,
+			"Indeed ......",
+			"Indeed, ......."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				216,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			715444,
+			null,
+			"不管怎么做，都是在透支我们后续行动的可能性……",
+			"いずれにしても、我らの今後の行動の可能性を制限してしまうのか……。",
+			"어쨌든, 우리의 앞으로의 행동 가능성을 제한해 버리는 건가…….",
+			"No matter what we do, we'll end up overdrawing the possibility of our subsequent actions.",
+			null,
+			"Either way, it's overdrafting the likelihood of our follow-up ......",
+			"In any case, will it limit the possibilities for our future actions? ......"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			715445,
+			null,
+			"或者……",
+			"あるいは……。",
+			"혹은…….",
+			"Or...",
+			null,
+			"Or ......",
+			"Or visit ......."
+		],
+		[
+			"msg",
+			715446,
+			null,
+			"我们返程。",
+			"引き返す。",
+			"되돌아간다.",
+			"We return.",
+			null,
+			"We return.",
+			"Turn back."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				665,
+				4,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715447,
+			null,
+			"哈？！",
+			"はぁ！？",
+			"하아!?",
+			"HA!?",
+			null,
+			"Huh?",
+			"Huh!"
+		],
+		[
+			"speaker",
+			320411
+		],
+		[
+			"portraits",
+			[
+				30270,
+				0,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715448,
+			null,
+			"布洛妮娅姐姐！",
+			"ブローニャお姉ちゃん！",
+			"브로냐 언니!",
+			"Bronya-neechan!",
+			null,
+			"Sister Bronya!",
+			"Bronya, sister!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				30270,
+				0,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			715449,
+			null,
+			"如果意识清醒都无法保证，",
+			"意識をはっきり保てる保証がないのであれば……。",
+			"의식을 똑바로 유지할 수 있다는 보장이 없다면…….",
+			"If we can't even guarantee consciousness,",
+			null,
+			"If conscious awareness is not guaranteed.",
+			"If there is no guarantee that you will remain clearly conscious, please contact ......."
+		],
+		[
+			"msg",
+			715450,
+			null,
+			"再强大的力量，再灵活的头脑，都是没用的。",
+			"どんなに強大な力、優れた頭脳を持っていても無意味です。",
+			"아무리 강대한 힘과 뛰어난 두뇌를 가지고 있어도 무의미합니다.",
+			"No matter our strength, no matter the flexibility of our mind, it'll all be useless.",
+			null,
+			"More power, more flexibility, all useless.",
+			"It is meaningless no matter how mighty the force or how superior the brain."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				665,
+				6,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715451,
+			null,
+			"（拼命挠头）啧……",
+			"（勢いよく頭をかく）チッ……。",
+			"(세차게 머리를 긁적이며) 쯧…….",
+			"(Scratches head desperately) Tsk…",
+			null,
+			"(desperately scratching his head) Tsk ......",
+			"(Scratching head vigorously) Tsk. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715452,
+			null,
+			"就连一向不服输的杏也无法反驳。",
+			"これまで負けじと反論し続けていたシンでさえ、ブローニャに反論できなかった。",
+			"지금까지 지지 않으려고 반론을 계속하던 신조차도, 브로냐에게 반론하지 못했다.",
+			"Even Sin, who was always cynical, could not come up with a counterargument.",
+			null,
+			"Even Sin, who had always been defiant, couldn't refute it.",
+			"Even Sin, who had been losing ground and continuing to argue, was unable to argue with Bronya."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				0,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV12_RadioReceive"
+		],
+		[
+			"msg",
+			715453,
+			null,
+			"（舰内语音）……呼叫“远方号”探（沙沙）……",
+			"（艦内放送）……「ファラウェイ号」応答してください……ザーザー……。",
+			"(함내 방송)……「패러웨이 호」 응답하세요……치지직…….",
+			"(Intraship Audio)... Calling the \"Yuanfang Hao\" spaceship (Zhhh)....",
+			null,
+			"(INSHIP VOICE) ...... Calling \"Far Side\" probe (Sasha) ......",
+			"(Shipboard Broadcast) ...... \"The Faraway\" Please respond to ......Zazer ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715454,
+			null,
+			"菲米莉丝打断了她们的思绪。",
+			"フェミリスが彼女たちの思考を遮った。",
+			"페미리스가 그녀들의 사고를 가로막았다.",
+			"Femiris interrupted their thoughts.",
+			null,
+			"Femiris interrupted their thoughts.",
+			"Femiris interrupted their thoughts."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				0,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV12_RadioReceive"
+		],
+		[
+			"msg",
+			715455,
+			null,
+			"（舰内语音）地球现（沙沙）……风（沙沙）……危险！西琳！",
+			"（艦内放送）地球に……ザーザー……風の……ザーザー……シーリンが危険です！",
+			"(함내 방송) 지구에…… 잡음…… 바람의…… 잡음…… 시린이 위험합니다!",
+			"(Intraship Audio) Earth is now (Rustling).... Wind (Rustling).... Danger! Sirin!",
+			null,
+			"(INSHIP VOICE) Earth now (rustling) ...... wind (rustling) ...... danger! Sirin!",
+			"(Over the ship's radio) The Earth ...... zazer ...... winds ...... zazer ...... Sirin is in danger! (Broadcasting onboard ship)"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				5,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715456,
+			null,
+			"西琳？",
+			"シーリン？",
+			"시린?",
+			"Sirin?",
+			null,
+			"Sirin？",
+			"Sirin？"
+		],
+		[
+			"bgm",
+			131
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715457,
+			null,
+			"菲米莉丝传来了大量来自地球的情报：",
+			"フェミリスが地球の情報を大量に送信してきた。",
+			"페미리스가 지구의 정보를 대량으로 전송해왔다.",
+			"Femiris transmitted a large amount of information from Earth.",
+			null,
+			"Femiris passed on a great deal of information from Earth:",
+			"Femiris sent a large amount of information about Earth."
+		],
+		[
+			"bg",
+			"CG10385"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715458,
+			null,
+			"在芽衣等人飞往月球的途中，地球遭受了崩坏的饱和式进攻——",
+			"7人が月に向かっている最中、地球は崩壊による飽和攻撃を受けていた——",
+			"7명이 달로 향하는 도중, 지구는 붕괴에 의한 포화 공격을 받고 있었다——",
+			"During Mei and the others' flight to the Moon, the Earth suffered a saturated attack of the Honkai-",
+			null,
+			"As Mei and the others fly to the moon, the Earth is subjected to a saturation attack by Honkai-",
+			"While the seven were on their way to the moon, the earth was being saturated by Honkai--a saturation attack by Honkai."
+		],
+		[
+			"msg",
+			715459,
+			null,
+			"风之律者温蒂的异变，巨型崩坏造物意志联体，还有浩如烟海的意志衍生体、宛如蝗虫过境般席卷全球……",
+			"風の律者ウェンディの異変により、巨大崩壊創造物である意志結合、さらに無数の意志派生体がイナゴの大群のように地球全体を襲っていた……。",
+			"바람의 율자 웬디의 이변으로 인해, 거대 붕괴 창조물인 의지결합, 더욱이 무수한 의지 파생체가 메뚜기 떼처럼 지구 전체를 덮치고 있었다…….",
+			"The Herrscher of the Wind, Wendy's mutation, the giant Honkai Creation called the Unified Will, and the vast sea of Will Derivatives, like locusts sweeping the world…",
+			null,
+			"Wind Herrscher Wendy's mutation, the giant Honkai creation of the will union, and the vast sea of will derivatives, like locusts swept across the world ......",
+			"Due to the mutation of Wendy the Herrscher of the Wind, a giant Honkai creation, the will-union, and countless more will-derivatives were attacking the entire planet like a swarm of locusts. ......"
+		],
+		[
+			"msg",
+			715460,
+			null,
+			"最后的画面，是正向空间站袭来的崩坏生物。",
+			"最後の映像には宇宙ステーションに襲い来る崩壊生物が映し出されていた。",
+			"마지막 영상에는 우주 정거장을 덮치는 붕괴 생물체가 비춰져 있었다.",
+			"The last image was of the Honkai Beasts that were on their way to the space station.",
+			null,
+			"The final image is of the Honkai creatures that are coming towards the space station.",
+			"The final image showed Honkai organisms attacking the space station."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"bg",
+			"CG10387"
+		],
+		[
+			"msg",
+			715461,
+			null,
+			"不……",
+			"そんな……。",
+			"그럴 리가…….",
+			"No…",
+			null,
+			"No ......",
+			"Such is the case with ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			715462,
+			null,
+			"九霄看向飞船行驶的反方向，也就是地球——",
+			"九霄は宇宙船の進行方向とは反対側、すなわち地球の方向を見つめた——",
+			"큐쇼는 우주선의 진행 방향과는 반대쪽, 즉 지구 방향을 바라보았다——",
+			"Kyuushou looked in the opposite direction of the ship's path, that is, the Earth-",
+			null,
+			"Kyuushou looked in the opposite direction the ship was traveling, which was Earth-",
+			"Kyuushou looked in the opposite direction of the spaceship's travel--in the direction of the earth."
+		],
+		[
+			"msg",
+			715463,
+			null,
+			"原本蓝白色的星球，已被染成了红紫色。",
+			"青と白に包まれていた惑星が赤紫色に染まっていた。",
+			"푸르고 하얗게 감싸여 있던 행성이 적자색으로 물들어 있었다.",
+			"The originally blue and white planet has been dyed red and purple.",
+			null,
+			"The original blue-white planet had been colored reddish-purple.",
+			"The planet, which had been enveloped in blue and white, was now tinted reddish purple."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"msg",
+			715464,
+			null,
+			"那是……我们的家。",
+			"あれが……我らの故郷……。",
+			"저것이…… 우리의 고향…….",
+			"That’s… our home…",
+			null,
+			"That's ...... our home.",
+			"That is ...... our home ......."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"bg",
+			"black"
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715465,
+			null,
+			"再往前就和空间站断联了，",
+			"これ以上進めば宇宙ステーションとの通信が途切れるわ。",
+			"더 나아가면 우주 정거장과의 통신이 끊길 거야.",
+			"If we go any further, we'll be disconnected from the Space Station,",
+			null,
+			"Any further and we'll be disconnected from the station.",
+			"If we go any further, we'll lose communication with the space station."
+		],
+		[
+			"msg",
+			715466,
+			null,
+			"不论返程还是前进，都要尽快决定。",
+			"引き返すにしても、進むにしても、できるだけ早く決めないと。",
+			"되돌아가든, 계속 전진하든, 가능한 한 빨리 결정해야 해.",
+			"Whether returning or moving forward, we should decide as soon as possible.",
+			null,
+			"Whether you are returning or moving forward, decide as soon as possible.",
+			"Whether we turn back or go forward, we need to decide as soon as possible."
+		],
+		[
+			"msg",
+			715467,
+			null,
+			"虽然这不是能立刻决定的事情……",
+			"すぐに決められるようなことではないけど……。",
+			"금방 결정할 수 있는 일은 아니지만....",
+			"Even though this is not something that can be decided so quickly…",
+			null,
+			"Although it's not something that can be decided immediately ......",
+			"It's not a quick decision, but you can find it at ......."
+		]
+	],
+	"10103": [
+		[
+			"bgm",
+			131
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715468,
+			null,
+			"你们想好了吗？",
+			"考えはまとまった？",
+			"결심은 섰어?",
+			"Did you think it through?",
+			null,
+			"Have you guys thought about it?",
+			"Have you settled on an idea?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				true
+			],
+			[
+				70,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			715469,
+			null,
+			"布洛妮娅，我有话想对大家说。",
+			"ブローニャ、みんなに言いたいことがある。",
+			"브로냐, 모두에게 할 말이 있어.",
+			"Bronya and I have something we want to say to you all.",
+			null,
+			"Bronya, I have something to say to everyone.",
+			"Bronya, I have something to say to all of you."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715470,
+			null,
+			"尽量简短。",
+			"できるだけ手短に。",
+			"가능한 짧게 말해.",
+			"Be brief.",
+			null,
+			"Keep it short.",
+			"Be as brief as possible."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				true
+			],
+			[
+				70,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			715471,
+			null,
+			"当然。",
+			"もちろん。",
+			"물론이지.",
+			"Of course.",
+			null,
+			"Sure.",
+			"Of course."
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715472,
+			null,
+			"大家……",
+			"みんな……。",
+			"여러분....",
+			"Everyone…",
+			null,
+			"Everyone ......",
+			"Everyone can find out more at ......."
+		],
+		[
+			"msg",
+			715473,
+			null,
+			"我们生命中经历的一切悲欢离合，全在那里。",
+			"今までの人生で経験した悲しみや喜びは、すべてあそこにある。",
+			"지금까지의 인생에서 경험한 슬픔과 기쁨은 모두 저기에 있어.",
+			"All the sorrows and joys we’ve experienced in our lives are there.",
+			null,
+			"All the sorrows and joys we experience in our lives are all there.",
+			"All the sorrows and joys I have experienced in my life are there."
+		],
+		[
+			"msg",
+			715474,
+			null,
+			"可如今，地狱的恶魔也会胆寒于地球的末日景象。",
+			"しかし今、地球の終末の光景に地獄の悪魔すら肝を冷やしている。",
+			"하지만 지금, 지구의 종말 광경에 지옥의 악마조차 간담이 서늘해 하고 있어.",
+			"But now, the demons of hell are emboldened by the scene of the apocalypse on the Earth",
+			null,
+			"But today, the demons of hell will also be emboldened by the apocalyptic sights of Earth.",
+			"But now, even the demons of hell are chilling their livers at the sight of Earth's apocalypse."
+		],
+		[
+			"msg",
+			715475,
+			null,
+			"如果我们就此返回，之后……",
+			"このまま引き返したところで……。",
+			"이대로 되돌아간다고 해도…….",
+			"If we return, then…",
+			null,
+			"If we return on this, after ......",
+			"You can go to ...... when you turn back at this point."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715476,
+			null,
+			"九霄想起了西琳，想起了仍在地球的父母，想起了很多事情。",
+			"九霄はシーリンのこと、地球に残る両親のこと、さまざまなことを思い浮かべた。",
+			"큐쇼는 시린과 지구에 남아 있는 부모님, 다양한 생각들을 떠올렸다.",
+			"Kyuushou thought of Sirin, of her parents who were still on Earth, and of many other things.",
+			null,
+			"Kyuushou thought of Sirin, his parents who were still on Earth, and many things.",
+			"Kyuushou thought of Sirin, his parents remaining on earth, and many other things."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715477,
+			null,
+			"我们真的……",
+			"本当に……。",
+			"정말로…….",
+			"Do we really…",
+			null,
+			"We really ......",
+			"Really ......."
+		],
+		[
+			"msg",
+			715478,
+			null,
+			"真的……还有能回去的地方吗？",
+			"本当に……帰る場所はあるのだろうか？",
+			"정말로…… 돌아갈 곳이 있을까?",
+			"Have a place to go back to?",
+			null,
+			"Really ...... is there a place to go back to?",
+			"Is there really a place to go back to ......?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715479,
+			null,
+			"她们不约而同地想：",
+			"彼女たちは同時に同じことを考えた。",
+			"그녀들은 동시에 같은 생각을 했다.",
+			"They wondered in unison",
+			null,
+			"They thought in unison:",
+			"The girls thought the same thing at the same time."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715480,
+			null,
+			"我们真的应该，两手空空地回去吗？",
+			"本当にこのまま手ぶらで帰っていいのだろうか？",
+			"정말 이대로 빈손으로 돌아가도 되는 걸까?",
+			"Should we really go back empty-handed?",
+			null,
+			"Should we really, really go back empty-handed?",
+			"Can we really go home empty handed?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715481,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			"…"
+		],
+		[
+			"msg",
+			715482,
+			null,
+			"表决，一分钟。",
+			"1分で決を採りましょう。",
+			"1분 안에 결정을 내리자.",
+			"Vote, one minute.",
+			null,
+			"Vote, one minute.",
+			"Let's take a one-minute vote."
+		],
+		[
+			"msg",
+			715483,
+			null,
+			"同意继续去月球的举手。只要有一人不同意，我们就返程。",
+			"このまま月に向かうことに賛成の人は手を挙げてください。",
+			"이대로 달로 향하는 것에 찬성하는 사람은 손을 들어 주세요.",
+			"Raise your hand if you wish to continue to the Moon, if even one person doesn’t want to, we will go back to the Earth.",
+			null,
+			"Raise your hand if you agree to continue to the moon. If only one person disagrees, we will return.",
+			"Raise your hand if you are in favor of going straight to the moon."
+		],
+		[
+			"msg",
+			715484,
+			null,
+			"没问题吧？",
+			"1人でも反対すれば引き返しましょう。",
+			"한 명이라도 반대하면 되돌아가자.",
+			"No problems with this, right?",
+			null,
+			"It's okay, right?",
+			"If even one person objects, turn back."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715485,
+			null,
+			"话音刚落，伊瑟琳率先举起了手。",
+			"ブローニャがそう言うと、イザーリンが真っ先に手を挙げた。",
+			"브로냐가 그렇게 말하자, 이자린이 가장 먼저 손을 들었다.",
+			"As soon as those words were spoken, Yiserin took the lead and raised her hand.",
+			null,
+			"At the words, Estherine was the first to raise her hand.",
+			"When Bronya said this, Estherine was the first to raise his hand."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			715486,
+			null,
+			"之后是宁蒂。",
+			"その次にニンディが手を挙げた。",
+			"그 다음으로 닌디가 손을 들었다.",
+			"This was followed by Ninti.",
+			null,
+			"After that came Ninti.",
+			"Ninti was the next to raise his hand."
+		],
+		[
+			"msg",
+			715487,
+			null,
+			"最后，每个人都举起了自己的手。",
+			"やがて、全員が手を挙げた。",
+			"이윽고, 모두가 손을 들었다.",
+			"Finally, each person raised their hands.",
+			null,
+			"Finally, everyone raised their hands.",
+			"Soon, everyone raised their hands."
+		],
+		[
+			"msg",
+			715488,
+			null,
+			"她们刚从空间站出发时的那股离愁，就要化作泪水涌出。",
+			"宇宙ステーションを出発したときの悲しみが、涙となってあふれ出そうになっていた。",
+			"우주 정거장을 출발할 때의 슬픔이, 눈물이 되어 흘러나올 듯 했다.",
+			"The sorrow they felt when they first set off from the space station was about to turn into tears.",
+			null,
+			"The sadness they felt when they first departed from the space station was about to come pouring out in tears.",
+			"The sadness of my departure from the space station was almost overflowing with tears."
+		],
+		[
+			"msg",
+			715489,
+			null,
+			"连同她们所经历的一切，快乐也好，悲伤也好……",
+			"楽しいことにせよ、悲しいことにせよ、彼女たちが経験してきたすべてと一緒に……。",
+			"즐거운 일이든, 슬픈 일이든, 그녀들이 경험해온 모든 것과 함께……",
+			"Together with everything they have experienced, happiness, but also sadness...",
+			null,
+			"Along with everything else they go through, happy or sad ......",
+			"Whether it's fun or sad, you can visit ...... with everything these women have been through."
+		],
+		[
+			"msg",
+			715490,
+			null,
+			"此刻的她们，",
+			"今の彼女たちは……。",
+			"지금의 그녀들은……",
+			"At this moment, they",
+			null,
+			"At the moment they are.",
+			"They are now at ......."
+		],
+		[
+			"msg",
+			715491,
+			null,
+			"全都成为了救世主。",
+			"全員が救世主となっていた。",
+			"모두가 구세주가 되어 있었다.",
+			"All became saviors.",
+			null,
+			"All became saviors.",
+			"They were all saviors."
+		],
+		[
+			"msg",
+			715492,
+			null,
+			"之后，“远方号”与地球的信号联系彻底断开。",
+			"やがて、「ファラウェイ号」と地球の通信が完全に途切れた。",
+			"이윽고, 「팔라웨이호」와 지구의 통신이 완전히 끊어졌다.",
+			"After that, the link between the “Yuanfang Hao” and the Earth broke.",
+			null,
+			"After that, the Far Side's signal link with Earth was completely severed.",
+			"Soon, communication between the \"Faraway\" and the Earth was completely cut off."
+		],
+		[
+			"msg",
+			715493,
+			null,
+			"继续驶向深空……",
+			"そして宇宙の奥へと進み続けていった……。",
+			"그리고 우주의 깊은 곳으로 계속 나아갔다……",
+			"They continued sailing into space…",
+			null,
+			"Continuing to sail into deep space ......",
+			"And continued to go deeper into the universe. ......"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bgm",
+			154
+		],
+		[
+			"speaker",
+			433406
+		],
+		[
+			"portraits",
+			[
+				30053,
+				0,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715496,
+			null,
+			"（爬行）吼吼……",
+			"（はいつくばりながら）ウォーン……。",
+			"(엎드린 채로) 우으…….",
+			"(Crawling) Howl",
+			null,
+			"(Crawl) Howl ......",
+			"(Yes, I know.) Warn ......."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				30053,
+				0,
+				true
+			],
+			[
+				70,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			715497,
+			null,
+			"（指）这……真的是幻觉吗？",
+			"（指さして）これは……本当に幻覚なのか？",
+			"(가리키며) 이건... 정말 환각인 거야?",
+			"(Pointing) Is this really a hallucination?",
+			null,
+			"(Fingers) Is this ...... really a hallucination?",
+			"(Pointing) Is this ...... really a hallucination?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				665,
+				6,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715498,
+			null,
+			"可本大爷也看到了。",
+			"いや、ボクにも見えるぞ。",
+			"아니, 나도 보여.",
+			"I also see it.",
+			null,
+			"But this master also saw it.",
+			"No, I can see it too."
+		],
+		[
+			"speaker",
+			320411
+		],
+		[
+			"portraits",
+			[
+				665,
+				6,
+				true
+			],
+			[
+				30270,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			715499,
+			null,
+			"那里什么都没有，监视器也什么都没拍到。",
+			"そこには何もないよ。監視カメラも何も映してない。",
+			"거기엔 아무것도 없어. 감시 카메라에도 아무것도 안 잡혔는데.",
+			"There’s nothing there, and the monitors aren’t catching anything.",
+			null,
+			"There's nothing there. The monitors didn't catch anything.",
+			"There's nothing there. The surveillance cameras don't show anything."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30270,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			715500,
+			null,
+			"随着飞船离月球越来越近，她们并没能度享受多少平静。幻觉果然再次出现。",
+			"宇宙船が月に近づくにつれて、彼女たちは落ち着きを保てなくなっていった。予想していた通り、幻覚が再び現われたのだ。",
+			"우주선이 달에 가까워질수록, 그녀들은 차분함을 유지할 수 없게 되었다. 예상했던 대로, 환각이 다시 나타난 것이다.",
+			"As the ship got closer and closer to the Moon, they didn't enjoy much peace for the time being. The hallucinations had indeed reappeared.",
+			null,
+			"As the ship got closer to the moon, they didn't enjoy much peace. The hallucinations had definitely reappeared.",
+			"As the spacecraft approached the moon, the girls became restless. As they had expected, the hallucinations reappeared."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			715501,
+			null,
+			"幻觉令九霄和杏不断误报敌人出现，希儿要不停纠正。幻觉和现实相互交织，令三人都有些精神衰弱。",
+			"幻覚のせいで、九霄とシンは敵が現われたと誤報を出し続け、そのたびにゼーレが訂正していた。幻覚と現実が混ざり合うことにより、3人の精神は徐々に消耗していった。",
+			"환각 때문에, 큐쇼와 신은 적이 나타났다고 오보를 계속 내렸고, 그때마다 제레가 정정했다. 환각과 현실이 뒤섞이면서, 세 사람의 정신은 점점 소모되어 갔다.",
+			"The hallucinations caused Kyuushou and Sin to constantly misreport the appearance of enemies, and Seele had to keep correcting them.",
+			null,
+			"The hallucinations caused Kyuushou and Sin to constantly misreport the appearance of enemies, and Seele had to keep correcting them. Hallucinations and reality intertwine with each other, causing all three to suffer some mental weakness.",
+			"Because of the hallucinations, Kyuushou and Sin kept misreporting that an enemy had appeared, with Seele correcting them each time. The mixture of hallucination and reality gradually drained the spirits of the three."
+		],
+		[
+			"speaker",
+			433406
+		],
+		[
+			"portraits",
+			[
+				30053,
+				0,
+				false
+			],
+			[
+				30270,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			715502,
+			null,
+			"（急速爬行）",
+			"（勢いよく移動する）",
+			"(급하게 이동한다)",
+			"(Rapidly crawling)",
+			null,
+			"(Crawling rapidly)",
+			"(moving briskly)"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				30270,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			715503,
+			null,
+			"小心。",
+			"あぶない！",
+			"위험해!",
+			"Watch out.",
+			null,
+			"Be careful.",
+			"It's dangerous!"
+		],
+		[
+			"choice",
+			[
+				715505,
+				null,
+				"（阻挡怪物的攻击）",
+				"（怪物の攻撃を受け止める）",
+				"(괴물의 공격을 막아낸다)",
+				"(Defend from the monster's attack)"
+			]
+		]
+	],
+	"10104": [
+		[
+			"bgm",
+			154
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715506,
+			null,
+			"唔！",
+			"うっ！",
+			"윽!",
+			"Ugh!",
+			null,
+			"Mmm!",
+			"Ugh!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715507,
+			null,
+			"九霄的脚还是被抓了一下，似乎是因为痛觉的刺激，怪物从九霄的视线中消失了，也从其他人的视线中消失了。",
+			"九霄の足がつかまれ、痛みのような刺激が走り、怪物は九霄、そして他の者の視界から消えた。",
+			"큐쇼의 다리가 잡혔고, 고통 같은 자극이 느껴졌다. 그러자 괴물은 큐쇼와 다른 이들의 시야에서 사라졌다.",
+			"Kyuushou's foot was still scratched. It seems that because of the pain, the monster managed to disappear from Kyuushou's sight and from the sight of others.",
+			null,
+			"Kyuushou's foot was still scratched, and seemingly because of the pain stimulation, the monster disappeared from Kyuushou's sight, as well as from the sight of the others.",
+			"Kyuushou's leg was grabbed, a painful jolt of stimulus, and the monster disappeared from Kyuushou's, and the others', sight."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715508,
+			null,
+			"明明是幻觉，为什么还会痛啊！",
+			"幻覚のくせにどうして痛いのだ！？",
+			"환각인데 왜 아픈 거야!?",
+			"It was obviously a hallucination, why does it still hurt?",
+			null,
+			"It's obviously a hallucination, why does it still hurt!",
+			"Why does it hurt when you're hallucinating!"
+		],
+		[
+			"msg",
+			715509,
+			null,
+			"要不是会殃及飞船，放个聚爆燃魂就全解决了。",
+			"宇宙船に被害が及ばなければ、集爆燃魂ですべてまとめて片付けてやるのに！",
+			"우주선에 피해가 미치지 않는다면, 집폭연혼으로 모두 한꺼번에 처리해 주겠는데!",
+			"If not for the potential damage to the spacecraft, I'd solve all of this with a Fusion Burning Soul!",
+			null,
+			"If it weren't for the fact that it would spill over into the ship, putting in a Polyblast Soulburner would take care of it all.",
+			"If the spaceship had not been damaged, I would have cleaned it all up together with the collected explosive combustion spirit!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				70,
+				3,
+				true
+			],
+			[
+				665,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			715510,
+			null,
+			"海藻头，宁蒂，希儿……怎么就你们看不到！",
+			"ワカメ頭、ニンディ、ゼーレ……どうしてお前たちには見えないんだ！？",
+			"와카메 머리, 닌디, 제레…… 왜 너희들만 보이지 않는 거야!?",
+			"Seaweed head, Ninti, Seele... How can you not see them!",
+			null,
+			"Seaweedhead, Ninti, Seele ...... how come you guys are the only ones who can't see it!",
+			"Seaweed head, Ninti, Seele ...... How come you guys can't see me!"
+		],
+		[
+			"speaker",
+			320411
+		],
+		[
+			"portraits",
+			[
+				30270,
+				3,
+				false
+			],
+			[
+				665,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715511,
+			null,
+			"没事的，杏，幻觉的出现和个人意志无关……",
+			"大丈夫よ、シン。幻覚の出現は個人の意志とは無関係だから……。",
+			"괜찮아, 신. 환각의 출현은 개인의 의지와 무관하니까…….",
+			"It's okay, Sin, hallucinations have nothing to do with personal will…",
+			null,
+			"It's ok Sin, hallucinations have nothing to do with personal will ......",
+			"It's okay, Sin. The appearance of hallucinations has nothing to do with personal will. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				30270,
+				3,
+				true
+			],
+			[
+				665,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			715512,
+			null,
+			"你是在嘲笑我吗！",
+			"ボクをバカにしているのか！",
+			"날 바보로 보는 거냐!",
+			"Are you mocking me?!",
+			null,
+			"Are you mocking me!",
+			"Are you making fun of me?"
+		],
+		[
+			"speaker",
+			320411
+		],
+		[
+			"portraits",
+			[
+				30270,
+				3,
+				false
+			],
+			[
+				665,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715513,
+			null,
+			"我哪有……",
+			"まさか……。",
+			"설마…….",
+			"How is that…",
+			null,
+			"Where am I ......",
+			"No way. ......."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				665,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715514,
+			null,
+			"飞船本身的崩坏隔离力场已经消除不了幻觉了，于是布洛妮娅开始部署发射型力场了。在它发射之后，飞船和它保持着相对静止，在其范围内飞行。",
+			"宇宙船自体の崩壊隔離フィールドでは幻覚を消せなくなったため、ブローニャは発射型フィールドを用意した。それを発射すると、宇宙船と隔離フィールドの相対的な位置は固定され、宇宙船はフィールドの範囲内を飛び続けた。",
+			"우주선 자체의 붕괴 격리 필드로는 환각을 지울 수 없게 되자, 브로냐는 발사형 필드를 준비했다. 그것을 발사하면, 우주선과 격리 필드의 상대적인 위치는 고정되고, 우주선은 필드 범위 내를 계속 날았다.",
+			"The ship's own Honkai Isolation Force Field could no longer eliminate the hallucinations, so Bronya began to deploy the launch-type force field. After it was launched, the ship and it remained relatively stationary, flying within it's range.",
+			null,
+			"The ship's own Honkai-isolated force field couldn't eliminate the illusion anymore, so Bronya began deploying a launch-type force field. After it fired, the ship and it remained relatively stationary, flying within its range.",
+			"Since the Honkai isolation field on the spaceship itself could no longer eliminate the hallucination, Bronya prepared a firing field. When it was launched, the relative positions of the spaceship and the isolation field were fixed, and the spaceship continued to fly within the field's range."
+		],
+		[
+			"msg",
+			715515,
+			null,
+			"理论上，只要不是两种力场同时失效，就能保证对幻觉攻击的抵抗。然而……",
+			"理論上、2種類のフィールドが同時に効力を失わない限り、幻覚攻撃を防げるはずだ。しかし……。",
+			"이론상, 두 종류의 필드가 동시에 효력을 잃지 않는 한, 환각 공격을 막을 수 있어야 한다. 하지만…….",
+			"Theoretically, resistance to hallucination attacks is guaranteed as long as both force fields are not disabled at the same time. However…",
+			null,
+			"Theoretically, resistance to hallucinatory attacks is guaranteed as long as not both force fields fail at the same time. However ......",
+			"Theoretically, as long as the two types of fields do not lose their efficacy at the same time, they should be able to prevent hallucinatory attacks. But see ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				665,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715516,
+			null,
+			"（扶额头）",
+			"（額を押さえる）",
+			"(이마를 누르며)",
+			"(Holds forehead)",
+			null,
+			"(holds forehead)",
+			"(forehead pressed down)"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				true
+			],
+			[
+				70,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			715517,
+			null,
+			"怎么了。",
+			"どうしたのだ？",
+			"무슨 일이야?",
+			"What’s up?",
+			null,
+			"What's going on.",
+			"What's going on?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715518,
+			null,
+			"那个“眼睛”……你一次都没看到吗？",
+			"あの「目」……九霄ちゃんは一度も見なかったの？",
+			"저 「눈」…… 큐쇼은 한 번도 못 본 거야?",
+			"That \"Eye\"... Did you not see it even once?",
+			null,
+			"Didn't you see that \"eye\" ...... once?",
+			"You never saw that \"eye\" ...... Kyuushou?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				true
+			],
+			[
+				70,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			715519,
+			null,
+			"没，除了看到崩坏生物入侵飞船外，一次都没有。",
+			"「目」？宇宙船に侵入した崩壊生物以外は、特に何も見ていないぞ。",
+			"「눈」? 우주선에 침입한 붕괴 생물 말고는 특별히 본 건 없는데.",
+			"Nope, not once. I only saw the Honkai Beasts invading the ship.",
+			null,
+			"Nope, not once, other than seeing Honkai creatures invade the ship.",
+			"The \"eye\"? I don't see anything special about that, except for the Honkai creature that invaded your spaceship."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715520,
+			null,
+			"我以为你也是律者，会和我一样……",
+			"九霄ちゃんも私と同じ律者だと思っていたけど……。",
+			"큐쇼도 나랑 같은 률자라고 생각했는데…….",
+			"I thought you because you were a Herrscher like me, you'd see the same things as me...",
+			null,
+			"I thought you were a Herrscher too and would be like me ......",
+			"I thought Kyuushou was a Herrscher like me. ......"
+		],
+		[
+			"msg",
+			715521,
+			null,
+			"（小声）只有我能看到的幻觉……",
+			"（小声で）私にしか見えない幻覚……。",
+			"(작은 소리로) 나만 보는 환각…….",
+			"(Whispering) A hallucination only I can see...",
+			null,
+			"(Whispering) The illusion that only I can see ......",
+			"(whispering) Only I can see the hallucination ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				665,
+				4,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715522,
+			null,
+			"喂，你们看！",
+			"おい、見ろ！",
+			"야, 봐!",
+			"Hey, guys, look!",
+			null,
+			"Hey, you guys, look!",
+			"Hey, look!"
+		],
+		[
+			"msg",
+			715523,
+			null,
+			"这个肯定不是幻觉了吧！",
+			"これは明らかに幻覚じゃないだろ！",
+			"이건 분명히 환각이 아니잖아!",
+			"This is certainly not a hallucination!",
+			null,
+			"Surely this one isn't a hallucination!",
+			"This is clearly not a hallucination!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715524,
+			null,
+			"监视器画面中，力场发射器附近的船舱出现了意志衍生体。它们体型比成人略小，头部方型，并带有触手。它们以类似在水中游动的姿态，飞行在太空中。",
+			"監視モニターの画面には、フィールド発射装置付近のキャビンに現われた意志派生体が映し出されていた。その体は大人よりやや小さく、四角い頭と触手を持っている。意志派生体たちは水中を泳ぐような姿勢で宇宙空間を飛んでいた。",
+			"모니터 화면에는 필드 발사 장치 근처 캐빈에 나타난 의지 파생체가 비춰지고 있었다. 그 몸은 어른보다 약간 작고, 네모난 머리와 촉수를 가지고 있었다. 의지 파생체들은 물속을 헤엄치는 자세로 우주 공간을 날아다니고 있었다.",
+			"On the monitor screen, Will Derivatives appeared in the cabin near the Force Field emitter. They were slightly smaller than adults, with square-shaped heads and tentacles. They flew through space in an attitude similar to swimming in water.",
+			null,
+			"Will derivatives appear in the monitor screen in the hold near the force field emitter. They are slightly smaller than adults, with square heads and tentacles. They flew through space in a posture similar to swimming in water.",
+			"The screen of the surveillance monitor showed a will-derived body that appeared in a cabin near the field launcher. Their bodies were slightly smaller than adults, with square heads and tentacles. The will-derived organisms were flying through space in an underwater swimming posture."
+		],
+		[
+			"speaker",
+			320411
+		],
+		[
+			"portraits",
+			[
+				30270,
+				3,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715525,
+			null,
+			"真的有能从太空来的崩坏生物……",
+			"本当に宇宙から来る崩壊生物がいるなんて……。",
+			"진짜 우주에서 오는 붕괴 생물이 있다니…….",
+			"There really are Honkai Beasts that can come from space…",
+			null,
+			"There really are Honkai creatures that can come from space ......",
+			"I can't believe there really are Honkai creatures coming from outer space. ......"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715526,
+			null,
+			"武器没能全部拦截，漏网之鱼入侵了飞船，寄生了力场发射器。",
+			"迎撃装置ではすべてを食い止められず、網の目をかいくぐった敵が宇宙船に侵入し、フィールド発射装置に寄生したのね。",
+			"요격 장치로는 모두 막을 수 없어서, 그물망을 빠져나온 적이 우주선에 침입해 필드 발사 장치에 기생한 거네.",
+			"The weapons failed to intercept all of them, and they leaked into the ship and parasitized the Force Field emitter.",
+			null,
+			"The weapons didn't intercept them all, and the leakage invaded the ship, parasitizing the force field emitters.",
+			"So the interceptors didn't stop everything, and the enemy, having slipped through the net, entered the spacecraft and became a parasite on the field launchers."
+		],
+		[
+			"msg",
+			715527,
+			null,
+			"在飞船外的力场失效之前，重启力场发射器。",
+			"宇宙船のフィールドが無効になる前に、フィールド発射装置を再起動しましょう。",
+			"우주선의 필드가 무효화되기 전에, 필드 발사 장치를 재가동하자.",
+			"Restart the Force Field emitter before the Force Field outside the ship fails.",
+			null,
+			"Reactivate the force field emitters before the force fields outside the ship fail.",
+			"Restart the field launcher before the spaceship's field is disabled."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				0,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715528,
+			null,
+			"该我出场了吧~",
+			"ククク、ついに我の出番だ。",
+			"쿠쿠쿠, 드디어 내 차례다.",
+			"It’s my turn to play, right~?",
+			null,
+			"It's my turn, isn't it?",
+			"Kukuku, it's finally my turn."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715529,
+			null,
+			"芽衣握紧了刀。",
+			"芽衣は刀を握りしめた。",
+			"메이는 칼을 꽉 쥐었다.",
+			"Mei tightened the grip on her sword.",
+			null,
+			"Mei's grip on the knife tightened.",
+			"Mei gripped her sword."
+		],
+		[
+			"msg",
+			715530,
+			null,
+			"在菲米莉丝的情报中，这种怪物甚至能控制已死之人的尸体。",
+			"フェミリスの情報によれば、この怪物は死体すらも操れるそうだ。",
+			"페미리스의 정보에 따르면, 이 괴물은 시체까지도 조종할 수 있다고 한다.",
+			"Based on the information Femiris' provided, this kind of monster could even control the corpses of dead people.",
+			null,
+			"In Femiris' information, this monster can even control the bodies of people who are already dead.",
+			"According to Femiris' information, this monster can even manipulate corpses."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				214,
+				0,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715531,
+			null,
+			"<color=#7866A2FF>得除掉这些怪物……</color>",
+			"<color=#7866A2FF>この怪物たちを倒さなければならない……。</color>",
+			"<color=#7866A2FF>이 괴물들을 쓰러뜨려야 한다…….</color>",
+			"<color=#7866A2FF>I have to get rid of these monsters......</color>",
+			null,
+			"<color=#7866A2FF>Gotta get rid of these monsters ......</color>",
+			"<color=#7866A2FF>We must defeat these monsters ....... </color>"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715532,
+			null,
+			"诶？",
+			"えっ？",
+			"엣?",
+			"Eh?",
+			null,
+			"Eh?",
+			"What?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715533,
+			null,
+			"另一个自己以雷之律者的姿态，出现在芽衣面前。",
+			"もう一人の雷の律者の姿をした人物が芽衣の前に現われた。",
+			"또 다른 번개의 율자를 닮은 인물이 메이 앞에 나타났다.",
+			"Her other self appeared in front of Mei as the Herrscher of Thunder.",
+			null,
+			"Another self appeared before Mei as the Herrscher of Thunder.",
+			"Another figure in the form of a Herrscher of Thunder appeared before Mei."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				214,
+				0,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715534,
+			null,
+			"<color=#7866A2FF>你是这么想的，对吧？</color>",
+			"<color=#7866A2FF>そう思っている。そうだな？</color>",
+			"<color=#7866A2FF>그렇게 생각하고 있지. 그렇지?</color>",
+			"<color=#7866A2FF>That's what you're thinking, right?</color>",
+			null,
+			"<color=#7866A2FF> You do, don't you? </color",
+			"<color=#7866A2FF>I think so. Right? </color>"
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715535,
+			null,
+			"呜……？？",
+			"えっ……？？",
+			"엣……??",
+			"Huh….?",
+			null,
+			"Woo ......?",
+			"What, ......?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"black"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715536,
+			null,
+			"感芽衣觉自己被关进了一尊透明的雕像里，根本无法反抗自己身体的任何动作。",
+			"芽衣は透明な彫像の中に閉じ込められたかのような全身が拘束されている感覚に陥り、自分の体のどのような動きにも抵抗できなくなった。",
+			"메이는 투명한 조각상 안에 갇힌 것처럼 온몸이 구속당한 느낌에 빠져, 자신의 몸을 움직이려 해도 저항할 수 없게 되었다.",
+			"Mei felt that she was locked into a transparent statue, and she could not resist the movements her body began to do whatsoever.",
+			null,
+			"Senshi Mei felt like she was locked into a transparent statue, unable to resist any movement of her body at all.",
+			"Mei felt as if her entire body was restrained, as if she were trapped inside a transparent statue, unable to resist any movement of her own body."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715537,
+			null,
+			"九霄和芽衣姐姐兵分两路，前往力场发射器的位置，并除掉途中的怪物。",
+			"九霄と芽衣姉様は二手に分かれ、フィールド発射装置の場所に向かい、途中に現われる怪物を倒してください。",
+			"큐쇼와 메이 언니는 두 갈래로 나뉘어 필드 발사 장치가 있는 곳으로 향하고, 길에 나타나는 괴물들을 처치하세요.",
+			"Kyuushou and Mei-sama split up in two, they're heading to the location of the Force Field emitter and are getting rid of the monsters on the way.",
+			null,
+			"Kyuushou and Mei-san split up and head to the location of the force field emitter and get rid of the monsters on the way.",
+			"Kyuushou and sister Mei, please split up and head to the location of the field launcher and defeat the monsters that appear along the way."
+		],
+		[
+			"msg",
+			715538,
+			null,
+			"因为我们仍在靠近月球，为了应对中途出现的幻觉——",
+			"まだ月に近づいているので、途中で現われる幻覚に対処するため——",
+			"아직 달에 가까워지고 있기 때문에, 도중에 나타나는 환각에 대처하기 위해——",
+			"Because we're still approaching the Moon, in order to cope with the hallucinations that will appear midway-",
+			null,
+			"Because we're still approaching the moon, and in response to a hallucination halfway through--",
+			"We are still approaching the moon and dealing with the hallucinations that appear along the way."
+		],
+		[
+			"msg",
+			715539,
+			null,
+			"宁蒂，希儿，分别陪着芽衣姐姐和九霄。",
+			"ニンディとゼーレはそれぞれ芽衣姉様と九霄に同行してください。",
+			"닌디와 제레는 각각 메이 언니와 큐쇼를 따라가 주세요.",
+			"Ninti, Seele, accompany Mei-sama and Kyuushou respectively.",
+			null,
+			"Ninti, Seele, accompanied Mei's sister and Kyuushou respectively.",
+			"Ninti and Seele should accompany Sister Mei and Kyuushou respectively."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715540,
+			null,
+			"好。",
+			"はい。",
+			"네.",
+			"Right.",
+			null,
+			"Good.",
+			"Yes."
+		],
+		[
+			"speaker",
+			320411
+		],
+		[
+			"portraits",
+			[
+				30270,
+				1,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715541,
+			null,
+			"没问题，姐姐。",
+			"大丈夫、お姉ちゃん。",
+			"괜찮아, 언니.",
+			"No problem, oneechan.",
+			null,
+			"No problem, sister.",
+			"It's okay, sister."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				665,
+				6,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715542,
+			null,
+			"烦死了！我好想杀点什么！",
+			"おい、ボクは自由に暴れても良いのか？何かぶっ殺してやりたい気分だ！",
+			"야, 나는 마음껏 날뛰어도 되는 거야? 뭔가 죽여버리고 싶은 기분이야!",
+			"So annoying! I want to kill something so badly!",
+			null,
+			"It's so annoying! I want to kill something so bad!",
+			"Hey, am I free to run amok? I feel like killing him!"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715543,
+			null,
+			"不行！芽██律者核██不稳定！",
+			"ダメ！芽██律者のコア██不安定よ！",
+			"안 돼! 메이██율자의 코어██불안정해!",
+			"No! Me██'s Herrscher C██ is unstable!",
+			null,
+			"No way! The Herrscher nucleus is unstable!",
+			"Nope! It's unstable, bud \"\"\" the Herrscher's core \"\"\"!"
+		],
+		[
+			"msg",
+			715544,
+			null,
+			"██衍生体会控制██！风███已经被██了！",
+			"██派生体は██を操るの！風█████は██されてしまったわ！",
+			"██파생체는██를 조종하는 거야! 바람█████는██되어 버렸어!",
+			"The Will Derivatives can control ██! The ██ of the Wind has been ██!",
+			null,
+			"\" Derivatives will control the \"! The wind \"\" has been \"\"!",
+			"The \"\" derivative body controls the \"\"\"! Wind █████ has been \"\"\"ed!"
+		],
+		[
+			"msg",
+			715545,
+			null,
+			"大█！你们█么了！听█说话█，喂！！",
+			"みん█！どうし█の！聞こ█て█の？ちょっと！！",
+			"다들█! 무슨█야! 들리█니? 잠깐!!",
+			"Da█! What's ██ you guys?! Liste█ to me█! Hey!!!",
+			null,
+			"Great! What's wrong with you guys? Listen to me, hey!",
+			"Min-\"! What's going on? You hear that? Hey!"
+		],
+		[
+			"msg",
+			715546,
+			null,
+			"那你们小心一点。",
+			"じゃあ気を付けてね。",
+			"그럼 조심해.",
+			"Then be careful!",
+			null,
+			"Then you guys be careful.",
+			"Then be careful."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715547,
+			null,
+			"在芽衣的耳中，博士的声音有两个。",
+			"芽衣の耳には博士の声が2つになって聞こえた。",
+			"메이의 귀에는 박사의 목소리가 두 개로 들렸다.",
+			"In Mei’s ears, she heard a double of the Doctor's voice.",
+			null,
+			"To Mei's ears, the Doctor's voice was twofold.",
+			"Mei heard the doctor's voice in two different voices in her ears."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				665,
+				6,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715548,
+			null,
+			"哼，本大爷的战斗，轮不到海藻头关心。",
+			"フンッ、ボクの戦いだ。ワカメ頭に口を挟まれる筋合いはない。",
+			"흥, 이건 내 싸움이다. 다시마 머리 따위가 끼어들 자격 없어.",
+			"Hmph, it's my battle, it's not seaweed head's turn to care about it.",
+			null,
+			"Hmph, it's not Seaweed Head's turn to care about my lord's battle.",
+			"Hmmm...it's my fight. I don't need to let Seaweed heads interfere with my fight."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				214,
+				0,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715549,
+			null,
+			"<color=#7866A2FF>我会解决它们的，博士。</color>",
+			"<color=#7866A2FF>あいつらを倒してみせるわ、博士。</color>",
+			"<color=#7866A2FF>그들을 반드시 쓰러뜨릴 거예요, 박사.</color>",
+			"<color=#7866A2FF>I'll fix them, Doctor.</color>",
+			null,
+			"<color=#7866A2FF>I'll fix them, Doc. </color>",
+			"<color=#7866A2FF>We'll beat those guys, Doc. </color>"
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715550,
+			null,
+			"这到底是？！！",
+			"これは一体！？",
+			"이게 대체 뭐지?!",
+			"What the hell's going on!?",
+			null,
+			"What the hell is this?!",
+			"What the hell is this!"
+		],
+		[
+			"msg",
+			715551,
+			null,
+			"（我能看到她，说明我此时在幻觉中……）",
+			"（彼女が見えるということは、今、私は幻覚の中にいる……）",
+			"(그녀가 보인다는 건, 지금 내가 환각 속에 있다는 뜻...)",
+			"(I can see her, which means I'm in a hallucination at the moment...)",
+			null,
+			"(I can see her, which means I'm in a hallucination at this point ......)",
+			"(If I can see her, then I am now in a hallucination: ......)"
+		],
+		[
+			"msg",
+			715552,
+			null,
+			"（难道说……）",
+			"（まさか……）",
+			"(설마...)",
+			"(Does that mean...)",
+			null,
+			"(Does it say ......)",
+			"(No way. ......)"
+		],
+		[
+			"msg",
+			715553,
+			null,
+			"糟了，力场没有被发射过——唔！！",
+			"しまった。フィールドはまだ発射されていないから——うっ！！",
+			"젠장. 필드가 아직 발사되지 않아서 ——윽!!",
+			"Oh no, the Force Field hasn't been fired–Ugh!",
+			null,
+			"Crap, the force field hadn't been fired - whew!",
+			"Sheesh. Because the field hasn't been fired yet - ugh!"
+		],
+		[
+			"bg",
+			"black"
+		],
+		[
+			"portraits",
+			[
+				214,
+				0,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715554,
+			null,
+			"<color=#7866A2FF>对，并不是只有你在幻觉中。</color>",
+			"<color=#7866A2FF>いかにも。幻覚の中にいるのはあなただけではない。</color>",
+			"<color=#7866A2FF>그래. 환각 속에 있는 건 당신만이 아니야.</color>",
+			"<color=#7866A2FF>Indeed, you're not the only one in the hallucination.</color>",
+			null,
+			"<color=#7866A2FF>Yeah, you're not the only one in the illusion. </color",
+			"<color=#7866A2FF>How. You are not the only one in the hallucination. </color>"
+		],
+		[
+			"msg",
+			715555,
+			null,
+			"<color=#7866A2FF>可如果不是因为看到了我，你又怎么确定自己不在幻觉中？</color>",
+			"<color=#7866A2FF>しかし、私が見えていないからといって、どうして自分が幻覚の中にいないと言い切れる？</color>",
+			"<color=#7866A2FF>하지만 네가 나를 보지 못한다고 해서, 어떻게 네가 환각 속에 있지 않다고 확신할 수 있지?</color>",
+			"<color=#7866A2FF>But if it weren't for seeing me, how would you be sure you weren't in a hallucination? </color>",
+			null,
+			"<color=#7866A2FF>But if it wasn't for seeing me, how can you be sure you're not hallucinating? </color",
+			"<color=#7866A2FF>But how can you be sure you are not in a hallucination just because you cannot see me? </color>"
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715556,
+			null,
+			"我不会轻易被你控制的……",
+			"あなたなんかに簡単に操られたりしない……。",
+			"네놈에게 쉽게 조종당하지 않아...",
+			"I won't be controlled by you that easily...",
+			null,
+			"I will not be easily controlled by you ......",
+			"I am not easily manipulated by you. ......"
+		],
+		[
+			"msg",
+			715557,
+			null,
+			"我……我会……",
+			"わ……私は……。",
+			"나...나는....",
+			"I... I will...",
+			null,
+			"I ...... will ......",
+			"Wow ...... I am ......."
+		],
+		[
+			"bg",
+			"black"
+		],
+		[
+			"portraits",
+			[
+				216,
+				0,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715558,
+			null,
+			"<color=#7866A2FF>消灭它们。</color>",
+			"<color=#7866A2FF>あいつらを倒す。</color>",
+			"<color=#7866A2FF>저 녀석들을 쓰러뜨린다.</color>",
+			"<color=#7866A2FF>Eliminate them.</color>",
+			null,
+			"<color=#7866A2FF>Exterminate them. </color>",
+			"<color=#7866A2FF>We'll take those guys down. </color>"
+		]
+	],
+	"10105": [
+		[
+			"bgm",
+			48
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				30453,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715559,
+			null,
+			"（呻吟）呀啊A啊啊呀AA呀呀啊啊aa啊呀呀呀——",
+			"（うめき声）ぎゃあアああああアアきゃああああァァあああきゃあああ——",
+			"(신음소리) 꺄아아아아아아악 꺄아아아아아아——",
+			"(Groaning) AAAAAAAAGHHHHHHHHAAAAAAAAAAAA-",
+			null,
+			"",
+			"(groaning) Geeaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715560,
+			null,
+			"（挥刀）",
+			"（刀を振るう）",
+			"(칼을 휘두르는 소리)",
+			"(Sword Slash)",
+			null,
+			"(SWINGING)",
+			"(waving sword)"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715561,
+			null,
+			"切口处喷出了红色的黏稠液体。",
+			"切り口から粘性の赤い液体が噴き出した。",
+			"자른 부분에서 점성 있는 붉은 액체가 분출했다.",
+			"A red, sticky liquid spurted out from the incision.",
+			null,
+			"A red, viscous liquid erupted from the incision.",
+			"A viscous red liquid gushed out of the cut."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				30453,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715563,
+			null,
+			"芽衣三步并作两步，一边挥刀一边走，脚步没有丝毫放缓，每一刀都干净利落，一击解决，没有多余的动作。",
+			"芽衣は大股で歩きながら刀を振るった。その歩みに乱れは無く、無駄な動きを一切せず正確に刀を振るい、一撃で相手を倒していった。",
+			"메이는 큰 걸음으로 걷면서 칼을 휘둘렀다. 그 걸음에 흐트러짐은 없었고, 쓸데없는 동작 없이 정확하게 칼을 휘둘러 한 방에 상대를 쓰러뜨렸다.",
+			"Mei took three steps forward and two steps back, swinging her sword while walking, without the slightest slowdown in her footwork, and each slash was clean and precise, finishing with a single blow, without superfluous movements.",
+			null,
+			"Mei took three steps, swinging her sword as she went, her feet not slowing down in the slightest, each slash clean and clear, resolving with a single blow, no unnecessary movement.",
+			"Mei swung her sword as she walked with a broad step. She swung her sword with precision and without any wasteful movements, and knocked down her opponent with a single blow."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				30453,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715564,
+			null,
+			"（惨叫）啊呀啊A啊AA呀呀啊呀啊a啊呀呀呀aaaa——",
+			"（悲鳴）あぎゃあアあアアああああァああああアァァァ——",
+			"(비명) 아아아악 아아아아아아악——",
+			"(Screaming) AGHAAAAAAAAAAAAAAAAAA-",
+			null,
+			"(GRUNTING) Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa--",
+			"(Screaming) Aghhhhhhhhhhhhhh!"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715565,
+			null,
+			"（突刺）",
+			"（突き刺す）",
+			"(찌르는 소리)",
+			"(Stab)",
+			null,
+			"(SURRENDERING)",
+			"(STICKING)"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				30453,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715566,
+			null,
+			"（呻吟）啊啊……",
+			"（うめき声）アァァ……。",
+			"(신음소리) 아아아......",
+			"(Moaning) AAHH…",
+			null,
+			"(GROANS) Ahhhh ......",
+			"(groans) Aaaah. ......."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715567,
+			null,
+			"这种叫声是怎么回事？",
+			"この叫び声は一体何事ですか？",
+			"이 비명소리는 대체 무슨 일입니까?",
+			"What's this crying sound?",
+			null,
+			"What's with the grunting?",
+			"What is all this shouting about?"
+		],
+		[
+			"msg",
+			715568,
+			null,
+			"简直就像临死前的……",
+			"まるで死にかけているかのようです……。",
+			"마치 죽어가는 것 같습니다......",
+			"It's almost like it's dying...",
+			null,
+			"It's almost like a dying ......",
+			"It looks as if it is dying. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715569,
+			null,
+			"（挥刀）",
+			"（刀を振るう）",
+			"(칼을 휘두르다)",
+			"(Sword Slash)",
+			null,
+			"(SWINGING)",
+			"(waving sword)"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715570,
+			null,
+			"芽衣姐姐，那里没有敌人。",
+			"芽衣さん、そこに敵はいません。",
+			"메이 씨, 거기에는 적이 없어요.",
+			"Mei-sama, there's no enemy there.",
+			null,
+			"Mei-san, there's no enemy there.",
+			"Mei, there is no enemy there."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715571,
+			null,
+			"（停刀）",
+			"（刀を止める）",
+			"(칼을 멈추다)",
+			"(Stops her sword)",
+			null,
+			"(knife stops)",
+			"(STOPPING SWORD)"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715572,
+			null,
+			"芽衣姐姐？",
+			"芽衣さん？",
+			"메이 씨?",
+			"Mei-sama?",
+			null,
+			"Mei?",
+			"Mei?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715573,
+			null,
+			"（小声）至少，将这些怪物……",
+			"（小声で）少なくとも、この怪物たちは……。",
+			"(작은 소리로) 적어도, 이 괴물들은.......",
+			"(Whispering) At least, these monsters…",
+			null,
+			"(Whispering) At the very least, will these monsters ......",
+			"(whispering) At least these monsters are ......."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715574,
+			null,
+			"芽衣给人的感觉变得像机器一样，而且眼睛好像变红了。#n但与此同时，宁蒂感觉眼睛有点酸。",
+			"芽衣はロボットのように刀を振るい続ける。そして、その目は赤くなっていた。#n同時にニンディも目に違和感を覚えた。",
+			"메이는 로봇처럼 칼을 계속 휘두르고 있었다. 그리고 그녀의 눈은 붉어져 있었다.#n동시에 닌디도 눈에 이질감을 느꼈다.",
+			"Mei gave out the impression of a machine, her eyes seemed to have turned red. But at the same time, Ninti's eyes began to feel sore.",
+			null,
+			"Mei gave off the impression of becoming like a machine, and her eyes seemed to have turned red. But at the same time, Ninti felt her eyes a little sore.",
+			"Mei continued to swing her sword like a robot. And her eyes were red. At the same time, Ninti also felt something strange in her eyes."
+		],
+		[
+			"choice",
+			[
+				715576,
+				null,
+				"揉眼睛",
+				"目をこする",
+				"눈을 비비다",
+				"Rub your eyes"
+			],
+			[
+				715577,
+				null,
+				"揉眼睛",
+				"目をこする",
+				"눈을 비비다",
+				"Rub your eyes"
+			],
+			[
+				715578,
+				null,
+				"揉眼睛",
+				"目をこする",
+				"눈을 비비다",
+				"Rub your eyes"
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			10106,
+			10106,
+			10106
+		]
+	],
+	"10106": [
+		[
+			"bgm",
+			48
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715579,
+			null,
+			"宁蒂揉了揉眼睛，确认自己是看错了。",
+			"ニンディは目をこすり、自分の見間違いであることを確認した。",
+			"닌디는 눈을 비비며 자신의 착각임을 확인했다.",
+			"Ninti rubbed her eyes to make sure she wasn’t seeing things.",
+			null,
+			"Ninti rubbed her eyes to make sure she was mistaken.",
+			"Ninti rubbed her eyes and confirmed that she had seen wrong."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715580,
+			null,
+			"没受伤吧，宁蒂？",
+			"ニンディちゃん、怪我はない？",
+			"닌디, 다친 데 없어?",
+			"You're not hurt, are you, Ninti?",
+			null,
+			"You're not hurt, are you, Ninti?",
+			"Ninti, are you hurt?"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715581,
+			null,
+			"没有……",
+			"大丈夫です……。",
+			"괜찮아요......",
+			"No…",
+			null,
+			"No ......",
+			"It's okay. ......."
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715582,
+			null,
+			"（还是原来的芽衣姐姐）",
+			"（やはりいつもの芽衣さんですね）",
+			"(역시 평소처럼 메이 씨네요)",
+			"(Still the same Mei-sama…)",
+			null,
+			"(Still the same Mei)",
+			"(It's always Mei, after all.)"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715583,
+			null,
+			"（通讯）小心一点。意志衍生体会寄生飞船，据说还会寄生人体。",
+			"（通信）気を付けて。意志派生体は宇宙船に寄生するの。さらに人体にも寄生するらしいわ。",
+			"(통신) 조심해. 의지파생체는 우주선에 기생하는 거야. 더 나아가 인체에도 기생한다던데.",
+			"(Comms) Be careful. Will Derivatives can parasitize the spacecraft and can parasitize the human body.",
+			null,
+			"(communication) Be careful. Will derivatives can parasitize spaceships and are rumored to parasitize humans.",
+			"(Communication) Be careful. The will-derivative is a parasite of spaceships. They say they can also parasitize the human body."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				30453,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715584,
+			null,
+			"（呻吟）呀啊A……AA……呀——",
+			"（うめき声）ギャアァ……アァ……ア——",
+			"(신음소리) 꺄아...... 아아...... 아——",
+			"(Moaning) Yaahg... AAAGHH-",
+			null,
+			"(GROANS) Yaaaahhhh A......AA...... yaaaahhhh--",
+			"(groans) Gaaaah ......aaaah ......aaaah--"
+		],
+		[
+			"msg",
+			715585,
+			null,
+			"<color=#7866A2FF>绝望是转化的催化剂。</color>",
+			"<color=#7866A2FF>絶望は変化の触媒。</color>",
+			"<color=#7866A2FF>절망은 변화의 촉매제.</color>",
+			"<color=#7866A2FF> Desperation is a catalyst for transformation.</color>",
+			null,
+			"<color=#7866A2FF>Desperation is a catalyst for transformation. </color>",
+			"<color=#7866A2FF>Despair is the catalyst for change. </color>"
+		],
+		[
+			"msg",
+			715586,
+			null,
+			"<color=#7866A2FF>还不够。</color>",
+			"<color=#7866A2FF>まだ足りない。</color>",
+			"<color=#7866A2FF>아직 부족해.</color>",
+			"<color=#7866A2FF>This is not enough. </color>",
+			null,
+			"<color=#7866A2FF>It's not enough. </color>",
+			"<color=#7866A2FF>It's still not enough. </color>"
+		],
+		[
+			"msg",
+			715587,
+			null,
+			"<color=#7866A2FF>需要更多的意识素材。</color>",
+			"<color=#7866A2FF>もっと多くの意識が必要だ。</color>",
+			"<color=#7866A2FF>더 많은 의식이 필요하다.</color>",
+			"<color=#7866A2FF>More consciousness material is needed. </color>",
+			null,
+			"<color=#7866A2FF>Need more awareness material. </color>",
+			"<color=#7866A2FF>Much more awareness is needed. </color>"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715588,
+			null,
+			"（补刀）",
+			"（とどめを刺す）",
+			"(최후의 일격을 가하다)",
+			"(Sheathes Sword)",
+			null,
+			"(mending)",
+			"(STAMMERING)"
+		]
+	],
+	"10107": [
+		[
+			"bgm",
+			154
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715589,
+			null,
+			"（系统音）崩坏隔离力场发射器已恢复运作……",
+			"（システム音）崩壊隔離フィールド発射装置、運転再開……。",
+			"(시스템 음성) 붕괴 격리 필드 발사 장치, 운전 재개......",
+			"(System) Honkai Isolation Force Field Emitter is back in operation...",
+			null,
+			"(SYSTEM TONE) Honkai Isolated Force Field Emitters are back in operation ......",
+			"(System sounds) Honkai isolated field launcher, operation resumed. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715590,
+			null,
+			"（惊觉）？！",
+			"！？",
+			"!?",
+			"(Alarmed)?!",
+			null,
+			"(SURPRISING)?",
+			"!"
+		],
+		[
+			"msg",
+			715591,
+			null,
+			"噶啊……噶啊……",
+			"ハァッ……ハァッ……。",
+			"하아…… 하아…….",
+			"Kahh... Agh....",
+			null,
+			"Kaaa...... Kaaa......",
+			"Huh ...... huh ...... huh ......."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715592,
+			null,
+			"没事吧？芽衣姐姐。",
+			"大丈夫ですか？芽衣さん。",
+			"괜찮아요? 메이 씨.",
+			"Is everything okay, Mei-sama?",
+			null,
+			"Is everything okay? Mei-san.",
+			"Are you okay? Mei."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715593,
+			null,
+			"（通讯）芽衣！",
+			"（通信）芽衣！",
+			"(통신)메이!",
+			"(Comms) Mei!",
+			null,
+			"(Communication) Mei!",
+			"(Correspondence) Mei!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715594,
+			null,
+			"博士！大家有危……",
+			"博士！みんなが危ない……。",
+			"박사님! 모두가 위험해…….",
+			"Doctor! Everyone is in danger...",
+			null,
+			"DR! Everyone is in danger ......",
+			"Doctor! Everyone is in danger. ......"
+		],
+		[
+			"msg",
+			715595,
+			null,
+			"有……有什么……来着？",
+			"えっと……なんだっけ……あら？",
+			"어라…… 뭐였지…… 어라?",
+			"There's... There's... What... Coming...?",
+			null,
+			"There's ...... what's ...... coming up?",
+			"Let's see, what's ......?"
+		],
+		[
+			"msg",
+			715596,
+			null,
+			"博士……不对，你真的是博士吗……宁蒂真的是宁蒂吗……",
+			"博士……違う。あなたは本当に博士なの？ニンディちゃんは本当にニンディちゃんなの……？",
+			"박사님…… 아냐. 당신은 정말 박사님이 맞아? 닌디은 진짜 닌디인 거야……?",
+			"Doctor... No, are you really the Doctor... Is Ninti really Ninti...?",
+			null,
+			"Dr. ...... No, are you really Dr. ...... Is Ninti really Ninti ......",
+			"Dr. ...... different. Are you really Dr. Are you really Ninti, Ninti ......?"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715597,
+			null,
+			"（通讯）当然是！可就算我这么说……",
+			"（通信）もちろんよ！でも、私がそう言っても……。",
+			"(통신)물론이야! 하지만 내가 그렇게 말해도…….",
+			"(Comms) Of course I am. Though even if I say that…",
+			null,
+			"(Newsletter) Of course it is! But even if I say so ......",
+			"(Correspondence) Of course! But even if I say so, you can still find me at ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				214,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715598,
+			null,
+			"<color=#7866A2FF>那就好。</color>",
+			"<color=#7866A2FF>ならよかった。</color>",
+			"<color=#7866A2FF>라면 좋았을 텐데. </color>",
+			"<color=#7866A2FF>Then it's fine.</color>",
+			null,
+			"<color=#7866A2FF>That's good. </color>",
+			"<color=#7866A2FF> would have been nice. </color>"
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715599,
+			null,
+			"诶？？",
+			"えっ？",
+			"엣?",
+			"Huh???",
+			null,
+			"Eh?",
+			"What?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"black"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715600,
+			null,
+			"原本自己站着的位置，又被另一个自己替代了。",
+			"自分が立っていたはずの場所は、もう一人の自分に取って代られていた。",
+			"내가 서 있던 자리는 또 다른 나에게 빼앗긴 상태였다.",
+			"Where one stood, another self took one's place.",
+			null,
+			"The place where one stood has been replaced by another self.",
+			"The place where I should have been standing had been replaced by another me."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715601,
+			null,
+			"（通讯）芽衣想得简单真是太好了！",
+			"（通信）芽衣が難しく考えていなくてよかったわ！",
+			"(통신)메이가 어렵게 생각하지 않아서 다행이야!",
+			"(Comms) It's so nice of Mei to think so simply!",
+			null,
+			"(COMMUNICATIONS) It's so nice of Mei to think simple!",
+			"（I'm glad Mei wasn't thinking too hard!"
+		],
+		[
+			"msg",
+			715602,
+			null,
+			"（通讯）刚才你和九霄突然冲了出去，幸好有宁蒂和杏跟着你们。",
+			"（通信）さっき、あなたと九霄が急に飛び出していったでしょう。ニンディとシンが追いついたからよかったけど。",
+			"(통신)아까, 너와 큐쇼가 갑자기 뛰쳐나갔잖아. 닌디와 신이 따라잡아서 다행이었지만.",
+			"(Comms) Just now you and Kyuushou suddenly rushed out, fortunately there were Ninti and Sin following you.",
+			null,
+			"(Comm.) Just now, you and Kyuushou suddenly rushed out, fortunately Ninti and Sin followed you.",
+			"(Communication) Earlier you and Kyuushou took off in a hurry. I'm glad Ninti and Sin caught up with you."
+		],
+		[
+			"msg",
+			715603,
+			null,
+			"（通讯）虽然我不知道你们是怎么做到的，在幻觉中把敌人全消灭了。九霄和杏也把力场发射器成功恢复了。",
+			"（通信）あなたたちがどうやったのか分からないけど、幻覚の中の敵はすべて倒して、九霄とシンもフィールド発射装置を再起動できたわ。",
+			"(통신)너희들이 어떻게 했는지 모르겠지만, 환각 속의 적은 모두 쓰러뜨리고 큐쇼와 신도 필드 발사 장치를 재가동할 수 있었어.",
+			"(Comms) Although I don't know how you managed to wipe out all the enemies in the hallucination. Kyuushou and Sin also managed to recover the Force Field Emitter.",
+			null,
+			"(Comms) Though I don't know how you guys managed to wipe out all the enemies in an illusion. Kyuushou and Sin also managed to get the force field emitters back up.",
+			"(Communication) I don't know how you guys did it, but we were able to defeat all the enemies in the hallucination and Kyuushou and Sin were able to reactivate the field launchers."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715604,
+			null,
+			"等下……",
+			"待って……。",
+			"잠깐.......",
+			"Wait…",
+			null,
+			"Wait ......",
+			"Wait. ......."
+		],
+		[
+			"msg",
+			715605,
+			null,
+			"和九霄一起的不是希儿吗？怎么变成了杏……",
+			"九霄ちゃんと一緒だったのはゼーレちゃんでしょ？どうしてシンちゃんなの……。",
+			"큐쇼랑 함께했던 건 제레잖아? 왜 신이랑.......",
+			"Isn't Seele with Kyuushou? When did it become Sin...?",
+			null,
+			"Wasn't Seele with Kyuushou? How did it become Sin ......",
+			"You were with Kyuushou, right, Seele? Why Sin? ......."
+		],
+		[
+			"bg",
+			"black"
+		],
+		[
+			"portraits",
+			[
+				214,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715606,
+			null,
+			"<color=#7866A2FF>和九霄一起的不是希儿吗？怎么变成了杏……</color>",
+			"<color=#7866A2FF>九霄ちゃんと一緒だったのはゼーレちゃんでしょ？どうしてシンちゃんなの……。</color>",
+			"<color=#7866A2FF>큐쇼랑 함께했던 건 제레잖아? 왜 신이랑.......</color>",
+			"<color=#7866A2FF>Isn't Seele with Kyuushou? When did it become Sin....?</color>",
+			null,
+			"<color=#7866A2FF>Wasn't Seele with Kyuushou? How did it become Sin ......</color>",
+			"<color=#7866A2FF>You were with Kyuushou, right Seele? Why are you Sin, ....... </color>"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715607,
+			null,
+			"（通讯）一直都是杏啊？",
+			"（通信）最初からシンよ？",
+			"(통신)처음부터 신이야.",
+			"(Comms) It was always Sin, right?",
+			null,
+			"（It's always been Sin, hasn't it?",
+			"（Sin from the beginning?"
+		],
+		[
+			"msg",
+			715608,
+			null,
+			"（通讯）你看到的是幻觉吧……",
+			"（通信）あなたが見たのは幻覚でしょう……。",
+			"(통신)네가 본 건 환각이었을 거야.......",
+			"(Comms) What you saw was a Hallucination, right...?",
+			null,
+			"(Newsletter) You're seeing an illusion, right? ......",
+			"(Correspondence) What you saw must have been a hallucination. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				214,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715609,
+			null,
+			"<color=#7866A2FF>也对……</color>",
+			"<color=#7866A2FF>それもそうね……。</color>",
+			"<color=#7866A2FF>그것도 그렇네.......</color>",
+			"<color=#7866A2FF>also Right......</color>",
+			null,
+			"<color=#7866A2FF>Also to ......</color>",
+			"<color=#7866A2FF>That's true too. ...... </color>"
+		],
+		[
+			"msg",
+			715610,
+			null,
+			"<color=#7866A2FF>那个时候我在幻觉中，现在已经不是幻觉了。</color>",
+			"<color=#7866A2FF>あの時の私は幻覚の中にいた。今はもう幻覚を見ていないわ。</color>",
+			"<color=#7866A2FF>그때의 나는 환각 속에 있었어. 이젠 더 이상 환각을 보지 않아.</color>",
+			"<color=#7866A2FF>I was in a hallucination at that time, but now I'm not.</color>",
+			null,
+			"<color=#7866A2FF>I was in a hallucination at that time, and I'm not a hallucination anymore. </color",
+			"<color=#7866A2FF>I was in a hallucination then. Now I'm not hallucinating anymore. </color>"
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				216,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715611,
+			null,
+			"开什么玩笑……",
+			"なんの冗談なの……。",
+			"무슨 농담이야.......",
+			"Are you kidding me...?",
+			null,
+			"Are you kidding me ......",
+			"What a joke. ......"
+		],
+		[
+			"msg",
+			715612,
+			null,
+			"那个人不是我！大家！不是我啊！",
+			"それは私じゃないわ！みんな！それは私じゃないの！",
+			"그건 내가 아니야! 여러분! 그건 내가 아니라고!",
+			"That person is not me! Everyone! It's not me!",
+			null,
+			"That guy wasn't me! Everyone! It's not me!",
+			"That's not me! Guys! That's not me!"
+		],
+		[
+			"bg",
+			"black"
+		],
+		[
+			"portraits",
+			[
+				214,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715613,
+			null,
+			"<color=#7866A2FF>没用的。</color>",
+			"<color=#7866A2FF>無駄よ。</color>",
+			"<color=#7866A2FF>소용없어.</color>",
+			"<color=#7866A2FF>It's useless.</color>",
+			null,
+			"<color=#7866A2FF>It doesn't work. </color>",
+			"<color=#7866A2FF>No use. </color>"
+		],
+		[
+			"msg",
+			715614,
+			null,
+			"<color=#7866A2FF>清醒不过是一种错觉，你们全都在幻觉中。</color>",
+			"<color=#7866A2FF>覚醒は一種の錯覚でしかない。あなたたちは全員が幻覚の中にいる。</color>",
+			"<color=#7866A2FF>각성은 일종의 착각에 불과해. 너희들은 모두 환각 속에 있어.</color>",
+			"<color=#7866A2FF>Sobriety is but an illusion, and you are all in an illusion. </color>",
+			null,
+			"<color=#7866A2FF>Sobriety is but an illusion, and you are all in it. </color",
+			"<color=#7866A2FF>Awakening is only a kind of illusion. You are all in an illusion. </color>"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715615,
+			null,
+			"（通讯）总之，任务完成，",
+			"（通信）いずれにせよ、任務完了です。",
+			"(통신)어쨌든, 임무 완료입니다.",
+			"(Comms) In short, mission accomplished.",
+			null,
+			"(Communication) In short, mission accomplished.",
+			"(Communication) In any case, mission accomplished."
+		],
+		[
+			"msg",
+			715616,
+			null,
+			"（通讯）芽衣姐姐和宁蒂可以回来了。",
+			"（通信）芽衣姉様とニンディは戻ってきてください。",
+			"(통신)메이 언니와 닌디는 돌아오세요.",
+			"(Comms) Mei and Ninti can come back now.",
+			null,
+			"(Comm.) Mei-san and Ninti can come back.",
+			"(Correspondence) Sister Mei and Ninti please come back."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715617,
+			null,
+			"好。",
+			"はい。",
+			"네.",
+			"Right.",
+			null,
+			"Good.",
+			"Yes."
+		]
+	],
+	"10108": [
+		[
+			"bgm",
+			163
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"bg",
+			"CG10445"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715618,
+			null,
+			"（惊觉）？！",
+			"！？",
+			"!?",
+			"(Alarmed) ?!",
+			null,
+			"(SURPRISING)?",
+			"!"
+		],
+		[
+			"msg",
+			715619,
+			null,
+			"噶啊……噶啊……",
+			"ハァッ……ハァッ……。",
+			"하아...... 하아......",
+			"Kah… Agh…",
+			null,
+			"Kaaa...... Kaaa......",
+			"Huh ...... huh ...... huh ......."
+		],
+		[
+			"msg",
+			715620,
+			null,
+			"…………？？！！",
+			"…………？？！！",
+			"…………？？！！",
+			"…??!!",
+			null,
+			"............??!",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715621,
+			null,
+			"芽衣看到，船舱被崩坏能严重侵蚀。",
+			"芽衣はキャビンが崩壊エネルギーにひどく侵食されている有様を目にした。",
+			"메이는 캐빈이 붕괴 에너지에 심하게 침식당한 모습을 목격했다.",
+			"Mei saw the cabin, badly eroded by Honkai Energy.",
+			null,
+			"Mei saw that the cabin was badly eroded by the Honkai energy.",
+			"Mei saw that the cabin had been severely eroded by Honkai energy."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715622,
+			null,
+			"（狂敲键盘）啊啊啊！真的烦死了！",
+			"（狂ったようにキーボードをたたく）あああ！本当に面倒くさいわね！",
+			"(미친 듯이 키보드를 두드리며) 아아아! 정말 귀찮게 하네!",
+			"(Typing on the keyboard furiously) AAAH! So annoying!",
+			null,
+			"(pounding on keyboard furiously) Aaaahhhh! It's really annoying!",
+			"(Tapping madly on the keyboard) Ahh! That's a real pain in the ass!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715623,
+			null,
+			"博士！大家有危险！",
+			"博士！みんなが危ないわ！",
+			"박사님! 모두 위험해요!",
+			"Doctor! Everyone is in danger!",
+			null,
+			"The Doctor! Everyone is in danger!",
+			"Doctor! Everyone's in danger!"
+		],
+		[
+			"msg",
+			715624,
+			null,
+			"它想用幻觉让我们……",
+			"あいつは幻覚で私たちを……。",
+			"저 녀석이 환각으로 우리를…….",
+			"It wants to use the hallucinations to make us...",
+			null,
+			"It's trying to make us ...... with hallucinations",
+			"He's hallucinating us ......."
+		],
+		[
+			"msg",
+			715625,
+			null,
+			"让我们……诶？谁……让我们……怎么……",
+			"私たちを……あれ？誰が……私たちを……どうするのかしら……。",
+			"우리를…… 어라? 누가…… 우리를…… 어떻게 할까…….",
+			"Let's.... eh? Who... let's... how…",
+			null,
+			"Let's ...... eh? Who ...... let us ...... how ......",
+			"Who's going to ...... us? I wonder who ...... us ...... and what they're going to do with us ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				665,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715626,
+			null,
+			"你不记得了？！",
+			"忘れたのか！？",
+			"잊어버린 거야!?",
+			"Don’t you remember?!",
+			null,
+			"You don't remember?",
+			"You forgot!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715627,
+			null,
+			"呃……我，我想起来了。",
+			"えっ……あっ、思い出したわ。",
+			"엣…… 아, 생각났어.",
+			"Uh… I… Remembered…",
+			null,
+			"Uh ...... me, I remember.",
+			"What? ...... Oh, I remember now."
+		],
+		[
+			"msg",
+			715628,
+			null,
+			"意志衍生体寄生了力场发射器，但你和九霄把它们都……",
+			"意志派生体がフィールド発射装置に寄生したけど、あなたと九霄ちゃんがあいつらを全部……。",
+			"의지 파생체가 필드 발사 장치에 기생했지만, 당신과 큐쇼이 저 녀석들을 모두…….",
+			"The Will Derivatives parasitized the Force Field Emitter, but you and Kyuushou put them all…",
+			null,
+			"The Will Derivatives parasitized the force field emitters, but you and Kyuushou took them all ......",
+			"The will-derivative was parasitic on the field launcher, but you and Kyuushou are all over those guys: ......."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715629,
+			null,
+			"（狂敲键盘）意志衍生体黑入了飞船系统，虽然确实都被解决了，但残留的病毒程序要让飞船瘫痪了！",
+			"（狂ったようにキーボードをたたく）意志派生体が宇宙船のシステムにハッキングしたわ。全部やっつけたけど、残ったコンピューターウイルスが宇宙船をダウンさせようとしているの！",
+			"(미친 듯이 키보드를 두드리며) 의지 파생체가 우주선 시스템을 해킹했어. 모두 처리했지만, 남은 컴퓨터 바이러스가 우주선을 다운시키려고 하고 있어!",
+			"(Typing on the keyboard furiously) The Will Derivatives hacked into the ship's system, and while we did fix it, the residual virus programs are going to cripple the ship!",
+			null,
+			"(furiously tapping on keyboard) The will derivative hacked into the ship's systems, and while it did all get fixed, the residual virus program is going to cripple the ship!",
+			"(tapping madly on keyboard) A will-derivative has hacked into the spaceship's systems. I've taken out all of them, but the remaining computer virus is trying to bring down the spaceship!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV04_ElectricSound"
+		],
+		[
+			"msg",
+			715630,
+			null,
+			"操作面板上炸出了火花……",
+			"コントロールパネルから火花が飛び散った……。",
+			"컨트롤 패널에서 불꽃이 튀었다…….",
+			"Sparks exploded out of the operations panel.",
+			null,
+			"Sparks explode from the operating panel ......",
+			"Sparks flew from the control panel. ......"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715631,
+			null,
+			"啧，没救了！力场发生器和力场发射器都瘫痪了。",
+			"もう、ダメだわ！フィールド発生装置とフィールド発射装置が両方ともダウンした。",
+			"이젠, 안 돼! 필드 발생 장치와 필드 발사 장치가 둘 다 다운됐어.",
+			"Guh, it's hopeless! The Force Field Generators and Emitters are completely paralyzed.",
+			null,
+			"Gee, it's hopeless! Both the force field generator and the force field emitter are paralyzed.",
+			"I'm screwed! Both the field generator and the field launcher are down."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715632,
+			null,
+			"我们去替换维修用的部件。",
+			"修理用の部品に差し替えましょう。",
+			"수리용 부품으로 교체하자.",
+			"We'll go replace the parts for the repair.",
+			null,
+			"Let's go replace the parts for the repair.",
+			"Replace it with a repair part."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715633,
+			null,
+			"等等！全都瘫痪……",
+			"待って！全部ダウンしたということは……",
+			"잠깐! 전부 다운됐다는 건……",
+			"Wait! Completely paralyzed…",
+			null,
+			"And so on! All paralyzed ......",
+			"Wait! If it's all down, that means ......"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715634,
+			null,
+			"（扯出线路）就是说，我们完全暴露在崩坏能环境里了！",
+			"（ケーブルを引っ張って）つまり、私たちは完全に崩壊エネルギーにさらされているってわけ！",
+			"(케이블을 당기며) 즉, 우리는 완전히 붕괴 에너지에 노출돼 있다는 거야!",
+			"(Pulling out wiring) That means we're completely exposed to the Honkai Energy rich environment!",
+			null,
+			"(pulls out line) That means we're completely exposed to the Honkai energy environment!",
+			"(Pulls cable) So we're totally exposed to Honkai energy!"
+		],
+		[
+			"msg",
+			715635,
+			null,
+			"这样下去大家又要——",
+			"このままだと、またみんなが——",
+			"이대로라면, 또 모두가 ——",
+			"At this rate, everyone is going to-",
+			null,
+			"At this rate, everyone's gonna--",
+			"If we don't do this, everyone else will--again."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV04_ElectricSound"
+		],
+		[
+			"msg",
+			715636,
+			null,
+			"完了！连协议都——",
+			"ダメだわ！プロトコルも——",
+			"안 돼! 프로토콜도 ——",
+			"It’s over! Even the protocol is-",
+			null,
+			"Done! Even the agreement--",
+			"It's no good! And the protocol--"
+		],
+		[
+			"bgm",
+			163
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715637,
+			null,
+			"博士？",
+			"博士？",
+			"박사님?",
+			"Doctor?",
+			null,
+			"Dr.?",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715638,
+			null,
+			"船舱的侵蚀消失了。",
+			"キャビンの侵食が消えた。",
+			"캐빈의 침식이 사라졌어.",
+			"The erosion on the cabin vanished.",
+			null,
+			"The erosion of the cabin disappeared.",
+			"Cabin erosion disappeared."
+		],
+		[
+			"msg",
+			715639,
+			null,
+			"伊瑟琳的表情突然从焦头烂额，变成了正常的样子。",
+			"ひどく焦っていたイザーリンが急にいつもの表情に戻った。",
+			"심하게 초조해하던 자린이 갑자기 평소 표정으로 돌아왔다.",
+			"Yiserin's expression suddenly changed from that of anxiety, to one of normalcy.",
+			null,
+			"Estherine's expression suddenly went from burnt out, to normal.",
+			"Estherine, who had been terribly impatient, suddenly returned to his usual expression."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715640,
+			null,
+			"你的律者核心又变得不稳定了。",
+			"芽衣先輩の律者コアがまた不安定になっている。",
+			"메이 선배의 율자 코어가 또 불안정해지고 있어.",
+			"Your Herrscher Core has become unstable again.",
+			null,
+			"Your Herrscher core has become unstable again.",
+			"Herrscher's senior Mei's Herrscher core is unstable again."
+		],
+		[
+			"msg",
+			715641,
+			null,
+			"虽然在崩坏能浓度越高的区域，律者核心本来就会越不稳定。",
+			"崩壊エネルギーの高いエリアにいれば、律者コアも不安定になるけど……。",
+			"붕괴 에너지가 높은 에리아에 있으면, 율자 코어도 불안정해지지만.......",
+			"The higher the concentration of Honkai Energy in the area, the more unstable the Herrscher Core will become.",
+			null,
+			"Though the Herrscher core would have been more unstable in areas with higher concentrations of Honkai energy.",
+			"If you're in an area with high Honkai energy, the Herrscher core will be unstable, though. ......"
+		],
+		[
+			"msg",
+			715642,
+			null,
+			"但也不应该啊……与兵神一战，你经历了比这浓度高得多的环境。而且你看，我现在也是正常的。",
+			"でも、そんなのおかしい……兵神との戦いで、芽衣先輩はここよりももっと濃度の高い環境を経験しているはず。それに、我は今でも正常なのに。",
+			"하지만, 그런 건 이상해...... 병신과의 싸움에서, 메이 선배는 여기보다 더 농도가 높은 환경을 경험했을 텐데. 게다가, 나는 지금도 정상인데.",
+			"But it shouldn't be... in the battle with the God of War, you experienced a much greater concentration of Honkai Energy than here. And as you can see, I'm still functioning normally.",
+			null,
+			"But it shouldn t be ah ...... Battle with the God of Soldiers, you have experienced a much higher concentration than this environment. And look, I'm normal now.",
+			"But that's not right. ...... I'm sure Mei senpai has experienced a much more concentrated environment than here in her battle with the soldier god. Besides, I am still normal."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				214,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715643,
+			null,
+			"<color=#7866A2FF>地球上还没有幻觉攻击呢。</color>",
+			"<color=#7866A2FF>地球では幻覚攻撃がなかったでしょう。</color>",
+			"<color=#7866A2FF>지구에서는 환각 공격이 없었잖아.</color>",
+			"<color=#7866A2FF>There are no hallucination attacks on the Earth yet. </color>",
+			null,
+			"<color=#7866A2FF>There are no phantom attacks on Earth yet. </color",
+			"<color=#7866A2FF>There would have been no hallucinatory attacks on Earth. </color>"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715644,
+			null,
+			"另一个芽衣翘着二郎腿，坐在芽衣原本的位置。",
+			"もう一人の芽衣は、芽衣が元いた席に腰掛けて足を組んだ。",
+			"또 다른 메이는, 메이가 원래 있던 자리에 앉아 다리를 꼬았다.",
+			"The other Mei crossed her legs, and sat down just like the original Mei did.",
+			null,
+			"The other Mei crossed her legs and sat where Mei had been.",
+			"The other Mei sat down in the seat Mei had originally been in and crossed her legs."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715645,
+			null,
+			"确实是这个道理。",
+			"確かにそうね。",
+			"확실히 그렇네.",
+			"That's indeed true.",
+			null,
+			"Indeed that's the point.",
+			"Yes, indeed."
+		],
+		[
+			"msg",
+			715646,
+			null,
+			"对方是认准了这一点，才对针对芽衣进行攻击的吗……",
+			"相手はそれを狙って、芽衣を攻撃したのかしら……。",
+			"상대는 그것을 노려, 메이를 공격한 걸까.......",
+			"The other side has recognized that point, and is only targeting Mei with their attacks.",
+			null,
+			"Is the opponent recognizing this and attacking against targeting Mei ......",
+			"I wonder if the other party attacked Mei for that. ......"
+		],
+		[
+			"msg",
+			715647,
+			null,
+			"可对方又是怎么掌握我方情报的？",
+			"でも、どうやって私たちの情報を入手したの？",
+			"하지만, 어떻게 우리의 정보를 입수한 거지?",
+			"But how does the other side have information about us?",
+			null,
+			"But how did the other side get hold of our information?",
+			"But how did you get our information?"
+		],
+		[
+			"msg",
+			715648,
+			null,
+			"总之，现在就别想着启用弑神装甲了，它会极速燃烧你的寿命。",
+			"とにかく、今は神殺し装甲を使おうなんて思わないで。あなたの寿命を一気に縮めてしまうわよ。",
+			"어쨌든, 지금은 신살자 갑옷을 사용하려고 생각하지 마. 네 수명을 순식간에 줄여버릴 거야.",
+			"Either way, you shouldn't even think about activating the God-Slayer Armor now, it'll burn your life span extremely fast.",
+			null,
+			"Anyway, don't even think about enabling the Deicide Armor right now, it'll burn your lifespan at breakneck speed.",
+			"Anyway, don't even think about using the God Killer armor now. It will shorten your lifespan in a heartbeat."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				214,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715649,
+			null,
+			"<color=#7866A2FF>可是博士，</color>",
+			"<color=#7866A2FF>でも、博士……。</color>",
+			"<color=#7866A2FF>하지만, 박사님.......</color>",
+			"<color=#7866A2FF>But Doctor,</color>",
+			null,
+			"<color=#7866A2FF>But Dr.</color>",
+			"<color=#7866A2FF>But Dr. ....... </color>"
+		],
+		[
+			"msg",
+			715650,
+			null,
+			"<color=#7866A2FF>没有弑神装甲，要怎么和崩坏意志战斗？</color>",
+			"<color=#7866A2FF>神殺し装甲なくして、どうやって崩壊の意志と戦うの？</color>",
+			"<color=#7866A2FF>신을 죽이는 갑옷 없이, 어떻게 붕괴의 의지와 싸우지?</color>",
+			"<color=#7866A2FF>Without the God-Slayer Armor, how are we supposed to fight the Will of Honkai?</color>",
+			null,
+			"<color=#7866A2FF>How are you going to fight Honkai's Will without Regicide armor? </color>",
+			"<color=#7866A2FF>How do you fight the will of Honkai without the God Killer armor? </color>"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715651,
+			null,
+			"那就重新把雷之律者的力量控制住吧。",
+			"それなら雷の律者の力をまた制御すればいいよ。",
+			"그렇다면 번개의율자의 힘을 다시 제어하면 돼.",
+			"By regaining the power of the Herrscher of Thunder.",
+			null,
+			"Then let's get the power of the Herrscher of Thunder back under control.",
+			"Then you can control the power of the Herrscher of Thunder again."
+		],
+		[
+			"speaker",
+			320411
+		],
+		[
+			"portraits",
+			[
+				30270,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715652,
+			null,
+			"我相信芽衣姐姐~",
+			"芽衣お姉ちゃんなら大丈夫だよ～",
+			"메이 언니라면 괜찮아~",
+			"I believe in Mei-oneesan~",
+			null,
+			"I believe in Mei.",
+			"Mei's sister will be fine~!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				214,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715653,
+			null,
+			"<color=#7866A2FF>嗯，说的也是。</color>",
+			"<color=#7866A2FF>ええ、それもそうね。</color>",
+			"<color=#7866A2FF>그래, 그럴 수도 있겠네.</color>",
+			"<color=#7866A2FF>Ah, good point.</color>",
+			null,
+			"<color=#7866A2FF> Well, that's saying something. </color>",
+			"<color=#7866A2FF>Yes, that too. </color>"
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715654,
+			null,
+			"不对！大家，那个人不是我！！",
+			"違う！みんな、そいつは私じゃない！！",
+			"아냐! 여러분, 저건 내가 아니야!!",
+			"Wrong! Everyone, that person is not me!!",
+			null,
+			"Nope! Everyone, that person is not me!",
+			"No, it's not! Guys, that guy is not me!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715655,
+			null,
+			"所以接下来——",
+			"では、次に——",
+			"그럼, 다음에——",
+			"So next-",
+			null,
+			"So next--",
+			"Okay, then--"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715656,
+			null,
+			"大家醒醒，唔——！！",
+			"みんな、目を覚まして！うっ——！！",
+			"모두, 정신 차려! 으악——!!",
+			"Everyone, wake up, ugh-!",
+			null,
+			"Everyone wake up, uh-!",
+			"Guys, wake up! Ugh--!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715658,
+			null,
+			"啧，没救了！力场发射器又瘫痪了。",
+			"もうダメだわ！フィールド発射装置がまたダウンした。",
+			"더 이상 안 돼! 필드 발사 장치가 또 고장났어.",
+			"Ugh, it's hopeless! The Force Field Emitter is down again.",
+			null,
+			"Gee, it's hopeless! The force field emitter is paralyzed again.",
+			"I'm screwed! The field launcher went down again."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715659,
+			null,
+			"所以接下来只能去维修了。",
+			"では修理しに行くしかありませんね。",
+			"그럼 수리하러 가야겠네.",
+			"So the next step is to go repair it.",
+			null,
+			"So the only next step is to get it repaired.",
+			"Then we will have to go and repair it."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				665,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715660,
+			null,
+			"到底要修几次啊！",
+			"一体何回修理すればいいんだ！",
+			"대체 몇 번이나 수리해야 하는 거야!",
+			"How many times do we have to fix it?",
+			null,
+			"How many times do I have to fix it anyway!",
+			"How many times do I have to repair it?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715661,
+			null,
+			"这次是供能线路被破坏，",
+			"今回は回路が破壊されてしまいました。",
+			"이번에는 회로가 파괴되어 버렸습니다.",
+			"This time it was the power supply lines that were damaged.",
+			null,
+			"This time it's the supply line that's been sabotaged.",
+			"This time the circuit was destroyed."
+		],
+		[
+			"msg",
+			715662,
+			null,
+			"需要替换部件，可能还需要舰外作业，最好先穿上宇航服。",
+			"部品を取り替えるには船外で作業しないといけませんし、宇宙服を着ておいてください。",
+			"부품을 교체하려면 선외에서 작업해야 하니, 우주복을 입어 두세요.",
+			"This is going to need replacement parts and possibly off-ship operations, so it's best to put on our spacesuits first.",
+			null,
+			"Replacement parts are needed, and off-ship work may be required, so it's best to put on a spacesuit first.",
+			"You will have to work outside the ship to replace parts, and keep your space suit on."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715663,
+			null,
+			"让我去吧，舰外作业。",
+			"船外作業はニンディに行かせてください。",
+			"선외 작업은 닌디에게 시켜 주세요.",
+			"I'll go, the off-ship operations.",
+			null,
+			"Let me go. Off-ship operations.",
+			"Let Ninti do the work overboard."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715664,
+			null,
+			"你有什么打算？",
+			"何か考えがあるの？",
+			"무슨 생각이라도 있어?",
+			"What are your intentions?",
+			null,
+			"What's your plan?",
+			"Any ideas?"
+		],
+		[
+			"msg",
+			715665,
+			null,
+			"没有██！根本就没有██！",
+			"もう██ないわ！どうしようも██！",
+			"이젠 ██ 없어! 어쩔 수가 ██!",
+			"There's no ██! There's no ██ whatsoever!",
+			null,
+			"No! There is no \"!",
+			"I can't help it! I can't help it!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715666,
+			null,
+			"阻止宁蒂啊，博士！！",
+			"ニンディちゃんを止めて、博士！！",
+			"닌디을 멈춰, 박사님!!",
+			"Stop Ninti, Doctor!!",
+			null,
+			"Stop Ninti, Doctor!",
+			"Stop Ninti, Dr.!"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715667,
+			null,
+			"我可以按照博士的指示进行维修。",
+			"ニンディは博士の指示通りに修理を行えます。",
+			"닌디는 박사님의 지시대로 수리를 진행할 수 있습니다.",
+			"I can do the repairs as instructed by the Doctor.",
+			null,
+			"I can make the repairs as instructed by Dr.",
+			"Ninti can perform repairs as directed by Drs."
+		],
+		[
+			"speaker",
+			320411
+		],
+		[
+			"portraits",
+			[
+				30270,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715668,
+			null,
+			"让希儿也一起吧，多一个人，容错率也高一些。",
+			"ゼーレも一緒に行くよ。人手が多い方が何かあったときに対処しやすいでしょ。",
+			"제레도 같이 갈게. 인원이 많으면 무슨 일이 생겼을 때 대처하기 쉬울 거야.",
+			"Let Seele join, with one more person, the tolerance for a margin of error will become higher.",
+			null,
+			"Let Seele come along too, one more person and more margin for error.",
+			"Seele will go with you. It will be easier to deal with any problems if we have more manpower."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715669,
+			null,
+			"不要去！！",
+			"行っちゃダメ！！",
+			"가면 안 돼!!",
+			"Don't go!!!",
+			null,
+			"Don't go!",
+			"Don't go!"
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				214,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715670,
+			null,
+			"<color=#7866A2FF>可是宁蒂很害怕宇宙啊。</color>",
+			"<color=#7866A2FF>でも、ニンディちゃんは宇宙を怖がっていたでしょう。</color>",
+			"<color=#7866A2FF> 하지만 닌디은 우주를 무서워했잖아. </color>",
+			"<color=#7866A2FF>But Ninti is afraid of the universe. </color>",
+			null,
+			"<color=#7866A2FF>But Ninti is scared of the universe. </color",
+			"<color=#7866A2FF>But Ninti would have been afraid of space. </color>"
+		],
+		[
+			"msg",
+			715671,
+			null,
+			"<color=#7866A2FF>重新考虑一下吧。</color>",
+			"<color=#7866A2FF>考え直した方がいいわよ。</color>",
+			"<color=#7866A2FF>다시 생각해 보는 게 좋을 거야.</color>",
+			"<color=#7866A2FF>Reconsider it.</color>",
+			null,
+			"<color=#7866A2FF>Reconsider that. </color>",
+			"<color=#7866A2FF>You might want to reconsider. </color>"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715672,
+			null,
+			"谢谢你，芽衣姐姐。",
+			"ありがとうございます、芽衣さん。",
+			"고마워요, 메이 씨.",
+			"Thank you, Mei-sama.",
+			null,
+			"Thank you, Mei-san.",
+			"Thank you, Mei."
+		],
+		[
+			"msg",
+			715673,
+			null,
+			"不过我觉得，我还是得面对我害怕的东西。",
+			"ですが、ニンディは怖いものに向き合わなければならないと思います。",
+			"하지만, 닌디는 무서운 것과 마주해야 한다고 생각해요.",
+			"Still, I feel that I have to face what I fear.",
+			null,
+			"I think, though, that I still have to face what I'm afraid of.",
+			"But I think Ninti has to face what she is afraid of."
+		],
+		[
+			"msg",
+			715674,
+			null,
+			"只要，这是为了大家……",
+			"それが皆のためになるなら……。",
+			"그게 모두를 위한 일이라면....",
+			"As long as it's for everyone...",
+			null,
+			"As long as, this is for everyone ......",
+			"If it's in everyone's best interest, please contact ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715675,
+			null,
+			"宁蒂！！那是陷阱！你在幻觉里！",
+			"ニンディちゃん！！これは罠よ！あなたは幻覚を見ているの！",
+			"닌디 쨩!! 이건 함정이야! 너는 환상을 보고 있는 거야!",
+			"Ninti!!! That's a trap! You're in a hallucination!",
+			null,
+			"Ninti! It was a trap! You're in an illusion!",
+			"Ninti! It's a trap! You are hallucinating!"
+		],
+		[
+			"msg",
+			715676,
+			null,
+			"不要去唔——？？？",
+			"行っちゃダメ！うぐっ——？？？",
+			"가지 마! 으악——???",
+			"Don't gough–!??",
+			null,
+			"Don't go to the uh--?",
+			"Don't go! Ugh--?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715677,
+			null,
+			"舰船里出现了一片黑泥，像沼泽一样将芽衣渐渐吞没。它们灌进了芽衣的肺部，让她无法说话。",
+			"宇宙船の中に黒い泥が現われ、沼のように芽衣を徐々に呑み込んでいった。その泥は肺の中に流れ込み、芽衣は声を出せなくなった。",
+			"우주선 안에 검은 진흙이 나타나, 늪처럼 메이를 서서히 삼켜갔다. 그 진흙은 폐 속으로 흘러 들어갔고, 메이는 목소리를 낼 수 없게 되었다.",
+			"A black mud appeared on the ship, swallowing Mei as if she was in a swamp. It poured into Mei's lungs, making it impossible for her to speak.",
+			null,
+			"A black sludge appeared in the ship, gradually engulfing Mei like a swamp. They filled Mei's lungs, leaving her unable to speak.",
+			"Black mud appeared inside the spaceship and gradually engulfed Mei like a swamp. The mud flowed into her lungs, and Mei was unable to speak."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715678,
+			null,
+			"咳咳！（呛水）啊啊……不要（呛水）……快救她……",
+			"ゲホッ、ゲホッ！ああ……ダメ……急いで助けないと……。",
+			"엑, 엑! 아아... 안 돼... 서둘러 구하지 않으면....",
+			"Cough cough! (Choking) Aghh... Don't (Choking) .... Save her…",
+			null,
+			"Ahem! (choking) ah ah ...... don't (choking) ...... save her ......",
+			"Gee, gee, gee! Oh ...... no...... we have to hurry up and help ......."
+		],
+		[
+			"msg",
+			715679,
+			null,
+			"不……咳咳！！（呛水）别去……不要去！ 不要……不要……",
+			"ダメ……ゲホッ、ゲホッ！！（むせる）行かない……で！ダメ……ダメ……。",
+			"안 돼... 엑, 엑!! (목이 맴) 가지... 마! 안 돼... 안 돼....",
+			"No... cough cough!!! (Choking) Don't go... Don't go! Don't.... Don't…",
+			null,
+			"No ...... cough! (CHOKING) Don't go ...... Don't go! Don't ...... don't ......",
+			"No ...... gee, gee! (Gasping) I'm not going ...... to go! No...... no......."
+		],
+		[
+			"msg",
+			715680,
+			null,
+			"宁蒂！！",
+			"ニンディちゃん！！",
+			"닌디 쨩!!",
+			"Ninti!!!",
+			null,
+			"Ninti！！",
+			"Ninti, my dear Ninti!"
+		]
+	],
+	"10109": [
+		[
+			"bgm",
+			163
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				30240,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715681,
+			null,
+			"？？",
+			"？？",
+			"??",
+			null,
+			null,
+			"What's going on?",
+			null
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				30238,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715682,
+			null,
+			"怎么了，宁蒂？",
+			"どうしたの？ニンディ？",
+			"왜 그래? 닌디?",
+			"What’s up, Ninti?",
+			null,
+			"What's the matter, Ninti?",
+			"What's going on? Ninti?"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				30240,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715683,
+			null,
+			"我好像听到芽衣姐姐在叫我……",
+			"芽衣さんがニンディを呼んでいるような気がして……。",
+			"메이 씨가 닌디를 부르는 것 같아서......",
+			"I think I heard Mei-sama calling me…",
+			null,
+			"I think I hear Mei-san calling me ......",
+			"I think Mei is calling for Ninti at ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715684,
+			null,
+			"（通讯）我没有啊……？",
+			"（通信）私は呼んでないけど……？",
+			"(통신) 나는 부르지 않았는데......?",
+			"(Comms) I didn’t…?",
+			null,
+			"(Communication) I don't have it ......?",
+			"(Correspondence) I didn't call but ......?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715685,
+			null,
+			"（系统音）警告，崩坏能隔离力场即将失效。",
+			"（システム音）警告、崩壊エネルギー隔離フィールドがまもなく失効します。",
+			"(시스템 음성) 경고, 붕괴 에너지 격리 필드가 곧 소멸됩니다.",
+			"(System) The Honkai Isolation Force Field is about to fail.",
+			null,
+			"(SYSTEM TONE) Warning, the Honkai energy isolation force field is about to fail.",
+			"(System sounds) Warning, Honkai energy isolation field will expire shortly."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715686,
+			null,
+			"（通讯）你们要在离开发射型力场的范围之前，把任务完成。",
+			"（通信）発射型フィールドの範囲から出る前に任務を完了してください。",
+			"(통신) 발사형 필드 범위를 벗어나기 전에 임무를 완료하세요.",
+			"(Comms) You have to get the mission done before you leave the range of the launch-type Force Field.",
+			null,
+			"(COMMUNICATING) You are to complete your mission before you leave the range of the emissive force field.",
+			"(Communication) Complete the mission before leaving the range of the firing type field."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				30238,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715687,
+			null,
+			"布洛妮娅姐姐，这里也有被侵蚀的痕迹。",
+			"ブローニャお姉ちゃん、ここにも侵食された痕跡があるよ。",
+			"브로냐 언니, 여기도 침식된 흔적이 있어.",
+			"Bronya-neechan, there are also signs of erosion here.",
+			null,
+			"Sister Bronya, there are signs of erosion here as well.",
+			"Sister Bronya, there are signs of erosion here, too."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715688,
+			null,
+			"（通讯）监视器画面里没有……",
+			"（通信）監視モニターの画面には映ってないみたいだ……。",
+			"(통신) 감시 모니터 화면에는 안 보이는 것 같아......",
+			"(Comms) There are no... on the monitor screen.",
+			null,
+			"(Comm.) ...... is not in the monitor screen.",
+			"(Communications) It doesn't look like it's on the surveillance monitor screen. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				665,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715689,
+			null,
+			"（通讯）这就是普通的飞船啊？",
+			"（通信）これが普通の宇宙船なのか？",
+			"(통신) 이게 평범한 우주선인 거야?",
+			"(Comms) This is just a normal spacecraft?",
+			null,
+			"(COMMUNICATING) That's a regular spaceship, huh?",
+			"(Communication) Is this a normal spaceship?"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				30240,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715690,
+			null,
+			"我和希儿看到幻觉了？",
+			"ニンディたちは幻覚を見ているのでしょうか？",
+			"닌디들은 환상을 보고 있는 걸까?",
+			"Did Seele and I see a hallucination?",
+			null,
+			"Seele and I are seeing visions?",
+			"Are Ninti and her friends hallucinating?"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715691,
+			null,
+			"（通讯）不，我也看到了侵蚀……非常非常严重。",
+			"（通信）いいえ、私にも侵食の痕跡が見えるわ……とても、とてもひどい侵食よ。",
+			"(통신) 아니요, 저도 침식의 흔적이 보여요…… 정말, 정말 심한 침식이에요.",
+			"(Comms) No, I also see the erosion... Very, very serious.",
+			null,
+			"(Comm.) No, I've also seen erosion ...... very, very serious.",
+			"(Correspondence) No, I see traces of erosion too ...... very, very bad erosion."
+		],
+		[
+			"msg",
+			715692,
+			null,
+			"（通讯）但飞船完全没有报警。",
+			"（通信）でも、宇宙船は警報を一切出していない。",
+			"(통신) 하지만 우주선은 경보를 전혀 내보내지 않고 있어.",
+			"(Comms) But the ship is not critical yet.",
+			null,
+			"(COMMUNICATIONS) But the spaceship has no alarm at all.",
+			"(Communication) But the spacecraft did not send out any alarms."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715693,
+			null,
+			"（通讯）博士所见和我们都不一致……",
+			"（通信）博士の見ているものは、ブローニャたちが見ているものと違っているようです……。",
+			"(통신) 박사님이 보고 계신 것은 브로냐들이 보고 있는 것과 다릅니다…….",
+			"(Comms) What the Doctor sees and we all disagree...",
+			null,
+			"(Newsletter) What the Doctor sees doesn't agree with any of us ......",
+			"(Correspondence) What the doctor sees seems to be different from what Bronya and her colleagues see. ......"
+		],
+		[
+			"msg",
+			715694,
+			null,
+			"（通讯）飞船的侵蚀情况，以博士的判断为准。你们要面对的情况，可能比你们实际看到的更严峻。一定要和我们保持联络。",
+			"（通信）宇宙船の侵食状況は博士の判断を正とします。そして……ブローニャたちがこれから直面する状況は、現在目にしているものよりも過酷な可能性があります。くれぐれも連絡を保ち続けてください。",
+			"(통신) 우주선의 침식 상황은 박사님의 판단이 옳습니다. 그리고…… 브로냐들이 지금부터 마주할 상황은 현재 눈으로 보고 있는 것보다 더 혹독할 가능성이 있습니다. 꼭 계속 연락을 유지해 주세요.",
+			"(Comms) The erosion of the ship is subject to the judgment of the Doctor. The situation you are going to face may be more severe than what you can actually see. Be sure to stay in touch.",
+			null,
+			"(communication) The erosion of the ship is at the Doctor's discretion. The situation you're facing may be more dire than what you're actually seeing. Be sure to keep in touch with us.",
+			"(Correspondence) The erosion situation on the spacecraft is a positive judgment by Drs. And ...... the situation Bronya and her team will be facing could be more severe than what we are currently seeing. Please keep in touch."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				30240,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715695,
+			null,
+			"没问题。我去过很多被崩坏严重侵蚀的区域。",
+			"大丈夫です。崩壊にひどく侵食されたエリアに何度も行っていますから。",
+			"괜찮아요. 붕괴에 심하게 침식된 지역에 여러 번 갔었으니까.",
+			"No problem, I’ve been to many areas that’ve been badly eroded by the Honkai.",
+			null,
+			"No problem. I've been to a lot of areas that have been severely eroded by Honkai.",
+			"It's okay. I've been to areas badly eroded by Honkai many times."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				30238,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715696,
+			null,
+			"我也觉得没问题。",
+			"ゼーレも大丈夫だよ。",
+			"제레도 괜찮아.",
+			"I don’t think it’ll be a problem for me either.",
+			null,
+			"I don't see a problem with that either.",
+			"Seele will be fine."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715697,
+			null,
+			"（通讯）那么，开始作业。",
+			"（通信）では、作業を始めてください。",
+			"(통신) 그럼 작업을 시작하세요.",
+			"(Comms) Then, let’s start.",
+			null,
+			"(COMMUNICATIONS) So, start the homework.",
+			"(communication), please start working."
+		]
+	]
+}

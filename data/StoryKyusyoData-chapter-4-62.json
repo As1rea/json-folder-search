@@ -1,0 +1,1474 @@
+{
+	"1216": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306736,
+			"This is the target car park. I will distribute your tasks now.",
+			"这里就是目的地的停车场了，接下来将任务分配给各位。",
+			"ここが目的地のスクラップ工場ね。任務の分担をみんなに割り振るわよ。",
+			"여기가 목적지의 스크랩 공장이네. 임무의 분담을 모두에게 나눠줄게.",
+			null,
+			null,
+			"This is the parking lot of the destination, and the next task will be assigned to you.",
+			"So this is the destination, the scrap yard. I'll assign everyone their assignments."
+		],
+		[
+			"msg",
+			306737,
+			"You have all received the list of materials to be collected. The details are on the list.",
+			"你们手上拿到的是这次我们要收集材料的清单，具体的描述都已经在上面写好了。",
+			"あなたたちが持っているのは、今回集める材料のリストよ。具体的な説明は全部そこに書いてあるわ。",
+			"너희들이 가지고 있는 건 이번에 모을 재료의 목록이야. 구체적인 설명은 전부 거기에 써 있어.",
+			null,
+			null,
+			"What you have in your hands is a list of the materials we are going to collect this time, and the specific descriptions are already written on it.",
+			"What you have is a list of the materials we will be collecting. All the specific instructions are in there."
+		],
+		[
+			"msg",
+			306738,
+			"I have specified each of your task, but there are some parts I have no idea what they look like. So as long as your load allows, you can collect similar materials too.",
+			"每个人负责的部分都已经写清楚了，但有些零件我也不清楚是什么样子，所以在负重允许的范围内收集类似的材料也没问题。",
+			"それぞれが担当する部分もはっきりと書いてあるから。ただ、いくつかの部品はどのようなものか分からないの。だから、できる範囲で似たような材料を集めてちょうだい。",
+			"각자가 담당하는 부분도 확실히 써 있어. 다만, 몇몇 부품은 어떤 것인지 모르니까. 그러니까, 가능한 범위에서 비슷한 재료를 모아줘.",
+			null,
+			null,
+			"Each person is responsible for the parts have been written clearly, but some parts I am not sure what it is like, so it is okay to collect similar materials within the weight allowed.",
+			"Because it clearly states what parts each is responsible for. I just don't know what some of the parts will look like. So, please gather similar materials as much as you can."
+		],
+		[
+			"msg",
+			306739,
+			"Lastly, do not let down your guard even in this abandoned car park. We don’t know if the Houkai creatures are hiding somewhere.",
+			"最后，就算已经到了这个废弃停车场也不能大意，毕竟不知道崩坏生物会不会潜伏在什么地方。",
+			"最後に、スクラップ工場に着いたからといって油断はしないで。崩壊生物がどこに潜んでいるか分からないからね。",
+			"마지막으로, 스크랩 공장에 도착했다고 해서 방심하지 마. 붕괴 생물이 어디에 숨어 있을지 모르니까.",
+			null,
+			null,
+			"Finally, even if you have reached this abandoned parking lot, you can not be careless, after all, there is no telling if the collapse creatures will be lurking somewhere.",
+			"Finally, don't let your guard down just because you've arrived at the scrap yard. You never know where the disintegrating organisms might be lurking."
+		],
+		[
+			"msg",
+			306740,
+			"Stay alert and maintain your distance with the team. Prepare to fight at any time. Come back here in 30 minutes. Get moving!",
+			"保持警惕，和团队距离，做好随时战斗的准备。三十分钟后回到这里集合，开始行动！",
+			"警戒を保ちながら広がって。いつでも戦闘をできるように準備を。30分後にここに集合。行動開始！",
+			"경계를 유지하면서 퍼져. 언제든 전투를 할 수 있도록 준비를. 30분 후에 여기로 집합. 행동 시작!",
+			null,
+			null,
+			"Stay alert, and team distance, and be ready to fight at any time. Meet back here in thirty minutes and get moving!",
+			"Keep alert and spread out. Be ready for battle in 30 minutes. Let's move!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306741,
+			"Got it!",
+			"是！",
+			"はッ！",
+			"하앗!",
+			null,
+			null,
+			"Yes!",
+			"Ha!"
+		]
+	],
+	"1217": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV08_ToolKit"
+		],
+		[
+			"msg",
+			306742,
+			"Boom!",
+			"砰！",
+			"バンッ！",
+			"빵악!",
+			null,
+			null,
+			"Bang!",
+			"Bang!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306743,
+			"This should be it. But can these parts still be used after being abandoned for so long...",
+			"应该就是这个了，但废弃这么久了，这些零件还能正常使用么……",
+			"きっとこれね。でも、こんなに長く放置されていて、まだ正常に使えるのかしら……。",
+			"분명 이거네. 하지만 이렇게 오래 방치되어 있었는데, 아직 정상적으로 쓸 수 있을까......",
+			null,
+			null,
+			"Should be this, but abandoned for so long, these parts can still be used properly ......",
+			"This must be it. But I wonder if it's still in good working order after such a long period of neglect. ......"
+		],
+		[
+			"portraits",
+			[
+				61,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306744,
+			"It is ironic that Hyperion, once flying in the sky, now needs to survive on these rusty parts. Such a shame.",
+			"曾经翱翔天际的休伯利安号现在居然要用到这些几乎长满锈迹的零件来苟延残喘，真是狼狈。",
+			"かつては大空を翔けていたハイペリオン号が、今ではこんなサビだらけの部品を利用して生き延びようとしているなんて、散々ね。",
+			"한때는 대공을 날아다니던 히페리온호가, 이제는 이런 녹덩이 투성이 부품을 이용해 살아남으려 하다니, 처량하네.",
+			null,
+			null,
+			"Once soaring through the skies, the Huberian now actually have to use these almost rusty parts to survive, it is really wretched.",
+			"It's a mess that the Hyperion, once soaring through the skies, is now trying to survive by using these rusty parts."
+		],
+		[
+			"msg",
+			306745,
+			"Like Captain, like the battleship... So ironic.",
+			"果然有什么样的舰长就有什么样的战舰么…真是讽刺的事情。",
+			"やっぱり戦艦は艦長に似るのかしら……本当に皮肉だわ。",
+			"역시 전함은 함장을 닮는 걸까…… 정말 아이러니하네.",
+			null,
+			null,
+			"It's ironic that the kind of captain you have is the kind of battleship you have....",
+			"I guess battleships are like their captains after all. ...... It's really ironic."
+		],
+		[
+			"choice",
+			[
+				306982,
+				"Hyperion is as strong as Major Himeko.",
+				"休伯利安号和姬子少校一样坚强。",
+				"ハイペリオン号は姫子のように強いと思う。",
+				"히페리온호는 히메코처럼 강한 것 같아.",
+				null
+			],
+			[
+				306983,
+				"Surviving from the Big Houkai Outbreak isn’t easy.",
+				"能在大崩坏中幸存已经很不容易了。",
+				"大崩壊の中を生き延びただけでも大したもの。",
+				"대붕괴 속을 살아남은 것만 해도 대단한 거야.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1218
+		]
+	],
+	"1218": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306746,
+			"If you want to show some sympathy, no thanks. I’m just making a random comment.",
+			"如果是要同情我还是免了，我不过是在随口感叹一下罢了。",
+			"私に同情なら結構よ。適当に嘆いてみただけだから。",
+			"나에게 동정이라면 됐어. 적당히 탄식해 본 것뿐이니까.",
+			null,
+			null,
+			"If it is to sympathize with me or not, I am just sighing casually.",
+			"If you feel sorry for me, that's fine. I'm just lamenting at random."
+		],
+		[
+			"msg",
+			306747,
+			"So unbelievable... I always remember myself many years ago when I’m with you. I used to complain about myself to those young kids.",
+			"真是不可思议…和你在一起的时候总会想起以前的自己，那个时候也经常和那些年轻的孩子抱怨自己的事情。",
+			"本当に不思議だわ……あなたと一緒にいると、いつも以前の自分を思い出すの。あのときも、若い子に自分の愚痴を漏らしてた。",
+			"정말 이상하네…… 당신과 함께 있으면, 언제나 이전의 자신을 떠올리게 돼. 그때도, 어린 아이에게 자신의 불평을 털어놓곤 했지.",
+			null,
+			null,
+			"It's amazing...I always think of my old self when I'm with you, and I used to complain about myself with those young kids at that time.",
+			"It's really strange, ...... with you, you always remind me of who I used to be. Even back then, I was bitching about myself to a younger girl."
+		],
+		[
+			"msg",
+			306748,
+			"Only Hyperion had stayed with me all along... If there is a chance, it deserves some good rest.",
+			"从那个时候陪我到现在的也就只剩下了休伯利安号了…如果有机会真该好好让它歇一歇了。",
+			"あのときから今まで、私とずっと一緒にいるのはハイペリオン号だけね……機会があればゆっくりと休ませてあげなくちゃ。",
+			"그때부터 지금까지, 나와 계속 함께한 건 히페리온호뿐이네…… 기회가 있으면 천천히 쉬게 해줘야지.",
+			null,
+			null,
+			"From that time to accompany me to the present is only the Huberian left ... if there is a chance really should give it a good rest.",
+			"The Hyperion is the only ship that has been with me from that time until now. ...... I need to give her a good rest when I get a chance."
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306749,
+			"Alright, no more chitchat. Watch those cars on your side... There are footprints of Houkai creatures on them, and the prints are pretty fresh. This place could be more dangerous than we thought.",
+			"好了，不聊天了。注意点你那边的车辆…上面有被崩坏生物踩踏过的足迹，而且痕迹还很新鲜，这里或许比我们想象的要危险。",
+			"よし、おしゃべりはおしまい。あそこの車に注意して……屋根の部分に崩壊生物が踏んだ足跡がある、痕跡もまだ新しい。ここは私たちが考えているよりも危険かもしれないわ。",
+			"좋아, 수다는 이제 그만. 저기 차에 조심해…… 지붕 부분에 붕괴 생물이 밟은 발자국이 있어, 흔적도 아직 새로워. 여긴 우리가 생각하는 것보다 위험할지도 몰라.",
+			null,
+			null,
+			"Ok, no more chit chat. Keep an eye on your side of the vehicle...there are tracks on it that have been trampled by avalanche creatures, and the marks are still fresh, this place may be more dangerous than we thought.",
+			"Okay, end of chatter. Watch that car over there. ...... There are footprints on the roof where a decaying organism stepped, and the tracks are still fresh. This place may be more dangerous than we think."
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306750,
+			"Losing your life because you get distracted by this kind of things is just too unworthy.",
+			"要是因为这种事而分心导致丧命的话，就太不值得了。",
+			"ただ、気にしすぎて命を落としたなんてことになったらバカらしいから、心に留めておく程度にしましょう。",
+			"다만, 신경 써 너무 목숨을 잃는 것 같으면 바보 같으니까, 마음에 새겨 두는 정도로 하자고.",
+			null,
+			null,
+			"It's not worth it if you get distracted by such things and lose your life.",
+			"Just keep it in mind, because it would be foolish to care too much and end up losing your life."
+		],
+		[
+			"msg",
+			306751,
+			"10 minutes have passed. Hurry up, I have a bad feeling about this...",
+			"时间已过去十分钟，抓紧点吧，总有一种不好的预感……",
+			"探索を始めてもう10分経ったわ。急ぎましょう。なんだか嫌な予感がするわ……。",
+			"탐색을 시작한 지 벌써 10분 지났어. 서두르자. 왠지 싫은 예감이 들어…….",
+			null,
+			null,
+			"Time has passed ten minutes, hold on to it, there is always a bad feeling ......",
+			"It's been ten minutes since we started our search. Let's hurry. I have a bad feeling about this. ......"
+		]
+	],
+	"1219": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306752,
+			"I’m really not good at this kind of task. There are many things I’m not even sure, so I have to collect everything that looks similar. But this will increase my load more than expected.",
+			"果然对这种任务不是很在行，很多东西都不知道对不对，只能把看着类似的东西都收集起来了，不过这样负重就比预定多了不少。",
+			"やっぱりこういう任務は得意じゃないわね。拾った物が合っているのかどうかもわからないわ。……それにしても、これじゃ予定の重さを遥かにオーバーするわね。",
+			"역시 이런 임무는 잘하지 못하네. 주운 물건이 맞는지조차 모르겠어.…… 게다가, 이젠 예정된 무게를 훨씬 오버했네.",
+			null,
+			null,
+			"Sure enough, not very good at this kind of task, many things do not know right or wrong, can only look at similar things are collected, but so the weight is a lot more than scheduled.",
+			"I'm still not very good at these assignments. I don't even know if what I'm picking up is right. ...... But then again, this is way over the weight of my schedule."
+		],
+		[
+			"msg",
+			306753,
+			"I think other members are facing the same situation... If I knew this, I would bring Yssring along rather than asking you to join.",
+			"我想其他队员大概也是差不多的情况吧，早知道与其让你加入还不如把伊瑟琳给带过来来的省力。",
+			"他の隊員も大体同じような状況ね。そうと知っていれば、あなたを加えるよりもイザーリンを連れてきた方が手間が省けたわ。",
+			"다른 대원들도 대체로 비슷한 상황이네. 그걸 알았더라면, 당신을 더하는 것보다 이자린을 데려오는 게 수고가 덜 들었을 텐데.",
+			null,
+			null,
+			"I think the rest of the team is probably in a similar situation, I should have known that instead of letting you join it would be better to bring Estherine here to save effort.",
+			"The rest of the squad is in much the same boat. If I had known that, it would have saved me a lot of trouble to bring in Ysalin rather than adding you."
+		],
+		[
+			"portraits",
+			[
+				61,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306754,
+			"Ah, sorry, I didn’t mean to say you are useless, but...",
+			"啊，抱歉，我的意思不是说你没用而是……",
+			"あ、ごめんなさい。あなたが役に立たないってことじゃないのよ……。",
+			"아, 미안해. 당신이 쓸모없다는 건 아니야…….",
+			null,
+			null,
+			"Ah, sorry, I didn't mean to say you're useless but ......",
+			"Oh, I'm sorry. It doesn't mean you're useless. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306755,
+			"Roar--",
+			"吼吼吼——",
+			"グルルル——",
+			"그르릉——",
+			null,
+			null,
+			"Ho-ho-ho-ho",
+			"Grrr--"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306756,
+			"This sound... So there are still hidden Houkai creatures around. (*Whisper*)",
+			"这个声音是…果然还有潜伏的崩坏生物么。（小声）",
+			"シッ！この音は……やっぱり崩壊生物が潜伏しているのね。",
+			"쉿! 이 소리는...... 역시 붕괴 생물이 잠복하고 있네.",
+			null,
+			null,
+			"This sound is...is there really a lurking creature of disintegration. (whispering)",
+			"Shh! That sound is ...... I knew the disintegrating organisms were hiding in there."
+		],
+		[
+			"msg",
+			306757,
+			"It’s about time. You, tell everybody to assemble. Let’s evacuate immediately after we count the items.",
+			"时间差不多了，你去通知大家集合，我们清点好物品之后尽快撤离。",
+			"そろそろ時間よ。集合場所に戻りましょう。物品を確認したら速やかに撤退よ。",
+			"이제 시간이 됐어. 집합 장소로 돌아가자. 물품을 확인하면 신속히 철수하자고.",
+			null,
+			null,
+			"Time is almost up, you go to inform everyone to gather, we count the items as soon as possible after the evacuation.",
+			"It's time to go. Let's go back to the meeting place. After checking the items, we'll leave as soon as possible."
+		],
+		[
+			"msg",
+			306758,
+			"There are a few parts that I haven’t found yet. Let’s meet at the car park entrance later.",
+			"我还有几个零件没有找到，一会我们在停车场的入口处汇合。",
+			"私はまだ部品を見つけきれてないから、あとでスクラップ工場の入口で落ち合いましょう。",
+			"나는 아직 부품을 다 찾지 못했으니까, 나중에 스크랩 공장 입구에서 만나자.",
+			null,
+			null,
+			"I still have a few parts to find. We'll meet up at the entrance to the parking lot in a few minutes.",
+			"I haven't managed to find the parts yet, so I'll meet you later at the entrance to the scrap yard."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306759,
+			"......",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"msg",
+			306760,
+			"......",
+			"……",
+			"…………。",
+			"..........",
+			null
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306761,
+			"Why is Captain Himeko still not back.",
+			"姬子队长怎么还不回来。",
+			"姫子隊長はどうしてまだ戻ってこないの。",
+			"히메코 대장은 왜 아직 돌아오지 않은 거야?",
+			null,
+			null,
+			"Why isn't Captain Himeko back yet.",
+			"Why hasn't Captain Himeko come back yet?"
+		],
+		[
+			"msg",
+			306762,
+			"Captain is quite punctual. Seems her old problem had come up again...",
+			"队长是很守时的，看来是老毛病又犯了……",
+			"隊長は時間を守る人なのに。どうやら、いつもの癖がまた出たのね……。",
+			"대장은 시간을 지키는 사람이었는데. 어쩌면, 평소 버릇이 또 나온 거네......",
+			null,
+			null,
+			"The captain is very punctual, it seems to be the old problem again ......",
+			"The captain is a punctual person though. Apparently, his usual habits have kicked in again. ......"
+		],
+		[
+			"msg",
+			306763,
+			"Everybody, get your weapon ready. There must be Houkai beast activities around. I’m sure Captain had gone to take care of them herself!",
+			"大家准备武器，附近一定有崩坏兽的活动迹象，队长肯定又一个人去解决了！",
+			"みんな武器を準備して。付近に崩壊獣の活動した痕跡があるはず。隊長はきっと1人で倒しに行ったのよ！",
+			"다들 무기를 준비해. 부근에 붕괴수의 활동 흔적이 있을 거야. 대장은 분명 혼자서 쓰러트리러 갔을 거야!",
+			null,
+			null,
+			"Everyone prepare weapons, there must be signs of activity of the collapsing beast nearby, the captain must have gone to solve it alone again!",
+			"Everyone prepare your weapons. There should be some signs of activity in the vicinity of the disintegrator. The captain must have gone out there alone to take them down!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			306764,
+			"Boom!",
+			"砰！",
+			"バンッ——！",
+			"빵——!",
+			null,
+			null,
+			"Bang!",
+			"BANG--!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306765,
+			"I heard the sound of battle! Over here!",
+			"是战斗的声音！在这边！",
+			"戦闘音！こっちよ！",
+			"전투 소리! 이쪽이야!",
+			null,
+			null,
+			"It's the sound of battle! It's over here!",
+			"Battle cry! Over here!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306766,
+			"Boom!",
+			"砰！",
+			"ガキンッ！",
+			"강철 소리!",
+			null,
+			null,
+			"Bang!",
+			"Clunk!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			306767,
+			"Roar!!",
+			"吼吼吼！！",
+			"グォォォォォ！！",
+			"우와아아아!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Gooooooo!!!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306768,
+			"Hah! You’ve got something!",
+			"哼！还是挺能干的嘛！",
+			"ふんっ！なかなかやるじゃないの！",
+			"흥! 꽤 하는데!",
+			null,
+			null,
+			"Huh! Still quite capable!",
+			"Huh! That's not bad!"
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306769,
+			"But it’s over now!",
+			"不过也就到这此为止了！",
+			"でも、これまでよ！",
+			"하지만, 이제 끝이야!",
+			null,
+			null,
+			"But that's as far as it goes!",
+			"But that's it!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306770,
+			"Boom!!",
+			"砰！！",
+			"バンッ！！",
+			"빵야!!",
+			null,
+			null,
+			"BANG!!!",
+			"BANG!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306771,
+			"Captain! We have come to help you!",
+			"队长！我们来帮你了！",
+			"隊長！手伝いに来ました！",
+			"대장! 도우러 왔습니다!",
+			null,
+			null,
+			"Captain! We're here to help you!",
+			"Captain! I'm here to help!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306772,
+			"Tsk, you talk too much! I just bumped into it and wanted to warm myself up!",
+			"啧，少啰嗦！只是路过正好撞见而已，正好用来热热身！",
+			"もう、お節介なんだから！たまたま遭遇したから、ウォーミングアップしていただけだっていうのに！",
+			"정말, 쓸데없는 참견이야! 우연히 마주친 거니까, 워밍업하고 있을 뿐이라고!",
+			null,
+			null,
+			"Stop nagging! I was just passing by, and I just happened to run into it, so I used it to warm up!",
+			"You're meddling! I was just warming up when I happened to run into you!"
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306773,
+			"Ha!",
+			"哈！",
+			"はぁッ！",
+			"하앗!",
+			null,
+			null,
+			"Ha!",
+			"Huh!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306774,
+			"*Kacha*!",
+			"咔嚓！",
+			"ザシュッ！！",
+			"찌이익!!",
+			null,
+			null,
+			"Ka-chow!",
+			"Zash!!!!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306775,
+			"Tsk, I thought it would be a bigger one.",
+			"哼，本来还以为是只更大点的家伙呢。",
+			"ふん、もう少し骨があるやつかと思ったわ。",
+			"흠, 좀 더 뼈 있는 녀석인 줄 알았는데.",
+			null,
+			null,
+			"Heck, I was expecting a bigger guy.",
+			"Huh, I thought it would be one with a little more bone."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306776,
+			"Captain Himeko, I said this many times already! Please do not always fight alone!",
+			"姬子队长，已经说了很多次了！请不要每次都一个人战斗！",
+			"姫子隊長、何度も言ったはずです！いつも1人で戦わないでください！",
+			"히메코 대장, 몇 번이나 말했잖아요! 항상 혼자서 싸우지 마세요!",
+			null,
+			null,
+			"Captain Himeko, it's been said many times! Please don't fight alone every time!",
+			"Captain Himeko, I have told you many times! Don't always fight alone!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306777,
+			"It’s too dangerous for the Houkai beast to wander around in the car park. If you encounter it alone, you will be attacked. It would be easier if I just take it down myself.",
+			"崩坏兽在停车场徘徊太危险了，如果你们单独遇到的话肯定会被袭击的，还不如我自己把它了解了来得简单。",
+			"崩壊獣はスクラップ工場を徘徊していてとても危険よ。あなたたちが単独で遭遇したら、ケガだけじゃすまないわ。それなら、私が倒した方が楽でしょ。",
+			"붕괴수는 스크랩 공장을 배회하고 있어서 매우 위험해. 너희들이 혼자 마주치면 상처만으로 끝나지 않을 거야. 그냥 내가 처리하는 게 더 빠를 거야.",
+			null,
+			null,
+			"Avalanche beast wandering in the parking lot is too dangerous, if you encounter it alone you will certainly be attacked, it is better to understand it myself to come easy.",
+			"Honkai Beasts roam the scrap heap and are very dangerous. If you encounter one alone, you will not only get hurt. Then it would be easier for me to take them down."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306778,
+			"But...",
+			"可是……",
+			"ですが……。",
+			"하지만......",
+			null,
+			null,
+			"But ......",
+			"But see ......."
+		],
+		[
+			"choice",
+			[
+				306984,
+				"I think Himeko should have more faith in others.",
+				"我觉得姬子应该更相信大家的力量。",
+				"姫子はもっとみんなの力を信じるべきだと思う。",
+				"히메코는 모두의 힘을 더 믿어야 해.",
+				null
+			],
+			[
+				306985,
+				"I think I can defeat it too.",
+				"我觉得我也能打倒它。",
+				"私でも倒せると思う。",
+				"나도 쓰러뜨릴 수 있을 것 같아.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1220,
+			1221
+		]
+	],
+	"1220": [
+		[
+			"speaker",
+			204662
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306779,
+			"That’s right! Captain Himeko, please do not always face the danger alone! We will share your burden!",
+			"说的没错！请姬子队长不要总是一个人面对危险，我们也会给你分担的！",
+			"その通りです！姫子隊長、いつも1人で敵に立ち向かわないでください！私たちにも手伝わせてください！",
+			"그렇습니다! 히메코 대장, 항상 혼자서 적에게 맞서지 마세요! 우리도 함께 싸우게 해주세요!",
+			null,
+			null,
+			"That's right! Please, Captain Himeko, don't always face danger alone, we'll share it with you too!",
+			"That's right! Captain Himeko, don't always face the enemy alone! Let us help you!"
+		],
+		[
+			"msg",
+			306780,
+			"You asked us to focus on teamwork yourself! Do you think we will be your burden?",
+			"是您自己说的要注意团队合作！还是您认为我们会拖后腿呢！",
+			"チームワークを意識するようにってあなたが言ったんじゃないですか！私たちが足を引っ張ると思っているんですか！",
+			"팀워크를 의식하라고 당신이 말했던 거 아니에요! 우리가 발목을 잡고 있다고 생각하시는 거예요!",
+			null,
+			null,
+			"It was you who said you wanted to pay attention to teamwork! Or do you think we will drag our feet!",
+			"You're the one who told us to be team-oriented! You think we are dragging our feet!"
+		],
+		[
+			"msg",
+			306781,
+			"I’m not afraid to die if I’m with Captain Himeko...",
+			"和姬子队长一起的话，就算是死也……",
+			"姫子隊長と一緒だったら、たとえ死んでも……。",
+			"히메코 대장과 함께라면, 죽는다 해도……。",
+			null,
+			null,
+			"If you are with Captain Himeko, even if you die ......",
+			"If you were with Captain Himeko, even if you died, you would still be able to visit ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306782,
+			"Ouch... Why are all of you so emotional. Alright alright! I know, I won’t do it again!",
+			"哎…一个个都这么矫情，好了好了！我知道了，下次不会了！",
+			"もう……どいつもこいつも強情なんだから。分かったわよ！もうこんなことはしないわ！",
+			"정말…… 너희들 모두 고집이 세다니까. 알았어! 이제 이런 일은 안 할 거야!",
+			null,
+			null,
+			"Hey...everyone is so pretentious, okay, okay! I know, next time I won't!",
+			"I'm already on ...... how stubborn they all are. I get it! I won't do this anymore!"
+		]
+	],
+	"1221": [
+		[
+			"speaker",
+			204662
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306783,
+			"What did you say! If a newbie like you can do it, we surely can!",
+			"你说什么！你这种新手都行的话我们也是不在话下的！",
+			"何言っているの！あなたみたいな新人でも大丈夫なら、私たちにだってやれるわ！",
+			"무슨 소리야! 너 같은 신입도 괜찮다면, 우리들도 할 수 있겠지!",
+			null,
+			null,
+			"What are you talking about? If you are a novice, we can do it!",
+			"What are you talking about! If a rookie like you can do it, we can do it!"
+		],
+		[
+			"msg",
+			306784,
+			"Right! Captain Himeko, we want to fight together with you! So please don’t fight alone!",
+			"没错！姬子队长！我们也要和你一起作战！所以请不要总是一个人战斗了！",
+			"そうよ！姫子隊長！私たちもあなたと一緒に戦います！だから、いつも1人で戦わないでください！",
+			"그래요! 히메코 대장! 우리도 당신과 함께 싸울 거예요! 그러니까, 항상 혼자서 싸우지 말아주세요!",
+			null,
+			null,
+			"That's right! Captain Himeko! We're going to fight with you too! So please don't always fight alone!",
+			"Yes! Captain Himeko! We will fight with you too! So don't always fight alone!"
+		],
+		[
+			"msg",
+			306785,
+			"Show this newbie the power of Greymoths! Where is the Houkai beast!",
+			"让这个新人看看我们灰蛾部队的厉害！还有哪里有崩坏兽！",
+			"この新人に私たち灰蛾部隊のすごさを見せてやりましょう！崩壊獣は他にどこにいるんですか？",
+			"이 신병에게 우리 회아 부대의 엄청난 실력을 보여주자! 붕괴수는 다른 곳에 어디 있나요?",
+			null,
+			null,
+			"Let's show this newcomer what our Grey Moth Force is capable of! And where are the collapsing beasts!",
+			"Let's show this newcomer how great we ash-moth troops are! Where else would you find a Honkai Beast?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306786,
+			"Sigh... What’s wrong with you all... Alright, alright! I know! I will bring you along next time!",
+			"哎…一个个都赌什么气，好了好了！我知道了！下次会带上你们一起的！",
+			"もう……どいつもこいつも何を張り合っているのよ。ほら、ほら。分かったわよ！次からはあなたたちも一緒に連れて行くわ！",
+			"정말…… 이 녀석 저 녀석 다 뭘 그렇게 겨루는 거야. 자, 자. 알았어! 다음부터는 너희들도 같이 데리고 갈게!",
+			null,
+			null,
+			"Hey...what are you all betting on? Okay, okay! I know! I'll bring you guys along next time!",
+			"I'm already on ...... what are you guys competing with each other for? There, there. I get it! I get it! Next time I'm taking you guys with me!"
+		]
+	],
+	"1222": [
+		[
+			"speaker",
+			204662
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306787,
+			"Let’s see if there are Houkai creatures around here! We can’t let them interrupt the mission!",
+			"快找找！这附近还有没有崩坏生物，不能让它们妨碍任务！",
+			"早く探しましょう！この近くに崩壊生物がまだいるかもしれない。任務の邪魔はさせないわ！",
+			"빨리 찾아봐요! 이 근처에 붕괴 생물이 아직 있을지도 몰라. 임무 방해는 절대 안 돼!",
+			null,
+			null,
+			"Look for them! Are there any more Avalanche creatures around here? We can't let them get in the way of the mission!",
+			"Let's find them fast! There may still be disintegrating organisms in the vicinity. We can't let them interfere with our mission!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306788,
+			"Sorry you had to see this. The Greymoth may be the best combat squad, but the members are all like kids.",
+			"哎，让你见笑了，虽然是作战能力最强的灰蛾部队，但是里面的成员却都和小孩子一样。",
+			"ああ、こんな姿、あなたに笑われちゃうわね。戦闘能力は最強の灰蛾部隊だけど、中の隊員はみんなまだ子供なのよ。",
+			"아, 이런 모습, 당신에게 웃음거리가 되겠네. 전투 능력은 최강의 회아 부대지만, 안에 있는 대원들은 모두 아직 애들이야.",
+			null,
+			null,
+			"Hey, let you laugh, although it is the strongest combat ability gray moth troops, but the members inside are like children.",
+			"Oh, you would laugh at me for looking like this. We are the most powerful ash-moth unit in terms of combat capability, but all the members inside are still children."
+		],
+		[
+			"msg",
+			306789,
+			"Gives me a headache...",
+			"真是让人头痛……",
+			"本当に困っちゃう……。",
+			"정말 곤란해…….",
+			null,
+			null,
+			"What a headache ......",
+			"I'm really confused. ......"
+		],
+		[
+			"choice",
+			[
+				306986,
+				"Same for Himeko Captain.",
+				"姬子队长也一样。",
+				"姫子隊長も同じ。",
+				"히메코 대장도 똑같아.",
+				null
+			],
+			[
+				306987,
+				"We are more interesting than I imagined.",
+				"大家比想象的有趣。",
+				"みんな想像以上に面白いね。",
+				"다들 상상 이상으로 재미있네.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1223,
+			1224
+		]
+	],
+	"1223": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306790,
+			"Do you have a problem? Are you trying to hint that I am as childish as them?",
+			"你这家伙是皮痒了么？你是暗示我和她们一样胡闹么？",
+			"何よ？私も彼女たちと同じように勝手だって言いたいの？",
+			"뭐야? 나도 그 애들처럼 제멋대로라고 말하고 싶은 거야?",
+			null,
+			null,
+			"Are you guys itchy? Are you implying that I'm as nonsensical as they are?",
+			"What? Are you saying I'm just as selfish as them?"
+		],
+		[
+			"msg",
+			306791,
+			"Phew... Whatever, I know I shouldn’t act on my own this time, but it was for their good.",
+			"哼…算了，这次的确是我太独行了，但这也是为了她们好。",
+			"ふんっ……いいわ。今回は確かに単独行動が過ぎたわね。でも、これも彼女たちのためなのよ。",
+			"흥…… 좋아. 이번에는 확실히 단독 행동이 지나쳤네. 하지만, 이 또한 그 애들을 위한 거야.",
+			null,
+			null,
+			"Hm...never mind, it's true that I'm too much of a loner this time, but it's for their own good.",
+			"Hmmm... ...... okay. I've certainly gone it alone too much this time. But this is for their own good."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1225
+		]
+	],
+	"1224": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306792,
+			"In my eyes, they are no different from kids. Both their actual ages and mental ages.",
+			"在我的眼里她们就和孩子没有区别，不管是心智还是年龄。",
+			"私の目には、彼女たちが本当に子供のように映っているの。心も身体も。",
+			"내 눈에는, 그 애들이 정말 아이처럼 비춰져. 마음도 몸도.",
+			null,
+			null,
+			"In my eyes they are no different from children, regardless of their minds or ages.",
+			"In my eyes, these women are truly like children. Both physically and mentally."
+		],
+		[
+			"msg",
+			306793,
+			"You may look cold and distant, but you are still immature. You have a lot more to learn.",
+			"虽然平时表现的很冷漠，但其实还是太嫩了一些，看来也需要再锻炼锻炼呢。",
+			"普段は冷淡に振舞っているけれど、実は打たれ弱いのよ。まだまだ訓練が必要ね。",
+			"평소에는 냉담하게 행동하지만, 사실은 상처받기 쉬운 애들이야. 아직도 훈련이 필요해.",
+			null,
+			null,
+			"Although usually behaves very indifferent, but in fact is still too tender some, it seems also need to exercise again exercise it.",
+			"She usually acts indifferent, but in fact she is weak. He still needs more training."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1225
+		]
+	],
+	"1225": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10147"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306794,
+			"......",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			306795,
+			"What’s that look on you? Assemble! Hurry up.",
+			"你这眼神什么意思，快都给我集合！赶紧。",
+			"何よ、その目は？早く集合なさい。",
+			"뭐야, 그 눈은? 빨리 집합하라구.",
+			null,
+			null,
+			"What do you mean by that look? Gather up all of you! Hurry up.",
+			"What's with your eyes? Gather around quickly."
+		]
+	]
+}

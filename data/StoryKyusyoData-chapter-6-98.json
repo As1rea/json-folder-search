@@ -1,0 +1,1857 @@
+{
+	"1364": [
+		[
+			"speaker",
+			204622
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308821,
+			"Bronya, have you decided.",
+			"布洛妮娅，你决定好了么。",
+			"ブローニャ、覚悟はもうできた？",
+			"브로냐, 각오는 이미 됐어?",
+			null,
+			null,
+			"Bronya, have you decided yet.",
+			"Bronya, are you ready for this?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308822,
+			"Let's wait for a while……",
+			"还是再等等吧……",
+			"もう少し待ってください……。",
+			"조금만 더 기다려 주세요…….",
+			null,
+			null,
+			"It's better to wait ......",
+			"Please wait a little longer. ......"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308823,
+			"However you hesitate the answer won't be changed, I can do this for you if you can't.",
+			"不管再怎么犹豫答案都不会改变，如果你无法下定决心的话就由我来吧。",
+			"いくら迷っても状況は変わらないわ。覚悟ができないようなら、あたくしが代わりに伝えるわよ？",
+			"아무리 망설여도 상황은 변하지 않아. 각오를 못 한다면, 제가 대신 전할게?",
+			null,
+			null,
+			"No matter how much you hesitate the answer will not change, if you can't make up your mind then I will do it.",
+			"No amount of hesitation will change the situation. If you're not ready, I'll tell them for you, okay?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308824,
+			"No, Theresa…just give me some time.",
+			"不，德丽莎…再给我一些时间。",
+			"いいえ、テレサ……ブローニャが言います。もう少し時間をください。",
+			"아니요, 테레사…… 브로냐가 말할게요. 조금만 시간을 주세요.",
+			null,
+			null,
+			"No, Theresa...just give me some more time.",
+			"No, says Teresa ...... Bronya. Please give me some more time."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308825,
+			"Well…ok.",
+			"嗯…好吧。",
+			"うん、わかったわ……。",
+			"응, 알았어…….",
+			null,
+			null,
+			"Hmmm...well.",
+			"Yeah, I got it. ......"
+		],
+		[
+			"msg",
+			308826,
+			"Staying there helps nothing, let's go for a walk.",
+			"总是待在屋里愁眉不展也不是办法，出去透透气吧。",
+			"ずっと、ここでじっとしてるのもよくないわ。外に行って、気分転換をしましょう。",
+			"계속 여기서 가만히 있는 것도 좋지 않아. 밖에 나가서, 기분 전환을 하자.",
+			null,
+			null,
+			"Always stay in the house frown is not the way, go out to get some air.",
+			"It's not good to stay in here forever. Let's go outside for a change."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308827,
+			"Ah…you're right, now they still need my help, I can't just be so negative here.",
+			"啊…你说的对，现在大家还需要我们帮助，不能在这里消沉下去了。",
+			"そう……ですね。ブローニャたちは、みんなの心の支えとなる存在です。いつまでも落ち込んでいるわけにもいきません。",
+			"그렇군요… 브로냐들은 모두의 마음의 버팀목이에요. 언제까지나 우울해 있을 수만은 없죠.",
+			null,
+			null,
+			"Ah...you're right, people still need our help now, we can't afford to sulk here.",
+			"So ....... Bronyas are a source of emotional support for all of us. We can't stay depressed forever."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV11_ExplosionMultiClose"
+		],
+		[
+			"msg",
+			308828,
+			"Boom——!!!",
+			"轰隆——！！！",
+			"ドォオオオオン——ッ！！！！",
+			"우우우우웅——!!!",
+			null,
+			null,
+			"Boom--!!!",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooo-- ！！！！"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308829,
+			"Woo! What's wrong!",
+			"唔！怎么了！",
+			"……ッ！？何の音でしょう！？",
+			"……!? 무슨 소리죠!?",
+			null,
+			null,
+			"What! What's wrong!",
+			"......! What is that sound!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308830,
+			"The whole building is shaing! Is it attacked by Honkai creatures!",
+			"整个大楼都在晃动！难道是遭到崩坏生物的攻击了么！",
+			"ビル全体が揺れているわ！まさか崩壊生物の攻撃かしら！？",
+			"빌딩 전체가 흔들리고 있어! 설마 붕괴 생물의 공격인가!?",
+			null,
+			null,
+			"The whole building is shaking! Could it be an attack by the collapsing creatures!",
+			"The whole building is shaking! Is it an attack by a disintegrating organism?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308831,
+			"Let's get out! See what's happening!",
+			"走吧！我们去外面看下！",
+			"様子を見に行きましょう！",
+			"상태를 보러 가죠!",
+			null,
+			null,
+			"Let's go! Let's go outside and see!",
+			"Let's go see what's going on!"
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"msg",
+			308832,
+			"Eh! So much smoke…what happens!",
+			"咳咳！好大的烟尘…到底发生了什么！",
+			"ゴホゴホッ——すごい粉塵です……いったい何があったのですか！？",
+			"우욱우욱—— 엄청난 먼지예요… 대체 무슨 일이 있었던 거죠!?",
+			null,
+			null,
+			"Ahem! What a lot of smoke...what the hell is going on!",
+			"Gosh gosh gosh - that's a lot of dust. ...... What the hell happened!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308833,
+			"Bronya, eh! Part of top of ME building falls down…it's quite dilapidated because last Herrscher's attack, finally.",
+			"布洛妮娅，咳咳！ME社大楼的一部分上层建筑倒塌下来了…因为上次律者的攻击所以一直都摇摇欲坠，看来这次终于撑不住了呢。",
+			"ブローニャ、ケホケホッ……！ME社ビルの上層部が一部倒壊したわ……前回の律者の攻撃で、かなりのダメージを負ったツケが回ってきたみたい。",
+			"브로냐, 컥헉헉…! ME사 빌딩 상층부 일부가 붕괴되었어… 지난번 율자의 공격으로 상당한 데미지를 입은 게 이제서야 영향을 미친 모양이야.",
+			null,
+			null,
+			"A part of the superstructure of the ME building collapsed...it was always shaky because of the last attack by the Rulers, but it seems that it finally couldn't hold up this time.",
+			"Bronya, kehokehokehoke ......! The upper level of the ME building has partially collapsed. ...... It seems that the last attack by the Ritu has paid the price for the considerable damage it sustained."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308834,
+			"Eh! Then how about people! Are they hurt!",
+			"呃！那大家呢！有没有受伤！",
+			"こんな時に……！皆さん怪我はありませんか？",
+			"이런 때에…! 여러분, 다친 데는 없으신가요?",
+			null,
+			null,
+			"Ugh! What about everyone! Did you get hurt!",
+			"At a time like this: ......! Are you all injured?"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308835,
+			"It's ok, there's early warning around that erea, so nobody would get close to that, I think it's fine.",
+			"没事，那块区域因为已经有事先预警了，所以大家基本不会靠近，我想应该不会有什么损伤。",
+			"大丈夫よ、事前に警戒してたから、付近に人はいなかったはずだわ。",
+			"괜찮아, 사전에 경계했으니 근처에 사람은 없었을 거야.",
+			null,
+			null,
+			"It's okay, that area because there has been prior warning, so people basically do not approach, I think there should not be any damage.",
+			"It's okay, we were warned beforehand, so there shouldn't have been anyone in the vicinity."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308836,
+			"Is it…ok. But we still need to be careful, let's go to the scene to check.",
+			"是么…那就好。不过还是不能大意，我们去现场看一下损害情况吧！",
+			"そうですか……不幸中の幸いですね。ただ油断はできません。近くに行って、被害状況を確認しましょう！",
+			"그렇군요… 불행 중 다행이네요. 하지만 방심할 수 없어. 가까이 가서 피해 상황을 확인하자고요!",
+			null,
+			null,
+			"Really...that's good. Still can't be careless though, let's go to the scene and see the damage!",
+			"Well, ...... it's unfortunate. However, we can't let our guard down. Go nearby and check out the damage!"
+		]
+	],
+	"1365": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV15_WindWooshB"
+		],
+		[
+			"msg",
+			308837,
+			"Crack——Crack——",
+			"嘎啦——嘎啦——",
+			"ガラッ——ガシャッ——",
+			"우두둑——철컥——",
+			null,
+			null,
+			"Ga-la-ga-la-",
+			"Rumble--rattle--rattle--rattle."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308838,
+			"Here it is, the damage is much more than expected……",
+			"就是这里么，看来造成的破坏还是比预想的大很多呢……",
+			"ここですね。被害状況が予想よりもひどいです……。",
+			"여기네요. 피해 상황이 예상보다 심각하군요…….",
+			null,
+			null,
+			"This is where it is, it seems that the damage caused is still much greater than expected ......",
+			"Here it is. The damage is worse than expected. ......"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308839,
+			"Yes, afterall it's a huge fault block, we can't overlook it.",
+			"嗯，毕竟是那么大的断块，威力还是不可小觑呢。",
+			"ええ、崩れた箇所が大きかったら、周りに与えた影響も甚大ね。",
+			"네, 무너진 부분이 컸다면 주변에 미친 영향도 막심하겠죠.",
+			null,
+			null,
+			"Well, after all, it is so large broken pieces, the power is still not to be underestimated it.",
+			"Yes, if the collapsed area was large, the impact on the surrounding area would be enormous."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308840,
+			"Now the engineers are cleaning the scene, but the track of Hyperion is damaged more or less, need some time to fix it.",
+			"现在工程班的人已经在现场清理残骸了，不过休伯利安号的轨道也受到了不同程度的侵害，可能需要一些时间才能修复。",
+			"工事班の人たちが現場で瓦礫の処理をしてるけど、ハイペリオンの進路軌道上にも影響が出てるみたいで、完全な復旧には少し時間が必要よ。",
+			"공사반 사람들이 현장에서 잔해 처리를 하고 있지만, 히페리온의 진로 궤도상에도 영향을 받은 모양이어서 완전한 복구에는 시간이 좀 필요해요.",
+			null,
+			null,
+			"The engineering squad is now on the scene to clean up the wreckage, but the tracks of the Huberian have also been violated to varying degrees and may take some time to repair.",
+			"Construction crews are on site to clean up the debris, but it looks like Hyperion's pathway orbit has been affected, so it will take some time to fully recover."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308841,
+			"Hyperion…it may never gets started again……",
+			"休伯利安号么…那艘船或许已经不会再动起来了吧……",
+			"ハイペリオンですか……あの船が動くことは、もう二度とないかもしれませんが……。",
+			"히페리온이라... 저 함선이 다시 움직일 일은 영원히 없을지도 모르지만...",
+			null,
+			null,
+			"The Huberian?...that ship probably won't move anymore ......",
+			"Is it Hyperion? ...... That ship may never move again. ......"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308842,
+			"Bronya?",
+			"布洛妮娅？",
+			"ブローニャ？",
+			"브로냐?",
+			null,
+			null,
+			"Bronya?",
+			"Bronya?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308843,
+			"No, it's ok. I got it, do you need any help?",
+			"不，没事。我知道了，有什么需要帮忙的么？",
+			"何でもないです。状況はわかりました、何か手伝えることはありませんか？",
+			"아무것도 아니에요. 상황은 파악했어요, 뭐 도와드릴 일은 없을까요?",
+			null,
+			null,
+			"No, it's okay. I got it. Can I help you with anything?",
+			"It's nothing. I understand the situation. Is there anything I can do to help?"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308844,
+			"I'm no sure, need to ask them on the scene.",
+			"这个我目前也不清楚，得问问现场的人员呢。",
+			"うーん、現場の人間に聞かないとわからないわね。",
+			"음, 현장 사람들에게 물어보지 않으면 모르겠네요.",
+			null,
+			null,
+			"I'm not sure about this at the moment, I have to ask the site staff it.",
+			"Hmmm, I'll have to ask someone on the ground to find out."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308845,
+			"Ok, let's go to help them, so that we can finish this quickly.",
+			"嗯，那我们就去和他们一起清理吧，这样也能及时处理问题。",
+			"わかりました。では、その現場に向かいましょう、何か問題があった場合でもすぐに対処できます。",
+			"알겠습니다. 그러면, 그 현장으로 향하죠. 문제가 생기더라도 바로 처리할 수 있으니까요.",
+			null,
+			null,
+			"Well, then let's go and clean up with them, so that we can also deal with the problem in time.",
+			"Understood. Then let's head to the site, and we can take care of any problems right away."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308846,
+			"Sure, thank you very much.",
+			"好的，非常感谢。",
+			"うん、ありがとう。",
+			"응, 고마워.",
+			null,
+			null,
+			"Okay, thank you very much.",
+			"Yeah, thanks."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308847,
+			"Kyushou and me will help as well, it must e very difficult to clean so many remains, more people more strength!",
+			"我和九霄也一起来帮忙吧，这么多残骸清理起来一定很麻烦，人多力量大嘛！",
+			"あたくしと九霄も手伝うわ！こんなに瓦礫があるんだもの、きっと人手が必要だわ。",
+			"나도 큐쇼도 도와줄게! 이렇게 잔해가 많으니 분명 사람 손이 필요할 거야.",
+			null,
+			null,
+			"I and Kyuushou also come to help, so many wreckage must be very troublesome to clean up, the strength of many people!",
+			"I and Kyuushou will help too! There's so much debris, I'm sure they need help."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308848,
+			"Yes, let's go.",
+			"嗯，我们走吧。",
+			"ええ、お願いします。",
+			"네, 부탁드려요.",
+			null,
+			null,
+			"Well, let's go.",
+			"Yes, please."
+		]
+	],
+	"1366": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308849,
+			"Boom——!",
+			"轰隆——！",
+			"ドカッ——！",
+			"쿵——!",
+			null,
+			null,
+			"Boom-!",
+			"Boom--!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308850,
+			"Huh…we've only cleaned these, still have lots of work to do.",
+			"呼…没想到我们忙了这么久也才只清理了这一些，看来是要忙一阵子了。",
+			"ふぅ、こんなに拾っても、まだこれしか処理できていないのですね。しばらく、ここから動けなさそうです。",
+			"후, 이렇게 많이 주워도 아직 이 정도밖에 처리 못했네요. 한동안 이 자리에서 움직이기 힘들 것 같아요.",
+			null,
+			null,
+			"Phew...I didn't think we'd be busy for so long before we only cleaned up some of this, so it looks like it's going to be busy for a while.",
+			"Phew, even after picking up so much, this is still the only thing I have been able to process. It looks like I won't be able to move from here for a while."
+		],
+		[
+			"choice",
+			[
+				309296,
+				"Shouldn't we give up ME and find a new place!",
+				"不选择放弃ME社找个新的基地么？",
+				"ME社を諦めて、新しい基地を探したら？",
+				"ME사를 포기하고, 새로운 기지를 찾으면?",
+				null
+			],
+			[
+				309316,
+				"ME can't take this for much longer.",
+				"这样的ME社支持不了多久了吧。",
+				"こんな状況のME社、長くもたないよ。",
+				"이런 상황의 ME사, 오래 버티지 못할 거야.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1367,
+			1368
+		]
+	],
+	"1367": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308851,
+			"New base…that's what I was thinking, but is there any place in the world can be called safe?",
+			"新的基地么…就在刚才我也这么想的，但现在这个世界上还有称得上安全的地方么？",
+			"新しい基地ですか……ブローニャも考えましたが、この世界に安全と言えるような場所が果たしてあるのでしょうか？",
+			"새로운 기지요......브로냐도 고민해봤지만, 이 세상에 안전하다고 할 만한 장소가 과연 존재할까요?",
+			null,
+			null,
+			"A new base...just now I was thinking the same thing, but is there a safe place in the world now?",
+			"A new base. ...... Bronya thought about it, but is there really any place in this world that can be called safe?"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1369
+		]
+	],
+	"1368": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308852,
+			"You're right…I was thinking if we should find another place, but there's no place in this world can be called safe.",
+			"你说的对…就在刚才我也想着要不要重新找个地方让大家落脚，但是现在这个世界上已经没有哪里是称得上安全的地方了吧。",
+			"そうですね……ブローニャも別の場所を探した方がいいと考えましたが、この世界にはもう、安全と言えるような場所はどこにもありません。",
+			"그렇네요......브로냐도 다른 장소를 찾아야 한다고 생각했지만, 이 세상에는 더 이상 안전한 곳이라 부를 만한 곳이 없어요.",
+			null,
+			null,
+			"You're right...just now I was thinking about finding a new place for everyone to land, but there is nowhere in the world that can be called a safe place, right?",
+			"Yes, ...... Bronya thought it would be better to look for another place, but there is nowhere in this world that can be called safe anymore."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1369
+		]
+	],
+	"1369": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308853,
+			"Like this broken building…our world is full of riddles, close to collapse.",
+			"就如同这座摇摇欲坠的大楼…我们的世界也已经千疮百孔，到了濒临倒塌的边缘了。",
+			"この倒れそうなビルのように……この世界もボロボロで、いつ壊れてもおかしくないのです。",
+			"이 무너질 것 같은 빌딩처럼...... 이 세상도 너덜너덜해져서 언제 무너져도 이상할 게 없죠.",
+			null,
+			null,
+			"Just like this crumbling building...our world is riddled with holes and on the verge of collapse.",
+			"Like this collapsing building,...... this world is in tatters and could break at any moment."
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308854,
+			"But…Kyushou……",
+			"但是啊…九霄……",
+			"でも……九霄……。",
+			"하지만......큐쇼......",
+			null,
+			null,
+			"But ah...Kyuushou ......",
+			"But ......九霄......。"
+		],
+		[
+			"msg",
+			308855,
+			"Have you seen how hard they are trying, to build a living place for themselves…a place that they can survive…a place called 「home」.",
+			"你看到他们努力的样子了么…就算这样大家都还在拼命地创造一个属于自己居住的地方…一个能够生存的地方…名为「家」的地方。",
+			"今回の一件で、みんなの頑張っている姿をあなたも見たと思います。たとえ、こんな風になっても、みんなで生きていける場所……「家」と呼べる場所を命がけで復旧させているのです。",
+			"이번 일로 모두가 노력하는 모습을 당신도 봤을 거예요. 비록 이렇게 됐어도, 우리가 함께 살아갈 수 있는 장소......「집」이라 부를 만한 곳을 목숨 걸고 복구하고 있는 거니까요.",
+			null,
+			null,
+			"You see how hard they work...even so everyone is still trying to create a place to live...a place to live...a place called \"home\".",
+			"I am sure you too have seen how hard everyone is working on this one. Even if it turns out like this, we are all risking our lives to restore a place that we can all live together and call ...... \"home\"."
+		],
+		[
+			"msg",
+			308856,
+			"Maybe it doesn't matter where the place is, if it's dangerous…as long as we're there working together, that place is our base.",
+			"或许那个地方究竟是哪里都无所谓，是不是危险也一样…只要那里有大家一起奋战的身影，那么它就是我们的基地。",
+			"その場所がどこで、安全かどうかは関係ないのです……ただ、みんなが一緒にいて、一緒に戦うことができれば、そこが私たちの基地なんです。",
+			"그 장소가 어디인지, 안전한지는 중요하지 않아요...... 단지 모두가 함께 있고 함께 싸울 수 있다면, 그곳이 바로 우리의 기지예요.",
+			null,
+			null,
+			"Maybe it doesn't matter exactly where that place is, whether it's dangerous or not...as long as there's everyone fighting together there, then it's our base.",
+			"It doesn't matter where it is or if it is safe or not ...... just that if we can all stay together and fight together, that is our base."
+		],
+		[
+			"msg",
+			308857,
+			"I am awalys hesitating to tell people the fact that big Honkai is coming, because I'm afraid it will make people lost and set them apart, finally they don't have someone to rely on, and have to face the end of the world by themselves.",
+			"我总是犹豫着要不要告诉大家大崩坏即将来到的事实，因为我害怕这样大家会因为无所适从而变得分崩离析，最后连互相依靠的人都没有，在慌乱中迎来末日。",
+			"大崩壊が再び訪れるという事実を、皆にどう伝えるか迷っていました。全員がこの事実を知れば、皆は混乱に陥り、何もかも信じられなくなるのではと恐怖に駆られたのです。",
+			"대붕괴가 다시 찾아올 거라는 사실을 모두에게 어떻게 전할지 고민했어요. 모두가 이 사실을 알게 되면 혼란에 빠져 모든 것을 믿지 못하게 될까 두려웠죠.",
+			null,
+			null,
+			"I always hesitate to tell everyone the fact that the Great Crash is coming, because I am afraid that then everyone will become divided because they have nothing to do, and in the end there will be no one to rely on, ushering in the end in panic.",
+			"I was not sure how to tell everyone that the Great Collapse was coming again. I was afraid that if everyone knew this fact, they would be confused and would not believe in anything."
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308858,
+			"But maybe it's just because I'm too weak…what makes me stay strong here is no other…but all the people here.",
+			"但是或许这只是我自己太懦弱了而已…真正支撑着我在这个末日中坚强地走下去的不是别人…而是在这里的大家。",
+			"でも、それはブローニャが弱いだけだったのかもしれません……ブローニャを強く支えてきてくれたのは他でもない、ここにいるみんななのですから。",
+			"하지만 그건 브로냐가 약했던 것뿐일지도 몰라요... 브로냐를 단단히 지탱해준 건 바로 여기 있는 여러분이었으니까요.",
+			null,
+			null,
+			"But maybe that's just me being too weak...what's really holding me strong in this apocalypse is no one else...it's everyone here.",
+			"But maybe that was just because Bronya was weak. ...... It is everyone here, not just anyone else, who has been strong and supportive of Bronya."
+		],
+		[
+			"msg",
+			308859,
+			"Having experienced so much depression, they have become more stronger that any else…what protect them until now is not the base, but themselves.",
+			"经历了这么多绝望之后，她们或许已经变得比任何东西都要坚强…因为真正保护着她们活到现在的不是这个基地，而是她们自身。",
+			"これだけの絶望を経験してきた彼女たちは何よりも強い……彼女たちを守ってきた存在は、この基地ではなく彼女たち自身だったのかもしれません。",
+			"이만큼의 절망을 겪은 그들은 그 무엇보다 강해요... 그들을 지켜온 건 이 기지가 아니라 그들 자신이었을지도 모르겠네요.",
+			null,
+			null,
+			"After so much despair, they may have become stronger than anything else...because it is not this base that has truly protected them from surviving to this point, but they themselves.",
+			"After experiencing so much despair, these women are stronger than anything else. ...... Perhaps the entity that has protected them was not this base, but themselves."
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308860,
+			"…I've decided, I will get everybody here, it's time to tell them the truth.",
+			"…我决定好了，我去把大家都叫过来，是时候该告诉她们真相了。",
+			"……決めました、みんなに真実を伝えてきます。",
+			"......결정했어요, 모두에게 진실을 말할 거예요.",
+			null,
+			null,
+			"...I decided well, I'll go get everyone over here, it's time to tell them the truth.",
+			"I've decided ......, I'm going to go tell everyone the truth."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308861,
+			"Yes, then go, we'll wait you here.",
+			"嗯，那就去吧，我们在这里等你。",
+			"わかったわ、あたくしはここで待ってるわよ。",
+			"알았어, 난 여기서 기다리고 있을게.",
+			null,
+			null,
+			"Well, go on then, we'll wait for you here.",
+			"Okay, I'll wait here for you."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308862,
+			"Yes!",
+			"嗯！",
+			"はい！",
+			"네!",
+			null,
+			null,
+			"Hmm!",
+			"Yes!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308863,
+			"……",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308864,
+			"……",
+			"……",
+			"…………。",
+			"...............",
+			null
+		],
+		[
+			"msg",
+			308865,
+			"Bronya, you're right…",
+			"布洛妮娅，你说的对…",
+			"ブローニャ、あなたの判断は正しいわ……。",
+			"브로냐, 네 판단은 옳아......",
+			null,
+			null,
+			"Bronya, you're right...",
+			"Bronya, you are right on the money: ......."
+		],
+		[
+			"msg",
+			308866,
+			"But they can hold on until know because they still believe in hope……the most horrible result is the hope has gone.",
+			"但是她们能坚持到现在是因为还相信着希望……如果希望破灭的话才是最可怕的结果吧。",
+			"でも、彼女たちが今まで頑張れたのは、希望を信じていたからこそ……希望が打ち砕かれた瞬間、最も恐れていた結果を招くかもしれない。",
+			"하지만 그들이 지금까지 버틸 수 있었던 건 희망을 믿었기 때문이었어... 희망이 무너지는 순간, 가장 두려워하던 결과를 맞이할지도 몰라.",
+			null,
+			null,
+			"But they can persevere until now because they still believe in hope ...... If hope is dashed then it is the most terrible result, right?",
+			"But the girls were able to hang on until now because they believed in hope. ...... The moment hope is shattered, it may lead to the most feared outcome."
+		]
+	],
+	"1370": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308867,
+			"Everybody is here.",
+			"大家都到了吧。",
+			"みんな、集まりましたか？",
+			"다들 모였나요?",
+			null,
+			null,
+			"Everyone is here, right?",
+			"Has everyone gathered?"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308868,
+			"Yes, all the people are gathered here, are you going to tell us something Bronya?",
+			"是的，基地所有的人都集合了，布洛妮娅是有什么事情要和我们说么？",
+			"ええ、これで全員よ。私たちに話があるって？",
+			"네, 이제 전원이에요. 우리에게 할 말이 있다고?",
+			null,
+			null,
+			"Yes, all of the base is assembled, does Bronya have something to tell us?",
+			"Yeah, that's all of them. You wanted to talk to us?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308869,
+			"Yes…I have thought about it a lot before telling you this……",
+			"是的…这是我犹豫再三之后才决定告诉你们的……",
+			"ええ……ずっと迷っていましたが、ブローニャは決めました。皆に伝えなければいけないことがあります……。",
+			"네...... 오랫동안 망설였지만, 브로냐는 결심했어요. 모두에게 전해야 할 일이 있어요.......",
+			null,
+			null,
+			"Yes...this is what I decided to tell you after much hesitation ......",
+			"Yes, ...... I've been thinking about it for a long time, but Bronya has decided. I have to tell everyone ......."
+		],
+		[
+			"msg",
+			308870,
+			"It's out of the blue, but I hope you can all accept it.",
+			"虽然很突然，但是希望你们能接受这样的结果。",
+			"突然、このようなことを言っても受け入れられないかもしれませんが、どうか信じてください。",
+			"갑자기 이런 말을 해도 받아들여지지 않을지 모르지만, 부디 믿어주세요.",
+			null,
+			null,
+			"It was very sudden, but I hope you can accept the result.",
+			"Suddenly this may be unacceptable to you, but please believe me."
+		],
+		[
+			"msg",
+			308871,
+			"Our world has……",
+			"我们的世界已经……",
+			"この世界は——",
+			"이 세계는——",
+			null,
+			null,
+			"Our world has ......",
+			"This world--"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			308872,
+			"Growl!!!",
+			"吼吼吼！！！",
+			"ゴゴゴォオオオオッ！！！",
+			"우르르르르르!!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Gogooooooooooooooooooooooooooooooooooooooooooooooooooo!!!"
+		],
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308873,
+			"!?",
+			"！？",
+			"！？",
+			"!?",
+			null,
+			null,
+			"!",
+			null
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308874,
+			"Honkai creatures! They are very close!",
+			"是崩坏生物！居然已经这么近了！",
+			"崩壊生物よ！こんな近くにまで来てるなんて！",
+			"붕괴 생물이! 이렇게 가까이까지 와 있다니!",
+			null,
+			null,
+			"It's a collapse creature! I can't believe it's already this close!",
+			"It's a disintegrating organism! I can't believe they're this close!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308875,
+			"Damn! Because no one is in the outpost!",
+			"可恶！乘着大家集合时哨站守备空缺的时候乘虚而入的么！",
+			"クソッ！みんなが一か所に集まってる時に来るとはな。",
+			"젠장! 다들 한곳에 모여 있을 때 오다니.",
+			null,
+			null,
+			"Damn it! You took advantage of the fact that the guard station was vacant when everyone was assembled to take advantage of the situation!",
+			"Damn! I didn't expect you to show up when everyone is all in one place."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308876,
+			"At this moment……is it because of the voice, I don't even notice……",
+			"居然在这个时候……难道是残骸倒下的声音吸引过来的么，总是想着末日的事情居然没有注意到这些……",
+			"……まさか、ビルが崩れた時の音に吸い寄せられたのでしょうか？考え事ばかりに捕らわれ、全く気づきませんでした……。",
+			"......설마, 빌딩이 무너질 때의 소리에 끌려온 걸까요? 생각할 거리만에 사로잡혀, 전혀 눈치채지 못했어요.......",
+			null,
+			null,
+			"Surprisingly at this time ...... is the sound of falling wreckage attracted to it, always thinking about the end of things actually did not pay attention to these ......",
+			"...... I didn't think I was sucked in by the sound of the building collapsing? I was so caught up in my thoughts that I didn't notice it at all. ......"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308877,
+			"Bronya! Take all the people to ME!",
+			"布洛妮娅！赶快带着大家去ME社内迎击！",
+			"ブローニャ！みんなを連れてME社内に戻りましょう。そこで迎え撃つわよ！",
+			"브로냐! 모두를 데리고 ME사 안으로 돌아갑시다. 거기서 맞서 싸울 거예요!",
+			null,
+			null,
+			"Bronya! Hurry up and take everyone to meet the ME Society inside!",
+			"Bronya! Let's get everyone back inside ME. We'll intercept you there!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308878,
+			"Ok! Everyone go back to ME!",
+			"好的！所有人返回ME社！",
+			"はい！皆さん、ME社に戻ってください！",
+			"네! 여러분, ME사로 돌아가 주세요!",
+			null,
+			null,
+			"Yes! Everyone back to ME Society!",
+			"Yes, sir! Everyone, please return to ME Company!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			308879,
+			"Growl!!!",
+			"吼吼吼！！！",
+			"ヴォオオオオッ——！！！",
+			"우오오오오——!!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Vooooooooooooooooo!!!!!!!!!!!!!!!!!!!!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308880,
+			"Sorry…too many Honkai creatures! Everybody go! I will take care of this!",
+			"不行…崩坏生物太多了！大家快撤离！我来断后！",
+			"ダメ……数が多すぎる！みんな、早く撤退して！背中はあたくしが守るわ！",
+			"안 돼... 숫자가 너무 많아! 모두 빨리 철수해! 등은 내가 지킬게!",
+			null,
+			null,
+			"No...there are too many Avalanche creatures! Everybody get out! I'll break the back!",
+			"No ...... too many! Everyone, pull out now! I'll watch your backs!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308881,
+			"Theresa! Let me help!",
+			"德丽莎！我来帮你！",
+			"テレサ！手伝います！",
+			"테레사! 도와드릴게요!",
+			null,
+			null,
+			"Theresa! Let me help you!",
+			"Teresa! I'll help you!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308882,
+			"Don't! Take people to build the line of defense! Go!",
+			"不用管我！你带着大家在大楼里建立防线！快点！",
+			"いえ、ここはいいわ！みんなを連れてビル内で防衛線を作って！早くっ！",
+			"아니, 여긴 괜찮아! 모두를 데리고 건물 안에서 방어선을 구축해! 서둘러!",
+			null,
+			null,
+			"Don't worry about me! You take everyone and set up a defensive line in the building! Hurry up!",
+			"No, not here! Take everyone and form a line of defense inside the building! Quickly!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308883,
+			"Coo…I know! Be careful!",
+			"咕…我知道了！你注意安全！",
+			"わ、わかりました！どうか気をつけてください！",
+			"알, 알겠습니다! 부디 조심하세요!",
+			null,
+			null,
+			"Goo...I got it! You be safe!",
+			"Wow, okay! Please be careful!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308884,
+			"Don't worry about me!",
+			"放心吧！",
+			"ええ、もちろん！",
+			"그래, 당연하지!",
+			null,
+			null,
+			"Don't worry!",
+			"Yes, of course!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			308885,
+			"Growl!!",
+			"吼吼吼！！",
+			"グォオオオオオオッ——！！",
+			"꾸오오오오오——!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Guooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308886,
+			"Get out!",
+			"给我滚开！",
+			"ハァッ！",
+			"하앗!",
+			null,
+			null,
+			"Get the hell out of my way!",
+			"Huh!"
+		],
+		[
+			"msg",
+			308887,
+			"Come on! I won't let you go through so easily!",
+			"来吧！我是不会让你们轻易过去的！",
+			"かかってきなさい！ここから先には行かせないわよ！",
+			"덤벼 보세요! 여기서부터는 절대 지나가지 못하게 할 거예요!",
+			null,
+			null,
+			"Come on! I will not let you pass easily!",
+			"Come at me! I won't let you go any further!"
+		]
+	]
+}

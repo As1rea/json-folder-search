@@ -1,0 +1,1536 @@
+{
+	"120": [
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50693,
+			"The energy source is getting stronger.",
+			"能量反应似乎变强了。",
+			"エネルギー反応が強くなったみたいです…",
+			"에너지 반응이 강해진 것 같아요...",
+			"It seems like the energy responses are getting stronger..."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50694,
+			"It's giving me the creeps.",
+			"我们赶快离开这里吧。",
+			"急いで離れよう！",
+			"서둘러 떠나자!",
+			"Let's hurry up and go!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50695,
+			"Anyways I saw a few ME Corp's logos here.",
+			"对了，走过来的时候我看到这个实验室里面有很多ME社的标识。",
+			"そうだ、そういえばこの研究所に入ってくる時、ME社のロゴいっぱいあったよね。",
+			"그렇지, 말하자면 이 연구소에 들어올 때 ME사의 로고가 많이 있었어.",
+			"Anyway, now that I think of it, there are a lot of ME Corp logos in this laboratory."
+		],
+		[
+			"msg",
+			50696,
+			"Could this be one of ME labs?",
+			"这里莫非是ME社的实验室？",
+			"ここME社の研究室なのかな？",
+			"여기 ME사의 연구실인가?",
+			"Is this one of ME Corp's labs?"
+		],
+		[
+			"msg",
+			50697,
+			"Do you know this place, Mei?",
+			"芽衣你知道这里吗？",
+			"芽衣先輩ここの事知ってた？",
+			"메이 선배 여기 일 알아?",
+			"Did you know about this place, Mei-senpai?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50698,
+			"Nope. My dad never told me anything although he is the head of the company.",
+			"不知道…虽然我父亲是ME的社长，但是他一直要求我不要接触公司的事务。",
+			"お父様はME社の社長だったけど、私には何も教えてくれなかったの。",
+			"아버지는 ME사의 사장이셨지만, 나에게는 아무것도 가르쳐 주지 않으셨단다.",
+			"My father was the president of ME Corp, but he never told me anything."
+		],
+		[
+			"msg",
+			50699,
+			"How 'bout u, Bronya?",
+			"布洛妮娅你知道什么吗？",
+			"ブローニャちゃん何かわかる？",
+			"브로냐야 뭐 아는 거 있어?",
+			"Bronya, do you know anything?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50700,
+			"Bronya couldn't find anything information regardthing this lab.",
+			"布洛妮娅没有这个实验室相关的资料。",
+			"ブローニャ、ここのデータ無いです。",
+			"브로냐, 여기 데이터 없어요.",
+			"Bronya has no information about this laboratory."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				603,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			50701,
+			"If I remember correctly, there's a reference room up ahead. Maybe we'll find something there.",
+			"那个…我记得这个通道的前面有一个档案室…也许会有琪亚娜姐姐需要的资料。",
+			"えっと…この通路の奥に資料室があるの。そこに行けばお姉ちゃんたちの欲しい資料があるかも。",
+			"어... 이 통로 끝에 자료실이 있어. 거기 가면 언니들이 원하는 자료가 있을지도.",
+			"Umm... there's a reference room at the end of this corridor. If you go there, you might find the information you want."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				603,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50702,
+			"Yeah, let's find out who did this to our girl!",
+			"那我们去看看吧，去搞明白这群人到底在希儿身上做了什么！",
+			"それじゃあそこまで行ってみよう。ゼーレに何をしたのか分かるかもしれないし。",
+			"그럼 거기까지 가보자. 제레에게 무슨 일을 했는지 알 수 있을지도 모르고.",
+			"Well then, let's go there. We'll find out what they did to Seele!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				603,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			50703,
+			"Thanks…!",
+			"谢谢…！",
+			"ありがとう…！",
+			"고마워...!",
+			null
+		]
+	],
+	"121": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50704,
+			"It's the doppelganger again!",
+			"幻象又出现了！",
+			"また幻影よ！",
+			"또 환영이야!",
+			"Another illusion!"
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50705,
+			"She's in our way which means we are in the right place.",
+			"她拦在这里，就是说明这里确实有一些重要的情报吧！",
+			"幻影が出てくるって事は、ここには重要な情報がありそうね。",
+			"환영이 나온다는 건, 여기에 중요한 정보가 있을 것 같네.",
+			"Since an illusion is appearing in our way, there really <i>must</i> //n be important information here."
+		]
+	],
+	"122": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50706,
+			"Here are some files.",
+			"这里有一些档案。",
+			"ここにファイルがあるよ！",
+			"여기 파일이 있어!",
+			"Here's some files!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50707,
+			"File A307: On Jan 20, 2012, a group of orphans were shipped here. In previous experiments, the subjects were able to control the Source and summon mecha. We also found...",
+			"档案A307：2012年1月20日，新的一批孤儿送到了。在以前的试验中，我们成功让一批实验体控制了崩坏能源，并具象化成了机甲。在试验中，我们发现……",
+			"資料A307:2012年1月20日、新しい孤児たちが送られて来た。以前の実験で、我々は実験体に崩壊エネルギーを制御、具現化させることに成功。試験中に…",
+			"자료 A307: 2012년 1월 20일, 새로운 고아들이 보내져 왔다. 이전 실험에서, 우리는 실험체에게 붕괴 에너지를 제어, 구현화시키는 데 성공. 시험 중에...",
+			"Document A307: On January 20, 2012, new orphans were sent. In previous experiments, we successfully caused the test subjects able to control Honkai Energy and materialize mechas. During the test..."
+		],
+		[
+			"msg",
+			50708,
+			"......The Source has more potentials. In the recent experiment, we tried to let the subjects have more control over the Source and fill the room with mecha.",
+			"……崩坏能源还有更多的可能性，在新的试验中，我们将尝试让试验体对崩坏能源进行更强的控制，从而不仅仅是创造一个机甲，而是可以创造一整个空间。",
+			"…崩壊エネルギーのさらなる可能性を発見した。次の実験では、さらなる制御をさせれば、具現化だけでなく、空間を生み出せる可能性を見つけた。",
+			"...붕괴 에너지의 더욱 큰 가능성을 발견했다. 다음 실험에서는, 더욱 세밀한 제어를 시도하면, 구현화뿐만 아니라, 공간을 창조할 가능성을 찾았다.",
+			"...we discovered further possibilities for Honkai Energy. In the next experiment, we found that with more control, it is possible to cause not only materialization, but also create another form of space."
+		],
+		[
+			"msg",
+			50709,
+			"File A308: On Feb 1, 2012, we conducted an experiment on the psyche of all the subjects. However, five of them died from the procedure. Their bodies were all twisted shortly before their death.",
+			"档案A308：2012年2月1日，我们对所有的试验体进行了精神改造，但是10个试验体中，有5个已经死去了。这些女孩在死之前，整个身体都被扭曲了……",
+			"資料A308:2012年2月1日、我々はすべての実験体に精神改造を施した。しかし10体中5体が死亡。死亡前に体がひねり曲がる現象が起きた。",
+			"자료 A308: 2012년 2월 1일, 우리는 모든 실험체에게 정신 개조를 가했다. 그러나 10체 중 5체가 사망. 사망 전에 몸이 비틀어지는 현상이 발생했다.",
+			"Document A308: On February 1, 2012, we performed mental modifications on all test subjects. However, 5 out of 10 subjects died. Before death, their bodies began to twist and bend."
+		],
+		[
+			"msg",
+			50710,
+			"...Their rooms were affected in the same way. It seems that whatever happened to their bodies also bended the physical laws. Does that mean the experiment was a success or a failure? Whichever it is, it is beyond our comprehension.",
+			"……她们的房间也变的像是梦境一样，物理法则都受到了扭曲。实验算是成功了吗？还是失败了？不…总之，这一切都太可怕了。",
+			"試験に成功した実験体たちの部屋は夢空間のように物理の法則を捻じ曲げていた。実験は成功なのか？それとも失敗なのか…",
+			"시험에 성공한 실험체들의 방은 꿈의 공간처럼 물리의 법칙이 뒤틀려 있었다. 실험은 성공인가? 아니면 실패인가...",
+			"The room in which the test subjects passed the test, was a dream world where the laws of physics were bent. Was the experiment a success? Or a failure...?"
+		],
+		[
+			"msg",
+			50711,
+			"File A309: In March 2012, the only remaining subject entered the last phase of our experiment. The whole lab was affected...I started to see my dead mother...Am I still living?",
+			"档案A309：2012年3月，终于，有一个试验体进入了最终阶段。整个实验室似乎都被扭曲了…我看到了死去的母亲，我真的还活在真实的世界中吗？",
+			"資料A309:2012年3月、やっと1体の実験体が最終段階に入った。実験室全体の空間が歪み始めている。死んだはずの母を見た。果たしてここは現実世界なのか…",
+			"자료 A309: 2012년 3월, 드디어 1체의 실험체가 최종 단계에 들어갔다. 실험실 전체의 공간이 왜곡되기 시작했다. 죽었어야 할 어머니를 보았다. 과연 여기가 현실 세계인가...",
+			"Document A309: March 2012, one of the test subjects finally entered the final stage. The space in the entire laboratory is beginning to distort. I saw my mother who was supposed to be dead. Is this really the real world?"
+		],
+		[
+			"msg",
+			50712,
+			"......Or am I in hell?  Mother, I am so sorry for what I did to those poor souls but it's too late for repentance. Death is coming for me with his scythe…",
+			"……还是现在我在地狱之中？母亲，对不起，我做了这么可怕的事情…现在，死神拿着镰刀走过来了…",
+			"…それとも地獄なのだろうか…お母さん、こんな仕事をしていてごめんなさい。あぁ…死神が鎌を持って迎えに来たようだ…",
+			"...아니면 지옥인 것인가... 엄마, 이런 일을 하고 있어서 미안해. 아아... 사신이 낫을 들고 맞이하러 온 것 같아...",
+			"...Or maybe it's hell... Mom, I'm sorry I have to do this job. Ahh... it feels like the Grim Reaper has come to pick me up with his scythe..."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50713,
+			"Death? Scythe?",
+			"死神？镰刀？",
+			"死神？鎌？",
+			"사신? 낫?",
+			"Grim Reaper? Scythe?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				true
+			],
+			[
+				603,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			50714,
+			"What a horror. I seemed to remember those things…",
+			"好可怕…这些事情…我似乎记得…",
+			"怖い…これ…覚えてる。",
+			"무서워... 이거... 기억나.",
+			"Scary... I... remember this..."
+		],
+		[
+			"msg",
+			50715,
+			"The girls died one by one…and it was just me…Ahhhhhhhhhhhhhhh",
+			"周围的女孩都一个个死去了…然后…就轮到我了…啊啊啊啊啊啊啊啊啊",
+			"周りの子たちがどんどん死んでいって、ゼーレの番が来たの…いやああああ！",
+			"주변의 아이들이 하나둘 죽어가고, 제레 차례가 온 거... 아아아아!",
+			"The children around me were dying one after another, and then it was Seele's turn... Nooooooo!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				603,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50716,
+			"As much as I'd love to chat, we can't stay here.",
+			"不管怎么说，我们必须离开这里。",
+			"とりあえずここを離れよう。",
+			"일단 여기서 떠나자.",
+			"Let's get out of here for now."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				603,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50717,
+			"Don't be afraid. U r gonna be ok…",
+			"希儿，不要害怕，你会慢慢好起来的…",
+			"怖がらないでゼーレ、絶対よくなるから。",
+			"무서워하지 마 제레, 꼭 나아질 거야.",
+			"Don't be afraid, Seele, things will definitely get better."
+		]
+	],
+	"123": [
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				603,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			50718,
+			"Sis, I am so scared…I wanna go home…",
+			"姐姐，姐姐，希儿好怕，希儿想回家…",
+			"お姉ちゃん、お姉ちゃん、ゼーレはお家に帰りたい。",
+			"언니, 언니, 제레는 집에 가고 싶어.",
+			"Bronya, Bronya, Seele wants to go home."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				603,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50719,
+			"Bronya will take u home…",
+			"希儿别怕，布洛妮娅会带你一起走的…",
+			"ゼーレ、心配しないで、ブローニャがお家に連れて行ってあげるから。",
+			"제레, 걱정하지 마, 브로냐가 집에 데려다줄게.",
+			"Don't worry, Seele, Bronya will take you home."
+		]
+	],
+	"124": [
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				603,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			50720,
+			"I wanna go back to the orphange. U used to tell me stories about Homu by the fireplace.",
+			"我好想回到孤儿院…在小火炉前面，布洛妮娅姐姐会抱着我，给我讲吼姆的故事…",
+			"孤児院に戻りたいよ…暖炉の前で、ブローニャお姉ちゃんのホム物語を聞くの。",
+			"고아원으로 돌아가고 싶어... 난로 앞에서, 브로냐 언니의 홈 이야기를 듣는 거.",
+			"I want to go back to the orphanage... and sit in front of the fireplace and listen to Bronya's tales about Homu..."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				603,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50721,
+			"I'll take u back, whatever the cost!",
+			"我一定会带你回去的！不管付出什么代价！",
+			"大丈夫！何があっても連れて帰るから！",
+			"괜찮아! 무슨 일이 있어도 데려갈게!",
+			"Don't worry! I'll take you home no matter the cost!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				603,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			50722,
+			"But I can't leave…",
+			"可是…可是我已经无法离开这里了…。",
+			"でも…でも…ゼーレ、ここを離れる事ができないの。",
+			"하지만... 하지만... 제레, 여기서 떠날 수 없어.",
+			"But... but... Seele can't leave here."
+		],
+		[
+			"msg",
+			50723,
+			"I remember everything now…At the end of the experiment, my…",
+			"希儿都想起来了…在实验的最后，我…。",
+			"思い出したの…実験の最後で…",
+			"기억났어... 실험 마지막에...",
+			"I remembered... at the end of the experiment..."
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				604,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			50724,
+			"My mind was broken…",
+			"我的人格被破坏了。",
+			"人格が破壊されたの！",
+			"인격이 파괴됐어!",
+			"My personality was destroyed!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				604,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50725,
+			"!",
+			"！",
+			"！",
+			"!",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				604,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50726,
+			"Seele is no longer the same.",
+			"希儿她像是变了一个人一样。",
+			"ゼーレの人格が入れ替わったみたい…",
+			"제레의 인격이 바뀐 것 같아...",
+			"Seele's personality seems to have switched..."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				604,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			50727,
+			"I am just an identity she created for self preservation. That experiment broke her.",
+			"是的，我是为了保护主人格而产生的附属人格。",
+			"私は主人格を守るために生まれた別の人格。",
+			"나는 주인격을 지키기 위해 태어난 다른 인격.",
+			"Yes, I am another personality born to protect the main personality."
+		],
+		[
+			"msg",
+			50728,
+			"It broke her completely and put her on the verge of a psychotic breakdown.",
+			"在两年前的试验中，主人格严重损坏，无法自我确认，个体辨识能力降低。",
+			"彼女は2年前の実験で人格を破壊され、自分が誰なのかさえも分からなくなってしまいましたわ。",
+			"그녀는 2년 전 실험에서 인격이 파괴되어, 자신이 누군지조차 알 수 없게 되었어요.",
+			"Her personality was destroyed in the experiment two years ago, and she no longer even knows who she is."
+		],
+		[
+			"msg",
+			50729,
+			"As she drifted further and further away, she found out that she could snatch other's memories to accommodate for her loss.",
+			"人格马上就要消失的时候，主人格发现可以通过捕食他人的记忆来弥补缺失的人格。",
+			"薄れゆく意識の中、他人の記憶を捕食する事で、壊れた自分の人格を取り戻せる事に気づきましたわ。",
+			"희미해지는 의식 속에서, 타인의 기억을 포식하는 것으로, 부서진 자신의 인격을 되찾을 수 있다는 걸 깨달았어요.",
+			"As her consciousness faded, I realized that by preying on the memories of others, I could restore her own broken personality."
+		],
+		[
+			"msg",
+			50730,
+			"So she created \"me\". I erased her memories of the experiment so she wouldn't relive this nightmare again.",
+			"但是伤害她人对主人格来说太困难了。于是产生了我，一个为了捕食而存在的人格。为了不伤害主人格，我会删除她所有的记忆，让她的记忆一直停留在实验前。",
+			"けれど、彼女は他人を傷つける行為に耐えられませんでしたの。そこで生まれたのが私。実験後の記憶を消し、代わりに捕食していましたわ。",
+			"하지만, 그녀는 타인을 해치는 행위를 견딜 수 없었어요. 그래서 태어난 게 나. 실험 후의 기억을 지우고, 대신 포식해 왔어요.",
+			"However, she couldn't bear to hurt others. So I was born. I erased her memories after the experiment and started preying instead."
+		],
+		[
+			"msg",
+			50731,
+			"If I stopped snatching other's memories, she would've ceased to exist. But that ends today. U r her closest blood relative, Bronya. She would be \"cured.\"",
+			"如果不能定期捕食周围的人的记忆，主人格就无法存在。不过这个问题今天就会解决了。布洛妮娅，你作为主人格最亲近的人，只要有了你的记忆，主人格就可以一直存续了。",
+			"もし定期的に捕食しなければ主人格は崩壊し、消えてしまいますの。でもそれも今日までの事。一番身近な人の記憶を捕食すれば永遠に存在できますわ。",
+			"정기적으로 포식하지 않으면 주인격은 붕괴되어 사라져버려요. 하지만 그마저도 오늘까지의 일. 가장 가까운 사람의 기억을 포식하면 영원히 존재할 수 있어요.",
+			"If I don't feed regularly, my host personality will disintegrate and disappear. But this problem can be solved now. She can persist forever if I feed on the memories of those closest to it."
+		],
+		[
+			"msg",
+			50732,
+			"Sacrifice yourself for Seele.",
+			"布洛妮娅，为了希儿，去死吧。",
+			"ねぇ、ブローニャお姉様…ゼーレのために死んでくれます？",
+			"저기, 브로냐 언니... 제레를 위해 죽어줄래?",
+			"Hey, Bronya-onee-sama... will you die for Seele?"
+		]
+	],
+	"125": [
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				604,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			50733,
+			"Ahhhhhh!",
+			"啊！",
+			"あ！",
+			"아!",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				604,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50734,
+			"U lost. So did your plan.",
+			"你输了，你的计划也要就此结束了。",
+			"あんたの負けよ。計画もここまでね。",
+			"당신의 패배야. 계획도 여기까지네.",
+			"You lose. So much for your plan."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				604,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50735,
+			"Wait. If Bronya's dead, Seele can keep on living. Bronya would like…",
+			"等等！如果布洛妮娅死了，希儿就能继续生存的话，布洛妮娅愿意…",
+			"待って！ブローニャが死ねば、ゼーレは生きられるなら、それで…",
+			"잠깐! 브로냐가 죽으면, 제레가 살 수 있다면, 그럼...",
+			"Wait! If Bronya dies, and Seele can live, then..."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				604,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			50736,
+			"How naive. But I feel relieved now. Seele doesn't want to see u get hurt. She can't live with herself if she knows about your sacrifice.",
+			"真是天真呢…不过我在失败的时候，也是松了一口气了呢。希儿她也不想伤害你吧…如果她知道你牺牲了自己来救她也会很伤心吧…所以，这又何尝不是一个好结局呢。",
+			"まだ分かりませんの？ゼーレがブローニャお姉様を傷つけたい訳がありませんわ。それこそ彼女の人格が崩壊してしまいますわ…",
+			"아직도 모르겠어요? 제레가 브로냐 언니를 해치려는 게 아니에요. 그건 오히려 그녀의 인격이 붕괴해버릴 거예요...",
+			"How naïve... But I'm also relieved that I failed. Seele doesn't want to hurt you... If she knew you sacrificed yourself to save her, she would be very sad... So, isn't this a good ending?"
+		],
+		[
+			"msg",
+			50737,
+			"I guess this is it for me. The lab is going to fall apart. U should go.",
+			"我这个附属人格就要消失了，这个实验室也会随之崩溃。你们赶快离开这里吧。",
+			"あなたたち、早くここを離れなさい。私の人格はもうすぐ消え、この研究所も崩れますわ。",
+			"너희들, 빨리 여기를 떠나. 내 인격은 곧 사라질 거고, 이 연구소도 무너질 거야.",
+			"My personality will soon disappear and this laboratory will collapse with it. So you all should get out of here quickly."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				604,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50738,
+			"Seele…",
+			"希儿...",
+			"ゼーレ…",
+			"제레...",
+			null
+		]
+	],
+	"126": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50739,
+			"I think I just saw Seele waving at us.",
+			"不知道是不是幻觉，我总觉得刚刚看到了希儿在向我们挥手。",
+			"幻覚かもしれないけど、さっきゼーレが私たちに手を振っていたような…",
+			"환각일지도 모르지만, 방금 제레가 우리에게 손을 흔들던 것 같은...",
+			"It might be a hallucination, but I thought I saw Seele waving at us just now..."
+		],
+		[
+			"msg",
+			50740,
+			"But when I took a closer look, she's gone along with the lab.",
+			"可是再看一眼的时候，整个实验室和希儿都消失了。",
+			"確かめようとした時には研究所と一緒に消えちゃってたの…",
+			"확인해보려고 했을 때는 연구소와 함께 사라져버렸어...",
+			"By the time I went to check, she had vanished along with the lab..."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			50741,
+			"Seele was saying goodbye. We've seen so many deaths since we excaped from our #school. We just gotta move on.",
+			"那一定是希儿在向我们道别吧。从学校逃出来这么久，我们看到了太多的死亡。可是生者总要走下去的…所以…布洛妮娅，哭完了以后我们继续出发吧…",
+			"きっとゼーレがお別れを言いに来ていたのよ。生きている者は前に進むしかないんだから…ブローニャちゃんが泣き止んだら再出発しよう。",
+			"분명 제레가 작별 인사를 하러 왔던 거야. 살아있는 자는 앞으로 나아갈 수밖에 없는 거니까... 브로냐가 울음을 그만두면 다시 출발하자.",
+			"Seele must have come to say goodbye. The only thing the living can do is move forward... Let's set off again once Bronya stops crying."
+		]
+	],
+	"127": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71548,
+			"Hi, everyone, I am Kiana. This is my #nfourth year at miHoYo.",
+			"啊，大家好。我是琪亚娜，加入miHoYo株式会社也有四年了。",
+			"みんな元気？私はキアナ！miHoYoに入社してもう4年目。",
+			"다들 잘 지내? 나는 키아나! miHoYo에 입사한 지 벌써 4년째야.",
+			"Ah, hello everyone. My name is Kiana, and I have been working at miHoYo for four years now."
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71549,
+			"There was usually nothing going on at the #nfirm but one day my boss told me that #nthe company was going bankrupt.",
+			"原本是很平静的公司啦，但是今天社长大伟哥突然告诉我说公司要倒闭了什么的…",
+			"この会社普段からダメダメなんだけど、今日社長が急に「この会社倒産しちゃう…」って言い出したの。",
+			"이 회사 평소부터 망했는데, 오늘 사장이 갑자기 「이 회사 망해버렸어...」 라고 말하더라.",
+			"This company's always done well, but today the CEO, Dawei, suddenly told me that the company was going bankrupt or something..."
+		],
+		[
+			"msg",
+			71550,
+			"And I was going to save the firm.",
+			"还说了些“拯救公司的重任就交到你身上了”之类的鬼话。",
+			"しかも「会社の未来は君に託した」だなんて…",
+			"게다가 「회사의 미래를 너에게 맡겼다」라니...",
+			"He also said some nonsense like \"the responsibility of saving the company is now on you.\""
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71551,
+			"Well, yeah, whatever. Nothing can #nchallenge me.",
+			"嘛，算了，没有什么本小姐做不到的事情就是了~",
+			"まぁ、この私にできない事なんて無いって証明するチャンスね。",
+			"뭐, 이 내가 못할 일은 없다는 걸 증명할 기회네.",
+			"Well, forget it. There is nothing I can't do."
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71552,
+			"Anyway, the boss said the one way to save #nmiHoYo was to become an idol and I needed #nto form a group.",
+			"按照大伟哥说的，想要拯救公司就要成为偶像。而且我一个人是不够的呢，看来要联合公司里面的其他妹子一起来做Live才行呢！",
+			"アイドルグループを作ってライブで会社を救うのが流行ってるみたいだから、同僚の女の子を誘ってやってみよーっと。",
+			"아이돌 그룹을 만들어 라이브로 회사를 구하는 게 유행인 것 같으니까, 동료 여자애들을 꼬셔서 해보자.",
+			"According to what Dawei said, if I want to save the company, I have to become an idol. And it's not enough for me to do it alone, it seems that I need to unite with other girls in the company to do a Live together!"
+		]
+	],
+	"128": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71553,
+			"So I thought of Mei.",
+			"让我想想…第一个就找我的青梅竹马芽衣吧~",
+			"さて、とりあえず幼馴染の芽衣先輩でも誘ってみようかしら。",
+			"자, 일단은 소꿉친구 메이 선배부터 꼬셔볼까.",
+			"Let me think... I'll go find my childhood sweetheart Mei first~"
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71554,
+			"Mei is the daughter of ME's CEO. And #nshe's my favorite person.",
+			"芽衣可是ME社的大小姐呢，是我最喜欢的大和抚子呢。",
+			"芽衣先輩はME社の社長令嬢なの。私の一番大好きな大和撫子。",
+			"메이 선배는 ME사의 사장님 딸이야. 내가 제일 좋아하는 대화나나코.",
+			"Mei-senpai is the daughter of the CEO of ME Corp. My favorite Yamato Nadeshiko."
+		],
+		[
+			"msg",
+			71555,
+			"It won't take long for me to persuade #nher.",
+			"同时也是这个公司里面最好说服的妹子呢~呵呵呵。",
+			"それと、芽衣先輩は社内で一番説得しやすい女の子なのよね。ふふふっ。",
+			"게다가 메이 선배는 사내에서 가장 설득하기 쉬운 여자애야. 후후훗.",
+			"Also, Mei-senpai is the easiest girl to persuade in the company. Hehehe."
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71556,
+			"Hmmm...Mei looks kinda tired. Is she #nhaving a cold or something.",
+			"等等…芽衣的样子似乎有点不对劲…莫非今天是“那个日子”？",
+			"あれ…？芽衣先輩の様子が…。もしかして今日はアレの日？",
+			"어라...? 메이 선배 상태가... 혹시 오늘은 그 날?",
+			"Wait... Mei-senpai seems a little strange... Could it be \"that time of the month\"?"
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71557,
+			"It doesn't matter. Mei is just Mei, high #nand mighty.",
+			"啊！麻烦了，每个月都会有那么几天芽衣会变得特别高傲和固执呢。",
+			"どうしよう、芽衣先輩はツンツンして機嫌が悪い時期があるのよね…。",
+			"어떡하지, 메이 선배는 툴툴대며 기분이 안 좋은 시기가 있더라......",
+			"What should I do? Mei-senpai can be a bit grumpy and in a bad mood during these days..."
+		],
+		[
+			"msg",
+			71558,
+			"Hey Mei. Wanna be an idol like me?",
+			"Hi，芽衣，和我一起成为偶像吧。",
+			"やっほー、芽衣先輩。私と一緒にアイドルになろうよ！",
+			"야호~ 메이 선배. 나랑 같이 아이돌 되자!",
+			"Hey there, Mei-senpai. Let's become idols together!"
+		],
+		[
+			"speaker",
+			204541
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				3,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			71559,
+			"Idol? U mean like AKB48 in mini skirts? #nFanboy's favorite.",
+			"偶像？就是那种让自己的裙子被风吹起来，吸引男人的视线的女孩子吗。",
+			"アイドル？スカートを風になびかせて、パンチラで男の視線を引き付けるあれのこと？",
+			"아이돌? 스커트를 바람에 나부끼며 팬티라인으로 남자 시선을 사로잡는 그거?",
+			"An idol? You mean like one with her skirt fluttering in the wind, flashing her panties and drawing men's attention?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				3,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71560,
+			"Idols aren't just for fanboys. U r my #nfavorite.",
+			"偶像可不是只有男性才喜欢的哦~比如我就最喜欢芽衣了！",
+			"アイドルは女の子にも人気あるのよ！私が芽衣先輩を好きなようにね。",
+			"아이돌은 여자애들한테도 인기 많아! 내가 메이 선배를 좋아하는 것처럼 말이야.",
+			"Idols are popular with girls too! Just like how I like Mei-senpai."
+		],
+		[
+			"speaker",
+			204541
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				3,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			71561,
+			"I don't really need unwanted attention.",
+			"本小姐要是这么卖力，又有麻烦的男人要找上门了。",
+			"私が頑張ったら面倒な男たちが押し寄せてくるわ。",
+			"내가 열심히 하면 귀찮은 남자들이 몰려올 거야.",
+			"If I did that, troublesome men will flock to me."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				3,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71562,
+			"So we'll scratch off mini skirt off the list.",
+			"啊！你一定是觉得短裙落伍了~",
+			"あ…あんた絶対にミニスカートは時代遅れだって思ってるでしょ！",
+			"아... 너 분명 미니스커트는 유행 지났다고 생각하고 있지?!",
+			"Ah! You must think miniskirts are out of fashion~"
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				3,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71563,
+			"I prefer sportswear. White short top with #nblue panty...We r up next.",
+			"其实我也觉得体操服才是最棒的呢~对了对了胖次一定要是蓝色的，然后换上白色的短上衣…我们这就一起换上体操服吧~",
+			"実は…私も体操服が良いと思ってたの！もちろん、ブルマは絶対青色ね。それで～短めの上着を着て…そうだ、今から体操服に着替えよう！",
+			"사실... 나도 체육복이 좋다고 생각했어! 물론, 블루마는 무조건 파란색이어야 하고. 그리고~ 짧은 상의를 입고... 맞아, 지금부터 체육복으로 갈아입을래!",
+			"Actually, I think that gymnastics uniforms are the best~ Oh, yes, the panties must be blue, and then change into a white crop top... Let's change into gymnastics uniforms together~"
+		],
+		[
+			"speaker",
+			204541
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				3,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			71564,
+			"Wait. Don't change in public.",
+			"喂！不要自顾自的在大庭广众之下脱衣服啊！",
+			"ちょっと！みんなの前で服を脱いで何してるの！",
+			"잠깐! 모두 앞에서 옷을 벗고 뭐하는 거야!",
+			"Hey! Don't take off your clothes in public!"
+		],
+		[
+			"msg",
+			71565,
+			"Ahhhhh. Stop taking off my clothes.",
+			"啊啊啊！不要脱了自己的衣服还过来脱我的衣服啊！",
+			"いやぁぁぁぁ！人の服まで脱がさないでよ！",
+			"아아아아악! 남의 옷까지 벗기지 마!",
+			"Ahhh! Don't take off your own clothes and then come and take off mine!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				3,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71566,
+			"It's OK. We are BFF.",
+			"不要害羞吗~我们不是青梅竹马吗~",
+			"もうっ、恥ずかしがらなくてもいいのに。私たち幼馴染でしょ？",
+			"真是的, 부끄러워할 필요 없잖아. 우리 어릴 때부터 친구였으면서.",
+			"Come on, there's no need to be embarrassed. Aren't we childhood sweethearts~?"
+		],
+		[
+			"speaker",
+			204541
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				3,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			71567,
+			"Don't come any closer. U pervert.",
+			"不要过来，你这个变态！",
+			"来ないで！この変態！",
+			"접근하지 마! 이 변태!",
+			"Don't come any closer, you pervert!"
+		]
+	],
+	"129": [
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71568,
+			"(sobbing)",
+			"呜呜呜…",
+			"しくしく…",
+			"흑흑...",
+			"<i>Sob sob...<i>"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71569,
+			"I could use a smoke now.",
+			"事后一支烟…啊，不对！",
+			"ふぅっ…あっ、違う違う！",
+			"후우... 아, 아니야 아니야!",
+			"A cigarette afterwards... ah, no!"
+		],
+		[
+			"msg",
+			71570,
+			"Next we need to figure out how to become #nan idol group.",
+			"那么，接下来要一起为成为偶像，不然的话…",
+			"一緒にアイドルになろうよ！さもないと………",
+			"같이 아이돌 되자! 안 그러면………",
+			"Let's become idols together! Otherwise..."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71571,
+			"OK, fine, just don't come any closer.",
+			"好！我同意了啊！不要再靠近我了！",
+			"わかったわ！なる！なるから近づかないで！",
+			"알겠어! 할게! 할 테니까 가까이 오지 마!",
+			"Okay! I will! I'll be an idol, so don't come any closer!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			71572,
+			"We shall be known as \"Mei's Game\" from #nnow on.",
+			"我们组合的名字叫“お嬢様の趣味”。#n*大小姐的爱好",
+			"やった！グループ名は「お嬢様の趣味」で決まりね！",
+			"성공했어! 그룹 이름은 「아가씨 취향」으로 결정이야!",
+			"Yay! Then the group name will be \"Ojousama no Shumi\"! (TN: This means \"young lady's hobby\". The Chinese text uses Japanese for the name, so I thought I'd keep it here too.)"
+		]
+	]
+}

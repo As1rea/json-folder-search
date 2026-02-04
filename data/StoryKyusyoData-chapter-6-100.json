@@ -1,0 +1,1628 @@
+{
+	"1381": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309009,
+			"Everyone, we have to prepare one thing before we leave.",
+			"各位，在我们出发前有一件事情需要提前准备。",
+			"みんな、出発する前に準備しなきゃいけないことがあるの。",
+			"다들, 출발하기 전에 준비해야 할 게 있어.",
+			null,
+			null,
+			"Folks, there is one thing we need to prepare in advance before we leave.",
+			"Guys, there are some things we need to prepare before we leave."
+		],
+		[
+			"msg",
+			309010,
+			"To find the Herrscher core more effectively, we need to locate the direction, so we can save more time.",
+			"为了有效地寻找长空市中的律者核心，我们需要先定位律者核心的大致方位，这样就可以节省很多时间。",
+			"長空市にある律者コアを効率的に探し出すためにも、まずはその大まかな方位を検出する必要があるの。そうすれば、時間も節約できて探索の短縮につながるわ。",
+			"장공시에 있는 율자 코어를 효율적으로 찾아내기 위해서도, 먼저 그 대략적인 방위를 검출할 필요가 있어. 그러면 시간도 절약되고 탐색 시간을 단축시킬 수 있거든.",
+			null,
+			null,
+			"In order to effectively find the Ruler's Core in Long Sky City, we need to locate the general location of the Ruler's Core first, which will save a lot of time.",
+			"In order to efficiently locate the Ruler's Core in the Long Sky City, we first need to detect its general orientation. That way we can save time and shorten the search."
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309011,
+			"I have this device to investigate the radiation field of Honkai energy around here, before the dead plague is re-activated it can be hardly found because of the high level of Honkai energy, but now the situation is different.",
+			"我现在手上的这个仪器可以探测附近崩坏能的辐射场，在死斑激活之前由于崩坏能浓度过高所以几乎无法定位出它的方位，但是在崩坏能衰退的现在情况就不同了。",
+			"私が持っているこの機械は、どこから崩壊エネルギーが放射されているのか探知できるものよ。死斑が復活する前は、どこも崩壊エネルギー濃度が高いせいで方位を確定できなかったけど、弱まった今なら違うわ。",
+			"내가 가진 이 기계는 붕괴 에너지가 방사되고 있는 출처를 탐지할 수 있는 거야. 사문이 부활하기 전에는 어디나 붕괴 에너지 농도가 높아서 방위를 확정하지 못했지만, 약해진 지금은 달라.",
+			null,
+			null,
+			"The instrument I have now can detect the radiation field of the nearby avalanche energy. Before the activation of the dead spot, the concentration of avalanche energy is too high so it is almost impossible to locate its position, but the situation is different now that the avalanche energy is declining.",
+			"I have this machine that can detect where the decay energy is radiating from. Before the resurrection of the dead spots, it was impossible to determine the direction due to the high concentration of decay energy everywhere, but now that it has weakened, it is different."
+		],
+		[
+			"msg",
+			309012,
+			"When Honkai energy declines the variant of radiation field is more obvious, many areas are able to be detected as well, this is the best opportunity.",
+			"衰退时产生的能级偏差不仅使得辐射场的变量更加的明显，同时也让很多原本因为浓度过高而无法探测的区域达到了检测值，这是一个绝佳的时机。",
+			"崩壊エネルギーが弱まると、値の変動がよりわかりやすくなるだけじゃなく、濃度が高いせいで検出できなかったエリアも検出可能になるの。つまり、絶好のチャンスってわけ。",
+			"붕괴 에너지가 약해지면 값의 변동이 더욱 뚜렷해질 뿐만 아니라, 농도가 높아서 검출하지 못했던 지역도 검출 가능해져. 즉, 절호의 기회라는 거지.",
+			null,
+			null,
+			"The energy level deviation created during the recession not only makes the variables of the radiation field more visible, but also allows many areas that would otherwise be undetectable due to high concentrations to reach detection values, which is an excellent time to do so.",
+			"Not only does the weakening of the decay energy make fluctuations in the values more obvious, but it also makes it possible to detect areas that were undetectable due to high concentrations. In other words, it is a great opportunity."
+		],
+		[
+			"msg",
+			309013,
+			"If what we want to find is really in Nagazora, then its Honkai energy wave will influence the radiation fields around it…as long as we observe the change of radiation fields, we can find it.",
+			"我们要找的东西如果真的在长空市内的话，那么它所释放的崩坏能辐射波就一定会影响到周围的场…只要通过观测辐射场的变化，就能定位出它所在的位置范围了。",
+			"私たちの探し物が本当に長空市にあるなら、その崩壊エネルギーは周りに影響を与えているはず……この変化を観測することで、その大まかな場所を割り出すの。",
+			"우리가 찾는 물건이 정말 장공시에 있다면, 그 붕괴 에너지는 주변에 영향을 미치고 있을 거야... 이 변화를 관측함으로써 대략적인 위치를 추정하는 거야.",
+			null,
+			null,
+			"If the thing we are looking for is really within the city of Nagumo, then the wave of collapse energy radiation it releases will definitely affect the surrounding field...just by observing the change in the radiation field, we can locate the range of its location.",
+			"If what we're looking for is really in the Long Sky City, its disintegrating energy must be affecting its surroundings ...... by observing this change, we can determine its approximate location."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				67,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			309014,
+			"What are you talking about…so what are we going to do now?",
+			"你在罗里吧嗦地说什么呢…所以究竟是要干嘛？",
+			"つまり、何すりゃいいんだ？言ってることが、チンプンカンプンなんだが。",
+			"그러니까 뭘 하라는 거야? 하는 말이 도통 이해가 안 가는데.",
+			null,
+			null,
+			"What are you rambling on about...so what exactly is the point?",
+			"I mean, what am I supposed to do? What I'm saying is, I'm not sure."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			309015,
+			"So far the device can only detects limited range, so we need more time at the beginning to locate it.",
+			"现在的材料能做出来的仪器探索范围有限，所以刚开始的定位的确需要比较久的时间。",
+			"今、手元にある機材では探索範囲に限界があってね、方向が定まるまで、ある程度の時間が必要なの。",
+			"지금 손에 있는 장비로는 탐색 범위에 한계가 있어서 방향이 확정되기까지 어느 정도 시간이 필요해.",
+			null,
+			null,
+			"Now the material can be made to explore the limited range of instruments, so the initial positioning does take a longer time.",
+			"With the equipment I have at hand, I am limited in my search area, and I need some time to get oriented."
+		],
+		[
+			"msg",
+			309016,
+			"I need you to protect me when I try to find the direction, let me fully devote myself into it.",
+			"我需要你们在我探索方位的时候保护我，让我能全身体地投入到工作中就行。",
+			"だから、作業に集中できるよう、その間、私を守ってちょうだい。",
+			"그러니까 작업에 집중할 수 있게, 그 동안 날 지켜줘.",
+			null,
+			null,
+			"I need you guys to protect me while I explore my bearings and just allow me to be fully physically engaged.",
+			"So please protect me in the meantime so that I can concentrate on my work."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309017,
+			"Sure! That's easy~I will do this!",
+			"行！那简单~交给本大爷吧！",
+			"何だ！簡単じゃないか！任せろ！",
+			"뭐야! 쉽잖아! 맡겨 둬!",
+			null,
+			null,
+			"Okay! That's easy, leave it to me!",
+			"Oh, my God! That was easy! I got it!"
+		]
+	],
+	"1382": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309018,
+			"Beep——Beep——Beep——",
+			"滴——滴——滴——",
+			"ピ——ピ——ピ——",
+			"피——피——피——",
+			null,
+			null,
+			"Drip-drip-drip-drip",
+			"Bee--bee--bee--bee--"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309019,
+			"Hey! Seaweed head! You are like a headless chicken! Don't you know where the thing is if you want to find it?",
+			"喂！海藻头你行不行啊！总是捧着个破仪器像个无头苍蝇一样，你要找的东西难道连你自己都不知道在哪么？",
+			"おい、本当に大丈夫か？そのオンボロ機械で、本当に探したいものがわかんのかよ。",
+			"야, 정말 괜찮아? 그 낡은 기계로 진짜 찾고 싶은 걸 알 수 있겠냐?",
+			null,
+			null,
+			"Hey! Can't you do it, seaweed head? Always holding a broken instrument like a headless fly, what you are looking for do not even know where you are?",
+			"Hey, are you sure you're okay? You really don't know what you want to look for with that on-board machine, do you?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309020,
+			"Woo…it's only half an hour, you already lose the patience……",
+			"唔…这才开始不到半小时，你怎么就已经不耐烦了……",
+			"うっ……まだ30分も経ってないじゃない、なのにもうイライラしてるの？",
+			"윽...... 아직 30분도 안 지났잖아, 그런데 벌써 짜증내는 거야?",
+			null,
+			null,
+			"Well ... this is only the beginning of less than half an hour, how you are already impatient ......",
+			"Ugh ...... it hasn't even been 30 minutes, and you're already getting on my nerves?"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309021,
+			"Don't worry, the beginning of scentific research is always boring and repetitive…but the result will open another door for us.",
+			"不要着急，科学探究往往前期都是枯燥的重复劳动…但是当获得成果的时候就将开启一道崭新的门扉。",
+			"焦らないでちょうだい。科学研究の前半は退屈な作業が多いけど、成果が出た時には新しい扉が一気に開くから。",
+			"초조해하지 말아줘. 과학 연구의 전반부는 지루한 작업이 많지만, 성과가 나왔을 때는 새로운 문이 한 번에 열리니까.",
+			null,
+			null,
+			"Don't be anxious, scientific inquiry is often a boring and repetitive task up front...but when the results are obtained a new door will open.",
+			"Don't be in a hurry. The first half of scientific research is a lot of tedious work, but when you get results, new doors open all at once."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309022,
+			"You said I need to fight with the Honkai creatures to protect you! But now there's nothing, what's the point!",
+			"你不是说要保护你和崩坏生物战斗么！现在光和你打转连个崩坏生物都没有，那还保护个屁啊！",
+			"そもそも、お前を守って崩壊生物と戦うって話だったろ？崩壊生物なんか全然出てこないじゃんかよ。あー、ヒマだなぁ！",
+			"애초에, 너를 지키고 붕괴 생물과 싸우자고 했잖아? 붕괴 생물 같은 건 전혀 안 나오잖아. 아, 심심해!",
+			null,
+			null,
+			"Didn't you say you wanted to protect you from fighting with avalanche creatures! Now the light and you fight around even an avalanche creature, then there is no protection ah!",
+			"We were talking about protecting you and fighting the disintegrating organisms in the first place, weren't we? There's no such thing as a disintegrating organism in the first place. Oh, I'm so busy!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309023,
+			"Isn't it good to have no Honkai creatures here……",
+			"没被崩坏生物发现不是挺好的么……",
+			"気付かれていないのは、いいことじゃない……。",
+			"눌러붙지 않은 건, 좋은 일이 아니야.......",
+			null,
+			null,
+			"Not found by the collapsed creatures is not quite good ......",
+			"Not being noticed is not a good thing. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309024,
+			"But it's boring!",
+			"但是很无聊啊！",
+			"退屈なんだよっ！",
+			"지루하다고!",
+			null,
+			null,
+			"But it's boring!",
+			"I'm bored!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309025,
+			"Ah…ok, please be patient……My instincts tells me, we are getting close to it……",
+			"哎呀…好啦，稍微忍耐一下吧……我的直觉告诉我，我们离它已经越来越近了……",
+			"はいはい、もう少し我慢して……もうすぐで割り出せるって私の勘が言ってるわ。集中よ、集中……。",
+			"알았어, 좀 더 참아...... 금방 알아낼 수 있을 거라 내 직감이 말하고 있어. 집중이야, 집중.......",
+			null,
+			null,
+			"Oops ... well, a little patience ...... my intuition tells me that we are getting closer to it ......",
+			"Yes, yes, my gut is telling me to be a little more patient and ...... soon I'll be able to break it out. Focus, focus ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309026,
+			"Ah! Some Honkai creatures out there! Let's use them for entertainment!",
+			"哦豁！那边有崩坏生物！就来用它们消遣一下吧！",
+			"おっ！何だ、あそこに崩壊生物がいるじゃんか！暇つぶしにちょうどいい！",
+			"엇! 뭐야, 저기에 붕괴 생물이 있잖아! 한가한 틈을 채우기에 딱 좋겠다!",
+			null,
+			null,
+			"Oh, no! There are crashing creatures over there! Let's have some fun with them!",
+			"Whoa! What, there's a disintegrating creature over there! Just what I need to pass the time!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309027,
+			"Fine…as long as you don't disturb my work…eh! Honkai creatures! Hey! Stop Sin!",
+			"好吧…只要不打扰我工作就…呃！崩坏生物！喂！快阻止杏！",
+			"いいわ……仕事の邪魔さえしなければ……って、えっ？崩壊生物！？ちょっと、こっちらかわざわざ刺激しないで！九霄、早くシンを止めて……！！",
+			"좋아...... 일만 방해하지 않는다면...... 라고, 어? 붕괴생물!? 잠깐, 이쪽으로 일부러 자극하지 말라고! 큐쇼, 빨리 신을 멈춰......!!",
+			null,
+			null,
+			"Well...as long as it doesn't interfere with my work...eh! Crumbling creatures! Hey! Stop the apricot!",
+			"Okay, ...... as long as it doesn't interfere with my work, eh? Disintegrating organisms! Hey, don't bother irritating us! Kyuushou, hurry up and stop Shin ......!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			309028,
+			"Boom——!!",
+			"轰隆——！！",
+			"ドォオオオオオン——ッ！！",
+			"도오오오온——!!",
+			null,
+			null,
+			"Boom--!",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			309029,
+			"Growl——!!",
+			"吼吼吼——！！",
+			"ウォオオオオオッ！！",
+			"워오오오오!!",
+			null,
+			null,
+			"Ho ho ho ho-!!!",
+			"Wo-oh-oh-oh!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309030,
+			"Coo! Sin! You! You!",
+			"咕！杏！你！你！",
+			"シン！あ、あなたねッ！",
+			"신! 아, 당신이네!!",
+			null,
+			null,
+			"Goo! Apricot! You! You!",
+			"Shin! Oh, it's you!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309031,
+			"Ok! Go find you stuff, leave me alone~",
+			"好啦！你继续找你的东西去，别管我~",
+			"お前は探し物に集中してろって！",
+			"너는 찾는 것에 집중하라고!",
+			null,
+			null,
+			"All right! Go find your stuff and leave me alone.",
+			"You should concentrate on what you're looking for!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309032,
+			"Whoa! Look what you did!",
+			"呜哇！你可真是没事找事！",
+			"うわぁ！大人しくしてって言ったのにー！",
+			"우와! 얌전히 있으라고 했는데!",
+			null,
+			null,
+			"Woohoo! You've got nothing better to do!",
+			"Oh, my God! I told you to be quiet!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			309033,
+			"Growl!!!",
+			"吼吼吼！！！",
+			"フシューッ！！",
+			"후슈우!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Fshooooo!!!!!!!"
+		]
+	],
+	"1383": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			309034,
+			"Growl——!!",
+			"吼吼吼——！！",
+			"ヴォォオオオオオ——ッ！！",
+			"보오오오오——!!",
+			null,
+			null,
+			"Ho ho ho ho-!!!",
+			"Vooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309035,
+			"Ah! This is a disaster! What should we do!!",
+			"啊啊！这根本就是捅了马蜂窝嘛！该怎么办！！",
+			"ああっ、数が多くなってるじゃない！ど、どど、どうすんのよ！",
+			"아아, 수가 더 많아졌잖아! 어, 어어, 어떻게 해!",
+			null,
+			null,
+			"Ahhh! This is like stirring up a hornet's nest! What to do!",
+			"Oh, my God, there's so many of them! What are we going to do?"
+		],
+		[
+			"choice",
+			[
+				309299,
+				"Let's retreat.",
+				"我们还是撤退吧。",
+				"一度撤退しよう。",
+				"일단 철수하자.",
+				null
+			],
+			[
+				309319,
+				"Let me stop them!",
+				"我来阻止它们！",
+				"そいつらは私に任せて！",
+				"그 녀석들은 내게 맡겨!",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1384,
+			1385
+		]
+	],
+	"1384": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309036,
+			"Retreat? No no! If we give up now we lose everything! Honkai creatures will consume some part of Honkai energy, and the radiation field here will change, then we have to start over again!",
+			"撤退？不行不行！如果现在放弃的话就前功尽弃了！崩坏生物的活动会消耗一部分崩坏能，这样区域的辐射场也会发生变化，一切都需要重新来过！",
+			"撤退？ダメよ！今、諦めたらこれまでの努力が無駄になるわ！崩壊生物の活動は一部の崩壊エネルギーを使うから、このエリアにも変化が出てくるし、全部やり直しになっちゃう！",
+			"철수? 안 돼! 지금 포기하면 지금까지의 노력이 헛돼! 붕괴생물의 활동은 일부 붕괴 에너지를 사용하니까, 이 구역에도 변화가 생기고, 전부 다시 해야 돼!",
+			null,
+			null,
+			"Retreat? No, no! If we give up now, we'll lose everything! The activity of the avalanche creatures will consume some of the avalanche energy, so the radiation field of the area will also change, and everything will need to start all over again!",
+			"Withdrawal? No! If we give up now, all our efforts will have been for nothing! The activity of the disintegrating organisms will use some of the disintegrating energy, which will change this area, and we'll have to start all over!"
+		],
+		[
+			"msg",
+			309037,
+			"Please stop them, I will try to acclerate it! Please!",
+			"只能拜托你先抵挡一下了，我会加快搜索进度的！拜托了！",
+			"お願い、そいつらの相手をして！私も急いで探し出すから、頼んだわ！",
+			"부탁이야, 그 녀석들을 상대해줘! 나도 서둘러 찾아낼 테니까, 부탁이야!",
+			null,
+			null,
+			"I'll have to ask you to hold off for a while, I'll speed up the search! Please!",
+			"Please, take care of them! I'll find them as soon as I can, please!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1386
+		]
+	],
+	"1385": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309038,
+			"You two can't deal with so many of them…but if we leave now all the efforts are wasted…Honkai creatures will consume some part of Honkai energy, and the radiation field here will change……",
+			"这么多的崩坏生物光凭你们两个人是无法应对的…但是如果现在撤退的话一切就前功尽弃了…崩坏生物的活动会消耗一部分崩坏能，这样区域内的辐射场也会发生变化……",
+			"その数相手じゃ厳しいかもしれないけど……今、ここで撤退したら今までの努力がすべて無駄になる……崩壊生物の活動は一部の崩壊エネルギーを使うから、このエリアにも変化が出ちゃうの……。",
+			"그 수로는 상대하기 힘들지도 모르지만…… 지금, 여기서 철수하면 지금까지의 노력이 모두 헛돼…… 붕괴 생물의 활동은 일부 붕괴 에너지를 사용하기 때문에, 이 구역에도 변화가 생겨버려…….",
+			null,
+			null,
+			"so many avalanche creatures alone you two can not deal with ... but if you retreat now everything will be lost ... avalanche creature activity will consume part of the avalanche energy, so the radiation field in the area will also change ......",
+			"It may be tough against that number of people, but if we retreat here now,...... all our efforts will have been in vain. ...... The activity of disintegrating organisms uses some disintegrating energy, so this area will be changed. It will change this area as well. ......"
+		],
+		[
+			"msg",
+			309039,
+			"Anyway! Please stop them, I will try to acclerate it! Please!",
+			"总之！只能拜托你先抵挡一下了，我会加快搜索进度的！拜托了！",
+			"とにかく！ここはお願いね！こっちも急いで探すから、頼んだわ！",
+			"어쨌든! 여기는 부탁할게! 이쪽도 서둘러 찾을 테니까, 부탁이야!",
+			null,
+			null,
+			"Anyway! I'll have to ask you to hold off for a while, I'll speed up the search! Please!",
+			"Anyway! Please, please, please, please, please! We'll look for you as soon as we can, please!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1386
+		]
+	],
+	"1386": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309040,
+			"Haha~quite a lot, come on! Let's have fun!",
+			"嚯嚯~这数量还真是不少呢，来吧！让本大爷尽情战斗一下吧！",
+			"ハハッ、すごい数だな！来い！ボクも本気を出してやるよ！",
+			"하핫, 엄청난 수다! 덤벼! 나도 진심을 내볼 테니까!",
+			null,
+			null,
+			"Ho ho ho~ That's quite a lot, come on! Let this lord enjoy fighting a little!",
+			"Hahaha, that's a lot of people! Come on! I'm going to get serious!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309041,
+			"No, the violation of Honkai creatures makes the detection more difficult…there'll be no progress like this…...",
+			"不行，崩坏生物的暴乱让探测变的越来越困难了…这样子完全没有进展了啊……",
+			"ダメだわ、崩壊生物の暴走のせいで探知が難しくなってる……全然進まない……。",
+			"안 되겠어, 붕괴 생물의 폭주 때문에 탐지가 어려워져…… 전혀 진전이 없어…….",
+			null,
+			null,
+			"No, the riot of collapsing creatures makes detection more and more difficult...this way there is no progress at all ......",
+			"It's no good, it's getting harder and harder to detect because of the runaway decay organisms. ...... I'm not making any progress at all. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309042,
+			"Hey! Seaweed head! What are you doing there! Come to help!",
+			"喂！海藻头！你在那里磨蹭什么呢！快来帮忙！",
+			"おい！何、グズグズしてんだ！お前も手伝え！",
+			"야! 뭐, 굼뜨게 구는 거야! 너도 도와줘!",
+			null,
+			null,
+			"Hey! Seaweed head! What are you dawdling there! Come and help!",
+			"Hey! What are you waiting for? You, help me out!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309043,
+			"Are you joking, I have some many devices with me, how can I……",
+			"别开玩笑了，我身上还背着这么多仪器，怎么可能参加战斗啊……",
+			"冗談言わないで！こんなに機材を抱えてるのに、戦闘に参加できるわけないでしょ……！",
+			"농담하지 마! 이렇게 많은 장비를 들고 있는데, 전투에 참여할 수 있을 리 없잖아……!",
+			null,
+			null,
+			"Don't joke, I still have so many instruments on my back, how can I participate in the battle ah ......",
+			"You've got to be kidding me! How can I be in a battle with all this equipment? ......!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309044,
+			"Huh! What a waste!",
+			"切！真是废物！",
+			"ちっ、使えないな！",
+			"쳇, 쓸모없는 녀석!",
+			null,
+			null,
+			"Cut! What a waste!",
+			"Damn, that's not working!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309045,
+			"Sin…where did you get so many explosives!?",
+			"杏…你的从哪里弄来的这么多炸药！？",
+			"ねぇ、シン……その爆薬、どこから持ってきたの？",
+			"저기, 신…… 그 폭약, 어디서 가져온 거야?",
+			null,
+			null,
+			"Apricot...where did you get so much explosives!",
+			"Hey, Sin......, where did you get that explosive from?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309046,
+			"Haha~anyway it's an abandoned place, no one would care whatever kinds of disruption! Then don't blame me!",
+			"嘿嘿~反正是被遗弃的世界，不管怎么破坏都不会有人发牢骚！那本大爷可就不客气了！",
+			"へへっ、どうせ捨てられた世界なんだ、いくら破壊しても文句は言われないだろ。手加減なんかしてやるもんか！",
+			"헤헤, 어차피 버려진 세계잖아, 아무리 파괴해도 불만은 없을 거야. 봐주기 같은 건 절대 안 해주지!",
+			null,
+			null,
+			"Hey, hey, it's an abandoned world anyway, so no matter how much damage is done, no one will whine! Then this lord will not be polite!",
+			"Hehe, it's an abandoned world anyway, no matter how much you destroy it, they won't complain. I'm not going to take it easy on you!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309047,
+			"Whoa! Wait! Let me find a place to hide!",
+			"呜哇！等下！让我找个地方隐蔽起来先！",
+			"うわっ、待ちなさい！せめて物陰に隠れてから——！",
+			"우왓, 잠깐만요! 적어도 몸을 숨긴 다음에——!",
+			null,
+			null,
+			"Whoo-hoo! Wait a minute! Let me find a place to hide first!",
+			"Whoa, wait! At least hide in the shadows first--!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			309048,
+			"Boom!!!!!",
+			"轰隆！！！！！",
+			"ドガァアアァアン——ッ！！！！",
+			"도가아아아앙——!!!!",
+			null,
+			null,
+			"Rumble ！！！！！",
+			"Dogaaaaaaaaaaan-- ！！！！"
+		]
+	],
+	"1387": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			309049,
+			"Growl……",
+			"吼吼吼……",
+			"ウ、グォオオォォ……。",
+			"우, 구오오오…….",
+			null,
+			null,
+			"rolleyes ......",
+			"U, guo oo oo ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309050,
+			"How about this~Wastes! Now you see what I've got~",
+			"怎么样~废物们！知道本大爷的厉害了吧~",
+			"どうだ？ボクのすごさがわかったろ？",
+			"어때? 내 엄청난 실력 알겠지?",
+			null,
+			null,
+			"How about it, losers! Know the power of the master now!",
+			"How's that? You see how great I am?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309051,
+			"Woo…so scary…I almost get hurt……",
+			"呜…吓死了我…差点就被爆炸卷进去了……",
+			"うぅ～……びっくりした……あやうく巻き込まれるところだった……。",
+			"우우~…… 깜짝 놀랐어…… 간신히 휘말릴 뻔했어…….",
+			null,
+			null,
+			"Oooh...scared the hell out of me...almost got swept up in the explosion ......",
+			"Ughhhh ...... I was so surprised ...... I almost got caught in the middle of it. ......"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309052,
+			"Eh! Need to check the devices! If it's broken then we are done!",
+			"呃！得赶紧检测一下仪器有没有损坏！好不容易才制造出来的探测器要是坏掉的话就全完了！",
+			"あぁ、機材の点検しなきゃ！せっかく作った探知器が壊れたら大変だもの！",
+			"아, 기자재 점검해야 해! 애써 만든 탐지기가 고장 나면 큰일이라구!",
+			null,
+			null,
+			"Ugh! We need to check the instrument for damage! If the detector is broken, it's all over!",
+			"Oh, I have to check my equipment! I'd hate to see the detector I've built break!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309053,
+			"Beep beep beep——",
+			"滴滴滴——",
+			"ピピピ——",
+			"피피피——",
+			null,
+			null,
+			"Drip-drip-drip-",
+			"Beepee--"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309054,
+			"Ehhh! Only black screen…is it……",
+			"诶诶诶！画面怎么全黑了…难道真的……",
+			"えぇええええッ！画面が真っ黒……そんな、まさか……。",
+			"에에에엑! 화면이 새까맣게…… 설마, 그럴 리가…….",
+			null,
+			null,
+			"Eh eh eh! How the screen is all black...is it really ......",
+			"Eeeeeeee! The screen is black ...... Oh, no way, ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309055,
+			"Hey! Seaweed head! Honkai creatures have been solved, why you look so sad! You should be happy!",
+			"喂！海藻头！崩坏生物已经全解决了，你怎么还哭丧着脸啊！给我高兴一下啊喂！",
+			"おい！崩壊生物は全部片付いたぞ！何だ、その顔は！喜べよな、ほらッ！",
+			"야! 붕괴 생물은 다 처리했어! 뭐야, 그 표정은! 기뻐해야지, 자!",
+			null,
+			null,
+			"Hey! Seaweed Head! Why are you still crying? Cheer up for me!",
+			"Hey! All the decaying organisms are gone! What's with your face? You should be happy. Come on!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309056,
+			"You're happy…but my devices…done…everything is done……",
+			"你是高兴了…可我的仪器…完了…一切都完了……",
+			"喜べるわけないでしょ……機材が……終わったわ……何もかも……。",
+			"기뻐할 리가 없잖아…… 기자재가…… 끝났어…… 모든 게…….",
+			null,
+			null,
+			"You are happy...but my instrument...is finished...everything is finished ......",
+			"You can't be happy ...... equipment is finished ...... everything ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309057,
+			"Beep—Beep——Beep——",
+			"滴—滴——滴——",
+			"ピ、ピピ——ピピ——",
+			"삐, 삐삐——삐삐——",
+			null,
+			null,
+			"drop-drop-drop-",
+			"Bleep--bleep--bleep--bleep."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			309058,
+			"See! It's working! Don't try to blame me for that!",
+			"完你个头啊！你这仪器不是好好的么！自己找不到还想要碰瓷给本大爷背锅么！",
+			"なーに、暗くなってんだよ！ちゃんと出来てんじゃんか！",
+			"뭐야, 어두워진 거 아냐! 제대로 되고 있잖아!",
+			null,
+			null,
+			"The end of your head ah! You are not a good instrument! They can not find it and want to porcelain to this master to take the blame!",
+			"What's going on? It's getting dark! You're doing fine!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309059,
+			"Eh…the screen is working now…no, it's the explosion that discharged all the Honkai energy around, just like Herrscher's attack it becomes a vacuum, is that the reason……",
+			"呃…画面恢复了…不对，是刚才的爆炸冲击波把周围的崩坏能都排出了，就和律者的攻击一样形成了一个短暂的真空区，所以才显示不出么……",
+			"え？画面が戻った……いや、違う、さっきの爆破の衝撃が周囲の崩壊エネルギーを追い出したんだわ。つまり、律者の攻撃を受けた時と同じで、短い真空エリアが発生してるんだ。だから、一時的に画面が真っ黒になったのね……。",
+			"어? 화면이 돌아왔어... 아니, 다르네. 아까의 폭발 충격이 주변의 붕괴 에너지를 쫓아낸 거야. 즉, 율자의 공격을 받았을 때와 같은 짧은 진공 영역이 발생한 거지. 그래서 일시적으로 화면이 새까맣게 된 거네....",
+			null,
+			null,
+			"Uh ... the picture restored ... no, is just the explosion shock wave around the disintegration energy are discharged, and the Ruler's attack formed a short vacuum, so it does not show 么 ......",
+			"Huh? The screen came back ...... No, no, the impact of the earlier explosion drove the disintegrating energy out of the surrounding area. In other words, just like when you got hit by the law, there's a short vacuum area. That's why the screen went black temporarily. ......"
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309060,
+			"Yes! Why didn't I think about this! This means a re-projection of the scene when Honkai energy resumes!",
+			"对啊！我怎么没想到这个方法！这样不就等于重新复现了崩坏能恢复的情景了么！",
+			"そう！この方法が正解だったのよ！あの場面を再現するのが、ベストな方法だったの！",
+			"그래! 이 방법이 정답이었어! 그 장면을 재현하는 게 최선의 방법이었던 거야!",
+			null,
+			null,
+			"Yes! Why didn't I think of that? This is the same as recreating the scenario where the collapse can be restored!",
+			"Yes!!! This was the right way! It was the best way to recreate that scene!"
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309061,
+			"I have to admit it's all because of you Sin, we're lucky…at this moment, we might be able to find the point of difference of radiation wave.",
+			"不得不承认这次是杏你的功劳，也算是因祸得福了…趁着崩坏能重新汇聚，说不定就能检测到辐射波的差异点了。",
+			"今回は、シンのお陰だってことを認めるしかないわね。さて……崩壊エネルギーが再び集まったら、放射波のズレが検出できなくなるかもしれない、急がないと。",
+			"이번에는 신의 덕분이라는 걸 인정할 수밖에 없네. 자... 붕괴 에너지가 다시 모이면 방사파의 어긋남을 검출할 수 없게 될지도 몰라, 서둘러야 해.",
+			null,
+			null,
+			"Have to admit that this time is apricot you credit, but also considered a blessing in disguise ... while the collapse can re converge, maybe you can detect the point of difference in radiation waves.",
+			"I have to admit that this time it's thanks to Sin. Now ...... if the decay energy gathers again, we may not be able to detect the displacement of the radiation wave, we have to hurry."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309062,
+			"Beep beep beep——",
+			"滴滴滴——",
+			"ピピピッ——",
+			"삐삐빅——",
+			null,
+			null,
+			"Drip-drip-drip-",
+			"Beep--"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			309063,
+			"Got it! Even it's weak, but it's reacting!",
+			"有了！虽然很微弱，但的确有反应了！",
+			"あった！かなり弱いけど、反応があったわ！",
+			"찾았어! 꽤 약하지만 반응이 있었어!",
+			null,
+			null,
+			"There it is! It's faint, but it's definitely responding!",
+			"There it is!!! Pretty weak, but I got a reaction!"
+		],
+		[
+			"msg",
+			309064,
+			"Huh, finally…let's go! It's not far from here!",
+			"呼，终于找到了…走吧！距离这里不是很远！",
+			"やっと見つけることができた……行きましょう、ここからそう遠くないわ！",
+			"드디어 찾을 수 있었어... 가자, 여기서 그리 멀지 않아!",
+			null,
+			null,
+			"Whew, finally found it...let's go! Not very far from here!",
+			"I finally found it ...... let's go, it's not far from here!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				67,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			309065,
+			"The last second she's crying and now she's laughing…say I'm insane, I think you're losing your mind!",
+			"一会哭一会笑的…总是说我神经病，我看你自己才是脑子烧掉了！",
+			"泣いてんのかと思ったら、急に笑い出しやがって……いつもボクのこと頭おかしいって言うけど、お前も大概だな！",
+			"울고 있는 줄 알았더니 갑자기 웃어 버리고... 항상 날 미쳤다고 말하지만 너도 적당히 해!",
+			null,
+			null,
+			"Always crying and laughing...always saying I'm crazy, I think you're the one who's brain is burnt out!",
+			"I thought you were crying, but suddenly you started laughing. ...... You always call me crazy, but you're pretty much the same!"
+		]
+	]
+}

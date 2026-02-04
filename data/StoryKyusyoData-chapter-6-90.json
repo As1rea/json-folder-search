@@ -1,0 +1,870 @@
+{
+	"1348": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10175"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			308435,
+			"Growl!!",
+			"吼吼吼！！",
+			"ウォオオオオオッ——！！！！",
+			"우오오오오옷!!!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Woah woah woah--！！！！"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			308436,
+			"Annoying! Get away!",
+			"烦人的家伙！给我滚开！",
+			"うっさい！どけッ！",
+			"시끄러! 비켜!",
+			"Shut up! Get out of the way!",
+			null,
+			"Annoying guy! Get the hell out of my way!",
+			"Shut up! Get out of the way!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			308437,
+			"Sin! We're close! Don't get obsessed with the fight! The Honkai creatures are much more difficult to deal with compared to those outside!",
+			"杏！我们马上就要到了！不要恋战！这里的崩坏生物比外面棘手太多了！",
+			"シン、もうすぐ着くんだから戦いはほどほどに！ここの崩壊生物は、外のより遥かに手強いんだから！",
+			"신, 곧 도착할 테니까 전투는 적당히 해! 여기의 붕괴 생물은 밖의 것보다 훨씬 강하다고!",
+			"Sin, we're almost there, don't fight too much! The Honkai Beasts here are far tougher than those outside!",
+			null,
+			"Apricot! We're almost there! Don't get attached to the battle! The Avalanche creatures here are much trickier than outside!",
+			"Shinn, we're almost there, so don't fight too much! The disintegrating creatures here are far tougher than those outside!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				67,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			308438,
+			"Stop talking! Don't hide in the back!",
+			"说的倒轻松！别总是躲在后面看戏啊！",
+			"言うのは簡単だよな！お前もちょっとは手を貸せよ、まったく！",
+			"말로는 쉽지! 너도 좀 도와줘야지, 정말!",
+			"Easy for you to say! You always just watch from the sidelines!",
+			null,
+			"That's easy to say! Don't always hide in the back and watch the show!",
+			"Easy for you to say! You could use a little help, too, you know!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			308439,
+			"Growl……",
+			"吼吼吼……",
+			"フシュー……。",
+			"후슈…….",
+			null,
+			null,
+			"rolleyes ......",
+			"Fushoo. ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			308440,
+			"Eh…why they suddenly stop?",
+			"呃…这些崩坏生物怎么停止攻击了？",
+			"あれ、急に攻撃が止んだ？",
+			"어라, 갑자기 공격이 멈췄어?",
+			"Uh... Why did they stop attacking?",
+			null,
+			"Uh...why did these crashing creatures stop attacking?",
+			"Oh, did the attacks suddenly stop?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				67,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308441,
+			"Huh! They must be scared by me!",
+			"哼！一定是被本大爷的力量给吓坏了吧！",
+			"ハハッ！きっとボクの力にビビったんだろ！",
+			"하하! 분명 내 힘에 겁먹은 거겠지!",
+			"Ha ha! They must be frightened by my strength!",
+			null,
+			"Hmph! Must have been frightened by the power of my lord!",
+			"Ha ha! I bet he was scared of my power!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308442,
+			"No…they look as if they get some instructions……",
+			"不…从它们的样子来看似乎是受到了什么指令一样……",
+			"いいえ……この様子、何か指示を受けてるんだわ……。",
+			"아니…… 이 모습, 무언가 지시를 받고 있는 거야…….",
+			"No... That look... They're under the control of something....",
+			null,
+			"No...from the way they look it seems like they are under some kind of instruction ......",
+			"No. ...... this look, he's getting some instructions. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308443,
+			"Ah never mind! As long as we can get there!",
+			"哎呀你管它呢！反正顺利到达了不就行了！",
+			"まぁ、無事到着したし！ほっとけばいいさ！",
+			"뭐, 무사히 도착했잖아! 내버려 두면 돼!",
+			"Oh, whatever! As long as we can get there, right?",
+			null,
+			"What do you care! Anyway, it will be fine if we arrive smoothly!",
+			"Well, we arrived safely! Leave us alone!"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			308444,
+			"It looks terrible from this distance~what made it like this, mother must be sad when see this.",
+			"话说从近处看还真是惨呢~到底是什么样的东西把月光王座弄成这副样子的，要是妈妈看见了一定会心疼死。",
+			"近くで見ると本当に悲惨だなぁ！一体、何が月光王座をこんな姿にしたんだ？ママに見られたら卒倒もんだぞ、こりゃ。",
+			"가까이서 보니 정말 비참하네! 대체 무엇이 월광왕좌를 이런 모습으로 만든 거야? 엄마한테 걸리면 기절하겠어, 이건.",
+			"Wow, the Moonlight Throne is in terrible shape. If my mom saw this, she'd have a stroke. What in the world could have done this to it?",
+			null,
+			"The moonlight throne is a very bad thing to see from close up ~ what kind of things make it look like this, if the mother saw it will be heartbroken.",
+			"It's really tragic when you look at it up close! What in the world could have made the Moonlight Throne look like this? If my mom saw me, she'd have a stroke, that's what."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			308445,
+			"Only those who experience the fight will know…but no one else expect Herrscher can do it.",
+			"这种事情只有经历过那场战斗的人才会知道吧…不过除了律者应该也没有谁能做到这种事情了。",
+			"それは、この戦いを経験した人にしかわからないでしょうね……でも、こんなになるなんて、おそらく律者絡みなんでしょうけど。",
+			"그건, 이 전투를 경험한 사람만이 알 수 있을 거예요…… 하지만, 이렇게까지 되다니, 아마 율자와 관련된 것이겠죠.",
+			"Only those who were there during the fight would know... But the only way it could have been this bad is if there was a Herrscher involved.",
+			null,
+			"This kind of thing only those who have experienced that battle will know it...but there should be no one but the Ruler who can do this kind of thing.",
+			"Only those who have been through this battle will understand that. ...... but I can't see how it could be this bad, though it's probably a scribes' tangle."
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			308446,
+			"Anyway, let's see if there's a way to get inside, we can climb from that ruin, let's go.",
+			"总之，我们先找找看有没有进入月光王座的道路吧，从那边的废墟爬上去应该可以进入到战舰里面，我们走吧。",
+			"とにかく、月光王座の中へと入れる場所を探しましょう。たぶん、あそこの廃墟から登れば戦艦に入ることができるはずよ。行きましょう。",
+			"어쨌든, 월광왕좌 안으로 들어갈 수 있는 곳을 찾아봐요. 아마 저기 폐허에서 올라가면 전함에 들어갈 수 있을 거야. 가자.",
+			"Anyway, let's find out if there is a way to enter the Moonlight Throne first. Climbing up from the ruins over there should allow us to enter the battleship. Let's go.",
+			null,
+			"Anyway, let's find out if there is a way to enter the Moonlight Throne first. Climbing up from the ruins over there should allow us to enter the battleship, let's go.",
+			"Anyway, let's find a place to get into the Moonlight Throne. Maybe we can get into the battleship by climbing up from the ruins over there. Let's go."
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			308447,
+			"Woo…mind your step…we're done if we fall from here……",
+			"唔…大家小心脚下…要是从这里摔下去就完了……",
+			"み、みんな気を付けて……ここから落ちたら、おお、お、おしまいだからね……。",
+			"다, 다들 조심해…… 여기서 떨어지면, 아, 아, 끝이니까…….",
+			"E- Everyone watch your step... If you fell from this height, you'd die for sure...",
+			null,
+			"Well ... everyone watch your step ... to fall from here will be the end ......",
+			"Mi, everyone be careful ...... because if you fall from here, oh, oh, you're done. ......"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			308448,
+			"Whoa!",
+			"呜哇！",
+			"わ、わぁ……ッ！",
+			"와, 와아……!",
+			null,
+			null,
+			"Woohoo!",
+			"Wow, wow ......!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308449,
+			"Huh~you should take care of yourself right?",
+			"哼~该小心的是你自己吧？",
+			"はぁ、お前が一番気を付けろよ。",
+			"하아, 네가 제일 조심해라.",
+			null,
+			null,
+			"Hm~ It's you who should be careful, right?",
+			"Huh, you're the one who should be most careful."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308450,
+			"Huh…what the hell……",
+			"呼…吓死我了……",
+			"ふ、ふぅ……びっくりした……。",
+			"후, 후우…… 깜짝 놀랐어…….",
+			"Hah, hah.... You scared me half to death...",
+			null,
+			"Whew...scared the hell out of me ......",
+			"Huh, Huh. ...... surprised me. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308451,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308452,
+			"Here is a hole…from here we should be able to get inside.",
+			"这里有一个窟窿…从这边进去的话应该就能进到里面了。",
+			"ここの穴から中に入れそうね。",
+			"여기 구멍으로 안에 들어갈 수 있을 것 같네.",
+			"Looks like there's a hole here... We should be able to get in though here.",
+			null,
+			"There is a hole here...you should be able to get inside if you go in from this side.",
+			"It looks like you can get in through this hole here."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308453,
+			"Kuang——!",
+			"哐啷——！",
+			"ガタン——ッ！",
+			"그당——!",
+			"Clang——!",
+			null,
+			"Clang--!",
+			"Slam--!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308454,
+			"Piu—!",
+			"嘿咻—！",
+			"よいしょっと。",
+			"좋았어.",
+			"Hmph!",
+			null,
+			"Hey presto-!",
+			"Oops."
+		],
+		[
+			"msg",
+			308455,
+			"Huh! Finally……",
+			"呼！总算是进来了……",
+			"ほっ、何とか入れたわ……。",
+			"휴, 어떻게 들어갔어…….",
+			"Phew! I managed to get in...",
+			null,
+			"Whew! Finally, I'm in ......",
+			"Hooray, I managed to get in. ......"
+		],
+		[
+			"bg",
+			"CG10177"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308456,
+			"Eh! The level of Honkai energy here is much higher than expectation……so all the Honkai energy outside is from here.",
+			"咳咳！这里的崩坏能浓度果然比预想的还要高……果然外界的崩坏能都是从这里散发出来的么。",
+			"コホン……！ここの崩壊エネルギー濃度、やっぱり平均値を上回ってる……外を漂う崩壊エネルギーもここから漏れ出たのかしら。",
+			"코홈……! 여기의 붕괴 에너지 농도, 역시 평균값을 넘어섰어…… 밖을 떠도는 붕괴 에너지도 여기서 샌 건가.",
+			"(Cough)....! The concentration of Honkai Energy here is much higher than average... All the energy outside must be leaking out from here.",
+			null,
+			"Ahem! The concentration of avalanche energy here is really higher than expected ...... Surely the outside world's avalanche energy is all emitted from here?",
+			"Cohon......! The decay energy concentration here is still above average. ...... I wonder if the decay energy drifting outside leaked out from here."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			308457,
+			"This place is so shitty, never know one day Moonlight Throne will become like this.",
+			"这地方可真是破的可以，没想到月光王座居然也有变成这样的一天。",
+			"すごいボロボロだな。月光王座のこんな姿を見る日がくるなんて。",
+			"정말 낡아빠졌네. 월광왕좌의 이런 모습을 보게 될 줄이야.",
+			"Wow, this place looks like crap. I never imagined I'd see the Moonlight Throne reduced to this.",
+			null,
+			"This place can be really broken, I did not expect the moonlight throne actually have become like this one day.",
+			"It's a great wreck. I never thought I would see the day when I would see the Moonlight Throne like this."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			308458,
+			"The fight must be very intense from how it's damaged…only Herrscher can do this…though have met them for several times, I still feel scared……",
+			"从装甲的破损程度来看战斗一定非常惨烈…也就只有律者能造成这样的破坏了…虽然已经和她们交手过几次了，但还是让人背脊发凉呢……",
+			"装甲の破損具合からして、戦闘は苛烈なものだったと想像できるわ……これだけの破壊力、やっぱり律者以外には考えられない……何度も相手にしてきたけど、あらためて恐ろしい存在だと認識させられるわ……。",
+			"장갑의 손상 정도로 보아 전투가 얼마나 격렬했는지 상상이 가...... 이 정도의 파괴력은 역시 율자 외엔 생각할 수 없어...... 몇 번이나 상대했지만, 다시 한번 무서운 존재라고 인식하게 되네......",
+			"Judging from the damage to the armor, the battle must have been really intense... Only the Herrscher could have done this kind of damage. Although I've encountered them a couple of times, seeing this reminds me of just how terrifying they are...",
+			null,
+			"From the degree of armor damage to see the battle must be very violent ... only the Ruler can cause such damage ... Although they have fought a few times, but still let people back chills it ......",
+			"From the damage to the armor, I can imagine that the battle must have been intense. ...... I can't think of anyone else with such destructive power other than the Riten, ...... I've dealt with them many times, but I'm reminded once again of their terrifying existence. I've had to deal with this many times, and it makes me realize what a fearsome being he is. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308459,
+			"Haha~it must be very exciting! Wish I could be part of it! I already feel high through imagination!",
+			"嚯嚯~一定非常刺激吧！要是本大爷也能参加的话就太棒了！光是想象一下就让人热血沸腾！",
+			"ヒッヒッ、きっと面白かったんだろうなぁ。ボクも参加できたら良かったのに！想像しただけでゾクゾクする！",
+			"히힛, 분명 재미있었겠지. 나도 참여할 수 있었으면 좋았을 텐데! 상상만으로도 소름이 돋아!",
+			"Hee hee, I bet it was fun. I wish I could have been there! My blood's boiling  just imagining it!",
+			null,
+			"Ho ho ho~ It must be very exciting! It would be great if I could participate too! Just imagining it makes people's blood boil!",
+			"Hee hee, I bet it was fun. Wish I could have been there! I'm getting chills just thinking about it!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308460,
+			"Crack…Crack……",
+			"喀拉…喀拉……",
+			"ガラッ……ガラン……。",
+			"갈라...... 갈란......",
+			null,
+			null,
+			"Kara...Kara ......",
+			"Garang ...... Garang ......."
+		],
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308461,
+			"Coo! This is…meka weapon from Anti-Entropy!",
+			"咕！这个是…逆熵的机甲兵器么！",
+			"これは……ネゲントロピーの機甲兵器！？",
+			"이건...... 네겐트로피의 기갑 병기!?",
+			"This is... An Anti-Entropy armored weapon!",
+			null,
+			"Goo! Is this... the mecha weapon of reverse entropy!",
+			"This is a ...... Negentropy armored weapon!"
+		],
+		[
+			"msg",
+			308462,
+			"Damn…there're still some remain here! Are they also eroded by Honkai like ME!",
+			"糟糕…没想到这里还有残留的机甲！难道和ME社一样被崩坏侵蚀了么！",
+			"まずいわ……ここに機甲がいるなんて想定外。まさか、ME社の時と同じよう崩壊に侵食されてないよね……？",
+			"큰일이야...... 여기에 기갑이 있을 줄은 예상 밖이야. 설마, ME사 때처럼 붕괴에 침식되진 않았겠지......?",
+			"Damn it... I didn't think there'd be mechas here too. Was it eroded by the Honkai just like back at the M.E. Corp. building?",
+			null,
+			"Damn...I didn't think there were still remnants of mecha here! Was it eroded by collapse like ME Society!",
+			"It's not good. ...... I didn't expect to see armor here. You don't think it's been eroded by collapse like it was in ME Co. ......?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308463,
+			"What a splendid welcome, another big fight……",
+			"还真是盛大的迎接啊，看来又可以大干一场了……",
+			"チッ、盛大な歓迎だなぁ！大暴れできそうだ……ッ！",
+			"쳇, 성대한 환영이로군! 마구 날뛸 수 있겠어......!",
+			"Woah, a welcome party just for us! I'm ready to go on a rampage!",
+			null,
+			"It's really a grand greeting, it seems to be able to do a big job again ......",
+			"Damn, that's a big welcome! I'm ready to go on a rampage: ......!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308464,
+			"Sin, let's retreat, your condition is not suitable to fight!",
+			"杏，我们先撤退吧，现在你的状态不合适战斗！",
+			"シン、一旦撤退しましょう。連戦続きで、今のあなたは万全な状態じゃない！",
+			"신, 일단 철수합시다. 연전이 계속되니 지금 당신은 완전한 상태가 아니에요!",
+			"Sin, let's retreat! You've been through enough battles already, you're in no shape to be fighting again!",
+			null,
+			"Apricot, let's retreat first, now your state is not suitable for fighting!",
+			"Shin, let's take a step back. It's been a series of battles and you're in no shape to be in right now!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308465,
+			"Then we need to fight for a way first!",
+			"那也得先杀出一条道路再说！",
+			"だったら、その前に撤退の道を作らないとだな！",
+			"그렇다면, 그 전에 철수의 길을 만들어야지!",
+			"Then let's fight our way out before more arrive!",
+			null,
+			"Then we have to kill a way out first!",
+			"Then we'll have to make our way out before that happens!"
+		]
+	]
+}

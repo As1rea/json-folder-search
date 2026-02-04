@@ -1,0 +1,3356 @@
+{
+	"201": [
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204352,
+			"That's strange... I thought I summoned it already...",
+			"真是奇怪，明明召唤出来了……",
+			"おかしいなぁ〜召喚したのに…",
+			"이상하네~ 소환했는데...",
+			"That's strange~ I thought I summoned her already..."
+		],
+		[
+			"msg",
+			204353,
+			"That thing born from the Lucian treasures... Where did it go?",
+			"从卢西恩密藏中诞生的家伙，到底跑哪里去了呢……",
+			"ルシアンの秘宝から召喚したやつどこに行っちゃったんだろう…",
+			"루시안의 비보에서 소환한 녀석은 어디로 간 걸까...",
+			"I wonder where the one I summoned from Lucien's Treasure went... (TN: Idk how to translate this to be less clunky sounding. Anyway, the official spelling for the name is \"Lucien\".)"
+		],
+		[
+			"msg",
+			204355,
+			"Ehh? Who's there?",
+			"呜……什么东西？",
+			"ん…何？",
+			"음… 뭐지?",
+			"Hm... what's that?"
+		],
+		[
+			"msg",
+			204357,
+			"A bat, huh? Gave me quite a scare.",
+			"原来是蝙蝠啊……真是的，不要吓人嘛。",
+			"何よ！コウモリじゃない！驚かせないでよね！",
+			"뭐야! 박쥐도 아니고! 깜짝 놀랐잖아!",
+			"Oh, it's just a bat... That gave me quite a scare!"
+		],
+		[
+			"msg",
+			204359,
+			"Ow! This bat wants to bite me, huh?",
+			"呃！！这蝙蝠居然想咬我！",
+			"私に噛み付こうなんて！",
+			"나한테 물려고?!",
+			"Ow!! How dare this bat try and bite me!"
+		],
+		[
+			"msg",
+			204360,
+			"Come on, I don't have time to waste on you now! Shoo! Shoo!",
+			"真是的，现在可没工夫管你啦，赶紧飞一边去！",
+			"ったく！あんたにかまってる暇無いの！どっか行きなさい！",
+			"젠장! 너랑 놀아줄 시간 없어! 어디 가버려!",
+			"Seriously! I don't have time to deal with you right now! Go away!"
+		],
+		[
+			"msg",
+			204362,
+			"Great, now I'm mad! Don't blame me for what I'm gonna do next!",
+			"啊啊！！烦死啦！那就不要怪我不客气了！",
+			"あぁ！もう！鬱陶しい！もう怒った！",
+			"아! 정말! 귀찮게 하지 마! 이젠 화났어!",
+			"Ugh!! So annoying! Well then, don't blame me for this!"
+		],
+		[
+			"msg",
+			204364,
+			"Got your shoulder! Now you'll leave me alone, huh?",
+			"射中翅膀了~这次你追不上来了吧~乖乖躺着吧。",
+			"これで襲ってこれないでしょ。そこで倒れてなさい。",
+			"이제 덤벼들 수 없겠지. 거기서 쓰러져 있어.",
+			"I hit its wing! Now you won't be able to bother me now, right? Just stay put."
+		],
+		[
+			"msg",
+			204365,
+			"Oh yeah, almost forgot that I have someone to look for. Let me check over there...",
+			"对了！差点忘了找人了，到那边看看吧……",
+			"あ！人探してたの忘れてた！あっちの方探してみよ。",
+			"아! 사람 찾던 거 잊고 있었어! 저쪽을 좀 찾아봐야겠다.",
+			"Oh right! I almost forgot I'm looking for someone. I'll look over there..."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204366,
+			"W-wait...",
+			"等……等等……",
+			"ま…まって…",
+			"잠... 잠깐...",
+			"W-...Wait..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204367,
+			"Who's there?",
+			"谁！？",
+			"誰？！",
+			"누구야?!",
+			"Who's there?!"
+		],
+		[
+			"msg",
+			204369,
+			"The wound on your elbow... Could you be...",
+			"这胳膊上的枪伤，你难道就是……",
+			"この肘の銃痕…あんたもしかして…",
+			"이 팔꿈치의 총흔... 너 설마...",
+			"This bullet wound in your elbow... could you be..."
+		],
+		[
+			"msg",
+			204371,
+			"Hey! No fainting here!",
+			"喂喂喂！！别晕倒啊！",
+			"ちょちょちょ！意識保って！",
+			"잠깐잠깐! 정신 차려!",
+			"Hey hey hey!! Stay conscious!"
+		],
+		[
+			"msg",
+			204372,
+			"Tsk, how did a bat turn into a person? Must have been affected by the Source...",
+			"啧！没想到蝙蝠居然会变成人，看来一定是受到崩坏的影响了……",
+			"コウモリが人に化けるなんて思ってもなかったわ、これも崩壊の影響ね…",
+			"박쥐가 사람으로 변하다니 생각도 못 했어, 이것도 붕괴의 영향이네...",
+			"I never thought bats could turn into people — this must be an effect due to Honkai..."
+		],
+		[
+			"msg",
+			204373,
+			"Well, guess looking for Lucian has to wait...",
+			"哎……看来找卢西恩的事情只能先放一下了呢……",
+			"…ルシアンのことは一先ず置いておきましょうか…",
+			"...루시안은 일단 잠시 접어두자...",
+			"<i>Sigh...</i> looks like I'll have to put finding Lucien on hold for now..."
+		]
+	],
+	"203": [
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204392,
+			"(Rumbling)",
+			"咕噜咕噜……",
+			"ギュルギュル…",
+			"꼬르륵꼬르륵...",
+			"<i>Grumble grumble...</i>"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204393,
+			"Feeling better now?",
+			"怎么样？好点了么？",
+			"どう？少しは良くなった？",
+			"어때? 좀 나아졌어?",
+			"So? Feeling a bit better?"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204394,
+			"Your blood... It tastes so sour...",
+			"你的血怎么这么酸……",
+			"あなたの血酸っぱいわね…",
+			"네 피 신맛이 나네...",
+			"Why is your blood so sour...?"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204395,
+			"That's ketchup, ha ha. Why would I ever feed you with my blood?",
+			"这是番茄酱啦~我怎么可能给你喝我的血呢~",
+			"これはケチャップよ！私の血をあげるわけ無いでしょ！",
+			"이건 케첩이야! 내 피를 줄 리 없잖아!",
+			"This is ketchup~ Why would I ever let you drink my blood?!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204396,
+			"Splat!",
+			"噗！！！",
+			"プハッー",
+			"푸하악",
+			"<i>Pffftt!!!</i>"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204397,
+			"Say, are you really the bat I injured? How did you become a human? Do you still remember?",
+			"我说，你真的是被我打伤的蝙蝠么？你到底是怎么变成人的，你还有印象么？",
+			"あんた本当に私が撃ったコウモリなの？どうやって人間になったかまだ覚えてる？",
+			"너 정말 내가 쏜 박쥐였어? 어떻게 인간이 됐는지 아직 기억나?",
+			"Anyway, are you really the bat I shot? Do you remember how you turned human?"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204398,
+			"Actually... I don't remember very clearly. I felt like I had woken up from a very long dream, and then the only thing I knew was that I was extraordinarily hungry.",
+			"变成人……我已经记不清了，只记得自己好像从漫长的睡梦中苏醒，然后就感觉到异常的饥饿……后面就不记得了。",
+			"どうやって人間になったかはもう覚えていないけど、長い夢から覚めたら、異常なほどの飢えに襲われて…そっからは覚えてない…",
+			"어떻게 인간이 됐는지는 기억나지 않지만, 긴 꿈에서 깨어나면 비정도한 굶주림에 시달렸어... 그 이후는 기억이 안 나...",
+			"I can't remember how I became human... I only remember waking up from a long sleep and feeling an intense hunger... I don't remember anything after that."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204399,
+			"I see. Probably a result of the Source indeed.",
+			"是么，看来果然是因为崩坏的关系。",
+			"そう…やっぱり崩壊が原因みたいね。",
+			"그래... 역시 붕괴가 원인인 것 같네.",
+			"I see... Looks like it's due to the Honkai after all."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204400,
+			"I need blood... now...",
+			"必须尽快吸取血液才行……",
+			"早く血を吸わないと…",
+			"빨리 피를 빨지 않으면...",
+			"If I don't get some blood soon..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204401,
+			"Wait! Where are you going?",
+			"等等！你要去哪？",
+			"ちょ！どこに行くの？",
+			"야! 어디 가는 거야?",
+			"Hey! Where are you going?"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204402,
+			"I won't be able to beat you in my current state, so I'll have to look for some weaker prey.",
+			"现在的我无法战胜你，所以得去寻找弱小的目标下手……",
+			"今の私ではあなたに勝つことはできないから、弱そうな目標を見つけないと…",
+			"지금의 나로는 너를 이길 수 없으니까, 약해 보이는 목표를 찾아야지...",
+			"I can't beat you in my current state, so I need to find weaker prey..."
+		],
+		[
+			"msg",
+			204403,
+			"As long as I have fresh blood, I'll be able to...",
+			"只要有鲜血的话，就能……",
+			"新鮮な血があれば…",
+			"신선한 피만 있다면...",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204404,
+			"Hey, wait! Don't head outside!",
+			"喂！等等！不要出去啊！！",
+			"ねぇ！待ちなさい！出ちゃダメ！！",
+			"야! 기다려! 나가면 안 돼!!",
+			"Hey! Wait! Don't go outside!!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204406,
+			"Humans, let me have your fresh blood!",
+			"人类！把鲜血交出来吧！",
+			"人類よ！血をよこせ！",
+			"인류여! 피를 내놔라!",
+			"Human! Give your blood to me!"
+		],
+		[
+			"msg",
+			204407,
+			"Ow!",
+			"啊呜！",
+			"ガブ！",
+			"악!",
+			"<i>Munch!</i>"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204409,
+			"This vampire... went and bit a zombie...",
+			"这家伙没想到真的去咬死士了啊……",
+			"ゾンビに噛み付いた…",
+			"좀비한테 물렸어...",
+			"I never thought she'd actually bite a zombie..."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204410,
+			"Ugh...",
+			"呃……",
+			"う…",
+			"으...",
+			null
+		],
+		[
+			"msg",
+			204411,
+			"This taste... This decayed smell... What the heck is this? Are you really humans? Why is it that your blood...",
+			"这腐烂的味道是怎么回事……你们真的是人类么，为什么身上的血液都……",
+			"この腐ったような味…あなた達本当に人間なの？血が…",
+			"이 썩은 듯한 맛... 너희들 진짜 인간이야? 피가...",
+			"This rotten taste... Are you all really human? Your blood..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204413,
+			"Oh dear. Hey, don't just stand there staring. Get away!",
+			"糟了，喂不要傻站着了，快离开！",
+			"しまった！突っ立ってないで離れて！",
+			"젠장! 가만히 서 있지 말고 떨어져!",
+			"Damnit! Don't just stand there, get away!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204414,
+			"Ow...",
+			"呜！！",
+			"うっ！",
+			"윽!",
+			"Ugh!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204415,
+			"Fainted again? Come on, wake up!",
+			"又晕过去了……喂，快起来啊！",
+			"また気を失っちゃった…ねぇ！起きて！",
+			"또 기절해버렸어... 야! 일어나!",
+			"She fainted again... Hey! Get up!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204416,
+			"I have no strength...",
+			"已经没有力气了……",
+			"もう力が…",
+			"이제 힘이...",
+			"My power's already gone..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204417,
+			"Tsk, what a useless one.",
+			"啧！真是没用的家伙啊！！",
+			"本当に使えないやつね…",
+			"정말 쓸모없는 녀석이네...",
+			"Tch! What a useless person!!"
+		]
+	],
+	"204": [
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204418,
+			"Phew, finally we've reached somewhere safe.",
+			"呼呼……终于到安全的地方了……",
+			"はぁ…はぁ…やっと安全な場所についたわ。",
+			"하아... 하아... 겨우 안전한 곳에 도착했어.",
+			"<i>Huff... huff...</i> finally, we're somewhere safe."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204419,
+			"The humans in this world... They've evolved, have they not? Into a form that we vampires cannot penetrate...",
+			"没想到这个世界上的人类为了与吾之一族对抗进化成了更高的形态了么……",
+			"人類は私達血の一族に抵抗するために進化を遂げたと言うの？",
+			"인류가 우리 혈족에 저항하기 위해 진화를 이뤘다고?",
+			"I never imagined that humans could evolve into a higher form in order to resist my kind..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204420,
+			"Um, I have no idea what you're talking about.",
+			" 呃，你说的话我怎么听不懂……",
+			"あんたが何言ってるのか全く理解できないんだけど…",
+			"네가 무슨 말을 하는지 전혀 이해가 안 되는데...",
+			"Uhh, what are you talking about about...?"
+		],
+		[
+			"msg",
+			204421,
+			"Hey, where are you going?",
+			"喂！你要到哪里去？",
+			"ねぇ！今度はどこに行くのよ！",
+			"야! 이번엔 어디로 가는 거야!",
+			"Hey! Where are you going this time?!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204422,
+			"None of your business.",
+			"你管不着。",
+			"あなたには関係ないわ。",
+			"너랑은 상관없어.",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204423,
+			"Hey, I'm your savior! Your business is my business!",
+			"什么！我可是救过你一命的哦！",
+			"何よ！私があんたを救ってあげたのよ！",
+			"뭐야! 내가 널 구해줬다고!",
+			"What?! I saved your life!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204424,
+			"So what? If I want to, I could kill you right here.",
+			"那又如何，如果我愿意的话我现在就能杀了你。",
+			"だからなに？私がその気になればあなたを殺すくらい…",
+			"그래서 어쩌라고? 내가 마음만 먹으면 널 죽일 수도 있어...",
+			"So what? If I wanted to, I could kill you right here..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204425,
+			"I'd love to see you try!",
+			"哼！那就试试看吧！",
+			"そこまで言うならやってみなさい！",
+			"그렇게 말할 거면 한번 해봐!",
+			"Hmph! I'd like to see you try!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204426,
+			"Well, then you'll have the honor of becoming the first step of our vampire clan's road to glory.",
+			"那就让你成为吾之一族复兴的第一步吧。",
+			"ならば、あなたを私達一族復興の第一歩にしてあげる。",
+			"그렇다면, 너를 우리 일족 부흥의 첫걸음으로 삼아주지.",
+			"Then, I will make you the first step in restoring my bloodline."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204427,
+			"I won't hold back. Hah!",
+			"那我就不客气了！！嘿！！！",
+			"手加減しないわよ！",
+			"살살 안 해줄 거야!",
+			"Then I won't hold back!!"
+		],
+		[
+			"msg",
+			204429,
+			"Uh, why are you on the ground again?",
+			"呃……你这家伙怎么又躺地上了啊！！",
+			"…また倒れた…",
+			"...또 쓰러졌어...",
+			"Uh... why'd you collapse <i>again?!</i>"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204430,
+			"So... hungry...",
+			"肚子……好饿……",
+			"お腹すいた…",
+			"배고파...",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204431,
+			"...You...",
+			"……你这家伙。",
+			"…あんたねぇ。",
+			"...너 참.",
+			"...You bastard."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204432,
+			"I must not die here... My children of the blood clan needs me...",
+			"我还不能倒下，血之一族的子民还需要我去拯救……",
+			"私はまだ倒れるわけには行かないの。血の一族の子孫が私の助けを待っている…",
+			"나는 아직 쓰러질 수 없어. 피의 일족의 후손들이 나의 도움을 기다리고 있으니...",
+			"I cannot give up yet. The descendants of my bloodline are waiting for me to save them..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204433,
+			"Blood clan?",
+			"血之一族？",
+			"血の一族？",
+			"피의 일족?",
+			"Bloodline?"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204434,
+			"Human, let me ask you: Would you like to become my mate?",
+			"人类，我问你，你愿意成为我的眷属么？",
+			"人類よ、私達一族になる気は無いか？",
+			"인류여, 우리 일족이 될 생각은 없나?",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204435,
+			"Mate?",
+			"眷属？",
+			"一族？",
+			"일족?",
+			null
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204436,
+			"Indeed. I have been the chief of the blood clan of vampires since ancient times, and if you become my mate, you will possess power as strong as mine, and will also become immortal.",
+			"没错，我是血之一族的上古长老，古老的吸血鬼，只要你成为我的眷属，就将拥有和我一样强大的力量，还能够获得永生。",
+			"そうだ。私は血の一族のオリジナル。私の一族になるのであれば、あなたは私と同じ力を得ることができるの。そして不死になれる。",
+			"그렇다. 나는 혈족의 오리지널. 내 일족이 된다면, 너도 나와 같은 힘을 얻을 수 있다. 그리고 불사가 될 수 있어.",
+			"That's right. I'm the founder of my bloodline. If you join my clan, you'll have the same powers as me. And you'll be immortal."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204437,
+			"...",
+			"……",
+			"…",
+			"…",
+			"......"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204438,
+			"Together, we will gather all the vampires of the blood clan hiding in the human world, and then...",
+			"我们一起将没落于人世中的血之一族重新集结，这样就能……",
+			"私達で消えゆく一族を再度集結して、そうすれば…",
+			"우리로 사라져가는 일족을 다시 모아서, 그렇게 하면…",
+			"Let us reunite the fallen bloodline, and then surely we'll..."
+		],
+		[
+			"msg",
+			204440,
+			"Hey, what'd you hit me for?",
+			"呃，你为什么打我。",
+			"いきなりビンタ…",
+			"갑자기 따귀…",
+			"Uh, why'd you slap me...?"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204441,
+			"Are you nuts? This world is facing imminent danger and we'll need to get through this disaster before we can even start thinking about saving your clan.",
+			"我说你脑袋没病么……现在这个世界可以面临着巨大的危机呢，如果你要拯救你的种族的话首先得战胜这场灾难哦！",
+			"あんたの思考回路大丈夫なの？今世界は壊滅的危機に陥ってるの！もしあんたの一族を救いたいなら、まずこの危機を乗り越えてからよ！",
+			"너 정신 상태 괜찮아? 지금 세계는 붕괴적인 위기에 빠져있다고! 만약 네 일족을 구하고 싶다면, 먼저 이 위기를 극복하고 나서야지!",
+			"Are you crazy? The world is facing a catastrophic crisis right now! If you want to save your clan, we have to deal with this crisis first!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204442,
+			"Disaster?",
+			"灾难？",
+			"危機？",
+			"위기?",
+			"Crisis?"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204443,
+			"You saw it yourself. Most humans have already become zombies, and if we let them be, the whole world will be zombified.",
+			"你也看到了，因为名为崩坏的灾难，人类都已经变成了死士，如果放任不管的话，整个世界都会变成这样的情况。",
+			"あんたもさっき見たでしょ。あれはゾンビなの。崩壊って言う力が原因で今地球全体が危機にさらされているの。",
+			"너도 방금 봤잖아. 저건 좀비야. 붕괴라는 힘 때문에 지금 지구 전체가 위기에 처해 있다고.",
+			"You saw it yourself a while ago, right? Those are zombies. The whole Earth is now in danger because of a force called the Honkai."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204444,
+			"That's not my problem.",
+			" 你们人类的事情我可管不着。",
+			"あなた達人類の話は私には無縁だわ。",
+			"너희 인간들의 이야기는 나와는 상관없어.",
+			"Your human affairs have nothing to do with me."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204445,
+			"Well then, you can just stay here. I don't have time to waste with you.",
+			"哼！那你就在这呆着吧……我可没时间和你浪费时间。",
+			"フンっ！なら好きにしなさい！私にはあんたにかまってる時間は無いの。",
+			"흥! 그럼 마음대로 해! 나는 너에게 신경 쓸 시간 없어.",
+			"Hmph! Then do whatever you want! I'm not wasting my time on you."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204446,
+			"...Go, then. I'll rest here for a bit. When night falls, I'll be fully awaken, and you'd better find a place to hide, or else I'd suck you dry.",
+			"……你走吧，我在这休息一会，等到夜幕降临就是我的世界了，你还是找个地方藏起来的好，要不然我会吸干你的血。",
+			"…そう。ならもう行きなさい。私はここでもう少し休むわ。夜が着たらどこかに隠れてなさい。そうじゃないとあなたの血を吸い尽くしてしまうわ。",
+			"...그래. 그럼 이제 가봐. 나는 여기서 좀 더 쉴 거야. 밤이 오면 어딘가에 숨어. 안 그럼 네 피를 다 빨아버릴 거야.",
+			"...Fine. Then go away. I'll rest here a little longer. When night falls, you better hide, or I'll suck all your blood out."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204447,
+			"Do whatever you want, stupid emo!",
+			"哼！死中二……我不管你了！",
+			"この中二病！もう知らない！",
+			"이 중2병! 이제 몰라!",
+			"Hmph! You chuunibyou... I'm leaving!"
+		]
+	],
+	"205": [
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204448,
+			"Night has fallen...",
+			"夜幕降临了呢……",
+			"夜が訪れた…",
+			"밤이 찾아왔다...",
+			null
+		],
+		[
+			"msg",
+			204449,
+			"Ugh, why am I here again? Hey, stupid emo, are you still around? I got some food for you!",
+			"哎~为什么我又回到了这个地方啊……喂！你还在不在啊！我给你找了些吃的！",
+			"もう！なんでこうもお人好しなのよ…ねぇ！あんたまだ居るの！？食べ物見つけてきたわよ！",
+			"아니! 왜 이렇게까지 좋은 사람이야... 야! 너 아직 거기 있어!? 음식 찾아왔어!",
+			"Ugh! Why did I decide to come back... Hey! Are you still here?! I got some food for you!"
+		],
+		[
+			"msg",
+			204450,
+			"...Guess she left. Hopefully she hasn't been eaten by zombies...",
+			"……看来是走了，但愿她不要被死士吃掉就行了……",
+			"…もういないみたいね。ゾンビに食べられてなきゃ良いけど…",
+			"...이젠 없는 모양이네. 좀비에게 잡아먹히지만 않았으면 좋겠는데...",
+			"...Looks like she's gone now. I hope she hasn't been eaten by a zombie..."
+		],
+		[
+			"msg",
+			204452,
+			"A bat? Are you...",
+			"呜！是蝙蝠！？难道……",
+			"きゃ！コウモリ？まさか…",
+			"앗! 박쥐? 설마...",
+			"Ahh! A bat? It can't be..."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204453,
+			"What kind of place is this? I couldn't even find a single living human!",
+			"这什么鬼地方，居然一个活人都没有……",
+			"ここは一体どこなの…生きた人間が一人もいない…",
+			"여긴 대체 어디야... 살아있는 인간이 단 한 명도 없어...",
+			"What the hell is this place...? There's not a single living human around..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204454,
+			"Ah, it's you, as expected.",
+			"果然是你啊……",
+			"やっぱりあんたなのね。",
+			"역시 너였구나.",
+			"I knew it was you."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204455,
+			"I can't go on... I'm so hungry...",
+			"不行了……好饿……",
+			"もうダメ…飢えが…",
+			"더 이상 안 돼... 배고파서...",
+			"I can't take it anymore... so hungry..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204456,
+			"You still haven't eaten yet, huh? Here, I found these for you outside. All canned food, but at least it's something.",
+			"你还真是能死撑呢……拿去，这是我去外面找的食物，虽然都是罐头食品~",
+			"意地っ張りね…これ食べていいわよ。さっき外で見つけてきたの。全部缶詰だけど…",
+			"고집쟁이네... 이거 먹어도 좋아. 아까 밖에서 찾아온 거야. 전부 통조림이지만...",
+			"You really are good at persevering... Here, have this. I just found it outside. It's all canned though..."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204457,
+			"I don't eat anything that's not fresh blood...",
+			"我除了鲜血以外不吃其他东西……",
+			"私は新鮮な血以外は食さないの…",
+			"나는 신선한 피 외에는 먹지 않아...",
+			"I can't eat anything other than fresh blood..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204458,
+			"Come on, still being emo even now?",
+			"你这家伙……还在纠结这种中二的设定么……",
+			"あんた…この期に及んでもまだその中二設定にこだわるの…",
+			"너... 이 지경이 돼도 아직 그 중2 설정에 집착하는 거야...",
+			"You... Even at this point, you're still sticking to that chuuni persona..."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204459,
+			"...Do you still have ketchup? It's a bit sour, but at least that's something I can handle.",
+			"……你还有番茄酱么，虽然那东西有点酸，不过还是能接受的。",
+			"…まだケチャップとやらはある？酸っぱいけど、あれならまだ行ける…",
+			"...아직 케첩 같은 건 있어? 시긴 하지만, 그거라면 아직 버틸 수 있어...",
+			"...Do you still have any ketchup? It's sour, but I can at least handle it..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204460,
+			"Here, it's all yours.",
+			"嘿嘿！给你。",
+			"うん。あげる。",
+			"응. 줄게.",
+			"Yep. Here you go."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204461,
+			"I can't believe this. I, glorious chief of the blood clan, dining on ketchup...",
+			"没想到血族的长老居然沦落到喝番茄酱的地步……",
+			"血の一族の長老ともある私がまさかケチャップを飲むところまで落ちるなんて…",
+			"피의 일족의 장로인 내가 케첩을 마시는 지경이 될 줄이야...",
+			"I, the elder of a bloodline, falling so far as to consume <i>ketchup...</i>"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204462,
+			"Say, where have your clan members gone?",
+			"我说，你的族人到底在什么地方呢？",
+			"さっきから言ってる一族っていうのはどこに居るの？",
+			"아까부터 말하는 일족이라는 건 어디에 있는 거야?",
+			"Say, where exactly have your clan members gone?"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204463,
+			"I have been asleep for a very, very long time. I'm afraid not a lot of them are left.",
+			"我经过了漫长的沉睡已经不知道过了多久了，如今夜之子民恐怕已经所剩无几了。",
+			"どれだけ寝ていたか分からないけど、夜の民たちはもうそんなにいないかも…",
+			"얼마나 잠들어 있었는지 모르겠지만, 밤의 백성들은 이제 그렇게 많지 않을지도...",
+			"I don't know how long I've been asleep, but there might not be many of the Night family left..."
+		],
+		[
+			"msg",
+			204464,
+			"This city has been taken over by zombies, and I can't sense the aura of any of my clan.",
+			"现在这座城市已经化作死城了，我也没有感觉到其他族人的气息。",
+			"この街はすでにゴーストタウン状態になっていたし、一族の気配を感じ取れなかった。",
+			"이 도시는 이미 유령 도시 상태가 되어 있었고, 일족의 기척을 느낄 수 없었다.",
+			"This town is already a ghost town, and I can no longer sense the presence of my clan."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204465,
+			"So you want to look for them?",
+			"所以你想去寻找你的族人吗？",
+			"で、一族を探しに行くの？",
+			"그래, 일족을 찾으러 가는 거야?",
+			"Then you're gonna look for your clan?"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204466,
+			"Yes. It's my duty, being the chief of the clan.",
+			"没错……这是我身为元老的使命。",
+			"うん…長老としての使命を果たさないと。",
+			"응... 장로로서의 사명을 다해야 해.",
+			"Yes... I have to fulfill my duties as elder."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204467,
+			"All right, then. You look shifty, but I don't suppose you can be that bad. Come with me, won't you?",
+			"好吧，虽然你这家伙看起来有些不老实，但是感觉并不是坏人，那就和我一起走吧。",
+			"そう。あんたあんまり素直では無いけど、悪い人ではなさそうだし私と一緒に来れば？",
+			"그래. 넌 별로 솔직한 편은 아니지만, 나쁜 사람은 아닌 것 같고 나랑 같이 갈래?",
+			"I see. You're kinda suspicious, but you don't seem like a bad person, so why don't you join me?"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204468,
+			"You're helping a vampire? Humans don't usually do that, do they?",
+			"居然愿意帮助吸血鬼么……像你这样的人还真是少见呢。",
+			"吸血鬼に手を貸すの？…あなたみたいな人類滅多に居ないわ。",
+			"뱀파이어를 도와주는 거야?... 너 같은 인간은 흔치 않아.",
+			"You're actually willing to help a vampire? ...Humans like you are truly rare."
+		],
+		[
+			"msg",
+			204469,
+			"But then, the human society has indeed developed into something I've never imagined. Guess I'll need some time to get used to it.",
+			"现在人类的社会已经发展到我所无法想象的地步了，看来我也需要一段时间适应一下了。",
+			"今の人類の社会は想像以上に発展していて、慣れるまで少し時間が必要ね。",
+			"지금 인간 사회는 상상 이상으로 발전해 있어, 익숙해지려면 시간이 좀 필요해.",
+			"Human society today is more advanced than I could've ever imagined, so it will take some time to adapt."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204470,
+			"Hmm, you're an interesting one, you.",
+			"哼哼~你也是个有趣的家伙呢！",
+			"あんた面白いやつね。",
+			"너 재미있는 녀석이네.",
+			"Heheh~ You're quite an interesting fellow!"
+		]
+	],
+	"206": [
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204471,
+			"Hey, wake up! We're surrounded by zombies. We gotta leave now!",
+			"喂喂！快醒醒！！我们被死士包围了！必须尽快离开！",
+			"ねぇ！起きて！ゾンビに囲まれたわ！急いで抜け出しましょ！",
+			"야! 일어나! 좀비에게 둘러싸였어! 빨리 탈출하자!",
+			"Hey! Wake up! We're being surrounded by zombies! We have to hurry outta here!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204472,
+			"...I'm burning... So hot...",
+			"……好热……好热！",
+			"…あつい…",
+			"...더워...",
+			"...It's hot... so hot!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204473,
+			"Uh, why is smoke coming out of her body?",
+			"呃，这家伙怎么冒烟了？",
+			"あんた煙出てるわよ？",
+			"너 연기 나고 있어?",
+			"Uh, why is smoke coming off of you?"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204474,
+			"This light... Is it...?",
+			"这个是……好亮的光芒……呃！！！这是！",
+			"これは…まぶしい…っうぅ！！！これは…",
+			"이건… 눈이 부셔… 으윽!!! 이건…",
+			"This... bright light... UGH!!! This is...!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204475,
+			"Hey, you okay?",
+			"喂，你没事吧？",
+			"ねぇ？大丈夫？",
+			"저기? 괜찮아?",
+			null
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204476,
+			"Eyes... my eyes! Get me out of the sun!",
+			" 眼……眼睛！快把我从阳光下移开！",
+			"め！目がぁ！早く私を日陰に…",
+			"눈! 눈이야! 빨리 날 그늘로 데려가…",
+			"M-My eyes! Get me out of the sun, quickly...!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204477,
+			"All right. You should be fine here.",
+			"嘿咻！这里应该没问题了吧。",
+			"よいしょ！ここで大丈夫？",
+			"어휴! 여기면 괜찮아?",
+			"Here we go! You okay now?"
+		],
+		[
+			"msg",
+			204478,
+			"Useless, aren't you? Afraid of the sunlight... All you can do is hole up in your room like a nerd, huh?",
+			"真是没用的家伙啊，连阳光都害怕，你果然是见光死的阿宅么？",
+			"本当に使えないわね。太陽もダメなんて。",
+			"정말 쓸모없네. 햇빛도 못 참다니.",
+			null
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204479,
+			"I can't even stand contact with sunlight now that I'm lacking blood...",
+			"由于缺少血液，就连阳光都无法抵抗了么……",
+			"血が足りないと太陽にすら抵抗できないの…",
+			"피가 부족하면 햇빛조차 견딜 수 없어…",
+			"If I don't have enough blood, I can't even resist the sun..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204480,
+			"Stop murmuring nonsense! There's no time. Let's go!",
+			"你能说一句我听得懂的话么！没时间了！赶快走吧！",
+			"あんた少しは私がわかるように説明できないの？もう時間がないわ！早く行きましょ！",
+			"너 좀 내가 이해할 수 있게 설명 못 해? 시간 없어! 빨리 가자!",
+			"Can't you speak clearly so I can understand? We're running out of time! We have to go!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204482,
+			"Leave me be. If I step into the sun, I'll be dead anyway...",
+			"你走吧，如果我走到太阳下就等于是送死……",
+			"私を置いて行って…どうせ太陽を浴びれば死んでしまう…",
+			"날 두고 가… 어차피 햇빛을 쬐면 죽을 거야…",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204483,
+			"...",
+			"……",
+			"…",
+			"…",
+			"......"
+		],
+		[
+			"msg",
+			204484,
+			"Hey, you can turn into a bat, right? I'll hide you in my clothes and you won't have to face sunlight.",
+			"对了！你不是可以变成蝙蝠么！你变成蝙蝠，我把你藏在衣服里就行了！",
+			"そうだ！あんたコウモリに変身できるじゃない！コウモリに変身したら私の洋服の中に隠れてればいいのよ！",
+			"그래! 너 박쥐로 변신할 수 있잖아! 박쥐로 변신해서 내 옷 속에 숨어 있으면 되는 거야!",
+			"That's right! Can't you turn into a bat?! If you turn into a bat, I can just hide you inside my clothes!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204485,
+			"Hmm, you're quite clever.",
+			"呃……你还挺聪明的。",
+			"頭が冴えるのね。",
+			"머리가 잘 돌아가는군.",
+			"Ah... you're a sharp fellow."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204486,
+			"Ha ha, come on in!",
+			"嘿嘿！快飞进来！",
+			"早く！",
+			"빨리!",
+			"Hehe! Hurry and fly in!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204487,
+			"Uh, but...",
+			"呃，这里是……",
+			"…これは…",
+			"...이건...",
+			"Uh, this is..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204488,
+			"Shut up and just do it! There's no time!",
+			"别废话了，没时间了！",
+			"グダグダ言ってないで！",
+			"중얼중얼거리지 말고!",
+			"Quit whining, there's no time!"
+		],
+		[
+			"msg",
+			204490,
+			"All set!",
+			"好嘞~",
+			"よ〜し！",
+			"좋~아!",
+			"Alrighty~!"
+		],
+		[
+			"msg",
+			204492,
+			"Tsk, they're getting close. I'll just have to massacre them all!",
+			"啧，已经近在咫尺了么……那就让我大干一场吧！",
+			"ゾンビがもうこんな近くに…こうなったらやるしか無いわね。",
+			"좀비가 벌써 이렇게 가까이... 이젠 어쩔 수 없네.",
+			"The zombies are getting closer... I guess I have no choice but to go all out!"
+		],
+		[
+			"msg",
+			204497,
+			"Oh, no, the bat fell out. Can't let her be touched by sunlight!",
+			"呃！糟了，蝙蝠掉出去了！！不能让他碰到阳光！！",
+			"あ！ヤバ！コウモリ落ちちゃった！",
+			"아! 큰일났다! 박쥐가 떨어졌어!",
+			"Ah! Oh no! The bat fell out! I can't let her get in the sun!!"
+		],
+		[
+			"msg",
+			204498,
+			"Hah!",
+			"嘿！！",
+			"ホイ！",
+			"얍!",
+			"Hiyah!!"
+		],
+		[
+			"msg",
+			204499,
+			"Gotcha!",
+			"接住了！！",
+			"ナイスキャッチ！！",
+			"잘 잡았어!!",
+			"Gotcha!!"
+		],
+		[
+			"msg",
+			204501,
+			"Ugh, there's no way out...",
+			"糟了！躲不开了！",
+			"やばい！避けきれない！",
+			"큰일났다! 피할 수 없어!",
+			"Oh no! There's no way out!"
+		]
+	],
+	"207": [
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204503,
+			"Human, wake up.",
+			"人类，快醒醒。",
+			"人間、起きて。",
+			"인간, 일어나.",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204504,
+			"Um, where am I? Oh, yeah, the zombies. We gotta leave now!",
+			"呃，这里是……对了！得快点逃出死士的包围！",
+			"ん…ここは…そうだ！早くゾンビの群れから逃げないと！",
+			"음... 여긴... 맞아! 빨리 좀비 떼에서 도망쳐야 해!",
+			"Hmm... where... that's right! We need to run from the zombies!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204505,
+			"We can't. The zombies are still out there.",
+			"现在不能出去，那些死士还在外面……",
+			"今はだめ。外にゾンビが居るわ。",
+			"지금은 안 돼. 밖에 좀비들이 있어.",
+			"Not now. Those zombies are still out there..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204506,
+			"Wait, why are you hurt all over? It looks like your skin has been charred... Did you save me?",
+			"啊！！你的身上怎么都是伤痕，皮肤都像火烧过一样……难道是你把我拉进来的么！",
+			"あんた体の傷どうしたの？焼けたみたいだけど…もしかしてあんたが私を引っ張ってきたの？",
+			"너 몸의 상처 어떻게 된 거야? 타버린 것 같은데... 설마 네가 나를 끌고 온 거야?",
+			"Ah!! Your skin looks burned, and you're covered in wounds too... Did you drag me over here?!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204507,
+			"Indeed. I, glorious chief of the blood clan, helping a human... Guess the times are truly different now...",
+			"血之一族的长老居然会帮助一个人类，看来我也已经被时代所抛弃了呢……",
+			"血の一族の長老ともある私がまさか一人類を救うなんて…",
+			"혈족의 장로인 내가 인간 하나를 구하다니...",
+			"I, the elder of the Blood Clan, never thought I would save a human. It seems I've already been left behind by the times..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204508,
+			"Hey! Stay awake! Don't close your eyes!",
+			"喂！你把眼睛张开！不要睡啊！",
+			"ねぇ！目を開けて！寝ちゃダメ！",
+			"야! 눈 떠! 자면 안 돼!",
+			"Hey! Open your eyes! Don't fall asleep!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204509,
+			"The rebirth of my clan... will have to wait for another thousand years...",
+			"吾之一族的鲜血复兴，恐怕还需要下一个千年才行了……",
+			"一族の復興には…後1000年は必要…か…も…",
+			"일족의 부흥에는... 앞으로 1000년은 필요... 할... 지도...",
+			"It may take another 1,000 years for the bloodline... to... recover..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204510,
+			"...",
+			"……",
+			"…",
+			"...",
+			"......"
+		],
+		[
+			"msg",
+			204511,
+			"Damn!",
+			"可恶！！",
+			"もう！",
+			"젠장!",
+			"Oh, come on!!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204514,
+			"Ugh... This smell...",
+			"呜……这个味道是……",
+			"う…この味…",
+			"우... 이 맛...",
+			"Ugh... this taste..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204515,
+			"Wake up! Bite on my hand!",
+			" 快醒醒！快咬着我的手！",
+			"起きて！早く私の腕を咬みなさい。",
+			"일어나! 빨리 내 팔을 물어.",
+			"Wake up! Hurry and bite my arm already."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204516,
+			"Ow!",
+			"呜！！",
+			"うっ！！",
+			"윽!!",
+			"Ugh!!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204518,
+			"That hurts...",
+			"好痛！",
+			"痛い！",
+			"아파!",
+			"Ouch!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204519,
+			"Phew...",
+			"呼……",
+			"ふぅ…",
+			"후우...",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204520,
+			"You okay now? Get up, and let's get out of here!",
+			"你没事了吧！？赶紧站起来，我们一起离开这里！",
+			"もう大丈夫？早く起き上がってこっから抜け出しましょ！",
+			"이제 괜찮아? 빨리 일어나서 여기서 빠져나가자!",
+			"You okay now? Get up, we have to hurry out of here!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204521,
+			"It's all right.",
+			"已经没事了。",
+			"もう大丈夫。",
+			"이제 괜찮아.",
+			"I'm fine now."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204522,
+			"What? Come on, let's go.",
+			"啊？你还愣住干嘛。",
+			"ん？何ぼけっとしてるのよ。",
+			"음? 왜 멍하니 있는 거야.",
+			"Hm? Why're you spacing out?"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204523,
+			"It's my turn to show you what I've got.",
+			"接下来就交给我吧。",
+			"あとは私に任せて。",
+			"이제부턴 내게 맡겨.",
+			"Leave the rest to me."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204525,
+			"Out of the way!",
+			"快闪开啊！！",
+			"避けて！！",
+			"피해!!",
+			"Outta the way!!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204526,
+			"Decayed mudbloods, get out of my sight.",
+			"腐烂的杂种们，给我退下。",
+			"腐った雑種め…目障りだ！",
+			"썩은 잡종... 눈엣가시 같군!",
+			"You rotten mongrels... get out of my sight!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204528,
+			"Amazing... What is she even...",
+			"好厉害……这家伙，到底是……",
+			"すごい…もしかして…",
+			"대단해... 설마...",
+			"Amazing... Just who is this person...?"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204529,
+			"The blood pact is now drawn.",
+			"鲜血的契约已经成立了。",
+			"血の契約は成立した…",
+			"피의 계약이 성립됐다...",
+			"The blood pact has been made..."
+		],
+		[
+			"msg",
+			204530,
+			"From now on, Lucian and I will always be by your side.",
+			"从此，我卢西恩将会伴随在你的左右。",
+			"これからはあなたと伴に…",
+			"이제부터 너와 함께...",
+			"From now on, I'll be with you..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204531,
+			"Lucian...",
+			"卢西恩……",
+			"ルシアン…",
+			"루시안...",
+			"Lucien..."
+		],
+		[
+			"msg",
+			204532,
+			"Ahh!",
+			"啊！！！",
+			"あ！！",
+			"앗!!",
+			"Ah!!"
+		],
+		[
+			"msg",
+			204533,
+			"So you're Lucian!",
+			"原来你就是卢西恩！！！",
+			"あんたがルシアンなのかーい！！！",
+			"네가 루시안이냐고!!!",
+			"<i>So you're Lucien?!!!</i> (TN: I am very shocked this event had normal EN translations for almost all of it. Still, it wasn't entirely accurate, so I changed it.)"
+		]
+	],
+	"202": [
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204374,
+			"Are you sure you'll be fine standing under the sun?",
+			"你现在站在大太阳下真的没问题么？",
+			"あんた太陽光直接浴びてるけど大丈夫なの？",
+			"너 햇빛 직접 쬐고 있는데 괜찮아?",
+			"Are you sure you're be okay with being exposed to direct sunlight right now?"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204375,
+			"I've recovered some of my chief powers after having some blood. The sun no longer bothers me.",
+			"获得血液之后，长老的力量回来了一部分，这点阳光已经无法对我造成伤害了。",
+			"血を得たことで長老の力が少しだけ回復してるの…これぐらいなら大丈夫。",
+			"피를 얻어서 장로의 힘이 조금 회복됐어... 이 정도는 괜찮아.",
+			"Having some blood restored a bit of my elder powers... This much is okay."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204376,
+			"So you're really a vampire...",
+			"你还真的是吸血鬼啊……",
+			"本当に吸血鬼なのね…",
+			"정말 흡혈귀구나...",
+			"You really are a vampire, huh..."
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204377,
+			"I'm not one to lie.",
+			"我从没有说谎。",
+			"嘘はつかないわ。",
+			"거짓말은 안 해.",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204378,
+			"Ha, who knew one day I'd have a vampire follower?",
+			"嚯嚯~没想到我居然会多了一个吸血鬼的仆从。",
+			"ほほほ〜吸血鬼の奴隷ができるなんて思ってもいなかったわ！",
+			"호호호~ 흡혈귀 노예를 만들 줄이야 상상도 못 했어!",
+			"Hohoho~ I never thought I'd have a vampire servant!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204379,
+			"Don't be naive, human. I won't hurt you, that's for sure, but I'm far from being your follower. I am, after all, the chief of the blood clan.",
+			"不要天真了，人类。虽然我不会伤害你，但是区区人类想成为血之一族长老的主人实在是笑话。",
+			"寝ぼけたことを…私があなたを傷つけることは無いが、ちっぽけな人類が血の一族の長老を奴隷につけるなど片腹痛いわ。",
+			"정신 나간 소리... 내가 너를 해치지는 않겠지만, 하찮은 인간이 혈족의 장로를 노예로 부린다니 배 아프구나.",
+			"What a fool... I won't harm you, but I find it humiliating that a puny human could enslave the elder of a bloodline."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204380,
+			"What do you mean by that? I've saved your life, so now you're my follower. That's only natural.",
+			"你说什么！不要忘了是我救了你哦！",
+			"何様のつもり？誰があんたのこと助けたかわかってるの？",
+			"너 뭐 잘난 척이야? 누가 너를 구해줬는지 알아?",
+			"What did you say?! Don't forget, I'm the one who saved you!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204381,
+			"If you hadn't stuffed me into your loose-fitting clothes, I wouldn't have fallen out.",
+			"要不是你把我塞进你那个宽大的衣襟中，我也不会掉出来。",
+			"あなたが私をその大きく開いた襟の中に押しこみなどしなければ、落ちることもなかった。",
+			"네가 나를 그 널찍한 품 안에 끌어안지 않았으면 떨어지지도 않았을 거야.",
+			"If you hadn't shoved me into those big clothes of yours, I wouldn't have collapsed."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204382,
+			"You... you! Come on, all I wanted was to experience what it's like to have boobs. And you're laughing at my flatness?",
+			"你……你你你！！我只是像试试看别人那种有容乃大，胸有成竹的感觉嘛！你居然这么诋毁我！",
+			"あ…あ、あんたねぇ！！私はただ皆みたいなハリのあるお山の感覚を味わってみたかっただけよ！",
+			"아... 아, 너 참!! 나는 그냥 다들 하는 탱탱한 산 느낌을 맛보고 싶었을 뿐이야!",
+			"Y-...Y-You—!! I just wanted to see what it felt like to have big boobs! How dare you slander me like this!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204383,
+			"Yes, flatness.",
+			"哼，贫弱。",
+			"っふ…貧弱。",
+			"훗... 초라하군.",
+			"Pfft... flat."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204384,
+			"You asshole, you're not much better yourself!",
+			"你这家伙！你也好不到哪里去吧！",
+			"あんただってそんなに無いじゃない！",
+			"너도 그렇게 많진 않잖아!",
+			"You bastard! You're no better than me!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204385,
+			"I haven't regained my powers yet and am still relatively weak. But if I were at my full power...",
+			"我现在力量还没有恢复，所以身体也会相对虚弱一些，如果是全盛时期的话……",
+			"私の力はまだ完全に回復していないの。全盛期に戻れば…",
+			"내 힘은 아직 완전히 회복되지 않았어. 전성기로 돌아가면...",
+			"My powers haven't fully recovered yet. If I were to return to my prime..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1003,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			204386,
+			"You bastard!",
+			"你这混蛋！",
+			"このアホ！",
+			"이 바보야!",
+			"You asshole!"
+		],
+		[
+			"msg",
+			204389,
+			"Uh... Sorry, how do you fall down so easily?",
+			"呃……抱歉，你怎么一碰就倒啊！",
+			"あ…ごめん！触っただけで倒れないでよ！",
+			"아... 미안! 만지기만 했는데 쓰러지지 말라고!",
+			"Ah... sorry! How'd you fall over just because I touched you?!"
+		],
+		[
+			"speaker",
+			204347
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1003,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			204391,
+			"I'm... so hungry...",
+			"肚子……好饿。",
+			"お腹すいた…",
+			"배고파...",
+			"My stomach... so hungry..."
+		]
+	]
+}

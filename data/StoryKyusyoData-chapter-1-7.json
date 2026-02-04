@@ -1,0 +1,1766 @@
+{
+	"56": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10092"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300456,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV13_KnockDoorWood"
+		],
+		[
+			"msg",
+			300457,
+			"Knock",
+			"咚咚咚",
+			"コンコン",
+			"똑똑",
+			"<i>Knock knock</i>",
+			null,
+			"Knock Knock",
+			"cough-cough"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300458,
+			"Still awake?",
+			"还没休息么？",
+			"まだ寝てないんですか？",
+			"아직 안 잤어요?",
+			"Can't sleep?",
+			null,
+			"Haven't you rested yet?",
+			"You haven't slept yet?"
+		],
+		[
+			"msg",
+			300459,
+			"Can I talk to you?",
+			"那就陪我一会吧，想和你聊聊。",
+			"だったら少し付き合ってください。少しお話したいです。",
+			"그럼 잠시 같이 있어주세요. 얘기 좀 하고 싶어요.",
+			"Then let me impose on you for a bit. I want to talk to you.",
+			null,
+			"Then stay with me for a while, want to talk to you.",
+			"Then please hang out with me for a bit. I would like to talk with you for a while."
+		],
+		[
+			"msg",
+			300460,
+			"Seele told me what happened today, and she has high hope for you. You are a reliable partner, evidence by the fact that you were willing to sacrifice yourself in a mission.",
+			"希儿把今天的事情和我说了，她对你的评价很高呢，在任务中愿意牺牲自己来保护重要的人，是个值得信赖的伙伴。",
+			"ゼーレが今日のことを話してくれました。彼女のあなたに対する評価はとても高いです。任務中に自分を犠牲にしてでも大切な人を守る、信頼できる仲間だと。",
+			"제레가 오늘의 일을 말해줬습니다. 그녀의 당신에 대한 평가는 매우 높습니다. 임무 중에 자신을 희생해서라도 소중한 사람을 지키는, 신뢰할 수 있는 동료라고.",
+			"Seele told me what happened today. She has quite the high opinion of you. She said that you're a trustworthy colleague that protects those she cares about, even if it means sacrificing yourself during a mission.",
+			null,
+			"Hill told me about today's events, she speaks highly of you yet, willing to sacrifice yourself to protect the important people in the mission, a trustworthy partner.",
+			"Seele told me about your day. She has a very high opinion of you. She said that you are a trustworthy colleague who protects those she cares about, even if it means sacrificing herself during a mission."
+		],
+		[
+			"choice",
+			[
+				300461,
+				"She said she wouldn't tell anyone.",
+				"说好保密的呢…",
+				"秘密にするって言ったのに……。",
+				"비밀이라고 했는데…….",
+				null
+			],
+			[
+				300462,
+				"How's Seele?",
+				"希儿现在怎么样？",
+				"ゼーレは今どんな感じ？",
+				"제레는 지금 어떤 기분이에요?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			57,
+			58
+		]
+	],
+	"57": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10092"
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300463,
+			"Seele was overjoyed when talking about you, and she let slip what had happened. But she's expected to be punished.",
+			"希儿谈到你的时候很兴奋哦，所以一不小心说漏嘴了，不过既然是抗命了那就要接受惩罚。",
+			"ゼーレはあなたのことになると興奮して、ついうっかり漏らしてしまったみたいです。ですが、命令に背いた以上は罰を受けなければなりません。",
+			"제레는 당신에 관한 일이 되면 흥분해서 실수로 말을 흘린 것 같아요. 하지만 명령을 어긴 이상 처벌을 받아야 해요.",
+			"Seele was so overjoyed when talking about you that she accidentally let it slip. But as you know, those who disobey orders must be punished.",
+			null,
+			"Heer was very excited when talking about you, so I accidentally said something, but since it is disobedient to the order then you have to accept the punishment.",
+			"Seele was so excited when it came to you that he accidentally let it slip out. However, as long as he disobeyed the order, he must be punished."
+		],
+		[
+			"msg",
+			300464,
+			"Oh, come on. It's true that we lost a family member, but what you did afterwards was right and necessary, or else we would have lost so much more.",
+			"不要露出这种表情，这次任务中虽然损失了一位家人，但是你们的后续应对很正确，如果没有你的话损失或许会更大。",
+			"そんな顔をしないでください。今回の任務では家族を1人失ったとはいえ、あなたたちの後処理はとても正確でした。あなたがいなければ被害はもっと大きかったでしょう。",
+			"그런 표정 짓지 마세요. 이번 임무에서 가족을 한 명 잃었지만, 여러분의 후처리는 매우 정확했어요. 당신이 없었다면 피해는 더 컸을 거예요.",
+			"Don't give me that look. Even though we lost a family member on this mission, you two did the right thing afterwards. Without you, the damage would have been much worse.",
+			null,
+			"Don't show that look, you lost a family member on this mission, but your follow-up response was correct, and the loss might have been greater without you.",
+			"Please don't look at me like that. Even though we lost one family member on this mission, you guys were very precise in your cleanup. Without you, the damage would have been much worse."
+		],
+		[
+			"msg",
+			300465,
+			"I'll think about the punishment. You should come with me for another mission.",
+			"嗯，惩罚的话让我想想…那就和我去执行一个秘密任务好了。",
+			"それで、罰のことですが……ブローニャと一緒に秘密の任務に行くということにしましょう。",
+			"그래서 처벌에 대해서는...브로냐와 함께 비밀 임무를 수행하도록 하죠.",
+			"So, as for your punishment... let's say you and I go on a secret mission right now.",
+			null,
+			"Well, let me think about the punishment...then go on a secret mission with me.",
+			"So, about the punishment, let's say you and ...... Bronya are going on a secret mission."
+		],
+		[
+			"msg",
+			300466,
+			"Let's go, or we can't make it.",
+			"出发吧，如果不快点的话可是赶不上的。",
+			"出発しましょう。急がないと間に合わなくなります。",
+			"출발하죠. 서두르지 않으면 늦을 거예요.",
+			"Let's get going. We won't be able to make it if we don't hurry.",
+			null,
+			"Let's go, we can't make it if we don't hurry.",
+			"Let's leave. If you don't hurry, you will not make it in time."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			59
+		]
+	],
+	"58": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10092"
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300467,
+			"Seele?  She's the same. She wants me to tell you not to blame yourself. It's true that we lost a family member, but what you did afterwards was right and necessary.",
+			"希儿？她还是老样子，她让我转告你，不要太过自责。这次任务中虽然损失了一位家人，但是你们的后续应对很正确。",
+			"ゼーレですか？いつも通りです。自分を責め過ぎないようにと、あなたに伝えるように言われました。今回、家族を1人失ったとはいえ、あなたたちの後処理はとても正確でした。",
+			"제레요? 평소처럼이에요. 자신을 너무 탓하지 말라고 당신에게 전해달라고 했어요. 이번에 가족을 한 명 잃었지만, 여러분의 후처리는 매우 정확했어요.",
+			"Seele? Same as always. She told me tell you not to blame yourself too much. Even though we lost a family member this time, you both handled the aftermath very well.",
+			null,
+			"Hill? As usual, she told me to tell you not to beat yourself up too much. You lost a family member on this mission, but your follow-up response was correct.",
+			"Seele? As usual. I was told to tell you not to be too hard on yourself. Even though we lost one family member this time, your post-processing was very precise."
+		],
+		[
+			"msg",
+			300468,
+			"If it wasn't for you, we would have lost so much more. Seele wants to thank you.",
+			"如果没有你的话损失或许会更大，希儿也让我好好赞赏你一番。",
+			"あなたがいなければ被害はもっと大きかったでしょう。ゼーレも私にあなたのことを褒めるように言っていましたよ。",
+			"당신이 없었다면 피해는 더 컸을 거예요. 제레도 제게 당신을 칭찬하라고 말했어요.",
+			"If it wasn't for you, we would have lost so much more. Seele also told me to thank you.",
+			null,
+			"The damage might have been greater without you, and Hillel has asked me to appreciate you well.",
+			"Without you, the damage would have been much greater. Seele also told me to give you a compliment."
+		],
+		[
+			"msg",
+			300469,
+			"But you did disobey our command. You have to be punished for that.",
+			"不过既然是抗命了，那就要接受相应的惩罚。",
+			"ですが、命令に背いた以上は、相応の罰を受けなければなりません。",
+			"하지만 명령을 어긴 이상, 상응하는 처벌을 받아야만 해요.",
+			"However, since you disobeyed an order, you must receive an appropriate punishment.",
+			null,
+			"But since it is disobeyed, it has to accept the corresponding punishment.",
+			"However, as long as they disobeyed the order, they must be punished accordingly."
+		],
+		[
+			"msg",
+			300470,
+			"Come on, there's nothing to fear. Let me think... You will come with me for another secret mission.",
+			"不要露出这种表情，不是什么可怕的事情，让我想想…那就和我去执行一个秘密任务好了。",
+			"そんな顔をしないでください。そんなに怖がることはありません。そうですね……ブローニャと一緒に秘密の任務に行くということにしましょう。",
+			"그런 표정 짓지 마세요. 그렇게까지 두려워할 필요 없어요. 좋아요...브로냐와 함께 비밀 임무를 수행하도록 합시다.",
+			"Don't make that face. There's nothing to be scared of. That's right... you and I are going on a secret mission together.",
+			null,
+			"Don't show that look, it's not something terrible, let me think about it... Then it's good to go on a secret mission with me.",
+			"Don't make that face. There is nothing to be so scared of. Yes, let's say you are going on a secret mission with ...... Bronya."
+		],
+		[
+			"msg",
+			300471,
+			"Let's go, or we can't make it.",
+			"出发吧，如果不快点的话可是赶不上的。",
+			"出発しましょう。急がないと間に合わなくなります。",
+			"출발하죠. 서두르지 않으면 늦을 거예요.",
+			"Let's get going. We won't be able to make it if we don't hurry. (TN: Duplicate of 300466)",
+			null,
+			"Let's go, we can't make it if we don't hurry.",
+			"Let's leave. If you don't hurry, you will not make it in time."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			59
+		]
+	],
+	"59": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10096"
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300472,
+			"Humans are at their weakest at night. All the internal fear starts crawling out in the darkness.",
+			"对于人类来说，最脆弱的时候就是黑夜，看不到光的时候会把内心的恐惧暴露出来，内心也会充满不安。",
+			"人間にとって、最も脆弱な時は闇夜です。光が見えないと内心の恐怖が露わになり、心に不安が満ち溢れてきます。",
+			"인간에게 가장 취약한 순간은 어둠이 내린 밤입니다. 빛을 볼 수 없으면 마음속 공포가 드러나고, 불안이 가득 차오르게 되죠.",
+			null,
+			null,
+			"For human beings, the most vulnerable time is the darkness, when you can't see the light will expose your inner fear and your heart will be full of uneasiness.",
+			"For humans, the most vulnerable time is the dark night. When we cannot see the light, our inner fears are exposed and our hearts are filled with anxiety."
+		],
+		[
+			"msg",
+			300473,
+			"That's why humans look forward to the dawn, which is nowhere to be found. Due to the Houkai explosion 5 years ago, the sky is covered with the deadly plague.",
+			"所以人类才向往着黎明的到来，但是现在连黎明也成了奢侈的妄想。五年前爆发的大崩坏所留下的伤痕，那道悬挂于天空的死斑已经遮挡了阳光。",
+			"だから、人間は黎明の到来を望むのです。しかし、今では黎明も華やかな妄想になってしまいました。5年前に起こった大崩壊の痕跡が、空にかかる死斑が太陽の光を遮っています。",
+			"그래서 인간들은 새벽의 도래를 갈망합니다. 하지만 지금은 새벽조차 화려한 망상이 되어버렸습니다. 5년 전 발생한 대붕괴의 흔적인 하늘의 죽음의 얼룩이 태양빛을 가로막고 있으니까요.",
+			null,
+			null,
+			"That's why mankind yearned for the dawn, but now even the dawn has become a luxury delusion. The scars left by the great collapse that erupted five years ago, the dead spot hanging in the sky has blocked the sunlight.",
+			"So humans hope for the coming of the dawn. But now the dawning has become a glamorous delusion: the traces of the great collapse that took place five years ago, the dead spots that hang in the sky, block the sun's rays."
+		],
+		[
+			"msg",
+			300474,
+			"With the expulsion of the Houkai creatures, we had nowhere to go but the underground. We had to deal with a lot of difficult situations down here. The lack of resources and the loss of personnel turned our lives into a race against death.",
+			"在崩坏生物的驱赶下我们只能躲入狭窄的地下，但即使是这样也依然面临着许多困难。物资的匮乏与人员的损耗都让生存变成了一场与死亡的竞赛。",
+			"崩壊生物に駆り立てられて、人類は狭い地下に隠れるしかありませんでした。しかし、それでもやはり様々な困難に直面しています。物資の欠乏と人々の消耗が、生存を死との競争に変えてしまっています。",
+			"붕괴생물들에게 쫓긴 인류는 좁은 지하에 숨는 것 외엔 방법이 없었습니다. 하지만 그곳에서도 다양한 어려움에 직면했죠. 물자 부족과 사람들의 피폐함이 생존을 죽음과의 경쟁으로 만들었습니다.",
+			null,
+			null,
+			"Driven by the collapsing creatures we had to hide in the narrow underground, but even so still faced many difficulties. The lack of supplies and personnel attrition have turned survival into a race with death.",
+			"Driven by the disintegrating organisms, mankind has had to hide in a small underground space. However, we still face a variety of challenges. Scarcity of supplies and exhaustion of people have turned survival into a race against death."
+		],
+		[
+			"msg",
+			300475,
+			"But we still have hopes... That's why we keep on fighting.",
+			"但是希望依然存在…所以我们才会不断战斗下去。",
+			"ですが、希望は存在します……ですから、ブローニャたちレジスタンスは戦い続けているのです。",
+			"그래도 희망은 존재합니다…… 그러니까 브로냐와 레지스탕스가 계속 싸우고 있는 거예요.",
+			null,
+			null,
+			"But hope still exists...that's why we keep fighting.",
+			"But hope exists ......, which is why Bronya and the resistance continue to fight."
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300476,
+			"Sorry for talking much about myself. We should start night patrol now. The Houkai creatures never rest, so we'd better stay alert.",
+			"抱歉，自顾自说了这么多。走吧，开始夜间巡逻任务，崩坏生物可是不会休息的，所以我们必须保持全天警惕。",
+			"すみません。勝手にこんなに喋ってしまって。行きましょう。夜間パトロールの任務の開始です。崩壊生物は休みません。ですから、私たちは一日中警戒を保たなければいけません。",
+			"미안해요. 혼자서 이런 말을 길게 했네요. 출발합시다. 야간 순찰 임무를 시작해야죠. 붕괴생물들은 쉬지 않으니까, 우리도 항상 경계를 늦춰선 안 됩니다.",
+			"Sorry for talking about myself so much. Let's start the night patrol. Honkai beasts don't rest, so even at night we have to stay vigilant.",
+			null,
+			"Sorry for talking to myself so much. Let's go, start the night patrol mission, the collapse creature but will not rest, so we must remain vigilant throughout the day.",
+			"I am sorry. I'm sorry I spoke so much without permission. Let's go. Night patrol duty is about to begin. Decay organisms don't rest. So we must remain vigilant throughout the day."
+		]
+	],
+	"60": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10096"
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300477,
+			"Here we are.",
+			"就是这里，我们到了。",
+			"ここです。着きました。",
+			"여기예요. 도착했어요.",
+			"Here we are.",
+			null,
+			"This is it, we're here.",
+			"Here we are. We are here."
+		],
+		[
+			"choice",
+			[
+				300478,
+				"Where is this place?",
+				"这里是什么地方？",
+				"ここは何をする場所？",
+				"여긴 뭐 하는 곳이죠?",
+				null
+			],
+			[
+				300479,
+				"Shouldn't we keep patrolling?",
+				"不继续巡逻么？",
+				"パトロールは続けないの？",
+				"순찰을 계속하지 않나요?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			61,
+			62
+		]
+	],
+	"61": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10096"
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300480,
+			"This is where my secret place...",
+			"这里是储藏着我小小自私的地方…",
+			"ここはブローニャの個人的なものを隠した場所……。",
+			"브로냐가 개인적인 물건을 숨겨둔 장소……",
+			"This is the place where I hid my small bit of selfishness...",
+			null,
+			"This is the place where my little selfishness is stored...",
+			"This is where Bronya hid her personal stuff: ......."
+		],
+		[
+			"msg",
+			300481,
+			"Follow me and you'll know.",
+			"跟我来吧，马上你就会知道了。",
+			"ついて来てください。すぐに分かります。",
+			"따라오세요. 금방 알게 될 거예요.",
+			null,
+			null,
+			"Come with me, you'll find out soon.",
+			"Follow us. You will soon find out."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			63
+		]
+	],
+	"62": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10096"
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300482,
+			"Sorry for lying to you. Patrolling is not my purpose. I was trying to take you here.",
+			"抱歉，是我欺骗了你。其实真正的目的并不是巡逻，而是想带你到这里。",
+			"すみません、あなたを騙しました。本当の目的はパトロールではなく、あなたをここに連れて来たかったのです。",
+			"미안해요, 당신을 속였어요. 진짜 목적은 순찰이 아니라 당신을 여기로 데려오고 싶었던 거예요.",
+			"Sorry, I lied. I didn't bring you along for night patrolling, but to bring you here.",
+			null,
+			"I'm sorry I lied to you. Actually, the real purpose is not to patrol, but to bring you here.",
+			"I'm sorry, I deceived you. My real purpose was not to patrol, but to bring you here."
+		],
+		[
+			"msg",
+			300483,
+			"Follow me and you'll know.",
+			"跟我来吧，马上你就会知道了。",
+			"ついて来てください。すぐに分かります。",
+			"따라와 주세요. 곧 알게 될 거예요.",
+			"Follow me and you'll see.",
+			null,
+			"Come with me, you'll find out soon.",
+			"Follow us. You will soon find out."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			63
+		]
+	],
+	"63": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300484,
+			"I stumbled on this place. Whenever I feel confused, I bring myself here and ponder on our future alone. I guess this is like a secret base.",
+			"这是我偶然间发现的地方，每次感到迷茫的时候我都会来这里，独自一个人安静地思考我们的未来，算是秘密基地一样的存在吧。",
+			"ここはブローニャが偶然見つけた場所です。戸惑うようなことがあった時はいつもここに来ます。1人で静かに未来について考える、秘密基地のようなところです。",
+			"여기는 브로냐가 우연히 발견한 장소예요. 혼란스러운 일이 있을 때면 언제나 여기에 와요. 혼자 조용히 미래에 대해 생각하는, 비밀 기지 같은 곳이죠.",
+			null,
+			null,
+			"This is a place I found by chance, every time I feel lost I will come here, alone and quietly thinking about our future, it is a secret base like existence.",
+			"This is a place that Bronya found by chance. Whenever there is something that confuses her, she comes here, a secret place where she can be alone and quietly think about the future."
+		],
+		[
+			"msg",
+			300485,
+			"Don't tell Seele about this place. Let's keep it between us.",
+			"千万不要告诉希儿，不然她一定会跟着我不放的，这可是我们两人之间的秘密。",
+			"ゼーレには決して教えないでください。そうじゃないと、彼女は自立できませんから。これはブローニャとあなただけの秘密です。",
+			"제레에게는 절대로 가르쳐 주지 마세요. 그렇지 않으면 그녀는 자립할 수 없게 돼요. 이건 브로냐와 당신만의 비밀이에요.",
+			null,
+			null,
+			"Don't tell Hill, or she will definitely follow me, it's a secret between the two of us.",
+			"Never tell Seele. Otherwise, she won't be able to stand on her own. This is a secret between Bronya and you."
+		],
+		[
+			"msg",
+			300486,
+			"We've arrived.",
+			"到了，来吧。",
+			"着きました。どうぞ。",
+			"도착했어요. 어서 오세요.",
+			null,
+			null,
+			"Here it is, come on.",
+			"We're here. Please come in."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV14_WindWooshA"
+		],
+		[
+			"msg",
+			300487,
+			"Phoo...",
+			"呼呼呼——",
+			"ヒュウウウ——",
+			"휴우우우",
+			"(sound of wind)",
+			null,
+			"Hoo-hoo-hoo-hoo",
+			"Huuuuuh--"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			300488,
+			"Watch your feet.",
+			"小心脚下，这里还是有些危险的。",
+			"足下に気をつけてください。ここは少し危ないですから。",
+			"발밑에 조심하세요. 여기는 조금 위험하니까.",
+			"Watch your step. It's still a little dangerous here.",
+			null,
+			"Watch your step, there are still some dangers here.",
+			"Watch your step. It is a little dangerous here."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV15_WindWooshB"
+		],
+		[
+			"msg",
+			300489,
+			"Phoo...",
+			"呼呼呼——",
+			"ヒュウウウ——",
+			"히유우우——",
+			"(sound of wind)",
+			null,
+			"Hoo-hoo-hoo-hoo",
+			"Huuuuuh--"
+		],
+		[
+			"choice",
+			[
+				300490,
+				"It's so dark, I can't see anything.",
+				"这里好黑，什么都看不见啊。",
+				"ここ、暗くて何も見えない。",
+				"여기, 어두워서 아무것도 안 보여.",
+				null
+			],
+			[
+				300491,
+				"It's cold. Is it the sound of wind?",
+				"好冷，这个是风声么？",
+				"寒い、これは風の音？",
+				"추워, 이게 바람 소리?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			64,
+			65
+		]
+	],
+	"64": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300492,
+			"The dust and smoke generated in the Houkai explosion cover the sky and dim the stars and moon. That's why this place is so dark.",
+			"因为大崩坏产生的烟尘挡住了天空，就连星月的光芒也被遮蔽了，所以才会这么黑暗。",
+			"大崩壊によって生み出された煙塵が空を覆っていて、星や月の光すら遮られているのでこんなに暗いんです。",
+			"대붕괴로 인해 발생한 연기가 하늘을 뒤덮고 있어 별과 달빛마저 차단되었기 때문에 이렇게 어둡습니다.",
+			"It's so dark because the smoke produced by the Honkai Impact blotted out the sky, obscuring even the light of the moon and the stars.",
+			null,
+			"Because the smoke and dust from the Great Crash blocked the sky, even the light of the stars and moon was obscured, which is why it was so dark.",
+			"It is so dark because the sky is covered with smoke dust created by the great collapse, blocking out the light from the stars and even the moon."
+		],
+		[
+			"msg",
+			300493,
+			"Wait, it's about time. It is all thanks to you, so we can catch up.",
+			"稍等，时间就快到了，多亏了你的奋斗我们才赶上了呢。",
+			"少し待ってください。もうすぐ時間です。あなたが頑張ったおかげで間に合いました。",
+			"잠시만 기다려 주세요. 곧 시간이에요. 당신이 열심히 해준 덕분에 시간에 맞췄어요.",
+			null,
+			null,
+			"Wait a minute, the time is almost up, thanks to your struggle we are in time.",
+			"Please wait a moment. It is almost time. Thanks to your hard work, we made it in time."
+		],
+		[
+			"msg",
+			300494,
+			"You'll see what we are trying to protect.",
+			"一会你就能看到，我们所要守护的是什么东西。",
+			"もう少しで見られます。ブローニャたちレジスタンスが守っているものが何なのか。",
+			"조금만 더 있으면 볼 수 있어요. 브로냐와 레지스탕스가 지키고 있는 것이 무엇인지.",
+			null,
+			null,
+			"In a moment you will be able to see what it is that we are guarding.",
+			"We are almost there. What is it that Bronya and the other resistance members are protecting?"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			66
+		]
+	],
+	"65": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300495,
+			"Convection at this altitude is very intense. Here, it's easy to feel the abnormal change in climate after the Houkai explosion.",
+			"嗯，这个高度的对流十分激烈，大崩坏后气候异常的余波在这里能明显感觉到。",
+			"ええ、この高度の対流はとても激しいのです。大崩壊後の異常気象の余波をここでもはっきりと感じられます。",
+			"네, 이 고도의 대류는 매우 격렬합니다. 대붕괴 이후의 이상 기상의 여파를 여기서도 뚜렷이 느낄 수 있습니다.",
+			null,
+			null,
+			"Well, the convection at this height is very intense, and the aftermath of the climate anomaly after the Great Crash can be clearly felt here.",
+			"Yes, the convection at this altitude is very intense. The aftermath of the extreme weather after the Great Collapse can be clearly felt here."
+		],
+		[
+			"msg",
+			300496,
+			"Wait, it's about time. It is all thanks to you, so we can catch up.",
+			"稍等，时间就快到了，多亏了你的奋斗我们才赶上了呢。",
+			"少し待ってください。もうすぐ時間です。あなたが頑張ったおかげで間に合いました。",
+			"잠시만 기다려 주세요. 곧 시간이에요. 당신이 열심히 해준 덕분에 시간에 맞췄어요.",
+			null,
+			null,
+			"Wait a minute, the time is almost up, thanks to your struggle we are in time.",
+			"Please wait a moment. It is almost time. Thanks to your hard work, we made it in time."
+		],
+		[
+			"msg",
+			300497,
+			"You'll see what we are trying to protect soon.",
+			"马上你就能看到，我们所要守护的是什么东西。",
+			"もう少しで見られます。ブローニャたちレジスタンスが守っているものが何なのか。",
+			"조금만 더 있으면 볼 수 있어요. 브로냐와 레지스탕스가 지키고 있는 것이 무엇인지.",
+			null,
+			null,
+			"Right away you can see what it is that we are guarding.",
+			"We are almost there. What is it that Bronya and the other resistance members are protecting?"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			66
+		]
+	],
+	"66": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10117"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			300498,
+			"This is how our world looks like now.",
+			"这就是我们所处的世界现在的姿态。",
+			"これこそが私たちのいる世界の今の姿です。",
+			"이것이 바로 우리가 살고 있는 세계의 현재 모습입니다.",
+			"This is the state of the world we're in today.",
+			null,
+			"This is the current posture of the world we live in.",
+			"This is the world we are in today."
+		],
+		[
+			"msg",
+			300499,
+			"Only for the short moment of sunrise can we see the sunlight through the cracks between the horizon and the deadly plague.",
+			"只有在朝阳升起的瞬间，当阳光从遥远地平线的尽头穿过死斑的夹缝才能看到的光景。",
+			"朝日が昇る瞬間、日差しが遥か地平線の彼方から死斑の隙間を縫って差し込んだ時にだけ見られる光景です。",
+			"아침 해가 떠오르는 순간, 햇빛이 머나먼 지평선 저편에서 죽은 자리의 틈을 비집고 들어올 때만 볼 수 있는 광경입니다.",
+			null,
+			null,
+			"The light that can only be seen at the moment of sunrise, when the sunlight passes through the crevices of dead spots from the end of the distant horizon.",
+			"It is a sight that can only be seen at the moment of sunrise, when the sun's rays penetrate through the gaps in the dead spots from far beyond the horizon."
+		],
+		[
+			"msg",
+			300500,
+			"It only lasts for a few minutes, but it's enough to keep us fighting.",
+			"虽然只有短暂的几分钟，但是这昙花一现的景象成为了我战斗的动力。",
+			"たった数分間ですが、この一瞬の光景がブローニャの戦う原動力になっています。",
+			"단 몇 분간이지만, 이 순간의 광경이 브로냐가 싸우는 원동력이 되고 있습니다.",
+			"It's only for a few short minutes, but this fleeting scene is my motivation to keep fighting.",
+			null,
+			"It was only a few short minutes, but the fleeting sight became my motivation to fight.",
+			"It only lasts a few minutes, but this fleeting scene is the driving force behind Bronya's fight."
+		],
+		[
+			"msg",
+			300501,
+			"The sunlight proves that the world is still alive. Even in the boundless darkness, the world still clings to the light.",
+			"它让我相信这个世界还活着，即使深陷在黑暗的深渊中也依然想要奋力爬向光明。",
+			"この世界がまだ生きていることを信じさせてくれます。暗闇の深淵の底にいても、光に向かって這い上がろうとさせてくれるんです。",
+			"이 세상이 아직 살아있음을 믿게 해줍니다. 어둠의 심연의 바닥에 있어도 빛을 향해 기어오르려 하게 해주죠.",
+			"It makes me believe that this world is still alive. Even if I'm at the bottom of the dark abyss, I'll still crawl towards the light.",
+			null,
+			"It makes me believe that the world is still alive, and even if I am deep in the dark abyss, I still want to crawl towards the light.",
+			"It makes me believe that this world is still alive. It makes me want to crawl toward the light, even when I'm at the bottom of the dark abyss."
+		],
+		[
+			"msg",
+			300502,
+			"Living in this resilient world, we will risk everything to chase a miraculous moment, even if that means we will be engulfed in flames.",
+			"在这样倔强地生存着的星球环抱中的我们，也随着它一起追逐着这一瞬之间的奇迹，即使会在这束火光中燃烧殆尽也在所不惜。",
+			"こんなにもたくましく生き続けている星で、ブローニャたちはこの一瞬の奇跡を追い求めているんです。たとえこの火が燃え尽きてしまったとしても。",
+			"이토록 강인하게 살아남은 별에서, 브로냐들은 이 순간의 기적을 좇고 있는 거예요. 비록 이 불꽃이 타오르다 꺼져버린다 해도.",
+			"Living on this resilient planet, we're chasing this momentary miracle. Even if we burn up in the light of the fire.",
+			null,
+			"Surrounded by such a stubbornly living planet, we are also chasing the miracle of this moment together with it, even if we will burn up in the light of the fire.",
+			"On a planet that continues to live so robustly, Bronya and his friends are pursuing this momentary miracle. Even if this fire burns out."
+		],
+		[
+			"choice",
+			[
+				300503,
+				"Is that what we are fighting for?",
+				"这就是我们战斗的意义么？",
+				"これが私たちの戦う意義なの？",
+				"이게 우리가 싸우는 의미인 건가요?",
+				"Is this what we are fighting for?"
+			],
+			[
+				300504,
+				"What a pathetic battle.",
+				"这样的战斗实在太悲伤了。",
+				"こんな戦いって本当に悲しいわ。",
+				"이런 전쟁은 정말 슬퍼요.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			67,
+			68
+		]
+	],
+	"67": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10117"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300505,
+			"Well, it's not like that. Although we are as fragile as moths in this apocalyptic world, we won't be sacrificing our lives for nothing like the insects.",
+			"意义么…在我看来不全是这样，虽然我们的生命在这个末日之中如同飞蛾一般脆弱,但是盲目的飞蛾扑火只会白白牺牲自己的生命。",
+			"意義ですか……ブローニャにとっては必ずしもそうではありません。この命は虫のように弱々しいものです。盲目に飛び続ける虫では無駄に自分の命を犠牲にします。",
+			"의미라고요……브로냐에게 있어서는 반드시 그렇지만은 않아요. 이 목숨은 벌레처럼 약해빠진 것이에요. 맹목적으로 날아다니는 벌레는 헛되이 자신의 목숨을 희생할 뿐이에요.",
+			null,
+			null,
+			"Although our lives are as fragile as moths in this apocalypse, blind moths to the flame will only sacrifice their lives for nothing.",
+			"Is it significant ...... not necessarily for Bronya. This life is as feeble as an insect. In an insect that continues to fly blindly, it sacrifices its own life in vain."
+		],
+		[
+			"msg",
+			300506,
+			"We reach for hopes and understand lives, so we cherish our families and desire to be alive.",
+			"我们追逐着希望，我们明白生命的价值，所以才更珍惜周围的家人，所以才想要活下去。",
+			"ブローニャたちは希望を追いかけています。ブローニャたちは命の価値を知っています。だから周りの家族を大切にするんです。だから生きようとするんです。",
+			"브로냐들은 희망을 좇고 있어요. 브로냐들은 생명의 가치를 알고 있답니다. 그래서 주변 가족들을 소중히 여기는 거예요. 그래서 살아내려고 하는 거예요.",
+			"We chase hope and we understand the value of life. That's why we treasure our families, and that's why we try to live.",
+			null,
+			"We chase hope, we understand the value of life, that's why we treasure our family around us more, that's why we want to live.",
+			"Bronya and his friends are chasing hope. Bronya and his friends know the value of life. That's why they care about the families around them. That's why they try to live."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			69
+		]
+	],
+	"68": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10117"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300507,
+			"Look on the bright side. We're not fighting to be dead. We're fighting for hopes, because we understand lives. We won't perish for nothing like moths.",
+			"不要这么悲观，我们的战斗不是为了死亡，盲目的飞蛾扑火只会白白牺牲自己的生命，我们追逐的是希望，因为我们明白生命的价值。",
+			"そんなに悲観的にならないでください。ブローニャたちの戦いは死ぬためではありません。盲目に飛び続ける虫は自分の命を無駄にするだけですが、ブローニャたちは希望を追いかけています。なぜなら命の価値を知っているからです。",
+			"그렇게 비관적이지 마세요. 브로냐들의 싸움은 죽기 위한 게 아니에요. 맹목적으로 날아다니는 벌레는 자신의 목숨을 헛되이 하지만, 브로냐들은 희망을 좇고 있어요. 왜냐면 생명의 가치를 알고 있기 때문이에요.",
+			"Don't be so pessimistic. My family and I aren't fighting to die. A bug flying blindly into the flame will simply burn up, but we're chasing hope because we know the value of life.",
+			null,
+			"Do not be so pessimistic, our fight is not for death, blind moths to the flame will only sacrifice their lives in vain, we chase hope, because we understand the value of life.",
+			"Don't be so pessimistic. Bronya and his friends are not fighting to die. A bug flying blindly on its own can only waste its own life, but the brañas are chasing hope, because they know the value of life. They are chasing hope because they know the value of life."
+		],
+		[
+			"msg",
+			300508,
+			"So we cherish our families and desire to be alive.",
+			"所以才更珍惜周围的家人，所以才想要活下去。",
+			"だから周りの家族を大切にするんです。だから生きようとするんです。",
+			"그래서 주변 가족들을 소중히 여기는 거예요. 그래서 살아내려고 하는 거예요.",
+			"That's why we cherish our family. That's why we try to live.",
+			null,
+			"That's why you cherish your family around you more, that's why you want to live.",
+			"That's why we take care of the family around us. That's why we try to live."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			69
+		]
+	],
+	"69": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10117"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300509,
+			"We are chasing the fire of life and cherish what we have at the same time. This is us, “Moths in Fire”.",
+			"追逐着希望之火，却又珍惜现在的点滴。这就是我们，“逐火之蛾”存在的意义。",
+			"希望の火を追いかけながら、現在も大切にする。それがブローニャたち「火を追う蛾」の存在意義です。",
+			"희망의 불꽃을 좇으면서도 현재를 소중히 여기는 것. 그게 바로 브로냐들「불을 좇는 나방」의 존재의의예요.",
+			"While chasing the fire of hope, we still cherish the present.  That is the meaning of our existence, the \"Flame Chasing Moths\".",
+			null,
+			"Chasing the flame of hope, but cherishing the present. This is the meaning of our existence, the \"moth of the flame\".",
+			"Chasing the fire of hope, we also cherish the present. That is the raison d'etre of Bronya and the other \"moths chasing fire."
+		],
+		[
+			"choice",
+			[
+				300510,
+				"Can we really find hopes?",
+				"希望真的存在么？",
+				"希望は本当に存在するの？",
+				"희망은 정말 존재하는 걸까요?",
+				"Is there really any hope to be found?"
+			],
+			[
+				300511,
+				"Can we really defeat the Houkai?",
+				"我们真的可以战胜崩坏么？",
+				"私たち本当に崩壊に勝てるの？",
+				"우린 정말 붕괴에 맞서 이길 수 있을까요?",
+				"Can we really defeat the Honkai?"
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			70
+		]
+	],
+	"70": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10117"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300512,
+			"No worries, there are hopes. The dead plague in the sky will dissipate as long as its maker is dead.",
+			"不用担心，希望是确实存在的，笼罩在天空中的死斑并不是永不消散的诅咒，只要将制造它的人杀死就行。",
+			"心配いりません。希望は確かに存在します。空を覆う死斑は永遠に消えない呪いではありません。あれを作り出した人を倒せばいいだけです。",
+			"걱정하지 마세요. 희망은 분명 존재합니다. 하늘을 뒤덮은 죽음의 반점은 영원히 사라지지 않는 저주가 아닙니다. 그걸 만들어낸 자를 쓰러뜨리기만 하면 됩니다.",
+			"Don't worry. Hope does indeed exist. The dead plague that blots the sky isn't a curse that will never go away. We just have to defeat the person that created it.",
+			null,
+			"Don't worry, hope does exist, the death spot that hangs in the sky is not a curse that never dissipates, just kill whoever made it.",
+			"Don't worry. Hope does indeed exist. The death spots that cover the sky are not a curse that will never go away. We just have to defeat the person who created it."
+		],
+		[
+			"msg",
+			300513,
+			"Yes, this is our ultimate goal: to kill the perpetrator of the Houkai explosion.",
+			"没错…这就是我们的最终目标，引发大崩坏的元凶——",
+			"そう……それこそがブローニャたちの最終目標。大崩壊を引き起こした元凶——",
+			"그래…… 바로 그것이 브로냐들의 최종 목표. 대붕괴를 일으킨 원흉——",
+			"Yes.... That is the ultimate goal of the team and I. The cause of the Honkai Impact—",
+			null,
+			"That's right...this is our ultimate goal, the culprit of the Great Crash -",
+			"Yes ...... that is the ultimate goal of Bronya and his team. The source of the great collapse--the source that caused the great collapse--the source that caused the great collapse."
+		],
+		[
+			"msg",
+			300514,
+			"Kiana.",
+			"琪亚娜。",
+			"キアナ。",
+			"키아나.",
+			"Kiana.",
+			null,
+			"Kiana.",
+			"Kiana."
+		]
+	],
+	"71": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300515,
+			"Thank you guys. The mission was perfectly handled tonight.",
+			"辛苦了，今晚的任务完成的很顺利。",
+			"お疲れ様でした。今夜の任務は無事に完了しました。",
+			"수고하셨습니다. 오늘 밤 임무는 무사히 완료되었습니다.",
+			"Thank you for your hard work. Tonight's mission has been successfully completed.",
+			null,
+			"Thanks for your hard work, the mission was well done tonight.",
+			"Thank you for your hard work. Tonight's mission has been successfully completed."
+		],
+		[
+			"msg",
+			300516,
+			"Your strength is qualified. From now on, you will be fighting with us. Welcome to the “Moths in Fire”.",
+			"你的实力已经合格了，从现在开始你将与我们共同战斗，欢迎加入“逐火之蛾”。",
+			"あなたの実力なら文句なく合格です。今日からはブローニャたちと一緒に戦ってもらいます。ようこそ、対崩壊レジスタンス「火を追う蛾」へ。",
+			"당신의 실력이라면 문제없이 합격입니다. 오늘부터는 브로냐들과 함께 싸워주시길 바랍니다. 환영합니다, 대붕괴 레지스탕스「불을 좇는 나방」에.",
+			"You've proven your strength. From today on, you'll be fighting alongside us. Welcome to the \"Flame Chasing Moths\", the resistance against the Honkai.",
+			null,
+			"Your strength has been qualified, from now on you will fight together with us, welcome to join the \"Moth of Fire\".",
+			"If you are good enough, you will pass the exam without question. From today on, you will be fighting alongside Bronya and her team. Welcome to the \"Moths Chasing Fire\" anti-disintegration resistance."
+		],
+		[
+			"msg",
+			300517,
+			"Sorry, there is no grand ceremony. But please take this.",
+			"抱歉，没有什么盛大的仪式，不过作为证明请把这个收下吧。",
+			"すみません。ささやかな入隊式になってしまいましたね。盛大にお迎えしたい気持ちはいっぱいなのですが……そうでした証明書がわりにこれを受け取ってください。",
+			"죄송합니다. 소박한 입대식이 되어버렸네요. 성대하게 맞이하고 싶은 마음은 가득했지만…… 그럼 이걸 증명서 대신 받아주세요.",
+			"Sorry. it's not much of an induction, right? I wish I could give you a grand welcome, but.... Please accept this instead.",
+			null,
+			"Sorry, there is no grand ceremony, but as proof please take this.",
+			"Sorry. It was a modest induction ceremony, wasn't it? I'm full of desire to give you a grand welcome, but ...... I did, so please accept this in lieu of a certificate."
+		],
+		[
+			"msg",
+			300518,
+			"This is the identity of combatants. You are responsible for protecting your family from the Houkai battle. It is your duty to fight for glory to us and fight for hopes to your family.",
+			"这是作战人员的证明，你将肩负起保护家人的使命战斗在崩坏的最前线，成为追逐光明的飞蛾，为了希望而战。",
+			"これは戦闘要員の証明です。あなたは家族を守るという使命を担って崩壊と戦う最前線に立つのです。光を追う蛾となり、希望のために戦うのです。",
+			"이건 전투 요원의 증명입니다. 당신은 가족을 지킨다는 사명을 짊어지고 붕괴와 싸우는 최전선에 서게 될 겁니다. 빛을 좇는 나방이 되어, 희망을 위해 싸우게 될 것입니다.",
+			"This is the proof of a combatant. You are on the front lines fighting the Honkai with a mission to protect your family. You will be the moth that chases the light and fights for hope.",
+			null,
+			"This is the proof of combatants, you will shoulder the mission to protect your family fighting in the forefront of the collapse, become a moth chasing the light, fighting for hope.",
+			"This is the proof of a combatant. You are on the front lines fighting disintegration with a mission to protect your family. You will be the moth that chases the light and fights for hope."
+		],
+		[
+			"choice",
+			[
+				300519,
+				"I'm honored.",
+				"我很荣幸。",
+				"光栄だ。",
+				"영광입니다.",
+				null
+			],
+			[
+				300520,
+				"I'm not yet ready.",
+				"我还没准备好…",
+				"まだ準備ができてなくて……。",
+				"아직 준비가 안 됐는데…….",
+				"I'm not ready yet."
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			72,
+			73
+		]
+	],
+	"72": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300521,
+			"You shine with confidence, I believe in you.",
+			"你的眼神很有自信，我相信你一定能办到，让我们一起活下去吧。",
+			"あなたの目には自信が満ち溢れています。あなたならきっとできるはずです。ブローニャたちと一緒に生きていきましょう。",
+			"당신의 눈에는 자신감이 가득합니다. 당신이라면 분명 할 수 있을 겁니다. 브로냐들과 함께 살아가죠.",
+			"Your eyes are shining with confidence. I believe in you. Come live with us.",
+			null,
+			"You have a confident look in your eyes, I'm sure you can do it, let's live together.",
+			"Your eyes are full of confidence. You can do it. Come live with Bronya and the others."
+		],
+		[
+			"msg",
+			300522,
+			"That's it for today. Take some rest.",
+			"那么以后也多关照，今天就到这里，回去好好休息吧。",
+			"では、これからよろしくお願いします。今日はこの辺にして帰ってゆっくり休んでください。",
+			"그럼, 앞으로 잘 부탁드립니다. 오늘은 이쯤에서 그만하고 집에 가서 푹 쉬세요.",
+			"Well, I look forward to working with you in the future. That's all for today, please go back and get some rest.",
+			null,
+			"So take care of yourself in the future. That's it for today, go back and get some rest.",
+			"Well, I look forward to working with you in the future. That's all for today, please go home and have a good rest."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			74
+		]
+	],
+	"73": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300523,
+			"Seele and I will be helping you. Well, not just us, everyone in the base is willing to give you a hand, so don't worry.",
+			"我和希儿也会帮助你的。不仅是我们，基地的大家都会成为你的力量，所以不用担心。",
+			"ブローニャとゼーレがお手伝いします。それだけではありません。基地のみんながあなたの力になりますから、心配はいりません。",
+			"브로냐와 제레가 도와드릴 거예요. 그뿐만이 아니에요. 기지의 모두가 당신의 편이 될 테니 걱정하지 마세요.",
+			null,
+			null,
+			"Hillel and I will help you too. Not only us, but everyone at the base will be your strength, so don't worry.",
+			"Bronya and Seele are here to help. That's not all. Everyone at the base is here to help you, so don't worry."
+		],
+		[
+			"msg",
+			300524,
+			"That's it for today. Take some rest.",
+			"那么以后也多关照，今天就到这里，回去好好休息吧。",
+			"では、これからよろしくお願いします。今日はこの辺にして帰ってゆっくり休んでください。",
+			"그럼, 앞으로 잘 부탁드립니다. 오늘은 이쯤에서 그만하고 집에 가서 푹 쉬세요.",
+			null,
+			null,
+			"So take care of yourself in the future. That's it for today, go back and get some rest.",
+			"Well, I look forward to working with you in the future. That's all for today, please go home and have a good rest."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			74
+		]
+	],
+	"74": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10095"
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300525,
+			"You're back, Sister!",
+			"啊！姐姐大人你回来啦！",
+			"あ！お姉ちゃん、お帰りなさい！",
+			"아! 언니, 돌아오셨네요!",
+			null,
+			null,
+			"Ah! You're back, Sister!",
+			"Ah! Sis, welcome back!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			300526,
+			"Yes. Why didn't you sleep?",
+			"嗯，还没有休息么？",
+			"ゼーレ、まだ寝ていなかったんですか？",
+			"제레, 아직 안 잤던 거예요?",
+			null,
+			null,
+			"Well, haven't you rested yet?",
+			"Seele, you weren't sleeping yet?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			300527,
+			"I took a nap, but couldn't go back to sleep.",
+			"嘿嘿~刚才小睡了一会，醒来后就睡不着了。",
+			"エヘヘ～さっきまで寝てたんだけど、目が覚めてから寝つけなくなっちゃって。",
+			"에헤헤~ 아까까지 자고 있었는데, 깨고 나서는 잠이 안 오더라고요.",
+			null,
+			null,
+			"Hey ~ just took a nap, woke up and couldn't sleep.",
+			"Ehehe~ I was asleep a while ago, but I couldn't sleep after I woke up."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			300528,
+			"What is troubling you?",
+			"怎么了，有什么心事么？",
+			"どうしたんですか。何か悩み事でも？",
+			"무슨 일이에요? 무슨 고민이라도?",
+			null,
+			null,
+			"What's wrong? What's on your mind?",
+			"What's wrong? What's troubling you?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			300529,
+			"Nothing. Maybe I've been sleeping too much lately.",
+			"没有啦~大概是最近偷懒睡太多了吧。",
+			"何でもないよ～！きっと最近サボって寝すぎたからかな。",
+			"아무것도 아니에요~! 아마 최근에 너무 많이 자서 그런가 봐요.",
+			null,
+			null,
+			"No, it's probably too much lazy sleep lately.",
+			"It's nothing~! I'm sure it's because I've been slacking and sleeping too much lately."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			300530,
+			"Well, don't push yourself too hard.",
+			"是么…你也别太勉强自己。",
+			"そうですか……あまり無理しないでくださいね。",
+			"그런가요…… 너무 무리하지 마세요.",
+			null,
+			null,
+			"Really...you shouldn't push yourself too hard.",
+			"I see. ...... Please don't take it too hard."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			300531,
+			"Great...",
+			"嗯……",
+			"うん……。",
+			"응…….",
+			null,
+			null,
+			"Well ......",
+			"Yeah. ......."
+		],
+		[
+			"msg",
+			300532,
+			"Sister, I received a message from “Grey Moths”. They will be back to the base by tomorrow midnight.",
+			"对了姐姐大人，刚才收到“灰蛾”的信号，他们会在明天凌晨返回基地。",
+			"そうだ、お姉ちゃん、さっき「灰蛾」の信号を受け取ったよ。明日の明け方に基地に戻って来るって。",
+			"그래, 언니, 방금 「회아」의 신호를 받았어. 내일 새벽에 기지로 돌아온다고.",
+			null,
+			null,
+			"By the way, sister, just received a signal from the \"Grey Moth\", they will return to the base in the early hours of tomorrow morning.",
+			"Yes, sis, I just received the \"ash moth\" signal. They will be back at the base tomorrow at dawn."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300533,
+			"We'll be ready when they're back. It's time to start the follow-up plan.",
+			"嗯，等她们回来人手就都到齐了，差不多可以开始后面的计划了。",
+			"はい、彼女たちが戻ってくれば人手がそろいますね。そろそろ、これからの計画を始められるでしょう。",
+			"네, 그들이 돌아오면 인원이 충분해지겠네요. 이제 곧 앞으로의 계획을 시작할 수 있을 거예요.",
+			null,
+			null,
+			"Well, when they come back the staff will all be there, almost can start the back of the plan.",
+			"Yes, once the girls return, we will have the manpower. It will be time to start planning for the future."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300534,
+			"So you finally made up your mind.",
+			"是么…终于决定了么。",
+			"そうなの……やっと決めたんだね。",
+			"그래…… 드디어 결심한 거구나.",
+			null,
+			null,
+			"Really?...have you finally decided.",
+			"So ...... you finally decided."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300535,
+			"Yes. There's nothing strange around the base. The number of Houkai creatures in this area is dwindling. Maybe the previous attack is a random one.",
+			"嗯，这次对基地周围的调查结果没有什么异常，崩坏生物的数量比以前少了不少，之前的进攻或许真的只是个偶然。",
+			"ええ、今回、基地周辺の調査結果では特に異常がありませんでした。崩壊生物の数は以前よりも大分少なくなっています。この前の攻撃は、本当にただの偶然だったのかもしれません。",
+			"예, 이번 기지 주변 조사 결과 특별한 이상은 없었어요. 붕괴 생물의 수는 이전보다 훨씬 줄어들었습니다. 지난번 공격은 정말 그냥 우연이었을지도 몰라요.",
+			null,
+			null,
+			"Well, this time there was nothing unusual about the findings around the base, the number of collapsing creatures was much less than before, and the previous attack might really be just a coincidence.",
+			"Yes, the survey results around the base this time did not show any anomalies. The number of decaying organisms is much lower than before. Maybe the last attack was really just a coincidence."
+		],
+		[
+			"msg",
+			300536,
+			"We'd better hurry, or we'll be dead if we do nothing.",
+			"我们得趁着这段空隙行动起来了，不管怎么样继续犹豫都只有死路一条。",
+			"この隙は絶好のチャンスです。どうであろうと、躊躇し続けていては死しかありません。",
+			"이 틈은 절호의 기회예요. 어떻게 되든, 망설이고만 있으면 죽음뿐이에요.",
+			null,
+			null,
+			"We have to take advantage of this gap to act up, no matter what continue to hesitate are only dead.",
+			"This gap is the perfect opportunity. No matter how it may be, if we continue to hesitate, there will only be death."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300537,
+			"Understood. I'll be at your service!",
+			"嗯，明白了。既然姐姐大人这么决定了，就让希儿来为姐姐大人劈开道路吧！",
+			"うん、分かった。お姉ちゃんがそう決めたんなら、ゼーレはお姉ちゃんのために力を貸すよ！",
+			"응, 알았어. 언니가 그렇게 결정했으면, 제레는 언니를 위해 힘을 빌려줄게!",
+			null,
+			null,
+			"Well, I see. Since Sister-sama has decided so much, let Hsieh come and cleave the way for Sister-sama!",
+			"Yeah, I get it. If that's what your sister decides, then Seele will help you out!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			300538,
+			"Thank you, Seele!",
+			"嗯，谢谢你，希儿。",
+			"はい、ありがとう、ゼーレ。",
+			"네, 고마워, 제레.",
+			"Thanks, Seele.",
+			null,
+			"Well, thank you, Hill.",
+			"Yes, thank you, Seele."
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300539,
+			"Our lives depend on this battle.",
+			"我们的命运就取决于这次战斗了……",
+			"ブローニャたち家族の命運はこの戦いにかかっています……。",
+			"브로냐와 가족들의 운명이 이 전투에 달려있습니다…….",
+			null,
+			null,
+			"Our fate depends on this battle ......",
+			"The fate of Bronya and her family depends on this battle. ......"
+		]
+	]
+}

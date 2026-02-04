@@ -1,0 +1,2221 @@
+{
+	"1030": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305249,
+			"Yssring, are you there?",
+			"伊瑟琳，在么？",
+			"イザーリン、いる？",
+			"이자린, 있어?",
+			null,
+			null,
+			"Estherine, are you there?",
+			"Estherine, are you there?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305250,
+			"I'm here.",
+			"你们来了啊……",
+			"来たわね……。",
+			"왔네…….",
+			null,
+			null,
+			"Here you are ......",
+			"You're here: ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305251,
+			"What's wrong with you? How could it possible that you just showed up without being asked twice?",
+			"这次真是难得呢，居然一眼就看到你了~",
+			"珍しいわね、すぐにあなたが見つかるなんて。",
+			"흔치 않네, 이렇게 금방 네가 발견되다니.",
+			"Huh, it's rare that you show up the first time I call your name.",
+			null,
+			"This time is really rare, I actually saw you at first glance ~",
+			"It's rare that they find you so quickly."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305252,
+			"I've been waiting for you since I submitted my request... In case you break some of my stuff again.",
+			"自从提交了委托之后我就在这里等你了…我怕你再把我的东西摔坏。",
+			"依頼を提出したあと、あなたが来るのを待ってたから……あなたがまた私の物を壊すんじゃないかと思って。",
+			"의뢰를 제출한 후, 네가 오기를 기다렸어……네가 또 내 물건을 부술까 봐.",
+			null,
+			null,
+			"I've been waiting for you here since I submitted the commission...I was afraid you'd break my stuff again.",
+			"After I submitted my request, I was waiting for you to come to ...... so I could see if you would break my stuff again."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305253,
+			"Haha. That's the spirit.",
+			"哼哼~看来你也学乖了嘛~",
+			"フフン～あなたも学習するのね～！",
+			"흐흥~ 당신도 배우는구나~!",
+			null,
+			null,
+			"Hmph, you seem to have learned your lesson.",
+			"Hmph~ you learn too!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305254,
+			"Well, thanks to you...",
+			"嗯，那还真是谢谢你……",
+			"はい、誰かさんと違って……。",
+			"네, 누군가와는 달리…….",
+			null,
+			null,
+			"Well, then thank you very much ......",
+			"Yes, unlike someone else, ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305255,
+			"Back to business. The request I got is to investigate the tunnels. Any more details?",
+			"言归正传，这次的委托内容是“帮助排查隧道中的危险”，请问具体是什么样的委托呢？",
+			"それで、今回の依頼内容は「トンネル内の危険排除の手伝い」ってあるけど、具体的にどんな依頼なの？",
+			"그래서 이번 의뢰 내용은「터널 내 위험 제거를 돕는 일」이라는데, 구체적으로 어떤 의뢰야?",
+			null,
+			null,
+			"Back to the topic, this time the commission is \"help to identify the danger in the tunnel\", what kind of commission is it?",
+			"So, this request is to \"help eliminate hazards in the tunnel,\" but what exactly is the request?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305256,
+			"Here's the thing... Do you remember you detonating the bombs in those tunnels to block Houkai beasts with the falling rocks?",
+			"是这样的…之前在隧道中你们不是引爆了炸药炸断了承重柱用坍塌的碎石挡住了崩坏兽么？",
+			"実は……以前にトンネル内で爆薬を使って崩壊獣を倒したでしょ？",
+			"사실...... 이전에 터널 내에서 폭약을 사용해 붕괴수를 쓰러뜨렸잖아?",
+			null,
+			null,
+			"Here's the thing...didn't you detonate the explosives in the tunnel to break the load-bearing pillar and block the collapsing debris from the collapsing beast?",
+			"Actually, before ......, you used explosives in the tunnel to defeat the Honkai Beast, right?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305257,
+			"Well. That's what happened.",
+			"嗯…是这样没错。",
+			"うん……そうだね。",
+			"응...... 그랬지.",
+			null,
+			null,
+			"Well...that's right.",
+			"Yeah ...... I guess so."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305258,
+			"Ever since after that, we've kept receiving reports on team members attacked by Houkai beasts. I wonder if the explosion created some \"back doors\".",
+			"自那之后就不断有崩坏兽渗透进隧道袭击队员的报告，所以我想是不是爆炸引起的冲击波损坏了隧道的结构，导致了缺口出现。",
+			"そのあとから崩壊獣がトンネル内に現れて、隊員を襲ってるという報告があるの。だから、爆発の衝撃でトンネルのどこかが壊れて、そこから現れているんじゃないかと思って。",
+			"그 뒤부터 붕괴수가 터널 내에 나타나서 대원들을 습격한다는 보고가 있거든. 아마 폭발 충격으로 터널 어딘가가 파손되어 그 곳에서 나타나는 게 아닐까 싶어.",
+			null,
+			null,
+			"Since then there have been reports of collapsing beasts infiltrating the tunnel and attacking the team, so I wonder if the shockwave caused by the explosion damaged the structure of the tunnel and caused the gap to appear.",
+			"There have been reports of Honkai Beasts appearing in the tunnel after that and attacking the crew. So I thought maybe the impact of the explosion broke something in the tunnel and they are appearing from there."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305259,
+			"I see. That's indeed very important. You can count on us. We'll find out what's happening.",
+			"原来是这样，我明白了，这个确实很重要，那交给我们吧，一定会调查清楚的。",
+			"そういうことなのね。分かったわ。それは確かに重大ね。私たちに任せて。しっかり調べてくるから。",
+			"그런 거였구나. 알았어. 확실히 중대한 사안이네. 우리에게 맡겨. 철저히 조사해 올게.",
+			null,
+			null,
+			"So that's it, I see, this is really important, then leave it to us, we will definitely investigate it.",
+			"So that's how it is. I get it. That's definitely a big deal. Leave it to us. We'll look into it."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305260,
+			"Wait for me. I'll go with you. There's a lot of potential risks down there that you won't be able to see without a special device. And the tunnels are like a maze.",
+			"稍等下，我和你们一起去，有些隐性危险光靠肉眼是无法分辨的，而且隧道的分布错综复杂，如果没有专业的仪器想要完全排除危险是很难的。",
+			"ちょっと待って。今回は私もあなたたちと一緒に行く。潜在的な危険は肉眼では見分けられないから……専門的な機械で危険を完全に排除しないと。それにトンネルの作りも複雑だし……案内が必要。",
+			"잠깐만. 이번엔 나도 너희와 함께 갈 거야. 잠재적 위험은 육안으로 식별할 수 없으니까...... 전문 장비로 위험을 완전히 제거해야 해. 게다가 터널 구조도 복잡하고...... 안내가 필요할 테니.",
+			null,
+			null,
+			"Wait a moment, I will go with you, some hidden dangers can not be distinguished by the naked eye, and the distribution of the tunnel is intricate, if not professional instruments want to completely eliminate the danger is very difficult.",
+			"Wait a minute. This time I'm going with you guys. The potential dangers are not discernible to the naked eye, so we need ...... specialized machinery to eliminate the dangers completely. Besides, the tunnel is complex and ...... needs to be guided."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305261,
+			"Didn't expect that from you. Are you not afraid of Houkai beasts?",
+			"没想到你会主动要求同行呢~难道就不害怕崩坏兽了么？",
+			"あなたから同行を言い出すなんて。崩壊獣が怖かったんじゃないの？",
+			"네가 직접 동행을 제안하다니. 붕괴수가 무서웠던 거 아니야?",
+			null,
+			null,
+			"I didn't expect you to ask to go along ~ aren't you afraid of the collapsing beast anymore?",
+			"I can't believe you insisted on accompanying me. I thought you were afraid of Honkai Beasts."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305262,
+			"Eek... You must protect me... I will escape if you left me in danger. Then you won't be able to finish the task.",
+			"咕…你们一定要保护好我…如果有什么危险我可是会逃跑的，到时候任务完不成可别怪我。",
+			"……あなたたち必ず守ってね。何か危険があったら私逃げるからね。任務が完了できなくても私を責めないでよ。",
+			"......너흰 꼭 나를 지켜줘야 해. 위험한 일이 생기면 난 도망갈 거니까. 임무를 완수하지 못해도 날 탓하지 말아줘.",
+			null,
+			null,
+			"Goo ... you must protect me ... if there is any danger I will escape, then the task can not be completed do not blame me.",
+			"...... Make sure you guys protect me. If there is any danger, I will run away. Don't blame me if I can't complete the mission."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305263,
+			"Yeah, yeah. No worries.",
+			"是是是，放心吧~",
+			"はい、はい、はい。安心して。",
+			"알았어, 알았어. 안심해.",
+			null,
+			null,
+			"Yes yes yes, don't worry~",
+			"Yes, yes, yes. Rest assured."
+		]
+	],
+	"1031": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10096"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305264,
+			"So, here is the center of that explosion?",
+			"这里就是之前爆炸的地方么？",
+			"ここが、この前爆破した場所なの？",
+			"여기가, 저번에 폭파한 장소야?",
+			null,
+			null,
+			"Is this the place where the previous explosion took place?",
+			"Is this where you blew up last time?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305265,
+			"Mhm... That's right.",
+			"嗯…没错。",
+			"ええ……そうよ。",
+			"그래……그래.",
+			null,
+			null,
+			"Well...that's right.",
+			"Yes, ...... yes."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305266,
+			"Looks like we won't need your special device. So many big holes... This place is like a park!",
+			"看这个样子已经没有使用探查器的必要了呢，这里根本就是千疮百孔嘛。",
+			"この様子だと、もう探査機を使う必要はなさそうね。ここ、もうボロボロ……。",
+			"이 상황으로 봐선, 탐사기를 더 쓸 필요는 없을 것 같네. 여기, 이미 너덜너덌걸…….",
+			null,
+			null,
+			"Look at this look has no need to use the detector it, here is simply a lot of holes well.",
+			"By the looks of it, it looks like we won't have to use the probe anymore. Here, it's already a wreck. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305267,
+			"I... I'm sorry.",
+			"抱，抱歉。",
+			"ご、ごめんなさい。",
+			"죄, 죄송합니다.",
+			null,
+			null,
+			"Hugs, sorry.",
+			"I'm sorry."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305268,
+			"It seems... the only way is to neutralize all the Houkai creatures in there. I'll leave the rest to you guys.",
+			"看来…只能先把里面的崩坏生物解决掉再想办法了，接下来就交给你们了。",
+			"……まずは中の崩壊生物を片付けてから、どうするか考えるしかなさそうね。あとは任せたわ。",
+			"……일단 안의 붕괴 생물을 처리한 다음에 방법을 강구해야겠어. 나머진 네게 맡길게.",
+			null,
+			null,
+			"It seems that...we can only solve the collapsing creatures inside first and then think of a solution, so I will leave the rest to you.",
+			"...... I guess we'll just have to clean up the decaying organisms inside first and then figure out what to do with them. I'll leave the rest to you."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305269,
+			"What? Where are you going?",
+			"唔！你要去哪？",
+			"え！どこに行くの？",
+			"어! 어디 가는 거야?",
+			null,
+			null,
+			"Well! Where are you going?",
+			"What? ! Where are you going?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305270,
+			"Going back. What do you think? I'm not interested in becoming their food.",
+			"当然是回去了…我可不想待在这里被崩坏兽吃掉。",
+			"もちろん帰るのよ……こんな所にいて崩壊獣に食べられたくないもの。",
+			"당연히 돌아가는 거지……이런 곳에서 붕괴수에게 잡아먹히고 싶지 않아서.",
+			null,
+			null,
+			"Of course it's back...I don't want to stay here and be eaten by the crashing beasts.",
+			"Of course I'm going home. ...... I don't want to stay here and get eaten by a Honkai Beast."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305271,
+			"All right...",
+			"好…好吧。",
+			"わ、分かったわ。",
+			"알, 알겠어.",
+			null,
+			null,
+			"Well...okay.",
+			"Wow, okay."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305272,
+			"Report back to me after you've dealt with all of them. See you later.",
+			"那等你们清理干净了再来找我吧，再见。",
+			"じゃあ、ここが片付いたら教えてね。じゃあね。",
+			"그럼 여기 정리 끝나면 연락해. 안녕.",
+			null,
+			null,
+			"Then come back to me when you've cleaned up. Bye.",
+			"Well, let me know when you get this place cleaned up. Bye."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305273,
+			"Sigh... Let's take care of them.",
+			"哎…看来只能靠我们自己了。",
+			"もう……私たちだけでやるしかないみたいね。",
+			"이젠……우리끼리 해결해야 할 것 같네.",
+			null,
+			null,
+			"Hey...it seems we can only rely on ourselves.",
+			"Looks like we're on our own now ......."
+		]
+	],
+	"1032": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10096"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305274,
+			"That should be all of them. Let's report back to Yssring.",
+			"看来崩坏生物已经消灭的差不多了，我们去和伊瑟琳报告吧。",
+			"崩壊生物はほとんど倒したようね。イザーリンに報告しましょう。",
+			"붕괴 생물은 대부분 처리한 것 같아. 이자린에게 보고하자구요.",
+			null,
+			null,
+			"It looks like the Avalanche creatures are pretty much wiped out, so let's go report back to Estherine.",
+			"Looks like we've taken down most of the decaying organisms. Let's report back to Estherine."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305275,
+			"Some time later.",
+			"片刻之后。",
+			"1時間後——",
+			"1시간 후——",
+			null,
+			null,
+			"A few moments later.",
+			"One hour later--"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305276,
+			"...Are you sure you took out all of them?",
+			"…崩坏生物真的全部解决了么？",
+			"……本当に崩壊生物を全部倒したの？",
+			"......정말 붕괴 생물을 모두 쓰러뜨린 거야?",
+			null,
+			null,
+			"...have all the crash creatures really been solved?",
+			"...... Did you really defeat all the decaying organisms?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305277,
+			"Of course.",
+			"那当然~",
+			"もちろん！",
+			"물론이죠!",
+			null,
+			null,
+			"Of course!",
+			"Of course!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305278,
+			"Really? Are you positive?",
+			"真的是真的么？",
+			"本当に本当？",
+			"정말로 정말?",
+			null,
+			null,
+			"Is it really true?",
+			"Are you sure?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305279,
+			"Trust me. For once!",
+			"你相信我嘛！",
+			"信じてよ！",
+			"믿어줘요!",
+			null,
+			null,
+			"You can trust me!",
+			"Trust me!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305280,
+			"Alright... You go first... I'll follow you.",
+			"好吧…那你们走在前面。",
+			"いいわ……じゃあ、あなたたちが前を歩いて。",
+			"좋아...... 그럼, 당신들이 앞에서 걸어가.",
+			null,
+			null,
+			"Okay...so you guys walk in front.",
+			"Okay ......, then you guys walk in front of me."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305281,
+			"Fine, fine.",
+			"哎…是是。",
+			"もう……はい、はい。",
+			"젠장...... 알겠어, 알겠어.",
+			null,
+			null,
+			"Hey...yes yes.",
+			"I'm already on ...... yes, yes."
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305282,
+			"Yssring, why are you so afraid of Houkai creatures?",
+			"伊瑟琳，你这家伙为什么这么害怕崩坏生物啊？",
+			"イザーリン、あなたどうしてそんなに崩壊生物を恐がってるの？",
+			"이자린, 당신 왜 그렇게 붕괴 생물을 무서워하는 거예요?",
+			null,
+			null,
+			"Estherine, why are you guys so afraid of collapsing creatures?",
+			"Estherine, why are you so afraid of decaying organisms?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305283,
+			"Who's not? Everyone is afraid of them, okay?",
+			"换做是谁都会怕的吧。",
+			"誰だって恐いでしょう。",
+			"누구든 무서워할 거예요.",
+			null,
+			null,
+			"Anyone else would be afraid, right?",
+			"Everyone would be afraid."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305284,
+			"True that. But nobody overreacts like you do...",
+			"话是这么说啦，不过像你这样的还真是少见呢。",
+			"そうだけど、あなたみたいに恐がるのは珍しい方じゃない？",
+			"그렇겠지만, 당신처럼 무서워하는 건 흔치 않은 편이잖아요?",
+			null,
+			null,
+			"That's true, but it's really rare to find one like you.",
+			"Yes, but isn't it rare for someone to be as afraid as you are?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305285,
+			"You are right... Perhaps I should train myself and get used to the idea of dying...",
+			"你说的对…或许我的确该锻炼一下面对死亡时的勇气了…",
+			"それもそうね……私、臆病なのかも。死に直面しても動じないようにしないと……もっと心を鍛えないと。",
+			"그러게 말이야…… 나, 겁쟁이인가 봐. 죽음을 직면해도 동요하지 않도록…… 더 마음을 단련해야 해.",
+			null,
+			null,
+			"You're right...maybe I should indeed exercise my courage in the face of death...",
+			"That's true too. ...... Maybe I'm a coward. I need to train my mind more ...... not to be upset in the face of death."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305286,
+			"Haha. Glad to know you are willing to train yourself. Do you want to join us?",
+			"嚯嚯~看来你终于想要锻炼自己了呢，要不要加入我们呢~",
+			"フフフ～あなたもようやく自分を鍛えようと思ったのね。私たちの部隊に加わる？",
+			"후후후~ 너도 드디어 자신을 단련하려고 생각했구나. 우리 부대에 들어올래?",
+			null,
+			null,
+			"Ho ho ho ~ it seems that you finally want to exercise yourself it, want to join us ~",
+			"Hmph - you finally decided to train yourself too. Want to join our squad?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305287,
+			"No. More lives than a cat wouldn't be enough if I was with you.",
+			"容我拒绝…和你在一起有多少命都不够用。",
+			"あなたと一緒じゃ、命がいくつあっても足りない。",
+			"너와 함께라면, 목숨이 몇 개라도 부족해.",
+			null,
+			null,
+			"Allow me to refuse...no amount of life with you is enough.",
+			"With you, no matter how many lives I have, it's not enough."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305288,
+			"Come on! You have to start sooner or later. Why not make it today?",
+			"嘿嘿~来嘛！就从今天开始锻炼吧！",
+			"え～おいでよ！今日から訓練を始めましょう！",
+			"에~ 어서 와! 오늘부터 훈련을 시작하자구!",
+			null,
+			null,
+			"Hey, hey, come on! Let's start exercising today!",
+			"Eh~ come on! Let's start training today!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305289,
+			"... Please, can you just spare me?",
+			"……求求你放过我吧。",
+			"……謹んでお断り。",
+			"……삼가 사양하겠습니다.",
+			null,
+			null,
+			"...... Please leave me alone.",
+			"...... respectfully declined."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305290,
+			"Alright. I'll stop making fun of you. Let's go repair the tunnels.",
+			"好啦，不开玩笑了，我们开始隧道检修工作吧。",
+			"分かったわよ。冗談はおしまい。トンネル修理の作業を始めましょう。",
+			"알았어. 농담은 그만. 터널 수리 작업을 시작하자.",
+			null,
+			null,
+			"Okay, no more jokes, let's start the tunnel maintenance work.",
+			"All right, all right. Joking is over. Let's start working on the tunnel repair."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305291,
+			"Right... Let's go.",
+			"嗯…走吧。",
+			"うん……行こう。",
+			"응…… 가자.",
+			null,
+			null,
+			"Hmmm...let's go.",
+			"Yeah ...... let's go."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305292,
+			"Ah-ah-ah-AAACHO!!",
+			"阿嚏！！",
+			"ハクション！！",
+			"에취!!",
+			null,
+			null,
+			"Ah-choo!!!",
+			"Hacktion!!!!!!!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305293,
+			"Ugh!!! Houkai creatures!! Seele, you were lying to me!",
+			"哇！！有崩坏生物！！希儿你果然在骗我！",
+			"わわっ！！崩壊生物！？……ゼ、ゼーレ、騙した！？",
+			"와악!! 붕괴 생물!?…… 제, 제레, 속인 거야!?",
+			null,
+			null,
+			"Wow!!! Avalanche creatures! Hill you really are lying to me!",
+			"Whoa! Disintegrating organisms! ...... Ze, Seele, you fooled me!"
+		],
+		[
+			"choice",
+			[
+				305294,
+				"No. It was just me. I just sneezed...",
+				"没有，只是我不小心打了个喷嚏……",
+				"違うよ、私がクシャミをしただけ……。",
+				"아냐, 내가 재채기를 했을 뿐이야…….",
+				null
+			],
+			[
+				305295,
+				"Sorry that I scared you.",
+				"抱歉，我吓到你了。",
+				"ごめん、驚かしちゃった？",
+				"미안, 놀라게 했어?",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1033
+		]
+	],
+	"1033": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10096"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305296,
+			"Sigh... Save your explanations. Yssring has run away.",
+			"哎……不用说明了，伊瑟琳已经逃走了。",
+			"あ……説明しなくていいわ。イザーリン逃げちゃったから。",
+			"아... 설명 안 해도 돼. 이자린이 도망가 버렸으니까.",
+			null,
+			null,
+			"Hey ...... needless to say, Estherine has escaped.",
+			"Oh, ...... you don't have to explain. Isalin has run away."
+		]
+	],
+	"1034": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10096"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305297,
+			"I promise you it will be fine this time. Trust us! We've purged that place of life! Not even a cockroach!",
+			"这次真的没有问题了，相信我们吧！这可是连一只小强都看不到了哦！",
+			"今回は本当に大丈夫よ。私たちを信じて！ゴキブリ1匹現れないわ！",
+			"이번엔 진짜 괜찮아. 우리를 믿어! 바퀴벌레 한 마리도 안 보일 거야!",
+			null,
+			null,
+			"This time there is really no problem, believe us! This is not even a small strong can not see Oh!",
+			"It's really going to be okay this time. Trust us! Not a single cockroach will appear!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305298,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305299,
+			"Come on! Don't stare at me with that suspicious look on your face! Focus on your job or I will report you to Bronya.",
+			"好啦，不要露出这种怀疑的眼神啦，你要是不好好干活我可是要去姐姐大人那里告状了。",
+			"ほら、そんな疑わしい眼をしないでよ。これ以上仕事を放棄するなら、お姉ちゃんに報告するからね。",
+			"자, 그런 의심스러운 눈빛을 하지 마. 더 이상 일을 포기하면 언니에게 보고할 거야.",
+			null,
+			null,
+			"Okay, don't show such a suspicious look, if you don't work well I'm going to go to the elder sister to complain.",
+			"See, don't give me those suspicious eyes. If you abandon your work any longer, I will report you to your sister."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305300,
+			"Alright... Let's start working.",
+			"好吧…那么检查开始吧。",
+			"分かったわ……じゃあ検査を始めましょう。",
+			"알았어... 그럼 검사를 시작하자.",
+			null,
+			null,
+			"Okay...so let the inspection begin.",
+			"Okay. ...... Then let's start the inspection."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305301,
+			"*Duang Duang Duang*",
+			"铛铛铛……",
+			"ダンダンダン……。",
+			"두두두...",
+			null,
+			null,
+			"Dang Dang ......",
+			"Dundurn. ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305302,
+			"Looks like the tunnels are beyond repair. The explosion greatly changed the structure of the tunnels. We were lucky that they didn't collapse altogether.",
+			"以隧道目前的状态维修基本是不可能了，你们选的爆破点对隧道洞体的影响太大，不过庆幸的是没有造成大规模的崩塌。",
+			"トンネルの状態からして、これは修理不能。あなたたちが選んだ爆破ポイントがトンネルに与えた影響は絶大ね。幸いにも大規模な崩落は引き起こしていないけど。",
+			"터널 상태로 보면 수리 불가능이네. 너희가 선택한 폭파 지점이 터널에 준 영향은 엄청나. 다행히 대규모 붕괴는 일으키지 않았지만.",
+			null,
+			null,
+			"With the current state of the tunnel repair is basically impossible, the impact of your chosen blasting point on the tunnel cavity is too great, but thankfully did not cause a massive collapse.",
+			"Given the condition of the tunnel, this is beyond repair. The blast point you chose has had a tremendous impact on the tunnel. Fortunately, it did not cause a major collapse."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305303,
+			"But we have to do something, right? Or those Houkai creatures may come back through here.",
+			"但是也不能放着不管吧，不然崩坏生物很有可能再次入侵。",
+			"でも、放っておくわけにもいかないでしょ。崩壊生物がまた侵入してくるかもしれないもんね。",
+			"그래도 방치할 순 없잖아. 붕괴 생물이 다시 침입할지도 모르는 일인데.",
+			null,
+			null,
+			"But you can't just leave it alone, or the collapsing creatures are likely to invade again.",
+			"But you can't just leave it alone. The decaying organisms might invade again."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305304,
+			"Well, we probably have to give up this area.",
+			"嗯，所以只能放弃这个区域了。",
+			"うん、だからこのエリアを放棄しよう。",
+			"응, 그래서 이 구역을 포기하자.",
+			null,
+			null,
+			"Well, so it's just a matter of giving up on this area.",
+			"Yeah, so let's abandon this area."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305305,
+			"We just give up?",
+			"放弃？",
+			"放棄？",
+			"포기?",
+			null,
+			null,
+			"Give up?",
+			"Abandonment?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305306,
+			"Yeah. If you knew where to place the bombs at that time, we wouldn't need to do it all over again. I've set up the explosives. Just press the button.",
+			"是的，你们当时的爆破太鲁莽了，如果使用正确的方法就能有效地封锁隧道，刚才我已经把爆破的炸药安放好了，你们只要安心起爆就行了。",
+			"そう。あなたたちの爆破は軽率だったということ。正確な方法でやっていれば効果的にトンネルを封鎖できたのに。さっき爆薬を仕掛けておいたわ。あとは起爆するだけで封鎖できる。",
+			"그래. 너희들의 폭파 작업이 경솔했던 거야. 정확한 방법으로 진행했더라면 효과적으로 터널을 봉쇄할 수 있었을 텐데. 방금 폭약을 설치해 뒀어. 이제 기폭만 하면 봉쇄할 수 있어.",
+			null,
+			null,
+			"Yes, your blasting was too reckless, if you use the right method can effectively block the tunnel, just now I have placed the explosives for blasting, you just need to detonate without fear.",
+			"Yes. It means that your bombing was thoughtless. If you had done it correctly, you could have effectively sealed off the tunnel. I've already planted the explosives. All we need to do is detonate it and we can seal it off."
+		],
+		[
+			"msg",
+			305307,
+			"Here's the detonation controller.",
+			"拿着，这是起爆器。",
+			"はい、これが起爆装置。",
+			"네, 이게 기폭 장치입니다.",
+			null,
+			null,
+			"Here, this is the detonator.",
+			"Yes, this is the detonator."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305308,
+			"Eh? Why don't you do it yourself?",
+			"呜…你不自己来么？",
+			"え……どうして自分でやらないの？",
+			"어...... 왜 자기 손으로 하지 않는 거야?",
+			null,
+			null,
+			"Oooh...don't you want to do it yourself?",
+			"Eh ...... why don't you do it yourself?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305309,
+			"It's too dangerous.",
+			"太危险了。",
+			"危険すぎるからよ。",
+			"위험하니까.",
+			null,
+			null,
+			"It's too dangerous.",
+			"Because it's too dangerous."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305310,
+			"Hey!",
+			"喂！",
+			"ちょっと！",
+			"잠깐!",
+			null,
+			null,
+			"Hey!",
+			"Hey!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305311,
+			"Relax. I didn't mean the explosion is dangerous itself. It's just that any remaining Houkai creatures in the tunnels will be attracted to here.",
+			"放心吧，我说的不是爆破的危险，我怕如果隧道里还有遗留的崩坏生物被爆炸引过来就不好了。",
+			"安心して。私が言ったのは爆破が危険という意味じゃない。トンネルの中にまだ崩壊生物が残っていたら、爆発音に引き寄せられてマズいでしょ。",
+			"안심해. 내가 말한 건 폭파가 위험하다는 뜻이 아니야. 터널 안에 아직 붕괴 생물이 남아있었다면, 폭발음에 이끌려서 문제가 생길 거 아냐.",
+			null,
+			null,
+			"Don't worry, I'm not talking about the danger of blasting, I'm afraid that if there are still leftover avalanche creatures in the tunnel being drawn over by the explosion would be bad.",
+			"Rest assured. I didn't mean that the explosion was dangerous. If there were still decaying organisms in the tunnel, they would be attracted to the sound of the explosion."
+		],
+		[
+			"msg",
+			305312,
+			"So I'll leave the rest to you. Please wait until I'm far away from here. Thanks.",
+			"所以后面就交给你了，等我走远了再按，谢谢。",
+			"だから、あとは任せたわ。私が遠ざかってから押してね……よろしく。",
+			"그러니까, 이제 남은 건 네게 맡길게. 내가 멀리 떨어진 다음에 눌러...... 부탁해.",
+			null,
+			null,
+			"So I'll leave the back to you, and I'll press it when I'm far away, thanks.",
+			"So I'll leave the rest to you. Push it when I get away from you. ...... Thanks in advance."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305313,
+			"Humph... You think I'll just do what you wanted?",
+			"这个家伙…我才不会让你得逞！",
+			"こいつ……望み通りにはさせないわよ！",
+			"이 자식...... 내 뜻대로는 안 될 거야!",
+			null,
+			null,
+			"This guy...I'm not going to let you get away with this!",
+			"This guy ...... won't give you what you want!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305314,
+			"*Click*",
+			"咔！",
+			"カチッ！",
+			"찰칵!",
+			null,
+			null,
+			"Click!",
+			"Click!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			305315,
+			"*Boom!!!*",
+			"轰隆隆！！！",
+			"ドオオン！！！",
+			"두오온!!!",
+			null,
+			null,
+			"Rumble!!!",
+			"D'ohon!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305316,
+			"Aghhhh!!! Do you want to scare me to death, Seele?!",
+			"呜哇！！！希儿你是要吓死我么！",
+			"うわっ！！ゼーレ、早いよ！！！",
+			"우왁!!제레, 빨라요!!!",
+			null,
+			null,
+			"Woohoo!!! Hill are you trying to scare me to death!",
+			"Whoa! Seele, you're early!"
+		],
+		[
+			"msg",
+			305317,
+			"Cough... Smoke everywhere... That was ridiculous...",
+			"咳咳…都是烟雾…实在是太乱来了……",
+			"ゴホッ、ゴホッ……土ぼこりが……めちゃくちゃね。",
+			"콜록, 콜록…… 먼지가…… 엄청나네.",
+			null,
+			null,
+			"Ahem...it's all smoke...it's just so messed up ......",
+			"Gosh, gosh ...... the dust is ...... a mess."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305318,
+			"Boo-hoo...",
+			"呜呜呜~",
+			"ウウゥ……。",
+			"우우우…….",
+			null,
+			null,
+			"Wooooooooo~",
+			"Uuuh. ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305319,
+			"Argh! What is that sound?",
+			"咕！这，这是什么声音。",
+			"な、何！これ何の音！？",
+			"뭐, 뭐야! 이게 무슨 소리야!?",
+			null,
+			null,
+			"Goo! This, what is this sound.",
+			"Hey, what! What is that sound!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305320,
+			"I... hate... you...",
+			"好恨啊…好恨啊……",
+			"ウゥ……ウゥ……。",
+			"우우…… 우우…….",
+			null,
+			null,
+			"So hateful...so hateful ......",
+			"Uu...... uu......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305321,
+			"A Houkai creature...?",
+			"难道是崩坏生物么……",
+			"まさか崩壊生物……。",
+			"설마 붕괴 생물…….",
+			null,
+			null,
+			"Is it a collapsed creature ......",
+			"No way, disintegrating organisms. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305322,
+			"I hate you!!!",
+			"好恨啊！！！",
+			"ワーーーッ！！",
+			"와아아악!!",
+			null,
+			null,
+			"So hateful!!!",
+			"Whoooaaa!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305323,
+			"Eek...",
+			"咕……",
+			"……。",
+			"…….",
+			null,
+			null,
+			"Goo ......",
+			"......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305324,
+			"Eh? It doesn't seem to be as fearsome as it sounded...",
+			"嗯？反应好弱，好像没有那么害怕嘛~",
+			"あれ？反応がない。そんなに怖くなかったのかしら？",
+			"어라? 반응이 없어. 그렇게 무섭지 않았던 걸까?",
+			null,
+			null,
+			"What? The reaction is so weak, it seems not so scared ~",
+			"Huh? No reaction. I wonder if he wasn't that scared?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305325,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305326,
+			"Oh... It actually has fainted while still standing there.",
+			"啊…原来是站着晕倒了。",
+			"あ……立ったまま気絶してる。",
+			"아... 서 있는 채로 기절했어.",
+			null,
+			null,
+			"Ah...so it was standing and fainting.",
+			"Oh ...... I'm passed out standing up."
+		]
+	],
+	"1035": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305327,
+			"I found a strange name pin...",
+			"捡到了奇怪的名牌……",
+			"奇妙な名札を拾った。",
+			"이상한 명패를 주웠다.",
+			null,
+			null,
+			"Picked up a strange name tag ......",
+			"I picked up a strange name tag."
+		]
+	]
+}

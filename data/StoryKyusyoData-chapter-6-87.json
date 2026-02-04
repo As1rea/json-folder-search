@@ -1,0 +1,652 @@
+{
+	"1341": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV15_WindWooshB"
+		],
+		[
+			"msg",
+			308361,
+			"I am a little bit tired…let's have a break here.",
+			"稍微有些累了呢…我们先在这里休息一下吧。",
+			"少し疲れたわ……ここでしばらく休みましょう。",
+			"좀 피곤해…… 여기서 잠시 쉬자.",
+			"I'm a little tired... Let's take a break here.",
+			null,
+			"I'm a little tired...let's take a break here.",
+			"I'm a little tired. ...... Let's rest here for a while."
+		],
+		[
+			"msg",
+			308362,
+			"Woo…Kyushou, what are doing on the stones?",
+			"唔…九霄，你在石头上弄些什么呢？",
+			"……うん？九霄、石の上で何をしてるの？",
+			"……음? 큐쇼, 돌 위에서 뭐 하는 거야?",
+			"....Kyuushou, what are you doing with that stone?",
+			null,
+			"Well...Kyuushou, what are you doing on the stone?",
+			"...... Yeah? Kyuushou, what are you doing on the stone?"
+		],
+		[
+			"choice",
+			[
+				309291,
+				"Marking, is the way Himeko taught me.",
+				"标记，是姬子教我的方法。",
+				"マーカーは姫子に教わった方法だから。",
+				"마커는 히메코에게 배운 방법이니까.",
+				null
+			],
+			[
+				309311,
+				"Marking, can prevent us to be lost.",
+				"标记，可以防止我们迷路。",
+				"マーカーは迷子になることを防げるから。",
+				"마커는 길을 잃는 걸 방지할 수 있으니까.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1342,
+			1343
+		]
+	],
+	"1342": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308363,
+			"Oh…you learned a lot after joining Grey Moth,",
+			"是么…看来你加入灰蛾部队之后学到了很多东西嘛，",
+			"そう……灰蛾部隊でいろいろ学んだのね。",
+			"그래…… 회아 부대에서 여러 가지 배웠구나.",
+			null,
+			null,
+			"Well...you seem to have learned a lot since you joined the Grey Moths.",
+			"So ...... you learned a lot in the Ash Moth Unit."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1344
+		]
+	],
+	"1343": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308364,
+			"Oh…I remember Himeko has used the same method, so you learned a lot after joining Grey Moth.",
+			"是么…记得之前姬子也用过这样的方法呢，看来你加入灰蛾部队之后学到了很多东西嘛。",
+			"そう……昔、姫子もそういう方法を使ったのね。どうやら、灰蛾部隊でいろいろと学んだようね。",
+			"그래…… 예전에 히메코도 그런 방법을 썼던 거네. 어떻게 보면, 회아 부대에서 여러 가지 배운 모양이네.",
+			null,
+			null,
+			"I remember Himeko also used this method before, it seems that you have learned a lot since you joined the Grey Moth Force.",
+			"So ...... Himeko used that method a long time ago. Apparently, she learned a lot in the Ash Moth Unit."
+		],
+		[
+			"msg",
+			308365,
+			"Himko is very good at fighting against Honkai, if she's still here……",
+			"姬子在对抗崩坏这方面的确有很多过人之处，如果她还在的话……",
+			"姫子は、対崩壊戦という領域で確かに優れていたわ。もし、彼女がまだいてくれてたら……。",
+			"히메코는, 대붕괴전이라는 영역에서 확실히 뛰어났어. 만약, 그녀가 아직 남아있어줬더라면…….",
+			"Himeko certainly excelled in fighting back against the Honkai. If only she were still around......",
+			null,
+			"Himeko does have a lot to offer in terms of fighting collapse, if she is still around ......",
+			"Himeko certainly excelled in the realm of counter-collapse warfare. If only she were still around. ......"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1344
+		]
+	],
+	"1344": [
+		[
+			"speaker",
+			204585
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308366,
+			"Hey! What are you whispering about?",
+			"喂！你们在说什么悄悄话呢？",
+			"おいおい！何、こそこそやってるんだ？",
+			"야야! 뭐, 슬쩍슬쩍 하는 거야?",
+			null,
+			null,
+			"Hey! What are you whispering about?",
+			"Hey, hey, hey! What are you doing sneaking around?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308367,
+			"No…nothing. You are not tired, jump around so much, I feel tired even when look at you.",
+			"不…没什么。话说杏你不累么，从刚才开始就总是上蹿下跳的，看的都觉得吃力。",
+			"いえ……何でもないわ。ところでシン、疲れないの？さっきからピョンピョン跳んだりして、こっちは見てるだけで疲れるんだけど。",
+			"아니… 아무것도 아니야. 그런데 신, 안 힘들어? 계속 펄쩍펄쩍 뛰어다니는 거 보니까 나는 보기만 해도 힘든데.",
+			"....It's nothing. By the way, aren't you tired? You've been jumping around for a while now. Just watching you is making me tired.",
+			null,
+			"No...it's nothing. That said, apricot you are not tired, from just now on always jumping up and down, watching are feeling strained.",
+			"No, ...... it's nothing. By the way, Shin, aren't you tired? You've been jumping up and down since a while ago, and I'm getting tired just looking at you."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				67,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308368,
+			"Huh, don't compare me with you.",
+			"哼，别把我和你这种废物相提并论。",
+			"ふん、お前みたいな軟弱者と一緒にすんなよな！",
+			"흥, 너 같은 약골이랑 같이 있으라니!",
+			"Heh, don't compare me to a weakling like you.",
+			null,
+			"Heck, don't compare me to a loser like you.",
+			"Hmmm, don't put me with a softy like you!"
+		],
+		[
+			"msg",
+			308369,
+			"By the way the Herrscher core really spend a lot, isn't its goal to kill Kyushou and occupy her body, why she takes so many efforts to build Nagazora?",
+			"话说那颗律者核心还真是舍得下血本呢，它的目的不是杀死九霄占据九霄的身体么，费这么大功夫造个长空市干什么？",
+			"そういえば、あの律者コアも面倒くさいことするよな。コアの目的は、九霄を殺して身体を奪うことだろ？こんな長空市まで作って、いったい何がしたいんだ？",
+			"그러고 보니까, 그 율자 코어도 참 귀찮게 구는구만. 코어의 목적은 큐쇼를 죽여서 몸을 빼앗는 거잖아? 이렇게 창공시까지 만들어 댄 대체 뭘 하고 싶은 거지?",
+			"Come to think of it, that herrscher core is really being a pain in the ass. The core's goal is to kill Kyuushou and take over her body, right? What on earth is the purpose of recreating Nagazora like this?",
+			null,
+			"That said, the Ruler core is really willing to pay the blood money, its purpose is not to kill Kyuushou to occupy the body of Kyuushou it, so much effort to create a long air city what?",
+			"Come to think of it, that ritus core can be a pain in the ass, too, can't it? The purpose of the core is to kill Kyuushou and take his body, right? What on earth does he want to do by building such a long-empty city?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308370,
+			"This has not so much to do with second Herrscher core…Stigmata Space is created based on the stigmata Kyushou has, but her body condition is very complicated, so we can't have conclusion now.",
+			"这个其实和第二律者的核心关系不大…圣痕空间的构成是由九霄所拥有的圣痕所决定的，但是九霄的身体情况很复杂，所以一切还没有定论。",
+			"この世界の在り方は、第二律者のコアとはあまり関係ないわ……聖痕空間の構成は九霄が待つ聖痕で決まっているの。けど、九霄の身体ってかなり複雑な状態だから、謎なことには変わりないわね。",
+			"이 세계의 존재 방식은 제2 율자의 코어와는 별 상관없어… 성흔 공간의 구성은 큐쇼가 품은 성흔으로 결정되니까. 하지만 큐쇼의 몸은 꽤 복잡한 상태라서, 여전히 미스테리한 건 변함없지만.",
+			"The state of this world doesn't have much to do with the core of the second Herrscher... The composition of the stigmata space is determined by the stigmata inside Kyuushou. But her body is in a confusing state right now, so a lot of it is still a mystery.",
+			null,
+			"This actually has little to do with the core of the Second Herrscher... The composition of the stigmata space is determined by the stigmata that Kyuushou possesses, but Kyuushou's body situation is very complicated, so everything is still inconclusive.",
+			"The way this world is, it doesn't have much to do with the core of the Second Ruler. ...... The composition of the sacral space is determined by the sacral that Kyuushou waits for. But the body of Kyuushou is in a rather complicated state, so it remains a mystery."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308371,
+			"Huh, the one who create the world must really like it here very much, is she also a interesting person like me?",
+			"哼，不管怎么说创造这个世界的人一定很中意这里吧，难道是和本大爷一样趣味的家伙么！",
+			"ふん、とにかくこの世界を作ったヤツは、きっとここがお気に入りなんだろうな。ひょっとしたら、ボクとおんなじ趣味なのかも？",
+			"흥, 어쨌든 이 세계를 만든 녀석은 분명 여기가 마음에 드는 모양이지. 혹시 나랑 취향이 같은 걸지도?",
+			null,
+			null,
+			"The person who created this world must be very fond of this place anyway, is it a guy who is as interesting as this master!",
+			"Hmmm, whoever created this world must love it here anyway. Maybe he has the same taste as me?"
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308372,
+			"……maybe you're right, the one who create this, must has a deep emotion towards this world, otherwise why she choose sucha a painful era.",
+			"……或许说的对，创造这里的那个人，一定也对这个世界有着某种深刻的感情，不然为什么要选择这么痛苦的时代来作为依托呢。",
+			"……そうかもしれないわね。ここを作った人は、きっとこの世界に何かしらの深い思い入れがあるはずよ。でないと、こんな苦しい世界を選ぶ理由がないもの。",
+			"……그럴지도 모르겠네. 여기를 만든 사람은 분명 이 세상에 어떤 깊은 애착이 있었을 거야. 그렇지 않다면, 이렇게 괴로운 세계를 선택할 이유가 없을 테니까.",
+			null,
+			null,
+			"...... may be right, the one who created this place must also have some kind of deep feelings for this world, otherwise why choose such a painful era to rely on.",
+			"...... Maybe you're right. Whoever created this place must have some deep feelings for this world. Otherwise, there would be no reason to choose such a painful world."
+		],
+		[
+			"msg",
+			308373,
+			"I always want to ask you…do you believe in circle of life?",
+			"其实我一直想请教你们一个问题…你们相信轮回的存在么？",
+			"そういえば、ずっとあなたたちに聞きたかったことがあったの……あなたたち、輪廻って信じる？",
+			"그런데 말이야, 오랫동안 너희에게 물어보고 싶었던 게 있었어…… 너희들, 윤회라는 거 믿어?",
+			"Speaking of which, I've been meaning to ask you two... Do you girls believe in reincarnation?",
+			null,
+			"In fact, I have always wanted to ask you a question...do you believe in the existence of reincarnation?",
+			"Speaking of which, I've been wanting to ask you guys something: ...... Do you guys believe in reincarnation?"
+		],
+		[
+			"choice",
+			[
+				309292,
+				"Believe.",
+				"相信。",
+				"信じる。",
+				"믿어.",
+				"I do."
+			],
+			[
+				309312,
+				"I don't believe.",
+				"不相信。",
+				"信じない。",
+				"믿지 않아.",
+				"I don't."
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1345
+		]
+	],
+	"1345": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308374,
+			"Really…for an antitheist, it's a ridiculous topic.",
+			"是么…对于信奉科学的无神论者来说，轮回的确是一个可笑的话题。",
+			"そう……科学を信じる無神論者からすると、やっぱり輪廻はおかしなものだわ。",
+			"그래…… 과학을 믿는 무신론자 입장에서 보면 역시 윤회는 이상한 개념이지.",
+			"So...... Coming from an atheist who believes in science, reincarnation is a bizarre concept.",
+			null,
+			"Really...for atheists who believe in science, reincarnation is indeed a ridiculous topic.",
+			"So ...... from an atheist who believes in science, reincarnation is still a funny thing."
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308375,
+			"But the more I experienced here the more I changed…is everything here happened before…destroyed us before.",
+			"但是在这个世界中经历的越多就越让我产生动摇…这里的一切是否真的就是曾经发生的事情…是否真的就是一度毁灭的我们。",
+			"でも、この世界で様々なことを経験するほど疑問が生まれてくるの……ここであったことは、かつて実際にあったことなのかもって……もしかしたら、一度滅びる運命を辿った私たちなのかなって……。",
+			"하지만 이 세상에서 다양한 일들을 경험할수록 의문이 들기 시작해…… 여기서 있었던 일들이 예전에 실제로 일어났던 일일지도 모른다고…… 어쩌면 한 번 멸망했던 운명을 겪은 우리들이 아닐까 하고……",
+			"But the more I experience things in this world, the more I wonder if ...... what happened here is what actually happened once. ...... Maybe we were once doomed to perish. I wonder if we are all doomed to perish once .......",
+			null,
+			"But the more I experience in this world, the more I am shaken...whether everything here is really what happened...whether it is really what destroyed us at one time.",
+			"But the more I experience things in this world, the more I wonder if ...... what happened here is what actually happened once. ...... Maybe we were once doomed to perish. I wonder if we are all doomed to perish once ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				67,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			308376,
+			"You're really into all kinds of complicated thing…but they are all gone now, why bother.",
+			"你这家伙还真是喜欢想这种复杂的事情啊…既然都是已经是过去的事情了，有什么好纠结的。",
+			"そーいう複雑なことを考えるの、お前好きだよなぁ……もう過去の出来事なんだろ、これ以上考えてどうすんだよ。",
+			"그런 복잡한 생각하는 거, 너 좋아하잖아…… 이미 지나간 일인데, 더 생각해봤자 소용없을 텐데.",
+			"You really love to think about complicated things.... It's already in the past, what's the point on continuing to dwell on it?",
+			null,
+			"You guys really like to think about such complicated things ah ... since it is already in the past, what is there to dwell on.",
+			"I love it when you think about complicated things like that. ...... It's already in the past, what's the point of thinking about it any more?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				false
+			],
+			[
+				67,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			308377,
+			"But if all these happen again……",
+			"但是如果这样的事情再次发生的话……",
+			"でも、もし同じことがまた起きたら……。",
+			"그래도, 만약 같은 일이 또 일어난다면…….",
+			null,
+			null,
+			"But if such a thing happens again ......",
+			"But if the same thing happens again, please contact ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308378,
+			"Don't let it happen.",
+			"不让它发生不就行了。",
+			"阻止すりゃいいだろ。",
+			"저지하면 되는 거 아냐?",
+			"Just prevent it, then.",
+			null,
+			"Just don't let it happen.",
+			"Why don't you just stop them?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308379,
+			"No…it's not that easy.",
+			"不…所以说不是这么简单的问题。",
+			"いや……だから、そういう簡単な問題じゃないのよ。",
+			"아니……그러니까, 그런 간단한 문제가 아니라고.",
+			"No.... That's... Not really what I was asking.",
+			null,
+			"No...so it's not such a simple question.",
+			"No, it's ......, so it's not that simple a question."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308380,
+			"You always make it so complicated, don't you have headache?",
+			"是你这家伙总是把事情想的太复杂啦，每次想这么多不头疼么？",
+			"お前は複雑に考えすぎなんだって。毎回そんなんで、頭痛くなんないのか？",
+			"너는 복잡하게 생각 너무 많이 한다니까. 매번 그런 식으로, 두통 안 생겨?",
+			"You always overcomplicate things. Don't you ever get a headache from that?",
+			null,
+			"It's you guys always think things are too complicated, every time you think so much do not have a headache?",
+			"You are overcomplicating things. Don't you get a headache every time you do that?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308381,
+			"Ah…you're right, I won't have a conclusion by discussing with you about these…Kyushou you too, forget about my words, you must be confused.",
+			"哎…说的也是，和你讨论这些果然是不会有结果的…九霄也是，忘了我这些话吧，你也一定一头雾水吧。",
+			"はぁ、そうよね、こんな話をしてもどうしようもないわね……九霄も忘れてちょうだい。きっと、訳がわからないものね。",
+			"하아, 그래, 이런 이야기를 해봐야 소용없지……큐쇼도 잊어줘. 분명, 이해할 수 없는 거겠죠.",
+			"...I guess I should have expected a response like that from you. Kyuushou, you can forget about it too. It's probably too confusing for you too.",
+			null,
+			"Hey ... said also, and you discuss these really will not be fruitful ... Kyuushou is also, forget me these words, you must also be confused, right.",
+			"Huh, I know, I can't help talking about this ......9xiao, forget about it. I'm sure it doesn't make sense."
+		],
+		[
+			"msg",
+			308382,
+			"Huh~enough rest, let's go, hope the next stop will be the destination.",
+			"呼~也休息的差不多了，我们出发吧，希望下一站将会是终点呢。",
+			"ふぅ、そろそろ出発しましょう。次が目的地だといいんだけど。",
+			"후우, 이제 곧 출발하죠. 다음이 목적지라면 좋겠는데.",
+			"We've rested enough, let's get going. Hopefully the next stop is our last.",
+			null,
+			"Phew ~ also rested almost, let's go, hopefully the next stop will be the end of it.",
+			"Whew, it's time to get going. Hopefully the next stop is our destination."
+		]
+	]
+}

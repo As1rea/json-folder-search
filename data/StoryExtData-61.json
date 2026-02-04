@@ -1,0 +1,2989 @@
+{
+	"610": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				106,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135101,
+			"Oh!",
+			"唔……",
+			"うっ……。",
+			"윽…….",
+			"Ugh..."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				106,
+				0,
+				true
+			],
+			[
+				402,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			135102,
+			"You need more exercise and tests!",
+			"大小姐，你的技艺还需要多磨练啊。",
+			"お嬢様、まだまだ修行が足りないようですね。",
+			"아가씨, 아직도 수양이 부족한 모양이네요.",
+			"My lady, it seems you still have a lot to learn."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				106,
+				0,
+				false
+			],
+			[
+				402,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135103,
+			"Damn it!",
+			"可恶！",
+			"負けたぁぁ！！",
+			"졌어어어!!",
+			"I looossst!!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				205,
+				0,
+				false
+			],
+			[
+				402,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135104,
+			"Are you alright? Kiana Sama!",
+			"琪亚娜殿下……你没事吧……",
+			"キアナ様……大丈夫ですか……？",
+			"키아나님... 괜찮으세요...?",
+			"Lady Kiana... are you okay...?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				205,
+				0,
+				true
+			],
+			[
+				402,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			135105,
+			"She will be ok!",
+			"她没事的，我出手还是留了几分力的。",
+			"大丈夫よ。手加減しておいたから。",
+			"괜찮아. 살짝 봐줬으니까.",
+			"It's okay. I went easy on her."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				106,
+				0,
+				false
+			],
+			[
+				402,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135106,
+			"Major Himeko, I don't like Kevin. Mei is my only one I love.",
+			"姬子中尉，难道你就这么想拆散一对有情人吗？我根本就不喜欢凯文，我喜欢的只有芽衣一个！",
+			"姫子中尉、そんなに恋人との仲を引き裂きたいの？私はケビンなんか嫌いなの、嫌いなの！私が好きなのは芽衣だけ！",
+			"히메코 중위, 그렇게 연인 사이를 갈라놓고 싶어요? 난 케빈 같은 거 싫어, 싫어! 내가 좋아하는 건 메이뿐이야!",
+			"Colonel Himeko, do you really want to break us up that badly? I hate Kevin, I hate him! The only person I love is Mei!"
+		],
+		[
+			"msg",
+			135107,
+			"Even if you win and take me back, I'll still run away. No matter what, my marriage will not be controlled by others!",
+			"就算你赢了我，把我带了回去，我还是会继续逃婚，无论如何，我琪亚娜的婚姻都不会由其他人来操纵的！",
+			"ここで負けて連れ戻されても、結婚から逃げ続けるから。何があっても、キアナの結婚を他人に勝手に決めさせやしないから！",
+			"여기서 져서 끌려가더라도, 결혼에서 계속 도망칠 거야. 무슨 일이 있어도 키아나의 결혼을 남들이 함부로 결정하게 두지 않을 거야!",
+			"Even if I lose here and am taken back, I'll just continue to run away from the marriage. No matter what happens, I, Kiana, will not let others decide my marriage on their own!"
+		],
+		[
+			"msg",
+			135108,
+			"Hmmmm",
+			"来吧！把我带走吧！",
+			"さぁ！連れて帰りなさいよ！",
+			"자! 데려가 보시지!",
+			"Come on! Take me away!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				205,
+				0,
+				false
+			],
+			[
+				402,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135109,
+			"Sama…",
+			"殿下……",
+			"キアナ様……。",
+			"키아나님....",
+			"Lady Kiana..."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				205,
+				0,
+				true
+			],
+			[
+				402,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			135110,
+			"Okay….You go! We haven't met each other.",
+			"大小姐，你又何苦为难我……算了……你们走吧！",
+			"お嬢様……どうして、そんなに私を困らせるんですか？はぁ……仕方ないですね……では、お逃げなさい！",
+			"아가씨... 왜 그렇게 나를 곤란하게 만드시는 거예요? 하아... 어쩔 수 없네요... 그럼, 도망치세요!",
+			"My Lady... Why are you causing me so much trouble? Ah... forget it... Well then, run away!"
+		],
+		[
+			"msg",
+			135111,
+			"Because I was your teacher!",
+			"谁叫我曾经是你的老师……既然你要疯，那我就陪着你一起疯好了！",
+			"かつてはあなたに先生と呼ばれたんですもの……！あなたが道を踏み外すというなら、私もお付き合いしましょう！",
+			"예전엔 당신에게 선생님이라 불렸던 몸이에요...! 당신이 길을 잘못 든다면, 나도 함께 하겠습니다!",
+			"You once called me your teacher! If you're going to stray from the path, then I'll join you!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				205,
+				0,
+				false
+			],
+			[
+				402,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135112,
+			"We all cannot leave now. The ships were trapped in the vortex. We will die.",
+			"哎…怕是我们都走不了了，船都被漩涡困住了，我们都会死在这里。",
+			"あぁ……これ以上は進めません。船が渦に巻き込まれてしまいました。私たちもここでおしまいです……。",
+			"아아…… 이 이상은 갈 수 없어. 배가 소용돌이에 휩쓸렸어. 우리도 여기서 끝인 것 같아……",
+			"Ahh... We can't go any further. The ship has been caught in a whirlpool. This is the end for us..."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				205,
+				0,
+				true
+			],
+			[
+				402,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			135113,
+			"You see, there are something in the vortex center!",
+			"你们看，漩涡中心好像有东西！",
+			"見て！渦の中心に何かあるみたい！",
+			"봐! 소용돌이 한가운데에 뭔가 있는 것 같아!",
+			"Look! There seems to be something at the center of the vortex!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				106,
+				0,
+				false
+			],
+			[
+				402,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135114,
+			"Is this…",
+			"这个难道就是传说中的……",
+			"それって……伝説の……？",
+			"그거…… 전설 속의……?",
+			"Is that... the legendary...?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				205,
+				0,
+				false
+			],
+			[
+				402,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135115,
+			"Elfin Forest!?",
+			"妖精之森！？",
+			"妖精の森！？",
+			"요정의 숲!?",
+			"——Fairy Forest?!"
+		]
+	],
+	"611": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				106,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135116,
+			"We found the treasure. But it does not belong to us.",
+			"没想到我们发现了宝藏图，找到了宝藏，最后得到宝藏的人却是一直在追逐我们的人。",
+			"宝の地図でついに探し当てた宝物のひとつが、ずっと私たちを追ってきた敵だったなんてね。",
+			"보물 지도로 결국 찾아낸 보물 중 하나가, 계속 우리를 쫓아온 적이었다니.",
+			"Who would have thought that the one to find the treasure on our treasure map was our enemy who's been pursuing us this whole time?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				106,
+				0,
+				true
+			],
+			[
+				402,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			135117,
+			"I'm in your team now.",
+			"说什么呢，我现在不是已经算是和你们一伙的了么？",
+			"何を言ってるんですか。今はもうあなたたちの一味でしょ？",
+			"무슨 소리야. 지금은 이미 너희 편이잖아?",
+			"What are you talking about? I'm part of your crew now, right?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				205,
+				0,
+				false
+			],
+			[
+				402,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135118,
+			"Is Major Himeko really willing to help us?",
+			"姬子中尉真的愿意帮助我们吗？",
+			"姫子中尉は本当に私たちを助けてくれるんですか？",
+			"히메코 중위는 정말 우리를 도와줄 건가요?",
+			"Are you really going to help us, Colonel Himeko?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				205,
+				0,
+				true
+			],
+			[
+				402,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			135119,
+			"To be honest, I also think the royal family has a lot of rules that are hard to understand. But I never wanted to change it before.",
+			"说实话，我也觉得这个皇室有很多的规矩有些难以理解，但是我以前却从来没有想过要改变她，或许哲♂学真的是一个很神奇的东西也说不定。",
+			"実を言うと、王室のしきたりは私も理解できなかった。でも、これまで変えようと思ったことはなかった。もしかしたら妖精哲学には本当に不思議な力があるのかもね。",
+			"사실을 말하자면, 왕실의 관습은 나도 이해할 수 없었어. 하지만 지금까지 바꿀 생각은 없었지. 어쩌면 요정 철학에는 정말 신비한 힘이 있는 걸지도.",
+			"To tell the truth, I never understood the royal customs, but I never thought of going against them. Maybe fairy philosophy really does have some magical powers."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				106,
+				0,
+				false
+			],
+			[
+				402,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135120,
+			"Major Himeko. Welcome to join the great Homu Pirate!",
+			"既然这样的话，姬子中尉，欢迎你加入伟大的吼姆海盗团，成为我白胡子手下的一员。",
+			"それでは姫子中尉、偉大なホム海賊団にようこそ。この白髪の手下に迎え入れましょう。",
+			"그럼 히메코 중위, 위대한 호무 해적단에 어서 오세요. 이 백발의 부하로 맞이하겠습니다.",
+			"In that case, Colonel Himeko, you are welcome to join the great Homu Pirates and become a member of my, Whitelocks' crew."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				106,
+				0,
+				true
+			],
+			[
+				402,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			135121,
+			"Hey hey hey hey hey!",
+			"当然，我还是觉得伊丽莎白•魅•安塔利亚•伤梦薰魅•海瑟薇这个名字更好听一些。",
+			"やっぱり海賊名は、エリザベス・K・R・アンタリア・シャーマンクイーン・ハサウェイのほうがいいと思うわ。",
+			"역시 해적 이름은, 엘리자베스·K·R·안타리아·샤먼퀸·하사웨이 쪽이 더 좋을 것 같아.",
+			"I think my pirate name I gave you would be better: Elizabeth K. R. Antalia Sherman Queen Hathaway."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				106,
+				0,
+				false
+			],
+			[
+				402,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135122,
+			"Let's go! Let us blow the trumpet of counter-attack and free all love!",
+			"走咯，让我们吹响反攻的号角，让哲♂学的光芒照亮王国的每一处，让所有的爱情都自由，哲♂学领导人民！",
+			"いざ行かん！反撃のラッパを吹き鳴らし、妖精哲学の光で王国を隅々まで照らしだそう。すべての愛を自由にし、妖精哲学で人々を導こう！",
+			"자, 가자! 반격의 나팔을 울려 펴요, 요정 철학의 빛으로 왕국 구석구석을 비추자. 모든 사랑을 자유롭게 하고, 요정 철학으로 사람들을 이끌자!",
+			"Let's go! Let's sound the trumpet of counterattack and illuminate every corner of the kingdom with the light of fairy philosophy. Let's free all love and guide the people with fairy philosophy!"
+		],
+		[
+			"msg",
+			135123,
+			"PIRATE!",
+			"海盗！",
+			"海賊！",
+			"해적!",
+			"PIRATES!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				106,
+				0,
+				true
+			],
+			[
+				402,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			135124,
+			"OHHHH!",
+			"呀吼！",
+			"ヤッホー！",
+			"야호!",
+			"Arrgghh!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				205,
+				0,
+				false
+			],
+			[
+				402,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			135125,
+			"It was always felt that the Pirate would be disbanded within a week.",
+			"总感觉这个海盗团不超过一个星期就要解散了……太危险了……",
+			"この海賊団、一週間もせずに解散しそうな気がするわ。危険すぎるもの……。",
+			"이 해적단, 일주일도 안 가서 해체될 것 같은 느낌이야. 너무 위험해...",
+			"I have a feeling this pirate group will disband within a week... It's too dangerous..."
+		]
+	],
+	"612": [
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59761,
+			"The final is coming, are you ready?",
+			"各位，理论考试的日子马上就要到了，做好准备了么。",
+			"あんたたち、もうすぐ理論試験があるけど準備できているのかしら。",
+			"너희들, 이론 시험이 곧 있는데 준비는 다 됐어?",
+			"You guys have your theory exam soon, are you ready?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59762,
+			"Final exam? Is that Valkyrie test?! I'm so excited~",
+			"考试？难道是女武神测试么！看来又能活动一下筋骨了~",
+			"試験？…それって戦乙女の試験！？久しぶりに体を動かせそうだね。",
+			"시험?… 그거 전투처녀 시험!? 오랜만에 몸을 움직일 수 있을 것 같네.",
+			"A test? ...A Valkyrie test?! It's been a while since I've been able to move my body."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59763,
+			"Kiana, relax~ It's about some theoretical knowledge~",
+			"琪亚娜，理论考试可不是舞刀弄枪的测试哦~而是检验我们对于理论知识的掌握程度~",
+			"キアナちゃん、理論試験は実技試験と違って、理論をどれだけ理解しているかのテストよ。",
+			"키아나, 이론 시험은 실기 시험과 달리 이론을 얼마나 이해하고 있는지에 대한 시험이야.",
+			"Kiana-chan, the theory exam is not a combat test. It is a test of our mastery of theoretical knowledge~"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59764,
+			"What's that?",
+			"那是啥？",
+			"何それ？",
+			"그게 뭐야?",
+			null
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59765,
+			"Errr… We are studying in a high school~ You need to read texxtbooks~",
+			"呃…琪亚娜你好歹也是青春的高中生啦~高中课本上的内容就是理论考试的试题哦~",
+			"私たちの年齢だと、高校の教科書に書いてあることが出題されるの。",
+			"우리 나이에는 고등학교 교과서에 나오는 내용이 시험에 나오는 거예요.",
+			"Uh... Kiana, we're still high school students. The content in the high school textbook is the test questions for the theoretical exam."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59766,
+			"…… Does this mean it's a written examination?!",
+			"……也就是说，是那种意义上的考试么？",
+			"…つまり、勉強とかそっちのテストってこと？",
+			"…즉, 공부나 그런 시험이라는 거야?",
+			null
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59767,
+			"Hehe~ Yes, you are right~ And all questions were made by me~ Good luck~",
+			"呵呵~猜对了~而且这次可是我亲自出题哦~不要有什么侥幸心理。",
+			"そうよ。それで今回のテストなんだけど…私が作問したわ。安心して、しっかり授業を聞いていれば答えられる内容だから。",
+			"그래. 그런데 이번 시험 말이야… 내가 출제했어. 안심해, 수업을 열심히 들었다면 답할 수 있는 내용이니까.",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59768,
+			"Wait a second! I don't know we need to learn that! By the way, we don't have that class!",
+			"等等！之前可没说过女武神要考这些啊！而且理论知识什么的根本没教过吧！",
+			"ちょっと待って！戦乙女がテストを受けるなんて聞いてない！それに、学校で習うようなことも教えてもらってないわ！",
+			"잠깐만! 발키리가 시험을 본다니 듣도 못했어! 게다가 학교에서 배우는 것 같은 것도 가르쳐 준 적도 없잖아!",
+			"Wait a minute! I never heard of Valkyries taking tests! And you never taught me anything like that in class!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59769,
+			"That's because you never went to class… Anyway, you still have one week to prepare for it~",
+			"那是因为理论课你都在睡觉。总之，考试就在一个星期后~加油吧！",
+			"あんたは授業中寝てたじゃない。とにかく、テストは1週間後よ。頑張ってちょうだい。",
+			"너 수업 중에 자고 있었잖아. 어쨌든, 시험은 1주일 후야. 열심히 해 줘.",
+			"That's because you were sleeping in class. Anyway, the test is in a week. Good luck!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59770,
+			"No! I reject that! I give up!",
+			"不！我拒绝！我要弃权！",
+			"嫌だ！断る！棄権する！",
+			"싫어! 거절한다! 기권한다!",
+			null
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59771,
+			"Oh, forgot to tell you, you won't graduate if you can't pass the exam~",
+			"另外如果理论考试不及格的话……可是会留级的哦~",
+			"棄権したら自動的に0点扱いよ。それにもし理論試験で赤点を取ったら…キアナは留年する可能性が出てくるわね。",
+			"기권하면 자동으로 0점 처리야. 거기에 만약 이론 시험에서 낙제점을 받으면…키아나는 유급할 가능성이 생길 거야.",
+			"If you withdraw, you will automatically get a zero. And if you fail the theory exam, there's a chance that you'll have to repeat the year."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59772,
+			"So… Maybe Bronya can be Kiana's elder sister in school?",
+			"留级，以后布洛妮娅可以成为琪亚娜的学姐么？",
+			"キアナが留年を繰り返したら、いつかブローニャの方がお姉さんになるかもしれませんね。",
+			"키아나가 학년을 반복하면, 언젠가 브로냐 쪽이 언니가 될지도 모르겠네요.",
+			"If Kiana keeps repeating the same grade, maybe one day Bronya will become her senior."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59773,
+			"No! I can't accept that!",
+			"不！只有这个不能接受！",
+			"うっ…そんなのは絶対にイヤ！それだけは受け入れられない！",
+			"으… 그런 건 절대 싫어! 그건 절대 받아들일 수 없어!",
+			null
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59774,
+			"I think you should get some trainings and you will be as smart as I am!",
+			"看来只能给琪亚娜特训了呢~来吧！马上你就会变得和我一样聪明了哦！",
+			"留年が嫌なら特別授業が必要ね。大丈夫よ、キアナちゃんならすぐに満点がとれるようになるわ。",
+			"유급이 싫다면 특별 수업이 필요하겠네. 괜찮아, 키아나이라면 금방 만점을 받을 수 있게 될 거야.",
+			"If you don't want to repeat the year, you'll need extra classes. Don't worry, you'll be able to get perfect scores in no time."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59775,
+			"Alright…",
+			"咕……好吧……",
+			"うぅ…わかった…",
+			"으음… 알겠어…",
+			"Ugh... fine..."
+		]
+	],
+	"613": [
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59776,
+			"So, let's do liberal arts first, let's review \"The Analects of Confucius\" and \"Tao Teh Ching\".",
+			"那么，首先来做文科的补习吧，琪亚娜我们来复习《论语》和《道德经》吧。",
+			"じゃあ、まずは文系科目の補修から始めましょうか。内容は…「論語」と「道徳教」から。",
+			"그럼, 먼저 문과 과목 보충 수업부터 시작해 볼까요. 내용은...「논어」와 「도덕 교육」에서.",
+			"Well, let's start by reviewing liberal arts. The contents are... \"The Analects of Confucius\" and \"The Moral Teachings\"."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59777,
+			"Wait a second! I thought we should learn some languages for it…",
+			"等等！文科不是学语言么！和这个有关系么！",
+			"えっ！文系科目って言葉を学ぶんだよね？それと何の関係があるの？",
+			"엣! 문과 과목이라는 게 말을 배우는 거잖아? 그게 무슨 상관이 있는 거야?",
+			"Huh?! Liberal arts is about learning languages, right? What does that have to do with it?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59778,
+			"Learning languages is not enough, we also need to learn the philosophy~",
+			"嗯哼~光会语言可是没用的呢，要学到语言中包含的哲理才行~",
+			"言葉を知っているだけではダメなの。より深く、その言葉に込められた意味や「哲学」を学ばなければならないわ。",
+			"단어를 아는 것만으로는 안 돼. 더 깊이, 그 단어에 담긴 의미나 「철학」을 배워야 해.",
+			"It's not enough to just know the words. You have to go deeper and learn the meaning and \"philosophy\" behind those words."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59779,
+			"But I'm a foreigner, not like others!",
+			"虽然我的画风和大家一样，但是我可是外国人哦！",
+			"そんなこと言われても…私は外国人なんだよ！",
+			"그런 말을 해도… 나는 외국인이라고!",
+			null
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59780,
+			"Nevermind, in designers' setting, Bronya and me are both foreigners~",
+			"没关系啦~按设定来说我和布洛妮娅也都是外国人~",
+			"ブローニャちゃんも同じよ？",
+			"브로냐도 똑같아?",
+			"It doesn't matter~ According to the setting, Bronya is also a foreigner~"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59781,
+			"But in settings we all speak Japanese!",
+			"但是按设定我们说的都是日语吧！",
+			"でも、設定だと最初から日本語を話してるはずだよね。",
+			"근데, 설정상으로는 처음부터 일본어를 할 텐데 그렇지?",
+			"But according to the setting, we all speak Japanese!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59782,
+			"Forget about it~",
+			"不要在意啦~",
+			"そんなこと言ってると、またほーむすちゃんに怒られちゃうわよ？",
+			"그런 말 하다간, 또 호무스 쨩한테 혼나겠다니까?",
+			"Don't mind the details~"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59783,
+			"Master said: \"Learning and perseverance and not also said that peace?\"",
+			"子曰：学而时习之，不亦说乎？",
+			"子曰く、学びて時に之を習う、またよろこばしからずや。",
+			"공자께서 말씀하셨다. 배우고 때때로 익히면 또한 기쁘지 아니한가?",
+			"Master said, \"Is it not a joy to learn and to practice it in due time?\""
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59784,
+			"Look~ Bronya is studying hard. You can do that too~",
+			"你看~布洛妮娅都学的这么认真，琪亚娜你也可以做到的啦~",
+			"見て、キアナちゃん。ブローニャちゃんもちゃんとお勉強しているわ。キアナちゃんもできるでしょう？",
+			"봐, 키아나. 브로냐도 열심히 공부하고 있어. 키아나도 할 수 있겠지?",
+			"Look, Kiana-chan. Bronya-chan is studying hard too. You can do it too, right?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59785,
+			"Master… That's too hard for me! I give up!",
+			"子…日？吱吱…为…吱吱…啊！这么难读！我不学啦！",
+			"——し…にちく？まなびてときに…あー！難しい！どうせこんなの勉強しても、将来絶対役に立たないのに！",
+			"——시… 니축? 배울 때에… 아! 어려워! 어차피 이런 거 공부해도, 미래에 절대 쓸모 없을 텐데!",
+			"——Master...? But even when I try to learn it... Agh! It's too difficult! Even if I study this, it will never be useful in the future!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59786,
+			"Hoho, so does this mean you don't want to graduate?",
+			"嚯嚯…这么说琪亚娜是想要留级么？",
+			"キアナちゃんはこのクラスに残ってもいいの？",
+			"키아나 쨩이 이 반에 남아도 돼?",
+			"Hoho... So does this mean you want to repeat a grade?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59787,
+			"No… I think we should learn some useful skills, like how to fight with zombies…",
+			"不…我觉得我们应该学习一些更有用的东西，比如战斗技巧之类的…",
+			"それは…だって、もっと役に立つことを学ぶべきだと思うんだ。戦闘技術とか…",
+			"그건... 왜냐하면, 더 유용한 걸 배워야 한다고 생각해. 전투 기술 같은 거...",
+			"No, I just... I think I should learn something more useful. Like combat techniques..."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59788,
+			"Kiana, I we are elite Valkyrie! We need to know everything!",
+			"琪亚娜，我们可是对抗崩坏的精英女武神！需要德智体全面发展才行！只是肌肉发达头脑简单的话是无法与崩坏对抗的！你想想看如果与律者战斗时候因为语言不通而听不懂她在讲什么的话可是很危险的！",
+			"キアナちゃんはS級戦乙女になりたいのよね？そうしたら、体や技だけじゃなくて、総合的な能力も鍛えておかないと、大事な時に何をするべきか迷ってしまうわ。考えてみて、言葉の壁で律者やまわりの仲間が何を言っているのか分からないと、より危険な目に遭ってしまうかもしれないのよ。",
+			"키아나은 S급 전처녀가 되고 싶지? 그렇다면 몸이나 기술뿐만 아니라 종합적인 능력도 단련해두지 않으면, 중요한 순간에 무엇을 해야 할지 망설이게 될 거야. 생각해봐, 언어 장벽 때문에 율자나 주변 동료들이 무슨 말을 하는지 이해하지 못하면, 더 위험한 상황에 빠질 수도 있어.",
+			"Kiana-chan, you want to become an S-rank Valkyrie, right? If you do that, you'll have to train not only your body and skills, but also your overall abilities, otherwise you'll be lost in what to do when it matters. Think about it, if you can't understand what the Herrschers and your comrades around you are saying because of the language barrier, you might end up in more danger."
+		],
+		[
+			"msg",
+			59789,
+			"We should learn as much as we can…",
+			"崩坏所产生的很多现象其实也是物理学的知识，只有知道了它们的原理才能更有效的战斗，还有……",
+			"それに、崩壊が作り出す現象の多くは物理学の範疇よ。その仕組みを知ってこそ、より効果的に戦うことができるの。",
+			"게다가, 붕괴가 만들어내는 현상의 대부분은 물리학의 범주야. 그 구조를 알아야만 더 효과적으로 싸울 수 있는 거지.",
+			"Furthermore, many of the phenomena that the Honkai creates are governed by physics, and only by understanding how they work can we combat them more effectively."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59790,
+			"Mei, Kiana ran away.",
+			"芽衣姐姐，琪亚娜已经逃走了。",
+			"芽衣姉様、バカキアナが逃げました。",
+			"메이 누님, 바카키아나가 도망쳤어요.",
+			"Mei, Kiana Idiotka has run away."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59791,
+			"What! Kiana! Come back!",
+			"什么！琪亚娜！你给我回来！",
+			"待って！キアナちゃん！戻ってきなさい！",
+			"기다려! 키아나 양! 돌아와!",
+			"Wait! Kiana-chan! Come back!"
+		]
+	],
+	"614": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59792,
+			"That's too complex for me! I'd better…",
+			"居然要学那么复杂的东西，还不如一刀捅死我…不行，但是也不能留级，该怎么办呢。",
+			"そんな複雑なことを学ばなきゃいけないなんて、いっそ大ケガして勉強もテストも受けられなくなれば…でも留年なんて絶対にイヤだし、どうすれば…",
+			"그렇게 복잡한 걸 배워야 한다니, 차라리 큰 부상을 당해서 공부도 시험도 못 보게 되면... 하지만 유급은 절대 싫다니, 어떻게 하면...",
+			"I don't wanna have to learn such complicated things, I might as well get seriously injured and not be able to study or take the tests... But I absolutely don't want to have to repeat the year, so what should I do...?"
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59793,
+			"Ahh! Himeko said all questions were made by her, maybe I can get one bofore the exam!",
+			"啊！对了！姬子那个家伙说试卷都是她出的，既然这样只要把试卷搞到手先弄到答案不就可以了么！",
+			"あ！そうだった！テストは全部姫子が作ったって言ってたから、まずはテスト用紙を見つけて答えを調べればいいんだよね！",
+			"아! 맞다! 시험은 전부 히메코가 만들었다고 했으니까, 먼저 시험지 찾아서 답을 확인하면 되겠네!",
+			"Ah! That's right! Himeko said that she made all the tests, so the first thing I need to do is find the test papers and look up the answers!"
+		],
+		[
+			"msg",
+			59794,
+			"Haha~ I'm genius!",
+			"嘿嘿~我果然是天才！果然光靠理论知识还是不行的，有时候依靠才智才是战胜难关的关键嘛！",
+			"えへへ～、私って本当に天才！勉強なんて役に立つとは限らないんだから、時には才能で壁を乗り越えることも大事だよね！",
+			"에헤헤~, 나 정말 천재야! 공부가 항상 도움이 되는 건 아니잖아, 가끔은 재능으로 벽을 넘는 것도 중요하다고!",
+			"Ehehe~ I really am a genius! Studying isn't always useful, so sometimes it's important to overcome obstacles with your talent!"
+		],
+		[
+			"msg",
+			59795,
+			"Let me get into her office first~",
+			"就让我偷偷潜入姬子的办公室看看~",
+			"姫子の部屋に忍び込もう！",
+			"히메코의 방에 몰래 들어가자!",
+			"Let's sneak into Himeko's office and take a look~!"
+		]
+	],
+	"615": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59796,
+			"Hohoho~ Here we are~",
+			"嚯嚯嚯~就是这里，悄悄地~悄悄地~",
+			"ここは静かに、慎重に～",
+			"여기는 조용히, 신중하게～",
+			"Gotta be extra quiet and careful here~"
+		],
+		[
+			"msg",
+			59797,
+			"That must be the exam paper! Let me see~",
+			"到手了！让我看看~",
+			"あったあった！どれどれ～",
+			"찾았다 찾았다! 어디어디~",
+			"There it is! Let's see~"
+		],
+		[
+			"msg",
+			59798,
+			"Ho… This is… Theresa~ Hahaha!",
+			"唔…这个是…这不是德丽莎在学园祭时候的蠢样子么~哈哈哈！这种东西居然还被拍下来了！",
+			"うーん、これは…学園祭の時のテレサの変顔じゃない。はははっ！こんなのが写ってたなんて！",
+			"으음, 이건… 학원제 때의 테레사 변태 얼굴이잖아. 하하하! 이런 게 찍혀 있었을 줄이야!",
+			"Hmm, isn't this... the funny face Theresa made during the school festival? Hahaha! I can't believe something like this was in the photo!"
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59799,
+			"Wait! It should be exam paper, how!",
+			"等等！这不应该是试卷么，怎么会！",
+			"でもこれ、テスト用紙だよね？どうして…",
+			"근데 이건 시험지잖아? 왜...",
+			"Wait! Shouldn't this be the test paper? Why...?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59800,
+			"Emmmm, I know you will come here, so I put the exam paper on other place!",
+			"哼哼~琪亚娜，早知道你会来这套了，给你透露出卷情报就是想看看你能不能乖乖地复习，没想到果然还是用出了这种小伎俩~",
+			"はぁ…キアナ、来ると思ったわ。あんたがちゃんと勉強するか確かめるために、芽衣から試験範囲を伝えてもらったのに、こんなことするなんて。",
+			"하아…키아나, 올 줄 알았어. 네가 제대로 공부하는지 확인하려고, 메이에게 시험 범위를 전해달라고 했는데, 이런 짓을 하다니.",
+			"Sigh... Kiana, I knew you would come. Mei had told you the exam topics to make sure you would study properly, and yet you did something like this."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59801,
+			"Why! I don't want to leave Mei! I don't want to fail!",
+			"可恶！这一切都是你们的阴谋！想让我留级把我和芽衣学姐分开么！",
+			"ひどい！まさかこんな小細工をするとは思わなかった！これはすべて姫子の嫌がらせだ！私を留年させて、芽衣先輩と引き離すつもり！？",
+			"너무해! 이런 잡다한 수작을 부릴 줄이야! 이건 전부 히메코의 짓이야! 날 유급시켜서 메이 선배와 떼어놓으려는 거지!?",
+			"How could you?! I never thought you'd pull such a trick! This is all just to make me fail! Are you trying to make me repeat the year and separate me from Mei-senpai?!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59802,
+			"Ha? It's all your fault!",
+			"哈？谁也没有想过这种事情，只要你好好考试不就可以了~",
+			"はあ？そもそも真面目に勉強して試験を受けていたら、こんなことしなくて済んだのよ！",
+			"하아? 애초에 진지하게 공부해서 시험을 봤더라면, 이런 일을 안 해도 됐잖아!",
+			"Huh? If you had studied hard and taken the exam in the first place, I wouldn't have had to do this!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59803,
+			"Okay, I will try to rob the exam paper!",
+			"既然这样，那就只能用实力来抢了！别怪我不客气！",
+			"フン！もういい、こうなったら実力行使よ！ケガしても知らないから！",
+			"흥! 됐어, 이젠 실력 행사야! 다쳐도 몰라!",
+			"Hmph! That's enough, seems I have to use force at this point now! I won't care if you get hurt!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59804,
+			"Haha, you can do it!",
+			"哼哼~那你就试试看吧！",
+			"へぇ～。やれるもんならやってみなさい！",
+			"어~. 할 수 있으면 해 보시지!",
+			"Hehe~ Go ahead and try!"
+		]
+	],
+	"616": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59805,
+			"Emmm~ Finally! I get the paper! I can past the exam! Hahaha!",
+			"呼~呼~终于被我抢到了！哼哼！这样考试就可以通过啦！再也不用担心留级了！",
+			"はぁ、はぁ…やっと手に入れた！これで試験に合格できる！もう留年の心配もない！",
+			"하, 하… 드디어 손에 넣었다! 이걸로 시험에 합격할 수 있어! 이제 유년 걱정도 없어!",
+			"Huff, huff... I finally got it! Now I can pass the exam! I don't have to worry about having to repeat the year!"
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59806,
+			"What? It's still a Theresa's photo!",
+			"唔！怎么还是德丽莎看漫画的蠢样子！",
+			"どうして？今度はマンガを読んでる時のテレサじゃない！",
+			"왜? 이번에는 만화를 읽을 때의 테레사 아니잖아!",
+			"What!? This time it's Theresa reading a manga!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59807,
+			"Let me tell you the truth! I didn't made the questions, just give up~",
+			"哼~所以说这次的出卷人根本不是我，你还是放弃吧~",
+			"諦めなさい。実は試験の作問をしているの、私じゃないのよ。",
+			"포기해!! 사실 시험 문제를 만들고 있는 건 내가 아니야.",
+			"Give up. I'm actually not the one who creates the exam questions."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59808,
+			"That's…",
+			"那会是……",
+			"えっ…",
+			"엥…",
+			null
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59809,
+			"The test writer is…",
+			"这次的出卷人是……",
+			"今回の試験を担当しているのは…",
+			"이번 시험을 담당하고 있는 분은…",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59810,
+			"Is?",
+			"是？",
+			"誰？",
+			"누구?",
+			"Who?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59811,
+			"Old school teacher-- Theresa!",
+			"拥有多年教学经验，我园最资深的老前辈——德丽莎！",
+			"長年の指導経験を持つ、学園一の古株、テレサ学園長よ！",
+			"오랜 지도 경험을 가진 학원 최고의 고참, 테레사 학원장이야!",
+			"Principal Theresa, the school's oldest veteran with many years of teaching experience!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59812,
+			"Errr…",
+			"呃…",
+			"うそ…",
+			"거짓말…",
+			null
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59813,
+			"If you think you can get exam paper from her, just try it~ Hahaha!",
+			"如果你觉得可以从她的手中夺走考卷的话就去试试看吧~哈哈哈！",
+			"取れるものなら取ってみなさい～",
+			"가져갈 수 있으면 가져가 보라~",
+			"If you think you can steal the test answers from her hands, go ahead and try~ Hahaha!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59814,
+			"For Mei, I would like to do so…",
+			"为了与芽衣学姐在一起，就算是大姨妈我也……",
+			"くっ…芽衣先輩と一緒にいるためなら、相手がおばさんでも…",
+			"쿳…메이 선배와 함께 있기 위해서라면, 상대가 아줌마라도…",
+			"Damn... If it means I can be with Mei-senpai, even if she's an old lady..."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59815,
+			"Ha?",
+			"也？",
+			"どうするの？",
+			"어떡해?",
+			"So?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59816,
+			"Ahhhh!!! I must do it!",
+			"啊啊啊！豁出去了！",
+			"ああもう！やってやるんだから！",
+			"아 진짜! 해주겠어!",
+			null
+		]
+	],
+	"617": [
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59817,
+			"I waited here for a long time, Kiana.",
+			"终于来了呢，琪亚娜。",
+			"ついに来たわね、キアナ。",
+			"드디어 왔구나, 키아나!",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59818,
+			"Theresa, I know you are powerful, but I have to do it!",
+			"德丽莎，虽然你的力量很强，但是就算这样也无法阻止我！",
+			"テレサはたしかに強いけど、今の私は誰にも止められない！",
+			"테레사는 확실히 강하지만, 지금의 나는 아무도 막을 수 없다!",
+			"Theresa, I know you're certainly strong, but no one can stop me now!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59819,
+			"It's just an exam, just read your textbooks, do good preparation for it. That's enough.",
+			"用得着这样么，只是一场考试，乖乖复习不就行了~",
+			"何よ、ただのテストでしょ、勉強すればいいじゃない。",
+			"뭐야, 그냥 시험일 뿐이잖아, 공부하면 되잖아.",
+			"What? It's just a test, just study."
+		],
+		[
+			"msg",
+			59820,
+			"I know that feel, but you should pass the exam by yourself, not in that way!",
+			"我明白你的心情，我也经历过与你一样的困境，但是只有用自己的力量克服考试才能获得胜利。",
+			"気持ちは分かるわ。あたくしもあんたと同じ苦境に立たされたことがあるから。でも、勝つには自分の力でテストを乗り越えるしかないの。",
+			"네 마음 잘 알겠어. 나도 너와 같은 어려움에 처한 적이 있거든. 하지만 이기려면 자신의 힘으로 시험을 극복해야만 해.",
+			"I know how you feel, because I've been in the same situation as you. But the only way to win is to pass the test on your own."
+		],
+		[
+			"msg",
+			59821,
+			"Look at me, I was just like you, but I am the master of this school! Just try your best, Kiana!",
+			"你看~现在的我已经是阅历丰富知识渊博的学园长了！琪亚娜你也要加油啊！",
+			"ほら、今やあたくしは読書家で知識も豊富な学園長よ！キアナも見習いなさい！",
+			"자, 지금의 나는 독서가이자 지식도 풍부한 학원장이야! 키아나도 본받으라구!",
+			"Look, I'm now a principal with a great deal of knowledge and a love of books! You should follow my example, Kiana!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59822,
+			"Ha! I don't think so!",
+			"咕！不要把自己的理念强加于人，子曾经日过！自己不想干的事情不要让别人也受罪！",
+			"うるさい！自分の考えを子どもに押し付けるな！やりたくないことだって分かってるのに、それで他人を苦しめないで！",
+			"시끄러! 자기 생각을 아이에게 강요하지 마! 하고 싶지 않은 일이라는 것도 알면서, 그런 걸로 남을 괴롭히지 마!",
+			"Shut up! Don't force your ideas on children! If you know it's something we don't want to do, don't make us suffer!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59823,
+			"Hoho! You have great progress, Kiana~",
+			"嚯嚯~不错嘛~看来你也有成长呢。",
+			"へぇ、悪くないね～。キアナも成長したようね。",
+			"오호、나쁘지 않네～。키아나도 성장한 모양이네。",
+			"Hoho~ Not bad~ It seems you have grown too."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59824,
+			"Enough~ Give me the exam papers!",
+			"废话少说！把试卷交出来！",
+			"もういい！早く試験用紙を渡して！",
+			"됐어! 빨리 시험지 내놔!",
+			"Enough already! Just give me the exam papers!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59825,
+			"Oh, come on!",
+			"那就凭你自己的实力来拿吧！！",
+			"そんなに欲しければ実力で奪ってみなさい！！",
+			"그렇게 원한다면 실력으로 빼앗아 보라!!",
+			"If you want it that badly, try and take it with your own strength!!"
+		]
+	],
+	"618": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59826,
+			"Theresa… She is serious…",
+			"可恶…德丽莎那家伙，下手这么重……",
+			"痛った…テレサのやつ、誓約の十字架を振り回すなんて…",
+			"아파…테레사 녀석, 서약의 십자검을 휘두르다니…",
+			"Owww... Theresa got out Judas... She really must be serious..."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59827,
+			"Kiana, where did you go? Did you do good preparation for the exam?",
+			"琪亚娜，你跑哪里去了呀……有好好复习么？",
+			"キアナ、どこに行ってたの？",
+			"키아나, 어디 갔었어?",
+			"Kiana, where have you been?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59828,
+			"Errr… Yes!",
+			"呃…有！有啦！",
+			"…勉強してたの！",
+			"...공부하고 있었어!",
+			"Uhh... I was studying!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59829,
+			"Just get back to your seat, Theresa made the questions this time. She has something say to us.",
+			"各位回到位置上吧，马上要开始考试了哦~这次的试题可是德丽莎的园长亲自出卷，在考试前让我们的学园长来讲两句吧~",
+			"みんな、席に戻りなさい。もうすぐ試験が始まるわ。それと試験の前に、今回作問されたテレサ学園長から一言あるそうよ。",
+			"여러분, 모두 자리로 돌아가세요. 곧 시험이 시작될 거예요. 그리고 시험 시작 전에, 이번에 출제하신 테레사 학장님께서 한 마디 하신대요.",
+			"Everyone, please return to your seats. The exam will begin soon. Before the exam, Principal Theresa, who created the questions this time, will have a word to say."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59830,
+			"Humph~",
+			"嗯哼~嗯哼~",
+			"う～ん…う～ん…",
+			"으음…으음…",
+			"Ugh... Hmph..."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59831,
+			"Errr… So many wounds, what happened? Master!",
+			"呃…德丽莎园长你怎么了，怎么满身是伤的！？",
+			"どうされたんですか、学園長？アザだらけじゃないですか！",
+			"무슨 일이에요, 학원장님? 멍투성이가 되셨잖아요!",
+			"What happened, Principal? You're covered in bruises!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59832,
+			"Nothing… Just give someone a lesson~",
+			"没事…只是劝导了一个不好好学习的家伙罢了~",
+			"別に…勉強不足の生徒の補習授業をしていただけよ。",
+			"별로… 공부가 부족한 학생들 보충 수업을 하고 있었을 뿐이야.",
+			"It's nothing... I was just giving extra lessons to a student who needed extra study time."
+		],
+		[
+			"msg",
+			59833,
+			"Everybody! Good luck! Just try your best!",
+			"那么~诸位！在考试前预祝大家顺利通过，把平日中学习的成果完美发挥，这不仅是一次实力的检测，也是对自己努力过程的回顾，这种对学习的热情将会让你在各个领域中得到更多的收获~",
+			"それでは…みんな！日頃の勉強の成果を存分に発揮してちょうだい！力試しであると同時に、自分の努力の振り返りでもあるのよ！",
+			"자... 여러분! 평소 공부한 성과를 마음껏 발휘해 주세요! 실력 테스트인 동시에 자신의 노력에 대한 반성도 되는 거예요!",
+			"So... everyone! Show off the results of your daily studies! This is a test of your abilities, but also an opportunity to reflect on your efforts!"
+		],
+		[
+			"msg",
+			59834,
+			"Wish you all wii become good Valkyries!",
+			"希望你们都能成为精英女武神，战斗在各个领域的前沿阵地上~",
+			"優秀な戦乙女になって、様々な分野の第一線で戦う姿を楽しみにしているわ。",
+			"훌륭한 전투녀가 되어, 다양한 분야의 최전선에서 싸우는 모습을 기대하고 있어.",
+			"I look forward to seeing you become excellent Valkyries and fight on the front lines in various fields."
+		],
+		[
+			"msg",
+			59835,
+			"Start!",
+			"那么！考试开始！",
+			"——試験開始！",
+			"——시험 시작!",
+			"——Let the exam begin!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59836,
+			"*Sound of touching paper*",
+			"沙沙沙~",
+			"……",
+			"……",
+			"<I>Rustle, rustle...</I>"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59837,
+			"Master, is there anything wrong with the exam paper?",
+			"学园长，请问是不是发错卷子了？",
+			"あの…学園長、試験用紙を間違えていませんか？",
+			"저기… 학원장님, 시험지를 잘못 가져오신 거 아니에요?",
+			"Um... Principal, have you given us the wrong exam papers?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59838,
+			"Emmm? No~",
+			"嗯？没有啊~",
+			"あら？なんのことかしら。",
+			"어머? 무슨 말씀이신지.",
+			"Hmm? No~"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59839,
+			"That's too easy! Just like primary school exam.",
+			"这里的题目，都是小学难度的题目呢。",
+			"出題内容にさっと目を通しましたが、小学生向けくらいの難易度でした。",
+			"출제 내용을 훑어보았는데, 초등학생 수준의 난이도였습니다.",
+			"The questions all seem to be at about elementary school level difficulty."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59840,
+			"How could it be! I made it seriously!",
+			"咕！怎么可能！这明明是我绞尽脑汁才出出来的卷子！",
+			"ええっ！ありえないわ！何日も頭を悩ませて問題を作ったのよ！？",
+			"에엣! 말도 안 돼! 며칠이나 머리 쥐어짜며 문제를 만들었는데!?",
+			"What?! That's impossible! I've been racking my brains for days trying to come up with these problems!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59841,
+			"Those qustions… Maybe I can pass it!!",
+			"这个题目……说不定我真的会做！！！",
+			"この問題…私にも解けるかも！！！",
+			"이 문제… 나도 풀 수 있을지도!!!",
+			"Maybe... even <i>I</i> can solve these problems!!!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59842,
+			"… Do white hair Valkyries all stupid?!",
+			"……果然白毛都是笨蛋么。",
+			"はぁ…白髪ってみんなバカね。",
+			"하아... 백발이란 게 다 바보네.",
+			"<i>Sigh...</i> Are all white-haired girls this stupid?"
+		]
+	],
+	"619": [
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				414,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59843,
+			null,
+			"嗯……这里是教堂么？",
+			"んん……？ここは教会？",
+			"음……？ 여기가 교회인가？",
+			"Hmm...? Is this a church? (TN: This is the first time Theresa is shown with fox ears, iirc)"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59844,
+			null,
+			"让我们欢迎这对新人的入场，首先是新娘——",
+			"それでは盛大な拍手でお迎え下さい、新婦の入場です――",
+			"그러면 성대한 박수로 맞이해 주십시오, 신부의 입장입니다――",
+			"Now, please give a big round of applause as the bride enters——"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				414,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59845,
+			null,
+			"新娘……是婚礼吗？等等，那个人不是姬子吗？！",
+			"新婦……って結婚式？待って、あれは姫子少佐じゃないの！",
+			"신부……결혼식? 잠깐, 저건 히메코 소좌 아니야!",
+			"Bride...? Is this a wedding? Wait, isn't that Major Himeko?!"
+		],
+		[
+			"msg",
+			59846,
+			null,
+			"姬子居然穿上了婚纱，我一定是在做噩梦吧！",
+			"姫子がウェディングドレスを着てるなんて。これは何か悪い夢だわ！",
+			"히메코가 웨딩드레스를 입다니. 이건 뭔가 나쁜 꿈이야!",
+			"Himeko's actually wearing a wedding dress. This must be a bad dream!"
+		],
+		[
+			"speaker",
+			204601
+		],
+		[
+			"portraits",
+			[
+				414,
+				0,
+				true
+			],
+			[
+				403,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			59847,
+			null,
+			"啊，德丽莎~果然你也来我的婚礼了呢，怎么样，我的婚纱漂亮吗？",
+			"あら、テレサ学園長も私の結婚式に来てくださったんですね。どうです、このウェディングドレス。綺麗でしょう？",
+			"어머, 테레사 학원장도 제 결혼식에 와 주셨군요. 어때요, 이 웨딩드레스. 예쁘죠?",
+			"Ah, Principal Theresa~ As expected, you came to my wedding too. How about my wedding dress? Is it beautiful?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				414,
+				0,
+				false
+			],
+			[
+				403,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59848,
+			null,
+			"咕唔……大龄剩女的姬子竟然也迎来了自己的春天，这不是真的……",
+			"うぐ……売れ残りの姫子にとうとう春が来たなんて。嘘でしょ……？",
+			"으으…… 남은 히메코에게 드디어 봄이 왔다는 게. 거짓말이지……？",
+			"Ugh... Spring has finally come for the undesirable Himeko. Is this real...? (TN: \"Spring\" is referring to a lover in this case)"
+		],
+		[
+			"msg",
+			59849,
+			null,
+			"但是……姬子，那个不修边幅，嗜酒的姬子，居然会穿上婚纱，而且散发着温柔的光辉！",
+			"いつもなりふり構わず、飲んだくれてるあの姫子が、ウェディングドレスを着てるなんて。しかもおしとやかに光輝いてるなんて！",
+			"평소엔 차림새도 가리지 않고 술만 마시고 지내는 그 히메코가, 웨딩드레스를 입고 있다니. 게다가 우아하게 빛나고 있다니!",
+			"<i>Himeko,</i> who always drinks without caring about her appearance, is wearing a wedding dress. And she's shining with grace!"
+		],
+		[
+			"speaker",
+			204601
+		],
+		[
+			"portraits",
+			[
+				414,
+				0,
+				true
+			],
+			[
+				403,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			59850,
+			null,
+			"虽然很高兴，但德丽莎这么称赞我的话，我也会害羞的……",
+			"嬉しいです。でも学園長にそんなに褒められると、恥ずかしいわ……",
+			"기뻐요. 하지만 교장 선생님께 그렇게 칭찬을 들으면, 부끄러워요……",
+			"I'm happy. But I feel embarrassed that you're praising me so much, Principal..."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				414,
+				0,
+				false
+			],
+			[
+				403,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59851,
+			null,
+			"天哪，姬子居然会露出这样的表情，这真的是我认识的那个姬子吗？",
+			"何てこと、姫子がこんな表情を見せるなんて。これが本当に私の知ってるあの姫子少佐なの？",
+			"이게 무슨, 히메코가 이런 표정을 보이다니. 이게 정말 내가 아는 그 히메코 소좌라고?",
+			"My God, Himeko actually showed such an expression. Is this really the Major Himeko I know?"
+		],
+		[
+			"msg",
+			59852,
+			null,
+			"不会的，别装了，快露出你的本性！",
+			"そんなはずないわ。ぶりっ子はやめて、早く本性を現しなさい！",
+			"그럴 리가 없어. 가식 부리지 마, 빨리 본성을 드러내!",
+			"That can't be true. Stop acting like a brat and show your true colors!"
+		],
+		[
+			"speaker",
+			204601
+		],
+		[
+			"portraits",
+			[
+				414,
+				0,
+				true
+			],
+			[
+				403,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			59853,
+			null,
+			"不是的……为了今天，我可是做了许多努力……",
+			"いえ……今日のために、どれほど努力してきたことか……",
+			"아니... 오늘을 위해 얼마나 노력해왔는데...",
+			"No... You don't know how much effort I've put in for this day..."
+		],
+		[
+			"msg",
+			59854,
+			null,
+			"然后终于意识到了，要改变自己的形象……",
+			"ようやく悟ったんです。自分のイメージを変えなきゃって……",
+			"드디어 깨달았어요. 자신의 이미지를 바꿔야 한다고……",
+			"I finally realized that I had to change my image..."
+		],
+		[
+			"msg",
+			59855,
+			null,
+			"现在我每天只喝两罐酒，遇到不顺心的人也会用手揍，而不是直接用大剑砍了呢~",
+			"今では酒は1日にほんの2缶だけ。気にくわない奴がいても、剣でぶった斬ったりせず、拳骨で殴ってます。",
+			"지금은 술은 하루에 고작 2캔만. 마음에 들지 않는 녀석이 있어도 칼로 베어버리지는 않고, 주먹으로 때린다.",
+			"Now I only drink two cans of beer a day, and if I don't like someone, I don't slash with a sword, I punch them instead."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				414,
+				0,
+				false
+			],
+			[
+				403,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59856,
+			null,
+			"呃……果然还是真正的姬子么……",
+			"あー……やっぱり正真正銘の姫子だわ……",
+			"아…… 역시 진짜 히메코구나……",
+			"Ahh... guess she really is the real Himeko..."
+		],
+		[
+			"speaker",
+			204601
+		],
+		[
+			"portraits",
+			[
+				414,
+				0,
+				true
+			],
+			[
+				403,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			59857,
+			null,
+			"所以我才能有今天的幸福，德丽莎你能来见证我的婚礼，我很高兴~",
+			"だからこそ今日の幸せをつかめたんです。テレサ学園長が私の結婚の証人になってくださるなんて、嬉しいですわ～",
+			"그래서 오늘의 행복을 잡을 수 있었어요. 테레사学園長이 제 결혼의 증인이 되어 주신다니, 기쁘네요~",
+			"That's why I'm able to experience the happiness I'm feeling today. I'm so happy that you'll be a witness to my marriage, Principal Theresa."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				403,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59858,
+			null,
+			"接下来让我们欢迎新郎的入场。",
+			"それでは新郎が入場します。",
+			"이제 신랑이 입장합니다.",
+			"Then, the groom enters."
+		],
+		[
+			"speaker",
+			204601
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				403,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			59859,
+			null,
+			"啊，他要来了……",
+			"あ、カレが来るわ……",
+			"아, 그가 오네……",
+			"Ah, here he comes..."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				414,
+				0,
+				false
+			],
+			[
+				403,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59860,
+			null,
+			"这等待王子的小女生的表情是什么……姬子，快变回你原来的样子！",
+			"その王子様を待つ女の子みたいな表情は何なの……姫子、早く元の姫子に戻って！",
+			"그 왕자님을 기다리는 소녀 같은 표정은 뭐야……히메코, 빨리 원래 히메코로 돌아와!",
+			"What's with that girly expression like she's waiting for a prince... Himeko, please just go back to the old Himeko already!"
+		],
+		[
+			"speaker",
+			204601
+		],
+		[
+			"portraits",
+			[
+				414,
+				0,
+				true
+			],
+			[
+				403,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			59861,
+			null,
+			"终于到这一刻了，能为我戴上戒指吗，这会是我人生中最幸福的时刻。",
+			"ついにこの瞬間が来たわ。指輪をはめてもらえたら、私の人生で最高に幸せなひとときになる。",
+			"마침내 이 순간이 왔어. 반지를 씌워 주신다면, 제 인생에서 평생 가장 행복한 순간이 될 거예요.",
+			"The moment has finally come. When I get to put the ring on his finger, it will be the happiest moment of my life."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				414,
+				0,
+				false
+			],
+			[
+				403,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			59862,
+			null,
+			"不，不行了……我的理性和人格正在崩坏……这场噩梦，什么人也好，快来救救我……",
+			"だ、ダメ……あたくしの理性と人格が崩壊している……これは悪夢よ、誰でもいいから、早く救い出して……",
+			"안, 안 돼... 이 몸의 이성과 인격이 붕괴되고 있어... 이건 악몽이야, 누구든 좋으니 어서 구해줘...",
+			"N-No... All reason and personality is collapsing... This is a nightmare! Someone, anyone, please hurry up and save me..."
+		]
+	]
+}

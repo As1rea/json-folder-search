@@ -1,0 +1,376 @@
+{
+	"1038": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305358,
+			"Excuse me. Would you mind to help me? I'd like to call all my team members back but I simply don't have time.",
+			"抱歉，有件事情想拜托你，我因为基地的事务脱不开身，可以帮我把在外面执行任务的队员召回么。",
+			"すみませんが、あなたにお願いしたいことがあります。今、基地のことで手が離せないため、ブローニャの代わりに外で任務を遂行している隊員を呼び戻してもらえますか。",
+			"죄송하지만, 당신께 부탁드릴 게 있습니다. 지금 기지 일로 손을 뗄 수 없어서 브로냐 대신 밖에서 임무를 수행하고 있는 대원들을 소환해 주실 수 있나요?",
+			"Please excuse me, but I've got a favor to ask you. Can you go and call back all the personnel that are currently out on a mission? I'm currently busy dealing with the base's affairs and I don't have time to do it myself.",
+			null,
+			"Sorry, there is something I want to ask you, I can't get away because of the affairs of the base, can you help me to recall the team members who are out on the mission?",
+			"Excuse me, but I have a favor to ask you. Since I am currently out of touch with the base, could you please call back the personnel who are on duty outside in place of Bronya?"
+		],
+		[
+			"msg",
+			305359,
+			"Soon, we are going to start an important operation. For that, we must gather all our forces. The radio has done part of the job, but we need someone to cover the areas where radio can't reach.",
+			"马上将要展开一个重要的作战，我们需要把基地的战力都集中起来才行，基地附近的区域已经通过无线电通知了，无线电范围之外的就需要人力传达了。",
+			"もうすぐ大事な作戦が始まります。そうなると基地に戦力を集中させなければなりません。基地近郊のエリアには無線で知らせてあります。しかし、無線の範囲外は人力で伝えなければなりません。",
+			"곧 중요한 작전이 시작됩니다. 그러면 기지에 전력을 집중시켜야 해요. 기지 근교 지역에는 무선으로 알렸습니다. 하지만 무선 범위 밖은 인력으로 전해야 합니다.",
+			"Soon we'll be starting an important operation and we need to concentrate all our manpower in the base. The soldiers near the base have been notified by radio, but if they're outside its range someone will need to inform them in person. (TN: The original text did not mention soldiers, it just said \"the area near the base has been notified by radio\". Maybe \"Those\" would be better?)",
+			null,
+			"Immediately will start an important operation, we need to focus the base of the war effort to do, the area near the base has been notified by radio, radio range outside the need for human communication.",
+			"An important operation will soon begin. Then we have to concentrate our forces on the base. The area near the base is notified by radio. However, those outside the radio range must be informed by manpower."
+		],
+		[
+			"msg",
+			305360,
+			"Here's a marked map that has our team members' locations. It's kind of an errand, but still, you need to be careful. That's all about it. I'm counting on you.",
+			"这是外部队员的作战区域图，虽然是跑腿的任务，不过请不要掉以轻心，那么交给你了。",
+			"これは外部にいる隊員の作戦エリアマップです。使い走りの任務ですが、油断しないでくださいね。では、任せましたよ。",
+			"이건 외부에 있는 대원들의 작전 구역 지도입니다. 잡일 같은 임무지만, 방심하지 마세요. 자, 맡겼습니다.",
+			"Here is a map that shows the combat areas of all the outside troops. This might be a minor errand, but don't let your guard down. I'm counting on you.",
+			null,
+			"This is the combat area map of the external team members, although it is an errand running task, but please do not take it lightly, then it is handed over to you.",
+			"This is an operational area map of the troopers on the outside. It's an errand mission, but don't let your guard down. Then, I'm leaving you in charge."
+		]
+	],
+	"1039": [
+		[
+			"bgm",
+			11
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			305361,
+			"A military assembly? So I guess Gray Moth will go back, too. Well, order received! Many thanks.",
+			"召回命令么？看来灰蛾部队要回来了啊，明白了马上返回，感谢你的传达。",
+			"召還命令？そう、灰蛾部隊が帰ってくるのね。分かったわ。すぐに帰る。教えてくれてありがとう。",
+			"소환 명령? 그래, 회아 부대가 돌아오는 거네. 알겠어. 바로 돌아갈게. 알려줘서 고마워.",
+			"Orders to return to base? The Grey Moths must be returning. Alright, I'll return right away. Thanks for letting me know.",
+			null,
+			"Recall order? Looks like the Grey Moth troops are coming back. Understood return immediately, thanks for conveying.",
+			"A recall order? Yes, the ash moth troop is coming back. All right, I'll be right back. I'll be home soon. Thanks for letting me know."
+		]
+	],
+	"1040": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305362,
+			"Oh, found you! I heard you were running an errand for Bronya. Looks like all the teams are coming back. Good job.",
+			"啊~找到你了！据说是去执行姐姐大人的召回任务了，外面的小队都陆续回来了呢，干得不错~",
+			"あ～見つけた！お姉ちゃんの代わりに召還任務をやってるらしいわね。外の小隊が続々と帰ってきてるよ～！よくやってるじゃない！",
+			"아~ 찾았다! 언니 대신 소환 임무를 하고 있다지? 밖의 소대들이 줄줄이 돌아오고 있어! 잘하고 있네!",
+			"Ah~ I finally found you! I heard you were on an errand to recall all the troops in place of my sister. They're coming back one after another~! Great job!",
+			null,
+			"Ah~ I found you! It is said that he went to carry out the recall mission of the elder sister, and the teams outside are coming back one after another, good job~",
+			"Ahhh, I found it! I hear you're on a recall mission in place of your sister. The platoon outside is coming back one after another~! You're doing great!"
+		],
+		[
+			"msg",
+			305363,
+			"I'll take over now. There's still a lot of things to do. It gonna be a long night.",
+			"后面就交给我吧，要忙的事情还要很多呢，今晚可是不眠夜哦~",
+			"あとは私にまかせて。仕事はまだたくさんあるのよ。今夜は徹夜になるわよ～！",
+			"나머진 내게 맡겨. 일은 아직 한참 남았어. 오늘은 밤샘 작업이 될 거야!",
+			"Leave the rest to me. I've still got a ton of work to do. Looks like I'll be up all night tonight~!",
+			null,
+			"I'll leave it to me, I'll be busy with a lot of things, tonight is a sleepless night ~",
+			"I'll take care of the rest. I still have a lot of work to do. I'll be up all night tonight~!"
+		],
+		[
+			"choice",
+			[
+				305364,
+				"Are we going to launch a massive campaign?",
+				"是有什么大的作战么？",
+				"何か大きな作戦があるの？",
+				"뭔가 큰 작전이 있는 거야?",
+				null
+			],
+			[
+				305365,
+				"What has happened?",
+				"发生什么事情了么？",
+				"何か起きたの？",
+				"뭔가 일이 있었어?",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1041
+		]
+	],
+	"1041": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305366,
+			"Huh? Hasn't Bronya told you? It's—",
+			"咦？姐姐大人没和你说么？是这样的……",
+			"え？お姉ちゃんから聞いてない？実はね……。",
+			"엣? 언니한테 듣지 못했어? 사실은 말이야…….",
+			"Huh? Didn't Bronya tell you? It's...",
+			null,
+			"Huh? Didn't Sister-sama talk to you? Here's the deal ......",
+			"Huh? Your sister didn't tell you? As a matter of fact. ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305367,
+			"Hey, Seele! Help me find more bandages. If there isn't any, I'm afraid you'd have to look for them outside.",
+			"喂！希儿，帮我找找看基地里还有没有绷带了，如果没有的话得靠你出去找一些回来了。",
+			"ねえ！ゼーレ、基地に包帯があるか確認してくれない？もしなかったら、探してきてほしいんだけどさ。",
+			"저기! 제레, 기지에 붕대 있는지 확인해 주지 않을래? 만약 없으면 찾아 와 주길 바라는데.",
+			null,
+			null,
+			"Hey! Hill, help me find out if there are any bandages left in the base, if not then I'll have to rely on you to go out and find some back.",
+			"Hey! Seele, can you check to see if there are any bandages at the base? If not, I'd like you to go look for them."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305368,
+			"Again? Why are you always bothering me?",
+			"你这家伙又要使唤人了么喂！",
+			"あんたって人は、また人をこき使うのね！",
+			"너란 사람은 또 사람을 부려먹는구나!",
+			"Again? Why do you always get on my nerves?",
+			null,
+			"You guys are going to call people again?",
+			"You people are back to rubbing people the wrong way!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305369,
+			"Hehe... I happen to know that Yssring is looking for you, too. Would you prefer looking for bandages or moving her metal plates?.",
+			"嚯嚯~刚才我遇见伊瑟琳，她也在找你哦，那你想想好是要帮我呢还是去搬她的铁疙瘩？",
+			"さっきイザーリンに会ったけど、あんたを探してたよ。こっちを手伝うか、彼女の鉄くず運びを手伝うかよく考えたほうがいいんじゃない？",
+			"아까 이자린을 만났는데, 너를 찾고 있었어. 이쪽을 도울지, 그녀의 고철 나르는 걸 도울지 잘 생각해 보는 게 좋지 않아?",
+			null,
+			null,
+			"Ho ho ho ~ just now I met Estherine, she is also looking for you oh, so you think about it is to help me or to move her iron lumps?",
+			"I just saw Isserling looking for you. Maybe you should think twice about whether you want to help us or help her carry the scrap metal."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305370,
+			"Meh... Alright, I'll do it.",
+			"咕…好吧。",
+			"げっ……あんな重たい鉄くず運びたくない。……分かったよ。",
+			"쳇…… 그런 무거운 고철 나르기 싫어.…… 알았어.",
+			null,
+			null,
+			"Goo...okay.",
+			"Geez, ...... I don't want to carry that heavy scrap iron. ...... I get it."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305371,
+			"Well then, your minion can go help Yssring. Yes, I meant you.",
+			"OK，那搬铁疙瘩的生意就交给你新来的小弟啦~好好干哦，新人~",
+			"OK！じゃあ、あの鉄くず運びはそっちの新しい子分に任せておこう。しっかりな、新人！",
+			"OK! 그럼, 그 고철 나르기는 너희쪽 새 부하에게 맡겨 두자. 잘 해라, 신입!",
+			null,
+			null,
+			"OK, the business of moving iron lumps will be given to your new little brother ~ good job, newcomer ~",
+			"OK, I'll leave the scrap metal carrying to the new kid over there. Hang in there, rookie!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305372,
+			"What? Are you messing with me?!",
+			"喂！你这是来坑我的么！！",
+			"ちょっと！謀ったわね！！",
+			"잠깐! 모략을 썼구나!!",
+			null,
+			null,
+			"Hey! Are you here to screw me!",
+			"Hey! You conspired against me!"
+		]
+	]
+}

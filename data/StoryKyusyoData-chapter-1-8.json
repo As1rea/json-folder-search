@@ -1,0 +1,2457 @@
+{
+	"75": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10095"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300540,
+			"Attention! The “Grey Moths” will be back in 1 hour. Set up our defense and prepare for the battle.",
+			"各位，离“灰蛾”返回还有1个小时，我们需要立即布置防线，准备迎击。",
+			"みなさん、「灰蛾」が戻って来るまであと1時間です。直ちに防衛ラインを整えて、迎撃の準備をしてください。",
+			"여러분, 회아가 돌아올 때까지 1시간 남았습니다. 즉시 방어 라인을 정비하고 요격 준비를 하세요.",
+			"Ladies and Gentlemen, the Grey Moths will be back in approximately one hour. We need to set up our defenses and prepare for the attack immediately.",
+			null,
+			"Gentlemen, we have one hour before the return of the Grey Moth, so we need to set up our defenses and prepare for the attack immediately.",
+			"Ladies and gentlemen, there is only one hour left before the \"ash moth\" returns. Please immediately set up your defensive lines and prepare to intercept."
+		],
+		[
+			"msg",
+			300541,
+			"All squads return to their positions on standby. Prepare for the battle.",
+			"各小队按计划回到各自岗位进入警戒状态，准备迎击。",
+			"各小隊は計画通りにそれぞれの持ち場で警戒態勢に入り、迎撃準備。",
+			"각 소대는 계획대로 각자의 담당 구역에서 경계 태세에 들어가 요격 준비.",
+			"All squads return to their post and prepare for battle.",
+			null,
+			"The squads returned to their posts to enter alert status as planned and prepared to meet the attack.",
+			"Each platoon is on alert at their posts as planned and ready to intercept."
+		],
+		[
+			"choice",
+			[
+				300542,
+				"Is there any Houkai creature invading?",
+				"是有崩坏生物入侵么？",
+				"崩壊生物が侵入したの？",
+				"붕괴 생물이 침입했어?",
+				"Did the Honkai Beasts start attacking?"
+			],
+			[
+				300543,
+				"Are Grey Moths our allies?",
+				"灰蛾部队不是友方么？",
+				"灰蛾部隊って友軍じゃないの？",
+				"회아 부대가 아군이 아니었어?",
+				"Are the Grey Moths our allies?"
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			76,
+			77
+		]
+	],
+	"76": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10095"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300544,
+			"No, but they are coming.",
+			"现在没有，不过马上就会来了。",
+			"まだです。ですが、すぐにやってきます。",
+			"아직입니다. 하지만 곧 도착할 겁니다.",
+			"Not yet, but they'll come soon enough.",
+			null,
+			"Not right now, but it will come soon.",
+			"Not yet. But it will come soon."
+		],
+		[
+			"msg",
+			300545,
+			"Grey Moths is an investigation team, responsible for supervising the Houkai area in Nagazora and supplying the base with resources.",
+			"灰蛾部队是外部调查的部队，她们负责监视长空市崩坏区域的崩坏状况并搜索资源提供基地补给。",
+			"灰蛾部隊は外部調査の部隊です。彼女たちは長空市崩壊エリアの崩壊状況の監視と、基地の補給に使える資源の捜索を担当しています。",
+			"회아 부대는 외부 조사 부대입니다. 그들은 장공시 붕괴 지역의 붕괴 상황 감시와 기지 보급용 자원 수색을 담당하고 있습니다.",
+			"The Grey Moths are an external investigation team. They are responsible for monitoring the Honkai infestation in Nagazora City and searching for resources that can be used to replenish the base.",
+			null,
+			"The Grey Moth unit is an external investigation unit, they are responsible for monitoring the collapse condition of the collapsed area of Long Sky City and searching for resources to provide base supplies.",
+			"The Ash Moth Unit is an external survey unit. They are in charge of monitoring the collapse of the Changku City Collapse Area and searching for resources that can be used to replenish the base."
+		],
+		[
+			"msg",
+			300546,
+			"But the team faces great danger out there, and it's very difficult to ensure delivery of supplies. So the team has a unique means of transport.",
+			"但是外部调查面临着十分巨大的危险，补给的保障更是难上加难，所以她们有着一个特殊的运输工具。",
+			"ですが、外部調査には非常に大きな危険がつきまとい、補給の確保がさらに難易度を上げています。なので、彼女たちは特殊な乗り物を持っています。",
+			"하지만 외부 조사에는 막대한 위험이 따르며, 보급 확보가 난이도를 더욱 높입니다. 그래서 그들은 특수 차량을 보유하고 있습니다.",
+			"But investigating in the outdoors is fraught with great danger, and having to secure supplies makes it even more challenging. Therefore, these women have a unique means of transport. (TN: Need a better word for 'outdoors')",
+			null,
+			"But the external investigation faces very great danger, the security of supplies is even more difficult, so they have a special means of transport.",
+			"But external surveys are fraught with great danger, and securing supplies makes it even more challenging. Therefore, these women have special vehicles."
+		],
+		[
+			"msg",
+			300547,
+			"But the transportation process attracts a lot Houkai creatures, so we have to keep them out of the base.",
+			"但是这个运输工具在运行的过程中会吸引大量的崩坏生物注意，所以我们要将这些崩坏生物挡在基地外。",
+			"ただし、この乗り物を使うと大量の崩壊生物を引き寄せてしまいます。そのため、私たちはこの崩壊生物を基地の外で防ぐのです。",
+			"다만 이 차량 사용시 대량의 붕괴 생물을 유인하게 됩니다. 따라서 우리는 이 붕괴 생물들을 기지 외곽에서 차단하는 것이죠.",
+			"However, this vehicle attracts a large number of Honkai beasts during its operation. So we have to prevent these creatures from getting in the base.",
+			null,
+			"But this transport will attract the attention of a large number of avalanche creatures during its operation, so we have to keep these avalanche creatures out of the base.",
+			"However, this vehicle attracts a large number of disintegrating organisms. Therefore, we prevent these disintegrating organisms outside of our base."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			78
+		]
+	],
+	"77": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10095"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300548,
+			"So you've heard something.",
+			"看来你已经有所耳闻了。",
+			"どうやら既に耳に入っているようですね。",
+			"이미 어느 정도 파악하신 모양이군요.",
+			"Seems like you've heard about them already.",
+			null,
+			"It seems you've heard something about it.",
+			"Apparently, you have already been hearing about it."
+		],
+		[
+			"msg",
+			300549,
+			"Yes. Grey Moths is an investigation team, responsible for supervising the Houkai area in Nagazora and supplying the base with resources.",
+			"没错，灰蛾部队是外部调查的部队，她们负责监视长空市崩坏区域的崩坏状况并搜索资源提供基地补给。",
+			"そうです。灰蛾部隊は外部調査の部隊です。彼女たちは長空市崩壊エリアの崩壊状況の監視と、基地の補給に使える資源の捜索を担当しています。",
+			"맞습니다. 회아 부대는 외부 조사 부대입니다. 그들은 장공시 붕괴 지역의 붕괴 상황 감시와 기지 보급용 자원 수색을 담당하고 있습니다.",
+			"Yes, the Grey Moths are an external investigation team. They are responsible for monitoring the Honkai infestation in Nagazora City and searching for resources that can be used to replenish the base.",
+			null,
+			"That's right, the Grey Moth unit is the external investigation unit, they are responsible for monitoring the collapse condition of the collapse area in Long Sky City and searching for resources to provide base supplies.",
+			"Yes, the Ash Moth Unit is an external research unit. The Ash Moth Unit is an external survey unit. They are in charge of monitoring the collapse of the Changku City Collapse Area and searching for resources that can be used to replenish the base."
+		],
+		[
+			"msg",
+			300550,
+			"But the team faces great danger out there, and it's very difficult to ensure delivery of supplies. So the team has a unique means of transport.",
+			"但是外部调查面临着十分巨大的危险，补给的保障更是难上加难，所以她们需要一个特殊的运输工具。",
+			"ですが、外部調査には非常に大きな危険がつきまとい、補給の確保がさらに難易度を上げています。なので、彼女たちは特殊な乗り物を持っています。",
+			"하지만 외부 조사에는 막대한 위험이 따르며, 보급 확보가 난이도를 더욱 높입니다. 그래서 그들은 특수 차량을 보유하고 있습니다.",
+			"But investigating in the outdoors is fraught with great danger, and having to secure supplies makes it even more challenging. Therefore, these women have a unique means of transport. (TN: Duplicate of 300546)",
+			null,
+			"But the external investigation faces a very great danger, the security of supplies is even more difficult, so they need a special means of transport.",
+			"But external surveys are fraught with great danger, and securing supplies makes it even more challenging. Therefore, these women have special vehicles."
+		],
+		[
+			"msg",
+			300551,
+			"But the transportation process attracts a lot Houkai creatures, so we have to keep them out of the base.",
+			"但是这个运输工具在运行的过程中会吸引大量的崩坏生物注意，所以我们要将这些崩坏生物挡在基地外。",
+			"ただし、この乗り物を使うと大量の崩壊生物を引き寄せてしまいます。そのため、私たちはこの崩壊生物を基地の外で防ぐのです。",
+			"다만 이 차량 사용시 대량의 붕괴 생물을 유인하게 됩니다. 따라서 우리는 이 붕괴 생물들을 기지 외곽에서 차단하는 것이죠.",
+			"However, this vehicle attracts a large number of Honkai beasts during its operation. So we have to prevent these creatures from getting in the base. (TN: Duplicate of 300547)",
+			null,
+			"But this transport will attract the attention of a large number of avalanche creatures during its operation, so we have to keep these avalanche creatures out of the base.",
+			"However, this vehicle attracts a large number of disintegrating organisms. Therefore, we prevent these disintegrating organisms outside of our base."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			78
+		]
+	],
+	"78": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10095"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300552,
+			"That's it. Prepare yourself for what might be coming.",
+			"就是这样，到时候你就知道啦，可不要被吓到哦~",
+			"そういうこと！その時になったら分かるから驚かないでね。",
+			"그런 거였군! 그때 되면 알게 될 테니까 놀라지 마.",
+			null,
+			null,
+			"That's it, then you will know it, do not be shocked Oh ~",
+			"That's what I mean! Don't be surprised if you find out when the time comes."
+		],
+		[
+			"msg",
+			300553,
+			"Follow me. This is a very important mission. Don't mess up.",
+			"跟我来吧，这次交给你的可是非常重要的任务，千万不要掉以轻心哦~",
+			"ついて来て。今回あなたに任せるのはとても重要な任務だよ。決して油断しないでね～！",
+			"따라와. 이번에 네게 맡기는 건 아주 중요한 임무야. 절대로 방심하지 말라구~!",
+			"Follow me. It's a very important mission we're entrusting you with. Don't let your guard down~!",
+			null,
+			"Come with me, this time you are given a very important task, do not take it lightly Oh ~",
+			"Follow me. It's a very important mission I'm entrusting you with this time. Never let your guard down~!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300554,
+			"Let's go. Mission “Homecoming” begins!",
+			"好了，出发吧，“归巢作战”现在开始！",
+			"よし、出発しましょう。ただいまより「帰巣作戦」開始！",
+			"좋아, 출발하자. 지금부터 「귀소 작전」 개시!",
+			"Alright, let's go. Let Operation Homecoming commence!",
+			null,
+			"All right, let's go, the \"nesting operation\" starts now!",
+			"All right, let's go. Operation Homecoming begins now!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10104"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300555,
+			"Squad 3 has arrived the designated position, ready to battle.",
+			"报告，第三小队到达指定位置，进入迎击准备。",
+			"報告、第3小隊は指定位置に到着、迎撃準備に入る。",
+			"보고, 제3 소대는 지정 위치에 도착, 요격 준비에 들어갔습니다.",
+			"\"Report, Squad 3 has arrived at the designated position and is ready to intercept.\"",
+			null,
+			"Report, the third squad has arrived at the designated position and is in preparation to meet the attack.",
+			"Report, 3rd Platoon has arrived at the designated position and is ready to intercept."
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300556,
+			"It's so cold. I'm not used to fighting at night.",
+			"呼~好冷好冷！果然还是不习惯夜间作战呢……",
+			"ふぅ～寒い、寒い！やっぱり夜間の作戦には慣れないなぁ……。",
+			"후우~ 추워, 추워! 역시 야간 작전은 익숙하지 않아…….",
+			"Whew~ it's freezing out here! I still can't get used to night ops...",
+			null,
+			"Hoo~ so cold so cold! I'm sure I'm not used to fighting at night. ......",
+			"Whew - cold, cold! I still can't get used to nighttime operations. ......"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300557,
+			"Let me talk about the mission before the battle begins.",
+			"乘着作战开始前还有点时间，我来简单说明一下这次的任务吧~",
+			"作戦が始まるまでもう少し時間があるから、簡単に今回の任務を説明するね！",
+			"작전이 시작되기까지 아직 시간이 조금 있으니, 간단히 이번 임무를 설명해 줄게!",
+			"Since there's a little time before the operation begins, I'll briefly explain the details.",
+			null,
+			"Take advantage of a little time before the start of the battle, let me briefly explain the mission ~",
+			"Since we have a little more time before the mission starts, let me briefly explain this mission!"
+		],
+		[
+			"msg",
+			300558,
+			"We're now close to the control room of the base gate. The facilities here are essential to the control of the base gate, and we need to protect this area.",
+			"我们所处的位置是基地闸门的控制室附近，这里是控制闸门闭合的重要设施，我们的任务是保护这个区域的安全。",
+			"私たちの今いる位置は基地のゲート制御室の近くよ。ここはゲートの開閉を制御する重要な施設なの。私たちの任務は、このエリアの安全を守ることよ。",
+			"우리가 지금 있는 위치는 기지의 게이트 제어실 근처야. 여기는 게이트의 개폐를 제어하는 중요한 시설이야. 우리의 임무는, 이 구역의 안전을 지키는 거야.",
+			"Our current location is near the gate control room at the base. This is an important facility that controls the opening and closing of the gates. Our mission is to secure the area.",
+			null,
+			"We are located near the control room of the base gate, which is an important facility for controlling the gate closure, and our task is to secure this area.",
+			"Our current location is near the gate control room at the base. This is an important facility that controls the opening and closing of the gates. Our mission is to keep this area safe."
+		],
+		[
+			"msg",
+			300559,
+			"When the gate is open, there will be a lot of Houkai creatures coming in. The teams outside will destroy them.",
+			"在闸门开启的这段时间内势必会有大量的崩坏生物涌入，处于正面的主力部队会消灭这些家伙。",
+			"ゲートを開く時にはきっと大量の崩壊生物が雪崩込んでくるはずだよ。正面に位置する主力部隊がそいつらを片付けるの。",
+			"게이트를 열 때는 분명 대량의 붕괴 생물이 쏟아져 들어올 거야. 정면에 위치한 주력 부대가 그놈들을 처리할 거고.",
+			"When they open the gate there will be an onslaught of Honkai beasts. The main force in front of the gate will take care of them.",
+			null,
+			"During the time that the gates are open there will inevitably be a large influx of avalanche creatures, and the main force at the front will destroy these guys.",
+			"When they open the gate, there will be an avalanche of decaying organisms. The main force in front of the gate will take care of them."
+		],
+		[
+			"msg",
+			300560,
+			"What we need to do is to protect the control room, ensuring that the gate will be closed smoothly when Grey Moths get in.",
+			"我们所要做的就是保护控制室，保证闸门在灰蛾部队进入后正常关闭。",
+			"私たちがやることは制御室を守ること。そして、灰蛾部隊が入った後にゲートを正常に閉じること。",
+			"우리가 할 일은 제어실을 지키는 것. 그리고 회아 부대가 들어간 뒤에 게이트를 정상적으로 닫는 거야.",
+			"What we need to do is protect the control room and ensure that the gate closes properly after the Grey Moths arrive.",
+			null,
+			"All we had to do was protect the control room and ensure that the gates closed properly after the moth forces entered.",
+			"What we do is to protect the control room. And to close the gate normally after the ash moth unit enters."
+		],
+		[
+			"msg",
+			300561,
+			"Yssring will be responsible for controlling the gate. Isn't it easy?",
+			"控制闸门的任务就交给伊瑟琳了，怎么样是不是很简单呢~",
+			"ゲート制御の任務はイザーリンに任せてあるよ！どうかな？とっても簡単でしょ？",
+			"게이트 제어 임무는 이자린에게 맡겨뒀어! 어때? 엄청 쉽지?",
+			"Yiserin will be responsible for controlling the gate. Very easy, right?",
+			null,
+			"The task of controlling the gates will be given to Estherine, how is it very simple ~",
+			"I'll leave the gate control mission to Estherine! How about that? Very easy, isn't it?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300562,
+			"Don't take it lightly. This base is the most reliable barrier in the base. If it's broken, we'll be doomed.",
+			"不要说的那么轻松…这个闸门是基地最牢靠的屏障，如果它出了故障我们可都得玩完。",
+			"そんなに軽々しく言わないでよ……このゲートは基地で一番頑丈なバリケードなんだから。もし故障でもしたら、私たちみんなおしまいなんだよ……。",
+			"그렇게 가볍게 말하지 마…… 이 게이트는 기지에서 가장 튼튼한 바리케이드라고. 만약 고장이라도 나면 우리 모두 끝장인 거야…….",
+			"Don't take it so lightly....... This gate is the sturdiest barricade in the base. If it were to malfunction, we're all doomed. ......",
+			null,
+			"Don't talk so easy...this gate is the most reliable barrier of the base, if it malfunctions we all have to play.",
+			"Don't take this so lightly. ...... This gate is the sturdiest barricade on the base. If it were to malfunction, we'd all be finished. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300563,
+			"Got it. That's why Sister asked me, the most reliable of you all, to take care of it!",
+			"知道啦~知道啦~所以姐姐大人才特地派我这么可靠的人来嘛！",
+			"分かった分かった！だから、お姉ちゃんがわざわざ私のように頼りになる人を派遣したんじゃないの！",
+			"알았다고! 그래서 언니가 일부러 나처럼 믿음직한 사람을 파견한 거 아니야!",
+			"Of course~! That's why Bronya specifically sent me, the most dependable one here, to handle it!",
+			null,
+			"I know, I know, that's why my sister sent me to be so reliable!",
+			"Okay, okay, okay! That's why your sister didn't go out of her way to send someone as dependable as me!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300564,
+			"I doubt that. Anyway, at least there is someone we can count on.",
+			"就是因为有你才担心啊…算了，这次至少有个看起来靠谱的家伙在…",
+			"あなたがいるから心配なのよ……まぁ、いいわ。今回は頼りになりそうなヤツもいるから。",
+			"네가 있어서 걱정이야…… 뭐, 좋아. 이번에는 믿음직한 녀석도 있으니까.",
+			"You're the reason I'm worried about.... Forget it. At least there's someone else I can count on here.",
+			null,
+			"It is because you are worried about ah ... forget it, this time at least there seems to be a reliable guy in ...",
+			"You're the reason I'm worried about you. ...... Well, okay. I have a guy I can count on this time."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300565,
+			"Alright. You just focus on the gate and we'll take care of the rest.",
+			"好啦~好啦，你就专心控制闸门，其他交给我们吧~",
+			"はいはい、あなたはゲートの制御に専念して、他のことは私たちに任せてちょうだい。",
+			"알았어, 넌 게이트 제어에 전념하고, 다른 건 우리에게 맡겨 둬.",
+			"Sure, sure. Just focus on controlling the gate and we'll take care of the rest.",
+			null,
+			"Okay, okay, you just focus on controlling the gates, the other leave it to us ~",
+			"Yes, yes, you should concentrate on controlling the gate and leave the rest to us."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV16_WarningAlert"
+		],
+		[
+			"msg",
+			300566,
+			"“Attention. The Grey Moths will be back in 15 minutes.”",
+			"「各单位注意，灰蛾部队还有15分钟抵达。」",
+			"「各部隊注意、灰蛾部隊はあと15分で到着」",
+			"「각 부대 주의, 회아 부대는 15분 후 도착」",
+			"\"Attention all units. The Grey Moths will be arriving in 15 minutes.\"",
+			null,
+			"\"Attention all units, Grey Moth forces are 15 minutes away.\"",
+			"Attention all units, the ash moth unit will be arriving in 15 minutes."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300567,
+			"They are coming back. I heard a rumbling sound from afar.",
+			"看来快到了呢，有听到远处传来的轰鸣声么~",
+			"もう着くみたいね。遠くから轟音が聞こえてくるでしょう？",
+			"벌써 도착하는 모양이네. 멀리서 굉음이 들리지?",
+			"Sounds like they're almost here. You can hear the rumbling in the distance, can't you?",
+			null,
+			"Looks like we're almost there, hear the roar in the distance?",
+			"Looks like we're almost there. You can hear the roar in the distance, can't you?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV17_ExplosionTwoShots"
+		],
+		[
+			"msg",
+			300568,
+			"Rumble...",
+			"轰隆轰隆——",
+			"ゴォン、ゴォン——",
+			"쿵, 쿵——",
+			null,
+			null,
+			"Boom boom boom -",
+			"Gong, gong--"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300569,
+			"That huge movement is exactly what attracts the Houkai creatures. Some of those nearby start coming towards here as well, we'd better move it!",
+			"就是因为有这么大的动静所以才会吸引这么多的崩坏生物，这附近的崩坏生物也已经开始活动了，我们也开始行动吧~",
+			"こんなに大きな音を立てるから、たくさんの崩壊生物を引き寄せちゃうの。きっと、この近くの崩壊生物も動き始めてるよ。私たちも行動を開始しましょ！",
+			"이렇게 큰 소리를 내면 수많은 붕괴 생물들을 유인하게 될 거야. 분명 이 근처의 붕괴 생물들도 움직이기 시작했을 거야. 우리도 작전을 시작하자!",
+			"That overwhelming noise is what attracts all the Honkai beasts. I'm sure the ones near here are starting to move too. Let's get going!",
+			null,
+			"It is because there is such a big noise so it will attract so many Avalanche creatures, the Avalanche creatures around here have also started to move, let's start moving too~",
+			"It makes such a loud noise that it attracts a lot of decay organisms. I'm sure the decaying organisms near here are starting to move too. Let's get moving too!"
+		]
+	],
+	"79": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10104"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300570,
+			"“The Grey Moths will be here in 5 minutes. All squads please stick to the plan and get ready to fight!”",
+			"「灰蛾部队还有5分钟即将抵达，请各小队按计划行动，作战开始！」",
+			"「灰蛾部隊はあと5分で到着。各部隊は計画通りに行動してください。作戦開始！」",
+			"「회아 부대 5분 후 도착. 각 부대는 계획대로 행동하세요. 작전 시작!」",
+			null,
+			null,
+			"\"Grey Moth troops will be arriving in 5 minutes, please move in as planned, battle begins!",
+			"The ash moth unit will arrive in five minutes. All units, please follow the plan. Operation start!\""
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300571,
+			"This side is almost clear. But the battle has just begun. Follow me to see the real boss!",
+			"呼~这边也清理的差不多了，不过现在开始才是正戏，跟我来吧！马上你就能看到那个大家伙了！",
+			"ふぅ～こっちはあらかた片付いたみたいだね。でも本番はこれからだよ。私について来て！すぐに灰蛾とも会えるはず！",
+			"후~ 이쪽은 대충 정리된 것 같네. 하지만 본격적인 건 이제부터야. 날 따라와! 곧 회아 부대도 만날 수 있을 거야!",
+			null,
+			null,
+			"Phew, this side is almost cleared, but now it's time for the main event, follow me! You'll see the big guy soon!",
+			"Well, it looks like we're almost done here. But the real work is just beginning. Follow me! I'm sure we'll meet up with the ash moths soon!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV17_ExplosionTwoShots"
+		],
+		[
+			"msg",
+			300572,
+			"Bang! Bang!",
+			"轰隆！轰隆！！",
+			"ゴォン！ゴォン！！",
+			"쿵! 쿵!!",
+			null,
+			null,
+			"Boom! Boom!!!",
+			"Gong! Gong!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300573,
+			"How's the gate, Yssring?",
+			"伊瑟琳~闸门的情况怎么样？",
+			"イザーリン！ゲートの状況はどう？",
+			"이자린! 게이트 상황은 어때?",
+			"Yiserin! What's the situation on the gate?",
+			null,
+			"Estherine ~ How are the gates coming?",
+			"Estherine! How's the gate situation?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300574,
+			"No problem! It's ready to open, please protect the control room.",
+			"没问题，马上准备开启，请保护好控制室。",
+			"問題ない。すぐに開けるわ。制御室、しっかり守ってね。",
+			"문제없어. 곧 열게. 제어실, 꼭 지켜줘.",
+			null,
+			null,
+			"No problem, ready to open immediately. Please protect the control room.",
+			"No problem. I'll open it right up. Control room, keep it secure."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300575,
+			"OK.",
+			"好勒~",
+			"オッケ～。",
+			"오케이~.",
+			"Alright~",
+			null,
+			"Good~",
+			"Okey~."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV17_ExplosionTwoShots"
+		],
+		[
+			"msg",
+			300576,
+			"Bang! Bang!",
+			"轰隆！轰隆！！",
+			"ゴォン！ゴォン！！",
+			"쿵! 쿵!!",
+			null,
+			null,
+			"Boom! Boom!!!",
+			"Gong! Gong!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300577,
+			"I see it, it's over there! The Grey Moths in between the ruins!",
+			"啊，看到了~看到了~就在那边！那就是穿梭于废墟之中的灰蛾！",
+			"あ、見えた～見えた～あそこ！あの廃墟の中をくぐり抜けているのが灰蛾だよ！",
+			"아, 보였어~ 보였어~ 저기! 저 폐허 사이를 뚫고 지나가는 게 회나방이야!",
+			"Oh, there it is~ There it is~! There's the Grey Moths moving through those ruins!",
+			null,
+			"Ah, I see it~ I see it~ It's over there! That's the gray moth that's traveling through the rubble!",
+			"Oh, I see it - I see it - there! That's an ash moth going through those ruins!"
+		],
+		[
+			"bg",
+			"CG10114"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300578,
+			"Hyperion the Orbital Battleship!",
+			"轨道战舰休伯利安！",
+			"軌道戦艦ハイペリオン！",
+			"궤도 전함 히페리온!",
+			"It's orbital battleship Hyperion!",
+			null,
+			"Orbital Battleship Hubertus!",
+			"Orbital battleship Hyperion!"
+		],
+		[
+			"msg",
+			300579,
+			"Isn't it cool? It's a real aircraft cruiser, but it's turned into a battleship due to the dysfunctional nuclear engine.",
+			"怎么样！很帅吧！这可是货真价实的航空战舰哦~不过因为动力炉损坏了改装成了轨道战舰~",
+			"どう？カッコいいでしょ？これが本物の航空戦艦だよ～！でも動力炉の損傷で空は飛べないんだけどね。レール、つまり軌道の上のみを走る戦艦になっちゃった。",
+			"어때? 멋지지? 이게 진짜 항공 전함이야~! 하지만 동력로 손상으로 하늘은 날 수 없게 됐어. 레일, 즉 궤도 위에서만 달리는 전함이 돼버렸지.",
+			"How do you like it? Isn't it awesome? It's a real aircraft cruiser! But it can't fly because of the damage to its power reactor, so it can only run on rails right now.",
+			null,
+			"How about it! Very handsome, right? This is the real air battleship Oh ~ but because the power furnace is damaged converted into an orbital battleship ~",
+			"How do you like it? Isn't it cool? This is a real air battleship! But it can't fly because of the damage to the power reactor. It's now a battleship that runs only on rails, or orbits."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			300580,
+			"It requires quite an effort to run this battleship. The only drawback is the loud noise it makes.",
+			"让这么大的家伙在轨道上运行可是费了好大力气才实现的…现在看来唯一的缺点就是噪音大了点……",
+			"こんなに大きなやつがレールの上を走るにはかなりのパワーがいるけどね……それと唯一の欠点は騒音が大きすぎること。",
+			"이렇게 큰 녀석이 레일 위를 달리려면 상당한 파워가 필요하지만…… 게다가 유일한 단점은 소음이 너무 크다는 거야.",
+			"It took a lot of effort to get a massive battleship like this running on the rails. .....The only downside is that it's way too noisy.",
+			null,
+			"Let such a big guy running on the track but a lot of effort to achieve ... Now it seems that the only drawback is the noise is a little ......",
+			"It takes a lot of power for such a big one to run on rails, though. ...... And the only downside is that it's too noisy."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"msg",
+			300581,
+			"Isn't it great? In this silent world of Houkai, this deafening noise is the proof of our existence.",
+			"不是挺好的么~从这个因崩坏而变得死寂的世界中传来的嘶吼，这才是我们的存在证明啊~",
+			"別にいいじゃない。崩壊によって死の静けさに包まれたこの世界に雄叫びをあげられるんだから。これこそ私たちの存在証明だよ～！",
+			"별로 안 그래. 붕괴로 인해 죽음의 고요에 휩싸인 이 세상에 울부짖을 수 있잖아. 이게 바로 우리의 존재 증명이야~!",
+			"But that's fine, isn't it? We can scream out to this world that's been enveloped in the silence of death from the Honkai. This is the proof of our existence~!",
+			null,
+			"Isn't it good~ The hissing from the world that has become dead because of the collapse is the proof of our existence~",
+			"It doesn't matter. We can scream out to this world that has been enveloped in the stillness of death by the collapse. This is the proof of our existence~!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			300582,
+			"Only if everyone is as optimistic as you... Every time I see the crowd of Houkai creatures, I think it's the end of my life.",
+			"要是大家都像你这么乐观就好了…每次看到后面那片黑压压的崩坏生物，我就觉得自己活不过今晚……",
+			"みんながあなたみたいに楽観的だったらいいんだけど……いつも一緒に来るあの黒々とした崩壊生物を見るたび、生きて帰れる気がしない……。",
+			"다들 당신처럼 낙관적이면 좋겠지만...... 항상 함께 오는 그 칠흑 같은 붕괴 생물을 볼 때마다, 살아서 돌아갈 수 있을 것 같지가 않아......",
+			"I wish everyone had your optimism... But every time I see the black shadow of a crowd of Honkai beasts running at me, I feel like I won't make it out alive to see the next day....",
+			null,
+			"If only everyone was as optimistic as you are... Every time I see that black crush of collapsing creatures behind me, I feel like I won't survive the night ......",
+			"I wish everyone was as optimistic as you are, but every time I see that black disintegrating creature that always comes with me, I don't think I'll make it out alive. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"msg",
+			300583,
+			"Alright. We are prepared to take them down, aren't we?",
+			"安啦~我们如此严阵以待不就是为了消灭她们么~",
+			"ん～私たちがこんな厳重に構えているのは、あいつらを消滅させるためなんだから大丈夫だよ～！安心して！",
+			"음~ 우리가 이렇게 삼엽하게 대비한 건 그 녀석들을 소멸시키기 위해서니까 괜찮아~! 안심해!",
+			null,
+			null,
+			"Anla ~ we are so ready to destroy them is not it ~",
+			"Hmmm~ the only reason we're standing here so sternly is to make those guys disappear, so don't worry~! Don't worry!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV18_WarningAlertTunnel"
+		],
+		[
+			"msg",
+			300584,
+			"“The Houkai creatures have entered the battle zone. The battle begins!”",
+			"「崩坏生物进入作战区域，作战开始！」",
+			"「崩壊生物が作戦エリアに入った。作戦開始！」",
+			"「붕괴 생물이 작전 구역에 진입. 작전 시작!」",
+			"\"Honkai creatures have entered the area of operation. Operation start!\"",
+			null,
+			"\"Avalanche creatures enter the combat zone, combat begins!",
+			"Disintegrating organisms have entered the area of operation. Operation start!\""
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV19_ExplosionOneShot"
+		],
+		[
+			"msg",
+			300585,
+			"Bomb!",
+			"轰隆！！！",
+			"ゴォン！！！",
+			"쿵!!!",
+			"BOOM!!!",
+			null,
+			"BOOM!!!",
+			"Gong!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"msg",
+			300586,
+			"The fireworks are stunning!",
+			"咻~真是漂亮的烟花！",
+			"ヒュ～本当にきれいな花火！",
+			"휴~ 정말 아름다운 불꽃놀이야!",
+			"Phew~ What beautiful fireworks!",
+			null,
+			"Phew~ what a beautiful firework!",
+			"Hu~ Really beautiful fireworks!"
+		],
+		[
+			"msg",
+			300587,
+			"Go! Can you hear the horn? It's our time to shine!",
+			"走吧！进攻的号角已经吹响了，该轮到我们出场了！",
+			"行きましょう！攻撃ののろしが上がったわ！私たちの出番だよ！",
+			"가자! 공격 봉화가 올라갔어! 우리의 차례야!",
+			"Let's go! You heard the horn, it's our turn to play! (TN: She literally says this in Chinese)",
+			null,
+			"Let's go! The call to attack has been blown, it's our turn to play!",
+			"Let's go! The attack is underway! It's our turn!"
+		]
+	],
+	"80": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10104"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV20_BaseGateOpenBig"
+		],
+		[
+			"msg",
+			300588,
+			"The base gate is open. Hyperion is going into the station.",
+			"基地闸门开启…休伯利安号开始入站。",
+			"基地のゲート開放……ハイペリオン号受け入れ開始。",
+			"기지 게이트 개방......히페리온 호 수용 시작.",
+			null,
+			null,
+			"The base gates opened...and the USS Huberian began its entry.",
+			"The gates of the base are opened ...... and the Hyperion is now open for acceptance."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300589,
+			"Everything is fine so far. The frontline should be ready. I think the battle is coming to an end.",
+			"呼~目前为止一切顺利，前线那边应该也差不多了，看来快接近尾声了么~",
+			"ふぅ～ここまでは全て順調ね。前線の方も大丈夫なはず。もうじき終わるよ！",
+			"후~ 여기까지는 모두 순조로워. 전선 쪽도 괜찮을 거야. 이제 곧 끝날 거야!",
+			null,
+			null,
+			"Phew ~ so far everything is going well, the front side should also be almost, it seems to be close to the end of it ~",
+			"Whew - all is well so far. The front line should be fine. It will be over soon!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV21_WarningAlertTunnelB"
+		],
+		[
+			"msg",
+			300590,
+			"“Warning! A crowd of Houkai creatures is approaching! Attention! A crowd of Houkai creatures is approaching!”",
+			"「警报！发现大量崩坏生物靠近！请各单位注意！发现大量崩坏生物靠近！」",
+			"「警報！大量の崩壊生物が接近中！各部隊は注意してください！大量の崩壊生物が接近中！」",
+			"「경보! 대량의 붕괴 생물이 접근 중! 각 부대는 주의해 주세요! 대량의 붕괴 생물이 접근 중!」",
+			"\"Alert! A large number of Honkai creatures have been spotted approaching! All units, please be advised! We have a large number of Honkai creatures approaching!\"",
+			null,
+			"\"Alert! A large number of collapsed creatures have been spotted approaching! All units, please be advised! We have a large number of Avalanche creatures approaching!\"",
+			"Warning! Massive decaying organisms approaching! All units use caution! Massive decaying organisms approaching!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300591,
+			"Are we defeated?",
+			"呃！这么快就立Flag了么！",
+			"うっ！こんなに早くフラグを折られるなんて！",
+			"윽! 이렇게 빨리 플래그가 꺾이다니!",
+			"Ugh! I jinxed us already... (TN: In Japanese and Chinese she said something about setting a flag, so I think she was making a \"death flag\" joke like in anime)",
+			null,
+			"Ugh! So soon to set a flag!",
+			"Ugh! I can't believe they broke the flag so soon!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			300592,
+			"Seele, what's that? Is it a bug? I've never seen a Houkai creature like this.",
+			"喂…希儿，那边到底是什么东西？是虫子么？从来没有见过这种崩坏生物……",
+			"ねえ……ゼーレ、あっちのは一体何なの？虫？あんな崩壊生物見たことない……。",
+			"저기……제레, 저쪽에 있는 건 대체 뭐야? 벌레? 저런 붕괴 생물은 본 적이 없어…….",
+			"Hey... Seele, what the heck are those? Bugs? I've never seen Honkai creatures like that...",
+			null,
+			"Hey...Hir, what the hell is that thing over there? Is it a bug? Never seen such a collapsing creature before ......",
+			"Hey ...... Seele, what the hell is that over there? Worms? I've never seen a disintegrating creature like that. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300593,
+			"Attention! A multitude of new species of Houkai creatures is at the frontline! Change of plans: Retreat to the base immediately!",
+			"各位！前线发现大量新生种崩坏生物！作战计划改变！立即返回基地！",
+			"みなさん！前線に新種の崩壊生物が大量に現れました！作戦変更！ただちに基地へ退却！",
+			"여러분! 전선에 신종 붕괴 생물이 대량으로 출현했어요! 작전 변경! 즉시 기지로 퇴각!",
+			null,
+			null,
+			"Everyone! A large number of newborn Avalanche creatures have been found on the front line! Change of plan! Return to base immediately!",
+			"Ladies and gentlemen! A new species of disintegrator has appeared on the front lines in droves! Change of plans! Fall back to base immediately!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			300594,
+			"Why are you here, Sister?",
+			"姐姐大人，你怎么来了？",
+			"お姉ちゃん、どうして来たの？",
+			"언니, 왜 왔어?",
+			"Bronya, what are you doing here?",
+			null,
+			"Sister-sama, what brings you here?",
+			"Sis, why did you come?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300595,
+			"We're not familiar with those bug-like creatures. It's not safe to confront them right now. Yssring, close the gate immediately when Hyperion gets into the station.",
+			"那些虫形生物的特征还不明确，贸然交战的话十分不利，伊瑟琳！休伯利安入站后立刻关闸门！",
+			"あの虫のような形の特徴はまだはっきりしていませんが、軽率に戦うのは不利です。イザーリン、ハイペリオンを受け入れ後、直ちにゲート閉鎖！",
+			"저 벌레 같은 형태의 특징은 아직 명확하지 않지만, 경솔하게 싸우는 것은 불리해요. 이자린, 히페리온 수령 후 즉시 게이트 폐쇄!",
+			"We're not familiar with those bug-like creatures. It's not safe to confront them right now. Yiserin, close the gate immediately when Hyperion gets into the station.",
+			null,
+			"The characteristics of the insectoid creatures are still unclear, so it would be very bad to engage them, Estherine! Close the gates as soon as Hubertarian enters the station!",
+			"The characteristics of that insect-like shape are not yet clear, but it is not a good idea to fight it rashly. Estherine, after accepting Hyperion, close the gate immediately!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			300596,
+			"But some members are still at the frontline...",
+			"可是…前线还有没有撤退的人员……",
+			"でも、前線にはまだ撤退していない人が……。",
+			"하지만, 전선에는 아직 퇴각하지 않은 사람들이…….",
+			null,
+			null,
+			"But...there are still no retreating personnel at the front ......",
+			"But there are still people on the front lines who have not yet withdrawn from ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300597,
+			"I'll go save them, don't worry.",
+			"我会去营救她们的，这个你不用担心。",
+			"ブローニャが回収しに行きますから心配いりません。",
+			"브로냐가 수거하러 갈 테니까 걱정하지 마세요.",
+			null,
+			null,
+			"I will go to rescue them, you don't have to worry about this.",
+			"Don't worry, Bronya will go and collect it."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			300598,
+			"But...",
+			"可是……",
+			"でも……。",
+			"하지만…….",
+			null,
+			null,
+			"But ......",
+			"But you can also visit ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			300599,
+			"I'm coming with you.",
+			"姐姐大人！我要和你一起去！",
+			"お姉ちゃん！私も一緒に行く！",
+			"언니! 나도 같이 갈게!",
+			null,
+			null,
+			"Sister-sama! I want to go with you!",
+			"Sis! I'm coming with you!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300600,
+			"Seele, you stay at the gate to protect those in retreat. The base is in your hand now.",
+			"希儿，你负责掩护闸门附近的人撤退，基地这边就交给你了。",
+			"ゼーレ、あなたはゲート近くの人の撤退を担当してください。基地のことはあなたに任せます。",
+			"제레, 당신은 게이트 근처 인원의 퇴각을 담당해 주세요. 기지의 일은 당신에게 맡길게요.",
+			"Seele, I'm putting you in charge of handling the retreat of those near the gate. The base is in your hands.",
+			null,
+			"Hill, you are responsible for covering the retreat of people near the gates, the base side is in your hands.",
+			"Seele, you are in charge of withdrawing the people near the gate. You are in charge of the base."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			300601,
+			"But, Sister...",
+			"姐姐大人…可是！",
+			"お姉ちゃん……でも！",
+			"언니……하지만!",
+			null,
+			null,
+			"Sister-sama...but!",
+			"Even your sister ......!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			300602,
+			"Hyperion stops at the gate. Maybe something happened...",
+			"那个…休伯利安在闸门附近停止了，不知道发生了什么……",
+			"あ……ハイペリオンがゲートの近くで停まった。何かあった……？",
+			"아……히페리온이 게이트 근처에서 멈췄어. 무슨 일이 있었던 거야……？",
+			"Ah... The Hyperion stopped near the gate. Maybe something happened...",
+			null,
+			"That...Hubleyan stopped near the gates, don't know what happened ......",
+			"Oh ...... Hyperion stopped near the gate. What's up ......?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300603,
+			"Hyperion? Can we get in touch with the Grey Moths? Tell them to get in here at once!",
+			"休伯利安？可以与灰蛾取得联系么，让他们立刻进站！",
+			"ハイペリオン？灰蛾と連絡をとれますか？彼女らを今すぐ中に！",
+			"히페리온? 회나방과 연락할 수 있나요? 그녀들을 지금 당장 안으로!",
+			null,
+			null,
+			"Hubertus? Can we get in touch with Grey Moth and get them into the station immediately!",
+			"Hyperion? Can you contact the ash moths? Get them inside now!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			300604,
+			"We can't. The communication has been cut off, and Hyperion seems to be firing its cannon...",
+			"联系不上，通讯被切断了，而且…休伯利安的主炮似乎开始运作了……",
+			"連絡がつかない……通信が切断されてる。しかも……ハイペリオンの主砲が動き始めてる！",
+			"연락이 안 돼……통신이 끊겼어. 게다가……히페리온의 주포가 움직이기 시작했어!",
+			"I can't get in contact... The communications are down. And Hyperion's main cannon is starting to move!",
+			null,
+			"Can't get in touch, communications are cut off and...the main cannon of the Hublian seems to be operational ......",
+			"I can't contact ...... communications are down. And ...... Hyperion's main gun is starting to move!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			300605,
+			"Cannon? Inform those at the frontline to take shelter now and stay away from the Hyperion's cannon range!",
+			"主炮…他们难道是想……快，通知前线人员立刻寻找掩体，远离休伯利安主炮弹道范围！",
+			"主砲……まさか！早く、前線の人たちへすぐに遮蔽物を探して、ハイペリオンの主砲弾道範囲から隠れ、離れるように伝えてください！",
+			"주포…… 설마! 빨리, 전선에 있는 사람들에게 즉시 엄폐물을 찾아서, 히페리온의 주포 탄도 범위에서 숨고, 떨어지라고 전해 주세요!",
+			"The main cannon... Are they trying to... Quick, inform those on the frontlines to seek cover and get out of the cannon's range!",
+			null,
+			"The main gun...are they trying to ...... Quick, inform the front line personnel to find cover immediately and get far away from the ballistic range of the main Hubleyan gun!",
+			"Main gun ...... No way! Quick, tell the front line people to immediately seek cover and get out of the Hyperion's main gun ballistic range!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			300606,
+			"But at this distance, the gate will be...",
+			"但，但是！这个距离开炮的话闸门的结构会被……",
+			"で、でも！この距離で撃たれたらゲートも……！",
+			"그, 하지만! 이 거리에서 쏘면 게이트도……!",
+			"Wait, wait! If they shoot at us from this distance, the gate will be...!",
+			null,
+			"But, but! The structure of the gate will be ...... if the gun is fired at this distance",
+			"And, but! If they shoot at us from this distance, the gate will be ...... too!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				59,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300607,
+			"Get down, Yssring!",
+			"伊瑟琳！别傻站着！快趴下！",
+			"イザーリン、立ってちゃダメ！早く伏せて！",
+			"이자린, 일어서면 안 돼! 빨리 엎드려!",
+			"Yiserin, don't just stand there! Quick, get down!",
+			null,
+			"Estherine! Don't just stand there! Get down!",
+			"Estherine, don't just stand there! Quick, get down!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				59,
+				3,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			300608,
+			"Bomb!",
+			"砰！！！！！！",
+			"バン！！！！！！",
+			"빵!!!!!!!!",
+			null,
+			null,
+			"Bang ！！！！！！",
+			"Van ！！！！！！"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV23_ExplosionClose"
+		],
+		[
+			"msg",
+			300609,
+			"Bomb!",
+			"轰隆！！！！",
+			"ゴオオン！！！！",
+			"우르릉!!!!",
+			null,
+			null,
+			"Rumble ！！！！",
+			"GooOn！！！！"
+		],
+		[
+			"msg",
+			300610,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				59,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300611,
+			"What are the Grey Moths thinking?",
+			"咳咳……灰蛾那群家伙…也太乱来了吧！",
+			"ゴホッ、ゴホッ……灰蛾のやつら……無茶苦茶でしょ！",
+			"콜록, 콜록…… 회나방 녀석들…… 말도 안 돼!",
+			"(cough, cough...) Those Grey Moths... What the heck's wrong with them!?",
+			null,
+			"Ahem ...... the grey moth guys... are too messed up!",
+			"Gosh, gosh ...... those ash moths ...... must be absurd!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				59,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			300612,
+			"Wow, I'm still alive...",
+			"唔…我居然还活着……",
+			"う、うーん……まだ、生きてる……？",
+			"으, 으음…… 아직, 살아있어……?",
+			null,
+			null,
+			"Well...I'm actually still alive ......",
+			"Ummm, umm ...... still, alive ......?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			300613,
+			"Calling frontline. The invading Houkai cratures have been eliminated, please return to the base immediately.",
+			"…呼叫前线，崩坏生物的进攻被消灭了，立刻返回。",
+			"……前線へ、崩壊生物からの攻撃は停止しました、直ちに帰還してください。",
+			"……전선으로, 붕괴 생물로부터의 공격은 중지되었습니다, 즉시 귀환하세요.",
+			null,
+			null,
+			"...calling the front line, the attack of the collapsed creatures is eliminated, return immediately.",
+			"...... to the front lines, the attack from the decaying organisms has ceased, please return immediately."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			300614,
+			"Bronya... We're connected to Hyperion.",
+			"布洛妮娅…休伯利安的通讯接通了。",
+			"ブローニャ……ハイペリオンと通信がつながった。",
+			"브로냐……히페리온과 통신이 연결됐다.",
+			null,
+			null,
+			"Bronya...Huberian's communication came through.",
+			"Bronya...... Hyperion and I have been in communication."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10112"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV24_RadioSignals"
+		],
+		[
+			"msg",
+			300615,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			"..."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"msg",
+			300616,
+			"Grey Moths to the base.",
+			"灰蛾部队呼叫基地。",
+			"灰蛾部隊より基地へ。",
+			"회아 부대에서 기지로.",
+			null,
+			null,
+			"Gray Moth Force to base.",
+			"From the Ash Moth Unit to the base."
+		],
+		[
+			"msg",
+			300617,
+			"Target has been eliminated. Hyperion please continue its journey.",
+			"目标消灭，休伯利安继续返航…",
+			"目標消滅。ハイペリオン号、運転を継続。",
+			"목표 소멸. 히페리온 호, 운항을 계속.",
+			"The target has been eliminated. The Hyperion is continuing on track.",
+			null,
+			"The target was eliminated and Huberian continued its return...",
+			"Target is extinguished. The Hyperion continues operation."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			300618,
+			"Roger, Yssring.",
+			"……明白了，伊瑟琳。",
+			"……分かりました、イザーリン。",
+			"……알겠습니다, 이자린.",
+			"Got it. Yiserin?",
+			null,
+			"...... got it, Estherine.",
+			"...... I understand, Estherine."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			300619,
+			"But the gate has been damaged by the bomb.",
+			"嗯，但是，那个…闸门因为刚才的炮击损坏了……",
+			"うん。でも、あの……ゲートが今の砲撃で壊れちゃって……。",
+			"응. 하지만, 저…… 게이트가 방금 포격으로 부서져서…….",
+			"Er, well... The gate has been damaged because of the cannon shelling right now...",
+			null,
+			"Well, but that...the gate was damaged because of the shelling just now ......",
+			"Yup. But that ...... gate was broken by the current bombardment. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"msg",
+			300620,
+			"She's as violent as always.",
+			"哎~还是一如既往暴力的女人。",
+			"やれやれ～相変わらず暴力的な女だね。",
+			"아이구~ 여전히 폭력적인 여자네.",
+			"Good grief~ She's as violent as always.",
+			null,
+			"Hey ~ as always, violent women.",
+			"Good grief - she's still a violent woman."
+		],
+		[
+			"msg",
+			300621,
+			"Murata Himeko...",
+			"那个无量塔姬子……",
+			"あの無量塔姫子は……。",
+			"저 무라타히메코는…….",
+			"That Himeko Murata...",
+			null,
+			"That Immeasurable Tower Himeko ......",
+			"That Muryotou Himeko can be found at ......."
+		]
+	],
+	"81": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10095"
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300622,
+			"She never asks for my permission.",
+			"为什么不经过我的同意擅自行动。",
+			"どうして同意を得ずに勝手な行動を取るのですか。",
+			"왜 동의를 얻지 않고 제멋대로 행동을 취하는 거예요?",
+			"Why did you act without my permission?",
+			null,
+			"Why did you act without my permission.",
+			"Why do you take the liberty of acting without consent?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300623,
+			"Time is of the utmost importance during a crisis, and I only make correct decisions in a time like this, that's why I'm still alive.",
+			"在危机的时刻时间是最宝贵的，我只是在宝贵的时间内选择了最正确的方案而已，我们正是这样才活到现在。",
+			"危険なときに時間は最も貴重なの。私は貴重な時間の中で最良な方法を選択しただけよ。現に今こうして生きているじゃないの。",
+			"위험할 때 시간은 가장 귀중한 거야. 나는 귀중한 시간 속에서 최선의 방법을 선택했을 뿐이야. 현실이 이렇게 살아있잖아.",
+			"Time is the most precious when we're at risk. I just picked the best choice at that time. That's why we're still alive right now.",
+			null,
+			"In times of crisis time is the most valuable, I just choose the most correct program within the precious time, and that's exactly how we have survived until now.",
+			"Time is most precious when it is at risk. I just chose to do the best I could with the precious time I had. I'm alive right now."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300624,
+			"Even if that means you would put everyone in danger?",
+			"即使让大家陷入危险中么？",
+			"みんなを危険に陥れたとしてもですか？",
+			"모두를 위험에 빠뜨렸다고 해도요?",
+			"Even if it puts everyone else in danger?",
+			null,
+			"Even if it puts everyone in danger?",
+			"Even if it puts everyone else in danger?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300625,
+			"I minimized the casualty.",
+			"但事实上这才是伤亡最小的选择。",
+			"でも事実として、これが被害を最小限に抑える選択よ。",
+			"하지만 사실로서, 이게 피해를 최소한으로 억제하는 선택이야.",
+			"I picked the option with the least causalities.",
+			null,
+			"But the truth is that this is the option with the least casualties.",
+			"But the fact is, this is the choice that minimizes the damage."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300626,
+			"...",
+			"……",
+			"……。",
+			"……。",
+			"..."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				59,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300627,
+			"Alright. Isn't it great that no one hurt? Let's take a break after the long, hard fight.",
+			"好啦~好啦~既然有惊无险不是最好的结果么，大家战斗了一早上了，也休息一下吧~",
+			"ほらほら！びっくりしたけど、危険はなかったんだからよかったじゃない。みんな朝からずっと戦ったんだし、休みましょうよ～！",
+			"자, 자! 놀랐지만 위험은 없었으니까 다행이잖아. 모두 아침부터 계속 싸웠으니 좀 쉬자~!",
+			null,
+			null,
+			"Well ~ well ~ since there is no danger is not the best result, we have fought all morning, also rest it ~",
+			"There you go! I was surprised, but I'm glad you weren't in any danger. We've all been fighting all morning, let's get some rest~!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				59,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300628,
+			"It's not the time for a break.",
+			"现在不是休息的时候。",
+			"今は休む時ではありません。",
+			"지금은 쉴 때가 아니에요.",
+			"Now is not the time to rest.",
+			null,
+			"Now is not the time to rest.",
+			"Now is not the time to rest."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300629,
+			"Yes, we have something more important to do.",
+			"嗯，我们还有更重要的事情要做。",
+			"ええ、もっと大事なことをしないとね。",
+			"예, 더 중요한 일을 하지 않으면 안 되니까요.",
+			null,
+			null,
+			"Well, we have more important things to do.",
+			"Yeah, we have more important things to do."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300630,
+			"Didn't you just have a fight?",
+			"你们原来不是在吵架么……",
+			"あなたたちケンカしてたんじゃ……。",
+			"너희들 싸우고 있던 거 아니...?",
+			null,
+			null,
+			"You were not fighting ......",
+			"I thought you guys were fighting. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300631,
+			"Himeko, what did you find?",
+			"姬子，这次探查有什么新的发现么？",
+			"姫子、今回の偵察で何か新しい発見はありましたか？",
+			"히메코, 이번 정찰에서 새로운 발견은 있었나요?",
+			"Himeko, did you discover anything new during the reconnaissance?",
+			null,
+			"Himeko, did you find anything new in this scouting?",
+			"Himeko, did you discover anything new during this reconnaissance?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300632,
+			"Nothing. We expanded our search, but the progress is still not promising.",
+			"依然没有什么线索，我们尝试扩大了搜索范围，不过推进的非常困难。",
+			"依然として何の手がかりもないけれど、私たち捜索範囲を拡大してみたの。でも、とても難しいわね。",
+			"여전히 아무런 단서도 없지만, 우리는 수색 범위를 확대해 보았어. 하지만 정말 어렵네.",
+			null,
+			null,
+			"There were still no clues, and we tried to expand the search, but it was very difficult to advance.",
+			"We still have no leads, but we have tried to expand our search. But it's very difficult."
+		],
+		[
+			"msg",
+			300633,
+			"Besides, the new species of Houkai creatures found outside of Nagazora are the biggest discovery we have so far. We're coming back to protect the resources.",
+			"另外，最大的发现还是在长空市的外围出现的疑似新生种的崩坏生物，为了保障物资的安全所以先折回了。",
+			"それから、最大の発見は長空市の周りに新種と思われる崩壊生物が現れたことね。ただ、物資の安全を優先して先に引き返して来ちゃった。",
+			"그리고 가장 큰 발견은 창공시 주변에 신종으로 추정되는 붕괴 생물이 나타났다는 거네. 다만, 물자의 안전을 우선시해서 먼저 돌아오고 말았어.",
+			"And the biggest discovery of all was the appearance of what appeared to be a new species of Honkai organisms around Nagazora City. But we had to turn around and go back to the city to secure our supplies.",
+			null,
+			"In addition, the biggest discovery is the appearance of suspected newborn species of collapsed creatures in the periphery of the city of Longkong, in order to protect the safety of supplies so first turned back.",
+			"And the biggest discovery of all was the appearance of what appeared to be a new species of disintegrating organisms around Changkuu City. But we had to turn around and go back to the city to secure our supplies."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300634,
+			"New species... Are they the same as the bugs that attacked us?",
+			"新生种的崩坏生物么…莫非是这次忽然袭击我们的虫子？",
+			"新種の崩壊生物ですか……まさか今回いきなり襲撃してきた虫ですか？",
+			"신종 붕괴 생물인가요…… 설마 이번에 갑자기 습격해 온 벌레인가요?",
+			"A new species of Honkai creature? Could it be those insects that suddenly attacked us?",
+			null,
+			"Are the newborn species of disintegrating creatures...could it be the bugs that suddenly attacked us this time?",
+			"Is this a new species of disintegrating creature? ...... You don't think it's the insect that suddenly attacked us this time, do you?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300635,
+			"No. Based on our teammates' description, they are more like reptiles. But the bugs you mentioned are also a new species.",
+			"不是，根据目击队员的描述似乎是四足爬行类的特征，不过刚才的虫子应该也是最近才出现的新生种。",
+			"いいえ、目撃した隊員の説明では四つ足で這うタイプのようよ。でもさっきの虫も最近現れた新種に違いなさそうね。",
+			"아니요, 목격한 대원 설명에 따르면 네 발로 기어다니는 타입이래요. 하지만 방금 그 벌레도 최근 나타난 신종일 거라 생각해요.",
+			"No. Based on eyewitness reports it seems to be a four-legged creature similar to a reptile. But those insects we saw must also be a new species.",
+			null,
+			"No, according to the eyewitnesses it seems to be a quadrupedal reptile feature, but the bug just now should also be a newborn species that has only recently appeared.",
+			"No, the crew member who saw it described it as a four-legged crawler. But the insects I just saw must be a new species that has recently appeared."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300636,
+			"The Houkai impact is not reduced, and there are new species of Houkai creatures... Looks like the Houkai is going to strike even harder in the future. We can't just sit and wait.",
+			"崩坏的影响并没有减弱，更有大量的新生种诞生…看来崩坏的狂潮还会更加肆虐…我们不能就这样坐以待毙了。",
+			"崩壊の影響は弱まるどころか、大量の新種を生み出している……崩壊の勢いはますます増しているようですね。しかし、このまま死ぬのをただ待つわけにはいきません。",
+			"붕괴의 영향은 약해지기는커녕 오히려 대량의 신종을 만들어내고 있어... 붕괴의 기세는 점점 거세지고 있는 모양이군요. 하지만 이대로 죽음을 기다릴 순 없습니다.",
+			"The Honkai impact is not reduced, and there are new species of Honkai creatures... Looks like the Honkai is going to strike even harder in the future. We can't just sit back and wait for it to happen.",
+			null,
+			"The effects of the collapse have not abated, and there are even more newborn species being born... It seems that the collapse frenzy will rage even more... We can't just sit back and wait for it to happen.",
+			"Far from weakening the effects of the collapse, it seems that the ...... collapse is gaining more and more momentum, creating a large number of new species. However, we cannot simply wait for it to die."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300637,
+			"So you've made up your mind.",
+			"终于下定决心了么。",
+			"やっと決断したのね。",
+			"드디어 결심했구나.",
+			"So you've made up your mind.",
+			null,
+			"Have you finally made up your mind.",
+			"You finally made a decision."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300638,
+			"Yes, it's time to fight back.",
+			"嗯…反攻的时候到了。",
+			"ええ……反撃の時です。",
+			"네... 반격의 시간이에요.",
+			"Yes, it's time to fight back.",
+			null,
+			"Well...the time has come to counterattack.",
+			"Yes ...... it's time to fight back."
+		]
+	]
+}

@@ -1,0 +1,1957 @@
+{
+	"1187": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306482,
+			"Yssring, does the black box you mentioned still work? If not, I'll toss it into the trash.",
+			"伊瑟琳，你之前所说的黑匣子还有用么，没用的话我就扔掉了。",
+			"イザーリン、前に言ってたブラックボックス、まだ要る？必要ないなら捨てるけど。",
+			"이자린, 전에 말했던 블랙박스, 아직 필요해? 필요 없으면 버리겠는데.",
+			null,
+			null,
+			"Estherine, do you still have the black box you mentioned before, I'll throw it away if it's useless.",
+			"Estherine, do you still need the black box you mentioned before? If you don't need it, I'll throw it away."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306483,
+			"Oh, you found it? Then let's keep it. Mecha weapon rampages are a thing of the past now, but conducting research on them will still be useful for future productions.",
+			"啊…如果捡到的话就拿过来没关系，虽然现在没有机甲兵器暴走的危险了，不过研究它们对我们后续的生产会有帮助。",
+			"あ……もし拾ったのなら持って来てくれても構わないわ。今のところ機甲兵器が暴走する危険はないけど、研究すれば今後の生産に役立つから。",
+			"아…… 만약 주웠다면 가져와도 괜찮아. 지금은 기갑병기가 폭주할 위험은 없지만, 연구하면 향후 생산에 도움이 되니까.",
+			null,
+			null,
+			"Ah... It's okay to take them if you pick them up, although there is no more danger of mecha weapons going berserk, but studying them will be helpful for our subsequent production.",
+			"Oh ...... if you picked it up you can bring it to me. There's no danger of armored weapons going off the rails at the moment, but research would help with future production."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306484,
+			"I'll just leave it here then.",
+			"那我就放这里了哦~",
+			"わかった。じゃあ、ここに置いておくね～。",
+			"알았어. 그럼, 여기에 놔둘게~.",
+			null,
+			null,
+			"Then I'll put it here.",
+			"Okay, I'll leave it here. Then I'll leave it here~."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306485,
+			"Sure.",
+			"好……",
+			"はい……",
+			"네...",
+			null,
+			null,
+			"Good ......",
+			"Yes ......"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306486,
+			"Eh, guess it's damaged anyway... I've dismantled hundreds, yet none of them worked.",
+			"哎…反正又是被破坏了吧…都拆了几百个了没一个有用的……",
+			"はぁ……どうせまた鎌でズッタズタにされたものよね……数百個解体して使えるものが1個もないなんて……。",
+			"하아…… 설마 또 낫으로 썰어버린 거겠지…… 수백 개 분해해도 쓸 만한 게 하나도 없다니......",
+			null,
+			null,
+			"Hey ... anyway, it was destroyed again ... are demolished hundreds of not a useful ......",
+			"Huh,...... it's just another one shredded by a sickle anyway,...... I can't believe they dismantled hundreds of them and didn't find a single usable one,......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306487,
+			"(Beep... beep... beep...)",
+			"「滴…滴…滴…」",
+			"「ピー……ピー……ピー……」",
+			"「삐...... 삐...... 삐......」",
+			null,
+			null,
+			"\"Drip...drip...drip...\"",
+			"P......P......P......\""
+		],
+		[
+			"msg",
+			306488,
+			"\"--. .. ..-. -\"",
+			"「--. .. ..-. -」",
+			"「--. .. ..-. -」",
+			"「--. .. ..-. -」",
+			null,
+			null,
+			"\"-. ... ... -. -\"",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306489,
+			"See? Something meaningless yet again... Hmm, wait, what is this?",
+			"看吧…果然又是意义不明的东西…………嗯！？",
+			"ほら……また意味不明なものが…………ん！？",
+			"봐봐…… 또 의미불명의 것들이...... 음!?",
+			null,
+			null,
+			"See...it's really something of unknown meaning again ............ eh!",
+			"Here ...... is another one that doesn't make sense: ............ Hmm!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306490,
+			"What's up? Found anything new?",
+			"怎么了？有什么新发现么？",
+			"どうしたの？新しい発見があった？",
+			"무슨 일이야? 새로운 발견이라도 있었어?",
+			null,
+			null,
+			"What's going on? Did you find anything new?",
+			"What's wrong? Did you discover something new?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306491,
+			"This... is this Morse code? This has never happened before!",
+			"这…这个是摩斯码么，之前都没有发生过！",
+			"こ……これ、モールス信号じゃない？今までこんなことなかったのに！",
+			"이...... 이거, 모스 신호 아니? 지금까지 이런 적 없었는데!",
+			null,
+			null,
+			"This...is this Morse code? It hasn't happened before!",
+			"Isn't this ...... this is Morse code? This has never happened to me before!"
+		],
+		[
+			"msg",
+			306492,
+			"It says... GIFT? What's that supposed to mean?",
+			"这个意思是……礼物？到底代表着什么呢……",
+			"この意味は……贈り物？一体何のこと……？",
+			"이 의미는…… 선물? 대체 무슨 말이지……？",
+			null,
+			null,
+			"Does this mean ...... gift? What does it really mean ......",
+			"What does this mean ...... gift? What the heck is this ......?"
+		],
+		[
+			"msg",
+			306493,
+			"Hmm, anyway, if it's capable of displaying messages, then some of the data must have remained intact. Let me see...",
+			"嗯，不过能显示讯息就代表还有数据被保存了下来…让我调查看看……",
+			"意味不明でも情報が出てくるってことは、まだデータが残ってるってことよね……調べてみよう……。",
+			"의미 불명이라도 정보가 나온다는 건, 아직 데이터가 남아있다는 거겠지…… 조사해보자…….",
+			null,
+			null,
+			"Well, but the message can be displayed means that there is still data being saved...let me investigate and see ......",
+			"The fact that the information is still available, even if it doesn't make sense, means there's still data available. ...... Let's check it out. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306494,
+			"(Beep beep beep...)",
+			"「滴滴滴……」",
+			"「ピピピ……」",
+			"「삐삐삐……」",
+			null,
+			null,
+			"\"......\"",
+			"\"Pipi Pipi ......\""
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306495,
+			"Hmm, seems I'll have to connect to ME Corp's terminal to see the remaining data. And the key has been encrypted too. Must be a really important file.",
+			"嗯……剩下的数据似乎得连接到ME社的终端才能看到呢…而且密匙被特殊加密了起来，看起来是特别重要的文件。",
+			"うーん……残りのデータはME社の端末に繋がないと見れないみたい……それに暗号化までされてる。これは……特別重要なファイルのようね。",
+			"으음…… 남은 데이터는 ME사의 단말에 연결하지 않으면 볼 수 없는 모양…… 게다가 암호화까지 돼있어. 이건…… 특별히 중요한 파일인 모양이네.",
+			null,
+			null,
+			"Well ...... the rest of the data seems to be connected to the terminal of the ME society to see it... and the secret key is specially encrypted, it seems to be a particularly important file.",
+			"Hmmm... ...... the rest of the data can only be viewed by connecting to ME's terminal. ...... and it's even encrypted. It looks like this is a ...... file of special importance."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306496,
+			"I'm not really sure what you mean, but anyway, what do we do next?",
+			"不是很明白你在说什么…所以接下来要怎么做？",
+			"言ってることはよく分からないけど……どうすればいいの？",
+			"말하는 건 잘 모르겠지만…… 어떻게 하면 되는 거야?",
+			null,
+			null,
+			"Not quite sure what you're talking about...so what's next?",
+			"I don't understand what you're saying, but what can I do about ......?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306497,
+			"Find a way to connect to ME Corp's terminal. Oh, right, didn't Bronya manage to hack into ME's database once? How did she establish the connection?",
+			"总之先寻找能够连接ME社终端吧…对了，之前好像说过布洛妮娅有入侵到ME社的数据库中，那是从什么地方接入的？",
+			"まずはME社の端末に接続できる場所を探す必要があるわ……そうだ、この前ブローニャがME社のデータベースに侵入したって言ってなかった？どこから入ったの？",
+			"먼저 ME사의 단말에 접속할 수 있는 장소를 찾아야 해…… 맞아, 이전에 브로냐가 ME사 데이터베이스에 침입했다고 말하지 않았어? 어디서 들어갔던 거야?",
+			null,
+			null,
+			"Anyway, let's first look for the ability to connect to the ME Society terminal... By the way, it seems to have been said before that Bronya had hacked into the ME Society database, from where did she access it?",
+			"First we need to find a place where we can connect to ME's terminals. ...... Oh yeah, didn't you say the other day that Bronya hacked into ME's database? Where did she get in?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306498,
+			"Hmm, I think she did it in the control room of the arsenal.",
+			"嗯…记得是在兵工厂的控制室。",
+			"えーと……たしか兵器工場の制御室だったかな。",
+			"음…… 분명 병기 공장의 제어실이었던 것 같아.",
+			null,
+			null,
+			"Hmmm...remember it was in the control room of the arsenal.",
+			"Let's see, ...... I think it was a control room in a weapons factory."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306499,
+			"Got it. Let's head over there then.",
+			"明白了，我们先去那里吧。",
+			"わかった、まずそこに行ってみましょ……。",
+			"알았어, 일단 거기로 가보자…….",
+			null,
+			null,
+			"Got it, let's go there first.",
+			"Okay, let's go there first: ......."
+		]
+	],
+	"1188": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10140"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306500,
+			"Here we are.",
+			"就是这里了。",
+			"ここだよ。",
+			"여기야.",
+			null,
+			null,
+			"This is the place.",
+			"Here it is."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306501,
+			"Let me see... hmm, this connection port should work...",
+			"让我找找看…嗯，这边的连接端口应该可以使用……",
+			"探してみるわ……うん、ここのポートなら使えるはず……。",
+			"찾아볼게…… 음, 여기 포트면 사용할 수 있을 거야…….",
+			null,
+			null,
+			"Let me find it...well, the connection port on this side should work ......",
+			"I'll look for it. ...... Yeah, the port here should work. ......"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			306502,
+			"Link Start!",
+			"Link Start！",
+			"リンク・スタート！",
+			"링크·스타트!",
+			null,
+			null,
+			"Link Start!",
+			"Link Start!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			306503,
+			"Heh!",
+			"噗！",
+			"プッ！",
+			"풋!",
+			null,
+			null,
+			"Poof!",
+			"Pfft!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306504,
+			"Hey, don't laugh! We programmers need entertainment too, you know?",
+			"唔…别笑…程序员也是需要一些自娱自乐的……",
+			"う……笑わないでよ……プログラマーにもお遊びは必要なのよ……。",
+			"우…… 웃지 말아요…… 프로그래머도 놀이는 필요한 거예요…….",
+			null,
+			null,
+			"Well...don't laugh...programmers also need some self-indulgence ......",
+			"U...... don't laugh,...... programmers need to have fun too,......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			306505,
+			"Fine, fine, just ignore me and continue.",
+			"好好好~你别理我，请继续。",
+			"はいはい、こちらのことは気にしないで続けて。",
+			"네네, 이쪽은 신경 쓰지 말고 계속해요.",
+			null,
+			null,
+			"Fine, fine, fine ~ you ignore me, please continue.",
+			"Yes, yes, continue without worrying about us."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306506,
+			"(Beep beep beep...)",
+			"「滴滴滴……」",
+			"「ピピピ……」",
+			"「삐삐삐……」",
+			null,
+			null,
+			"\"......\"",
+			"\"Pipi Pipi ......\""
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306507,
+			"Done.",
+			"成功了。",
+			"成功した。",
+			"성공했어요.",
+			null,
+			null,
+			"Success.",
+			"Success."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306508,
+			"Hmm? Is the connection successful?",
+			"嗯？连上了么？",
+			"え？繋がったの？",
+			"에? 연결된 거야?",
+			null,
+			null,
+			"Hmm? Is it connected?",
+			"What? You connected?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306509,
+			"This is just the first step. We'd have to decipher the key next—that's the difficult part.",
+			"这只是第一步，关键是解锁后面的密匙。",
+			"これは第一歩にすぎないけどね。問題は暗号化の方よ。",
+			"이건 첫걸음에 불과하지만. 문제는 암호화 쪽이야.",
+			null,
+			null,
+			"This is only the first step, the key is to unlock the secret key behind.",
+			"This is only the first step, though. The problem is the encryption."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306510,
+			"Well, our Yssring is capable indeed!",
+			"啊~不愧是伊瑟琳，真行啊~",
+			"へぇ～さすがイザーリン、プロだね。",
+			"헤에~ 역시 이자린, 프로네요.",
+			null,
+			null,
+			"Ah~ It's true that Estherine is really good~",
+			"Wow, that's great Estherine, you're a pro."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306511,
+			"(An hour later...)",
+			"1小时后……",
+			"1時間後——",
+			"1시간 후——",
+			null,
+			null,
+			"1 hour later ......",
+			"One hour later--"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306512,
+			"Yssring, do you even know what you're doing?",
+			"伊瑟琳你行不行啊……",
+			"イザーリン、できた……？",
+			"이자린, 했어……?",
+			null,
+			null,
+			"Estherine you can not ah ......",
+			"Estherine, could you ......?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306513,
+			"This is encrypted by ME Corp. Of course it's gonna be hard to decipher! If I don't find the correct method, I could spend my whole life on this and still get nowhere.",
+			"这可是ME社的加密程序，怎么可能这么容易解开…如果没有找到正确的方法说不定一辈子都解不开。",
+			"さすがME社の暗号化プログラムね、そう簡単には解けないわ……下手したら一生開かないかも。",
+			"역시 ME사의 암호화 프로그램이네, 그렇게 쉽게는 풀리지 않아…… 어쩌면 평생 열리지 않을지도.",
+			null,
+			null,
+			"This is the encryption program of ME Society, how can it be so easy to unlock... If we don't find the right method, we may not be able to unlock it for the rest of our lives.",
+			"That's ME's encryption program. It's not so easy to break it. ...... If it's bad, you may never open it."
+		],
+		[
+			"msg",
+			306514,
+			"That makes me even more curious about what's inside, though. Must be really precious!",
+			"不过越是这样越想要知道里面保存的东西呢，一定是很重要的宝物吧！",
+			"でも、ますます何が保存されているのか知りたくなってきた。よほど大事な宝物なのよ！",
+			"하지만, 점점 무엇이 저장되어 있는지 알고 싶어져. 아주 중요한 보물이겠지!",
+			null,
+			null,
+			"But the more you want to know what is kept inside, it must be very important treasures!",
+			"But more and more I want to know what is being preserved. It's such an important treasure!"
+		],
+		[
+			"msg",
+			306515,
+			"Oh, it's open!",
+			"啊…打开了。",
+			"あ……開いた。",
+			"아…… 열렸어.",
+			null,
+			null,
+			"Ah...it's open.",
+			"Ah ...... opened."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306516,
+			"...",
+			"……",
+			"えっ！？",
+			"엣!?",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306517,
+			"\"-.. . .- .-. . ... -\"",
+			"「-.. . .- .-. . ... -」",
+			"「-.. . .- .-. . ... -」",
+			"「-.. . .- .-. . ... -」",
+			null,
+			null,
+			"\"-... . . - . -. ... ... -\"",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306518,
+			"...Morse code again? It means \"DEAREST\". Weird. Guess there must be more.",
+			"……又是摩斯码么，“亲爱的”…看来都是些意义不明的词汇呢，看来还有后续的信息。",
+			"……またモールス信号？「親愛なる」……どれも意味不明な言葉ばかりね。……ん？続きがある。",
+			"……또 모스 신호? 「친애하는 」…… 모두 의미 불명의 말뿐이네. ……응? 이어지는 게 있어.",
+			null,
+			null,
+			"...... is Morse code again, \"dear\" ... seems to be some words of unknown meaning, it seems there is a follow-up information.",
+			"...... Morse code again? Dear.\"...... None of these words make any sense, do they? ...... hmm? To be continued."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306519,
+			"\"0413...\"",
+			"「0413……」",
+			"「0413……」",
+			"「0413……」",
+			null,
+			null,
+			"\"0413 ......\"",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306520,
+			"I seem to have seen this number somewhere before. Could it be...?",
+			"这个编号好像在哪里见过…难道是！？",
+			"この番号どこかで見たような……まさか！？",
+			"이 번호 어디서 본 것 같은…… 설마!?",
+			null,
+			null,
+			"This number seems to have been seen somewhere before...could it be!",
+			"I've seen this number somewhere: ...... No way!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			306521,
+			"Hey! Where are you going?",
+			"喂！你要去哪！",
+			"ちょっと！どこへ行くの！",
+			"잠깐! 어디 가는 거야!",
+			null,
+			null,
+			"Hey! Where are you going!",
+			"Hey! Hey! Where are you going? !"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10135"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306522,
+			null,
+			"",
+			null,
+			null,
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306523,
+			"Capsule No. 0413... This must be it.",
+			"0413号封闭仓…一定就是这个了。",
+			"0413番閉鎖倉庫……きっとこれだわ。",
+			"0413번 폐쇄 창고……분명 이거네.",
+			null,
+			null,
+			"Closed bin 0413...this must be it.",
+			"0413 Number Closed Warehouse ...... I'm sure this is it."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306524,
+			"Hmm, is something inside?",
+			"唔…这里放着什么东西么？",
+			"え……ここに何かしまってあるの？",
+			"에……여기에 뭔가 숨겨져 있는 거야?",
+			null,
+			null,
+			"Well...is there something here?",
+			"What's ...... have something stored here?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306525,
+			"Who knows? But I bet this is where we'll find the deepest, darkest secrets of Massive Electric...",
+			"不知道，不过一定有这ME社不为之人的机密……",
+			"分からない、でもきっとME社の知られざる機密よ……",
+			"모르겠어, 하지만 분명 ME사의 알려지지 않은 기밀일 거야……",
+			null,
+			null,
+			"I do not know, but there must be this ME society not for the secrets of the people ......",
+			"I don't know, but I'm sure it's an undisclosed secret of the ME Corporation: ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306526,
+			"(Beep beep beep...)",
+			"「滴滴滴……」",
+			"「ピピピ……」",
+			"「삐삐삐……」",
+			null,
+			null,
+			"\"......\"",
+			"\"Pipi Pipi ......\""
+		],
+		[
+			"msg",
+			306527,
+			"*Snap!*",
+			"咔！",
+			"カチャッ！",
+			"찰칵!",
+			null,
+			null,
+			"Click!",
+			"Click!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306528,
+			"It's open!",
+			"打开了！",
+			"開いた！",
+			"열렸어!",
+			null,
+			null,
+			"It's open!",
+			"It's open!"
+		],
+		[
+			"speaker",
+			204610
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				50,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306529,
+			"Starting up... Facial identification fail... Annihilate intruders!",
+			"开机启动…进行面部识别失败…开始歼灭侵入者！",
+			"システム起動……顔認証失敗……侵入者の殲滅開始！",
+			"시스템 기동……얼굴 인증 실패……침입자 섬멸 시작!",
+			null,
+			null,
+			"Boot up and start...failing to perform facial recognition...starting to annihilate intruders!",
+			"System activation......Facial recognition failed......Start destroying the intruders!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306530,
+			"Whoa! It's you again!",
+			"呜哇！怎么又是你！！",
+			"うわぁ！またあんたなの！？",
+			"우와! 또 너야!?",
+			null,
+			null,
+			"Woohoo! How come it's you again!!!",
+			"Wow! It's you again!"
+		]
+	],
+	"1189": [
+		[
+			"speaker",
+			204610
+		],
+		[
+			"bg",
+			"CG10135"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				50,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306531,
+			"Body is seriously damaged... system is shutting down...",
+			"机体损伤严重……即将关闭系统……",
+			"機体の損傷は深刻……まもなくシステムをシャットダウン……。",
+			"기체의 손상은 심각……곧 시스템을 셧다운…….",
+			null,
+			null,
+			"The damage to the body is severe ...... about to shut down the system ......",
+			"The aircraft is severely damaged...... and the system will be shut down shortly......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306532,
+			"Wait! Wait! Is it gonna explode again? Find cover!",
+			"等！等等！难道又要自爆！快躲起来！",
+			"ちょっ、待って！また自爆する気！？は、早く隠れなきゃ！",
+			"잠깐, 기다려! 또 자폭할 셈이야!? 어서 숨어야 해!",
+			null,
+			null,
+			"Wait! Wait! It's going to blow itself up again! Get out of the way!",
+			"Wait, wait! You're going to blow yourself up again! We have to hide now!"
+		],
+		[
+			"speaker",
+			204610
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				50,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306533,
+			"Please... keep these... memories... safe...",
+			"请…保存好…这些回忆……",
+			"どうか……保存して……この思い出を……。",
+			"제발…… 저장해줘…… 이 추억을…….",
+			null,
+			null,
+			"Please...keep...these memories ......",
+			"Please ...... save ...... these memories."
+		],
+		[
+			"msg",
+			306534,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306535,
+			"Hmm, it didn't explode? Strange. Don't all the mechas have a mechanism installed to protect the data?",
+			"唔…居然没有自爆么……怎么回事，机甲不应该都安装了安全协议么？",
+			"ふぅ……自爆しなかった……どうなってるの、どの機甲にもセキュリティプロトコルが入ってるわけじゃないの？",
+			"후…… 자폭하지 않았어…… 어떻게 된 거야, 모든 기갑체에 보안 프로토콜이 들어가 있는 게 아니라고?",
+			null,
+			null,
+			"Well ... actually did not self-destruct ...... what happened, the mechs should not be installed with security protocols?",
+			"Huh ...... I didn't self-destruct...... what's going on, don't all aircraft have security protocols in them?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			306536,
+			"Maybe it's a test prototype, so they haven't installed the necessary parts yet.",
+			"也许是因为试验机所以没有来得及装吧？",
+			"試験機だから導入が間に合わなかったのかも？",
+			"시험기라서 도입이 늦어진 걸지도?",
+			null,
+			null,
+			"Maybe because the test machine so did not have time to install it?",
+			"Maybe it's a test machine and they didn't get it installed in time?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306537,
+			"Okay. Well, that's not important. Let's see what's inside the capsule. Hmm... it's empty!",
+			"好吧…这个不重要！我们先看看封闭仓内有什么……什么…都没有！！",
+			"まぁいいわ、そんな些細なこと。重要なのは、この閉鎖倉庫に何があるのか……何が…………何もない！！",
+			"뭐 어차피 사소한 일이야. 중요한 건 이 폐쇄 창고에 뭐가 있느냐…… 뭐가………… 아무것도 없잖아!!",
+			null,
+			null,
+			"Well...this doesn't matter! Let's see what's inside the closed bin first ...... nothing...none of it!!!",
+			"Oh well, such trivialities. What matters is what's in this closed warehouse ...... what's ............ nothing!!!"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306538,
+			"So we've been on a wild goose chase this entire time?",
+			"呜…白忙活一场么……",
+			"うう……骨折り損だったのね……。",
+			"우으…… 삽질만 했네…….",
+			null,
+			null,
+			"Oooh...what a waste of work ......",
+			"Ugh ...... you were a bonehead. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			306539,
+			"Hey, cheer up! We didn't suffer any losses, right? Just wasted a bit of time, that's all.",
+			"嘛~不要灰心啦，反正也没什么损失，虽然浪费了很多时间~",
+			"そんなに落ち込まないで。失ったものは何もなかったわけだし。……時間はだいぶ無駄にしたけど。",
+			"그렇게 낙담하지 마. 잃은 건 아무것도 없잖아. ……시간만 많이 낭비했지만.",
+			null,
+			null,
+			"Well ~ do not be discouraged, anyway, there is no loss, although a lot of time wasted ~",
+			"Don't be so depressed. You didn't lose anything. I did waste a lot of ...... time though."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306540,
+			"Ah, whatever. Let's collect the remains of the mecha and bring them back to see if there are any parts we can use.",
+			"哎…算了，算了…把这个机甲的残骸带回去看看有没有值得回收的零件好了……",
+			"はぁ……いいわ……この機甲の残骸を持って帰って、リサイクルできるパーツを探そう……。",
+			"하아…… 좋아…… 이 기갑체 잔해를 가져가서 재활용 가능한 부품을 찾아보자…….",
+			null,
+			null,
+			"Hey ... forget it, forget it ... the wreckage of this mech to take back to see if there is worth recycling parts well ......",
+			"Huh ...... okay ...... let's take what's left of this armor home and look for parts we can recycle ......."
+		]
+	],
+	"1190": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			306541,
+			"I didn't expect there would be two of these mechas. Let me see what parts we can recycle... hmm? A black box again? I'm not falling for it this time!",
+			"没想到这个型号的机甲还有第二台，让我看看又哪些零件可以复用的……嗯？又是黑匣子么…已经不会再上你的当了！",
+			"この型番の機甲が2台あったなんて驚きだわ。どのパーツなら再利用できるかしら……ん？またブラックボックス？……もうその手には乗らないわよ！",
+			"이 형식의 기갑체가 2대나 있었다니 놀랍네. 어떤 부품을 재사용할 수 있을까…… 음? 또 블랙박스?…… 더는 그 수법에 넘어가지 않을 거야!",
+			null,
+			null,
+			"I did not think there was a second mech of this model, let me see what parts can be reused ...... hmm? Black box again...not falling for your tricks anymore!",
+			"I'm surprised there were two of this model number of armor. I wonder which parts can be reused: ...... Hmm? Another black box? I'm not getting into that ...... again!"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306542,
+			"...",
+			"……",
+			"……(ちらっ)。",
+			"……(흘끗).",
+			null
+		],
+		[
+			"msg",
+			306543,
+			"Anyway, let's just search around to see if there's any other information that may be of value.",
+			"算了…还是再看看有没有什么有价值的信息了……",
+			"あ、抗えない、この知的好奇心に……やっぱり役に立つ情報がないかどうかだけ見てみよう……。",
+			"아, 참을 수 없는 이 지적 호기심에…… 역시 도움이 되는 정보가 없는지 확인해볼까…….",
+			null,
+			null,
+			"Forget it...or see if there is any valuable information again ......",
+			"Oh, I can't resist, let's just see if this intellectual curiosity has any useful information ...... after all. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306544,
+			"(Beep beep beep...)",
+			"「滴滴滴……」",
+			"「ピピピ……」",
+			"「삐삐삐……」",
+			null,
+			null,
+			"\"......\"",
+			"\"Pipi Pipi ......\""
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306545,
+			"...Ooh! There seems to be some data saved here.",
+			"……唔！似乎存储着一些数据。",
+			"……ん！？何かデータが保存されてるみたい。",
+			"……응!? 뭔가 데이터가 저장되어 있는 것 같아.",
+			null,
+			null,
+			"...... Well! It seems to store some data.",
+			"...... Hmm! Looks like some data is stored."
+		],
+		[
+			"msg",
+			306546,
+			"The gift for my dearest daughter? Is that what those Morse codes are supposed to spell out?",
+			"The gift for my dearest daughter？ 似乎是那些摩斯码的全部信息么……",
+			"The gift for my dearest daughter（最愛の娘への贈り物）？ あのモールス信号の全ての情報みたいね……。",
+			"The gift for my dearest daughter(최애의 딸에게의 선물)? 저 모스 신호의 모든 정보인 것 같네…….",
+			null,
+			null,
+			"The gift for my dearest daughter? Does it seem to be all those Morse code messages ......",
+			"The gift for my dearest daughter? Sounds like all the information in that Morse code. ......"
+		],
+		[
+			"msg",
+			306547,
+			"There seems to be an image inside as well...",
+			"里面好像还有一张图像……",
+			"中に画像が1枚あるみたい……。",
+			"안에 이미지가 한 장 있는 것 같아…….",
+			null,
+			null,
+			"There seems to be an image inside ......",
+			"It looks like there is one image inside. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10129"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306548,
+			null,
+			"",
+			null,
+			null,
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			306549,
+			"Is this... a two-shot photo?",
+			"这个是……合影么？",
+			"これは……写真？",
+			"이건……사진?",
+			null,
+			null,
+			"Is this a ...... group photo?",
+			"Is this a ...... photo?"
+		],
+		[
+			"msg",
+			306550,
+			"So that's how it is, huh... Raiden Ryoma, CEO of Massive Electric Corp, and his daughter, a Herrscher...",
+			"原来是这样么…ME社的社长雷电龙马和她的律者女儿……",
+			"なるほどそういうことね……ME社の社長、雷電龍馬とその娘の律者……。",
+			"ME사의 사장, 라이덴 용마와 그 딸 율자…….",
+			null,
+			null,
+			"So that's how it is...ME Society president Raiden Ryoma and her Ruler daughter ......",
+			"I see what you mean. ......ME company president, Raiden Ryoma, and his daughter, Ritsusha. ......"
+		],
+		[
+			"msg",
+			306551,
+			"They look happy together. But this photo creeps me out. Without that girl, the world wouldn't have ended up like this, would it?",
+			"真是温馨的画面呢，但是在这个时代的我看来却让人不寒而栗呢…如果没有她的话世界也不会变成这样吧……",
+			"何て幸せな光景かしら……でも、今となっては人類の敵……彼女がいたから今のこんな世界になったんだもの……。",
+			"얼마나 행복한 광경인지…… 하지만 지금에 와서는 인류의 적…… 그녀가 있었기 때문에 지금의 이런 세상이 된 거잖아…….",
+			null,
+			null,
+			"Really warm picture it, but in this day and age I seem to be chilling it ... If there is no her then the world will not become like this ......",
+			"What a happy sight ...... but now it's the enemy of mankind ...... she was the reason we have such a world today ......."
+		],
+		[
+			"msg",
+			306552,
+			"Without that girl, huh...",
+			"如果没有她的话……",
+			"もし、彼女がいなかったら……。",
+			"만약, 그녀가 없었다면…….",
+			null,
+			null,
+			"If not for her ......",
+			"If she wasn't there, you can find her at ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306554,
+			"Yssring, how's everything going at the production lines? Is the manufacturing of the mecha weapons coming smoothly?",
+			"伊瑟琳，生产线那边的情况怎么样了，机甲兵器的量产还顺利么？",
+			"イザーリン、製造ラインの状況はどうですか。機甲兵器の生産は順調ですか？",
+			"이자린, 제조 라인의 상황은 어떻게 입니까. 기갑 병기의 생산은 순조롭습니까?",
+			null,
+			null,
+			"Is the mass production of mechs still going well?",
+			"Estherine, what is the status of the production line? Is the production of armored weapons going well?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306555,
+			"…",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306556,
+			"Yssring? What's wrong?",
+			"伊瑟琳？你怎么了？",
+			"イザーリン？どうしました？",
+			"이자린？어떻게 됐어요?",
+			null,
+			null,
+			"Estherine? What's wrong with you?",
+			"Estherine? What's wrong?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306557,
+			"Oh, Bronya. Nothing. I'm fine. Just saw some insignificant data, that's all.",
+			"布洛妮娅么…没什么，只是看到了一些没用的数据罢了。",
+			"ブローニャ……何でもない、役に立たないデータを見てただけ。",
+			"브로냐……아무것도 아니에요, 쓸모없는 데이터를 보고 있었을 뿐이에요.",
+			null,
+			null,
+			"Bronya?...nothing, just saw some useless data.",
+			"Bronya...... nothing, just looking at useless data."
+		],
+		[
+			"msg",
+			306558,
+			"Come on, let's go to the assembly line.",
+			"走吧，我带你去流水线。",
+			"行きましょ、製造ラインに案内するわ。",
+			"가자, 제조 라인에 안내해 줄게.",
+			null,
+			null,
+			"Let's go, I'll take you to the assembly line.",
+			"Let's go. I'll take you to the production line."
+		]
+	]
+}

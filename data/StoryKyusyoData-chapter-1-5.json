@@ -1,0 +1,1223 @@
+{
+	"24": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300247,
+			"Looks like you're ready to go. Thought you would chicken out. I must admit I was wrong about you!",
+			"嚯嚯~看来是准备好了呢，我还以为你会临阵脱逃，看来还是有点骨气的嘛~",
+			"うふふ～準備できたみたいね。土壇場になって逃げ出しちゃうかと思ったけど、結構骨があるのね！",
+			"우후훗~ 준비된 것 같네. 막판에 도망칠 줄 알았는데 상당히 배짱이 있네!",
+			"Ehehe~ Looks like you're ready. I thought you'd chicken out at the last minute, but seems you've got some courage!",
+			"Ufufu ~ Parece que você está pronto. Achei que ia fugir no último minuto, mas tenho muitos ossos!",
+			"Ho ho ho ~ seems to be ready, I thought you would run away from the battle, it seems to be a bit of backbone well ~",
+			"Hmmm~ looks like you're ready to go. I thought you were going to bail at the last minute, but you've got some serious backbone!"
+		],
+		[
+			"msg",
+			300248,
+			"You have to be in full preparation if you accept the training, because I'm not as kind and gentle as Sister. Don't expect me to stop when you're crying.",
+			"不过既然接受了训练就要做好觉悟~我可不会像姐姐大人那样温柔，到时候哭着喊着我也不会停止的哦~",
+			"でも、訓練を受けるからには覚悟しておいてね！私はお姉ちゃんみたいに優しくないよ。泣いても喚いてもやめたりしないからね。",
+			"하지만 훈련을 받을 테니까 각오해 둬! 나는 언니처럼 상냥하지 않아. 울어도 소리쳐도 그만두진 않을 테니까.",
+			"But be prepared for training! I'm not as gentle as Bronya. I won't stop even when you're crying or screaming.",
+			"Mas esteja preparado para o treinamento! Não sou tão gentil quanto minha irmã. Não vou parar de chorar ou gritar.",
+			"But since the training should be well aware of ~ I will not be as gentle as my sister, when the time to cry and shout I will not stop Oh ~",
+			"But you have to be prepared for the training! I won't be nice to you like your sister. I won't stop crying or screaming."
+		],
+		[
+			"msg",
+			300249,
+			"Don't be afraid. I'm doing this for your own good. Humans are fragile. You can't survive in the Houkai if you are totally untrained.",
+			"嘿嘿~你也不用害怕啦，这一切可都是为了你好。想要在崩坏中生存下来没两下子可不行，人类可是十分脆弱的生物呢~",
+			"エヘヘ～怖がらないで！全部あなたのためだから。崩壊の中で生き残るには力がないとダメなんだよ。人間はとても弱い生き物だから。",
+			"에헤헤~ 무서워하지 마! 전부 너를 위해서야. 붕괴 속에서 살아남으려면 힘이 없으면 안 돼. 인간은 매우 약한 생물이니까.",
+			"Ehehe~ No need to be scared! It's all for your own good. You need strength to survive the Honkai. Humans are fragile, after all.",
+			"Ehehe ~ Não tenha medo! É tudo para você. Você tem que ter o poder de sobreviver no colapso. Porque os humanos são criaturas muito fracas.",
+			"Hey hey ~ you do not have to be afraid of it, it is all for your own good. Want to survive in the collapse without a couple of skills can not, human beings are very fragile creatures it ~",
+			"Ahehe~ Don't be afraid! It's all for your own good. You have to be strong to survive the collapse. Humans are very weak creatures."
+		],
+		[
+			"msg",
+			300250,
+			"But I assume that you must learn something from this messed-up world after surviving thus far. Survivors like you are hard to come by these days.",
+			"不过你能够活到现在，一定也在这个混账世界中学到了不少生存技巧吧，像你这样被发现的生存者已经越来越少了呢。",
+			"でも、今まで生き残って来たんだからその辺は大丈夫だよね。この混沌とした世界で生存スキルを身に着けてきたんでしょ？あなたみたいに発見される生存者って、日を追うごとに少なくなってきているんだよ。",
+			"하지만 지금까지 살아남아 왔으니까 그쯤은 괜찮겠지. 이 혼돈의 세계에서 생존 스킬을 익혀 왔겠죠? 너처럼 발견되는 생존자란 날이 갈수록 줄어들고 있단다.",
+			"But you've survived so far, so you should be fine. You must've acquired plenty of survival skills in this godforsaken world along the way, haven't you? There are fewer and fewer survivors like you being discovered every day.",
+			"Mas eu sobrevivi até agora, então tudo bem. Você adquiriu habilidades de sobrevivência neste mundo caótico, não é? O número de sobreviventes encontrados como você está diminuindo dia a dia.",
+			"But you have been able to survive until now, you must have learned a lot of survival skills in this asshole world, like you have been found less and less survivalist it.",
+			"But you've survived all this time, so you're okay in that area. You've learned survival skills in this chaotic world. There are fewer and fewer survivors like you to be discovered with each passing day."
+		],
+		[
+			"msg",
+			300251,
+			"Oops. I almost forgot you lost your memories. I'm sorry.",
+			"啊~差点忘了你不记得以前的事情了，抱歉抱歉~",
+			"あ～忘れてた。あなた以前のこと覚えていないんだったよね。ごめんなさい。",
+			"아~ 잊고 있었어. 너 이전의 일을 기억하지 못했었지. 미안해.",
+			"Ah~ I forgot you've lost your memories before arriving here. Sorry.",
+			"Ah, esqueci. Eu não me lembrava antes de você. desculpe.",
+			"Ah ~ almost forgot that you do not remember the previous things, sorry sorry sorry ~",
+			"Oh, I forgot. I didn't remember what happened before you. I'm sorry."
+		],
+		[
+			"msg",
+			300252,
+			"Based on the experience of previous battles, I guess you still got hold of some survival instincts. It's just that the way you fight requires improvement, and I'm going to help you.",
+			"不过从之前的战斗来看对于生存的本能还是好好保存着呢，只是战斗的方法有些问题，就让我来好好为你矫正一下吧~",
+			"でも、この間の戦いぶりからして生存本能はしっかり残っていると思うよ。ただ戦い方に問題があるから、私が少し修正してあげる。",
+			"하지만, 지난번 전투 모습을 보면 생존 본능은 확실히 남아있는 것 같아. 다만 싸우는 방식에 문제가 있으니 내가 좀 수정해 줄게.",
+			"But based on the way you fought the other day, it seems like you've still got some survival instincts. It's just that your fighting style needs some improvement, so let me correct it for you~",
+			"Mesmo em japonês, acho que o instinto de sobrevivência ainda permanece firme na batalha durante esse período. No entanto, há um problema com a forma de lutar, então vou corrigi-lo um pouco.",
+			"But from the previous battle to see the instinct for survival is still well preserved, but the method of fighting some problems, let me properly correct it for you ~",
+			"But from the way you fought the other day, I think your survival instincts are still strong. But there is a problem with your fighting style, so I will correct it a little."
+		],
+		[
+			"msg",
+			300253,
+			"Let's go! You got a lot of tasks in the base waiting!",
+			"那么走吧！基地中可是有很多任务可以来锻炼你哦~",
+			"じゃあ行きましょ！色々な任務を受けて鍛えてみよ～！",
+			"그럼 가자! 여러 가지 임무를 받아 단련해 보자~!",
+			"Well then, let's go! There's plenty of assignments for you to take on for training~!",
+			"Vamos! Faça várias missões e treine!",
+			"Then let's go! There are many tasks in the base to exercise you Oh!",
+			"Let's go! Let's take on some assignments and train!"
+		],
+		[
+			"choice",
+			[
+				300254,
+				"Shouldn't I take some training first?",
+				"刚才不是说要训练么……",
+				"訓練って言ってなかった？",
+				"훈련이라고 말하지 않았어?",
+				"Didn't you say you were going to train me first?"
+			],
+			[
+				300255,
+				"Do I qualify for that?",
+				"我的实力真的能够胜任么？",
+				"私の実力で本当にできるの？",
+				"내 실력으로 정말 할 수 있어?",
+				"Are you sure I'm capable of that?"
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			25,
+			26
+		]
+	],
+	"25": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300256,
+			"We don't have the time to train you individually. So your training starts with some simple missions.",
+			"现在这个情况可没有这么奢侈的时间单独给你训练，想要锻炼的话只有从简单的任务开始~",
+			"今の状況だと、あなただけに訓練を施すなんて時間の余裕はないの。簡単な任務を積み重ねて鍛えるのが一番効率いいから我慢してね。",
+			"지금 상황으로는 당신만 훈련을 시킬 시간의 여유가 없어. 간단한 임무를 쌓아가며 단련하는 게 가장 효율적이니까 참아줘.",
+			"In these circumstances, I don't have the luxury to spend time training you one-on-one. The most efficient way to train is doing simple missions one after another first~",
+			"Na situação atual, não posso me dar ao luxo de treinar só para você. É mais eficiente empilhar e treinar missões simples, então seja paciente.",
+			"Now this situation can not have the luxury of time alone to give you training, want to exercise then only from the simple task to start ~",
+			"Under the current circumstances, we don't have time to train you alone. The most efficient way is to train you through a series of simple assignments, so please be patient."
+		],
+		[
+			"msg",
+			300257,
+			"No worries. Combat is also part of the training and the battlefield is the best classroom you've ever had. Get your weapons and come with me.",
+			"不用担心啦~实战也是训练的一环，战场可是最好的课堂。准备好你的武器跟我来吧~",
+			"心配しなくて大丈夫だよ～！実践も訓練の一環だから。戦場は最高の教室だよ。武器を用意して私について来てね。",
+			"걱정하지 않아도 돼~! 실천도 훈련의 일환이니까. 전장은 최고의 교실이야. 무기를 준비하고 나 따라와.",
+			"Don't worry~! Regular battles are part of training. The battlefield is the best classroom, after all. Now, get your weapons and follow me. (TN: Duplicate of 300258)",
+			"Não se preocupe! A prática também faz parte do treinamento. O campo de batalha é a melhor sala de aula. Peguem suas armas e me sigam.",
+			"Do not worry about it ~ the actual battle is also a part of the training, the battlefield is the best classroom. Get your weapons ready and follow me!",
+			"Don't worry~! Practice is part of training. The battlefield is the best classroom. Get your weapons ready and follow me."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			27
+		]
+	],
+	"26": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300258,
+			"No worries. Combat is also part of the training and the battlefield is the best classroom you've ever had. Get your weapons and come with me.",
+			"不用担心啦~实战也是训练的一环，战场可是最好的课堂。准备好你的武器跟我来吧~",
+			"心配しなくて大丈夫だよ～！実践も訓練の一環だから。戦場は最高の教室だよ。武器を用意して私について来てね。",
+			"걱정하지 않아도 돼~! 실천도 훈련의 일환이니까. 전장은 최고의 교실이야. 무기를 준비하고 나 따라와.",
+			"Don't worry~! Regular battles are part of training. The battlefield is the best classroom, after all. Now, get your weapons and follow me.",
+			"Não se preocupe! A prática também faz parte do treinamento. O campo de batalha é a melhor sala de aula. Peguem suas armas e me sigam.",
+			"Do not worry about it ~ the actual battle is also a part of the training, the battlefield is the best classroom. Get your weapons ready and follow me!",
+			"Don't worry~! Practice is part of training. The battlefield is the best classroom. Get your weapons ready and follow me."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			27
+		]
+	],
+	"27": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV04_PushDoorFast"
+		],
+		[
+			"msg",
+			300259,
+			"Emesa, I'm here to help!",
+			"哟~埃米沙！我来帮你了哦~",
+			"ヤッホ～エミザ！手伝いに来たよ～！",
+			"야호~ 에미자! 도우러 왔어~!",
+			"Heyooo~ Amisha! We're here to help~",
+			"Yahoo ~ Emiza! Eu vim para ajudar!",
+			"Yo~Emesa! I'm here to help you!",
+			"Yaho~Emesa! I'm here to help~!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			300260,
+			"Don't call me Emesa!",
+			"不要叫我埃米沙！",
+			"エミザって呼ぶな！",
+			"에미자라고 부르지 마!",
+			"Don't call me Amisha!",
+			"Não me chame de Emiza!",
+			"Don't call me Emesa!",
+			"Don't call me Emesa!"
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			300261,
+			"The guy behind you seems to be recovered. He's really tough, right?",
+			"嗯？你身后的家伙是…哼~看来已经康复了嘛，我就说这家伙命硬着呢。",
+			"ん？あんたの後ろにいる子……あー元気になったんだな。こいつはしぶといと思ってたんだよ。",
+			"음? 당신 뒤에 있는 아이...... 아 회복했구나. 이 녀석은 질긴 줄 알았어.",
+			"Hm? That girl behind you... ah, seems she's feeling better. I had a feeling she's a resilient one.",
+			"sim? A criança atrás de você... Ah, estou bem. Achei que ele estava relutante.",
+			"Hmm? The guy behind you is...hmm~ seems to have recovered, I told you this guy has a hard life.",
+			"Hmm? That kid behind you, ...... ah, he's getting better. I thought this guy was stubborn."
+		],
+		[
+			"msg",
+			300262,
+			"Thank you for everything you did. If you had been on the field, our fellows would have been dead already. Thank you.",
+			"之前的事情真是帮大忙了，没有你的话战场上的那些家伙或许已经在鬼门关搬砖了呢，我代替她们感谢你~",
+			"この前は本当に助かったよ。あんたがいなきゃ、戦場にいたやつらは全員お陀仏だったかもしれないからな。みんなに代わって礼を言うよ！",
+			"이전엔 정말 도움 많이 됐어. 네가 없었으면 전장에 있던 놈들 전부 죽었을지도 몰랐으니까. 다들 대신해서 고맙다고 전해!",
+			"You really saved me the other day. Without you, everyone on the battlefield might've ended up in the afterlife. I'd like to thank you on behalf of everyone! (TN: She says something along the lines of \"would have ended up seeing the gates to Heaven\", but it sounds weird)",
+			"Foi muito útil no outro dia. Sem você, todos os caras no campo de batalha poderiam ter sido mortos. Obrigado em nome de todos!",
+			"What happened before was really helpful, without you, those guys on the battlefield might have been moving bricks at the ghost gate, I thank you instead of them ~",
+			"You really saved my life the other day. Without you, all those guys on the battlefield would have been dead. I thank you on behalf of all of us!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			300263,
+			"Let me introduce our field medic to you. I guess you two have met on the field.",
+			"我来介绍一下，这位是基地内的医疗兵，之前在战场上你们已经见过面了吧~",
+			"紹介するわね。こちらは基地内の衛生兵、この前の戦いでもう会ってるよね。",
+			"소개할게. 여긴 기지 내 의무병, 이전 전투에서 이미 만났지?",
+			"Let me introduce you. This is the base's medic. You've already met in the last battle, correct?",
+			"Eu vou te apresentar. Este é o médico da base, que você já conheceu na última batalha.",
+			"Let me introduce, this is the base of the medical personnel, before the battlefield you have met it ~",
+			"Let me introduce you. This is the medic on base, you've already met him at the last battle."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300264,
+			"I'm Ray. Emesa is my first name, but don't call me by that name.",
+			"我是雷伊，埃米沙是名字，但是千万不要用这个名字叫我，记住了么！",
+			"レイだ。エミザは名前なんだけど、この名前では絶対呼ぶなよ。いいな？",
+			"레이야. 에미자는 본명인데, 이 이름으로 절대 부르지 마라니까. 알겠지?",
+			"I'm Ray. Amisha's my given name, but don't ever call me that. Got it? (TN: I will refrain from putting \"Got it memorized?\" here and lose what little integrity I have.)",
+			"Raio. Emiza é um nome, mas não a chame por esse nome. Tudo bem?",
+			"I'm Rey, Emesa is the name, but don't ever call me by that name, remember!",
+			"Ray. Emesa is my name, but don't ever call me by this name. Okay?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300265,
+			"But it sounds adorable. Last name is for strangers.",
+			"埃米沙这名字多可爱~为什么要用姓氏来称呼啦，多见外！",
+			"エミザっていう名前かわいいのに～！どうして苗字で呼ばなきゃいけないの。よそよそしくない？",
+			"에미자라니 귀엽잖아~! 왜 성으로 불러야만 하는 거야. 어색하지 않아?",
+			"But the name Amisha is so cute! Why do we have to call you by your last name? Aren't we friends? (TN: You know, Japanese honorific stuff... In English It would be like \"Miss Ray\" I guess)",
+			"Mesmo que o nome Emiza seja fofo! Por que eu tenho que chamá-lo pelo sobrenome? Não é estranho?",
+			"Emesa this name is so cute ~ why do you want to use the surname to call it, how foreign!",
+			"Emesa is such a cute name! Why do we have to call her by her last name? Isn't it too distant?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			300266,
+			"For the last name, I hate this name. And don't make me say that again!",
+			"说过很多次了！我讨厌这个名字，不要让我OO的说第二遍！",
+			"何回も言っただろ。この名前が嫌いなんだ！何回も言わせるな！",
+			"몇 번이나 말했잖아. 이 이름이 싫다고! 계속 말하게 하지 마!",
+			"For the last time, I hate that name! Don't ☆☆ing make me say it again!",
+			"Você disse isso muitas vezes. Eu odeio esse nome! Não me deixe dizer isso de novo e de novo!",
+			"Said it many times! I hate that name, don't make me OO's say it a second time!",
+			"I've told you many times. I hate this name! Don't make me say it again!"
+		],
+		[
+			"choice",
+			[
+				300267,
+				"That anger... I remember now!",
+				"这个熟悉的粗口…我想起来了！",
+				"この悪口知ってる……思い出した！",
+				"이 욕은 알고 있어... 생각났어!",
+				"That foul language... I remember you!"
+			],
+			[
+				300268,
+				"I think your name is cute too.",
+				"我也觉得名字很可爱。",
+				"かわいい名前だと思うな。",
+				"귀여운 이름인 것 같은데.",
+				"I think your name is cute too."
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			28,
+			29
+		]
+	],
+	"28": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300269,
+			"So you remember now. I knew there's something wrong with your memories, but I didn't know it's that bad. Should I fix you with my fists?",
+			"哈？你才想起来么，虽然听说你的记忆出现了问题，看来还是挺严重的，需要我用拳头帮你检查一下么。",
+			"はあ？やっと思い出したのか？あんた、記憶に問題があるって聞いていたけど、どうやら相当重いみたいだな。調べてやろっか、拳で。",
+			"하아? 겨우 기억해냈어? 너 기억력에 문제 있다던데, 아주 심각한 모양이네. 검사해줄까, 주먹으로.",
+			"Huh? You remembered? I heard you had amnesia, but seems like it's pretty serious. How about I give you a refresher with my fists?",
+			"Que? Você finalmente se lembrou? Ouvi dizer que você tem um problema de memória, mas parece que é bem pesado. Confira, com o punho.",
+			"Ha? You just remembered? Although I heard that you have memory problems, it seems to be quite serious, do you need me to use my fist to help you check it.",
+			"Huh? You finally remembered? I heard you had some memory problems, but it looks like they're pretty serious. Let's check you out, fist."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			30
+		]
+	],
+	"29": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300270,
+			"Huh. It looks like you need to lie in your bed for a little longer. Should I carry you?",
+			"嚯。我看你是还想回病床躺一会，需要我把你抬回去么？",
+			"何？あんた、まだベッドで寝ていたいみたいだね。私が元に戻してあげよっか？",
+			"뭐? 너 아직 침대에서 자고 싶은 모양이네. 내가 원래대로 돌려놓아줄까?",
+			"Oh? Sounds like you want to end up in a hospital bed again. Why don't I give you a hand?",
+			"que? Você ainda quer dormir na cama. Devo colocá-lo de volta?",
+			"Oooh. I see you want to go back to your bed for a while, do you need me to carry you back?",
+			"What? You still want to sleep in bed. Do you want me to put you back to sleep?"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			30
+		]
+	],
+	"30": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300271,
+			"Don't be serious, ok? It's just a joke. Tell me about the commission. I'm very busy.",
+			"好啦~不要这么认真嘛，只是开玩笑而已啦。赶紧说说委托的内容吧，我可是很忙的哦~",
+			"ほら～そんなに真面目にとらないで。冗談でしょ。早く依頼の内容を教えてよ。こっちだって忙しいんだから。",
+			"어이~ 그렇게 진지하게 받아들이지 말라고. 농담이잖아. 빨리 의뢰 내용 알려줘. 나도 바쁘다니까.",
+			"C'mon~ Don't take it so seriously. We're just kidding. Now tell us what you need. I'm busy too.",
+			"Olha, não leve tão a sério. você está brincando. Por favor, diga-me o conteúdo do seu pedido o mais rápido possível. Estou muito ocupado aqui.",
+			"Okay~ Don't be so serious, it's just a joke. Let's talk about the content of the commission, I'm very busy!",
+			"See - don't take it so seriously. You're kidding, right? Hurry up and tell me what you're asking me to do. I'm busy too."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300272,
+			"You... Alright, here's the thing.",
+			"你这家伙…好吧，事情是这样的。",
+			"あんたってやつは……まぁいい、依頼内容を説明するよ。",
+			"너란 녀석은…… 뭐 좋아, 의뢰 내용을 설명해 주지.",
+			"You're the one who's... Oh well, I'll explain the request.",
+			"Vocês são... bem, vou explicar o que vocês pediram.",
+			"You guys...well, here's the thing.",
+			"You're the guy who's ...... Well, okay, I'll explain what you're asking for."
+		],
+		[
+			"msg",
+			300273,
+			"The Homei mechas is badly damaged from the previous battle. But the engineering team said there were a lot of parts missing, so they couldn't repair it until the necessary parts are delivered.",
+			"之前的战斗中吼美机器人的损坏比较严重，但是工程班那边的家伙说由于缺少零件很多都无法修复，需要等待零件补充才行。",
+			"この前の戦いあっただろ？その時のホミロボットの損傷が激しくてね。エンジニア班に修理を頼んだんだけど、部品が足りないっていうんだよ。部品の補充をしないと無理だって。",
+			"이전 전투 있었지? 그때의 호미로봇 손상이 심해서 말이야. 엔지니어 팀에 수리를 부탁했는데 부품이 모자라다는 거야. 부품 보충을 안 하면 안 된다고.",
+			"You remember the battle the other day? The Homi Robot was badly damaged during that battle. I asked the engineering team to repair it, but they said they didn't have enough parts, so they need to wait for more parts to arrive.",
+			"Houve uma batalha da última vez? O dano ao robô Homu naquela época foi grave. Pedi à equipe de engenheiros para consertá-lo, mas eles disseram que estavam faltando peças. É impossível sem reposição de peças.",
+			"The damage to the Roaring Beauty robot in the previous battle was more serious, but the guy on the engineering side of the class said that due to the lack of parts many of them could not be repaired and needed to wait for parts to be replenished.",
+			"You know that battle we had the other day? The Homi robot was badly damaged during that battle. I asked the engineering team to repair it, but they said they didn't have enough parts. They said they would have to replenish the parts."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300274,
+			"So I see. Resources shortage is really a pain in the neck. Let's wait for the scouting team to come back.",
+			"这样啊…现在物资短缺的确比较棘手，看来只能等待外部调查队回来了。",
+			"そうなんだ……今の物資不足は確かに頭が痛いよね。外部調査チームが帰ってくるのを待つしかないけど。",
+			"그렇구나…… 지금 물자 부족은 확실히 골치 아픈 문제야. 외부 조사 팀이 돌아오기를 기다리는 수밖에 없지만.",
+			"Is that so... The shortage of supplies right now is a pain in the neck for sure. We'll just have to wait for the outside investigation team to return.",
+			"Isso mesmo... A atual escassez de suprimentos certamente dói na minha cabeça. Eu tenho que esperar a equipe de pesquisa externa voltar.",
+			"So...now the shortage of supplies is indeed more difficult, it seems that we can only wait for the return of the external investigation team.",
+			"Yes, ...... the lack of supplies right now is definitely a headache. I'll have to wait for the outside survey team to come back, though."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300275,
+			"We don't have that much time. If a war like this occurs before the supply, no one is guaranteed to be alive on the field.",
+			"没有这么多的时间，如果在补给到达之前再发生这样规模的战斗，我可没法保证所有上战场的人都能活着回来。",
+			"ハッキリ言って、そんな時間はない。修理前に同じ規模の戦いが起きたら、全員生きて帰れる保証はゼロだ。",
+			"확실히 말해서, 그럴 시간이 없어. 수리 전에 같은 규모의 전투가 벌어지면 모두 살아 돌아갈 보장은 제로야.",
+			"Frankly, there's no time for that. If a battle of the same scale were to occur before repairs can be made, there'd be zero guarantee that anyone would return alive.",
+			"Para ser claro, eu não tenho muito tempo. Se uma batalha da mesma magnitude ocorrer antes do reparo, não há garantia de que todos estarão vivos.",
+			"There isn't that much time. If another battle of this scale happens before supplies arrive, I can't guarantee that all the men who go into battle will come back alive.",
+			"To be clear, there is no time for that. If a battle of the same magnitude were to occur before the repairs were made, there is zero guarantee that we would all make it out alive."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300276,
+			"So what's your idea?",
+			"所以，你的想法是？",
+			"それで、どうしてほしいの？",
+			"그래서, 어떻게 해 주길 바라는 거야?",
+			"So, what's the plan?",
+			"Então o que você quer que eu faça?",
+			"So, what are your thoughts?",
+			"So what do you want me to do?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300277,
+			"The Homei mecha was damaged on the field. Why don't we pick up the broken parts from the field?",
+			"既然吼美机器人是在战场上损坏的，那从战场上把损坏的零件带回来不就行了。",
+			"つまり、ホミロボットが戦場で壊れたのなら、その戦場から壊れた部品を拾ってくればいいってことさ。",
+			"즉, 호미로봇이 전장에서 부서진 거라면, 그 전장에서 부서진 부품을 주워 오면 된다는 거지.",
+			"Well, since Homi Robots broke down on the battlefield, you can just scavenge the broken parts there.",
+			"Em outras palavras, se o Homu Robo quebrar no campo de batalha, você só precisa pegar as partes quebradas desse campo de batalha.",
+			"Since the Howling Beauty robot is damaged on the battlefield, it is not enough to bring back the damaged parts from the battlefield.",
+			"In other words, if a hominid robot was broken on the battlefield, you can just pick up the broken parts from that battlefield."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300278,
+			"Wait. You want me to let you rummage on the field?",
+			"哈？等下！你的意思是让我们给你去战场上捡垃圾么？",
+			"え～？待って！つまり私たちに戦場に行ってゴミ拾いして来いってこと？",
+			"에~? 잠깐! 즉 우리들에게 전장에 가서 쓰레기 주우러 오라라는 거야?",
+			"Ehh~? Wait! You mean you want us to go to the battlefield to pick up trash?",
+			"Em outras palavras, se o Homu Robo quebrar no campo de batalha, você só precisa pegar as partes quebradas desse campo de batalha.",
+			"Huh? Wait a minute! Do you mean for us to pick up trash for you on the battlefield?",
+			"Eh~? Wait! You mean you want us to go to the battlefield and pick up trash?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			300279,
+			"It's not rummaging. It's all about maintaining the entire military medical system. It's ok that you stay, I can find...",
+			"不要说的那么难听啊，那可不是垃圾，而是维系整个战线医疗的关键，你要不想去也可以，回头我去找布…",
+			"言い方の問題だろ。ゴミじゃなくて、戦線医療そのものを維持するための鍵だ。行きたくないならいい……あとで自分で……。",
+			"말투 문제잖아. 쓰레기가 아니라 전선 의료 그 자체를 유지하기 위한 열쇠야. 가기 싫으면 말아…… 나중에 내가…….",
+			"Don't think of it so negatively. It's not trash, it's the key to maintaining medical care for the frontlines. If you don't want to go... I'll just do it myself later...",
+			null,
+			"Do not say so hard ah, that is not garbage, but the key to maintain the entire front medical, you do not want to go can, I go back to the cloth ...",
+			"It's a matter of how you say it. It's not garbage, it's the key to maintaining frontline healthcare itself. If you don't want to go, that's fine ......, you can go yourself ...... later."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			300280,
+			"Who said I don't go? Come on. It's just picking up some stuff.",
+			"谁说不去的！我们走！不就是回收零件嘛！",
+			"誰が行かないって言ったのよ！行くよ！部品を回収してくればいいんでしょ！",
+			"누가 안 간다고 했어! 갈 거야!! 부품을 회수해 오면 되는 거잖아!",
+			"Who said I wouldn't go?! It's fine, all I have to do is collect the parts!",
+			"Eu disse que ninguém iria! vai! Tudo o que você precisa fazer é coletar as peças!",
+			"Who said no! Let's go! It's just recycling parts!",
+			"Who said I wasn't going? ! I'm going! You just have to retrieve the parts!"
+		]
+	],
+	"31": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300281,
+			"Emesa only bosses us around. Be careful next time when she commissions you to do something. You don't want to be led by the nose.",
+			"真是的，埃米沙那个家伙太会使唤人了，以后她的委托你可得留心一些，不要被她牵着鼻子走。",
+			"まったく。エミザったら人使いが荒いんだから。これからは彼女の依頼には気をつけなきゃ。あごで使われないようにしないと。",
+			"정말. 에미자란 녀석은 사람 부리는 게 거칠어. 이제부터는 그녀의 의뢰에는 조심해야겠어. 턱턱이 치이지 않도록 해야지.",
+			"Man, Amisha really likes to work people to the bone. You'll have to be careful with her requests from now on and make sure she doesn't lead you by the nose.",
+			"Eita. Se Emesa é um ser humano, é difícil. De agora em diante, tenho que ter cuidado com o pedido dela. Eu tenho que evitar que ele seja usado no meu queixo.",
+			"Really, Emesa that guy is too good at making people, in the future her commission you have to pay some attention, do not be led by her nose.",
+			"Oh, my God. Emesa is so rough with people. I have to be careful with her requests from now on. I have to make sure she doesn't use me as a jawboner."
+		],
+		[
+			"choice",
+			[
+				300282,
+				"She's all good to me.",
+				"我觉得她是个好人。",
+				"彼女はいい人だと思う。",
+				"그녀는 좋은 사람인 것 같아.",
+				null
+			],
+			[
+				300283,
+				"Alright, I'll be more careful.",
+				"好的，以后我会注意的。",
+				"たしかに、これからは気をつけよう。",
+				"확실히, 앞으로는 조심하자.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			32,
+			33
+		]
+	],
+	"32": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300284,
+			"Except for her bad temper, she's actually ok. Look, I was just joking around. Don't take it seriously.",
+			"嗯，除了脾气差之外的确是个烂好人呢，好啦~我刚才是开玩笑的不用那么认真啦~",
+			"うん、気性が荒い以外は確かにいい人なのよ。気にしないで、さっきのは冗談だから真面目にとらないでね！",
+			"응, 성질이 거친 것 빼고는 확실히 좋은 사람이야. 신경 쓰지 말고, 방금 건 농담이니까 진지하게 받아들이지 말고!",
+			"Yeah, she's definitely a good person if you can get past her temper. Don't worry, I was just joking! You don't have to take it seriously.",
+			"Sim, ele é definitivamente uma boa pessoa, exceto que ele tem um temperamento áspero. Não se preocupe, é uma piada, então não leve a sério!",
+			"Well, in addition to poor temper is indeed a good guy, well ~ I was just joking not so serious ~",
+			"Yeah, he's definitely a nice guy except for his temper. Never mind, that was a joke earlier, don't take it seriously!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			34
+		]
+	],
+	"33": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300285,
+			"You too shouldn't be serious, because I was also joking. She indeed is a short-tempered but good person.",
+			"呃！你也不用这么认真啦，我是开玩笑的~那家伙除了脾气差了点其实是个烂好人。",
+			"え！あなたもそんなに真面目なの。冗談だよ～！あの子は気性が荒い以外はいい人なんだよ。",
+			"에! 너도 그렇게 진지한 거야. 농담이야~! 걘 성질이 거친 것 빼고는 좋은 사람이니까.",
+			"Hey! No need to be so serious. I was just joking~! She's short-tempered, but she's a good person.",
+			"Huh! Você é tão sério também. É uma piada! Aquele garoto é uma boa pessoa, exceto por seu temperamento duro.",
+			"You don't have to be so serious. You don't have to be so serious, I was joking ~ that guy is actually a good guy except for his bad temper.",
+			"Eh! You are so serious too. I'm just kidding~! That girl is a good person except for her temper."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			34
+		]
+	],
+	"34": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300286,
+			"Anyway, you're on your own in this mission. Maybe we have to carry her home some day.",
+			"总之这次的任务就当是为了自己吧，或许哪天我们也得靠她背回家呢~",
+			"とにかく今回の任務は自分のためだからね！いつの日か彼女に戦場からおんぶしてもらって帰ることになるかもしれないもの。",
+			"어쨌든 이번 임무는 자신을 위한 거니까! 언젠가 그녀에게 전장에서 업혀서 돌아가게 될지도 모르는 거야.",
+			"Anyway, let's just consider this mission for ourselves. Maybe one day we'll need her to piggyback us home, too~",
+			"Enfim, esta missão é para mim! Algum dia ela pode pegar carona no campo de batalha e ir para casa.",
+			"Anyway, this time the task as for themselves, perhaps one day we also have to rely on her back home it ~",
+			"Anyway, this mission is for my own good! One day she may have to give me a piggyback ride home from the battlefield."
+		],
+		[
+			"msg",
+			300287,
+			"The mission is simple: collect the shards of parts on the field and bring them back to Emesa.",
+			"那么我简单说明一下任务内容吧，寻找收集战场上的零件碎片，把它带回给埃米沙就行了。",
+			"じゃあ、簡単に任務の内容を説明するね。戦場にある部品の破片を集めて、それを持ち帰ってエミザに渡せばOKだよ。",
+			"자, 간단히 임무 내용을 설명해 줄게. 전장에 있는 부품 파편을 모아서 그것을 가지고 돌아가 에미자에게 넘기면 OK야.",
+			"Alright, let me give you a rundown of this mission. Collect the broken parts on the battlefield, bring them back, and give them to Amisha.",
+			"Em seguida, explicarei brevemente o conteúdo da missão. Recolha os pedaços de peças no campo de batalha, leve-os para casa e entregue-os a Emiza.",
+			"Then I will briefly explain the content of the mission, looking to collect the pieces of the parts of the battlefield, bring it back to Emesa on the line.",
+			"Okay, let me briefly explain the mission. You just need to collect the pieces of the parts on the battlefield, bring them back and give them to Emesa."
+		],
+		[
+			"msg",
+			300288,
+			"Although the battle is over, there are lots of Houkai creatures roaming around. Don't let your guards down.",
+			"不过虽然战斗已经过去了，但是战场附近还是游荡着不少崩坏生物，不要为了收集零件而放松警惕。",
+			"この間の戦闘は終わったけど、戦場の付近には崩壊生物がたくさんうろついているから、部品集めだからって警戒を緩めたりしないようにね。",
+			"이번 전투는 끝났지만, 전장 근처에는 붕괴 생물이 많이 돌아다니니까, 부품 모으는 거라고 경계를 늦추지 않도록 해.",
+			"The battle is over now, but there are still many Honkai Beasts lurking around near the battlefield, so don't let your guard down just because you're gathering parts.",
+			"A batalha acabou durante este tempo, mas há muitas criaturas no colapso vagando pelo campo de batalha, então não relaxe sua vigilância só porque você está coletando peças.",
+			"However, although the battle has passed, but there are still many collapsed creatures roaming around the battlefield, do not let down your guard in order to collect parts.",
+			"The battle was over the other day, but there are plenty of disintegrating organisms hanging around the vicinity of the battlefield, so don't let your guard down just because you're collecting parts."
+		],
+		[
+			"msg",
+			300289,
+			"Mission begins!",
+			"那么，开始任务吧~",
+			"じゃあ、任務の開始～！",
+			"자, 임무 시작~!",
+			"Then, let the mission begin~!",
+			"Então, a missão começa!",
+			"So, let's start the mission~",
+			"Then let the mission begin~!"
+		]
+	],
+	"35": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300290,
+			"I think I'm done with this area. Should go back now.",
+			"呼~这一带的零件差不多都回收了，看来差不多该回去了。",
+			"ふぅ～この一帯の部品は大体回収できたね。そろそろ戻らなきゃ。",
+			"후~ 이 일대의 부품은 대체로 수거했네. 슬슬 돌아가야겠어.",
+			"Whew~ I've recovered most of the parts from this area. We should head back now.",
+			"Hmmm, consegui recuperar a maioria das peças nesta área. Tenho que voltar em breve.",
+			"Whew ~ the parts in this area are almost recycled, it seems almost time to go back.",
+			"Whew - I think I've recovered most of the parts in this area. I'd better get back."
+		]
+	],
+	"36": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			300291,
+			"Wow, that was quick.",
+			"回来了么，还是挺快的嘛。",
+			"おかえり。結構早かったな。",
+			"어서 와. 꽤 빨리 끝냈네.",
+			"Welcome home. You sure got that done quick.",
+			"Bem vindo de volta. Foi bem rápido.",
+			"You're back, it's still pretty fast.",
+			"Welcome back. That was pretty fast."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			300292,
+			"I got you the parts. But are they really useful? I mean, they are trash to me.",
+			"零件是给你带回来了，但是这些破铜烂铁真的能派上用场么，至少我看来和垃圾没什么区别。",
+			"部品を持って帰って来たよ。でも、こんなくず鉄が役に立つのかな？少なくとも私にはゴミと区別がつかないんだけど。",
+			"부품을 가져왔어. 근데 이런 고철이 도움이 될까? 적어도 나한테는 쓰레기랑 구분이 안 가는데.",
+			"We brought back the parts. But is this scrap metal actually of any use? It all looks like garbage to me.",
+			"Eu trouxe de volta as peças. Mas esse tipo de sucata é útil? Pelo menos eu não posso dizer isso do lixo.",
+			"Parts are brought back to you, but these broken iron and steel can really be useful, at least I seem and junk is no different.",
+			"I came back with some parts. But I wonder if this scrap metal is useful? I can't distinguish it from trash, at least not to me."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			300293,
+			"It's for the engineering team to decide.  There's no excuse for them to refuse to repair the mecha. They'll pay for it if they can't fix it.",
+			"有没有区别得工程班的人说的算，至少现在她们不会再有什么零件短缺的借口了，要是修不好我就打死她们！",
+			"そこはエンジニア班の人たち次第だな。少なくとも、彼女たちもこれで部品不足を言い訳にできないだろ。修理しなかったらぶん殴ってやる！",
+			"거긴 엔지니어 팀 사람들 마음이겠지. 적어도 이제 부품 부족을 핑계로 못 할 거야. 수리 안 하면 두들겨 패줄 테니까!",
+			"That's for the engineering team to decide. At the very least, now they can't use the lack of parts as an excuse. If they can't fix it, I'll give them a good beating!",
+			"Depende das pessoas da equipe de engenheiros. Pelo menos, eles não podem justificar a falta de peças. Se eu não consertar, vou bater nele!",
+			"There is no difference to the engineering class, at least now they will no longer have any excuse for parts shortage, if not fixed I will kill them!",
+			"That part is up to the engineering team. At least the girls can't use this as an excuse for lack of parts, either. If they don't fix it, I'll beat the crap out of them!"
+		],
+		[
+			"msg",
+			300294,
+			"I'm taking the parts to the engineers. See you.",
+			"那我先把这些零件带给工程班的人，回头见。",
+			"じゃあ、この部品をエンジニア班に届けてくるよ。お疲れ様。",
+			"그럼 이 부품 엔지니어 팀한테 전달해 올게. 수고했어.",
+			"Alright, I'll go deliver these parts to the engineering team. Thanks for the hard work.",
+			"Então, vou entregar esta peça para a equipe de engenheiros. bom trabalho.",
+			"Then I'll take the parts to the engineering class and see you later.",
+			"Okay, I'm going to deliver these parts to the engineering team. Thanks for your hard work."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			300295,
+			"Say hi for me to the team.",
+			"哈哈…好吧，替我向工程班的人问好。",
+			"うん、分かったわ。エンジニア班のみんなによろしくね。",
+			"응, 알았어. 엔지니어 팀 사람들한테도 잘 전해 줘.",
+			"Haha... Alright then, say hello to all the engineers for me.",
+			"Sim eu entendo. Atenciosamente a todos da equipe de engenheiros.",
+			"Haha...well, say hello to the engineering class for me.",
+			"Yeah, okay. Give my regards to the engineering team."
+		],
+		[
+			"msg",
+			300296,
+			"Everything is over now. Get some rest. There will be more tasks for you. If you're ready for the next mission, check out the bulletin board.",
+			"呼~看来事情告一段落了，先休息一下吧。后面还有别的委托哦，如果要进行下一个任务的话就去任务板看看吧~",
+			"ふぅ～これでひと段落ね。少し休みましょう。まだ別の依頼もあるから。次の任務を受けるなら任務ボードを見てね。",
+			"후~ 이제 한숨 돌리네. 잠시 쉬었다 가자. 아직 다른 의뢰도 있으니까. 다음 임무를 받으려면 임무 게시판을 봐.",
+			"Whew~ Well, we got that one done. Let's take a short break. We've still got more tasks to do later. When you're ready to take on the next mission, please take a look at the assignment board.",
+			"Hmmm, isso é um parágrafo. Vamos descansar um pouco. Ainda tenho outro pedido. Olhe para o quadro de missão para sua próxima missão.",
+			"Phew~ Looks like things are over, let's take a break. There are other commissions in the back, so if you want to carry out the next task, go to the task board and check it out~",
+			"Well, that's a relief. Let's get some rest. We still have another assignment. If you want to take on the next assignment, please look at the assignment board."
+		]
+	]
+}

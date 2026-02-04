@@ -1,0 +1,2355 @@
+{
+	"580": [
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61223,
+			"Is this a exit? Are we going back to the original place?",
+			"前面应该就是出口， 我们又绕回原来的地方了么……",
+			"前にあるのは出口のはず。——また同じ所に戻ってきたわね……。",
+			"앞에 있는 게 출구일 텐데. ——또 같은 곳으로 돌아왔네…….",
+			"The exit should be ahead. ——We've come back to where we came from..."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61224,
+			"Can we really get information here?",
+			"这里锈迹斑斑的，鬼知道被废弃了多久了，真的能找到什么情报么？",
+			"ここサビだらけじゃない。棄てられてどのくらい経つのやら……。本当に役に立つ情報なんかあるの？",
+			"여기 완전 녹슬었잖아. 버려진 지 얼마나 지났는지……. 정말 쓸모 있는 정보 같은 게 있을까?",
+			"There's a lot of rust here. I wonder how long it's been abandoned... Is there really any useful information here?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61225,
+			"Kiana, there must be a lot mechanical humanoids.",
+			"琪亚娜，刚才战斗的那个机械人形，那个东西恐怕有很多的复制体。",
+			"キアナ、さっき戦ったあのアンドロイド、どうやらコピー体がたくさんいそうよ。",
+			"키아나, 아까 싸운 그 안드로이드, 복제체가 많이 있을 것 같아.",
+			"Kiana, it seems there are many copies of that android we fought earlier."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61226,
+			"A lot?",
+			"复制体？",
+			"コピー体？",
+			"복사체?",
+			"Copies?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61227,
+			"It looks like a factory, maybe it was used to produce it.",
+			"这里似乎是这个型号的机械人形的生产车间，你看那边的，还留着很多的废弃物呢。",
+			"ここはこの型のアンドロイドを生産するラインのようね。あそこを見て、まだたくさん廃棄物が残ってる。",
+			"여기는 이 타입의 안드로이드를 생산하는 라인인 것 같네요. 저기를 봐, 아직도 폐기물이 많이 남아 있어.",
+			"This appears to be a production line for these types of androids. Look over there, there's still a lot of waste left."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61228,
+			"Yes, I can see some parts of the mechanical humanoids.",
+			"呜哇！这些手脚是…那个机器人的配件么？这场面真是恐怖片呢……",
+			"うぎゃっ！この手足って……あのロボットのパーツなの？ホラー映画みたい……。",
+			"으악! 이 손발이…… 저 로봇의 부품이야? 호러 영화 같아…….",
+			"Ahhh! Are these limbs... parts of that robot? It's like something out of a horror movie..."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61229,
+			"It's totally different compare to Anti-entropy mechanical girls.",
+			"果然这里不是逆熵的设施么…这个型号的机械人形似乎和逆熵的机甲差别很大。",
+			"やっぱりここはネゲントロピーの施設じゃないわね。この型のアンドロイドはネゲントロピーのメカとはだいぶ違うもの。",
+			"역시 여긴 네겐트로피의 시설이 아니네. 이 타입의 안드로이드는 네겐트로피의 메카와는 상당히 다른 것.",
+			"So this isn't an Anti-Entropy facility after all. This type of android is quite different from Anti-Entropy's mechas."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61230,
+			"Indeed… It's more powerful than mechanical girls.",
+			"的确…逆熵的那些破铜烂铁两三下就能搞定了，刚才那个家伙可是费了我们好大力气呢~",
+			"確かに……あのネゲントロピーのポンコツならすぐ倒せるのに、さっきのあいつは二人がかりでかなり苦労したもんね。",
+			"확실히…… 저 네겐트로피의 잉여라면 바로 쓰러뜨릴 수 있는데, 아까 그 녀석은 두 명이서 꽤 고생했잖아.",
+			"That's true... We can easily defeat those stupid Anti-Entropy mechas, but that one earlier was quite a struggle for us."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61231,
+			"Kiana, let's check other places.",
+			"嗯，果然这里没有这么简单。琪亚娜~我们去其他区域看看吧，应该还有线索。",
+			"ええ、やっぱり事はそう単純じゃないわ。他のエリアも見に行ってみましょう。まだ手がかりがあるはずよ。",
+			"그래, 역시 일이 그렇게 단순하지는 않아. 다른 에리어도 가서 봐야겠어. 아직 단서가 있을 거야.",
+			"Mm-hmm, seems things aren't so simple after all. Let's explore other areas. There must be more clues."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61232,
+			"Can we do it another day maybe?",
+			"哎呀~好不容易出来了，又要进去么…可不可以改天再来？",
+			"テレサ……明日にしない？",
+			"테레사……내일로 할까?",
+			"Theresa... can't we do it tomorrow?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61233,
+			"No!",
+			"不要废话啦~你难道忘了女武神的基本原则了么？",
+			"無駄口をたたかない。まさかとは思うけどヴァルキリーの基本原則を忘れたんじゃないでしょうね？",
+			"쓸데없는 말 하지 마라. 설마 그렇겠냐만 발키리의 기본 원칙을 잊은 건 아니겠지?",
+			"Don't talk nonsense. Have you forgotten the basic principles of being a Valkyrie?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61234,
+			"Yes yes~",
+			"是是~服从命令~",
+			"うぅぅ……はいはい。",
+			"으으……네네.",
+			"Ughhh... fine."
+		]
+	],
+	"581": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61235,
+			"Hummmm, it's so cold here! Where are we?",
+			"呼~好冷！好冷！这是什么鬼地方！",
+			"ガクガクブルブル、さむさむ！ここ、なんて場所なの！",
+			"덜덜 부들부들, 추워추워! 여긴 대체 어디야!",
+			"Brrr! It’s so cold! What the hell is this place?!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61236,
+			"Hold on, I can see the exit!",
+			"连这种考验都无法承受可是当不了合格的女武神哦~前面貌似是出口了，再忍耐一下吧。",
+			"この程度の試練にも耐えられないようじゃ一人前のヴァルキリーとはいえないわね。この先が出口みたい、もう少しの辛抱よ。",
+			"이 정도 시련도 견디지 못하면 제대로 된 발키리라고 할 수 없어. 저 앞이 출구인 것 같아, 조금만 더 참아.",
+			"If you can't even endure a trial like this, you can't be called a full-fledged Valkyrie. It looks like the exit is just ahead, so just be patient a little longer."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61237,
+			"I don't think people would live in this snowy place!",
+			"真是的，谁会住在这种冰天雪地的地方，怕不是失了智！",
+			"まったく、こんな極寒の地に誰が住めるってのよ。バカなんじゃないの！",
+			"정말, 이런 혹한의 땅에 누가 살 수 있겠어. 바보가 아닐까!",
+			"Seriously, who could live in such a cold place? They must be crazy!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61238,
+			"Kiana, this place is not for living.",
+			"琪亚娜，看来你没有好好观察周围的细节呢，这里可不是让人居住的地方，而是储藏区。",
+			"キアナ、周囲の状況をよく観察なさい。ここは人の居住区じゃないわ、貯蔵庫よ。",
+			"키아나, 주변 상황을 잘 관찰하세요. 여기는 사람이 사는 구역이 아니야, 저장고야.",
+			"Kiana, take stock of your surroundings. This isn't a residential area, it's a storage facility."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61239,
+			"For me, it looks like a scrap heap!",
+			"这里的东西都快烂掉了谁看得清储藏的是什么，还有这些堆的乱七八糟的箱子，都不好好整理，我看更像是垃圾堆！",
+			"ほとんど腐りかけで何を貯蔵してるっていうのよ。それに箱は散らかってるし、全然整理してないし、むしろゴミ箱に見えるわ！",
+			"거의 썩어가고 있는 걸 뭘 보관한다는 거야. 게다가 상자들은 어질러져 있고, 전혀 정리도 안 돼 있고, 오히려 쓰레기통 같아 보여!",
+			"All the stuff stored here is rotting. Plus the boxes are messy and not organized at all, they look more like trash!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61240,
+			"Yes, it's strange.",
+			"的确很奇怪，这里的建筑看起来没有明显的损伤，但是物资却杂乱不堪，感觉有点异常。",
+			"確かに変ね。ここの建物には目立った損傷はないのに、物資だけ荒れ放題なんて。ちょっと異常だわ。",
+			"정말 이상하네. 여기 건물에는 눈에 띄는 손상은 없는데, 물자만 난장판이란 말이야. 좀 이상하잖아.",
+			"It's strange indeed. There's no visible damage to the buildings here, but the supplies are in disrepair. That's a bit odd."
+		],
+		[
+			"msg",
+			61241,
+			"There must be something terrible happened here before.",
+			"一定是发生了什么突发事件导致他们没有来得及进行整备…这么大的基地忽然废弃，到底经历了什么呢……",
+			"きっと突発事件が起きて配備が間に合わなかったのね……こんな大きな基地を突然棄てるなんて、一体何があったのかしら……。",
+			"분명 돌발 사고가 발생해서 배치가 제때 이루어지지 못했나 봐…… 이렇게 큰 기지를 갑자기 버리다니, 대체 무슨 일이 있었던 걸까…….",
+			"I'm sure some unexpected incident occurred and the deployment couldn't be completed in time... I wonder what could have happened to cause such a large base to be suddenly abandoned..."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61242,
+			"Maybe they are just lazy.",
+			"我看只是这里的住民懒得整理吧？",
+			"ここの住人が怠け者で片づけなかっただけじゃないの？",
+			"여기 주민들이 게으름뱅이라서 치우지 않았던 것뿐이 아닐까?",
+			"Maybe the people who lived here were just lazy and didn't clean it up?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61243,
+			"I don't think so.",
+			"你以为人人都像你一样么，这么大的基地一定有很强的管理意识，又不是你宿舍房间，天天推着个烂摊子！下次再让我看到你不整理宿舍我就找你妈告状去！",
+			"人がみなキアナと同じだと思わないの。これほど大きな基地ですもの、管理意識は高いはずよ。散らかってるあなたの部屋じゃあるまいし。",
+			"사람이 모두 키아나와 같다고 생각하지 마. 이렇게 큰 기지이니까 관리 의식이 높을 거야. 어질러진 너의 방과는 다르잖아.",
+			"Don't assume everyone is like you, Kiana. With a base this big, you're bound to have a good sense of maintenance. This isn't your dormitory room, where you make a mess every day! Next time I see you not tidying up the dormitory, I'll tell your mother!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61244,
+			"Emmm…",
+			"咕！",
+			"ぐっ！",
+			"꿱!",
+			"Agh!"
+		],
+		[
+			"msg",
+			61245,
+			"Let us continue check it. Maybe we can figure out what happened here!",
+			"我，我们再找找看有什么线索吧~你看这里这么大一定还有什么未知的秘密！",
+			"も、もっと手がかりを探してみましょうよ！こんなに広いんだし、きっとまだ何か秘密が隠されてるわよ！",
+			"자, 더 많은 단서를 찾아보자구요! 이렇게 넓은데, 분명 아직 뭔가 비밀이 숨겨져 있을 거야!",
+			"L-Let's find some more clues! It's so big, there must be some secrets hidden there!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61246,
+			"You are smart~",
+			"哼~算你机灵~",
+			"ごまかすのは上手いんだから。",
+			"속이는 건 잘하잖아.",
+			"Hmph. You're a smart girl."
+		]
+	],
+	"582": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61247,
+			"Human beings make machines for working.",
+			"人类制造了机械成为自己的工具。",
+			"人間は自らのツールとして機械を作りだした。",
+			"인간은 자신의 도구로 기계를 만들어 냈다.",
+			"Humans created machines as their tools."
+		],
+		[
+			"msg",
+			61248,
+			"However, machines can not work without human.",
+			"但机械失去了人类却无法工作。",
+			"機械は人間を失うと作動しない。",
+			"기계는 인간을 잃으면 작동하지 않는다.",
+			"However, machines don't work without humans."
+		],
+		[
+			"msg",
+			61249,
+			"Maybe, human are \"tools\" for machines.",
+			"那么，人类对于机械来说或许也是一种工具。",
+			"ならば、人間も機械にとって一種のツールなのかもしれない。",
+			"그렇다면, 인간도 기계에게 일종의 도구인지도 모른다.",
+			"In this case, then humans may also be a sort of tool for machines."
+		],
+		[
+			"msg",
+			61250,
+			"In the later days, human can not live without machines.",
+			"科技的发展让人类离不开机械，",
+			"科学技術の発達により人間は機械から離れられなくなった。",
+			"과학 기술의 발달로 인간은 기계로부터 떨어질 수 없게 되었다.",
+			"With the development of science and technology, humans can no longer separate themselves from machines."
+		],
+		[
+			"msg",
+			61251,
+			"Machines had AI and can live individually.",
+			"而机械却渐渐脱离了人类的控制。",
+			"だが機械は徐々に人間の支配から離れていった。",
+			"그러나 기계는 점차 인간의 지배에서 벗어나게 되었다.",
+			"But machines gradually moved away from human control."
+		],
+		[
+			"msg",
+			61252,
+			"Who is the tool?",
+			"那么谁才是真正的工具呢？",
+			"それでは、どちらが真のツールなのだろう？",
+			"그렇다면, 어느 쪽이 진정한 툴일까?",
+			"So which is the real tool?"
+		],
+		[
+			"msg",
+			61253,
+			"Maybe, this is evolution……",
+			"或许这也是进化循环的一节……",
+			"あるいはこれも進化のサイクルの一部なのだろうか……",
+			"아니면 이것도 진화의 사이클의 일부인 걸까……",
+			"Or perhaps this is also part of the evolutionary cycle..."
+		],
+		[
+			"msg",
+			61254,
+			"…",
+			"…",
+			"…",
+			"...",
+			"......"
+		],
+		[
+			"msg",
+			61255,
+			"……",
+			"……",
+			"……",
+			"……",
+			"............"
+		],
+		[
+			"msg",
+			61256,
+			"Hello, I'm the main AI, ELLA, you do not have the right to get into this place, please go back now!",
+			"「呲拉…呲拉…您好，我是主控AI程序ELLA，您即将进入机密区域，此区域的开放权限已关闭，请您即刻返回指定避难区域」",
+			"「こちらは主制御AIのELLAです。あなたはまもなく機密エリアに入ります。エリアの開放権限は既にオフになっています。直ちに指定の避難エリアに戻ってください」",
+			"「여기는 주제어 AI ELLA입니다. 귀하는 곧 기밀 구역에 진입합니다. 구역 개방 권한은 이미 해제되었습니다. 즉시 지정된 대피 구역으로 되돌아가 주십시오」",
+			"\"I am the Master Control AI, ELLA. You will soon be entering a classified area. Area release authorization has already been turned off. Please return to the designated evacuation area immediately.\""
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61257,
+			"It seems she don't want us to get in.",
+			"看来没有让我们进去的意思呢~",
+			"どうやら入れてはくれなさそうね。",
+			"아무래도 들여보내 주지 않을 것 같네.",
+			"Looks like she won't let us in."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61258,
+			"No, I refuse. I will break it!",
+			"哼哼~在我德丽莎面前还没有进不去的门，闪开！看我砸碎它！",
+			"このテレサ･アポカリプスにかかれば開かない扉などないわ。どきなさい！——全てを破壊してあげるんだから！",
+			"이 테레사 아포칼립스 내 손에 맡기면 열리지 않는 문 따윈 없어. 기다려봐!——모든 걸 파괴해 주겠어!",
+			"Heheh~ There is no door that Theresa Apokalypse cannot open. Out of the way! ——I'll destroy it all!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61259,
+			"Hahaha… Alright~",
+			"啊哈哈…好吧，当心别闪着腰。",
+			"あ、はい……ぎっくり腰に気をつけて。",
+			"아, 네…… 요통 조심하세요.",
+			"Ah, okay... be careful not to strain your back."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61260,
+			"Bang!!!",
+			"砰！！！",
+			"ガツーン！！！",
+			"쿵!!!",
+			"<i>CRASH!!!</i>"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61261,
+			"It didn't open…",
+			"看起来并没有打开呢~",
+			"開かない扉など……なんだっけ？",
+			"열리지 않는 문이라니…… 뭐였더라?",
+			"It doesn't look like it's open~"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61262,
+			"Seriously? I used Judah…",
+			"啧，居然有犹大都砸不开的东西。",
+			"くっ、誓約の十字架に砕けないものがあるなんて。",
+			"쿳, 서약의 십자가에 부서지지 않는 것이 있다라니.",
+			"Damn, so there's a door that even the Oath of Judas can't break."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61263,
+			"Judah should be range weapon…",
+			"说起来犹大不是远程武器么……",
+			"テレサの武器ってこんな風に使うものじゃなかった気がする……。",
+			"테레사의 무기를 이렇게 사용하는 게 아니었던 것 같은데…….",
+			"Isn't the Judas a long-range weapon..."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61264,
+			"Attack detected! Defence system, activated!",
+			"「检测到受击反应，判定位攻击行为，启动防卫机制。」",
+			"「衝撃反応を検出、攻撃行為と判定、防御システム起動。」",
+			"「충격 반응 감지, 공격 행위 판정, 방어 시스템 가동. 」",
+			"\"Impact reaction detected, determined to be an attack. Activating defense system.\""
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61265,
+			"Ha!?",
+			"唔！？",
+			"え！？",
+			"어!？",
+			"Eh?!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61266,
+			"Hoho~",
+			"嚯嚯~看来终于要动真格的了呢。",
+			"テリテリッ！どうやら効果はあったみたいね！",
+			"반짝반짝! 어쨌든 효과가 있었나 봐!",
+			"Teri-teri! Looks like it worked!"
+		],
+		[
+			"speaker",
+			204589
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				true
+			],
+			[
+				924,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			61267,
+			"It's my duty to protect human civilization.",
+			"「人类的文明必须得到延续，这是我的使命。」",
+			"「人類の文明を永続させねばならない。これが私の使命。」",
+			"「인류 문명을 영속시켜야 한다. 이것이 나의 사명이다.」",
+			"\"Human civilization must be perpetuated. This is my mission.\""
+		]
+	],
+	"583": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61268,
+			"Finally, we did it!",
+			"呼…呼…终于解决了么……",
+			"ふぅ……ふぅ……もうやだ、帰りたい……。",
+			"후……후…… 더는 못해, 집에 가고 싶어…….",
+			"<i>Huff... huff...</i> I can't take it anymore, I wanna go home..."
+		],
+		[
+			"speaker",
+			204589
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				924,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			61269,
+			"Need… Help… Connection error…",
+			"备用义体消耗殆尽，无法修复…请求补给……网路链接失败…请求无响应……",
+			"義体スペアをほぼ消耗、修復不能……補給リクエスト……ネットワーク接続失敗……リクエスト応答なし……",
+			"의체 스페어를 거의 소모, 수복 불가…… 보급 요청…… 네트워크 접속 실패…… 요청 응답 없음……",
+			"Spare prosthetic body almost worn out, beyond repair... Request for resupply... Network connection failed... No response to request..."
+		],
+		[
+			"msg",
+			61270,
+			"System damage:91% …",
+			"系统损坏严重，硬件无法修复…数据备份开始…失败…网路无法链接……",
+			"システムの損傷は深刻、ハードウェア修復不能……データバックアップ開始……失敗……ネットワーク接続不能…………",
+			"시스템 손상이 심각합니다, 하드웨어 복구 불가능……데이터 백업 시작……실패……네트워크 연결 불가…………",
+			"Serious system damage, hardware cannot be repaired... Data backup started... Failed... Cannot connect to network......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61271,
+			"She is still moving… We need to give her the last hit!",
+			"这家伙居然还能动么…看来得给你最后一击了呢！",
+			"こいつまだ動けるの？……とどめ！",
+			"이 녀석 아직 움직일 수 있어?……마무리!",
+			"This thing is still able to move? ...Let's finish it!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61272,
+			"Wait! Kiana!",
+			"等等！琪亚娜！",
+			"待ちなさい、キアナ！",
+			"기다려, 키아나!",
+			"Wait a minute, Kiana!"
+		],
+		[
+			"speaker",
+			204589
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				true
+			],
+			[
+				924,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			61273,
+			"Code:SCR5001 Si/FL…",
+			"呲啦…呲啦…编号SCR5001 Si/FL…呲啦…请求…呲拉…请求…滋啦…",
+			"ツツー……ツツー……シリアルナンバーSCR5001 Si/FL……ツツー……リクエスト……ツー……リクエスト……ツー……",
+			"츠츠……츠츠……시리얼 넘버 SCR5001 Si/FL……츠츠……리퀘스트……츠……리퀘스트……츠……",
+			"<i>Bzzt... bzzt...</i> Serial number SCR5001 Si/FL... <i>Bzzt...</i> Request... <i>bzzt...</i> request... <i>bzzt...</i>"
+		],
+		[
+			"msg",
+			61274,
+			"Personality… Broke… System… Closed.",
+			"我…使命…滋啦…人类…呲拉…呲拉…人格压制系统错误…强制关闭。",
+			"私の……使命……ツー……人類……ツー……ツー……人格抑制システムエラー……強制終了。",
+			"나의……사명……투……인류……투……투……인격 억제 시스템 에러……강제 종료.",
+			"My... mission... <i>bzzt...</i> humanity... <i>bzzt... bzzt...</i> Personality suppression system error... force shutdown."
+		],
+		[
+			"msg",
+			61275,
+			"Help… Help me…",
+			"呲拉…救…救我…",
+			"ツー……た……助けて……",
+			"아파서……어……도와줘……",
+			"<i>Bzzt...</i> H... Help me..."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61276,
+			"Is the AI asking us for help? What's wrong?",
+			"这个是，AI在求救么，到底是怎么回事？",
+			"これって、AIが助けを求めているの？一体どういうこと？",
+			"이거, AI가 도움을 구하고 있는 거야? 대체 무슨 일이야?",
+			"Is this AI asking for help? What does this mean?"
+		],
+		[
+			"speaker",
+			204589
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				true
+			],
+			[
+				924,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			61277,
+			"Help me…",
+			"救救我……",
+			"助けて……",
+			"도와줘……",
+			"Help me..."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61278,
+			"Where is she going?",
+			"她要去哪里？",
+			"どこへ行くつもりかな？",
+			"어디로 갈 생각이야?",
+			"Where's she going?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61279,
+			"Kiana, let's follow her!",
+			"琪亚娜，我们跟上去！",
+			"ついていってみましょう！",
+			"따라가 봅시다!",
+			"Let's keep up!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61280,
+			"You are going to \"Queen\" project…",
+			"「您即将进入机密区域，此区域的开放权限已经…呲拉呲拉…开放权限启用…开启此区域将视为放弃「虫后项目」，此项目的备份资料将全部消除，是否确认。」",
+			"「このエリアの開放権限は既に……ピーッ……開放権限始動……エリアを開くと｢クイーンビー･プロジェクト｣を放棄とみなされます｡プロジェクトのデータは全て消去されます｡よろしいですか｡」",
+			"「이 영역의 개방 권한은 이미……삐──……개방 권한 가동……영역을 열면 ｢퀸 비 프로젝트(Queen Bee Project)｣를 포기한 것으로 간주됩니다. 프로젝트 데이터는 모두 삭제됩니다. 계속하시겠습니까.」",
+			"\"Permission to open this area has already been granted... <i>Beep...</i> Permission to open start... If you open the area, you will be considered to have abandoned the 'Queen Bee Project'. All project data will be erased. Are you sure?\""
+		],
+		[
+			"speaker",
+			204589
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				924,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			61281,
+			"Please help me… Help me…",
+			"请救救我…救救我…",
+			"助けて……どうか……",
+			"도와줘……제발……",
+			"Help me... please..."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61282,
+			"Seems the AI can not unlock it… She is asking us for help.",
+			"这个AI无法解除这里的权限么…它好像在寻求我们的帮助。",
+			"このAIにはここの解除権限がないのかしら……まるであたくしたちに助けを求めているみたい。",
+			"이 AI에는 여기 해제 권한이 없는 걸까…… 마치 우리에게 도움을 요청하는 것 같아.",
+			"I wonder if this AI doesn't have the authority to unlock this... It's like it's asking for our help."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61283,
+			"What is thing in the front?",
+			"这个前面到底是？",
+			"この前にあるのは一体なんなのかな？",
+			"이 앞에 있는 게 대체 뭘까?",
+			"What on earth is that thing in front of us?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61284,
+			"It looks like a gene key, only human can unlock it.",
+			"似乎是一道基因锁，只有人类的基因能解开权限，或许这前面就是一切的真相了。",
+			"遺伝子の鎖のようね。人類の遺伝子だけが開放の権限を有する。これが全ての真相かもしれない。",
+			"유전자 사슬 같네. 인류의 유전자만이 개방 권한을 지니고 있다. 이것이 모든 진상일지도 모른다.",
+			"It's like a genetic chain. Only a human genome has the power to open it. This may reveal the whole truth."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61285,
+			"Gene confirmed, this is \"Queen\" project.",
+			"「已确认解除指令，开启新伊甸园，「虫后项目」结束，唤醒冬眠仓。」",
+			"「解除コマンドを確認。新エデンの園を開放。『クイーンビー・プロジェクト』終了。冬眠カプセル覚醒。」",
+			"「해제 명령 확인. 신 에덴의 정원 개방.『퀸 비 프로젝트』종료. 동면 캡슐 각성.」",
+			"\"Deactivation command confirmed. New Garden of Eden opened. 'Queen Bee Project' complete. Awakening hibernation capsule.\""
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61286,
+			"Those are… coffins!",
+			"这里是……这么多的棺材，这是坟场么！？",
+			"ここは……棺桶がこんなに……ここは墓場なの！？",
+			"여긴…… 관이 이렇게 많다니…… 여긴 묘지란 말이야!?",
+			"There are so many... coffins here... Is this a graveyard?!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61287,
+			"No, it's dormancy cabin. But it stopped working for a long time… I'm afraid the people inside…",
+			"不，这是冬眠仓，不过这个基地的机能早就停止了，里面的人类恐怕已经……",
+			"いいえ、これは冬眠カプセル。でも、この基地の機能はとっくに停止してるわ。中にいる人間はおそらくもう……。",
+			"아니, 이건 동면 캡슐이야. 하지만 이 기지의 기능은 이미 오래 전에 중단됐어. 안에 있는 사람들은 아마도 이미…….",
+			"No, these are hibernation capsules. But the functions of this base have stopped long ago. The people inside are probably already..."
+		],
+		[
+			"speaker",
+			204589
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				true
+			],
+			[
+				924,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			61288,
+			"Thank… you…",
+			"谢…谢…",
+			"あり……がと……",
+			"고마워……",
+			"Thank... you..."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61289,
+			"Theresa! Look, butterfly!",
+			"德丽莎！你看那边，是蝴蝶！",
+			"テレサ！あそこ見て、蝶よ！",
+			"테레사! 저기 봐, 나비야!",
+			"Theresa! Look over there, a butterfly!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				924,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61290,
+			"It's incredible…",
+			"这个封闭了如此之久的区域居然还有生命存活，实在是太不可思议了……",
+			"これほど長い間密閉されたエリアで生命が生き延びているなんて。本当に不思議だわ……。",
+			"이렇게 오랜 시간 밀폐된 구역에서 생명이 살아있다니. 정말 신기해…….",
+			"It's truly incredible that life could survive in such an enclosed area for such a long time..."
+		],
+		[
+			"speaker",
+			204589
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				true
+			],
+			[
+				924,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			61291,
+			"System reparing…",
+			"「与样本S的精神同步断开…系统恢复中。」",
+			"「サンプルSの精神同期オフ……システム回復中。」",
+			"「샘플 S 정신 동기화 오프……시스템 복구 중.」",
+			"\"Sample S's mind synchronization off... Systems recovering.\""
+		],
+		[
+			"msg",
+			61292,
+			"Sample collected, code:SCR5001 Si/FL… Working hours:735978632… Data clearing, system will shut down after 10 seconds.",
+			"「收到虫后项目结束指令，编号SCR5001 Si/FL…总工作时长735978632小时…数据清除开始，系统将于10秒后关闭。」",
+			"「クイーンビー・プロジェクト終了コマンド受領。シリアルナンバーSCR5001 Si/FL……総作業時間735978632時間……データクリア開始。システムは10秒後にシャットダウン。」",
+			"「퀸비 프로젝트 종료 명령 접수. 시리얼 넘버 SCR5001 Si/FL……총 작업 시간 735978632시간……데이터 클리어 시작. 시스템은 10초 후에 셧다운.」",
+			"\"Command received to terminate Queen Bee Project. Serial number: SCR5001 Si/FL... Total operation time 735,978,632 hours... Data clearing commencing. System will shut down in 10 seconds.\" (TN: This means she's been in operation for a little over 84,000 years!)"
+		],
+		[
+			"bg",
+			"CG10050"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61293,
+			"Code:SCR5001 Si/FL… Main AI: ELLA… Mission complete",
+			"编号SCR5001 Si/FL…主控AI程序…ELLA……任务结束。",
+			"シリアルナンバーSCR5001 Si/FL……主制御AI……ELLA……任務終了。",
+			"시리얼 넘버 SCR5001 Si/FL……주제어 AI……ELLA……임무 종료.",
+			"Serial number: SCR5001 Si/FL... Master control AI... ELLA... Mission accomplished."
+		],
+		[
+			"msg",
+			61294,
+			"Thank you for… using…",
+			"感谢…您的使用……",
+			"ご利用……ありがとうございました……",
+			"이용해 주셔서……감사합니다……",
+			"Thank you... for using our service..."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			61295,
+			"System shut down",
+			"「系统已关闭」",
+			"「システムはシャットダウンされました」",
+			"「시스템이 종료되었습니다」",
+			"\"Shutting down system.\""
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"msg",
+			61296,
+			"Is she broke? What's going on here?",
+			"…这家伙，坏掉了么？真是的，到底是怎么回事嘛！",
+			"……こいつ、壊れちゃったの？ほんと一体どうなってるのよ！？",
+			"……이 녀석, 고장 난 거야? 정말 대체 어떻게 된 거야!？",
+			"...Is this thing broken? What the hell is going on?!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"msg",
+			61297,
+			"Maybe no one would explain this to us.",
+			"或许谁也无法解开谜题的答案了，就像这个迷宫一般的基地，将永远尘封在黑暗的地下。",
+			"もしかしたら誰にも解けない謎かもしれないわね。この迷宮のような基地と同じく、永遠に暗い地下に埋もれて。",
+			"아마도 아무도 풀 수 없는 수수께끼일지도 몰라. 이 미로 같은 기지와 마찬가지로, 영원히 어두운 지하에 묻혀서.",
+			"Perhaps it's a mystery no one can ever solve, buried forever in the dark underground, just like this labyrinthine base."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"msg",
+			61298,
+			"So, are we failed this time?",
+			"那我们这次的任务难道是打水漂了么！？",
+			"じゃあ、もしかして今回の任務は骨折り損だったの！？",
+			"그럼, 혹시 이번 임무는 수고만 했네!？",
+			"So this mission was a waste of time then?!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"msg",
+			61299,
+			"I think so, Kiana, we should leave.",
+			"从结果来看是这样呢，琪亚娜，把这里的调查数据传输给本部吧，我们的任务结束了~",
+			"結果からみればそうね。ここの調査データを本部に伝送しましょう。あたくしたちの任務は終了よ。",
+			"결과로 봐서 그렇네요. 여기 조사 데이터를 본부로 전송합시다. 우리 임무는 끝났어요.",
+			"Judging from the results, yes. Let's transmit the survey data here to HQ. Now our mission is complete."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"msg",
+			61300,
+			"Okay… I feel I waste one day…",
+			"呼~好吧，总感觉又浪费了一整天。",
+			"はぁ、丸一日無駄にした気分。",
+			"하아, 하루 종일을 헛되이 보낸 기분.",
+			"Ugh, I feel like I've wasted a whole day."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"msg",
+			61301,
+			"We got something, however, we know how a human civilization was destoryed by Houkai.",
+			"这可不一定，我们也有收获哦，见证了另一个时代人类文明的余火是如何在与崩坏的战斗中熄灭的。",
+			"そうとは限らないわ、収穫はあったでしょ。崩壊と戦った別の時代の人類文明の残り火と、その最期を見届けたじゃない。",
+			"그렇지만은 않아, 수확은 있었잖아. 붕괴와 싸운 다른 시대의 인류 문명의 남은 불꽃과, 그 최후를 지켜보지 않았어?",
+			"Not necessarily, we got something out of it. We witnessed the last embers of another era of human civilization fighting the Honkai, and then witnessed its demise."
+		],
+		[
+			"msg",
+			61302,
+			"It's a caution for us.",
+			"或许这也是他们留给这个时代人类的警示……",
+			"あるいはこれも彼らがこの時代の人類に残した警告かもしれないわよ？",
+			"혹시 이것도 그들이 이 시대 인류에게 남긴 경고일지도 몰라요?",
+			"Or maybe this is also a warning they left for humanity of this age?"
+		]
+	],
+	"584": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61303,
+			"Doc:42300578623-4623/07/24",
+			"文件编号：42300578623-4623/07/24",
+			"文書番号：42300578623-4623/07/24",
+			"문서 번호:42300578623-4623/07/24",
+			"<b>Document Number:</b> 42300578623-4623/07/24"
+		],
+		[
+			"msg",
+			61304,
+			"Source:H██a",
+			"发起者：H██a 归属：地表生态侦查课 文件内容：第379次上浮作战报告",
+			"発起人：H██a 所属：地表生態偵察課 文書内容：第379回浮上作戦報告",
+			"발기인: H██a 소속: 지표 생태 정찰과 문서 내용: 제379회 부상 작전 보고서",
+			"<b>Initiator:</b> H██a Affiliation: Surface Ecological Reconnaissance Division Document Content: 379th Surface Operation Report"
+		],
+		[
+			"msg",
+			61305,
+			"Purpose: Houkai power detection",
+			"调查目的：例行地表生态监测（内容以圈外探索、物种生存调查、崩坏能检测为主）",
+			"調査の目的：定例地表生態モニタリング（圏外探索、種の生存調査、崩壊エネルギーの測定が中心）",
+			"조사 목적: 정례 지표면 생태 모니터링(권외 탐색, 종의 생존 조사, 붕괴 에너지의 측정이 중심)",
+			"<b>Survey Objectives:</b> Regular surface ecological monitoring (mainly exploring the outer space, investigating species survival, and measuring Honkai energy)"
+		],
+		[
+			"msg",
+			61306,
+			"Records:",
+			"作战记录：",
+			"作戦記録：",
+			"작전 기록：",
+			"<b>Operational Record:</b>"
+		],
+		[
+			"msg",
+			61307,
+			"4623/07/16 6:30 Members: 6 Fighting at 7 am.",
+			"4623/07/16 6:30 记录时间已调整为地表时间，本次作战的主要目的为圈外探索，极限调查范围开拓至104公里，作战成员6人。6:40于第四轨道77号垂井上浮，7:00开始作战。",
+			"4623/07/16 6:30 記録時間は地表時間に調整済み。今回の作戦の主目的は圈外探索で、最大調査範囲を104キロメートルまで拡大。作戦メンバーは6人。6:40に第4軌道77号により垂直浮上、7:00作戦開始。",
+			"4623/07/16 6:30 기록 시간은 지표 시간에 맞춰 조정 완료. 이번 작전의 주목적은 권외 탐색이며, 최대 조사 범위를 104킬로미터까지 확대. 작전 멤버는 6명. 6:40에 제4궤도 77호를 통해 수직 상승, 7:00 작전 시작.",
+			"4623/07/16, 6:30: Recording time adjusted to surface time. The main purpose of this operation is outer circle exploration, with the maximum search range expanded to 104 kilometers. There are six members in the operation. At 6:40, vertical ascent was made by the 4th orbit 77, and the operation began at 7:00."
+		],
+		[
+			"msg",
+			61308,
+			"4623/07/18 17:17 Border reached. Houkai concentration:74.7837%. No special Honaki creature detected.",
+			"4623/07/18 17:17 到达边界线，圈内崩坏生物活动无明显异常，以中小型生物为主，未发现异种，崩坏浓度74.7837%，较上次实验下降0.0002%，无明显消散。作战组将于次日6:30展开圈外探索。",
+			"4623/07/18 17:17 境界線に到達｡圈内の崩壊生物の活動に目立った異常はなし｡中小型生物がおもで､異種はなし｡崩壊濃度74.7837%､前回の実験より0.0002%低下､ほぼ変化なし｡作戦チームは翌日6:30に圈外探索を行う予定｡",
+			"4623/07/18 17:17 경계선에 도달. 권내 붕괴 생물의 활동에 뚜렷한 이상은 없음. 중소형 생물이 주로, 이종은 없음. 붕괴 농도 74.7837%, 지난 실험보다 0.0002% 하락, 거의 변화 없음. 작전 팀은 익일 6:30에 권외 탐사를 진행할 예정.",
+			"4623/07/18, 17:17: Reached the boundary line. No noticeable abnormalities in the activity of the Honkai organisms within the circle. Mostly small to medium sized organisms, no other species. Honkai concentration 74.7837%, 0.0002% lower than the previous test, almost unchanged. The operation team plans to search outside the circle at 6:30 the next day."
+		],
+		[
+			"msg",
+			61309,
+			"4623/07/21 11:30 No life detected, we planned to go back at 1.30 pm",
+			"4623/07/21 11:30 调查范围开拓至110公里，比预定增加6公里，情况顺利。圈外环境沙漠化情况仍在恶化，未发现生命活动迹象。作战组开始采集样本，预定于地表时间13:30返程。",
+			"4623/07/21 11:30 調査範囲を110キロメートルに拡大。予定より6キロメートル増。順調。圈外の環境は砂漠化が悪化している。生命体の活動の痕跡は発見できず。作戦チームがサンプルの採集を開始、地表時間13:30に帰還予定。",
+			"4623/07/21 11:30 조사 범위를 110킬로미터로 확대. 예정보다 6킬로미터 증가. 순조로움. 권외 환경은 사막화가 악화되고 있다. 생명체 활동의 흔적은 발견되지 않음. 작전 팀이 샘플 채집을 시작, 지표 시간 13:30에 귀환 예정.",
+			"4623/07/21, 11:30: Survey area expanded to 110 km. 6 km more than planned. Proceeding smoothly. Desertification worsens outside the area. No signs of life activity found. Operation team begins collecting samples, scheduled to return at 13:30 surface time."
+		],
+		[
+			"msg",
+			61310,
+			"4623/07/21 12:48 Life detected.",
+			"4623/07/21 12:48 紧急记录，发现生命迹象，返程计划推迟。追迹源方向崩坏能反应若干，启用《泛上浮作战纲领》19条2例权限，开始追迹，追迹时限60分钟。",
+			"4623/07/21 12:48 緊急記録、生命体の痕跡を発見。帰還計画延期。追跡先の方向に若干の崩壊エネルギー反応。『浮上作戦綱領』19条2の権限により、追跡を開始。追跡時間は60分。",
+			"4623/07/21 12:48 긴급 기록, 생명체의 흔적을 발견. 귀환 계획 연기. 추적선 방향에 미량의 붕괴 에너지 반응. 『부상 작전 강령』19조 2항의 권한에 따라, 추적을 시작. 추적 시간은 60분.",
+			"4623/07/21, 12:48: Emergency record: traces of lifeforms found. Return plan postponed. A slight Honkai energy reaction in the direction of the target. Pursuit begins under the authority of Article 19, Paragraph 2 of the \"Surface Operation Guidelines.\" Pursuit lasts 60 minutes."
+		],
+		[
+			"msg",
+			61311,
+			"4623/07/21 12:53 We entered██，Houkai██，at██we found████……",
+			"4623/07/21 12:53 作战组进入██区域，崩坏██干扰强烈，于██绿洲发现生██多数██开始采集……",
+			"4623/07/21 12:53 作戦チームが██エリアに進入。激しい崩壊██の妨害。██オアシスで生██を多数発見、██採集開始……",
+			"4623/07/21 12:53 작전 팀이 ██에리아에 진입. 격렬한 붕괴██의 방해. ██오아시스에서 생██를 다수 발견, ██채집 시작……",
+			"4623/07/21, 12:53: The operation team entered the ██ area. Intense Honkai ██ caused disruption. Many live ██ were discovered in the ██ oasis, and ██ collection began..."
+		],
+		[
+			"msg",
+			61312,
+			"4623/07/21 13:12 We met██types██creatures██，████protect██back，we████help████——",
+			"4623/07/21 13:12 遭遇██种██人死██，████保护样本██回，请████援████，滋——",
+			"4623/07/21 13:12 ██種に遭遇██人死██、████サンプル保護██還、求む████援████、ツー——",
+			"4623/07/21 13:12 ██종과 조우██사망██, ████샘플 보호██귀환, 요청합니다████지원████, 투——",
+			"4623/07/21, 13:12: ██ species encountered, ██ people died ██, ████ samples protected ██ returned, ████ aid wanted ████. <i>Bzzt——</i>"
+		],
+		[
+			"msg",
+			61313,
+			"Over.",
+			"记录结束。",
+			"記録終了。",
+			"기록이 종료되었습니다。",
+			"Recording ended."
+		],
+		[
+			"msg",
+			61314,
+			"Result: no",
+			"结果报告：无记录",
+			"結果報告：記録なし",
+			"결과 보고: 기록 없음",
+			"<b>Result Report:</b> No records."
+		],
+		[
+			"msg",
+			61315,
+			"Ps: It was collected at 4623/8/2 14:32",
+			"注：本文件数据为地表时间4623/8/2 14:32 于圈外84公里处回收，未发现实验组成员迹象。归档员：Xi",
+			"注：本文書のデータは地表時間4623/8/2 14:32 に圈外84キロメートルで回収したもの。実験チームのメンバーの痕跡は発見できず。整理保管担当：Xi",
+			"참고: 본 문서의 데이터는 지표 시간 4623/8/2 14:32에 권외 84킬로미터 지점에서 회수한 것임. 실험 팀 멤버의 흔적은 발견할 수 없었음. 정리 보관 담당: Xi",
+			"<b>Note:</b> Data in this document was retrieved 84 km outside the circle at 14:32 on 4623/08/02 surface time. No trace of any members of the testing team was found. //n<b>Archival personnel:</b> Xi"
+		]
+	],
+	"585": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61316,
+			"Doc:4420028113-4623/12/09",
+			"文件编号：4420028113-4623/12/09",
+			"文書番号：4420028113-4623/12/09",
+			"문서 번호: 4420028113-4623/12/09",
+			"<b>Document Number:</b> 4420028113-4623/12/09"
+		],
+		[
+			"msg",
+			61317,
+			"Author: Dr.OO",
+			"撰写者：博士OO 归属：新伊甸园机关 文件内容：关于崩坏体样本群的研究报告 第5期",
+			"執筆者：OO博士 所属：新エデンの園機関 文書内容：崩壊体サンプル群に関する研究報告 第5期",
+			"집필자: OO박사 소속: 신 에덴의 동산 기관 문서 내용: 붕괴체 샘플군에 관한 연구 보고서 제5기",
+			"<b>Author:</b> Dr. OO//n<b>Affiliation:</b> New Eden Garden Organization //n<b>Document Contents:</b> Research Report on the Honkai Sample Group, 5th Period"
+		],
+		[
+			"msg",
+			61318,
+			"About Houkai creatures No.5",
+			"实验地点：温室区2号仓  部门：生化三课   实验目的：第三次《虫后项目》论证实验。",
+			"実験地点：温室区2号カプセル  部門：生化三課   実験目的：第3回「クイーンビー・プロジェクト」論証実験。",
+			"실험 장소: 온실 구역 2호 캡슐   부서: 생화 3과    실험 목적: 제3회 「퀸비 프로젝트」 논증 실험.",
+			"<b>Experiment Location:</b> Greenhouse Area Capsule No. 2 //n<b>Department:</b> Biochemistry Division 3 //n<b>Experimental purpose:</b> 3rd \"Queen Bee Project\" demonstration experiment."
+		],
+		[
+			"msg",
+			61319,
+			"We will use new targets this time.",
+			"实验报告：本次实验为前两回失败实验的改良实验，实验将替换特异体群的物种，变为样本S，并尝试崩坏信息素的接种。",
+			"実験報告：今回の実験は前2回の実験の失敗をふまえ改良した。特異体群の種を入れ替え、サンプルSに変化させる実験。かつ崩壊フェロモンの接種を試みる。",
+			"실험 보고: 이번 실험은 앞선 2회 실험의 실패를 바탕으로 개량을 가했다. 특이체군의 종을 교체하고 샘플 S로 변화시키는 실험. 동시에 붕괴 페로몬의 접종을 시도하는 것.",
+			"<b>Experiment Report:</b> This experiment was improved based on the failure of the previous two experiments. The species of the singular group was replaced and transformed into Sample S. Also, an attempt was made to inject the Honkai pheromone."
+		],
+		[
+			"msg",
+			61320,
+			"According to the first 2 experiments, samples can keep some characteristics after infected.",
+			"根据前两回实验的结论，样本群为生物感染崩坏后的二次异变形成，在保存原有物种特征的同时维持崩坏兽的部分机能，拥有极强的生命力及自我修复机能。",
+			"前2回の実験結果に基づき、サンプル群は崩壊感染後に二次異変を起こし、元の種の特徴を残すと同時に崩壊獣の一部の機能を保ち、極めて強い生命力と自己修復機能を持つ生物とする。",
+			"이전 두 차례 실험 결과에 기초하여, 샘플 군은 붕괴 감염 후 이차 이변을 일으켜 원래 종의 특징을 유지하는 동시에 붕괴수의 일부 기능을 보유하며, 극히 강한 생명력과 자가 수복 기능을 가진 생물로 규정한다.",
+			"Based on the results of the previous two experiments, the samples will undergo a secondary mutation after Honkai infection, retaining the characteristics of their original species while also retaining some of the functions of the Honkai Beasts, becoming living organisms with extremely strong vitality and self-repair capabilities."
+		],
+		[
+			"msg",
+			61321,
+			"Target: Small Honaki creature 5",
+			"以K博士在《虫后项目》报告中提到的虫群理论为基础，本次将正式投入崩坏信息素的接种实验，接种对象选定为小型崩坏生物5体。",
+			"K博士が「クイーンビー・プロジェクト」報告で言及した虫群理論を基礎とし、今回は正式に崩壊フェロモンの接種実験を行う。接種対象として小型の崩壊生物5体を選んだ。",
+			"K 박사가 「퀸 비 프로젝트」 보고서에서 언급한 벌레 떼 이론을 바탕으로, 이번에 정식으로 붕괴 페로몬 접종 실험을 진행한다. 접종 대상으로 소형 붕괴 생물 5체를 선정했다.",
+			"Based on the Swarm Theory mentioned by Dr. K in the \"Queen Bee Project\" report, this time we will conduct a formal experiment on inoculating the Honkai pheromone. We have selected five small Honkai organisms as inoculation subjects. (TN: Huh, reminds me of the Swarm Disaster in HSR)"
+		],
+		[
+			"msg",
+			61322,
+			"In order to protect here, we hired two team of guards.",
+			"为了防止出现之前的暴走现象，整个实验过程将于封闭环境中进行，并配备两组安全警卫。",
+			"前回のような暴走現象を防止するため、実験は全過程とも密閉した環境の中で行い、整備員を2チーム配置する。",
+			"이전과 같은 폭주 현상을 방지하기 위해, 실험은 전 과정을 밀폐된 환경 속에서 진행하며 정비원을 2팀 배치한다.",
+			"To prevent a runaway phenomenon like the previous one, the entire experiment will be carried out in a sealed environment, and two teams of maintenance personnel will be stationed there."
+		],
+		[
+			"msg",
+			61323,
+			"This experiment will start at 14:00",
+			"实验于地底时间14:00开始，崩坏生物植入信息素后无明显恶化反应。根据观察现已确认样本S的信息素传播媒介为类似于花粉的晶体物质，传播范围5米，范围内的崩坏生物均呈现归从行为。",
+			"実験は地底時間14:00に開始｡崩壊生物にフェロモンを注入後､反応が悪化｡観察でサンプルSのフェロモン伝播媒介は花粉に似た結晶体であることを確認｡伝播範囲は5メートル｡範囲内の崩壊生物は帰従行為を確認｡",
+			"실험은 지하 시간 14:00에 시작. 붕괴 생물에 페로몬을 주입 후, 반응이 악화됨. 관찰에서 샘플 S의 페로몬 전파 매개체는 꽃가루와 유사한 결정체임을 확인. 전파 범위는 5미터. 범위 내 붕괴 생물의 귀순 행동 확인됨.",
+			"The experiment began at 14:00 underground time. After injecting the pheromone into the Honkai organism, its reaction worsened. Observation confirmed that the pheromone transmission medium for Sample S was a pollen-like crystal. The transmission range was 5 meters. Honkai organisms within the range were observed to exhibit homing behavior."
+		],
+		[
+			"msg",
+			61324,
+			"Result: Bug Queen was inflected by S Honaki virus.",
+			"结果报告：已论证《虫后项目》的可行性。以样本S为首的王虫按照预定计划担当主脑意识，成功对注入信息素的崩坏生物完成支配。",
+			"結果報告：「クイーンビー・プロジェクト」の実行可能性が論証された。サンプルSをリーダーとするクイーンが計画通り中枢意識を担当し、フェロモンを注入した崩壊生物の支配に成功した。",
+			"결과 보고: 퀸비 프로젝트의 실행 가능성이 입증되었다. 샘플 S를 리더로 하는 퀸이 계획대로 중추 의식을 담당하며, 페로몬을 주입한 붕괴 생물의 지배에 성공했다.",
+			"<b>Results:</b> The feasibility of the \"Queen Bee Project\" has been proven. The Queen, led by Sample S, took charge of the central consciousness as planned, and succeeded in dominating the Honkai organisms injected with pheromones."
+		],
+		[
+			"msg",
+			61325,
+			"S is lack of intelligence",
+			"不安定要素：作为主脑的样本S缺乏足够的智能，以及自主意识的不可支配性，导致该项目的实用价值尚存疑虑，建议进一步考察完善。",
+			"不安定要素：中枢となるサンプルSに充分な知能がなく、自主的な支配性がない場合、このプロジェクトの実用性に懸念が残る。さらに考察を進めるよう提案する。",
+			"불안정 요소: 중추가 되는 샘플 S에 충분한 지능이 없고 자발적 지배성이 없는 경우, 이 프로젝트의 실용성에 우려가 남는다. 추가적인 검토를 진행할 것을 제안한다.",
+			"<b>Unstable Factor:</b> If the core Sample S does not have sufficient intelligence and autonomous control, there are concerns about the practicality of this project. We recommend further consideration."
+		]
+	],
+	"586": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61326,
+			"Apply firm:██",
+			"维修申请单：关于仿制终端试做机的异常问题",
+			"修理申請書：模擬端末試作機の異常に関して",
+			"수리 신청서: 모의 단말 시제품 이상에 관하여",
+			"<b>Maintenance Application Form:</b> Regarding abnormality of mock terminal prototype"
+		],
+		[
+			"msg",
+			61327,
+			"Department:██",
+			"提交部门：虫后项目实行委员会",
+			"提出部門：クイーンビー・プロジェクト実行委員会",
+			"제출 부문: 퀸비 프로젝트 실행 위원회",
+			"<b>Submitted By:</b> Queen Bee Project Executive Committee"
+		],
+		[
+			"msg",
+			61328,
+			"Target: system Code:SCR5001 Si/FL",
+			"故障物品：仿制终端 编号SCR5001 Si/FL",
+			"故障品：模擬端末 シリアルナンバーSCR5001 Si/FL",
+			"고장 제품: 모의 단말기 시리얼 넘버 SCR5001 Si/FL",
+			"<b>Faulty Item:</b> Simulated terminal serial number SCR5001 Si/FL"
+		],
+		[
+			"msg",
+			61329,
+			"Reasons: failed in some orders.",
+			"故障描述：在精神同步模拟运行中出现的异常数据波动，导致终端对指令的错误读取。",
+			"故障の詳細：精神同期のシミュレーション中に異常なデータ変動が現れ、端末がコマンドのエラーを読み込む。",
+			"고장 세부 정보: 정신 동기화 시뮬레이션 중 비정상적인 데이터 변동이 나타나, 터미널이 명령 오류를 읽어들임.",
+			"<b>Malfunction Details:</b> Abnormal data fluctuations appear during mental synchronization simulation, causing terminal to read command errors."
+		],
+		[
+			"msg",
+			61330,
+			"We need to find the best way to fix it.",
+			"关于终端近期发生的错误报告已由工程部归档，便于贵部门寻找解决方案。",
+			"最近発生した端末のエラー報告に関して、貴部門が解決策を見つけられるよう、プロジェクト部が整理保存した。",
+			"최근 발생한 단말기 오류 보고와 관련해, 귀 부서에서 해결책을 찾으실 수 있도록 프로젝트 부서에서 정리하여 보관하였습니다.",
+			"The Projects Department has filed recent reports of device errors to help the department find a solution."
+		],
+		[
+			"msg",
+			61331,
+			"████",
+			"3月20日 13:00  终端发生意外重启，导致部分实验文件丢失。",
+			"3月20日 13:00  端末が予想外に再起動したため、一部の実験ファイルが失われた。",
+			"3월 20일 13:00 단말기가 예상치 못하게 재시작되어, 일부 실험 파일이 손실됐다.",
+			"March 20th, 13:00: The terminal unexpectedly rebooted, resulting in the loss of some experimental files."
+		],
+		[
+			"msg",
+			61332,
+			"████",
+			"3月26日 2:00   因不明原因启装置，造成崩坏生物小规模暴动。「附件：现场监控录像」",
+			"3月26日 2:00   不明な原因により装置が作動し、崩壊生物が小規模な暴動を起こす。「添付：現場モニターの録画映像」",
+			"3월 26일 2:00   알 수 없는 원인으로 장치가 작동하여, 붕괴생물이 소규모 폭동을 일으켰다.「첨부：현장 모니터의 녹화 영상」",
+			"March 26th, 2:00: The device was activated for an unknown reason, causing the Honkai organisms to start a small-scale riot. \"Attachment: Recorded footage from the on-site monitor.\""
+		],
+		[
+			"msg",
+			61333,
+			"████",
+			"4月3日 16:13   于更换实验损坏部件时管理员权限遭到拒绝，更新固件后仍有排斥反应。（高危漏洞，已修复）",
+			"4月3日 16:13   実験で破損したパーツを交換するとき管理者権限が拒絶される。ファームウェア更新後もなお拒絶反応あり。（高危険度の脆弱性は修復済み）",
+			"4月3일 16:13 실험으로 파손된 파트를 교체할 때 관리자 권한이 거부된다. 펌웨어 업데이트 후에도 여전히 \"거부 반응\" 있음. (고위험도 취약점은 수리 완료됨)",
+			"April 3rd, 16:13: Administrator privileges were denied when replacing a damaged part during an experiment. The refusal continued even after updating the firmware. (High-risk vulnerabilities have been fixed.)"
+		],
+		[
+			"msg",
+			61334,
+			"████",
+			"4月6日 15:11   与样本S的精神同步实验无法断开，启动应急预案切断。",
+			"4月6日 15:11   サンプルSとの精神同期実験がオフにできず、緊急対応プランを立ち上げて切断。",
+			"4월 6일 15:11   샘플 S와의 정신 동기화 실험을 오프로 전환할 수 없어, 긴급 대응 계획을 가동하여 차단.",
+			"April 6th, 15:11: Unable to turn off mental synchronization experiment with Sample S, emergency response plan activated and disconnected."
+		],
+		[
+			"msg",
+			61335,
+			"████",
+			"4月7日  9:00   实验数据回收异常，并出现数据演算错误。",
+			"4月7日  9:00   実験データ回収異常。かつデータの演算エラーが出現。",
+			"4월 7일 9:00 실험 데이터 회수 이상. 그리고 데이터 연산 오류 발생.",
+			"April 7th, 9:00: Anomaly in experimental data collection. Data calculation error also occurred."
+		],
+		[
+			"msg",
+			61336,
+			"████",
+			"4月8日 15:20   指令实行错误，非硬件故障下的未确认错误所导致的信息读取问题。",
+			"4月8日 15:20   コマンド実行エラー。ハードウェアの故障ではない未確認のエラーにより情報読み取りの問題が生じた。",
+			"4월 8일 15:20   명령 실행 오류. 하드웨어 고장이 아닌 미확인 오류로 인해 정보 읽기 문제가 발생했습니다.",
+			"April 8th, 15:20: Command execution error. An unconfirmed error, not a hardware failure, caused a problem reading information."
+		],
+		[
+			"msg",
+			61337,
+			"████",
+			"4月9日  9:00   实验数据回收异常，并出现数据演算错误。",
+			"4月9日  9:00   実験データ回収異常。ならびにデータの演算エラー。",
+			"4월 9일 9:00 실험 데이터 회수 이상. 및 데이터 연산 오류.",
+			"April 9th, 9:00: Anomaly in experimental data collection, as well as data calculation error."
+		],
+		[
+			"msg",
+			61338,
+			"████",
+			"4月10日 14:45  为防止回路异常加设人格压制系统。启动发现不明错误导致系统失效，持续时间5分钟后错误消失，需后续观察。",
+			"4月10日 14:45  回路の異常防止のため人格抑制システムを追加。起動すると不明なエラーによりシステムが失効。5分後にエラー消失。今後も観察の必要あり。",
+			"4월 10일 14:45  회로 이상 방지를 위해 인격 억제 시스템을 추가. 기동 시 미확인 오류로 시스템이 비활성화됨. 5분 후 오류 소멸. 향후에도 관찰 필요.",
+			"April 10th, 14:45: A personality suppression system was added to prevent circuit abnormalities. When activated, the system was disabled due to an unknown error. The error disappeared after 5 minutes. Further observation is required."
+		],
+		[
+			"msg",
+			61339,
+			"████",
+			"4月11日 9:13   实验过程出现异常数据波动，人格压制系统应不明错误未成功启动导致精神同步回路负载燃烧，实验中断。",
+			"4月11日 9:13   実験過程で異常なデータ変動が出現。人格抑制システムが不明なエラーで作動せず、精神同期回路がオーバーロードにより燃焼。実験中断。",
+			"4월 11일 9:13   실험 과정에서 이상한 데이터 변동 발생. 인격 억제 시스템이 알 수 없는 오류로 작동하지 않아 정신 동기화 회로가 과부하로 인해 연소. 실험 중단.",
+			"April 11th, 9:13: An abnormal data fluctuation occurred during the experiment. The personality suppression system did not function due to an unknown error, and the mental synchronization circuit burned out due to overload. The experiment was discontinued."
+		],
+		[
+			"msg",
+			61340,
+			"This part is very important, we need to protect human civilization!",
+			"请维修部门仔细检查问题原因，维持终端处理能力的稳定性，此项目将关系到人类复兴的伟业，请务必尽快修复。",
+			"修理部門は問題の原因を詳しく検査し、端末の処理能力の安定性を確保してください。このプロジェクトは人類復興の偉業に関わるものなので、速やかに修復してください。",
+			"수리 부서는 문제 원인을 상세히 점검하고, 단말기 처리 능력의 안정성을 확보해 주십시오. 이 프로젝트는 인류 부흥의 위업과 관련된 것이므로 신속히 수리해 주십시오.",
+			"The Repair Department should thoroughly investigate the cause of the problem and ensure the stability of the terminal's processing power. This project is related to the great achievement of human revival, so please repair it as soon as possible."
+		],
+		[
+			"msg",
+			61341,
+			"Priority mission",
+			"维修承接部门：超电社    优先度：极高",
+			"修理担当部門：超電社    優先度：最高",
+			"수리 담당 부서：超電社    우선도：최고",
+			"<b>Repair Department:</b> Chaodian Company //n<b>Priority:</b> Highest"
+		]
+	],
+	"587": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			61342,
+			"Records:",
+			"影像资料：4624/05/3 19:12 — 19:19  区域：温室区第2仓",
+			"映像資料：4624/05/3 19:12 — 19:19  エリア：温室区第2カプセル",
+			"영상 자료: 4624/05/3 19:12 — 19:19  지역: 온실 구역 제2 캡슐",
+			"<b>Video Data:</b> 4624/05/3 19:12 — 19:19 //n<b>Area:</b> Greenhouse Area Capsule No. 2"
+		],
+		[
+			"msg",
+			61343,
+			"(Only voice)",
+			"呲拉——呲拉——（由于数据损坏，画面显得十分模糊，只留下了音频信息）",
+			"ツー——ツー——（データ破損のため、画面がかなりぼやけている。音声情報だけが残っている）",
+			"투——투——(데이터가 손상되어 화면이 상당히 흐릿합니다. 음성 정보만 남아 있습니다)",
+			"<i>Beep—— beep——</i> (The screen is very blurry due to data corruption. Only the audio information remains.)"
+		],
+		[
+			"msg",
+			61344,
+			"Close it! Don't let them come in!",
+			"关闭隔离门！不要让它们进来！",
+			"隔離ゲートを閉めろ！奴らを入れるな！",
+			"격리 게이트를 닫아라! 그들을 들여보내지 마라!",
+			"Close the quarantine gates! Don't let them in!"
+		],
+		[
+			"msg",
+			61345,
+			"How about the system? Can we shut down it?!",
+			"终端机的修复如何了？把精神回路的线缆切断！快！",
+			"端末の修復はどうなった？精神回路ケーブルを切断しろ！早く！",
+			"단말기 수리는 어떻게 됐어? 정신 회로 케이블을 절단해! 빨리!",
+			"What happened to repairing the terminal? Cut the mental cable! Quickly!"
+		],
+		[
+			"msg",
+			61346,
+			"No! We don't have the right to do that… I can't be shut down!",
+			"不行！管理权限被封锁了！无法切断！",
+			"だめだ！管理権限が遮断された！切断できない！",
+			"안 돼! 관리 권한이 차단됐어! 차단할 수 없어!",
+			"It's no good! Administrative privileges have been cut off! I can't disconnect!"
+		],
+		[
+			"msg",
+			61347,
+			"The only way we have now is… Self destroy…",
+			"没办法了，启动自毁程序，连同终端机一起摧毁掉……",
+			"やむをえん、自滅プログラムを起動し、端末もろとも破壊しろ……",
+			"어쩔 수 없군, 자멸 프로그램을 가동시켜 단말기와 함께 파괴해라……",
+			"There's no other way. Activate the self-destruct program and destroy the terminal as well..."
+		],
+		[
+			"msg",
+			61348,
+			"How about sample S…",
+			"那样本S怎么办？这样的话我们就……",
+			"ではサンプルSはどうする？これでは我々は……",
+			"그럼 샘플 S는 어떻게 하지? 이러면 우리는……",
+			"But what about Sample S? This leaves us with..."
+		],
+		[
+			"msg",
+			61349,
+			"……",
+			"……",
+			"……",
+			"……",
+			"......"
+		],
+		[
+			"msg",
+			61350,
+			"Self destroy system activated!",
+			"不要犹豫，启动！",
+			"ぐずぐずするな、起動しろ！",
+			"지지 말고, 가동해!",
+			"Don't hesitate, start it!"
+		],
+		[
+			"msg",
+			61351,
+			"…",
+			"…",
+			"……",
+			"……",
+			"......"
+		],
+		[
+			"msg",
+			61352,
+			"System was hacked… We can't do that…",
+			"程序被入侵了，无法完成……",
+			"プログラムを不正侵入された、完了できない……",
+			"프로그램이 해킹당했습니다, 완료할 수 없습니다……",
+			"The program's been hacked, it cannot be completed..."
+		],
+		[
+			"msg",
+			61353,
+			"… We have to give up this place… Destroy the rest samples!",
+			"……看来只能放弃这里了…把剩下的样品都销毁掉！不能让它们脱离培养槽！",
+			"……どうやらここに棄てていくしかなさそうだ……残りのサンプルを全て処分しろ！培養槽から出すな！",
+			"……아무래도 여기에 버리고 가야 할 것 같아……남은 샘플을 전부 처분해라! 배양조에서 꺼내지 마라!",
+			"...Looks like we have no choice but to dump them here... Dispose of all the remaining samples! Don't let them out of the incubation tank!"
+		],
+		[
+			"msg",
+			61354,
+			"……",
+			"呲拉……呲拉……",
+			"ツー……ツー……",
+			"띠……띠……",
+			"<i>Bzzt... bzzt...</i>"
+		],
+		[
+			"msg",
+			61355,
+			"Records end…",
+			"影像资料：4624/09/1 7:29 — 7:41  区域：温室区第2仓",
+			"映像資料：4624/09/1 7:29 — 7:41  エリア：温室区第2カプセル",
+			"영상 자료: 4624/09/1 7:29 — 7:41 에리어: 온실구 제2캡슐",
+			"<b>Video Data:</b> 4624/09/1 7:29 — 7:41 //n<b>Area:</b> Greenhouse Area Capsule No. 2"
+		],
+		[
+			"msg",
+			61356,
+			"Caution! Caution! Houkai concentration is over 90%.",
+			"「警告，警告。设施内崩坏污染度超过90%，进入红色预警，请相关人员进行避难。」",
+			"「警告、警告。施設内の崩壊汚染度が90%を超え、赤色警報に入りました。関係者は避難してください。」",
+			"「경고, 경고. 시설 내 붕괴 오염도가 90%를 초과하여 적색 경보로 진입했습니다. 관계자는 대피해 주십시오.」",
+			"\"Warning, warning. Honkai contamination level within the facility has exceeded 90%, entering a red alert. All involved parties please evacuate.\""
+		],
+		[
+			"msg",
+			61357,
+			"In order to protect here, please stop fighting.",
+			"「为了人类的生存与繁衍，请诸位放弃抵抗，根据指示接受保护。」",
+			"「人類の生存と繁栄のため、全員抵抗をやめ、指示に従って保護を受けてください。」",
+			"「인류의 생존과 번영을 위해」모든 사람은 저항을 멈추고 지시에 따라 보호를 받으십시오.",
+			"\"For the survival and prosperity of humanity, please cease resistance, follow instructions and accept protection.\""
+		],
+		[
+			"msg",
+			61358,
+			"Repeat, stop fighting!",
+			"「重复，请诸位放弃抵抗，根据指示接受保护。」",
+			"「繰り返します、全員抵抗をやめ、指示に従って保護を受けてください。」",
+			"「반복합니다, 모두 저항을 멈추고 지시에 따라 보호를 받으십시오.」",
+			"\"Repeat, please cease resistance, follow instructions and accept protection.\""
+		],
+		[
+			"msg",
+			61359,
+			"Stop fighting, I will protect you.",
+			"「这是我所演算而出人类存活几率最高的手段——」",
+			"「私の計算ではこれが人類生存の確率が最も高い手段なのです——」",
+			"「내 계산에 따르면 이것이 인류 생존 확률이 가장 높은 수단입니다——」",
+			"\"Calculations suggest that this offers the greatest chance of survival for humanity——\""
+		]
+	],
+	"588": [
+		[
+			"speaker",
+			204563
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				606,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			234996,
+			null,
+			"剧情测试3-2",
+			null,
+			null,
+			"Story Test 3-2"
+		]
+	],
+	"589": [
+		[
+			"speaker",
+			204563
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				606,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			234997,
+			null,
+			"剧情测试4-2",
+			null,
+			null,
+			"Story Test 4-2"
+		]
+	]
+}

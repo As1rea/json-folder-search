@@ -1,0 +1,1345 @@
+{
+	"54": [
+		[
+			"bgm",
+			"Nier/Amusement Park"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251302,
+			"Humph, if the sign is right, we have arrived the edge area of Nagazora city.",
+			"嗯，如果地标没错的话，我们已经到达长空市的边缘地带了。",
+			"あっ、あれって長空市のランドマーク！っていうことは、今は街の端の方にいるのかな。",
+			"아, 저거 장공시의 랜드마크네! 그렇다면 지금은 도시 끝자락에 있는 건가.",
+			"Oh, this landmark! I think we've reached the edge of Nagazora City.",
+			null,
+			"Well, if the landmarks are correct, we've reached the edge of the city of Long Sky.",
+			"Oh, that's a landmark in Changku City! So I guess we are at the edge of the city now."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251303,
+			"Sign? Do you mean the ferris wheel?",
+			"地标？你是说那个摩天轮吗？",
+			"ランドマーク？それって、あの大きな観覧車のこと？",
+			"랜드마크? 그거, 저 거대한 관람차 말이야?",
+			"Landmark? You mean that big Ferris wheel?",
+			null,
+			"Landmark? You mean the Ferris wheel?",
+			"Landmark? Is that that big Ferris wheel?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251304,
+			"Yes, that must be the Homuland, I heard this is the largest Homuland in this country~",
+			"嗯，那个方向应该就是长空市吼姆乐园的所在地了，据说长空市的吼姆乐园可是全球最大也是最豪华的哦~",
+			"うん、そうだよ～！あれに向かっていけば、ホム楽園に着くはずだね。聞いた話だと、長空市のホム楽園は世界最大規模で、一番豪勢なんだってさ！",
+			"응, 그렇지~! 저기로 가면 호무 랜드에 도착할 거야. 들은 말로는 창공시의 호무 랜드는 세계 최대 규모에 가장 호화롭대!",
+			"Yep, that's right~! If we head towards it, we'll arrive at Homu Paradise. I hear that the Homu Paradise in Nagazora City is the largest and most luxurious in the world!",
+			null,
+			"Well, that direction should be the location of the Nagasu City Howlum Park, it is said that the Nagasu City Howlum Park is the world's largest and most luxurious Oh ~",
+			"Yes, that's right! If we head that way, we should be able to reach the Homurakuen. I heard that the HOM paradise in Changku is the largest and most luxurious in the world!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251305,
+			"……",
+			"……",
+			"……(ぴくっ)。",
+			"……(으르렁).",
+			"...<I>(twitch).</I>"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251306,
+			"Now, we know the direction~",
+			"我记得朝着吼姆乐园所在相反的方向走，就能够离开长空市了。",
+			"で、ホム楽園とは逆の道を進むと、長空市から出られるはずだね。",
+			"그리고 호무 랜드와 반대쪽 길로 가면 창공시에서 나갈 수 있을 거야.",
+			"So, if we go the opposite way from Homu Paradise, we should be able to get out of Nagazora.",
+			null,
+			"I remembered that if you go in the opposite direction of where Howlum Paradise is, you will be able to leave Nagumo City.",
+			"So, if you go the opposite way from Hom Paradise, you should be able to get out of Chang Ku City, right?"
+		],
+		[
+			"msg",
+			251307,
+			"Mei, let's go~",
+			"芽衣学姐，我们出发吧~",
+			"それじゃ、芽衣先輩。ちゃっちゃと長空市から脱出しよっか！",
+			"그럼 메이 선배. 얼른 창공시에서 탈출하자!",
+			"Well then, Mei-senpai, let's hurry out of this city!",
+			null,
+			"Meiko-san, let's go~",
+			"Well then, Mei-senpai. Let's get out of the city quickly!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251308,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251309,
+			"Bronya, what happened to you? Are you controlled by the \"C\" again?",
+			"布洛妮娅，你怎么了，怎么一动不动的？难道是又被那个叫做“C”的人侵占了？",
+			"ブローニャちゃん、どうしたの？……まさかっ！また、あの「C」って人に操られて……！？",
+			"브로냐, 무슨 일이야?…… 설마! 또 그 C라는 사람에게 조종당하고……!?",
+			"Bronya-chan, what's wrong? ...Oh no! Are you being controlled by that \"C\" person again...?!",
+			null,
+			"What's wrong with you, Bronya? Why are you so motionless? Did that \"C\" guy take over again?",
+			"Bronya, what's wrong with you? ...... No way! You're being manipulated by that \"C\" guy again......!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251310,
+			"Homu……",
+			"吼姆……",
+			"ホム……。",
+			"흠…….",
+			"Homu...",
+			null,
+			"Howm ......",
+			"Hom. ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251311,
+			"Homu, do you mean the Homuland?",
+			"吼姆，你是想说那座吼姆乐园吗？那里有什么东西吗？",
+			"えっ、ホム？ホム楽園のこと？そこがどうかしたの？",
+			"엣, 흠? 흠 랜드 이야기? 거기가 무슨 일이라도?",
+			"Eh, Homu? You mean Homu Paradise? What about it?",
+			null,
+			"Howlom, are you trying to say that Howlom Land? Is there something there?",
+			"What, Hom? You mean Homme Paradise? What about there?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251312,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"msg",
+			251313,
+			"I want to check the Houkai energy there.",
+			"布洛妮娅申请前往长空市吼姆乐园调查崩坏能，请您批准。",
+			"ブローニャは、ホム楽園で崩壊エネルギーを調査することを推奨します。",
+			"브로냐는 흠 랜드에서 붕괴 에너지를 조사하는 것을 추천합니다.",
+			"Bronya recommends investigating the Honkai Energy in Homu Paradise.",
+			null,
+			"Bronya requests your approval to go to Howlom Paradise in Nagumo City to investigate Avalanche Energy.",
+			"Bronya recommends investigating decay energy in the Homme Paradise."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251314,
+			"Wait a second, I didn't see any alert…",
+			"等一下，我这里也没有出现任何危险的警报啊……",
+			"ちょっと待ってよ！崩壊エネルギーの検知なんて、まったくしてないわよ？スマホもほら……この通り静かでしょ？",
+			"잠깐만! 붕괴 에너지 반응 같은 건 전혀 감지되지 않았어? 스마트폰도 자... 이렇게 조용하잖아?",
+			"Wait a minute! I'm not detecting any Honkai Energy at all, you know? And my phone, look... totally silent, see?",
+			null,
+			"Wait, I don't have any danger alerts here either ......",
+			"Wait a minute! I'm not detecting any decay energy at all, okay? And your phone is quiet, too, as you can see here ......, right?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251315,
+			"Don't follow us if you are scared.",
+			"如果琪亚娜害怕的话请不要跟过来。",
+			"怖いのですか？でしたら、キアナは来なくても大丈夫です。",
+			"무서운 거예요? 그렇다면, 키아나는 오지 않아도 괜찮아요.",
+			"Are you scared? If so, Kiana, it's alright if you don't come.",
+			null,
+			"Please don't follow Kiana if she is afraid.",
+			"Are you afraid? Then you don't have to come to Kiana."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251316,
+			"You……!",
+			"你……！",
+			"はぁ！？あんたねッ！",
+			"뭐야!? 너 정말!",
+			"Huh?! You...!",
+			null,
+			"You ......!",
+			"Huh? That's you!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251317,
+			"Fine, don't be mad, Kiana. You can just treat it as a break since we have fought for a long time.",
+			"好啦好啦，琪亚娜，不要生气。你看我们也战斗了那么长的一段时间，就当做是去吼姆乐园放松一下吧。",
+			"はいはい、キアナちゃんも落ち着いて。私たち、ずっと戦いっぱなしだったし、ホム楽園で少し休憩するのも悪くないんじゃないかしら。",
+			"알았어 알았어, 키아나도 진정해. 우리 계속 싸우기만 했으니, 호무라라도에서 잠시 쉬는 것도 나쁘지 않을 거야.",
+			"Okay, okay, Kiana-chan, calm down. We've been fighting nonstop, so maybe it's not a bad idea to take a short break in Homu Paradise.",
+			null,
+			"Okay, okay, Kiana, don't be angry. You see we have also fought for such a long time, just think of it as a trip to Howlum Paradise to relax.",
+			"Yes, yes, Kiana, calm down. We've been fighting for so long, it's not a bad idea to take a short break in Homu Paradise."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251318,
+			"But…… That place is so famous so I guess we will meet a lot of zombies.",
+			"但是……那么有名的地方，人流量肯定很大，会有很多死士的。",
+			"でも……人気スポットで人がたくさんいたはずだから、ゾンビもいっぱいいるはずだよ。",
+			"하지만... 유명한 곳이라 사람이 많았을 텐데, 좀비도 많을 거야.",
+			"But... since it was a popular spot and there were bound to be a lot of people there, there's bound to be a lot of zombies there.",
+			null,
+			"But ...... so famous place, the flow of people must be very large, there will be a lot of dead soldiers.",
+			"But ...... is a popular spot and there must have been a lot of people there, so there must be a lot of zombies."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251319,
+			"Alright, just zombies, you can beat them, can't you?",
+			"好啦，不就是死士而已吗，那么一点点的困难，肯定是难不倒琪亚娜的不是么？",
+			"大丈夫よ、たかがゾンビじゃない。そんなのキアナちゃんにかかれば朝飯前でしょ？",
+			"괜찮아, 그냥 좀비잖아. 키아나에게는 식은 죽 먹기 아니야?",
+			"Don't worry, it's just zombies. That's a piece of cake for you, right, Kiana-chan?",
+			null,
+			"Well, it is just a dead soldier, so a little bit of difficulty, certainly is not difficult to defeat Kiana, right?",
+			"Don't worry, it's only a zombie. It's just a zombie."
+		],
+		[
+			"msg",
+			251320,
+			"Kiana, look at Bronya's eyes, can you feel her desire? I think she must love that place and Homu very much…",
+			"琪亚娜，你看布洛妮娅的眼睛，虽然平静，但是我能感受到布洛妮娅心中的渴望。我想布洛妮娅以前应该是很喜欢吼姆的吧……",
+			"——ねぇ、キアナちゃん、ブローニャちゃんの目を見て。普段と変わらないように見えるけど、行きたいって気持ちが伝わってこない？きっと、昔からホムが好きだったんじゃないかしら……。",
+			"——저기, 키아나야, 브로냐의 눈을 봐. 평소와 다르지 않아 보이지만, 가고 싶다는 마음이 전해지지 않아? 분명, 예전부터 호무라라도를 좋아했던 거야...",
+			"——Hey, Kiana-chan, look into Bronya-chan's eyes. Sure, they look the same as always, but can't you sense her desire to go there? Maybe she's always liked Homu...",
+			null,
+			"Kiana, look at Bronya's eyes, although calm, but I can feel the longing in Bronya's heart. I think Bronya used to be very fond of Howlom ......",
+			"--Hey, Kiana, look at Bronya's eyes. They don't look any different than normal, but don't you see how much she wants to go? I'm sure she's always liked Homes. ......"
+		],
+		[
+			"msg",
+			251321,
+			"And maybe we can help Bronya find herself at that place, I think we should go there~ Am I right, Bronya?",
+			"而且这样说不定能够帮助布洛妮娅找回本来的性格，总觉得这一次的吼姆乐园之行势在必行呢~是不是呀，布洛妮娅？",
+			"もしかしたら、ブローニャちゃんが自分を取り戻すチャンスかもしれないわ。ホム楽園へ行きましょ。ね、ブローニャちゃん？",
+			"어쩌면 브로냐가 자신을 되찾을 기회일지도 몰라. 호무라라도에 가자. 그렇지, 브로냐?",
+			"Maybe this is a chance for her to get herself back. Let's go to Homu Paradise. Right, Bronya-chan?",
+			null,
+			"And this may help Bronya to find her original character, I always feel that this trip to Howl's Land is imperative ~ isn't it, Bronya?",
+			"Maybe this is your chance to redeem yourself, Bronya. Let's go to Homme Paradiso. Right, Bronya?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251322,
+			"Yes, madam.",
+			"是的，长官。",
+			"はい、芽衣姉様。",
+			"네, 메이 언니.",
+			"Yes, Mei-nee-sama.",
+			null,
+			"Yes, sir.",
+			"Yes, sister Mei."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251323,
+			"Although I can't change the appellation, but I think it's a nice start~",
+			"虽然第一时间无法让她的称呼改过来，但是这样也算开了一个好头吧？",
+			"ふふっ、決定ね。",
+			"후훗, 결정이네.",
+			"Hehe, then it's decided.",
+			null,
+			"Although the first time can not make her name change, but this is a good start, right?",
+			"Hmmm...it's decided."
+		]
+	],
+	"55": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251324,
+			"I still don't know is that place really fun as I heard.",
+			"我还是不明白，这里究竟有什么好玩的。",
+			"何がおもしろいのか、さっぱり分かんない。",
+			"뭐가 재밌다는 건지 전혀 모르겠어.",
+			"I really have no idea what's so special about this place.",
+			null,
+			"I still don't understand what's so interesting about this place.",
+			"I have no idea what is interesting."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251325,
+			"Do you know Homu, Kiana? That's very famous!",
+			"琪亚娜不知道吼姆吗？明明是那么有名的东西？",
+			"キアナちゃんは、このホムっていうのに興味ないの？",
+			"키아나은 이 홈이라는 것에 관심 없어?",
+			"So you're not interested in Homu, Kiana-chan?",
+			null,
+			"Kiana doesn't know howlam? It's obviously something so famous?",
+			"Kiana, are you not interested in this hom?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251326,
+			"Not much, I just have a little impression from comic book.",
+			"只是稍微有点印象，应该是在小的时候有见到过类似的东西。",
+			"小さい頃は、そりゃ多少は興味あったけど、今はさっぱり。",
+			"어렸을 때는 그렇지 않아도 조금은 관심 있었지만, 지금은 전혀.",
+			"When I was little, I was somewhat interested in it, but now I'm not interested at all.",
+			null,
+			"Just a slight impression, should have seen something similar when I was small.",
+			"When I was little, I was somewhat interested in it, but now I have no idea."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251327,
+			"Homu is famous worldwide. A comic book called \"Homu's adventure\". Many readers love it very much!",
+			"吼姆可是这个世界上最受欢迎的角色，出自漫画《吼姆大冒险》。这部漫画至今已经连载了327回，共出了52卷单行本，拥有着庞大的读者群，至少占据了全人类的60%。",
+			"ホムは、漫画「ホムの大冒険」に登場するキャラクターです。地球上で最も人気のあるキャラと言っても過言ではありません。読者数は人類の60%以上、連載は327回を迎え、単行本は52巻まで発売されています。",
+			"홈은 만화 「홈의 대모험」에 등장하는 캐릭터입니다. 지구상에서 가장 인기 있는 캐릭터라고 해도 과언이 아닙니다. 독자 수는 인류의 60% 이상, 연재는 327회를 맞이했으며, 단행본은 52권까지 발매되었습니다.",
+			"Homu is a character that appears in the manga \"Homu's Great Adventure.\" It's no exaggeration to say that he is the most popular character on Earth. It has over 60% of the world's readership, has been serialized for 327 episodes, and there are 52 published volumes.",
+			null,
+			"Howlam is the most popular character in the world, from the manga \"Howlam Adventure\". This manga has been serialized 327 times, a total of 52 volumes of single-volume, with a huge readership, occupying at least 60% of the human race.",
+			"Hom is a character from the comic strip \"Hom's Great Adventure\". He is arguably the most popular character on the planet. He has a readership of more than 60% of humanity, has been serialized 327 times, and has been published in 52 book volumes."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251328,
+			"Oh, you know a lot about this comic, Bronya~ And I'm thinking why do people love this little ugly monster?",
+			"咦？布洛妮娅你对吼姆似乎很了解嘛，这种龇牙咧嘴的样子真的有那么受欢迎？",
+			"へぇ、ブローニャってホムに詳しいんだ。こんなギザギザの歯をむき出しにしてるヤツのどこがいいわけ？顔もマヌケだし、そもそも何をモチーフにしたキャラなのよ。",
+			"허, 브로냐는 홈에 대해 잘 아는구나. 이런 뾰족뾰족한 이빨을 드러내고 있는 녀석의 어디가 좋다는 거야? 얼굴도 어리석어 보이고, 애초에 무엇을 모티프로 한 캐릭터야?",
+			"Wow, Bronya knows a lot about Homu. What's so good about this guy with all those jagged teeth? His face is actually pretty stupid, so what even is this character based on?",
+			null,
+			"Huh? Bronya you seem to know a lot about howlum, this grimace is really that popular?",
+			"Wow, Bronya knows a lot about homies. What's so great about this guy with his jagged teeth bared? His face is stupid, and what is the character based on?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251329,
+			"Yes, I know a lot about it and stop be mean to Homu, otherwise I will do the same thing to you.",
+			"请不要质疑布洛妮娅所统计出来的数据。而且如果琪亚娜再对吼姆表现出恶意的话，布洛妮娅将对琪亚娜采取敌对措施。",
+			"ブローニャの統計データに間違いはありません。ホムに対してこれ以上の暴言を吐くようなら、ブローニャはキアナを敵とみなします。",
+			"브로냐의 통계 데이터에 오류는 없습니다. 홈에 대해 이 이상의 폭언을 내뱉는다면, 브로냐는 키아나를 적으로 간주합니다.",
+			"Bronya's data is spot on. If Kiana continues to insult Homu, Bronya will consider her an enemy.",
+			null,
+			"Please don't question the stats that Bronya has compiled. And if Kiana shows malice towards Howlom again, Bronya will take hostile measures against Kiana.",
+			"Bronya's statistics are correct. If you speak out any more against Hom, Bronya will consider Kiana as an enemy."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251330,
+			"……",
+			"……",
+			"むぅ……。",
+			"으음…….",
+			"Um..."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251331,
+			"Can you tell us some stories about Homu? I really want to know more about it~",
+			"那布洛妮娅可以给我们讲讲吼姆的故事吗？我以前也曾见过类似的人物，有点想知道关于吼姆的事呢~",
+			"ブローニャちゃん、ホムのこともっと教えてくれないかしら？私も詳しく知らなくて……だから、もうちょっとホムのこと知りたいな～。",
+			"브로냐, 홈에 대해 더 알려주지 않을래? 나도 자세히 몰라서…… 그래서, 좀 더 홈에 대해 알고 싶어～.",
+			"Bronya-chan, could you tell me more about Homu? I don't know much about him either... so I'd like to know a little more about him~",
+			null,
+			"So, can Bronya tell us the story of Howlom? I've seen similar characters before and I'd like to know about Howlom~",
+			"Bronya, I wonder if you could tell me more about Hom? I don't know much about it either, it's ......, so I'd love to know a little more about Homme!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251332,
+			"Roger that!",
+			"遵命！",
+			"承知しました！",
+			"알겠습니다!",
+			"Yes, ma'am!",
+			null,
+			"Yes, sir!",
+			"Yes, sir!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251333,
+			"Haha, stop talking like this~",
+			"真是的，都说了不要再用敬语称呼我了啦~",
+			"ふふっ、ブローニャちゃん、私には敬語なんて使わなくていいのよ。",
+			"후훗, 브로냐, 나한테는 존댓말 같은 거 쓰지 않아도 돼.",
+			"Heheh, Bronya-chan, you don't need to be so formal with me.",
+			null,
+			"I've told you to stop calling me with respect!",
+			"Hmmm, Bronya, you don't have to use honorifics with me."
+		]
+	],
+	"56": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251334,
+			"Mei~ I see the merry-go-round, let's go to play it~",
+			"芽衣学姐~那边有旋转木马哦，我们去坐旋转木马吧~",
+			"芽衣先輩、あっちにメリーゴーランドがあるよ！一緒に乗ろうよ～。",
+			"메이 선배, 저기 회전목마가 있어요! 같이 타요~.",
+			"Mei-senpai, there's a merry-go-round over there! Let's ride it together~",
+			null,
+			"Meiko~ There is a merry-go-round over there, let's go ride the merry-go-round~",
+			"Mei-senpai, there is a merry-go-round over there! Let's ride it together~!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251335,
+			"Oh? Do you like merry-go-round, Kiana?",
+			"哦？琪亚娜你原来喜欢这项游乐设施吗？",
+			"あれ？キアナちゃんって、こういうの好きなの？",
+			"어? 키아나 쨩, 이런 거 좋아해?",
+			"Huh? Kiana-chan, you like this kind of thing?",
+			null,
+			"Oh? Kiana, did you like this ride?",
+			"Huh? Kiana, do you like this kind of thing?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251336,
+			"No… No, I just want to play it with Mei~",
+			"不…不是啦，我只是想和学姐一起坐而已~",
+			"ち、違うよ、先輩と一緒に乗りたいだけ！",
+			"아, 아니야, 선배랑 같이 타고 싶어서!",
+			"N-No, I just want to ride it with you, Senpai!",
+			null,
+			"No...no, I just want to sit with you.",
+			"No, no, I just want to ride with my seniors!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251337,
+			"How about Bronya, would you like to play it?",
+			"布洛妮娅呢？你想不想坐旋转木马呀？",
+			"ブローニャちゃんは？乗りたい？",
+			"브로냐 쨩은? 타고 싶어?",
+			"What about you, Bronya-chan? Do you want to ride it?",
+			null,
+			"Where's Bronya? Do you want to ride the carousel?",
+			"How about you, Bronya? Do you want a ride?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251338,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251339,
+			"Ah? She ran away……",
+			"咦？她跑开了……",
+			"あれ？走ってっちゃった……。",
+			"어라? 뛰어가 버렸어…….",
+			"Huh? She ran off...",
+			null,
+			"Huh? She ran away ......",
+			"Huh? It ran away. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251340,
+			"Ha? She is going to turn on the merry-go-round!",
+			"咦，她直接跑去开旋转木马的开关了！",
+			"あっ、メリーゴーランドの電源を入れた！",
+			"악, 회전목마 전원을 켰어!",
+			"Ah, the merry-go-round is turned on!",
+			null,
+			"Huh, she ran straight to turn on the carousel switch!",
+			"Oh, I turned on the merry-go-round!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251341,
+			"She didn't talk too much about this place but I know she loves here.",
+			"看来布洛妮娅虽然不说，但是她还是很喜欢这个地方的吧。",
+			"口には出さないけど、ブローニャちゃんもここが好きみたいね。",
+			"입으로는 안 말하지만, 브로냐 쨩도 여길 좋아하는 모양이네.",
+			"Even though she never said it out loud, Bronya-chan seems to like it here too.",
+			null,
+			"It seems that although Bronya doesn't say it, she still likes this place, right?",
+			"I don't say it out loud, but Bronya seems to like it here too."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251342,
+			"But Mei, I think we should consider more about how to beat the next big wave of zombies……",
+			"但是学姐，我们得想想如何对付接下来的死士潮了……",
+			"でも先輩、これから遭遇するかもしれないゾンビの対策も考えないと……。",
+			"그런데 선배, 앞으로 마주칠지도 모를 좀비 대책도 생각해야 하는데…….",
+			"But Senpai, we need to think about how to deal with the zombies we'll encounter next...",
+			null,
+			"But Sister, we have to think about how to deal with the next wave of dead soldiers ......",
+			"But seniors, we also need to think about what to do about the zombies we may encounter in the future. ......"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251343,
+			"I can handle that.",
+			"这种程度的死士潮，只要交给布洛妮娅就行了。",
+			"それはブローニャにお任せください。",
+			"그건 브로냐에게 맡겨주세요.",
+			"Leave that to Bronya.",
+			null,
+			"A wave of dead soldiers of this level can simply be handed over to Bronya.",
+			"Leave that to Bronya."
+		],
+		[
+			"msg",
+			251344,
+			"I won't let zombies hurt Homus here! Power up mode, activated!",
+			"布洛妮娅是不会让那些死士破坏这里的吼姆的！火力压制模式，启动！",
+			"ブローニャは、ゾンビにここのホムを破壊させはしません——火力制圧モード、起動！",
+			"브로냐는, 좀비가 여기의 호무를 파괴하게 두지 않겠어——화력 제압 모드, 가동!",
+			"Bronya won't let the zombies destroy the Homus here — fire suppression mode, activate!",
+			null,
+			"Bronya is not going to let those dead men destroy the Howlom here! Fire suppression mode, activated!",
+			"Bronya will not let the zombies destroy the hom here - firepower suppression mode, activated!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251345,
+			"Kiana, can you feel that there is something change on Bronya?",
+			"琪亚娜，你有没有觉得，布洛妮娅有点变了？",
+			"キアナちゃん、何だかブローニャちゃん、変わってきたと思わない？",
+			"키아나 쨩, 왠지 브로냐 쨩, 변해온 것 같지 않아?",
+			"Kiana-chan, don't you think Bronya-chan has changed somehow?",
+			null,
+			"Kiana, do you think that Bronya has changed a bit?",
+			"Kiana, don't you think you've changed somehow, Bronya?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251346,
+			"Humph? No, I still think she is just like a rebot.",
+			"嗯？没有啊，怎么看她都还是像个机器人一样。",
+			"えぇ？変わったかなー？相変わらずの無表情だけど？",
+			"에? 변했나? 여전히 무표정이지만?",
+			"Huh? You think something changed? She's still as expressionless as ever.",
+			null,
+			"Hmm? No, how does she still look like a robot.",
+			"Huh? Have I changed? You still have the same blank expression on your face?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251347,
+			"Really? I think she changed a lot~",
+			"是吗，在我看来布洛妮娅已经变了很多呢~",
+			"そう？私には変わってきてるように見えるわ。",
+			"그래? 나에게는 변해가는 것처럼 보여.",
+			"Really? It looks like things are changing to me.",
+			null,
+			"Really, it seems to me that Bronya has changed a lot~",
+			"Really? Seems to be changing to me."
+		],
+		[
+			"msg",
+			251348,
+			"Although maybe she don't know how to represent herself, I can feel her love to Homu.",
+			"虽然布洛妮娅可能还不知道该如何表达自己的想法，但是已经能看出布洛妮娅非常喜欢吼姆了呢。",
+			"まだ上手く自分の気持ちを言葉に出来ないようだけど、ブローニャちゃんがホムを大好きなのは見ていて分かるもの。",
+			"아직 자신의 감정을 말로 잘 표현하지 못하는 것 같지만, 브로냐 쨩이 호무를 정말 좋아하는 건 보면 알 수 있어.",
+			"Although she doesn't seem to be able to put her feelings into words very well yet, it's clear that Bronya-chan really loves Homu.",
+			null,
+			"Although Bronya may not know how to express herself yet, but can already see Bronya very much like howlum it.",
+			"She can't seem to articulate her feelings well yet, but I can see that Bronya loves Homu."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251349,
+			"Ah, yes, if other people said bad thing about Homu, she would be mad…",
+			"啊，这么一说好像是这样，如果有人说吼姆的坏话的话她其实也会生气呢…嗯，如果敌对模式算是生气的话……",
+			"そう言われると、そうかも……ホムの悪口を言うと怒るみたいだし……まぁ、敵とみなすっていう表現が怒ってるって言っていいのかは謎だけど。",
+			"그렇게 말하니, 그럴지도... 호무의 안 좋은 말을 하면 화내는 것 같고... 뭐, 적으로 본다는 표현이 화낸다는 건지 아닌지는 수수께끼지만.",
+			"Now that you mention it, that might be true... It seems like she gets angry if you say something bad about Homu... Well, I'm not sure if saying she considers someone an enemy means she's angry, though.",
+			null,
+			"Ah, so it seems so, if someone says something bad about howlam she will actually be angry ... well, if the hostile mode is considered angry ......",
+			"That being said, it seems like they get angry when you say bad things about ......homes. ...... Well, it's a mystery to me if the expression \"consider them enemies\" is a good way to say they're angry."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251350,
+			"If we can see her smile face someday, poor Bronya, maybe never she smiled before…",
+			"如果有一天能看到布洛妮娅的笑容就好了，那个孩子可从来都没有笑过呢……",
+			"いつか、ブローニャちゃんが笑ってくれるといいわね。早く、あの子が満面の笑みを浮かべる瞬間が見てみたいな……。",
+			"언젠가, 브로냐 쨩이 웃어주면 좋겠어. 빨리, 그 아이가 환한 미소를 짓는 순간을 보고 싶어...",
+			"I hope that one day Bronya-chan will smile. I can't wait to see the moment when she breaks into a beaming smile...",
+			null,
+			"It would be nice to see Bronya's smile one day, that child never smiles ......",
+			"I hope someday little Bronya will smile at you. I can't wait to see the moment when she has a big smile on her face. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251351,
+			"Relax, Mei~ She will turn to a \"human\" if she keep following us~",
+			"安心啦，学姐~只要那个孩子一直跟着我们的话，总有一天她会重新变回“人类”的。",
+			"大丈夫だよ、先輩！私たちとずっと一緒にいれば、あの子もいつか人間らしい子に戻れるって！",
+			"괜찮아요, 선배! 우리와 계속 함께 있으면, 그 아이도 언젠가 인간다운 아이로 돌아올 거예요!",
+			"It'll be fine, Senpai! If she stays with us forever, she'll be able to return to being more human someday!",
+			null,
+			"Rest assured, Sister ~ as long as the child stays with us, one day she will become \"human\" again.",
+			"Don't worry, senpai! If she stays with us for a long time, she will be able to become a human being again someday!"
+		]
+	]
+}

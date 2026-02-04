@@ -1,0 +1,956 @@
+{
+	"501": [
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140283,
+			"Hello~ It seems that you are my master~ My name is Liv, I'm your maidservant~",
+			"您好~看来您就是我的主人了呢~我名字是莉芙，从今天开始我就是您的专属女仆了，请多关照，主人~",
+			"こんにちは。私の名はリフ。あなたがご主人様のようですね。これから私が専属のメイドとなります。どうぞよろしくお願いします。",
+			"안녕하세요. 제 이름은 리프입니다. 당신이 주인님인가 보네요. 이제부터 제가 전속 메이드가 되겠습니다. 잘 부탁드립니다.",
+			"Hello. My name is Liv. It seems you are my master. From now on, I will be your personal maid. I look forward to working with you. (TN: The Japanese name for her seems to be \"Rifu\", short for \"Rifle\".)"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140284,
+			"Fina…",
+			"终……",
+			"やっと…",
+			"드디어...",
+			"Finally..."
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140285,
+			"Master?",
+			"主人？",
+			"ご主人様？",
+			"주인님?",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140286,
+			"Finally!!! I got a maidservant!!!",
+			"终于出现啦！！！！传说中的妹抖角色！！！！",
+			"やっとキター！！！伝説のメイドキャラ！！！",
+			"드디어 왔다!!! 전설의 메이드 캐릭터!!!",
+			"It's finally here!!! The legendary maid character!!!"
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140287,
+			"Is maidservant very rare?",
+			"女仆很罕见么？",
+			"メイドはあまり見かけないのですか？",
+			"메이드는 자주 보기 힘든가요?",
+			"You've never seen a maid before?"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140288,
+			"Although I can see a lot of maidservants in anime but I still felt exciting when I saw you!",
+			"虽然在很多作品中都已经是定番了！但是每次看到女仆角色果然还是会很兴奋的吧！！",
+			"メイドって定番になってきてるけど、やっぱり実際に見ると興奮するじゃない！！",
+			"메이드는 클리셰가 되었지만, 역시 실제로 보면 흥분되지 않나요!!",
+			"Maids are a common sight in anime, but it's still exciting to see one in person!"
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140289,
+			"Master, it's dangerous to talk like that~",
+			"主人，这样的发言很危险的哦~",
+			"ご主人様、ちょっと危険な発言してません？",
+			"주인님, 조금 위험한 발언 하시는 거 아닌가요?",
+			"Master, aren't you saying something a little dangerous?"
+		],
+		[
+			"msg",
+			140290,
+			"Let me repeat it again, I'm not a normal maidservant~ I can support you in battles~",
+			"请恕我重申一下哦，我可不是普通的女仆哦哦~而是为了辅佐主人战胜敌人的战斗女仆哦~",
+			"私は普通のメイドではありませんよ。あなたを補佐し、敵に打ち勝つための戦うメイドです。",
+			"저는 평범한 메이드가 아닙니다. 당신을 보좌하고, 적을 물리치기 위한 싸우는 메이드입니다.",
+			"I'm no ordinary maid. I'm a battlemaid who will assist you and help you defeat your enemies."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140291,
+			"No~ I won't let a beautiful like you take part in the battle~",
+			"讨厌啦~像你这样可爱温柔的少女我怎么会让你去战斗呢~",
+			"もう！あなたみたいな可愛いメイドに戦闘させるわけないじゃない〜！",
+			"真是的! 像你这样可爱的女仆怎么可能让你去战斗呢~!",
+			"Come on! There's no way I'd let a cute maid like you fight~!"
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140292,
+			"It looks like I need to show you my ability.",
+			"看来有必要向主人展现一下我的力量呢。",
+			"これは、ご主人様に私の力を認めてもらう必要がありそうですね。",
+			"이것은, 주인님께 제 실력을 인정받을 필요가 있을 것 같네요.",
+			"It seems I need to get Master to acknowledge my strength then."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140293,
+			"Wow, di you just you take out a rifle gun from your skirt?",
+			"呜哇！！！居然从裙子里抖出了滑膛枪！",
+			"うわ！まさかのスカートから銃が…",
+			"우와! 설마 스커트에서 총이...",
+			"Whoa! How'd a rifle pop out from her skirt...!"
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140294,
+			"Don't mind.",
+			"这是设定请不要在意",
+			"これは仕様です。お気になさらずに。",
+			"이것은 사양입니다. 신경 쓰지 마세요.",
+			"This is a feature. Don't worry."
+		],
+		[
+			"msg",
+			140295,
+			"Let me give you a test~ Try you best~",
+			"那么就让我测试一下主人的实力吧~一定要全力战斗哦~",
+			"では、私にご主人様の実力を見せていただけますか？全力でお願いします。",
+			"그럼, 제게 주인님의 실력을 보여주실 수 있나요? 전력으로 부탁드립니다.",
+			"Then, would you please show me your true abilities, Master? Please give it your all."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140296,
+			"Hey, wait a moment! You should treat me softly.",
+			"喂！等下，这和说好的不一样嘛！女仆不应该都是温柔地服侍我才对的嘛！",
+			"ちょっと待ってよ！私の知ってるメイドは優しくて、服従してくれるはずよ！",
+			"잠깐만 기다려! 내가 아는 메이드는 친절하고 순종적이어야 할 텐데!",
+			"Wait a minute! The maids I know are kind and obedient!"
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140297,
+			"Relax, I will just make some holes on your boddy~",
+			"请主人放心~开几个洞就会结束了~",
+			"ご主人様、ご安心ください。いくつか穴が開いたら終わりますよ。",
+			"주인님, 안심하세요. 구멍 몇 개만 뚫으면 끝날 거예요.",
+			"Don't worry, Master. It will be over after a just few holes~"
+		]
+	],
+	"502": [
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140328,
+			"Master~ Let's exercise~",
+			"主人~我们来锻炼吧~",
+			"ご主人様、鍛錬をしましょう。",
+			"주인님, 수련을 합시다.",
+			null
+		],
+		[
+			"msg",
+			140329,
+			"Master~ I prepared a fitness card for you~",
+			"主人~今天我为您准备了超值健身套餐哦~",
+			"今日はご主人様のために特別メニューをご用意しましたよ。",
+			"오늘은 주인님을 위해 특별 메뉴를 준비했어요.",
+			"Master~ I've prepared a super value fitness package for you today~"
+		],
+		[
+			"msg",
+			140330,
+			"Master~ Let's do real battle training today!",
+			"主人~我们去野外实战对抗吧！",
+			"ご主人様、外で実戦してみましょう！",
+			"주인님, 밖에서 실전을 해봅시다!",
+			"Master~ Let's go for some real combat in the wild!"
+		],
+		[
+			"msg",
+			140331,
+			"Master~ Master~ Master…",
+			"主人~主人~主人……",
+			"ご主人様、ご主人様、ご主人様……",
+			"주인님, 주인님, 주인님......",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140332,
+			"Noooo!!!!!!!",
+			"不要啊！！！！！！！",
+			"やめて！！！！！！！",
+			"그만!!!!!!!!",
+			"<i>NOOO!!!!!!!</i>"
+		],
+		[
+			"msg",
+			140333,
+			"……",
+			"……",
+			"……",
+			"......",
+			"......"
+		],
+		[
+			"msg",
+			140334,
+			"It was a dream……",
+			"居然是梦么……",
+			"夢か……",
+			"꿈이었나......",
+			"It was just a dream...?"
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140335,
+			"Master.",
+			"主人。",
+			"ご主人様。",
+			"주인님.",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140336,
+			"WOW!",
+			"呜哇！",
+			"うわ！",
+			"우와!",
+			"AHH!"
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140337,
+			"How are you feeling now? I fell in a faint in the kendo training…",
+			"主人您没事么？在刚才的剑道训练中击倒后就晕过去了……",
+			"ご主人様、大丈夫ですか？先ほどの剣道の訓練中に打突を受けて気を失われて……",
+			"주인님, 괜찮으세요? 아까 검도 훈련 중에 타격을 받아 기절하시더니...",
+			"Master, are you alright? You were hit on the head during the kendō training earlier and lost consciousness..."
+		],
+		[
+			"msg",
+			140338,
+			"It's my bad, sorry!",
+			"一定是我太用力了，真是抱歉！",
+			"きっと私がやりすぎたのです…本当に申し訳ありません！",
+			"제가 너무 심하게 했네요... 정말 죄송합니다!",
+			"I must have gone too far... I give you my deepest apologies!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140339,
+			"What are you doing?!!!",
+			"你这是想整死我么！！！",
+			"あんた…私を殺すつもり！？",
+			"너... 나 죽일 셈이야!?",
+			"You... Were you trying to kill me?!"
+		],
+		[
+			"msg",
+			140340,
+			"I was going to say this but I couldn't speak to a beautiful girl like her with those words!",
+			"虽然想这么说，但是面对这种天真无邪的笑脸根本就无法抗拒啊！！",
+			"そうは言っても…この無邪気な笑顔を前にすると逆らえないのよね……",
+			"그래도... 이 천진난만한 미소를 보니 거역할 수가 없네...",
+			"That being said... when faced with that innocent smile, it's hard to resist..."
+		],
+		[
+			"msg",
+			140341,
+			"Kiana! What should I do?",
+			"琪亚娜！到底该怎么办！这样下去身子可是要垮掉的啊！！",
+			"私は一体どうしたらいいの！？このままじゃ体が壊れちゃう！！",
+			"도대체 어떻게 해야 돼!? 이대로라면 몸이 망가질 거야!!",
+			"What on earth should I do?! If I keep going like this, my body will break down!!"
+		],
+		[
+			"msg",
+			140342,
+			"I must get a way…",
+			"必须想办法……想办法……",
+			"何かいい方法は……",
+			"뭔가 좋은 방법이...",
+			"There must... be a way..."
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140343,
+			"Master, are you alright? Did you get hurt?",
+			"主人？您没事吧？是不是哪里受伤了？",
+			"ご主人様？大丈夫ですか？どこかお怪我でも？",
+			"주인님? 괜찮으세요? 어디 다친 데라도?",
+			"Master? Are you okay? Are you hurt somewhere?"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140344,
+			"Hurt?",
+			"受伤！！！",
+			"怪我したわよ！！！",
+			"다쳤다고!!!",
+			"Hurt!!!"
+		],
+		[
+			"msg",
+			140345,
+			"Yep!",
+			"没错！",
+			"やっぱり！",
+			"역시!",
+			"That's it!"
+		],
+		[
+			"msg",
+			140346,
+			"Hum, I got a stomachache!!",
+			"我！我的肚子好痛！！",
+			"いたた……！お腹が痛い……！！",
+			"아야...! 배가 아파...!!",
+			"Owie...! My stomach hurts...!!"
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140347,
+			"I have stomach medicine.",
+			"我这里有胃药。",
+			"胃薬ならここに。",
+			"위약은 여기에.",
+			"I have stomach medicine here."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140348,
+			"I can feel the pain from waist!",
+			"我腰疼！",
+			"腰が痛い！",
+			"허리가 아파!",
+			"My back hurts!"
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140349,
+			"I have painkiller.",
+			"我这里又止痛药。",
+			"痛み止めならここに。",
+			"진통제는 여기에.",
+			"I have painkillers here."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140350,
+			"I…I'm in period!",
+			"来大姨妈了！",
+			"生理が来た！",
+			"생리가 왔어!",
+			"I'm on my period!"
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140351,
+			"I have tampon.",
+			"九度空间。",
+			"ナプキンです。",
+			"생리대입니다.",
+			"I have tampons here."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140352,
+			"… Okay, there is no flaw here.",
+			"……真是毫无破绽啊。",
+			"……本当に抜かりがないわね…",
+			"......정말 빈틈이 없네...",
+			"...You really have no room for error..."
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140353,
+			"Master?",
+			"主人？",
+			"ご主人様？",
+			"주인님?",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140354,
+			"I have no idea…",
+			"没办法了……",
+			"仕方ない……",
+			"어쩔 수 없지...",
+			"There's no other way..."
+		],
+		[
+			"msg",
+			140355,
+			"I want to… drink milk!!!",
+			"我想要……喝奶！！！",
+			"私……ミルクが飲みたい！！！",
+			"나... 우유가 마시고 싶어!!!",
+			"I... want to drink milk!!!"
+		],
+		[
+			"speaker",
+			204349
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				1005,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140356,
+			"!?",
+			"！？",
+			"！？",
+			"！？",
+			null
+		],
+		[
+			"msg",
+			140357,
+			"Got it, I 'm going to prepare it.",
+			"明白了，这就去准备。",
+			"分かりました、準備してきます。",
+			"알겠어, 준비해 올게.",
+			"Understood, I'll go prepare it."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				1005,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140358,
+			"Finally, she leaves.",
+			"终于走了……",
+			"やっと行った……",
+			"드디어 갔어……",
+			"Finally, she's gone..."
+		],
+		[
+			"msg",
+			140359,
+			"I feel I can't get married…",
+			"总感觉已经嫁不出去了……",
+			"もうお嫁に行けない気がする……",
+			"이제는 시집 못 갈 것 같아……",
+			"I feel like I never wanna get married now..."
+		]
+	]
+}

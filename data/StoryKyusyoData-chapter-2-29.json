@@ -1,0 +1,1540 @@
+{
+	"1099": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305799,
+			"Guys, we now know more about the bugs. From the transmitting substances inside the larvae, we know that the bugs can use the substances to communicate.",
+			"各位，关于虫子的研究有进展了。从那些幼虫的体内有某种类似信息素的东西来看，它们可以依靠这些信息素互相确认指令进行活动。",
+			"みんな、虫の研究に進展があったわ。あの幼虫の体内には、ある種のフェロモンのようなものがあるの。このフェロモンで互いに指令を確認しあいながら行動してるみたい。",
+			"다들, 벌레 연구에 진전이 있었어. 그 애벌레의 체내에는 어떤 종류의 페로몬 같은 게 있어. 이 페로몬으로 서로 명령을 확인하면서 행동하는 것 같아.",
+			null,
+			null,
+			"Folks, there's been progress in the research on worms. From the fact that those larvae have something like pheromones in their bodies, they can rely on those pheromones to confirm instructions to each other for their activities.",
+			"Hey guys, I've made some progress on my bug research. The larvae have some kind of pheromone inside their bodies. It seems that they use these pheromones to confirm each other's commands."
+		],
+		[
+			"msg",
+			305800,
+			"Although they are Houkai creatures, they've developed some organism's features, which is intriguing. Maybe we should take into account their values as organisms, instead of treating them merely as Houkai creatures.",
+			"虽然是崩坏生物，但是却进化出了类似生物的机能，这点还是非常令人感兴趣的，或许我们应该考虑崩坏生物作为生命体的价值，而不是把它们当做纯粹的崩坏造物来看待。",
+			"崩壊生物だけど、元来の生物に似たメカニズムを得るまで進化してる。これはとても興味深いわ。もしかしたら、私たちは崩壊生物を崩壊の造物としてではなく、純粋な生命体として認識する必要があるのかもしれない。",
+			"붕괴 생물이지만, 원래의 생물과 비슷한 메커니즘을 얻을 때까지 진화하고 있어. 이건 정말 흥미로워. 어쩌면 우리는 붕괴 생물을 붕괴의 피조물이 아니라 순수한 생명체로 인식해야 할지도 몰라.",
+			null,
+			null,
+			"Although it is a collapsed creature, but has evolved a creature-like function, this is still very interesting, perhaps we should consider the value of collapsed creatures as living beings, rather than treating them as purely collapsed creatures.",
+			"It's a decaying organism, but it's evolved to the point where it's getting mechanisms similar to the original organism. This is very interesting. Perhaps we need to recognize disintegrating organisms as pure life forms, rather than as the product of disintegration."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305801,
+			"If the Houkai creatures are able to evolve into some animals on Earth, that means a chapter of evolution, and humans will inevitably go extinct.",
+			"如果说崩坏生物在进化的过程中能够转换替代地球的生物生态，那么或许这个世界就完成了一次真正意义上的革新，人类被历史淘汰也是自然进化的必然。",
+			"もし、崩壊生物が進化の過程で地球の生物生体と取って変わることができるようになれば、この世界は本当の意味での革新を成し遂げることになる。人類が歴史に淘汰されるのも自然の進化の必然ということね。",
+			"만약 붕괴 생물이 진화 과정에서 지구의 생물 생태계를 대체할 수 있게 된다면, 이 세상은 진정한 의미의 혁신을 이룰 거야. 인류가 역사에서 도태되는 것도 자연의 진화의 필연이겠죠.",
+			null,
+			null,
+			"If the collapsed creatures in the process of evolution can be converted to replace the biological ecology of the Earth, then perhaps the world has completed a real sense of innovation, human beings are eliminated by history is also the natural evolution of the inevitable.",
+			"If the collapsing organisms are able to replace the living organisms of the earth in the course of evolution, this world will have achieved a real revolution. So it is a natural evolutionary inevitability that humanity will be eliminated by history."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305802,
+			"That's a lot to process. What's the mission?",
+			"那个…为什么忽然说了这么多大道理…说好的委托呢？",
+			"その……いきなりそんな理論を話し出してどうしたの……依頼は？",
+			"갑자기 그런 이론을 꺼내서 어떻게 된 거야…… 의뢰는?",
+			null,
+			null,
+			"That ... why suddenly said so much rhetoric ... said the good commission?",
+			"What happened to that ...... request to suddenly start talking about such a theory?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305803,
+			"I spoke too much. Let's get back to the mission.",
+			"啊…抱歉，只是单纯的有感而发罢了，那么我讲下这次委托的内容吧。",
+			"あ……ごめん。感情が高ぶってつい……。じゃあ、今回の依頼の内容を話すわ。",
+			"아…… 미안. 감정이 격해져서つい……. 자, 이번 의뢰의 내용을 말할게.",
+			null,
+			null,
+			"Ah...sorry, it's just a simple feeling, so let me tell you the content of this commission.",
+			"Oh ...... sorry. I got emotional and ended up going to ....... I'll tell you what this request is."
+		],
+		[
+			"msg",
+			305804,
+			"I extracted the transmitting substances from the larvae and made a basic tracker from what I have. We now can use the transmitting substances to track down where the castle is.",
+			"我把幼虫体内的信息素样本提取了出来，并用手头的材料制作了一个简易的追踪器，这次我们不用被动地寻找巢穴的位置了，可以利用城堡内幼虫散播的信息素来进行追踪。",
+			"幼虫の体内のフェロモンサンプルを抽出して、手元にある材料で簡単な追跡装置を作ったの。今回は受け身的に巣の位置を探さなくても大丈夫。城の幼虫が撒いたフェロモンを利用して追跡できる。",
+			"애벌레 체내의 페로몬 샘플을 추출해서, 손에 있는 재료로 간단한 추적 장치를 만들었어. 이번에는 수동적으로 둥지 위치를 찾지 않아도 돼. 성의 애벌레가 뿌린 페로몬을 이용해 추적할 수 있어.",
+			null,
+			null,
+			"I extracted the pheromone samples from the larvae and made a simple tracker with the materials on hand. This time, instead of passively searching for the location of the nest, we can use the pheromones dispersed by the larvae inside the castle to track.",
+			"I extracted a pheromone sample from the larva's body and made a simple tracking device out of materials I had on hand. This time we don't have to passively locate the nest. We can use the pheromones released by the larvae in the castle to track them."
+		],
+		[
+			"msg",
+			305805,
+			"But we still need someone to operate the tracker, so I want you to go.",
+			"不过同样的，还是需要有人操作追踪器进行探查才行，所以还是需要你们去一趟。",
+			"でも、同じように誰かが追跡装置を操作して探索する必要があるけどね。だから、あなたたちに行ってもらわないといけないの。",
+			"하지만, 마찬가지로 누군가가 추적 장치를 조작해서 탐색할 필요가 있겠지. 그래서 당신들이 가야만 하는 거야.",
+			null,
+			null,
+			"But again, someone still needs to operate the tracker for probing to work, so you still need to make a trip.",
+			"But the same way, though, someone needs to operate the tracker and search for it. So I need you guys to go."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305806,
+			"Alright. I've been with the bugs a lot anyway.",
+			"好吧…我就猜到是这样的结果，感觉最近与虫子相处的时间比姐姐大人还多了……",
+			"分かった……まぁ、依頼は予想出来ていたわ。最近、虫と過ごす時間がお姉ちゃんよりも多い気がするよ……。",
+			"알았어…… 뭐, 의뢰는 예상하고 있었어. 최근엔 벌레와 보내는 시간이 언니보다 더 많은 것 같아…….",
+			null,
+			null,
+			"Well ... I guessed that was the result, I feel like I've been spending more time with bugs than my sister lately ......",
+			"Okay, ...... well, I could have predicted the request. I feel like I've been spending more time with bugs lately than your sister. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305807,
+			"Allow me to explain how this tracker works. It's fragile because it's a makeshift, so you have to stick with the protocols.",
+			"那我说明一下这个仪器的使用方法吧，因为材料是东拼西凑的零件，所以特别容易坏掉，所以一定要按照规范操作。",
+			"じゃあ、この装置の使用方法を説明するわね。材料はあり合わせの部品だからとても壊れやすいの。だから、必ずマニュアル通りに操作して。",
+			"그럼, 이 장치의 사용 방법을 설명할게. 재료는 대충 구한 부품들이라서 아주 부서지기 쉬워. 그러니까 꼭 매뉴얼대로 조작해야 해.",
+			null,
+			null,
+			"Then I explain the use of this instrument, because the material is east to put together parts, so it is particularly easy to break, so be sure to follow the specifications.",
+			"Okay, let me explain how this device is used. The material is very fragile because it is made of off-the-shelf parts. So be sure to operate it according to the manual."
+		],
+		[
+			"msg",
+			305808,
+			"First... Then... If... You should... At last...",
+			"首先…然后…如果…优先…一旦…随后…最后…",
+			"まず……それから……もし……先に……一旦……それから……最後に——",
+			"먼저…… 그다음에…… 만약…… 먼저…… 일단…… 그다음에…… 마지막으로——",
+			null,
+			null,
+			"First...then...if...priority...once...then...finally...",
+			"First ...... then ...... then if ...... first ...... once... ...then ...... finally--"
+		],
+		[
+			"msg",
+			305809,
+			"Got it?",
+			"就是这样，听明白了么？",
+			"という感じよ。分かった？",
+			"그런 느낌이야. 알았지?",
+			null,
+			null,
+			"That's it, you got it?",
+			"I'm just saying. Do you understand?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305810,
+			"Not really...",
+			"……你刚才真的有在说明么？",
+			"……あなた今何か説明したの？",
+			"……너 방금 무슨 설명한 거야?",
+			null,
+			null,
+			"...... Did you really just state that?",
+			"...... you just explained something to me?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305811,
+			"I'll say that again.",
+			"好吧…那我再说明一遍。",
+			"……もう1回、説明するわね。",
+			"……다시 한 번 설명해 줄게.",
+			null,
+			null,
+			"Ok...so let me clarify again.",
+			"I'll explain it one more time at ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305812,
+			"No, I got it. We just have to use the tracker to do our job, right? Let's go.",
+			"不！不用了！我听明白了！总之就是用这个仪器追逐就行了吧！我们出发了！",
+			"いえ！いいわ！分かったわ！要するにこの装置を使って追跡すればいいんでしょ！さっそく行ってくるわ！",
+			"아니! 됐어! 알았어! 결국 이 장치를 사용해서 추적하면 되는 거잖아! 당장 가볼게!",
+			null,
+			null,
+			"No! No need for that! I got it! Anyway, just chase with this instrument! Let's go!",
+			"No! No! Okay, okay! The point is, you're gonna use this device to track me! I'll get right on it!"
+		]
+	],
+	"1100": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10099"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305813,
+			"This tracker is like a radar. We have to be careful with it.",
+			"所谓的追踪器就是这个电子雷达一样的东西么…伊瑟琳说这个特别容易坏，我们还是小心使用吧。",
+			"追跡装置って言うからには電子レーダーみたいなものなのかな……イザーリンがとても壊れやすいって言ってたから、気をつけて使わないとね。",
+			"추적 장치라고 하니까 전자 레이더 같은 건가……이자린이 아주 부서지기 쉽다고 했으니까, 조심해서 사용하지 않으면 안 돼.",
+			null,
+			null,
+			"The so-called tracker is this electronic radar like things ... Estherine said that this is particularly easy to break, we should be careful to use it.",
+			"I'm not sure if it's a tracking device, so it's like an electronic radar. ...... Estherine said it's very fragile, so we have to be very careful with it."
+		],
+		[
+			"msg",
+			305814,
+			"Let me see. Press this button to turn it on.",
+			"让我看看，好像是按这个键启动来着。",
+			"ちょっと見せて。このボタンで起動するみたいね。",
+			"좀 보여줘. 이 버튼으로 작동하는 것 같네.",
+			null,
+			null,
+			"Let me see, it seems to start by pressing this button.",
+			"Let me see. It looks like this button activates it."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305815,
+			"Beep. Beep. Beep.",
+			"滴滴滴滴……",
+			"ピピピピ……。",
+			"삐삐삐삐…….",
+			null,
+			null,
+			"Drip-drip-drip ......",
+			"Pippi Pippi. ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305816,
+			"What happened? What should we do?",
+			"呃！怎么会有这么多的反应！这个该怎么办？",
+			"あ！どうしてこんなにたくさん反応するの！これ、どうしたらいいのよ！？",
+			"아! 왜 이렇게 반응이 많은 거야! 이거, 어떻게 해야 하지!?",
+			null,
+			null,
+			"Ugh! What's with all the reactions! What should I do with this one?",
+			"Ah! Why so many reactions! What am I supposed to do with this!"
+		],
+		[
+			"msg",
+			305817,
+			"Yssring said we have to do something if the tracker goes crazy. What did she say?",
+			"伊瑟琳好像说这种情况应要什么来着…啊啊！！好麻烦！你有听懂她之前的说明么？",
+			"イザーリン、こんな状況の時にはどうしろって言ってたっけ……ああ！！めんどくさい！あなた、彼女の説明分かった？",
+			"이자린, 이런 상황일 때는 어떻게 하라고 했더라…… 아아!!!! 귀찮아! 당신, 그녀 설명 알아들었어?",
+			null,
+			null,
+			"I think Estherine said that this situation should be what it is...ah ah! What a pain in the ass! Did you understand her previous instructions?",
+			"Estherine, what did I tell you to do in a situation like this: ...... Ah! So annoying!!! You, did you understand her explanation?"
+		],
+		[
+			"choice",
+			[
+				305818,
+				"I didn't understand a word she said.",
+				"除了一些副词之外什么都没听懂。",
+				"一部の副詞以外、何も分からなかった。",
+				"일부 부사 말고는 아무것도 이해하지 못했어.",
+				null
+			],
+			[
+				305819,
+				"I guess there are too many targets.",
+				"应该是目标太多了，",
+				"きっと目標が多すぎるんじゃない。",
+				"분명 목표가 너무 많은 거야.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1101,
+			1102
+		]
+	],
+	"1101": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10099"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305820,
+			"I think so.",
+			"果然你也是这么想的吧！那种说明听得懂才怪！",
+			"やっぱり、あなたもそう思ってたのね！あの説明で分かる方がおかしいわよ！",
+			"역시, 당신도 그렇게 생각했구나! 저 설명으로 알아듣는 쪽이 이상한 거야!",
+			null,
+			null,
+			"I guess that's what you think too! It's strange to understand that kind of instructions!",
+			"I knew you thought so too! It's funny how that explanation makes sense!"
+		],
+		[
+			"msg",
+			305821,
+			"We're on our own.",
+			"哎…现在只能靠自己了。",
+			"やれやれ……自力で頑張るしかないわね。",
+			"어쩌면…… 자력으로 힘내는 수밖에 없겠네.",
+			null,
+			null,
+			"Hey...now you can only rely on yourself.",
+			"Oh dear, ...... we'll just have to help ourselves."
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305822,
+			"Let's go with our instincts. This signal seems stronger than the rest, maybe we should start with this spot.",
+			"这种时候就要靠直觉啦~让我看看，这个信息点的反应比较强烈，看起来似乎更好追逐的样子，我们就先从这里着手追逐吧。",
+			"こういう時は直感頼みよ！見せて。ここの反応が強力ね。パッと見た感じ追いかけやすそうだわ。まずはこれから追いかけましょう。",
+			"이럴 땐 직감에 의존하자! 보여줘. 여기 반응이 강력하네. 딱 봐도 쫓아가기 쉬워 보여. 일단 이것부터 쫓아가자.",
+			null,
+			null,
+			"This is the time to rely on intuition ~ let me see, this information point is more responsive, it seems to be better to chase the look, let's start chasing from here.",
+			"In times like this, go with your gut! Let me see. The response here is strong. At a glance, it looks like it's easy to follow. Let's go after it first."
+		]
+	],
+	"1102": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10099"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305823,
+			"Wow! You really understand what she said!",
+			"诶！你居然听懂了么！太厉害了吧！",
+			"え！あなた聞き取れてたの！すごいわね！",
+			"에! 당신 알아들었어! 대단하네!",
+			null,
+			null,
+			"Eh! You actually understood it! That's awesome!",
+			"Oh, my God! You can hear me! That's amazing!"
+		],
+		[
+			"msg",
+			305824,
+			"We'll just do as you said.",
+			"既然这样的话就按你说的来吧~看来你还是挺可靠的嘛！",
+			"それなら、あなたの言う通りにやりましょう！あなたの方が私より当てになりそうね！",
+			"그렇다면, 당신 말대로 해보자! 당신이 나보다 믿음직스러워 보이니까!",
+			null,
+			null,
+			"In that case, according to what you say ~ it seems that you are still quite reliable!",
+			"Then we'll do exactly as you say! You seem to be more reliable than I am!"
+		],
+		[
+			"msg",
+			305825,
+			"This signal seems stronger than the rest, maybe we should start with this spot.",
+			"让我看看，这个信息点的反应比较强烈，看起来似乎更好追踪的样子，我们就先从这里着手吧。",
+			"見せて。ここの反応が強力ね。パッと見た感じ追いかけやすそうだわ。まずはこれから追いかけましょう。",
+			"보여줘. 여기 반응이 강력하네. 딱 봐도 쫓아가기 쉬워 보여. 일단 이것부터 쫓아가자.",
+			null,
+			null,
+			"Let's see, this information point has a stronger response and seems like it would be better to track, so let's start there.",
+			"Let me see. The response here is powerful. It looks like it's easy to follow. Let's start chasing it from now on."
+		]
+	],
+	"1103": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305826,
+			"Beep... Beep... Beep...",
+			"滴——滴——滴————",
+			"ピ——ピ——ピ——",
+			"피——피——피——",
+			null,
+			null,
+			"Drip-drip-drip ----",
+			"Bee--bee--bee--bee--"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305827,
+			"We lost the transmitting substance here. Is it the bug's den? There's nothing around here. Maybe the tracker is broken?",
+			"信息素的信号中断了…难道这里就是虫子的巢穴么？可是怎么看四周都空空如也，难道是仪器出问题了么？",
+			"フェロモンの信号が切れた……まさかここが虫の巣なの？でも周りには何もないけど。まさか装置が故障したのかしら？",
+			"페로몬 신호가 끊겼어... 설마 여기가 벌레 둥지인 거야? 그런데 주변에는 아무것도 없는데. 설마 장치가 고장 난 걸까?",
+			null,
+			null,
+			"The pheromone signal is interrupted...is this the bug's nest? But how to look around are empty, is it a problem with the instrument?",
+			"I lost the pheromone signal: ...... Don't tell me this is a bug nest? But I don't see anything around me. Don't tell me the device malfunctioned?"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305828,
+			"We shouldn't count on that tracker!",
+			"哎…搞了半天结果什么都没发现么！这个破仪器靠不靠谱啊！",
+			"これだけ時間かけて何も見つからないなんて……この装置全然ダメじゃないの！",
+			"이렇게 오래 시간 들였는데 아무것도 못 찾다니... 이 장치 완전히 망가졌잖아!",
+			null,
+			null,
+			"Hey ... half a day to get the results of what did not find it! This broken instrument is not reliable ah!",
+			"I can't believe I spent all this time and found nothing. ...... This equipment isn't working at all!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305829,
+			"Clack!",
+			"喀拉！",
+			"カラン！",
+			"쨍그랑!",
+			null,
+			null,
+			"Kara!",
+			"Callan!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305830,
+			"That doesn't sound good. Did we just break it?",
+			"呃…这个声音听起来似乎不太妙，轻轻甩一甩不会就坏掉了吧！？",
+			"え……この音は何か嫌な予感が。軽く振ってみても壊れないわよね！？",
+			"어... 이 소리는 십상 좋지 않은데. 살짝 흔들어 봐도 안 깨지겠지?!",
+			null,
+			null,
+			"Uh...this sound does not sound good, a gentle shake will not break it!",
+			"Eh ...... I have a bad feeling about this sound. I'd give it a light shake and it wouldn't break!"
+		],
+		[
+			"msg",
+			305831,
+			"Can't open it. Maybe we should go back.",
+			"咕…打不开了，我们还是先回去一次吧。",
+			"あ……電源がつかない。か、帰りましょっか……。",
+			"아... 전원이 안 켜져. 어, 어서 돌아가자...?",
+			null,
+			null,
+			"Goo...it won't open, let's just go back once.",
+			"Oh, ...... power won't come on. Let's go home. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305833,
+			"It really is broken.",
+			"嗯…的确是坏掉了。",
+			"うん……確かに壊れてる。",
+			"응... 확실히 고장 났어.",
+			null,
+			null,
+			"Well...it is indeed broken.",
+			"Yeah ...... it's definitely broken."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305834,
+			"That's too fragile!",
+			"所以说也太容易坏了吧！！",
+			"いくら何でも簡単に壊れすぎでしょ！！",
+			"아무리 그래도 이렇게 쉽게 부서질 순 없잖아!!",
+			null,
+			null,
+			"So it's too easy to break it!",
+			"How easy it is to break anything!!!!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305835,
+			"That's why you should've been more careful!",
+			"所以才让你小心点啊……",
+			"だから気をつけてって言ったじゃない……。",
+			"내가 조심하라고 했잖아.......",
+			null,
+			null,
+			"That's why I told you to be careful ......",
+			"I told you to be careful. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305836,
+			"So about the loss of transmitting substances, it's all because the tracker was down.",
+			"真是的，这么看来之前信息素信号中断果然也是坏掉了么……",
+			"まったく。これじゃあフェロモン信号が切れたのも、やっぱり壊れていたからなのね……。",
+			"정말. 이러니까 페로몬 신호가 끊긴 것도, 역시 고장 때문이었던 거네......",
+			null,
+			null,
+			"Really, so it seems that the previous pheromone signal interruption is also broken ......",
+			"Totally. So this means that the pheromone signal was still broken. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305837,
+			"The loss of transmitting substances? The tracker should've shown the correct location before it was broken.",
+			"信息素中断？可是探测器的位置并没有损伤，照理说应该不会发生这种事情。",
+			"フェロモンが切れた？でも、感知器のGPSは損傷してない。理論的にはそんなことありえないわ。",
+			"페로몬이 끊겼어? 하지만 감지기의 GPS는 손상되지 않았어. 이론적으로는 그런 일 있을 수 없는데.",
+			null,
+			null,
+			"Pheromone interruption? But the location of the detector is not damaged, so it is reasonable that this should not happen.",
+			"Pheromones have worn off? But the detector's GPS is undamaged. Theoretically, that's impossible."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305838,
+			"Do you want to go with me and see?",
+			"你要是不信的话就和我一起去！",
+			"信じないなら、私と一緒に行きましょう！",
+			"믿지 않는다면, 나랑 같이 가보자!",
+			null,
+			null,
+			"If you don't believe me, come with me!",
+			"If you don't believe me, come with me!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305839,
+			"No.",
+			"不要。",
+			"嫌。",
+			"싫어.",
+			null,
+			null,
+			"Don't.",
+			"Dislike."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305840,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305841,
+			"The tracker is fixed now. Please try again. Just let me talk about how it works again, I don't want you to break it anymore.",
+			"总之追踪器已经修好了，你们再试试吧，另外关于使用事项我还是再说一遍吧，要是经常坏掉就麻烦了。",
+			"とにかく、追跡装置が直ったらまたやってみよう。それから使用上の注意をもう1度説明する。また壊れたら面倒……。",
+			"어쨌든, 추적 장치가 고쳐지면 다시 해보자. 그 다음에 사용상 주의사항을 다시 한 번 설명해 줄게. 또 고장 나면 골치 아파…….",
+			null,
+			null,
+			"Anyway, the tracker has been fixed, you guys try it again, and also about the use of matters I still say it again, if often broken on the trouble.",
+			"Anyway, let's try again when the tracking device is fixed. Then I'll explain the precautions for use one more time. If it breaks again, it will be a hassle. ......"
+		],
+		[
+			"msg",
+			305842,
+			"First...",
+			"首先……",
+			"まず……。",
+			"먼저…….",
+			null,
+			null,
+			"First of all ......",
+			"First, visit ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305843,
+			"Enough! I'm not breaking it!",
+			"别说了！我不会再弄坏了！",
+			"いい、いい！もう壊さないから！",
+			"알았어, 알았어! 더 이상 망가뜨리지 않을게!",
+			null,
+			null,
+			"Stop it! I won't break it again!",
+			"No, no, no! I won't break it again!"
+		]
+	],
+	"1104": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305844,
+			"Yssring!",
+			"伊瑟琳！",
+			"イザーリン！",
+			"이자린!",
+			null,
+			null,
+			"Estherine!",
+			"Estherine!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305845,
+			"You came back! Did you find the den?",
+			"回来了么？看来已经找到虫子的巢穴了么？",
+			"帰って来たの？どうやら虫の巣を見つけたみたいね。",
+			"돌아왔어? 어떻게든 벌레 둥지를 찾은 모양이네.",
+			null,
+			null,
+			"Are you back? Did you find the bug's lair?",
+			"You're back? Looks like you found a nest of worms."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305846,
+			"The tracker was useless. We couldn't find the den with it!",
+			"你这个破东西一点都没用嘛！每次都乱带路，而且走一半就断线，根本就找不到巢穴！",
+			"これ全然役に立たないじゃないの！いつもルートはめちゃくちゃだし、半分まで行くと切れるし、巣なんか全然探せないよ！",
+			"이거 전혀 도움이 안 되잖아! 항상 루트는 엉망진창이고, 반쯤 가면 끊어지고, 둥지 같은 건 전혀 찾을 수 없어!",
+			null,
+			null,
+			"You are useless! Every time you lead the way, and halfway through the line, you can not find the nest!",
+			"This is totally useless! The route is always a mess, it cuts off halfway through, and I can't find the nest at all!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305847,
+			"It must be broken again. Let me see.",
+			"一定是又坏掉了，让我看看……",
+			"きっとまた壊れたのね。見せて……。",
+			"분명 또 고장 난 거네. 보여줘…….",
+			null,
+			null,
+			"It must be broken again, let me see ......",
+			"It must be broken again. Let me see: ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305848,
+			"Just come here!",
+			"看你个头！跟我来啦！",
+			"見てどうなるのよ！私と一緒に追跡する方が早いわ！",
+			"봐서 뭐 어쩌겠어! 나랑 같이 추적하는 게 더 빠를 거야!",
+			null,
+			null,
+			"Look at your head! Come with me!",
+			"What's the point of looking! You'd better track with me, it's faster!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305849,
+			"Where are we going?",
+			"喂喂！有话好好说啦，不要拉我出去…我还不想死！",
+			"ちょっと！話なら聞くから。私を引っ張り出さないで……まだ死にたくない！",
+			"잠깐! 이야기라면 들을게. 날 끌어내지 마…… 아직 죽고 싶지 않아!",
+			null,
+			null,
+			"Hey, hey! Don't pull me out...I don't want to die yet!",
+			"Hey! If you want to talk, I'll listen. Don't pull me out of ...... I don't want to die yet!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305850,
+			"You see, we can't trace the transmitting substances here.",
+			"你看，信息素到这里又断了！",
+			"見て、フェロモンがここに来ると切れるでしょ！",
+			"봐, 페로몬이 여기 오면 끊어지잖아!",
+			null,
+			null,
+			"You see, the pheromone breaks down again here!",
+			"Look, the pheromones cut off when they get here!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305851,
+			"But the device is normal. And it works well with the substances extracted in the lab.",
+			"…可是仪器并没有什么异常，在实验室中提取的信息素样本也可以追踪到一定时间……",
+			"……でも装置には何の異常もない。実験室で抽出したフェロモンサンプルでも一定時間追跡できた……。",
+			"……하지만 장치에는 아무 이상도 없어. 실험실에서 추출한 페로몬 샘플로도 일정 시간 추적할 수 있었는데…….",
+			null,
+			null,
+			"...but there is nothing unusual about the instrument and the pheromone samples taken in the lab can be traced to a certain time ......",
+			"There is nothing wrong with the device at ....... Even pheromone samples extracted in the lab could be tracked for a certain amount of time. ......"
+		],
+		[
+			"msg",
+			305852,
+			"Maybe there's something changed in the substances. Seele, I think I know what the problem is.",
+			"难道是信息素的内容发生了改变么…希儿，我想我知道问题出在哪了了。",
+			"まさかフェロモンに変化が起きてる？ゼーレ、何が問題なのか分かったかも。",
+			"설마 페로몬에 변화가 생긴 거야? 제레, 무슨 문제인지 알 것 같아.",
+			null,
+			null,
+			"Could it be that the content of the pheromone has changed...Hillel, I think I know what the problem is.",
+			"Don't tell me there's a pheromone change going on? Seele, I think I might know what the problem is."
+		],
+		[
+			"msg",
+			305853,
+			"The larvae in the lab only transmit simple messages, like how we say “go back home”.",
+			"之前在实验室里的幼体，它们释放的信息素只有一种简单的讯号，如果用语言来做比喻的话就是“回家”这个信号。",
+			"実験室の中のは幼体だった。彼らの放つフェロモンは一種の簡単な信号だけ。言葉で例えるなら「帰る」という信号のみ。",
+			"실험실 안에 있던 건 유체였어. 그들이 내뿜는 페로몬은 일종의 간단한 신호뿐이야. 말로 예를 들면 「돌아가」라는 신호만.",
+			null,
+			null,
+			"The pheromones released by the hatchlings in the lab were a simple signal, a verbal analogy of \"go home\".",
+			"The ones in the laboratory were juveniles. The only pheromone they emitted was a kind of simple signal. To use a verbal analogy, the only signal they gave was \"I'm leaving."
+		],
+		[
+			"msg",
+			305854,
+			"As they were confined, their mind only stayed at the stage of “go back home”. So, when their command of “go back home” is satisfied, the transmitting substances will change into something like “knock the door”.",
+			"因为它们被拘禁了起来，所以思维只停留在“回家”这个阶段，而当它们满足了回家的命令后，信息素就会改变性状变成“敲门”之类后续的动作信号。",
+			"彼らは閉じこめられているから、思考が「帰る」という段階で停まってるの。そして帰る命令がクリアされると、フェロモンの性質が変化して「ドアをノックする」のような次の動作の信号になる。",
+			"그들은 갇혀 있으니까, 사고가 「돌아가」라는 단계에서 멈춰 있는 거야. 그리고 돌아가라는 명령이 클리어되면, 페로몬의 성질이 변화해서 「문을 노크한다」 같은 다음 동작의 신호가 되는 거지.",
+			null,
+			null,
+			"Because they are confined, they think only at the stage of \"go home\", and when they satisfy the command to go home, the pheromones will change their traits to \"knock\" and other subsequent action signals.",
+			"They are locked in, so their thinking stops at the \"leave\" stage. And when the order to leave is cleared, the nature of the pheromone changes to signal the next action, like \"knocking on the door\"."
+		],
+		[
+			"msg",
+			305855,
+			"We're only tracing the first stage, that's why we lost the target as it changes into the second stage.",
+			"也就是说我们的追踪点只停留在了第一个阶段，而无法搜索到第二阶段的信号，所以就造成了中断。",
+			"つまり、私たちの追跡装置は第1段階に留まっていて、第2段階の信号を捜索できないの。だから切れてしまったんだわ。",
+			"즉, 우리의 추적 장치는 제1단계에 머물러 있고, 제2단계의 신호를 수색할 수 없는 거야. 그래서 끊어진 거란 말이지.",
+			null,
+			null,
+			"This means that our tracking point only stays in the first stage and cannot search for the signal of the second stage, so it causes an interruption.",
+			"That means our tracking device is stuck on phase 1 and can't search for a phase 2 signal. That's why it cut out."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305856,
+			"Well, your tracker is the one to blame.",
+			"……那不还是你的仪器不靠谱嘛！",
+			"……それってあなたの装置がダメなんじゃないの！",
+			"……그건 당신 장치가 문제인 거 아니야!",
+			null,
+			null,
+			"...... that is not still your instrument is not reliable!",
+			"...... That doesn't mean your equipment is bad!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305857,
+			"It's just a device. We can't rely solely one devices to find living things.",
+			"我制作的只是机器罢了，不是生命。生命所能表现出来的东西不是光靠机器就可以解读的……",
+			"私が作ったのは機械であって、命じゃないわ。命が生み出すものを機械だけで読み取れるわけじゃないの……。",
+			"내가 만든 건 기계일 뿐, 생명이 아니야. 생명이 만들어내는 것을 기계만으로 읽어낼 순 없는 거지…….",
+			null,
+			null,
+			"What I make is just a machine, not a life. What life can manifest is not something that can be interpreted by machines alone ......",
+			"I built the machine, not life. You can't read what life produces with just a machine. ......"
+		],
+		[
+			"msg",
+			305858,
+			"But if we admit that the Houkai creatures are living things, does that mean they have souls just like us?",
+			"但如果承认了它们作为生命的特性…那就代表着崩坏生物也是和我们人类一样的生命么？",
+			"いや……でももしそれらを命の特徴として認めてしまったら……崩壊生物も私たち人類と同じ生命体と認めることに？",
+			"아니…… 하지만 만약 그것들을 생명의 특징으로 인정해 버린다면…… 붕괴 생물도 우리 인류와 같은 생명체로 인정하게 되는 거니?",
+			null,
+			null,
+			"But if their characteristics as beings are recognized...does that mean that the collapsed creatures are also beings like us humans?",
+			"No. ...... but if we accept them as characteristics of life, then we accept ...... disintegrating organisms as the same life form as us humans?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305859,
+			"What are you mumbling?",
+			"你又在神叨些什么啊……",
+			"また何を御託ならべているのよ……。",
+			"또 무슨 엄살을 늘어놓고 있는 거야…….",
+			null,
+			null,
+			"What are you talking about again? ......",
+			"What are you talking about again ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305860,
+			"Sorry, that was my mistake. I think we need to have a new plan.",
+			"抱歉…这次是我的失误，委托就到此为止吧，看来得重新制定新的计划了。",
+			"ごめん……これは私の失敗。依頼はここまでよ。どうやらもう1度計画を練り直さなくちゃ。",
+			"미안…… 이건 내 실수야. 의뢰는 여기까지야. 어떻게 보면 다시 한 번 계획을 다시 세워야겠어.",
+			null,
+			null,
+			"Sorry...this time it was my mistake, the commission will end here, it seems to be necessary to rework a new plan.",
+			"Sorry ...... this is my mistake. So much for the request. Apparently we need to go over the plan again."
+		],
+		[
+			"msg",
+			305861,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			305862,
+			"The larvae in the lab had only one wish: they wanted to go home... Just like us...",
+			"原来那些幼虫在实验室中脑中只有一个信念么…和现在的人类一样只考虑着如何“回家”么……",
+			"あの幼虫、実験室では1つの信号しか発さなかったというのに……「帰る」を一体どう変化させたのか……。",
+			"그 애벌레는 실험실에서는 하나의 신호만 발신했었다고 하던데……돌아가다를 대체 어떻게 변화시킨 거지…….",
+			null,
+			null,
+			"So those larvae only have one belief in their minds in the lab...like humans nowadays, they only think about how to \"go home\"? ......",
+			"That larva only emitted one signal in the lab, so how in the world did it change ...... \"going home\"?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305863,
+			"Yssring...",
+			"伊瑟琳……",
+			"イザーリン……。",
+			"이자린…….",
+			null,
+			null,
+			"Estherine ......",
+			"Estherine. ......."
+		],
+		[
+			"msg",
+			305864,
+			"We're going to the martyr's ground.",
+			"再往前走就是死士的地盘了。",
+			"これ以上進むとゾンビの縄張りよ。",
+			"여기서 더 나아가면 좀비의 영역이야.",
+			null,
+			null,
+			"Further along is the land of the dead.",
+			"Any further and you're in zombie territory."
+		]
+	]
+}

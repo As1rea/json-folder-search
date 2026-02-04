@@ -1,0 +1,1243 @@
+{
+	"1253": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10180"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV14_WindWooshA"
+		],
+		[
+			"msg",
+			307085,
+			"Here it is, the bridge to connect Nagazora and Academic City, also the shortcut to the Academic City.",
+			"就是这里了，连接长空市与学园都市的大桥，也是去学园都市最快的路线。",
+			"着いたわ。ここが長空市と学園都市をつなぐ橋で、学園都市に行くための最短ルートよ。",
+			"도착했어. 여기가 장공시와 학원 도시를 연결하는 다리이고, 학원 도시로 가기 위한 최단 루트야.",
+			"Here we are. This is the bridge connecting Nagazora and Academy City. It's the shortest route to Academy City.",
+			null,
+			"This is the bridge that connects Nagumo City to Gakuen City, and it is the fastest route to Gakuen City.",
+			"Here we are. This is the bridge connecting Changkuu City and the school city, and it is the shortest route to the school city."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307086,
+			"Himeko…are we really doing this?",
+			"姬子…真的要和律者决一死战么？",
+			"姫子……本当に律者を殺すのか？",
+			"히메코…… 정말 율자를 죽일 거야?",
+			"Himeko... Are we really about to fight a Herrscher to the death?",
+			null,
+			"Himeko...do you really want to fight the Ruler to the death?",
+			"Himeko...... really kill the scribes?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307087,
+			"Why ask, are you afraid now?",
+			"怎么，这么快就要打退堂鼓了么？",
+			"あら、どうしたの？早くも怖気づいた？",
+			"어머, 왜 그래? 벌써 겁먹은 거야?",
+			"Oh, what's the matter? Are you backing out already?",
+			null,
+			"What, are you going to back out so soon?",
+			"Oh, what's the matter? Are you already scared?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307088,
+			"No…I heard Bronya mentioned your relation with Herrschers, both were your students, is it the reason of your obsession…...",
+			"不…我听布洛妮娅说过你与律者的关系，她们两都是你以前的学生，你对于律者的执念是否就是因为……",
+			"いや……ブローニャが、あんたと律者の関係について話しているのを聞いたことがあるんだ。2人とも以前はあんたの生徒だったんだろ？あんたが律者にこだわっているのは……。",
+			"아니… 브로냐가, 너와 율자의 관계에 대해 이야기하는 걸 들은 적이 있어. 둘 다 예전에는 네 제자였잖아? 네가 율자에 집착하는 건……",
+			"No.... I heard from Bronya about your relationship with the Herrschers... They used to be your students, right? That's why you're so obsessed with them....",
+			null,
+			"No...I heard from Bronya about your relationship with the Rulers, both of them are your former students, is your obsession with the Rulers because ......",
+			"No,...... I've heard Bronya talking about your relationship with the scribes, both of whom used to be your students, right? Your obsession with the scribes is ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307089,
+			"What we used to be is meaningless, now they are all enemy to human beings.",
+			"以前的我们是什么样子都没有意义了，现在她们只是人类的敌人罢了。",
+			"過去の関係なんて何の意味もないわ。今の彼女たちは人類の敵でしかない。それが真実よ。",
+			"과거의 관계따윈 아무 의미도 없어. 지금의 그들은 인류의 적일 뿐이야. 그게 진실이야.",
+			"My relationship with them in the past doesn't matter. Now they're nothing but the enemies of humanity.",
+			null,
+			"It doesn't matter what we were like before, now they are just the enemies of humanity.",
+			"Past relationships mean nothing. They are nothing but enemies of humanity today. That's the truth."
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV15_WindWooshB"
+		],
+		[
+			"msg",
+			307090,
+			"So far the most important thing is to arrive Academic City safely, after this bridge, it would be the Herrscher Cave, if you want to go back you should leave now.",
+			"目前最重要的是保住命到达学园都市，过了这座大桥后是连灰蛾部队也没有踏足过的律者巢穴，要回头就趁现在吧。",
+			"今何よりも重要なのは、生きたまま学園都市に辿り着くこと。この橋を渡った先は、灰蛾部隊ですら足を踏み入れたことのない律者の巣窟よ。後戻りするなら今のうちね。",
+			"지금 가장 중요한 건 살아서 학원 도시에 도착하는 거야. 이 다리를 건너면 회아 부대조차 발을 들인 적 없는 율자'의 소굴이야. 후퇴할 거라면 지금이 마지막 기회야.",
+			"The most important thing now is to reach Academy City alive. Beyond this bridge is a den of Herrschers where not even the Ash Moth Unit has set foot. If you want to go back, now's your chance.",
+			null,
+			"The most important thing now is to stay alive and reach Academy City. After this bridge is the Lair of the Ruler, which even the Grey Moth forces have never set foot in, so turn back now.",
+			"The most important thing now is to reach the school city alive. Beyond this bridge is a den of scribes where not even the Ash Moth Unit has set foot. If you want to go back, now is the time."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307091,
+			"Huh! Don't think less of me! I won't step back when I say I will go! Go!",
+			"哼！少看不起人！既然说了要去我是不会退缩的！走！",
+			"ハッ！バカにするなよ！行くと決めたら、後戻りなんてするもんか！行くぞっ！",
+			"하! 우릴 얕보지 마라! 갈 거라면 후퇴 같은 건 없어! 간다!",
+			"Hmph! Don't look down on people! Since I said I'm going I won't back down! Let's go!",
+			null,
+			"Hmph! Don't look down on people! Since I said I'm going I won't back down! Go!",
+			"Ha! Don't be stupid! Once we decide to go, there's no turning back! Let's go!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307092,
+			"You might not be able to cross the  bridge with such a personality.",
+			"你这种莽撞的性格恐怕连这座桥都没过就没命了。",
+			"そんな無鉄砲な性格だと、この橋を渡り終える前に命を落とすわよ。",
+			"그 무모한 성격 탓에 이 다리를 건너기도 전에 목숨을 잃을 거야.",
+			null,
+			null,
+			"I'm afraid that your reckless character will not even cross this bridge before you die.",
+			"With such a reckless nature, you'll lose your life before you finish crossing this bridge."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307093,
+			"What are you saying!",
+			"你说什么！",
+			"ど、どういう意味だよ！",
+			"뭐, 무슨... 무슨 뜻이야!",
+			"Huh? What do you mean by that!?",
+			null,
+			"What did you say!",
+			"What do you mean?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV14_WindWooshA"
+		],
+		[
+			"msg",
+			307094,
+			"See how many Honkai creatures over there, do you want us to run straight to them!",
+			"你看看那边桥上的崩坏生物的数量，你难道想让我们堂而皇之地冲过去么？",
+			"あの橋の上にいる崩壊生物の数を見てみなさい。正面から突っ込んで勝てる自信ある？",
+			"저 다리 위의 붕괴 생물 숫자나 보라고. 정면으로 돌진해서 이길 자신 있어?",
+			null,
+			null,
+			"Look at the number of collapsed creatures on the bridge over there, do you want us to rush over there in a dignified manner?",
+			"Look at the number of disintegrating organisms on that bridge. How confident are you that you can go in head-on and win?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307095,
+			"Eh…fine! Then, what's your plan!",
+			"呃…啧！好吧，那你有什么计划么？",
+			"うっ……！分かったよ。ただ、そう言うからには何かプランがあるんだろ？",
+			"으윽……! 알겠어. 하지만 그렇게 말하는 걸 보면 무슨 계획이 있는 거지?",
+			null,
+			null,
+			"Uh...tsk! Okay, so do you have any plans?",
+			"Ugh ......! Okay, I get it. But since you say so, you must have a plan, right?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307096,
+			"Take it! Put these explosives on this side of the bridge, to drive away the Honkai creatures with the bombing, during which we will go across it.",
+			"拿着！把这些炸药装在大桥的这一端，利用爆炸声引开桥上的崩坏生物，然后我们乘机穿过去。",
+			"はい、これ。この爆薬を橋の……そうね、あの辺に仕掛けるの。で、奴らが爆発に気を取られているうちに、横を通り抜ければいいわ。",
+			"네, 이거. 이 폭약을 다리의…… 그러네, 저쪽에 설치하는 거야. 그러면 녀석들이 폭발에 정신이 팔린 사이에, 옆으로 지나가면 돼.",
+			"Here you go. We're going to plant these explosives on the bridge. And while they're distracted by the explosion, we can make our away across.",
+			null,
+			"Take it! Load these explosives on this end of the bridge, use the explosion to distract the disintegrating creatures on the bridge, and then we'll take the opportunity to cross over.",
+			"Here you go. We're going to plant these explosives on the bridge ......, right there. And while they're distracted by the explosion, we can go through the side."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307097,
+			"Go across it…This bridge has several kilometres, are you sure!?",
+			"穿过去…这座大桥可是有好几公里长，你确定要从这里冲过去！？",
+			"通り抜けるったって……この橋、何キロあると思ってんだよ。さすがに遠くにいる奴らまで欺けないだろ！？",
+			"지나간다니…… 이 다리가 몇 킬로나 된다고 생각하는 거야? 설마 멀리 있는 녀석들까지 속일 수는 없을 거라고!",
+			"Cross... This bridge is several kilometers and you want us to run across it? Are you serious?",
+			null,
+			"Crossing ... this bridge is several kilometers long, you sure you want to rush through here!",
+			"Even if we go through ......, how many kilometers do you think this bridge is? You can't fool even those who are far away!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307098,
+			"Don't worry, the noise should able to take them away in such a silent city…what I worried are those monsters on the other side, can be troublesome.",
+			"放心吧，这死寂的城市里这些动静足够把桥上的怪物都引走了…我担心的反而是对面的崩坏生物，如果吸引到它们就麻烦了。",
+			"大丈夫よ、これだけ静まり返った街だもの、爆薬ひとつで橋にいる怪物どもは全て引きつけられるわ。ただ唯一心配なのは、橋を渡った先の崩壊生物ね。彼らまで引きつけてしまったら、タイミング次第で囲まれるわ。",
+			"괜찮아, 이렇게 조용한 마을인데 폭약 하나면 다리에 있는 괴물들은 모두 끌어들일 수 있어. 단 하나 걱정인 건, 다리를 건너편의 붕괴 생물이야. 그들까지 끌어들여 버리면 타이밍에 따라 포위당할 거야.",
+			null,
+			null,
+			"Don't worry, all this commotion in this dead city is enough to lure away all the monsters on the bridge...what I'm worried about instead is the collapsing creatures across the street, it would be a problem if they were attracted to them.",
+			"Don't worry, the city is so quiet, one explosive is enough to attract all the monsters on the bridge. The only thing I'm worried about is the disintegrating organisms across the bridge. If we attract them too, we will be surrounded depending on our timing."
+		],
+		[
+			"msg",
+			307099,
+			"See how lucky we are.",
+			"所以只能看运气了。",
+			"つまり、運頼みってこと。",
+			"즉, 운에 맡기자는 거지.",
+			"In other words, it's a gamble.",
+			null,
+			"So it's just a matter of luck.",
+			"In other words, it's all about luck."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV15_WindWooshB"
+		],
+		[
+			"msg",
+			307100,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307101,
+			"Ok, what are we doing here, let's move.",
+			"好了，别愣着了，行动起来吧。",
+			"ほら、ボヤボヤしないで、さっさと動くわよ。",
+			"자, 빈둥거리지 말고 빨리 움직여.",
+			null,
+			null,
+			"Okay, don't freeze, take action.",
+			"Come on, don't blabber on, let's get moving."
+		],
+		[
+			"msg",
+			307102,
+			"Emesa you go with Kyushou, remember, just place the explosive, avoid any fights, let's regroup in 20 minutes under the bridge.",
+			"埃米沙你和九霄一起，记住，只要安放炸药即可，尽量避免与崩坏生物的战斗，我们20分钟后在桥下集合。",
+			"エミザ、あなたは九霄と一緒にいて。いい？爆薬を仕掛けるだけよ。崩壊生物との戦闘はできるだけ避けなさい。20分後に橋の下に集合よ。",
+			"에미자, 너는 큐쇼와 함께 있어. 알겠지? 폭약을 설치하기만 해. 붕괴 생물과의 전투는 최대한 피하라고. 20분 후에 다리 아래에서 집합이야.",
+			null,
+			null,
+			"Emesa you and Kyuushou together, remember, just plant the explosives, try to avoid fighting with the collapsing creatures, we will meet under the bridge in 20 minutes.",
+			"Emesa, you stay with Kyuushou. Okay? We're just going to set off the explosives. Avoid fighting the disintegrator if at all possible, and meet me under the bridge in 20 minutes."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307103,
+			"What about you! Now you make me worried most!",
+			"那你怎么办！现在最让人担心的可是你自己啊！",
+			"おいおい、姫子はどうするんだ！？あんたは無茶できる身体じゃないんだぞ！",
+			"야, 야! 히메코는 어떻게 하는 거야!? 넌 무리할 몸이 아니라고!",
+			null,
+			null,
+			"What about you? Now the most worrying thing is yourself!",
+			"Hey, hey, what about Himeko! You're not in a condition to do anything reckless!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307104,
+			"Don't worry, I will be fine, you'll just make it the situation more complicated.",
+			"放心吧，再怎么不济我也能保证自己脱身，你在的话反而会碍手碍脚。",
+			"安心しなさい。どんなに不調でも自分の身くらいは守れるから。それに、あなたがいたら逆に足でまといなのよ。",
+			"안심하세요. 아무리 몸 상태가 안 좋아도 제 몸 정도는 지킬 수 있으니까. 게다가 당신이 있으면 오히려 발목만 잡히니까요.",
+			null,
+			null,
+			"Don't worry, no matter how bad I can also ensure that I get out, you will be in the way instead.",
+			"Don't worry. I can at least protect myself, no matter how poorly I'm doing. Besides, if you were here, you'd be a liability."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307105,
+			"You! Fine! Let's go!",
+			"你！行！我们走！",
+			"ちっ、お前ってヤツは！もう心配なんかしてやるもんか！",
+			"쳇, 이 자식이! 이젠 걱정 같은 거 안 해줄 거야!",
+			null,
+			null,
+			"You! Yes! Let's go!",
+			"Damn you, you son of a bitch! I'm not going to worry about you anymore!"
+		]
+	],
+	"1254": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307106,
+			"Idiot! Supid! OO Himeko! I was so kind! Damn!",
+			"笨蛋！白痴！姬子那个OO！好心当成驴肝肺！去死吧！",
+			"バカっ！アホっ！年増ッ！！せっかくの好意を台無しにしやがって！死んじゃえばいいのに！",
+			"바보야! 멍청이! 늙은이야!! 내가 애써 호의를 베풀었는데 다 망쳐놓고! 죽어버려라!",
+			"Moron! Idiot! That old ☆☆ just tramples all over my goodwill!! I hope she dies!",
+			null,
+			"Idiot! Idiot! Himeko that OO! Good intentions for a donkey's heart! Go to hell!",
+			"Stupid! Idiot! You're old! You're ruining all my goodwill! I hope you die!"
+		],
+		[
+			"choice",
+			[
+				308187,
+				"It's long time since I heard Emesa say four letter words.",
+				"好久没听到埃米沙爆粗了。",
+				"エミザの暴言を聞くのも久しぶり。",
+				"에미자의 폭언을 듣는 것도 오랜만이네.",
+				null
+			],
+			[
+				308202,
+				"Himeko is worried about your safety.",
+				"姬子也是为了你的安全着想。",
+				"姫子もあなたの安全を考えてる。",
+				"히메코도 너의 안전을 생각하고 있어.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1255,
+			1256
+		]
+	],
+	"1255": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307107,
+			"Even you! Don't think I don't dare yell at you!",
+			"你也要惹我是不是！别以为我不敢骂你！",
+			"九霄まで私を怒らせるつもりか！？九霄だろうと容赦なく怒鳴りつけるからな、私は！",
+			"큐쇼까지 날 화나게 할 셈이야!? 큐쇼라도 가차 없이 소리칠 거야, 나는!",
+			null,
+			null,
+			"You want to mess with me too, don't you! Don't think I dare to scold you!",
+			"You're going to shout at me all the way to Kyuushou! I'll yell at you mercilessly, even if it's Kyuushou, I will!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1257
+		]
+	],
+	"1256": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307108,
+			"For my sake? Then you should lie on the bed!",
+			"为我着想？为我着想就好好在床上躺着！",
+			"私のことを考えているだって？なら、横になって休めってんだ！",
+			"내 걱정을 한다고? 그럼 누워서 쉬라고!",
+			null,
+			null,
+			"Thinking of me? For my sake, just stay in bed!",
+			"You say you're thinking about me? Then lie down and get some rest!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1257
+		]
+	],
+	"1257": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307109,
+			"I had it enough recently!Everyone is so self-centric! What the hell! Who take care of my mood as a doctor! A group of OO!",
+			"最近接二连三的事情早就积了一肚子火了！每个人都那么自我中心！赶着投胎啊！有谁考虑我这个医疗员的心情了！一群臭OO！",
+			"最近、次から次に色んなことが起きて、もう我慢の限界なんだ！どいつもこいつも自己中ばっか！さっさと死んじゃえばいいんだ！誰も衛生兵の気持ちなんて分からないんだろ！？全員、×××にでもなって×××ちまえ！",
+			"요즘, 자꾸만 일이 터져서 이젠 참을 수 없어! 다들 이기적들 뿐이야! 빨리 죽어버려! 아무도 위생병 마음 같은 건 모르잖아!? 전부 ××× 돼서 ×××버려!",
+			"Lately, I've been going through one thing after another, and I'm running out of patience! They're all so selfish! They should just die! Nobody knows how a medic feels! I hope you all get ☆☆ed!",
+			null,
+			"The recent spate of things have long been a fire! Everyone is so self-centered! In a hurry to be reincarnated! Who has considered my feelings as a medical officer! A bunch of stinking OO!",
+			"Lately, I've been going through one thing after another, and I'm running out of patience! They're all so selfish! They should just die! Nobody knows how a medic feels! You should all be xxxxed and xxxxed!"
+		],
+		[
+			"msg",
+			307110,
+			"Huh! Huh! I'm so pissed off!",
+			"呼！呼！气死我了！",
+			"フー！フー！イライラする！",
+			"후! 후! 짜증나!",
+			null,
+			null,
+			"Whew! Phew! I'm so pissed off!",
+			"Whoo! Whoo! Frustrating!"
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307111,
+			"Huh! Much better……",
+			"呼！舒服了……",
+			"フー……あー、スッキリした。",
+			"후…… 아, 시원하네.",
+			null,
+			null,
+			"Whew! Get comfortable ......",
+			"Hoo ...... Ah, that's refreshing."
+		],
+		[
+			"msg",
+			307112,
+			"Are you done? Go! Go abck!",
+			"炸药都装完了吧？走！回去！",
+			"爆薬は仕掛け終わったか？よし、橋の下に行こう！",
+			"폭약은 설치 끝났어? 좋아, 다리 아래로 가자!",
+			"Are you done setting the explosives? All right, let's go under the bridge!",
+			null,
+			"Have you finished loading the explosives? Go! Go back!",
+			"Are you done setting the explosives? All right, let's go under the bridge!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10180"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307113,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			307114,
+			"……",
+			"……",
+			"…………。",
+			"………….",
+			null
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307115,
+			"It's been 20 minutes, where's Himeko?",
+			"已经过了20分钟了，姬子怎么还没回来？",
+			"もう20分は経ったはず。姫子のヤツ、どうして来ないんだ？",
+			"벌써 20분은 지났을 텐데. 히메코 녀석, 왜 안 오는 거야?",
+			"It's been twenty minutes. Why isn't Himeko back yet?",
+			null,
+			"It's been 20 minutes, how come Himeko hasn't come back yet?",
+			"It must have been 20 minutes already. That Himeko guy, why isn't he coming?"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307116,
+			"Things might go wrong…No! We need to find her!",
+			"难道是出事了…不行！我们去找她！",
+			"まさか、何かあったんじゃ……くそっ！探しに行くぞ！",
+			"설마 무슨 일이라도 생긴 건…… 젠장! 찾으러 가자!",
+			"Did something happen...? Damn it, let's go find her!",
+			null,
+			"Is something wrong...no! Let's go find her!",
+			"No way, something's up. ...... Damn it! Let's go find him!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307117,
+			"Calm down, you guys were too slow, so I went to see the situation of the bridge.",
+			"不要总是一惊一乍的，是你们两个的速度太慢了，所以我刚才去调查了一下大桥附近的情况。",
+			"そんなすぐ慌てないでくれる？あなたたちがあまりにも遅いから、周囲の様子を見て来てたのよ。",
+			"그렇게 금방 당황하지 말아줄래? 당신들이 너무 늦어서 주변 상황을 살피고 있었던 거야.",
+			"Don't jump to conclusions. I was just investigating the bridge because you two took too long.",
+			null,
+			"Don't always be amazed, it's you two who are too slow, so I just went to investigate the situation near the bridge.",
+			"Can you not panic so quickly? I was just coming to take a look around because you guys were so slow."
+		],
+		[
+			"bgm",
+			71
+		],
+		[
+			"msg",
+			307118,
+			"Later when it's exploded we need to find a place to hide near the bridge, there's a good place in the pier, can be a good option, follow me.",
+			"一会炸药引爆的时候我们需要找一个靠近大桥的地方隐蔽，在桥墩的位置有一块可以立足的地方，是个不错的选择，跟我来吧。",
+			"爆薬の起動後、すぐ動けるよう近くに隠れる必要があるわ。橋脚の辺りに丁度いい足場があったから、そこに隠れましょう。ついて来てちょうだい。",
+			"폭약을 가동한 후, 바로 움직일 수 있게 근처에 숨어 있을 필요가 있어. 교각 근처에 딱 좋은 발판이 있었으니까, 거기에 숨도록 하자. 따라와 줘.",
+			null,
+			null,
+			"A time when the explosives detonated we need to find a place close to the bridge to hide, in the location of the bridge piers there is a piece of place to stand, is a good choice, come with me.",
+			"We need to hide nearby so that we can move quickly after the explosives are activated. I found a good foothold around the piers, so we'll hide there. Follow me."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307119,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			307120,
+			"……",
+			"……",
+			"…………。",
+			"………….",
+			null
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307121,
+			"Ok, it starts. Be careful, don't expose yourself to Honkai creatures.",
+			"好了，开始引爆。你们蹲下身子注意隐蔽，不要被崩坏生物发现。",
+			"よし、爆発させるわよ。身を低くして隠れてちょうだい。崩壊生物に見つからないようにね。",
+			"좋아, 폭발시킬게. 몸을 낮춰 숨어 있어. 붕괴 생물에게 들키지 않도록 해.",
+			null,
+			null,
+			"Okay, start detonating. You guys crouch down and take cover so you don't get spotted by the disintegrating creatures.",
+			"Okay, I'm going to detonate it. Stay low and take cover. Don't let the disintegrator find you."
+		],
+		[
+			"msg",
+			307122,
+			"3, 2, 1!",
+			"3、2、1！",
+			"3、2、1！",
+			"3、2、1!",
+			null,
+			null,
+			"3, 2, 1!",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			307123,
+			"Boom!!!!!",
+			"轰隆！！！！！",
+			"ドォオオオオン！！！！！",
+			"도오오오온!!!!!",
+			null,
+			null,
+			"Rumble ！！！！！",
+			"Doooooooooooooooooong ！！！！！"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			307124,
+			"Growl!!!!",
+			"吼吼吼！！！！",
+			"グル……ウォオオオンッ！！！",
+			"그르......우오오온쓰!!!",
+			null,
+			null,
+			"rolleyes ！！！！",
+			"Guru...... woooooooooooong!!!!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307125,
+			"Woo…so many! I kind of understand Etherine now……",
+			"呜…这么多！稍微有点理解伊瑟琳害怕的心情了……",
+			"ゲッ……こんなにたくさん！イザーリンがビビる気持ちも少し分かるな……。",
+			"젓… 이렇게 많다니! 이자린이 비빌 기분도 조금은 알겠네…….",
+			null,
+			null,
+			"Oooh...so much! Slightly understand Estherine's scared mood ......",
+			"Geez ...... so many! You can understand a little bit why Estherine is freaking out. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307126,
+			"Shut up!",
+			"别说话！",
+			"シッ、声を出さないで。",
+			"쉿, 소리 내지 마.",
+			null,
+			null,
+			"Don't talk!",
+			"Shh, don't make a sound."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307127,
+			"Growl!!!!!",
+			"吼吼吼！！！！！",
+			"フシュー、グォオオオ！！！",
+			"훗후, 꾸오오오오!!!",
+			null,
+			null,
+			"rolleyes ！！！！！",
+			"Fshoo, guooooooooo!!!!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV19_ExplosionOneShot"
+		],
+		[
+			"msg",
+			307128,
+			"Boom!!!",
+			"轰隆隆隆！！！",
+			"ドンッ、ドンッドンッ！！！",
+			"둥, 둥둥둥!!!",
+			null,
+			null,
+			"Rumble Rumble!!!",
+			"Don't, don't, don't, don't!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			307129,
+			"Growl……",
+			"吼吼吼……",
+			"グルル……。",
+			"그르르…….",
+			null,
+			null,
+			"rolleyes ......",
+			"Grrl. ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307130,
+			"Now there're less of them, let's go.",
+			"崩坏生物的数量减少了，我们走。",
+			"崩壊生物が一か所に固まったわ。行くわよっ！",
+			"붕괴 생물이 한 곳에 모였어. 가자!",
+			null,
+			null,
+			"The number of avalanche creatures is down, let's go.",
+			"The disintegrating organisms have all clumped up in one place. Let's go!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307131,
+			"Ok…ok!",
+			"好…好！",
+			"あ……ああっ！",
+			"아…… 아아악!",
+			null,
+			null,
+			"Good...good!",
+			"Ah ...... ah!"
+		]
+	]
+}

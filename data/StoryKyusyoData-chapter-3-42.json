@@ -1,0 +1,666 @@
+{
+	"1144": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306137,
+			"Are you leaving for ME, Seele?",
+			"希儿，你们是准备朝ME社进发了么？",
+			"ゼーレ、ME社内の探索に出るの？",
+			"제레, ME사 내부 탐색에 나가는 거야?",
+			null,
+			null,
+			"Hill, are you guys ready to head towards ME Society?",
+			"Seele, are you going out to explore within ME?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306138,
+			"Yes, we must hurry up and find Bronya.",
+			"嗯，是啊。时间不多了，我们必须尽快找到姐姐大人。",
+			"うん、そうだよ。時間もあまりないし、なるべく早くお姉ちゃんを見つけないと。",
+			"응, 그래. 시간도 별로 없고 가능한 한 빨리 언니를 찾아야 하니까.",
+			null,
+			null,
+			"Well, yeah. Time is running out, we must find Sister-sama as soon as possible.",
+			"Yeah, that's right. We don't have much time, and we need to find your sister as soon as possible."
+		],
+		[
+			"msg",
+			306139,
+			"What's up? You want to join as well?",
+			"怎么了？难道你也要加入突击队么？",
+			"ん、どうしたの？まさか……イザーリンも突撃隊に入りたいとか？",
+			"음, 왜 그래? 설마......이자린도 돌격대에 들어오고 싶다든가?",
+			null,
+			null,
+			"What's going on? Are you going to join the commandos too?",
+			"Hmm, what's up? Don't tell me ...... Estherine wants to join the assault team too?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306140,
+			"No, I didn't mean that. I have a request for you. It's about those ME mecha that went on rampage.",
+			"不…不是这个意思，我有一个委托想要让你们帮忙。是关于ME社中这些暴走的机甲相关的内容。",
+			"いや……あ、あり得ないから！……実は一つお願いがあるの、ME社の暴走機甲に関連することでね。",
+			"아니... 아, 있을 수 없는 일이니까!......사실 하나 부탁이 있어, ME사의 폭주 기갑과 관련된 거야.",
+			null,
+			null,
+			"No...that's not what I meant. I have a commission I want you guys to help me with. It's about something related to these rampaging mechs in ME Society.",
+			"No. ...... Oh, because it's impossible! ...... Actually, I have one favor to ask of you, and it has to do with the runaway armor of the ME company."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306141,
+			"You want us to bring you some parts for research?",
+			"你是想让我们帮你带回一些零件进行研究么？",
+			"あー、もしかしてパーツを持ち帰って来てほしい、とか？",
+			"아, 혹시 부품을 가져다 달라는 거야?",
+			null,
+			null,
+			"Do you want us to help you bring back some parts for research?",
+			"Uh, maybe you want me to bring back a part or something?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306142,
+			"Yea, more or less. I want investigate the underlying reason so I would like you to bring me the numerical control chip after you take them out. If the control process is the root cause, I might be able to find a way to stop them.",
+			"嗯…和这个差不多。我想调查这些机甲暴走的原因，所以希望你们能在打倒它们后把残骸中的数控芯片带给我，如果是控制程序上的问题说不定我找到停下它们的方法。",
+			"うん、そう……この機甲が暴走した原因を調べたくて。だから、倒した残骸からCNCチップを持ち帰ってきてほしいの。もし制御プログラム上の問題だとしたら、止める方法が見つかるかもしれない。",
+			"응, 그래... 이 기갑이 폭주한 원인을 조사하고 싶어서. 그래서 쓰러뜨린 잔해에서 CNC 칩을 가져와 줬으면 해. 만약 제어 프로그램상의 문제라면 멈추는 방법을 찾을 수 있을지도 몰라.",
+			null,
+			null,
+			"Well...it's similar to this. I want to investigate the cause of these mechs going berserk, so I hope you can bring me the CNC chip in the wreckage after you defeat them, if it's a problem with the control program maybe I find a way to stop them.",
+			"Yeah, so ...... I wanted to find out what caused this armor to go out of control. So I need you to bring back the CNC chip from the wreckage that took it down. If it's a problem with the control program, maybe we can find a way to stop it."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306143,
+			"Ok, got it.",
+			"嗯~明白了。",
+			"うん、分かったわ！",
+			"응, 알았어!",
+			null,
+			null,
+			"Hmm~ Got it.",
+			"Yeah, I get it!"
+		]
+	],
+	"1145": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10108"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306144,
+			"The main objective of the stormtroopers is to look for any traces of Bronya in ME and also gather intel of the mecha to support the defense group.",
+			"突击组的首要任务是进入ME社内部寻找姐姐大人的下落，同时为了支援防御组的工作我们需要将调查到的机甲兵器的情报交给他们。",
+			"隊のみんな、聞いて！最優先任務はお姉ちゃんを探すことだけど、機甲兵器のパーツを守備隊に渡すのも忘れないようにね！",
+			"대원 여러분, 들어 봐! 최우선 임무는 언니를 찾는 거지만 기갑 병기의 부품을 수비대에 넘기는 것도 잊지 말자고!",
+			null,
+			null,
+			"The first task of the assault team is to enter the ME society to find the whereabouts of sister-sama, and at the same time to support the work of the defense team we need to give them the information of the investigated mecha weapon.",
+			"Squad, listen up! Our first priority mission is to find your sister, but don't forget to give the garrison the parts for the armored weapon!"
+		],
+		[
+			"msg",
+			306145,
+			"We have little info about those mecha. The only data we have is that they are built by ME and were once the main weapons that Anti-Entropy used against Houkai before the Collapse happened.",
+			"目前对于这些机甲的情报还很少，可以获知的只有它们是建造于ME社，并且在大崩坏发生之前这些兵器是逆熵与崩坏对抗的主要战力。",
+			"この機甲兵器には、みんな手を焼いてると思う。大崩壊前までネゲントロピーの主要戦力だった機甲兵器……ME社で製造されたこと以外、なぜ今動いているのかも不明。",
+			"이 기갑 병기에는 모두들 애를 먹고 있을 거야. 대붕괴 전까지 네겐트로피의 주요 전력이었던 기갑 병기... ME사에서 제조된 것 외에 왜 지금 움직이고 있는지도 불분명해.",
+			null,
+			null,
+			"There is still very little information about these mechs, all that can be known is that they were built in the ME Society and that these weapons were the main force in the fight against the Avalanche before the Great Crash.",
+			"I think we all have a lot of trouble with this armored weapon. We don't even know why it is working now, except that it was manufactured by ......me, an armored weapon that was a major force in Negentropy before the Great Collapse."
+		],
+		[
+			"msg",
+			306146,
+			"Houkai contaminate all living things on Earth and turn them into Houkai beasts. Humans are the biggest victims among all. But machines are different. They won't be influenced by Houkai Energy. Therefore gaining control of those weapons is undoubtedly beneficial.",
+			"崩坏将会侵蚀地球上生存的活体生物来将他们转变为崩坏生物，人类就是其中最大的受害者，但是机械不同，他们不会受到崩坏能的干扰，所以获得这些兵器的控制权将对我们十分有利。",
+			"けど、この機甲兵器を私たちのものにできれば、この状況を逆転できるわ！崩壊エネルギーが人類にとって最悪の毒でも、機械なら影響を受けないでしょうしね！",
+			"하지만 이 기갑 병기를 우리 것으로 만들 수 있다면 이 상황을 역전시킬 수 있어! 붕괴 에너지가 인류에게는 최악의 독이지만 기계라면 영향 받지 않을 테니까!",
+			null,
+			null,
+			"Avalanche will erode the living creatures living on Earth to transform them into avalanche creatures, humans are the biggest victims of this, but the machinery is different, they will not be disturbed by the avalanche energy, so gaining control of these weapons will be very beneficial to us.",
+			"But if we can make this armored weapon ours, we can turn this situation around! And even if the disintegrating energy is the worst poison for mankind, the machines will be unaffected!"
+		],
+		[
+			"msg",
+			306147,
+			"That's why we must find out the reason why the mecha lost control as soon as possible. This way we don't have to fight them anymore and they will be an important resources against the Houkai beasts.",
+			"所以我们必须及时找到这些机甲失控的原因，这样不仅可以减少无谓的战斗，同时也能转而帮助我们击退崩坏生物。",
+			"まぁ、この前提が覆されたら元も子もないんだけど……でも、これが成功すれば機甲との戦闘を避けられる上に、崩壊生物たちへの大きな武器にもなるわ。",
+			"뭐, 이 전제가 뒤집히면 모든 게 물거품이 되지만... 하지만 이게 성공하면 기갑과의 전투를 피할 수 있을 뿐만 아니라 붕괴 생물들에게도 강력한 무기가 될 거야.",
+			null,
+			null,
+			"So we must find the cause of these mechs going out of control in time, so that not only can we reduce needless fighting, but also turn to help us repel the collapsing creatures.",
+			"Well, if this premise is overturned, it's a lost cause. ...... But if this succeeds, it will avoid a battle with the armor and also be a great weapon against the disintegrating creatures."
+		],
+		[
+			"msg",
+			306148,
+			"That's all about the briefing. I'm not gonna preach to you so it's fine if you are not interested. Anyway, Yssring wants the numerical control chips found in the mecha scraps. Don't know what they are, but don't forget to collect them if you come across some.",
+			"好了~简单的说明大概就是这样，这种大道理不关心也无所谓啦，根据伊瑟琳所说，只要把机甲残骸中的数控芯片带回给她就行了，虽然不知道是什么东西，总之看到类似的东西就收集一下吧~",
+			"作戦の背景に興味なんてなくてもいいけど、とても重要な任務よ。イザーリンの話だと、機甲の残骸からCNCチップを持ち帰ればいいだけだから、それっぽいものを集めていきましょ！",
+			"작전 배경에 관심이 없어도 상관없지만 아주 중요한 임무야. 이자린 말로는 기갑의 잔해에서 CNC 칩을 가져오기만 하면 된다고 하니까, 그럴싸한 것들을 모아보자구!",
+			null,
+			null,
+			"Well ~ a simple explanation is probably so, this kind of big theory does not care also does not matter, according to Estherine said, as long as the mecha wreckage in the CNC chip back to her on the line, although do not know what is something, in any case, see something similar to collect it ~",
+			"You don't have to be interested in the background of the mission, but it's a very important one. According to Isserling, all we have to do is bring back CNC chips from the wreckage of the armored ship, so let's go and collect something like that!"
+		],
+		[
+			"msg",
+			306149,
+			"Let's start the mission now.",
+			"那么开始行动。",
+			"じゃあ、行動開始！",
+			"자, 작전 시작!",
+			null,
+			null,
+			"Then get moving.",
+			"Then let the action begin!"
+		]
+	],
+	"1146": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10108"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306150,
+			"Phew, battle over. The mecha were agile, but this doesn't mean they don't have any weakness, as long as we can grasp the chance.",
+			"呼，战斗结束，虽然机甲兵器的机动性很高，但是只要抓住机会还是可以找到它们的弱点的嘛~",
+			"ふぅ～戦闘終了。機甲兵器は機動性が高いけど、動きに目が慣れてくれば弱点も見えてくるものね！",
+			"후~ 전투 종료. 기갑 병기는 기동성이 높지만 움직임에 눈이 익어가면 약점도 보이네!",
+			null,
+			null,
+			"Phew, the battle is over, although the mobility of mecha weapons is very high, but as long as you seize the opportunity to find their weaknesses well ~",
+			"Phew~ the battle is over. Armored weapons are very maneuverable, but once your eyes get used to their movements, you start to see their weaknesses!"
+		],
+		[
+			"msg",
+			306151,
+			"Let's take a break and find if we can find the stuff Yssring wants. We don't have much time, please pay extra attention to search...",
+			"我们稍作休整吧，顺便从机甲的废墟中找找看有没有伊瑟琳要的东西，时间有限，所以一定要看仔细哦~",
+			"ちょっと休憩しましょ。ついでに残骸の山からイザーリンが欲しがってたものを探さなきゃ。時間が限られてるから、パパッと探さないとね。",
+			"잠깐 휴식하자. 덤으로 잔해 더미에서 이자린이 원하던 걸 찾아야 해. 시간이 제한적이니까 빨리빨리 찾아야지.",
+			null,
+			null,
+			"We take a short break, by the way, from the ruins of the mecha to find out if there is something that Estherine wants, time is limited, so be sure to look carefully Oh ~",
+			"Let's take a break. And while we're at it, we should look for something Estherine wanted in the wreckage pile. We're running out of time, so we'll have to do it in a jiffy."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306152,
+			"*Clanking*",
+			"喀拉…喀拉……",
+			"ガシャ……カラン……ゴソゴソ。",
+			"와장창...... 쨍그랑...... 쿵쿵.",
+			null,
+			null,
+			"Kara...Kara ......",
+			"Gasha......Kalan......Gosso."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306153,
+			"...",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"msg",
+			306154,
+			"I'm fed up with it... How could it be possible to rummage through a pool of scraps for a tiny chip...",
+			"好麻烦……这么多破铜烂铁中要怎么找嘛……",
+			"うわ、めんど……こんなスクラップの山からどうやって探せばいいの……。",
+			"우와, 귀찮아...... 이 고철 더미 속에서 어떻게 찾아야 하는 거야.......",
+			null,
+			null,
+			"Good trouble ...... so many broken iron in how to find well ......",
+			"Wow, how am I supposed to find it from such a pile of scrap ...... that's a pain in the ass ......."
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306155,
+			"Chip... chip... I mean, chips are fragile, I don't think they can be well preserved after such fierce battle...",
+			"数控芯片…数控芯片…话说回来芯片不都是那种一碰就坏掉的东西嘛！这样激烈的战斗中怎么可能保存的下来！",
+			"CNCチップ……CNCチップ……そういえばチップってぶつかったらすぐ壊れちゃうものなんじゃない？……そうよ、こんな激しい戦闘で残ってるわけないわ！",
+			"CNC 칩...... CNC 칩...... 그러고 보니 칩이란 게 부딪히면 바로 부서지는 거 아냐?...... 맞아, 이런 격렬한 전투에서 남아있을 리가 없잖아!",
+			null,
+			null,
+			"CNC chip ... CNC chip ... then again the chip is not the kind of thing that breaks down when you touch it! Such fierce battle how can be saved!",
+			"CNC Chip......CNC Chip......I remember that chips are supposed to break as soon as you hit them, right? ......Yes, there's no way there's any left after such a fierce battle!"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306156,
+			"I give up. Let's bring all the mecha remains back. Yssring won't go to the front line after all, she should have more than enough time to find the chips from them...",
+			"哎…算了，和我一起把这些机甲残骸都抬回去吧，反正伊瑟琳也不会上前线，让她在防御工事中慢慢找好了……",
+			"はぁ……まぁいいや。この機甲の残骸ごと担いで帰りましょ。どうせイザーリンは前線に来ないだろうし、防御陣地でゆっくり探してもらえばいいわ……。",
+			"하아...... 뭐 어쩔 수 없지. 이 기갑 잔해 통째로 들고 돌아가자. 어차피 이자린은 전선에 오지 않을 테니 방어 진지에서 천천히 찾게 하면 되겠지......",
+			null,
+			null,
+			"Hey ... forget it, and I carry these mech wreckage back, anyway, Estherine will not be on the front line, let her in the fortifications slowly find a good ......",
+			"Huh. ...... Oh well. Let's just carry this whole armored wreckage and go home. Estherine won't come to the front anyway, so we can have him search for us slowly in the defensive positions. ......"
+		]
+	],
+	"1147": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306157,
+			"Yssring, we bring you back the stuff you want.",
+			"伊瑟琳，我们把东西带回来了~",
+			"イザーリン、お土産だよ～。",
+			"이자린, 선물이야~.",
+			null,
+			null,
+			"Estherine, we've brought back the stuff~",
+			"Estherine, here's a souvenir for you!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			306158,
+			"Bang!",
+			"砰！",
+			"ドサッ！",
+			"드사악!",
+			null,
+			null,
+			"Bang!",
+			"Thud!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306159,
+			"... I don't think I've ever asked for anything but numerical control chip. What does it imply?",
+			"……我好像记得只要求把数控芯片带回来吧，这一大堆废铁是在暗示什么？",
+			"……確かCNCチップを持ち帰ってと頼んだはずだけど。このスクラップの山は何かの嫌がらせかしら？",
+			"......분명 CNC 칩을 가져오라고 부탁했을 텐데. 이 고철 더미는 무슨 심술이야?",
+			null,
+			null,
+			"...... I seem to remember only asking to bring back the CNC chip, right, what is this big pile of scrap metal implying?",
+			"...... I'm pretty sure I asked you to bring back the CNC chips. Is this scrap pile some kind of harassment?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			306160,
+			"It implies that you've got to find it yourself! We don't have time to look for a small chip for you. As you don't need to fight or have other things to do, this can keep you busy. Take your time.",
+			"暗示你得自己找！我们可没有那么多时间从这些破铜烂铁里面找到你要的小芯片，反正也不用战斗，闲着没事就慢慢找吧~",
+			"自分で探してよ！機甲の残骸からあなたの欲しがってたチップを見つけ出す余裕なんてなかったのよ。どうせ戦闘もしてないから暇でしょ、ゆっくり探して。",
+			"네가 직접 찾아봐! 기갑 잔해에서 네가 원하던 칩을 찾아낼 여유 따윈 없었거든. 어차피 전투도 안 했으니까 한가하겠지, 천천히 찾아봐.",
+			null,
+			null,
+			"Implying that you have to find it yourself! We do not have so much time to find the small chip you want from these broken iron and steel inside, anyway, do not have to fight, idle to find it slowly ~",
+			"You'll have to find it yourself! We didn't have time to find the chip you wanted in the wreckage of the armored car. You're not even fighting anyway, so you're not busy, so take your time and look."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306161,
+			"Keep me busy... Do you not know how busy I am already? I have been very busy struggling to staying at this dangerous place and overcome the terror of death...",
+			"闲着没事……我想你大概不知道我有多忙吧…要在这么危险的地方与死亡做心理斗争就已经耗费了我很大的精力了……",
+			"暇って……私がどれだけ忙しいか知らないのね……こんな危険な場所で死と隣り合わせの心理戦をやって、どれだけ神経をすり減らしていることか……。",
+			"한가하댔어...... 내가 얼마나 바쁜지 모르는 거야...... 이런 위험한 곳에서 죽음과 맞닿은 심리전을 하며, 얼마나 신경을 썩이고 있는데......",
+			null,
+			null,
+			"idle ...... I think you probably do not know how busy I am ... to do psychological struggle with death in such a dangerous place has consumed a lot of my energy ......",
+			"You don't know how busy I am ...... how nerve-wracking it is to play mind games with death in such a dangerous place.... ...."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			306162,
+			"Okay, okay. Just take a look while you are struggling. We've got to move on.",
+			"是是~那你就在作斗争的时候顺便找一找吧~我们可得继续前进了。",
+			"はいはい……じゃあ、その心理戦の合間に探してね～。こっちは探索を進めないと。",
+			"알겠어 알겠어...... 그러면, 그 심리전 틈틈이 찾아봐~. 난 탐색을 계속해야 하니까.",
+			null,
+			null,
+			"Yes yes~ Then you can look for it by the way while you are making a struggle~ We can move on.",
+			"Yes, yes, ...... Well, look for me in between those mind games~. We need to continue our search over here."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306163,
+			"Alright... But it is gruesome to look at the scraps of mecha. Hopefully the chips are not slit into two halves by your scythe...",
+			"好…好吧……不过看这些残骸的样子死状真是凄惨呢，希望数控芯片没有被你的镰刀切成两半……",
+			"分かったわ……でも、この残骸を見るに実に凄惨な死に様ね。あなたの鎌でCNCチップが真っ二つにされてなきゃいいけど……。",
+			"알았어...... 하지만 이 잔해를 보니 정말 처참한 최후였네. 네 낫으로 CNC 칩이 반으로 갈라지지 않았으면 좋겠는데......",
+			null,
+			null,
+			"Well ... well ...... but look at the appearance of these wreckage death is really miserable it, I hope the CNC chip is not cut in half by your scythe ......",
+			"Okay, I get it ...... but it's a really gruesome death to see this wreckage. I hope your scythe didn't cut the CNC chip in half. ......"
+		]
+	]
+}

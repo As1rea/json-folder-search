@@ -1,0 +1,2505 @@
+{
+	"1259": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307174,
+			"Huh…huh……",
+			"呼…呼……",
+			"ふぅ……ふぅ……。",
+			"후…… 후우…….",
+			"Hah.... Hah....",
+			null,
+			"Hoo...hoo ......",
+			"Phew. ...... Phew. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307175,
+			"Emesa, are you ok?",
+			"埃米沙，你没问题么？",
+			"エミザ、大丈夫？",
+			"에미자, 괜찮아?",
+			null,
+			null,
+			"Emesa, are you okay with that?",
+			"Emesa, are you okay?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307176,
+			"……I'm fine.",
+			"……我没事。",
+			"……大丈夫だ。",
+			"……괜찮아.",
+			null,
+			null,
+			"...... I'm fine.",
+			"...... It's okay."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307177,
+			"Ok, hold it, let's make it to the end.",
+			"嗯，再加把劲吧，既然已经来了就坚持到最后。",
+			"よし、もうひと踏ん張りよ。来たからには最後まで頑張ってちょうだい。",
+			"좋아, 한 번 더 힘내. 온 이상 끝까지 힘내 줘.",
+			"Alright. We've already come this far, so try to hold out until we make it to the end.",
+			null,
+			"Well, put more effort into it, since it has come to stick to the end.",
+			"All right, let's go one step further. Now that you're here, I want you to finish the job."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307178,
+			"Since when I need your attention……",
+			"什么时候轮到你关心我了……",
+			"余計なお世話だ……。",
+			"쓸데없는 참견…….",
+			"Since when are you supposed to be taking care of me...?",
+			null,
+			"When is it your turn to care about me ......",
+			"It's none of your business. ......"
+		],
+		[
+			"msg",
+			307179,
+			"Huh…here the fog is thicker and thicker…we won't be able to see the path ahead.",
+			"呼…这里的雾气越来越浓了…这样根本看不到前面的道路。",
+			"ふぅ……霧がますます濃くなってきたな……これじゃ目の前の道もはっきり見えやしない。",
+			"후우…… 안개가 점점 더 짙어지고 있어…… 이젠 눈앞의 길도 제대로 보이지 않아.",
+			"Whew... The fog is getting thicker and thicker... The road ahead is practically invisible.",
+			null,
+			"Whew...the fog is getting thicker here...so that you can't see the road ahead at all.",
+			"Phew,...... the fog is getting thicker and thicker,...... it's hard to see the road in front of me clearly."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307180,
+			"The space distortion caused by Honkai covers the whole city, it's quite complicated, far more difficult than we expected.",
+			"崩坏引起的空间扭曲立场把整个学园都市都覆盖了，空间的扭曲错综复杂，看来这个学园比我们想象的更难突破。",
+			"崩壊が引き起こした空間歪曲フィールドが学園全体を覆っているのよ。空間が歪曲して複雑に入り組んでいるわ。学園を見つけ出すのは、思っていた以上に手ごわそうね。",
+			"붕괴가 일으킨 공간 왜곡 필드가 학원 전체를 덮고 있는 거야. 공간이 왜곡되어 복잡하게 얽혀 있어. 학원을 찾아내는 건 생각했던 것 이상으로 어려워 보이네.",
+			"All of Academy City is being enveloped by a spacial distortion field caused by the Honkai. The distortion is really intricate. Finding our way to the school is going to be tougher than I thought.",
+			null,
+			"The spatial distortion stance caused by the collapse covered the entire academy city with intricate spatial distortions, and it seems that this academy is more difficult to break through than we thought.",
+			"The entire academy is covered by a spatial distortion field caused by the collapse. It is a complex and complicated distortion of space. Finding the school is going to be tougher than I thought."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307181,
+			"Then what should we do……can we still find it?",
+			"那要怎么办…这样不是永远找不到千羽学园了？",
+			"じゃあ、どうすんだ……このまま永遠に千羽学園を見つけられないなんてことないよな？",
+			"그럼, 어떻게 해…… 이대로 영원히 센바 학원을 찾지 못하는 건 아니겠지?",
+			"Then what should we do... Will we ever be able to find Senba Academy?",
+			null,
+			"Then what should we do...will we never be able to find Chihaya Academy?",
+			"So what are we going to do about it ...... it's not like we're going to find Senba Academy forever, is it?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307182,
+			"Don't worry, the thicker the fog is the closer we are to the centre, so the direction can't be wrong.",
+			"放心吧，雾气越浓就表示我们越接近中心区域，所以大方向一定没有错。",
+			"安心して。霧が濃くなってきたということは、私たちが中心エリアに近づいたということよ。だから、大まかな方向は間違っていないはずだわ。",
+			"안심해. 안개가 짙어졌다는 건 우리가 중심 지역에 가까워졌다는 거야. 그러니까, 대략적인 방향은 틀리지 않았을 거야.",
+			"Don't worry. If the fog is getting thicker, that means we're getting closer to the center. So we're at least sort of going in the right direction.",
+			null,
+			"Don't worry, the thicker the fog is, the closer we are to the central area, so the general direction must not be wrong.",
+			"Rest assured. The fog is getting thicker, which means we are approaching the central area. So we should be heading in the right general direction."
+		],
+		[
+			"msg",
+			307183,
+			"Also when we entered the Herrscher must noticed, even she invited us, she wouldn't let us wander around.",
+			"而且我们进入这里的时候律者肯定已经察觉到了，既然是她主动邀请我们的，就不会让我们在这里徘徊。",
+			"それに、ここに入った時点で私たちの存在に律者も気づいているでしょう。彼女から私たちを招待した以上、ここで彷徨わせたりはしないはずよ。",
+			"게다가, 여기 들어온 시점에서 우리의 존재를 율자도 눈치챘을 거야. 그녀가 우리를 초대한 이상, 여기서 방황하게 두지는 않을 테니까.",
+			"Besides, the Herrscher would have noticed our presence the moment we entered here. Since she invited us, she's not going to let us wander around.",
+			null,
+			"And the Ruler must have sensed when we entered here, and since she took the initiative to invite us, she wouldn't have let us wander around.",
+			"Besides, the scribe would have noticed our presence when we entered here. Since she invited us, she wouldn't let us wander around here."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			307184,
+			"You mean…they will guide the direction for us?",
+			"你的意思是…她们会为我们指引方向？",
+			"それってつまり……彼女らが方向を教えてくれているってことか？",
+			"그 말은 즉…… 그녀들이 방향을 알려주고 있다는 거야?",
+			null,
+			null,
+			"You mean...they will guide us?",
+			"Does that mean ...... they're giving us direction?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			307185,
+			"Yes, and not only us…the place we passed showed there was a fight there, which means Bronya showed up here.",
+			"是的，而且不仅是我们…刚才经过的地方有战斗的痕迹，这就说明布洛妮娅也曾经过这里。",
+			"そうよ。それに私たちだけじゃないわ……さっき通った場所に戦闘の痕跡があったでしょ。あれはブローニャもここを通ったという証拠よ。",
+			"그래. 게다가 우리뿐만이 아니야…… 아까 지나온 곳에 전투의 흔적이 있었잖아. 그건 브로냐도 여기를 지나갔다는 증거야.",
+			null,
+			null,
+			"Yes, and it's not just us...there are signs of battle where we just passed, which means that Bronya has also been here.",
+			"Yes, we are. And we're not alone. ...... You saw the battle scars where we just passed. That's proof that Bronya passed through here too."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307186,
+			"Bronya…that bastard……",
+			"布洛妮娅…那个抛弃大家的混蛋……",
+			"ブローニャ……皆を見捨てたバカ野郎か……ちっ。",
+			"브로냐…… 모두를 버린 바보자식인가…… 쳇.",
+			"Bronya... That jerk that left everyone behind....",
+			null,
+			"Bronya...the bastard who abandoned everyone ......",
+			"Bronya...... you stupid bastard who left everyone behind...... damn it."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307187,
+			"Bronya is very important when we fight with Herrscher, if we have the same goal we should work together, we need to find her as soon as possible.",
+			"要面对律者的话布洛妮娅是不可或缺的战力，既然目的相同没有必要各自为战，我们得尽快找到她。",
+			"律者を相手にするなら、ブローニャは必要不可欠な戦力よ。目的が同じならバラバラに戦う必要はないわ。急いで彼女を探しましょう。",
+			"율자를 상대하려면, 브로냐는 필수적인 전력이야. 목적이 같다면 흩어져서 싸울 필요 없어. 서둘러 그녀를 찾자.",
+			null,
+			null,
+			"To face the Ruler, Bronya is an indispensable battle force, since the same purpose is not necessary to fight separately, we need to find her as soon as possible.",
+			"Bronya is an indispensable force if we are to take on the scribes. We don't need to fight them apart if we have the same objective. Let's hurry and find her."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307188,
+			"Anyway I won't forgive her……",
+			"反正我是不会原谅那个家伙的……",
+			"それでも私は、アイツを許せないけどな……。",
+			"그래도 나는, 그 녀을 용서할 수 없지만…….",
+			"That doesn't matter, I still won't forgive her...",
+			null,
+			"Anyway, I will not forgive that guy ......",
+			"I still won't forgive him, though. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307189,
+			"Forget about this emotional things, see if there're other signs, if we follow Bronya's, we can find the Herrscher.",
+			"这种无聊的情感还是尽快舍弃吧，找找看周围还有没有战斗的痕迹，只要跟着布洛妮娅的足迹，就一定能够到达律者的所在。",
+			"そんなつまらない感情はさっさと捨てなさい。周囲にまだ戦闘の痕跡が残っているはずよ、それを探してちょうだい。ブローニャの足取りを追えば、きっと律者にたどり着けるわ。",
+			"그런 하찮은 감정은 얼른 버려. 주변에 아직 전투의 흔적이 남아 있을 테니, 그것을 찾아봐. 브로냐의 발자취를 쫓으면 분명 율자에게 닿을 수 있을 거야.",
+			null,
+			null,
+			"This boring emotion is better to give up as soon as possible, look around to see if there are still traces of the battle, as long as you follow the tracks of Bronya, you will certainly be able to reach the Ruler's location.",
+			"Get rid of such trivial feelings. There must be traces of the battle around you, look for them. If you follow Bronya's footsteps, you will find the scribe."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307190,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307191,
+			"Kyushou? Why are you stand here? Are you as naïve as Emesa?",
+			"九霄？还愣着干什么？难道你也和埃米沙一样幼稚么？",
+			"九霄？何をボーッとしているの？まさか、あなたまでエミザのような幼稚なことを考えているの？",
+			"큐쇼? 뭐를 멍하니 있는 거야? 설마, 너까지 에미자 같은 유치한 생각을 하고 있는 거야?",
+			null,
+			null,
+			"Kyuushou? Why are you still standing there? Are you as childish as Emesa?",
+			"Kyuushou? What are you dawdling about? Don't tell me that even you are thinking childish things like Emesa?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307192,
+			"What are you saying!?",
+			"你说什么！？",
+			"何だと！？",
+			"뭐라고!?",
+			null,
+			null,
+			"What did you say!",
+			"What the hell?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307193,
+			"Huh, finally.",
+			"哼，总算是有点精神了。",
+			"フンッ、とにかくしっかりしてちょうだい。",
+			"흥, 어쨌든 정신 차려.",
+			null,
+			null,
+			"Hm, finally some spirit.",
+			"Hmph, just get your shit together."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307194,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV15_EarRing"
+		],
+		[
+			"msg",
+			307195,
+			"……",
+			"……",
+			"…………。",
+			"………….",
+			null
+		],
+		[
+			"msg",
+			307196,
+			"Come……",
+			"来吧……",
+			"おいで——",
+			"오라——",
+			null,
+			null,
+			"Come on ......",
+			"Come here--"
+		],
+		[
+			"msg",
+			307197,
+			"Towards the truth you want……",
+			"朝着你想要的真相前进……",
+			"——あなたが求める真相に向かって進むの……。",
+			"——당신이 추구하는 진실을 향해 나아가는…….",
+			"Go towards the truth you're looking for...",
+			null,
+			"Moving toward the truth you want ......",
+			"--go forward to the truth you seek at ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307198,
+			"Kyushou? What's wrong with you?",
+			"九霄？你怎么了？",
+			"九霄？どうしたの？",
+			"큐쇼? 왜 그래?",
+			null,
+			null,
+			"Kyuushou? What's wrong with you?",
+			"Kyuushou? What's wrong?"
+		],
+		[
+			"choice",
+			[
+				308188,
+				"I heard someone call my name.",
+				"我听到有人在呼唤我。",
+				"誰かが呼んだ声が聞こえた。",
+				"누군가 부르는 소리가 들렸다.",
+				null
+			],
+			[
+				308203,
+				"I feel like I've been here before.",
+				"我感觉自己曾经来过在这里。",
+				"以前、ここに来たことある気がする。",
+				"예전에 여기에 와 본 적이 있는 것 같아.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1260
+		]
+	],
+	"1260": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307199,
+			"Hey! Where's she going!",
+			"喂！你要去哪！",
+			"おいっ！どこ行くんだ！？",
+			"야! 어디 가는 거야!?",
+			null,
+			null,
+			"Hey! Where are you going!",
+			"Hey! Where are you going?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307200,
+			"Follow her!",
+			"跟上她！",
+			"追いかけましょう！",
+			"쫓아가자!",
+			null,
+			null,
+			"Keep up with her!",
+			"Let's go after them!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307201,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			307202,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			307203,
+			"Let's end this meaningless world.",
+			"为这个无意义的世界划上句号吧。",
+			"この意味のない世界に、ピリオドを打ちましょう。",
+			"이 의미 없는 세계에, 마침표를 찍도록 하죠.",
+			null,
+			null,
+			"Let's put an end to this meaningless world.",
+			"Let's put a period on this meaningless world."
+		]
+	],
+	"1261": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10153"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			307204,
+			"Ho ho ho!!!",
+			"吼吼吼！！！",
+			"ウォオオオオッ！！！",
+			"우오오오오!!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Wo-oh-oh-oh-oh-oh-oh!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307205,
+			"Go to hell!",
+			"去死吧！",
+			"くたばれッ！",
+			"죽어버려!",
+			null,
+			null,
+			"Go to hell!",
+			"Fuck you!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV03_SwordsHit"
+		],
+		[
+			"msg",
+			307206,
+			"Bang!",
+			"砰！",
+			"バン——ッ！",
+			"방——!",
+			null,
+			null,
+			"Bang!",
+			"BANG--!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			307207,
+			"Huh…these monsters are much difficult than those in Nagazora…get her back!",
+			"呼…这里的怪物比长空市的棘手太多了…快把九霄叫回来！",
+			"ふぅ……ここのヤツら、長空市のよりだいぶ手ごわいわね……急いで九霄を連れ戻さないと！",
+			"후...... 여기 놈들, 장공시의 것보다 훨씬 강하네...... 서둘러 큐쇼를 데려오지 않으면!",
+			null,
+			null,
+			"Phew...the monsters here are much trickier than the ones in Changkong City...call Kyuushou back!",
+			"Phew ...... these guys here are a lot tougher than the ones in Changkuo City. ...... We have to hurry up and bring back Kyuushou!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307208,
+			"Himeko! How are you! Any injuries?",
+			"姬子！你怎么样！受伤了么？",
+			"姫子っ！大丈夫か！？ケガは？",
+			"히메코! 괜찮아!? 부상은?",
+			"Himeko! Are you okay! Are you hurt?",
+			null,
+			"Himeko! How are you! Are you hurt?",
+			"Himeko! Are you okay! Are you hurt?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307209,
+			"I'm ok…where's Kyushou?",
+			"别管我…九霄呢？",
+			"私に構う必要はないわ……それより九霄は？",
+			"날 신경 쓸 필요 없어...... 그보다 큐쇼는?",
+			"You don't need to worry about me. ...... More importantly, where's Kyuushou?",
+			null,
+			"Leave me alone...where is Kyuushou?",
+			"You don't need to worry about me. ...... More importantly, where's Kyuushou?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307210,
+			"She's ffine, hey! Why you are OO runing!",
+			"九霄她没事，喂！你OO瞎跑什么！",
+			"九霄ならきっと大丈夫だろ……くそっ！あいつ、どこほっつき歩いてんだ！？",
+			"큐쇼라면 분명 괜찮을 거야...... 젠장! 저 녀석, 어디를 배회하고 있는 거야!?",
+			null,
+			null,
+			"Kyuushou she is fine, hey! You OO blindly running what!",
+			"I'm sure Kyuushou will be fine. ...... Damn! Where the hell is that guy wandering off to?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307211,
+			"She must has some impression…what a weird girl, always do weird things.",
+			"她一定是对这里有印象…真是个奇怪的家伙，每次都做出一些反常的举动。",
+			"彼女には、きっとここの記憶があるのよ……本当、変わったヤツね。いつもおかしな行動をとるんだから。",
+			"그녀에게는 분명 여기의 기억이 있는 거야...... 정말, 이상한 녀석이네. 항상 이상한 행동을 하니까.",
+			null,
+			null,
+			"She must be impressed with the place...what a strange guy, doing something perverse every time.",
+			"I'm sure she has memories of this place. ...... She's a real odd one, isn't she? She always acts so strange."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			307212,
+			"Rat rat rat!!",
+			"哒哒哒！！",
+			"ダダダ——ッ！！",
+			"다다다——!!",
+			null,
+			null,
+			"Ta-da!!!",
+			"Dada--!"
+		],
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307213,
+			"This voice is!",
+			"这个声音是！",
+			"この音は！？",
+			"이 소리는!?",
+			null,
+			null,
+			"The sound is!",
+			"What is that sound!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307214,
+			"It's Bronya's gun, she's near!",
+			"是布洛妮娅的枪声，她就在附近！",
+			"ブローニャの銃声！？近くにいるはずよ！",
+			"브로냐의 총소리!? 가까이에 있을 거야!",
+			null,
+			null,
+			"It was Bronya's shot, and she was nearby!",
+			"Bronya's gunshot! She must be close by!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307215,
+			"Does she met the Herrscher!?",
+			"难道是已经遇到律者了！？",
+			"おいおい、まさかもう律者と遭遇したのか！？",
+			"어이어이, 설마 이미 율자와 조우한 건가!?",
+			null,
+			null,
+			"Could it be that the Ruler has already been met!",
+			"Oh, come on, you don't think you've already encountered the scribes!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307216,
+			"No…not Herrscher, maybe she's fighting against Honkai creatures, anyway let's go!",
+			"不…不是律者，也许是在和崩坏生物战斗，不管怎么样我们先赶过去！",
+			"いや……律者じゃないわ。おそらく崩壊生物と戦っているのよ。とにかく、急いで行ってみましょう！",
+			"아니... 율자가 아니에요. 아마 붕괴 생물과 싸우고 있는 거예요. 어쨌든, 서둘러 가보자구요!",
+			null,
+			null,
+			"No...it's not the Ruler, maybe it's fighting the Avalanche creatures, anyway let's get there first!",
+			"No, he's not a ...... scribe. He's probably fighting a disintegrating organism. Anyway, let's hurry over there!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			307217,
+			"Rat rat rat!",
+			"哒哒哒！",
+			"ダン——ッ！",
+			"댄——!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dang--!"
+		],
+		[
+			"msg",
+			307218,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV03_SwordsHit"
+		],
+		[
+			"msg",
+			307219,
+			"Bang!",
+			"砰！",
+			"カァンッ！",
+			"커앵!",
+			null,
+			null,
+			"Bang!",
+			"Kahn!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307220,
+			"There!",
+			"在那里！",
+			"あそこね！",
+			"저기야!",
+			null,
+			null,
+			"There it is!",
+			"There it is!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			307221,
+			"Rat rat rat!",
+			"哒哒哒！",
+			"ダダダッ！",
+			"다다닥!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dah dah dah!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			307222,
+			"Get away!",
+			"让开！",
+			"どくのですッ！",
+			"피하는 거예요!",
+			null,
+			null,
+			"Get out of the way!",
+			"Get out of the way!"
+		],
+		[
+			"msg",
+			307223,
+			"I must kill the Herrscher!",
+			"我一定要杀掉律者！",
+			"ブローニャは、何としてでも律者を殺します！",
+			"브로냐는, 무슨 일이 있어도 율자를 죽일 거예요!",
+			null,
+			null,
+			"I must kill the Herrscher!",
+			"Bronya will kill the scribes at any cost!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307224,
+			"Bronya! That one is…human?",
+			"布洛妮娅！和她战斗的那个是…人类？",
+			"ブローニャ！……なっ、戦ってる相手は人間か？",
+			"브로냐!...... 잠깐, 싸우고 있는 상대는 인간이야?",
+			null,
+			null,
+			"Bronya! The one fighting with her is...human?",
+			"Bronya! ......, is that a human you're fighting?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307225,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			307226,
+			"Why you're here……",
+			"为什么你在这里……",
+			"どうして、あなたがここに……。",
+			"왜, 당신이 여기에…….",
+			null,
+			null,
+			"Why are you here ......",
+			"Why are you here ......."
+		],
+		[
+			"msg",
+			307227,
+			"Theresa.",
+			"德丽莎。",
+			"テレサ。",
+			"테레사.",
+			null,
+			null,
+			"Theresa.",
+			"Teresa."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				60,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			307228,
+			"Ha!!",
+			"哈！！",
+			"ハアッ！！",
+			"하악!!",
+			null,
+			null,
+			"Ha!!!",
+			"Hah!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				7,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV03_SwordsHit"
+		],
+		[
+			"msg",
+			307229,
+			"Bang!",
+			"砰！",
+			"ガキィン——ッ！！",
+			"가키인——!!",
+			null,
+			null,
+			"Bang!",
+			"Gakiin--!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			307230,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			307231,
+			"Get away!",
+			"给我让开！",
+			"どいてください！",
+			"비켜주세요!",
+			"Get out of my way!",
+			null,
+			"Get out of my way!",
+			"Out of the way, please!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			307232,
+			"Bronya…are you also distorted by anger.",
+			"布洛妮娅…你也被愤怒扭曲了内心么。",
+			"ブローニャ……あなたも怒りで心を捻じ曲げられてしまったの？",
+			"브로냐……당신도 분노로 마음을 뒤틀려 버린 거야?",
+			"Bronya.... Are you blinded by anger?",
+			null,
+			"Bronya...are you also twisted inside by anger.",
+			"Bronya...... have you had your mind twisted by anger too?"
+		],
+		[
+			"msg",
+			307233,
+			"I won't let you fight with Kiana, there's no result.",
+			"我是不会让你和琪亚娜战斗的，这样的争斗是没有结果的。",
+			"あたくしは、あなたとキアナを戦わせたりしないわ。こんな戦い……何も生みはしないもの。",
+			"나는 당신과 키아나를 싸우게 하지 않을 거야. 이런 싸움…… 아무것도 낳지 않아.",
+			"I won't let you fight with Kiana. There's no good outcome.",
+			null,
+			"I am not going to let you fight with Kiana, such a fight is fruitless.",
+			"I will not let you and Kiana fight. This kind of fight ...... will not create anything."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			307234,
+			"Before you chose to escape…I can't change what you want to do, but you will be my enemy if you're with Herrscher!",
+			"当初是你选择了逃避…你想怎么样我无法干涉，但是如果你站在律者那边的话就是我的敌人！",
+			"あの時、あなたは逃げることを選択しました……あなたにブローニャをどうこう言う資格はありません。ですが、あなたが律者の側に立つのであれば、ブローニャの敵です！",
+			"그때 당신은 도망치기로 선택했어요……당신에겐 브로냐를 탓할 자격 없어요. 하지만 당신이 율자의 편에 선다면, 브로냐의 적이에요!",
+			"You chose to run away that time... You have no right to say anything about me. I can't change your mind, but if you're on the side of the Herrscher, you're my enemy!",
+			null,
+			"You chose to run away in the first place... I can't interfere with what you want, but you're my enemy if you're on the side of the law!",
+			"You chose to run away that time. ...... You are not qualified to say what you want about Bronya. But if you stand on the side of the scribes, you are an enemy of Bronya!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			307235,
+			"I don't care, I can't let you fight with each other, it will repeat the previous tragedy.",
+			"随你怎么想，无论如何我都不会让你们再自相残杀，不然只会重复那个时候的悲剧。",
+			"あなたがどう思おうと勝手だわ。でも、あたくしは何があってもあなたたちに殺し合いをさせたりはしない。そうじゃないと、あの時の悲劇をまた繰り返すだけですもの。",
+			"네가 어떻게 생각하든 상관없어. 하지만 아타시는 무슨 일이 있어도 너희들이 서로 죽이게 하지 않을 거야. 그렇지 않으면 그때의 비극을 다시 반복할 테니까.",
+			"I don't care. No matter what, I won't let you kill each other. Otherwise it will repeat the previous tragedy.",
+			null,
+			"Think what you want, no matter what I will not let you kill each other again, otherwise it will only repeat the tragedy of that time.",
+			"You can think what you want, but I won't let you kill each other no matter what. But I will not let you kill each other, no matter what. Otherwise, you will only repeat the tragedy of that time."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			307236,
+			"Then you will see the end of human beings!",
+			"那你就继续眼睁睁地看着人类灭亡吧！",
+			"それなら、あなたはただ黙々と人類が滅亡する瞬間を見ていればいいのです！",
+			"그렇다면, 당신은 그저 묵묵히 인류가 멸망하는 순간을 지켜보고 있으면 되는 거야!",
+			"Then you can sit back and watch humanity perish!",
+			null,
+			"Then you can continue to watch humanity perish!",
+			"Then all you have to do is just sit back and watch the human race perish!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				7,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			307237,
+			"Rat rat rat!",
+			"砰砰砰！",
+			"ダダダッ……ガンッ、カァン——ッ！",
+			"다다닥…… 강, 카앙——!",
+			"Bang Bang Bang!",
+			null,
+			"Bang Bang Bang!",
+			"Dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah-dah ...... gun, kahn--!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307238,
+			"Eh! What should we do! Should we help?",
+			"呃！怎么办！我们要去帮忙么？",
+			"おい、どうする！？加勢した方がいいのか？",
+			"야, 어떻게 할 거야!? 도와주는 게 좋을까?",
+			"Woah! What do we do?! Should we be helping her?",
+			null,
+			"Ugh! What to do! Are we going to help?",
+			"Hey, what do we do! Should we join them?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307239,
+			"It's their prolem…Even I don't want to interfere, but if this goes on other Honkai creatures will come and that's not good for us.",
+			"这是她们自己的问题…虽然不想插手，但这么打下去周围的崩坏生物被吸引过来的话对我们也没好处。",
+			"これは彼女たちの問題よ……手出しは不要、と言いたいところだけど、このまま戦い続けたら周囲の崩壊生物を引き寄せて厄介なことになるわ。",
+			"이건 그녀들의 문제야…… 간섭은 필요 없다고 말하고 싶지만, 이대로 싸우면 주변 붕괴 생물을 끌어들여 골치 아픈 일이 될 거야.",
+			"This is their problem... I don't want to intervene, but if they keep fighting, it's going to attract all the surrounding Honkai Beasts and it's going to get nasty.",
+			null,
+			"This is their own problem ... Although I do not want to intervene, but so the fight continues around the collapse of creatures are attracted to us if it is not good.",
+			"This is their problem. ...... I'd say they don't need to be messed with, but if they keep fighting, they'll attract the surrounding disintegrating organisms and it'll be nasty."
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307240,
+			"Huh! Trouble.",
+			"啧！真是些麻烦的家伙。",
+			"まったく！本当に迷惑なヤツなんだから。",
+			"정말! 진짜로 귀찮은 녀석이니까.",
+			"Hmph. They're a real nuisance.",
+			null,
+			"Tsk! What some troublemakers.",
+			"Totally! He's a real nuisance."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			307241,
+			"Rat rat rat!",
+			"哒哒哒！",
+			"ダンッ——！！",
+			"당——!!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dang--!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307242,
+			"Walk over my dead body first if you want to see Kiana.",
+			"想要见到琪亚娜就从我的尸体上跨过去。",
+			"キアナに会いたいのなら、あたくしの屍を越えて行きなさい。",
+			"키아나를 만나고 싶다면, 아타시의 시체를 넘어서 가야 해.",
+			"You'll have to step over my corpse if you want to see Kiana.",
+			null,
+			"Step over my dead body if you want to see Kiana.",
+			"If you want to see Kiana, go beyond my corpse."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			307243,
+			"If you want i!",
+			"那就成全你！",
+			"お望みどおりに！",
+			"바라던 대로!",
+			"As you wish!",
+			null,
+			"Then let's make you whole!",
+			"As you wish!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				7,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			307244,
+			"Bang!",
+			"砰！",
+			"ガキィン——ッ！！",
+			"가키인——!!",
+			null,
+			null,
+			"Bang!",
+			"Gakiin--!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				60,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			307245,
+			"You want to stop now, or start a rumble?",
+			"你们是要现在停手，还是来一场三方混战呢？",
+			"あなたたち、今すぐ戦うのを止めるか、三者入り乱れて戦うか、どっちがいい？",
+			"너희들, 지금 당장 싸움을 멈추든지 셋이 뒤엉켜 싸우든지, 어느 쪽이 좋겠어?",
+			"Would you like to stop now, or should I join in?",
+			null,
+			"Are you guys going to stop now, or have a three-way melee?",
+			"Would you guys like to stop fighting right now, or do you want a three-way fight?"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			307246,
+			"Himeko!?",
+			"姬子！？",
+			"姫子！？",
+			"히메코!?",
+			null,
+			null,
+			"Himeko!",
+			"Himeko!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			307247,
+			"Why…I just want to revenge for Seele…why you all stop me!",
+			"为什么…我只是想为希儿报仇…为什么你们一个个都要妨碍我！",
+			"なぜ、なのですか……ブローニャはただゼーレの仇を討ちたいだけなのです……どうしてあなたたちは、次から次へとブローニャの邪魔をするのですかッ！？",
+			"왜, 왜 그러는 거죠……브로냐는 단지 제레의 원수를 갚고 싶을 뿐인데……왜 너희들은 계속해서 브로냐의 방해를 하는 거죠!?",
+			"Why... I just want to avenge Seele's death... Why do you all keep getting in my way!",
+			null,
+			"Why...I just want to avenge Hsieh's death...why are you all getting in my way!",
+			"Why? ...... Bronya just wants to avenge Seele's death. ...... Why do you people keep getting in Bronya's way, one after another!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			307248,
+			"Pa!",
+			"啪！",
+			"パシンッ！",
+			"패닝!",
+			null,
+			null,
+			"Snap!",
+			"PASSHIN!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			307249,
+			"Eh!",
+			"呃！",
+			"——うっ！",
+			"——으억!",
+			null,
+			null,
+			"Ugh!",
+			"--Uh-oh!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			307250,
+			"Bronya, revenge and suicide are two things. If you really seek to die I won't stop you, but our death should be meaningful, do you forget why we start \"Moths in Fire\"?",
+			"布洛妮娅，报仇和送死是两回事。如果你要送死我不拦着你，但是我们得死必须有意义，你忘了逐火之蛾成立的初衷了么？",
+			"ブローニャ、復讐と無駄死には違うのよ。無駄死にしたいのなら止めないわ。だけど、私たちの死には意味がなくてはダメよ。火を追う蛾を設立した時の決意を忘れたの？",
+			"브로냐, 복수와 무다시니는 달라. 무다시니를 원한다면 말리지 않겠어. 하지만 우리의 죽음에는 의미가 있어야 해. 불을 좇는 나비를 설립했을 때의 각오를 잊었어?",
+			"Bronya, revenge and suicide are two different things. If you want to die in vain, I won't stop you. But our deaths were supposed to have meaning. Don't you remember the reason you started the Fire Moths?",
+			null,
+			"Bronya, revenge and death are two different things. If you want to die I won't stop you, but we have to die with meaning, have you forgotten the original purpose of the Moth by Fire?",
+			"Bronya, there is a difference between revenge and dying in vain. If you want to die in vain, I won't stop you. But our deaths must have meaning. Have you forgotten the commitment you made when you founded Moths Chasing Fire?"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			307251,
+			"Even turn in ashes, we will die in the way to the light.",
+			"就算是化为灰烬，也要死在追逐光芒的道路上。",
+			"たとえ灰燼に帰しても、光を追い求める道で死ぬ。",
+			"비록 재가 되어 돌아가더라도, 빛을 좇는 길에서 죽겠다.",
+			"Even if they burn to ashes, they die on the path in pursuit of the light.",
+			null,
+			"Even if they turn into ashes, they will still die on the road of chasing the light.",
+			"Even if they are burned to ashes, they die on the road in pursuit of the light."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			307252,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			307253,
+			"Too late…my light went out.",
+			"已经太晚了…属于我的光芒已经熄灭了。",
+			"ダメです、もう手遅れです……ブローニャの光は、とうに消えてしまいました。",
+			"안 돼요, 이미 늦었어요……브로냐의 빛은 이미 꺼져버렸어요.",
+			"It's too late... My light has long since extinguished.",
+			null,
+			"It's too late...the light that belonged to me has been extinguished.",
+			"No, it's too late. ...... Bronya's light has long since gone out."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			307254,
+			"Bronya…if the reason for you to fight against Herrscher is to seek death, do you think you can go back to Seele afterwards, you're wrong, Seele won't want to see you like this!",
+			"布洛妮娅…你想要与律者战斗就是为了寻死么，你以为死掉之后就能回到希儿的身边么，那你就大错特错了！希儿根本不想看到你现在的样子！",
+			"ブローニャ……あなたが律者と戦うのは死ぬためなの？あなたが死んだら、ゼーレのもとに帰れるとでも思っているの？……違う、そんなの大間違いよ！ゼーレは、今のあなたみたいな姿を見たいなんて思わない！",
+			"브로냐……네가 율자와 싸우는 건 죽기 위해서야? 네가 죽으면 제레 곁으로 돌아갈 수 있다고 생각하는 거야?……아냐, 그건 완전히 틀렸어! 제레는 지금의 너 같은 모습을 보고 싶어하지 않아!",
+			"Bronya...... Do you fight the Herrschers seeking your own death? Do you think that if you die, you'll be able to see Seele again? ...You're wrong! Seele wouldn't want to see you like this!",
+			null,
+			"Bronya...you want to fight the Herrscher just to die, you think you can go back to Hil's side after you die, then you are very wrong! Sheila doesn't want to see you now!",
+			"Bronya...... do you fight the scribes so you can die? Do you think that if you die, you will return to Seele? ...... No, you are so wrong! Seele has no desire to see you the way you are now!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			307255,
+			"You know nothing at all!",
+			"你根本什么都不明白！",
+			"……っ！ブローニャは間違っていません！あなたは何も分かっていないのです！",
+			"……!브로냐는 틀리지 않아요! 당신은 아무것도 모르는 거예요!",
+			"...Hmph! I'm not wrong! You don't understand anything!",
+			null,
+			"You don't understand anything at all!",
+			"......! Bronya is not wrong! You have no idea what you are talking about!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			307256,
+			"Of course I know…When Seele gave up her live for you there was no hesitation on her face, she hoped you can survive, that's her only wish! You know nothing at all!",
+			"我当然明白…希儿为了你抛弃生命时她的脸上没有一丝的犹豫，她只是希望你能活下去，这是她唯一的愿望！不明白的是你自己！",
+			"あたくしには分かるわ……ゼーレがあなたのために命を捨てた時、その顔に一寸の躊躇いもなかった。彼女はあなたが生き延びることを願っていただけなのよ。それが彼女の唯一の願いなの！分かっていないのはあなたよ！",
+			"나에게는 알겠어……제레가 당신을 위해 목숨을 버렸을 때, 그 얼굴에 한 치의 망설임도 없었어. 그녀는 당신이 살아남기를 바랐을 뿐이야. 그것이 그녀의 유일한 소원이었어! 모르는 건 당신이야!",
+			"I know that when...... Seele laid down her life for you, there was not an ounce of hesitation on her face. She only wanted you to survive. That was her only wish! You're the one that doesn't understand!",
+			null,
+			"Of course I understand... when Hill threw away her life for you there was not a hint of hesitation on her face, she just wanted you to live, that was her only wish! It's you who doesn't understand!",
+			"I know that when ...... Seele laid down her life for you, there was not an ounce of hesitation on her face. She only wanted you to survive. That is her only wish! It is you who don't understand!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			307257,
+			"So what! Seele already……",
+			"那又怎么样！希儿已经……",
+			"それがどうしたのですか！ゼーレはもう……。",
+			"그게 어쨌다는 거예요!제레는 이미……",
+			"So what if it was?! Seele is already...",
+			null,
+			"So what! Hill has ......",
+			"What about it! Seele is already at ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			307258,
+			"Theresa, you mean…You were there when Seele died?",
+			"德丽莎，你刚才的意思是…希儿死的时候你在她的身边么？",
+			"今の話……ゼーレが死んだ時、あなたは彼女の傍にいたってこと？",
+			"방금 말……제레가 죽었을 때, 당신은 그녀의 곁에 있었다는 거야?",
+			"Hold on... Theresa, you were there when Seele died?",
+			null,
+			"Theresa, did you just mean...were you at Hill's side when she died?",
+			"What you just said ...... is that you were by her side when Seele died?"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				60,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			307259,
+			"……!?",
+			"……！？",
+			"……！？",
+			"……!?",
+			null,
+			null,
+			"......!?",
+			null
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			307260,
+			"Yes……",
+			"是的……",
+			"そうよ……。",
+			"그래……",
+			null,
+			null,
+			"Yes ......",
+			"Yes, ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			307261,
+			"Then why didn't you save her!!",
+			"那你为什么不救她！！",
+			"それなら、どうしてゼーレを助けなかったのですか！！",
+			"그렇다면 어째서제레를 구하지 않았어요!!",
+			"Then why didn't you save her!!",
+			null,
+			"Then why didn't you save her!",
+			"Then why didn't you help Seele!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			307262,
+			"I did……",
+			"我救了……",
+			"助けたわよ……。",
+			"구해줬어……",
+			"I did....",
+			null,
+			"I saved ......",
+			"I helped. ......."
+		],
+		[
+			"msg",
+			307263,
+			"She is still alive.",
+			"她还没有死。",
+			"彼女は死んでないわ。",
+			"그녀는 죽지 않았어.",
+			"She's still alive.",
+			null,
+			"She's not dead yet.",
+			"She's not dead."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			307264,
+			"What are you…saying……",
+			"你说…什么……",
+			"なっ……。",
+			"뭐…….",
+			null,
+			null,
+			"You say...what ......",
+			"Become ......."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			307265,
+			"Seele……",
+			"希儿……",
+			"ゼーレは——",
+			"제레는——",
+			"Seele...",
+			null,
+			"Hill ......",
+			"Seele--"
+		],
+		[
+			"msg",
+			307266,
+			"still alive.",
+			"还活着。",
+			"生きてる。",
+			"살아있어.",
+			"She's alive.",
+			null,
+			"Still alive.",
+			"Living."
+		]
+	]
+}

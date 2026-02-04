@@ -1,0 +1,1093 @@
+{
+	"221": [
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10184"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			302635,
+			null,
+			"吼吼吼！！",
+			"ヴォオオオオッ！！！",
+			"우오오오오!!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Vooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302636,
+			null,
+			"往这边走！",
+			"こっちです！",
+			"이쪽이에요!",
+			null,
+			null,
+			"Go this way!",
+			"This way!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			302637,
+			null,
+			"吼吼吼！！",
+			"ヴォオオオオッ！！！",
+			"우오오오오!!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Vooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302638,
+			null,
+			"可恶！这里也被堵住了么！",
+			"クッ！こっちも塞がれているのですか！？",
+			"쿱! 이쪽도 막혀 있는 건가요!?",
+			"Damn it! It's blocked here too!",
+			null,
+			"Damn it! It's blocked here too!",
+			"Kuh! Is this one blocked too!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302639,
+			null,
+			"不要着急！一定还有出路！",
+			"慌てないで！きっと、どこかに突破口があるはずよ！",
+			"당황하지 마! 분명, 어딘가에 돌파구가 있을 거야!",
+			"Don't panic! There must be a way up somewhere!",
+			null,
+			"Don't be in a hurry! There must be a way out!",
+			"Don't panic! There's bound to be a breakthrough somewhere!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			302640,
+			null,
+			"吼吼吼！！",
+			"フシュ————ッ！",
+			"후슈————!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Fsh----ッ!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			302641,
+			null,
+			"砰！！",
+			"ドンッ！！",
+			"쿵!!",
+			null,
+			null,
+			"Bang!",
+			"Dong!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302642,
+			null,
+			"呃！",
+			"あッ！",
+			"앗!",
+			null,
+			null,
+			"Uh-huh!",
+			"Ah!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302643,
+			null,
+			"德丽莎！",
+			"テレサ！",
+			"테레사!",
+			"Theresa!",
+			null,
+			"Theresa！",
+			"Theresa！"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302644,
+			null,
+			"我没事…崩坏兽的力量比起之前更加强大了…这样下去我们突围的几率只会越来越渺茫……",
+			"あたくしは大丈夫……でも、崩壊獣の力がさっきよりも増しているわ……このままじゃ突破できる可能性も下がる一方よ……。",
+			"저는 괜찮아…… 하지만, 붕괴수의 힘이 아까보다 더 강해지고 있어…… 이대로라면 돌파할 가능성도 점점 낮아질 뿐이야…….",
+			null,
+			null,
+			"I'm fine...the Honkai Beast's power is even stronger than before...the chances of us breaking out will only get slimmer and slimmer at this rate ......",
+			"I'm fine ...... but the Honkai beast is more powerful than before ...... and our chances of breaking through are going down at this rate ......."
+		],
+		[
+			"msg",
+			302645,
+			null,
+			"<color=#F4A460FF>不要再做无谓的抵抗了。</color>",
+			"<color=#F4A460FF>もう、無意味な抵抗は止めなさい。</color>",
+			"<color=#F4A460FF>이제, 무의미한 저항은 그만두세요.</color>",
+			"<color=#F4A460FF>Stop your pointless resistance already. </color>",
+			null,
+			"<color=#F4A460FF>Don't resist unnecessarily. </color",
+			"<color=#F4A460FF>Stop your pointless resistance already. </color>"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302646,
+			null,
+			"这个声音是？",
+			"この声は……？",
+			"이 목소리는……?",
+			"That voice is....?",
+			null,
+			"What's that sound?",
+			"Is this voice ......?"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302647,
+			null,
+			"琪亚娜……",
+			"キアナ……。",
+			"키아나…….",
+			"Kiana......",
+			null,
+			"Kiana......",
+			"Kiana......。"
+		],
+		[
+			"msg",
+			302648,
+			null,
+			"<color=#F4A460FF>这座塔是全人类的坟墓，这里徘徊着无数死去的亡魂。</color>",
+			"<color=#F4A460FF>この塔は全人類の墓場。ここを徘徊しているものは、無数の死んだ魂なの。</color>",
+			"<color=#F4A460FF>이 탑은 전 인류의 묘장. 여기를 배회하는 건 무수한 죽은 영혼들이야.</color>",
+			"<color=#F4A460FF>This tower is the graveyard of all mankind. What roams here are countless dead souls. </color>",
+			null,
+			"<color=#F4A460FF>The tower is the tomb of all mankind, where countless dead souls wander. </color>",
+			"<color=#F4A460FF>This tower is the graveyard of all mankind. What roams here are countless dead souls. </color>"
+		],
+		[
+			"msg",
+			303135,
+			null,
+			"<color=#F4A460FF>而你们，也将在这里与它们一同消亡。</color>",
+			"<color=#F4A460FF>そしてあなたたちも、それらと一緒にここで消える。</color>",
+			"<color=#F4A460FF>그리고 너희들도, 그것들과 함께 여기서 사라질 거야.</color>",
+			"<color=#F4A460FF>And you, too, will perish here with them. </color>",
+			null,
+			"<color=#F4A460FF>And you, too, will perish with them here. </color",
+			"<color=#F4A460FF>And you will disappear here with them. </color>"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302649,
+			null,
+			"律者！不要躲躲藏藏的了！既然想要杀死我们就直接现身！",
+			"律者！コソコソしていないで出てくるのです！ブローニャたちを殺したいのなら姿を現すべきです！",
+			"율자! 슬금슬금 숨지 말고 나오세요! 브로냐들을 죽이고 싶다면 모습을 드러내야죠!",
+			"Herrscher! Stop sneaking around and come out! If you want to kill us, show yourself!",
+			null,
+			"Herrscher! Stop hiding! If you want to kill us, just show yourself!",
+			"Herrscher! Stop sneaking around and come out! If you want to kill Bronya and the others, you should show up!"
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302650,
+			null,
+			"<color=#F4A460FF>你们的死和这个世界的结局一样毫无意义。</color>",
+			"<color=#F4A460FF>あなたたちの死は、この世界の結末のように無意味なものなの。</color>",
+			"<color=#F4A460FF>너희들의 죽음은 이 세상의 종말처럼 무의미한 것이니까.</color>",
+			null,
+			null,
+			"<color=#F4A460FF>Your deaths are as meaningless as the end of this world. </color",
+			"<color=#F4A460FF>Your deaths are as meaningless as the end of this world. </color>"
+		],
+		[
+			"msg",
+			303136,
+			null,
+			"<color=#F4A460FF>终结的时刻即将到来，整个世界都将回归虚无。</color>",
+			"<color=#F4A460FF>間もなく訪れる終末の時。世界全体が虚無へと戻る。</color>",
+			"<color=#F4A460FF>곧 다가올 종말의 시간. 세계 전체가 허무로 돌아갈 거야.</color>",
+			"<color=#F4A460FF>The apocalypse will soon arrive, and the entire world will return to nothingness.</color>",
+			null,
+			"<color=#F4A460FF>The time of the end is coming, and the whole world will return to nothingness. </color",
+			"<color=#F4A460FF>The time of the apocalypse will soon come. The entire world will return to emptiness. </color>"
+		],
+		[
+			"msg",
+			302651,
+			null,
+			"<color=#F4A460FF>没错…从一开始就已经注定的事情…没有丝毫值得留恋的地方。</color>",
+			"<color=#F4A460FF>そう……最初から決まっていたこと……未練を残すに値するものは何もないわ。</color>",
+			"<color=#F4A460FF>그래...... 처음부터 정해진 일...... 미련을 남길 만한 것은 아무것도 없어.</color>",
+			null,
+			null,
+			"<color=#F4A460FF> That's right...what was doomed from the start...there's not the slightest thing worth holding on to. </color>",
+			"<color=#F4A460FF>So ...... it was decided from the beginning ...... there's nothing worth leaving undone. </color>"
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302652,
+			null,
+			"律者，现在说什么都已经没用了！如果你不想亲自动手那就在塔顶等着！我们一定会达到那里阻止你的！",
+			"律者、今は何を言っても無駄です！あなたが自ら手を下そうとしないのでしたら、塔の頂上で待っているのです！#n必ずそこに辿り着いて、あなたを止めてみせます！",
+			"율자, 이젠 뭘 말해도 소용없어요! 당신이 직접 손을 쓰지 않겠다면 탑의 정상에서 기다리고 있을 테니까!#n반드시 그곳에 도달해서 당신을 막아 보이겠어!",
+			"Herrscher, nothing you say is going to stop me now! If you won't come out and kill me, then I'll reach the top of the tower and kill you myself!",
+			null,
+			"Herrscher, it's no use saying anything now! If you don't want to do it yourself then wait at the top of the tower! We will definitely reach there to stop you!",
+			"Herrscher, there is nothing you can say to me now! If you will not lay your hands on me yourself, I will be waiting for you at the top of the tower! I will surely get there and stop you!"
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302653,
+			null,
+			"<color=#F4A460FF>是么…不过恐怕没有这样的机会了，你们的道路将会在这里终结。</color>",
+			"<color=#F4A460FF>そう……でも、そんなチャンスはないと思うわよ。あなたたちの道は、ここで終わりなのだから。</color>",
+			"<color=#F4A460FF>그래...... 하지만 그런 기회는 없을 거야. 너희들의 길은 여기서 끝이니까.</color>",
+			"<color=#F4A460FF>Is that so... But I'm afraid you won't have a chance. Your journey ends here.</color>",
+			null,
+			"<color=#F4A460FF> Really...but I'm afraid there's no such chance, your path will end here. </color",
+			"<color=#F4A460FF>So ......, but I don't think you'll get that chance. Your paths end here, you know. </color>"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			302654,
+			null,
+			"吼吼吼！！",
+			"グゥオオオォォォ——ッ！！",
+			"그우오오오오——!!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Guuooooooooo--!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302655,
+			null,
+			"可恶！又有新的崩坏生物诞生了！",
+			"——ッ！新手の崩壊生物がまた現れました！",
+			"——! 새로운 무리의 붕괴 생물이 또 나타났어요!",
+			null,
+			null,
+			"Damn it! A new Honkai creature has been born!",
+			"--! A new Honkai creature has appeared again!"
+		],
+		[
+			"msg",
+			302656,
+			null,
+			"德丽莎！快走！这里马上就会被崩坏生物包围了！",
+			"テレサ！早く！ここにいては、すぐに崩壊生物に囲まれてしまいます！",
+			"테레사! 빨리! 여기에 있으면 곧 붕괴 생물에게 둘러싸여 버려요!",
+			"Theresa! Get outta here! This place will be surrounded by Honkai creatures soon!",
+			null,
+			"Theresa! Get outta here! This place will be surrounded by Honkai creatures soon!",
+			"Theresa! Quickly! If you stay here, you will soon be surrounded by Honkai creatures!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302657,
+			null,
+			"你们先走……我把这些崩坏生物解决了就跟上来。",
+			"ここはあたくしが食い止めるわ。気にせず行って！#n……あたくしは、ここの崩壊生物を倒してから追いかけるから。",
+			"여기는 내가 막을게. 신경 쓰지 말고 가!#n...... 나는 여기의 붕괴 생물을 쓰러뜨린 뒤 쫓아갈 테니까.",
+			null,
+			null,
+			"You guys go ahead ...... I'll follow after I get rid of these Honkai creatures.",
+			"I'll hold them off here. Don't worry about it! ...... I'll go after them after I kill the Honkai creatures here."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302658,
+			null,
+			"明白了！你支撑一会！我们先去前面开路！",
+			"分かりました！どうか持ちこたえてください！私たちが先に行って道を切り開いてきます！",
+			"알겠어요! 어떻게든 버텨 주세요! 우리가 먼저 가서 길을 열어 놓을게요!",
+			null,
+			null,
+			"Got it! You hold on for a while! We'll go ahead and clear the way!",
+			"I understand! Please hold on! We'll go ahead and clear the way!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302659,
+			null,
+			"嗯。",
+			"ええ。",
+			"예.",
+			null,
+			null,
+			"Uh-huh.",
+			"Yes."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"msg",
+			302660,
+			null,
+			"琪亚娜…就拜托你们了。",
+			"キアナのことは……頼んだわよ。",
+			"키아나의 일은…… 부탁할게.",
+			"I'm counting on you.... Put a stop to Kiana.",
+			null,
+			"Kiana...I'm counting on you guys.",
+			"I asked ...... for Kiana."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302661,
+			null,
+			"！？",
+			"！？",
+			"!?",
+			"！？",
+			null,
+			"What's going on?",
+			null
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				0,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			302662,
+			null,
+			"哈！！",
+			"ハアッ！！",
+			"하아!!",
+			null,
+			null,
+			"Ha!",
+			"Hah!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			302663,
+			null,
+			"轰隆————！！！",
+			"ドオオォォン————！！！",
+			"우르르르————!!!",
+			null,
+			null,
+			"Boom ----!!!",
+			"Dooooooooooooooooooooo ----!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302664,
+			null,
+			"德丽莎！你做什么！",
+			"テレサ！何をするつもりですかッ！",
+			"테레사! 무슨 생각이에요?!",
+			null,
+			null,
+			"Theresa! What did you do!",
+			"Theresa! What are you doing?"
+		],
+		[
+			"bgm",
+			59
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"bg",
+			"CG10189"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302665,
+			null,
+			"我们已经没时间寻找新的道路了……",
+			"あたくしたちに新しい道を探している時間は、もう残されてないわ……。",
+			"우리에게 새로운 길을 찾을 시간은 이제 남아있지 않아……",
+			"We are running out of time to find a new path ......",
+			null,
+			"We're running out of time to find a new path ......",
+			"There is no time left for us to be looking for a new path. ......"
+		],
+		[
+			"msg",
+			302666,
+			null,
+			"既然没有道路的话…就用自己的身躯创造出来！",
+			"道がないのなら……自らの力で作り出すまでよ！",
+			"길이 없다면…… 우리의 힘으로 만들어내면 되지!",
+			"If we can't find one, then I'll have to create one!",
+			null,
+			"Since there is no path...create it with your own body!",
+			"If there's no way, we'll just have to create it ourselves at ......!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			302667,
+			null,
+			"砸断了地面来阻挡崩坏生物么…只是浪费时间罢了。",
+			"地面を破壊して崩壊生物を食い止めるのね……けど、そんなのただの時間の無駄よ。",
+			"땅을 부숴서 붕괴 생물을 막겠다…… 하지만 그런 건 그저 시간 낭비일 뿐이야.",
+			"You destroyed the ground to delay the Honkai Beasts.... A futile effort.",
+			null,
+			"Smashing through the ground to stop Honkai creatures?...just a waste of time.",
+			"You're destroying the ground to stave off Honkai organisms ...... but that's just a waste of time."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"msg",
+			302668,
+			null,
+			"琪亚娜，既然没有什么值得留恋，那你为何要出现在这里！",
+			"キアナ、何も未練を残すに値しないのなら、あなたはどうしてここに現れたの！",
+			"키아나, 아무런 미련도 남길 가치가 없다면, 넌 왜 여기에 나타난 거야!",
+			null,
+			null,
+			"Kiana, if there's nothing worth keeping, then why are you here!",
+			"Kiana, why did you show up here if you don't deserve to have anything left undone!"
+		],
+		[
+			"msg",
+			302669,
+			null,
+			"不要再欺骗自己了，如果内心没有牵挂，就不会在乎我们的生死！",
+			"もう自分を欺かないで。#n心に気にかけていることがないのなら、私たちの生死なんて気にしないはずでしょ！",
+			"더 이상 자신을 속이지 마.#n마음에 신경 쓸 것이 없다면, 우리의 생사 따위는 신경 쓰지 않을 거 아니야!",
+			null,
+			null,
+			"Stop lying to yourself, if there are no attachments inside, you won't care if we live or die!",
+			"Don't fool yourself anymore. If you had nothing on your mind that you cared about, you wouldn't care if we lived or died!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			302670,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"msg",
+			302671,
+			null,
+			"琪亚娜，我知道你的性格！从小你就不相信绝望的存在，每次都怀抱着希望迎接一切的困难！",
+			"キアナ、あなたの性格は分かっているわ！幼い時から絶望の存在を信じていなかったわよね。#nいつも希望を胸に、あらゆる困難に立ち向かっていた！",
+			"키아나, 네 성격은 잘 알고 있어! 어릴 적부터 절망의 존재를 믿지 않았잖아.#n항상 희망을 품고 모든 어려움에 맞서왔어!",
+			null,
+			null,
+			"Kiana, I know your character! Ever since you were a child, you didn't believe in the existence of despair and met all difficulties with hope every time!",
+			"Kiana, I know what you are like! Ever since you were a little girl, you never believed in the existence of despair. You always faced every challenge with hope in your heart!"
+		],
+		[
+			"msg",
+			303137,
+			null,
+			"我明白你内心的痛苦…我知道你一定十分的悲伤。",
+			"あなたの心の中の苦しみが分かるわ……きっと、とても悲しいのでしょうね。",
+			"당신 마음속의 고통을 알겠어…… 분명, 매우 슬프겠죠.",
+			null,
+			null,
+			"I understand the pain you feel inside...I know you must be very sad.",
+			"I know the pain in your heart. ...... I am sure you must be very sad."
+		],
+		[
+			"msg",
+			303138,
+			null,
+			"想着只要不去触碰就不会再受伤，所以将自己禁闭在自己的象牙塔中…幻想着一切还都是最初那种美好的样子。",
+			"触れようとしなければ、もう傷つくことはないと思っているから、#n自分の殻に閉じこもっているのでしょう……全てが最初の美しい姿であることを夢見ながら。",
+			"건드리지 않으면 더 이상 상처받지 않을 거라고 생각해서,#n자신의 껍질에 갇혀 있는 거겠죠…… 모든 것이 처음의 아름다운 모습이기를 꿈꾸면서.",
+			null,
+			null,
+			"Thinking that as long as you don't touch it, you won't get hurt again, so you confine yourself to your own ivory tower...fantasizing that everything is still as good as it was in the beginning.",
+			"If you don't try to touch them, you'll stay in your shell because you think they won't hurt you anymore ...... dreaming that everything will be beautiful in the beginning."
+		],
+		[
+			"msg",
+			303139,
+			null,
+			"但是琪亚娜…这样什么也改变不了，即便遍体鳞伤，我们也必须前进。",
+			"でもね、キアナ……それでは何も変えられないのよ。#n傷だらけになったとしても、前に進まなくちゃならないの。",
+			"하지만 키아나… 그렇게 해서는 아무것도 바꿀 수 없어.#n상처투성이가 되더라도, 앞으로 나아가야만 해.",
+			null,
+			null,
+			"But Kiana...this won't change anything, even if it's all over the place, we have to move forward.",
+			"But you know, Kiana ...... that doesn't change anything. We have to move on, even if we're covered in scars."
+		],
+		[
+			"msg",
+			303140,
+			null,
+			"如果害怕看见结局而不去改变的话那就什么也无法得到，即便付出再大的牺牲也要去争取……这就是现在的我们。",
+			"結末を見るのが怖くて変化を恐れていたら、何も手に入れられないわ。#nもっと大きな犠牲を払うことになったとても、勝ち取らなくてはならないの……。#nこれが今のあたくしたちなのよ。",
+			"결말을 보는 것이 두려워 변화를 두려워한다면, 아무것도 얻을 수 없어.#n더 큰 희생을 치르게 되더라도, 반드시 이겨내야만 해…….#n이것이 지금의 우리들이야.",
+			null,
+			null,
+			"If you're afraid to see the end and don't change it then you can't get anything, even if it takes a big sacrifice you have to fight for it ...... That's who we are now.",
+			"If we're afraid to change because we're afraid to see how it ends, we'll get nothing. We've got to make a bigger sacrifice, a very big sacrifice, and we have to win. ...... This is who we are now."
+		],
+		[
+			"msg",
+			302672,
+			null,
+			"我们是绝对不会放弃的！琪亚娜！如果你现在忘记了曾经的自己的话…就让我来帮你回忆起来吧！",
+			"あたくしたちは絶対にあきらめない！#nキアナ！今のあなたが昔の自分を忘れてしまったのなら……あたくしが思い出させてあげる！",
+			"우리는 절대 포기하지 않아!#n키아나! 지금의 네가 예전의 자신을 잊어버렸다면... 내가 기억나게 해 줄게!",
+			null,
+			null,
+			"We are never going to give up! Kiana! If you're now forgetting who you once were...let me help you remember!",
+			"We will never give up! Kiana! If you have forgotten who you used to be now, ...... let me remind you!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			302673,
+			null,
+			"德丽莎……",
+			"テレサ……。",
+			"테레사…….",
+			null,
+			null,
+			"Theresa......",
+			"Theresa......。"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"msg",
+			302674,
+			null,
+			"布洛妮娅，九霄！这里交给我吧！你们一定要到达塔顶！告诉琪亚娜！我们是如何在绝望中创造奇迹的！",
+			"ブローニャ、九霄！ここはあたくしに任せて！あなたたちは何としても塔の頂上に辿り着いてちょうだい！#nそして、キアナに教えてあげて！あたくしたちなら、どれだけ絶望していても奇跡を起こせるって！",
+			"브로냐, 큐쇼! 여기는 나에게 맡겨! 너희는 무슨 일이 있어도 탑의 정상에 도달해야 해!#n그리고 키아나에게 알려줘! 우리라면 얼마나 절망해도 기적을 이룰 수 있다고!",
+			null,
+			null,
+			"Bronya, Kyuushou! Leave this place to me! You must reach the top of the tower! Tell Kiana! How we worked miracles out of desperation!",
+			"Bronya, Kyuushou! I'll take care of this! I need you guys to get to the top of the tower! And tell Kiana! You and I can work miracles, no matter how hopeless we are!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			302675,
+			null,
+			"嗯…你一定要坚持住！",
+			"テレサ……。#nはい、何としても耐えきってください！",
+			"테레사…….#n네, 반드시 버텨내겠습니다!",
+			null,
+			null,
+			"Well...you've got to hang in there!",
+			"Theresa ....... Yes, endure it at all costs!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10184"
+		],
+		[
+			"msg",
+			302676,
+			null,
+			"飞蛾扑火…究竟是追逐希望还是盲目的毁灭…一切都已经不重要了。",
+			"飛んで火にいる夏の虫とはこのことね……。#n果たして希望を追っているのか、盲目的な自滅なのか……。まあ、そんなのは全てどうでもいいことよね。",
+			"불 속으로 날아드는 여름 벌레란 바로 이거겠지…….#n과연 희망을 좇는 건지, 맹목적인 자멸인지……. 뭐, 그런 건 전부 다 어떻게 됐든 상관없는 일이야.",
+			"The flame chasing moths... Whether you chase hope or blind destruction, it no longer matters.",
+			null,
+			"Moths to the flame...whether it's chasing hope or blind destruction...none of it matters anymore.",
+			"This is what I call a summer bug in a flying fire. ...... Are we really chasing hope or blind self-destruction? ...... Well, it all doesn't matter, does it?"
+		],
+		[
+			"msg",
+			302677,
+			null,
+			"我会在塔顶等你们，不过末日的火焰即将烧却整个世界。",
+			"私は塔の頂上であなたたちを待っているわ。#nでも、終末の炎が間もなく世界の全てを焼き尽くすでしょうね。",
+			"나는 탑의 정상에서 너희를 기다리고 있을 거야.#n하지만 종말의 불꽃이 머지않아 세상의 모든 것을 태워버릴 거야.",
+			"I will be waiting for you at the top of the tower. But the flames of the apocalypse will soon consume the entire world.",
+			null,
+			"I'll be waiting for you at the top of the tower, but the flames of Armageddon are about to consume the world.",
+			"I will be waiting for you at the top of the tower. But the flames of the apocalypse will soon consume the entire world."
+		],
+		[
+			"msg",
+			302678,
+			null,
+			"<color=#F4A460FF>希望你们能够活到那一刻……</color>",
+			"<color=#F4A460FF>あなたたちがその時まで生きていられるといいけど……。</color>",
+			"<color=#F4A460FF>너희가 그때까지 살아남을 수 있으면 좋겠지만…….</color>",
+			"<color=#F4A460FF>I hope you live to see that moment......</color>",
+			null,
+			"<color=#F4A460FF>I hope you live to see that moment ......</color>",
+			"<color=#F4A460FF>Hope you guys live to see then. ...... </color>"
+		]
+	]
+}

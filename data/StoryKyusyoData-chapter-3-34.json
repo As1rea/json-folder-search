@@ -1,0 +1,6576 @@
+{
+	"121": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301098,
+			"I think everyone in the investigation team is here. Now, let me tell you the info of the ME Corp, and our mission target.",
+			"调查队的各位已经集结完毕了吧，那我先说明一下ME社的情报和这次的任务目标。",
+			"突撃隊のメンバーは集結したね。じゃあ、ME社の情報と今回の任務目標を共有するわ。",
+			"돌격대 멤버는 집결했네. 자, ME사의 정보와 이번 임무 목표를 공유할게.",
+			"Looks like everyone from the investigation team is here. I'll share the intel on ME Corp. and explain our mission objectives.",
+			null,
+			"The investigation team has already assembled, right? Then I will first explain the information of ME Society and the goal of this mission.",
+			"I see that the members of the assault team have assembled. Okay, I'll share the ME company's information and the mission objectives for this mission."
+		],
+		[
+			"msg",
+			301099,
+			"We all know that ME Corp is the largest technology & engineering company in the world. The Nagazora city, which is where we are, is the center of technology.",
+			"众所周知，ME社是世界最大的科技工程企业，我们现在所处的长空市本部更是人类引以为傲的科技中心。",
+			"知っての通り、ME社は世界最大のハイテク企業だよ。私たちが今いる長空市のME社本部は、人類が誇るハイテク技術の中心と言っても過言ではないわ。",
+			"알다시피 ME사는 세계 최대의 하이테크 기업이야. 우리가 지금 있는 장공시의 ME사 본부는 인류가 자랑하는 하이테크 기술의 중심이라고 해도 과언이 아니지.",
+			"As we all know, ME Corporation, located right in Nagazora City, is the world's largest science and technology engineering company. It wouldn't be an exaggeration to say that the ME Corp. headquaraters where we are right now is the heart of all technology.",
+			null,
+			"As we all know, ME Society is the world's largest science and technology engineering company, and the Nagasu City headquarters where we are now located is a proud center of science and technology for humanity.",
+			"As you know, ME Company is the largest high-tech company in the world. It's no exaggeration to say that the ME Corp. headquarters in Changku City, where we are now, is the center of human high-tech."
+		],
+		[
+			"msg",
+			301100,
+			"The ME Corp used to serve for an organisation called Anti-Entropy and provide various equipment and weapons for them. The Mechanical weapons we fought just now, were one of them. So it is a very dangerous military enterprise.",
+			"而ME社曾经服务于名为逆熵的组织，并帮助他们制造对抗崩坏的各类装备与机甲武器，刚才与我们战斗的机甲兵器也是其中的杰作之一，所以它也是一家极其危险的军工企业。",
+			"ただME社はかつてネゲントロピーという組織に協力し、崩壊に抵抗するための各種装備と機甲武器を製造していてね……さっき戦った機甲兵器もそのうちのひとつ。つまり、極めて危険な軍需企業でもあるの。",
+			"다만 ME사는 과거 네겐트로피라는 조직에 협력해 붕괴에 저항하기 위한 각종 장비와 기갑 무기를 제조했어... 방금 싸운 기갑 병기도 그중 하나. 즉, 극히 위험한 군수 기업이기도 해.",
+			"However, ME Corp. used to cooperate with an organization called <tooltip entry=20>Anti-Entropy</tooltip>, manufacturing various equipment and armored mechs to resist the Honkai. The mecha we just fought is one of them. In other words, ME Corp. also an extremely dangerous military enterprise.",
+			null,
+			"The ME Society used to serve the organization called Counter Entropy and help them manufacture all kinds of equipment and mecha weapons to fight against the collapse, and the mecha weapon that just fought with us is one of the masterpieces, so it is also an extremely dangerous military industry.",
+			"However, the ME company used to cooperate with an organization called Negentropy, manufacturing various equipment and armored weapons to resist collapse. ...... The armored weapon we just fought is one of them. In other words, it is also an extremely dangerous military enterprise."
+		],
+		[
+			"msg",
+			301101,
+			"According to our intelligence, there is a large hidden arsenal here to produce the weapons. With the outbreak of Houkai, this arsenal was shut down.",
+			"根据我们的情报，这里隐藏着一个巨大的兵工厂用于生产制造这些兵器，但是随着大崩坏的爆发这个庞大的兵工厂也随之关闭。",
+			"情報によると、ここにはそういった兵器を製造する巨大な工場が隠されているわ。普通だったら大崩壊の爆発によって、その兵器工場ごと壊れてなくなってしまうはずだったんだけど……。",
+			"정보에 따르면 여기에 그런 병기를 제조하는 거대 공장이 숨겨져 있다고 해. 일반적이었다면 대붕괴의 폭발로 인해 그 병기 공장까지 부서져 없어졌어야 했는데...",
+			"According to our intel, there is a huge weapons manufacturing plant hidden here. Normally, the explosion of the great Honkai would have destroyed and wiped out the entire plant.......",
+			null,
+			"According to our intelligence, there was a huge arsenal hidden here for the production and manufacture of these weapons, but with the outbreak of the Great Crash this huge arsenal was also closed.",
+			"According to our information, there is a huge factory for manufacturing such weapons hidden here. Normally, the explosion of the great collapse would have destroyed and lost that entire weapons factory. ......"
+		],
+		[
+			"msg",
+			301102,
+			"However, because of the rigid structure of ME Corp building, the Houkai did not cause much damage to the arsenal so all equipment should work normally. If we can occupy the arsenal, we can produce weapons to fight Houkai. It is an important target for our counterattack.",
+			"然而多亏了ME社坚固的建筑结构，大崩坏并没有对这个兵工厂造成损伤，所以里面的设备应该还能够正常运作，如果能够占领这个兵工厂，我们就可以生产武器装备与崩坏进行对抗，是我们反攻崩坏的重要目标。",
+			"ME社はそんな爆発をものともせず、兵器工場も致命的な損傷を受けなかったの。だから、中の設備はまだ動くし武器も作れる。つまり、この工場を占領できれば、武器を作って崩壊に反撃できるようになるってわけ。",
+			"ME사는 그런 폭발도 문제없이 넘기고 병기 공장도 치명적인 손상을 입지 않았어. 그래서 안의 설비는 아직 작동하고 무기도 만들 수 있어. 즉, 이 공장을 점령하면 무기를 만들어 붕괴에 반격할 수 있게 된다는 거야.",
+			"But thanks to this building's fortifications by ME Corp., the weapons manufacturing plant wasn't completely destroyed. The equipment inside is still functioning and weapons can still be produced. If we can seize control of this factory, we can produce weapons to fight back against the Honkai.",
+			null,
+			"However, thanks to the ME Society's sturdy building structure, the Great Crash did not cause damage to this arsenal, so the equipment inside should still be able to function normally. If we can capture this arsenal, we can produce weapons and equipment to fight against the Crash, which is an important target for our counterattack against the Crash.",
+			"The ME company did not suffer from such an explosion, and the weapons factory was not fatally damaged. Therefore, the equipment inside still works and weapons can still be made. So, if we can seize this factory, we can make weapons to fight back against the collapse."
+		],
+		[
+			"msg",
+			301103,
+			"We have been planning to capture ME Corp for a long time. Bronya had been preparing for this. I think she secretly went in ME Corp to find the arsenal. So, if we set the arsenal as our target, we will find her!",
+			"对于夺取ME社的计划早有预想，这也是姐姐大人长久以来准备的作战。我想这次姐姐大人瞒着我们潜入ME社的目就是寻找这座兵工厂。所以我们只要以此为目标就能找到姐姐大人！",
+			"実はME社を奪取する計画は昔からあって、長い間準備していたの。お姉ちゃんが内緒でME社に潜入したのも、おそらくこの工場を探すためっていうのがあるんだと思う。だから、これを目標にすればお姉ちゃんに辿り着くはず！",
+			"사실 ME사 탈취 계획은 예전부터 있어서 오랫동안 준비했어. 언니가 몰래 ME사에 잠입한 것도 아마 이 공장을 찾기 위해서였을 거야. 그러니까 이걸 목표로 하면 언니에게 닿을 수 있을 거야!",
+			"To be honest, the plan to take over ME Corp.'s factory has been in preparation for a long time. I think the reason why my sister secretly inflitrated ME Corp.'s headquarters was to find the factory. So if we do the same, we should be able to find her!",
+			null,
+			"The plan to take over the ME Society had been foreseen for a long time, and this was the battle that Sister-sama had been preparing for a long time. I think the purpose of Sister-sama's infiltration into ME Society without our knowledge is to find this arsenal. So we only need to use this as our target to find Sister-sama!",
+			"Actually, the plan to take over the ME Company has been in the works for a long time and has been in preparation for a long time. I think the reason why my sister secretly infiltrated ME Corp. is probably to find this factory. So, if we set our sights on this, we will get to her!"
+		],
+		[
+			"msg",
+			301104,
+			"However, the situation in ME Corp is complicated, and there is a lot of hidden danger because it was deserted for a long time. There is also attack from Mechanical weapons, so we can’t be optimistic. Make sure you be careful and avoid unnecessary troubles.",
+			"不过ME社的情况很复杂，长期废弃所导致的隐藏危险有很多，再加上机甲兵器的攻击导致我们的情况并不乐观，所以本次调查一定要小心谨慎，避免不必要的麻烦。",
+			"ただ長期間放置されていた影響から、中に何が棲みついているのかはまったくもっての未知。さらに機甲兵器までいる状況。今回の調査はとても危険なものになるわ。くれぐれも慎重に。",
+			"다만 오랜 기간 방치된 영향으로 안에 무엇이 서식하고 있는지는 전혀 알 수 없어. 게다가 기갑 병기까지 있는 상황. 이번 조사는 매우 위험한 것이 될 거야. 각별히 신중하게.",
+			"However, this building has been abandoned for a very long time, and we have no idea what the state of the inside is like. There's even armored mechas inside. This investigation will be very dangerous, so don't be careless.",
+			null,
+			"However, the situation of ME society is very complicated, there are many hidden dangers caused by long-term abandonment, plus the attack of mecha weapons lead to our situation is not optimistic, so this investigation must be careful to avoid unnecessary trouble.",
+			"However, due to the fact that it has been abandoned for a long period of time, it is completely unknown what is living inside. And there are even armored weapons inside. This investigation will be very dangerous. Please be very careful."
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301105,
+			"Now, let’s move, time is running out. We must complete the mission before the Houkai Creatures attack!",
+			"那么开始行动吧，时间紧迫，我们一定要在崩坏生物的进攻到来之前完成任务！",
+			"じゃあ、行動開始よ。事態は切迫しているわ。崩壊生物が攻めてくる前に任務を完了しないと！",
+			"자, 작전 시작이야. 사태가 절박해. 붕괴 생물이 쳐들어오기 전에 임무를 완료하지 않으면!",
+			"Let's get moving. Things are heating up. We have to complete the mission before the Honkai beasts attack!",
+			null,
+			"So let's get moving, time is running out, we must finish the job before the attack of the collapsing creatures arrives!",
+			"Then let's get moving. Things are heating up. We have to complete the mission before the disintegrating organisms attack!"
+		]
+	],
+	"122": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10107"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301106,
+			"Looks like we have broken through the hall and arrived at the main corridor of ME Corp. This place is not damaged at all from the Great Houkai. The ME Corp is indeed very powerful...",
+			"看来我们已经突破了大厅区域，现在所在的位置是ME社内的主廊道。没想到经历了大崩坏后这里看起来居然毫无损伤，ME社的实力果然强大…",
+			"ホールエリアは突破できたわね。今いる位置はME社内のメイン通路よ……それにしても大崩壊を経たっていうのに、ここは全く損傷を受けてないみたい。ME社の技術力はやっぱりすごいね……。",
+			"홀 구역은 돌파했네. 현재 위치는 ME사 내의 메인 통로야…… 그런데도 대붕괴를 겪었다고 하는데, 여기는 전혀 손상을 입지 않은 것 같아. ME사의 기술력은 역시 대단하네…….",
+			"We've made it through the hall area. We're now in the ME headquarters' main corridor. I didn't expect this place to be completely unscathed after the Honkai Explosion, they must have put a lot of effort into fortifying this building... (TN: What the heck is the hall area? The main entrance? The reception desk?)",
+			null,
+			"It seems that we have broken through the hall area and are now in the main corridor of the ME Society. I didn't expect this place to look unscathed after the Great Crash, but the strength of the ME Society is really strong...",
+			"We made it through the hall area. We are now in the main corridor within ME. ...... But even after the great collapse, this area seems to be completely undamaged."
+		],
+		[
+			"msg",
+			301107,
+			"Let’s take a closer look. Based on the intelligence, there should be a passage to the arsenal.",
+			"我们仔细探查一下，根据之前的情报这里应该有通往兵工厂的通道。",
+			"詳しく調査してみましょ。事前情報によると、ここに兵器工場へと続く通路があるみたい。",
+			"자세히 조사해 보자. 사전 정보에 따르면, 여기에 병기 공장으로 이어지는 통로가 있는 모양이야.",
+			"Let's examine this corridor carefully. Based on our intel, there's a passage that leads into the weapons manufacturing plant.",
+			null,
+			"Let's explore carefully, according to the previous intelligence here should have access to the arsenal.",
+			"Let's investigate in detail. According to preliminary information, there is a passageway here that leads to the weapons factory."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				56,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301108,
+			"The gate in front of the corridor was closed. We tried to open it, but there seemed to be no power supply to operate.",
+			"报告，廊道前方的闸门被关闭了，我们刚才尝试打开，但是似乎没有电力供应，无法运作。",
+			"報告します、通路前方のゲートが閉鎖されています。さきほど開けようとしましたが、電力供給がないようでビクともしません。",
+			"보고합니다, 통로 전방의 게이트가 폐쇄되었습니다. 아까 열려고 했지만, 전력 공급이 없는지 꿈쩍도 안 합니다.",
+			"Report. The gate in front of the corridor is closed. We tried to open it just now, but there doesn't seem to be any power being supplied for its operation.",
+			null,
+			"Report, the gate in front of the corridor is closed, we tried to open it just now, but there seems to be no power supply to operate it.",
+			"I am writing to report that the gate at the front of the aisle is closed. I just tried to open it, but it does not seem to have power and does not seem to be working."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				56,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301109,
+			"Electricity... The hall is still powered, so the backup generator of ME Corp is still working. Maybe the power cable connecting to the main corridor was cut off.",
+			"电力么…大厅的电力供应还在，这表示ME社的备用发电设备尚在运作，有可能是连接主廊道的电缆被切断了。",
+			"電力か……ホールには電気が通ってたから、ME社の予備発電装置はまだ生きてるはずよね。メイン通路に繋がるケーブルが切れてしまっているのかしら。",
+			"전력이라…… 홀에는 전기가 통하고 있었으니, ME사의 예비 발전 장치는 아직 살아 있을 거야. 메인 통로에 연결된 케이블이 끊어져 버린 걸까?",
+			"Power, huh... The main hall had power, so the backup generator must still be functioning. I wonder if the cable leading to the main corridor is cut.",
+			null,
+			"The power... The power supply in the hall is still there, which means that the ME Society's backup power generation equipment is still operating, and it is possible that the cable connecting to the main corridor was cut.",
+			"Power or ...... hall had power, so the ME company's backup generator must still be live. I wonder if the cable leading to the main corridor has been cut."
+		],
+		[
+			"msg",
+			301110,
+			"Let’s search here and see if anything is suspicious.",
+			"我们仔细找一下，看看有没有可疑的地方。",
+			"詳しく調べてみましょ。あやしい場所がないかどうか。",
+			"자세히 조사해 보자. 수상한 곳이 없는지 어떻게.",
+			"Let's search carefully and see if there's anything suspicious.",
+			null,
+			"Let's look carefully and see if there is anything suspicious.",
+			"Let's take a closer look. See if there are any suspicious places."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV07_FootStepAway"
+		],
+		[
+			"msg",
+			301111,
+			"Roger!",
+			"是！",
+			"はい！",
+			"네!",
+			"Understood!",
+			null,
+			"Yes!",
+			"Yes!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301113,
+			"Phew~ There are not many Mechanical weapons here, I can finally relax. My face is numb from acting serious in front of everyone... Now I understand why Bronya doesn’t like to smile.",
+			"呼~这里的机甲兵器也减少了，终于可以松一口气了，在大家面前表现的一本正经的样子脸都要僵硬了……终于明白姐姐大人为什么总是不喜欢笑了。",
+			"ふう～ここの機甲兵器も減ってきたね。やっと一息つけるわ。みんなの前で真剣な表情をしてたら顔が引きつっちゃった……お姉ちゃんが、どうしていつも笑わないのかやっと分かったわ。",
+			"후~ 여기의 기갑 병기도 줄어들었네. 겨우 한숨 돌리겠어. 모두 앞에서 진지한 표정을 하고 있으니 얼굴이 경직됐어…… 언니가, 왜 항상 웃지 않는지 이제야 알 것 같아.",
+			"Phew~ There aren't too many armored mechas here, I can finally catch a break. My face is numb from acting so serious in front of everyone.... I finally understand why Bronya doesn't like to smile.",
+			null,
+			"Phew ~ here the mecha weapon also reduced, finally can breathe a sigh of relief, in front of everyone to show a serious look face are going to stiff ...... finally understand why sister adults always do not like to smile.",
+			"Phew - the armored weapons here are dwindling. I can finally catch my breath. I finally understand why my sister doesn't always smile when I make a serious face in front of everyone. ......"
+		],
+		[
+			"choice",
+			[
+				301648,
+				"Seele looks cool when she's giving orders.",
+				"指挥时的希儿很帅气。",
+				"指揮してるときのゼーレってカッコイイ。",
+				"지휘할 때의 제레는 멋있어.",
+				null
+			],
+			[
+				301649,
+				"I'm not used to this Seele.",
+				"有点不习惯这样的希儿。",
+				"こういうゼーレにはちょっと慣れない。",
+				"이런 제레는 좀 익숙하지 않아.",
+				"I'm not used to this side of you."
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			123,
+			124
+		]
+	],
+	"123": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10107"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301114,
+			"Ey? Really? A change of image is not bad occasionally.",
+			"咦？真的么？看来偶尔换个形象也不错嘛。",
+			"え、ほんと？たまには雰囲気を変えてみるのもいいかもね。",
+			"에, 정말? 가끔은 분위기를 바꿔 보는 것도 좋을지도.",
+			"Oh, really? Guess it's nice to change my image once in a while.",
+			null,
+			"Huh? Really? Looks like it's good to change your image once in a while.",
+			"Oh, really? It's good to change the atmosphere once in a while."
+		],
+		[
+			"msg",
+			301115,
+			"But I can’t even stand myself being so tense. I am more used to being like this. I prefer to be your friend rather than a leader~",
+			"不过总是这样绷紧的样子我自己都受不了，果然我还是习惯现在的样子，与其领导大家我更喜欢成为大家的朋友~",
+			"あー、でもいつもこんなに神経を張り詰めてたら自分が持たないわ。やっぱり、今のままがいいな。みんなを指揮するより友達として一緒にワイワイしていたいもの。",
+			"아~ 하지만 항상 이렇게 신경을 곤두세우면 내가 버티질 못하겠어. 역시, 지금 그대로가 좋아. 모두를 지휘하는 것보다 친구로서 함께 와이와이하고 싶어.",
+			"Ah, but I can't stand being this tense all the time. I'd rather be my normal self, you know? I prefer being friends with everyone, not leading them.",
+			null,
+			"But always such a tense look I can not stand myself, really I am still accustomed to the current appearance, rather than leading everyone I prefer to be everyone's friend ~",
+			"Ah, but I can't hold myself if I'm always this nervous. I'd rather be just the way I am now. I'd rather hang out with them as friends than lead them."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			125
+		]
+	],
+	"124": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10107"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301116,
+			"Haha... Really. I can’t even stand myself being so tense.",
+			"哈哈…果然是这样么，这样紧绷的样子我自己都受不了呢。",
+			"アハハ……やっぱりそうよね。こんなに神経を張り詰めてたら自分が持たないわ。",
+			"아하하…… 역시 그렇지. 이렇게 긴장을 계속하면 내가 버티질 못하겠어.",
+			"Hahaha... Is that so? I can't stand being tense like this.",
+			null,
+			"Haha...is it really like this? I can't stand this tight look myself.",
+			"Ahahaha...... I knew it. I can't hold my own if I'm this nervous."
+		],
+		[
+			"msg",
+			301117,
+			"I am more used to being like this. I prefer to be your friend rather than a leader~",
+			"果然我还是习惯现在的样子，与其领导大家我更喜欢成为大家的朋友~",
+			"やっぱり、元の私のままでいたいな。みんなを指揮するより友達として一緒にワイワイしていたいもの。",
+			"역시, 원래의 내 모습대로 있고 싶어. 모두를 지휘하는 것보다 친구로서 함께 시끌벅적하고 싶다고.",
+			"I'd rather be my normal self. I prefer being friends with everyone over leading them.",
+			null,
+			"Sure enough I'm still used to the way I am now, instead of leading everyone I prefer to be everyone's friend~",
+			"I still want to be the original me. I would rather hang out with people as friends than conduct them."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			125
+		]
+	],
+	"125": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10107"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301118,
+			"Seems I’m still not as reliable as Bronya. Sorry you have to see this~",
+			"看来我还是不能像姐姐那样表现出可靠的样子呢，抱歉让你见笑了~",
+			"お姉ちゃんみたいに頼れる感じは出せないかな。恥ずかしいな～。",
+			"언니처럼 믿음직스러운 느낌은 낼 수 없을까. 부끄럽다~",
+			"I don't think I can be as dependable as my sister. Sorry to disappoint you~",
+			null,
+			"It seems that I still can't act as reliable as my sister, sorry for making you laugh~",
+			"I don't know if I can give off a dependable feeling like my sister. I'm so embarrassed!"
+		],
+		[
+			"choice",
+			[
+				301650,
+				"Seele looks reliable to me.",
+				"我觉得希儿很可靠。",
+				"ゼーレは頼りになると思う。",
+				"제레는 믿음직스러운 것 같아.",
+				"You look reliable to me."
+			],
+			[
+				301651,
+				"We must learn from Bronya.",
+				"要向布洛妮娅多学习一下。",
+				"もっとブローニャを見習わなきゃ。",
+				"브로냐를 더 본받아야겠어.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			126,
+			127
+		]
+	],
+	"126": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10107"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301119,
+			"Yeah... Thank you for trusting me.",
+			"是么…谢谢你这么相信我。",
+			"そう……？そんな風に思ってくれてたんだ。ありがと。",
+			"그래……? 그렇게 생각해줬던 거였구나. 고마워.",
+			"Really...? Thanks for believing in me.",
+			null,
+			"Really...thank you for believing in me so much.",
+			"So ......? I'm glad you felt that way. Thanks."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			128
+		]
+	],
+	"127": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10107"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301120,
+			"Well... Maybe I cannot become a great person like her.",
+			"是么…也许我成为不了姐姐大人那样伟大的人。",
+			"そうだよね。ゼーレもお姉ちゃんみたいに立派な人にならないと！",
+			"그렇지. 제레도 언니처럼 훌륭한 사람이 되야지!",
+			"Well.... I'm not too sure I'm capable of rising to her level.",
+			null,
+			"Really...maybe I can't be as great as my sister-sama.",
+			"That's right. Seele needs to become a respectable person like her big sister!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			128
+		]
+	],
+	"128": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10107"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301121,
+			"Do you know? I used to be an absolute coward. More than I am now.",
+			"你知道么？以前的我比现在还要懦弱，是一个不折不扣的胆小鬼。",
+			"昔のゼーレはね、今よりもっと弱虫だったの。本当に臆病者で……。",
+			"옛날의 제레는 말야, 지금보다 더 겁쟁이였어. 정말 소심해서……",
+			"Do you know? I used to be an absolute coward. More than I am now.",
+			null,
+			"You know what? I used to be even more of a coward than I am now, an unapologetic coward.",
+			"The old Seele, you know, he was even more of a wimp than he is now. He was really a coward. ......"
+		],
+		[
+			"msg",
+			301122,
+			"I was afraid to be hurt, or hurt others, so I always tried to hide myself from others. I thought it would be better if I just disappear...",
+			"因为害怕被伤害，也害怕伤害他人，所以总是小心翼翼地隐藏着自己生怕被别人看到，一度想着就这样消失就好了……",
+			"傷つけられるのも、人を傷つけるのも怖かった。だから、いつもびくびくして隠れて、人に見られるのさえ怖くて。一度はこのまま消えてしまいたいって思ったことも……。",
+			"상처받는 것도, 사람을 상처주는 것도 무서웠어. 그래서 항상 움츠러져 숨어다니고, 사람들에게 보이는 것조차 두려웠지. 한번은 이대로 사라져버리고 싶다고 생각했던 적도……",
+			"I was afraid of being hurt and hurting others. I would always hide myself so people couldn't see me. At one point I even wanted to disappear...",
+			null,
+			"Because of the fear of being hurt, but also afraid of hurting others, so always carefully hide their fear of being seen by others, once thought it would be good to just disappear ......",
+			"I was afraid of being hurt and hurting people. So I was always scared to hide and even afraid to be seen. At one time I even wanted to just disappear. ......"
+		],
+		[
+			"msg",
+			301123,
+			"But thanks to her, she had always been protecting me. She gave me the reason and courage to be alive.",
+			"不过多亏了姐姐大人在，是姐姐大人一直保护着我，给了我继续存在着的勇气与理由。",
+			"でも、お姉ちゃんがいてくれたおかげで……お姉ちゃんがずっと守ってくれたから、生き続ける勇気と理由ができたの。",
+			"하지만, 언니가 있어줬기 때문에…… 언니가 계속 지켜줬기 때문에, 살아갈 용기와 이유가 생겼어.",
+			"But I have my sister to thank for changing that. She's always protected me, giving me the courage to keep on living.",
+			null,
+			"But thanks to the presence of my sister, who has always protected me and given me the courage and reason to continue to exist.",
+			"But because of my sister, ...... she has always protected me, I have the courage and reason to continue living."
+		],
+		[
+			"msg",
+			301124,
+			"So I need to be strong for her. I can’t let her see me being a coward, or she will not be able to move on.",
+			"所以为了姐姐大人我也要变得坚强起来，至少不能让姐姐大人再看到我懦弱的样子，这样她又会被我绊住而无法前进。",
+			"だから、お姉ちゃんのためにも強くならなきゃ。少なくとも、お姉ちゃんにもう弱いところは見せられない。また足手まといにはなりたくないもの。",
+			"그래서, 언니를 위해서라도 강해져야 해. 적어도 언니에게 더 약한 모습은 보여줄 수 없어. 다시 발목 잡히는 건 되고 싶지 않다고.",
+			"So I've gotta be strong for her. At the very least, I can't let her see me being a coward again or she'll trip all over herself trying to help me.",
+			null,
+			"So for the sake of my sister-sama I also have to become strong, at least I can't let my sister-sama see me weak again, so she will be tripping over me again and can't move forward.",
+			"So I have to be strong for my sister. At the very least, I can't show my sister that I'm weak again. I don't want to be a liability again."
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301125,
+			"To find the person she’s been trying to go after...",
+			"无法找到她想要追逐的那个身影……",
+			"お姉ちゃんが、あの人を探す邪魔にならないように……。",
+			"언니가, 그 사람을 찾는 방해가 되지 않도록……",
+			"Because she needs to find the person she's searching for...",
+			null,
+			"Unable to find the figure she wanted to chase ......",
+			"Don't let your sister get in the way of finding that person. ......"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				59,
+				6,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301126,
+			"We have found the damaged cable and are repairing it right now. The power supply should resume soon.",
+			"报告，我们找到了损坏的电缆了，目前正在抢修中，应该马上就能恢复电力了。",
+			"報告します。損壊したケーブルを発見しました。現在、応急処置をしています。間もなく電力も復旧する見込みです。",
+			"보고합니다. 손상된 케이블을 발견했습니다. 현재, 응급 처치를 하고 있습니다. 곧 전력도 복구될 전망입니다.",
+			"We've found the damaged cable and we're repairing it now. The power should be restored shortly.",
+			null,
+			"Report, we have found the damaged cable, is currently repairing, should be able to restore power immediately.",
+			"Report. We found a damaged cable. First aid measures are currently being taken. Power is expected to be restored shortly."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301127,
+			"Got it, let other team members assemble and protect the cable!",
+			"明白了，让其他队员立即集合，保护电缆抢修！",
+			"わかった。他の隊員も集合させてケーブル修理を援護して！",
+			"알겠다. 다른 대원들도 집결시켜 케이블 수리를 지원해!",
+			"Got it. Assemble the rest of the squad and have them protect the ones repairing it!",
+			null,
+			"Understood, let the rest of the team gather immediately to protect the cable rescue!",
+			"Okay, I'm on it. Get the rest of the squad together and cover the cable repair!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301128,
+			"Roger!",
+			"了解！",
+			"了解！",
+			"알겠습니다!",
+			"Understood!",
+			null,
+			"Understand!",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301129,
+			"Sorry, I said a lot of boring stuff~",
+			"抱歉，说了这么多无聊的话~",
+			"ごめんね、こんなつまらない話をして。",
+			"미안해, 이런 시시한 이야기를 해서.",
+			"Sorry for boring you with my monologuing.",
+			null,
+			"Sorry for saying so many boring things~",
+			"Sorry, such a boring story."
+		],
+		[
+			"msg",
+			301130,
+			"Let's go, the real battle begins now!",
+			"我们走吧，真正的战斗现在才开始！",
+			"行きましょ、まだまだ戦わなきゃいけないんだから！",
+			"가자, 아직도 싸워야 하니까!",
+			"Let's go, the real battle begins now!",
+			null,
+			"Let's go, the real battle begins now!",
+			"Let's go, we still have a lot of fighting to do!"
+		]
+	],
+	"129": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301131,
+			"Bang...",
+			"轰隆……",
+			"ゴゴゴゴゴ……！",
+			"고고고고고……!",
+			"(Rumble rumble)",
+			null,
+			"Rumble ......",
+			"Gogogogogo ......!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10108"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301132,
+			"The gate is open, everybody, stay alert!",
+			"闸门打开了，各位保持警惕！",
+			"ゲートが開いた。みんな警戒して！",
+			"게이트가 열렸다. 모두 경계하세요!",
+			"The gate is open. Everyone stay alert!",
+			null,
+			"The floodgates are open, so stay alert, folks!",
+			"The gate is open. Everyone stay alert!"
+		],
+		[
+			"msg",
+			301133,
+			"There are a lot of traps in ME Corp... You guys stay here, I'm going in to check it out.",
+			"ME社内的机关很多……你们在外面待机，我先进去调查一下。",
+			"……ふぅ、とりあえず異常はなさそうね。ME社内には侵入者用のトラップがたくさんあるから、みんなは外で待機。私が先に調査してくるわ。",
+			"……후우, 일단 이상은 없어 보이네. ME사 내에는 침입자용 트랩이 많으니까, 여러분은 밖에서 대기. 제가 먼저 조사해 올게요.",
+			"There's a lot of traps inside ME Corp. designed to keep out intruders. Everyone stand by outside, I'll check it out first.",
+			null,
+			"There are many organs within the ME Society ...... you guys stand by outside while I go in first and investigate.",
+			"...... Huh, looks clear for now, there are plenty of traps inside ME for intruders, so everyone stay outside. I'll go check it out first."
+		],
+		[
+			"choice",
+			[
+				301652,
+				"It's dangerous to go alone. Let me join you.",
+				"一个人进去太危险了，我和你一起去。",
+				"一人で行くのは危険過ぎる。私も一緒に行く。",
+				"혼자 가는 건 너무 위험해. 나도 함께 갈게.",
+				null
+			],
+			[
+				301653,
+				"Don't push yourself to hard. I will go with you.",
+				"不要逞强，我和你一起去。",
+				"強がらないで。私も一緒に行く。",
+				"강하게 굴지 마. 나도 함께 갈게.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			130,
+			131
+		]
+	],
+	"130": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10108"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301134,
+			"I can’t let you risk it with me. If anything happens, you can still help from outside.",
+			"不能让大家和我一起冒险，如果有什么意外的话你们还能在外面接应。",
+			"二人揃って危険を冒す必要はないわ。何かあったら外から支援して。",
+			"둘이서 함께 위험을 감수할 필요는 없어. 무슨 일 있으면 밖에서 지원해.",
+			"There's no need to risk putting us both in danger. If anything goes wrong, you can help from the outside.",
+			null,
+			"Can not let everyone risk with me, if there are any accidents you can still be outside to meet.",
+			"There's no need to risk the two of us together. If anything goes wrong, you'll need help from the outside."
+		],
+		[
+			"msg",
+			301135,
+			"Are you worried about me? Don’t worry, I will be fine~",
+			"你是在担心我么？放心吧，我不会有事的~",
+			"ふふ、何？私の心配してくれてるの？大丈夫だから、安心して～！",
+			"후후, 뭐? 내 걱정해주고 있는 거야? 괜찮으니까, 안심해~!",
+			"Hmmm~? Are you worried about me? Don't worry, I'll be fine~!",
+			null,
+			"Are you worried about me? Don't worry, I'll be fine~",
+			"Hmmm, what? Are you worried about me? I'm fine, don't worry~!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			132
+		]
+	],
+	"131": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10108"
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301136,
+			"I’m not trying to be brave! I can’t let you all risk it with me. If anything happens, you can still help from outside!",
+			"我才没有逞强！不能让大家和我一起冒险，如果有什么意外的话你们还能在外面接应！",
+			"強がってなんかないって！みんな揃って危険を冒すわけにいかないでしょ。何かあったら外から支援してちょうだい。",
+			"강한 척 하는 거 아니야! 모두 함께 위험을 감수할 순 없잖아. 무슨 일 있으면 밖에서 지원해 줘.",
+			"I'm not trying to be brave! I can't let you risk your life with me. If anything goes wrong, you can help from the outside.",
+			null,
+			"I'm not trying to be a hero! I can't let you all risk your lives with me. If anything happens, you can still be out there to pick up the pieces!",
+			"I'm not being pushy! We can't all take risks. If anything goes wrong, you'll need help from the outside."
+		],
+		[
+			"msg",
+			301137,
+			"C’mon! You really sound like Bronya now!",
+			"真是的！怎么感觉你的口气越来越像姐姐大人了！",
+			"まったくもう！あなたの口ぶり、だんだんお姉ちゃんに似てきた気がするわ！",
+			"정말이지! 너 말투가 점점 언니를 닮아가는 것 같아!",
+			"What the hell! You're starting to sound more and more like my sister!",
+			null,
+			"What the hell! You're sounding more and more like your sister!",
+			"Oh my God! You are starting to sound more and more like your sister!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			132
+		]
+	],
+	"132": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10108"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301138,
+			"But... You’re right. Two of us can look after each other. Follow me then~",
+			"不过…你说的也对，两个人一起也有个照应，那就跟我来吧~",
+			"もう、そんな目で見つめないでよ、そんなに心配？……わかったわ、二人一緒なら何かと協力もできるし、ついてきて。",
+			"정말, 그런 눈으로 쳐다보지 마, 그렇게 걱정돼?…… 알았어, 둘이 함께라면 뭐든 협력할 수 있겠지, 따라와.",
+			"Hey, don't give me that look, are you that worried? ....Alright, I guess you'll be able to help me if we go in together. Follow me~",
+			null,
+			"But ... you are also right, two people together also have a care, then come with me ~",
+			"Don't stare at me like that anymore, are you that worried? ...... Okay, I can help you with something if you two are together, follow me."
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301140,
+			"There are a lot of Mechanical weapon wreckage... These bullet holes are from Bronya’s guns. They have been here!",
+			"一路上好多机甲兵器的残骸…这些弹痕是布洛妮娅姐姐的枪形成的，她们果然来过这里！",
+			"途中に機甲兵器の残骸がいっぱいあった……しかも、この弾痕はブローニャお姉ちゃんの銃。やっぱり、ここを通ったのよ！",
+			"도중에 기갑 병기의 잔해가 엄청 많았어…… 게다가 이 탄흔은 브로냐 언니의 총. 역시, 여기를 지나간 거야!",
+			"There's a lot of wreckage caused by those armored mechas here... And these bullet holes are from Bronya's gun. I knew it, she must have gone through here! (TN: For those of you wondering if it's even possible to tell, yes, depending on which bullets she prefers. Hypothetically if she used fragmenting bullets then it would be easy to guess it was her. More importantly, isn't Bronya's main firearm a sniper rifle? Has she been fighting those androids in corridors with a sniper rifle? Seems like it would be kind of hard to aim that while running for your life.)",
+			null,
+			"A lot of mecha weapon wreckage along the way...these bullet marks were formed by sister Bronya's gun, they really came here!",
+			"There was a lot of wreckage from armored weapons along the way: ...... And these bullet holes are Bronya's sister's gun. I knew it, it went through here!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV03_WarningAlert"
+		],
+		[
+			"msg",
+			301141,
+			"*Beep*",
+			"滴滴滴——",
+			"ピピピ——",
+			"삐빅——",
+			null,
+			null,
+			"Drip-drip-drip-",
+			"Beepee--"
+		],
+		[
+			"msg",
+			301142,
+			"「Intruders found. Expel now! Expel now! 」",
+			"「发现入侵者，立即驱逐！立即驱逐！」",
+			"「侵入者発見、直ちに駆逐せよ！」",
+			"「침입자 발견, 즉시 섬멸하라!」",
+			"「Intruders detected. Eliminate now! Eliminate now!」",
+			null,
+			"\"Intruders found, evict immediately! Expel immediately!\"",
+			"Intruder detected. Destroy immediately!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301143,
+			"Ouch! Why are there so many Mechanical weapons!",
+			"糟了！怎么还有这么多机甲兵器！",
+			"まずい！まだ、こんなに機甲兵器がいたの！？",
+			"큰일이! 아직, 이렇게 많은 기갑 병기가 있었던 거야!?",
+			"Shoot! Why are there still so many of these mechas!",
+			null,
+			"Oh no! How come there are still so many mecha weapons!",
+			"Oh no! There are still so many armored weapons!"
+		],
+		[
+			"msg",
+			301144,
+			"They have blocked our way back! We have to move forward! If they surround us, we are done!",
+			"回去的路已经被拦截了！看来只能往前进攻了！如果被它们包夹的话就逃不掉了！",
+			"くっ、帰り道がふさがれた……！先を急ぎましょう！挟み撃ちにされたら逃げられなくなっちゃう。",
+			"쳇, 돌아갈 길이 막혔어……! 서둘러야 해! 협공당하면 도망칠 수 없게 돼 버려.",
+			"Damn it, they're behind us...! We've got to keep moving forward! If they surround us, we're done for!",
+			null,
+			"The way back has been blocked! It seems we can only go forward to attack! If they are pinned down, we can't escape!",
+			"Damn, my way home is blocked ......! Let's get a move on! If we get caught in between, we won't be able to escape."
+		],
+		[
+			"msg",
+			301145,
+			"You have my back. We must save Bronya!",
+			"我的身后就交给你了，一定要救出姐姐大人！",
+			"背後は任せるわ。絶対にお姉ちゃんを救出しなきゃ！",
+			"뒤는 내가 맡을게. 절대로 언니를 구출해야 해!",
+			"Cover my back. We've gotta save Bronya!",
+			null,
+			"I'll leave my behind to you, make sure to save my sister-sama!",
+			"I'll leave the back to you. We have to rescue your sister for sure!"
+		]
+	],
+	"133": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			301146,
+			"Dadada!",
+			"哒哒哒！！",
+			"ダダダッ！！",
+			"다다닥!!",
+			null,
+			null,
+			"Ta-da!!!",
+			"Dah dah dah dah!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301147,
+			"Himeko, watch the enemies on your right!",
+			"姬子，小心右翼的敌人！",
+			"姫子、右翼の敵に気をつけてください！",
+			"히메코, 우익의 적을 조심하세요!",
+			"Himeko, watch out for the enemies on your right!",
+			null,
+			"Himeko, watch out for the enemy on the right flank!",
+			"Himeko, watch out for your right-wing enemies!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301148,
+			"Shut up! Worry about yourself!",
+			"少废话！还是担心你自己吧！",
+			"余計なお世話よ！そんなことより自分の心配をしたらどう！？",
+			"쓸데없는 참견이야! 그런 것보다 네 걱정이나 하는 게 어때!?",
+			"Cut the crap! Worry about yourself first!",
+			null,
+			"Cut the crap! Better worry about yourself!",
+			"None of your business! Why don't you mind your own business!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301149,
+			"We can’t keep going like this. We have to stop the production line of the Mechanical weapons, or they will just keep coming!",
+			"这样下去不是办法，我们得想办法停止机甲兵器的生产线，不然会有源源不断的敌人！",
+			"このままではいけません。何とかして機甲兵器の生産ラインを止めないと。敵がどんどん湧いて出てきます。",
+			"이대로는 안 됩니다. 어떻게든 기갑 병기의 생산 라인을 멈춰야 해요. 적이 점점 더 많이 나타나고 있어요.",
+			"We can't keep going like this. We have to find a way to shut down the production line for those mechas or they're not going to stop coming!",
+			null,
+			"This is not the way to go, we have to find a way to stop the production line of mechatronic weapons, or there will be a constant stream of enemies!",
+			"We cannot let this continue. We have to stop the production line of armored weapons somehow. The enemy is coming out of the woodwork."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301150,
+			"So let’s just blow it up!",
+			"所以说炸掉这里不就行了么！",
+			"だから、ここを爆破しようって言ってるじゃない！",
+			"그래서 여기를 폭파하자고 말하는 거 아니야!",
+			"I told you already that we should just blow it up!",
+			null,
+			"So it's not enough to blow up the place!",
+			"I told you, let's blow this place up!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301151,
+			"No! We must keep the production lines safe, they are our biggest asset fighting Houkai!",
+			"不行！我们一定要确保这些生产线，它们是我们对抗崩坏的底牌！",
+			"だめです！ここの生産ラインは絶対に確保しないと。崩壊に抵抗する切り札ですから。",
+			"안 돼요! 여기의 생산 라인은 절대 확보해야 해요. 붕괴에 저항하는 필살기이니까요.",
+			"No, we can't! We have to secure the production lines. This factory can be our trump card against the Honkai!",
+			null,
+			"No way! We must secure these lines, they are our base card against the collapse!",
+			"No, you can't! We absolutely must secure the production line here. It is our trump card to resist collapse."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301152,
+			"I can kill all the Houkai Creatures without Anti-Entropy’s help!",
+			"不需要借助逆熵的力量我也可以把崩坏生物都杀光！",
+			"ネゲントロピーの力なんか借りなくたって、崩壊生物くらい始末してやるわよ！",
+			"네겐트로피의 힘 같은 거 빌리지 않아도, 붕괴 생물 정도는 처리해 주겠어!",
+			"I don't need Anti-Entropy's help to kill those damn Honkai Beasts!",
+			null,
+			"I can kill all the Avalanche creatures without the power of reverse entropy!",
+			"I don't need the help of a negentropy to take care of the disintegrating organisms!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301153,
+			"Himeko! Come back!",
+			"姬子，不要逞强快回来！",
+			"姫子、一人で突っ走らないでください。危険です！",
+			"히메코, 혼자서 돌진하지 마세요. 위험합니다!",
+			"Himeko, don't run off on your own! It's too dangerous!",
+			null,
+			"Himeko, don't be a hero, come back!",
+			"Himeko, please don't run off on your own. It's dangerous!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			301154,
+			"Dadada!",
+			"哒哒哒！！",
+			"ダダダッ！！",
+			"다다닥!!",
+			"(bullet noises)",
+			null,
+			"Ta-da!!!",
+			"Dah dah dah dah!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301155,
+			"Bronya!",
+			"姐姐大人！",
+			"お姉ちゃん！",
+			"언니!",
+			"Bronya!",
+			null,
+			"Sister-sama!",
+			"Sis!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301156,
+			"Seele? Why are you...",
+			"希儿？你们怎么会……",
+			"ゼーレ！？どうしてここに……。",
+			"제레!? 어떻게 여기에…….",
+			"Seele? How did you guys...",
+			null,
+			"Hill? How did you guys ......",
+			"Seele! How did you get here ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301157,
+			"You are a fool! Why do you go alone again! You promised we do this together!",
+			"姐姐大人这个笨蛋！为什么又一个人冒险啦！不是说好要大家一起的么！",
+			"お姉ちゃんのバカ！どうしてまた一人で危険なことするの！みんな一緒って言ったじゃない！",
+			"언니 이 바보! 왜 또 혼자서 위험한 일을 하는 거야! 다 같이 하자고 했잖아!",
+			"You moron! Why are you risking your life alone again!? You promised that we were in this together!",
+			null,
+			"Sister, you idiot! Why are you risking your life alone again? I thought we were supposed to be together!",
+			"You stupid sister! Why are you taking risks by yourself again? You said we were all in this together!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301158,
+			"Hey, I’m here too...",
+			"你别忘了我也在啊……",
+			"私もいるんだけどね……。",
+			"나도 있는데 말이야…….",
+			"Hey, I'm here too...",
+			null,
+			"Don't forget I'm here too ......",
+			"I'm here too. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301159,
+			"Well... Himeko, sorry! I almost forgot about you~",
+			"唔…姬子，抱歉！我差点把你忘了~",
+			"あ……姫子さん、ごめんなさい！視界に入っていませんでした！",
+			"아……히메코 씨, 미안해요! 시야에 들어오지 않았어요!",
+			"Oh.... Himeko, sorry! I didn't see you there~",
+			null,
+			"Well...Himeko, sorry! I almost forgot about you~",
+			"Oh ...... Himeko, I'm sorry! I wasn't in sight!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301160,
+			"You brat...",
+			"你这丫头……",
+			"この小娘……。",
+			"이 꼬맹이…….",
+			"You brat... (TN: Literal translation is \"You little girl\")",
+			null,
+			"You girl ......",
+			"This little girl ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301161,
+			"Sorry, Seele... But there is a reason. We wanted to investigate ME Corp and confirm the status of production line, but didn’t expect so many operating Mechanical weapons.",
+			"对不起，希儿…但这次是有原因的，我们本来是想来探查ME社的状况，确认生产线的状况，没想到这里还有这么多的机甲兵器在运作。",
+			"ごめんなさい、ゼーレ……でも、今回は訳があるのです。本来はME社を調査して、生産ラインの状況を確認するだけのつもりでした。こんなにも機甲兵器が稼働しているとは思わなかったのです……。",
+			"미안해, 제레…… 하지만 이번에는 사정이 있었어. 원래는 ME사를 조사해서 생산 라인의 상황을 확인할 생각이었어. 이렇게까지 기갑 병기가 가동 중일 줄은 몰랐다고…….",
+			"I'm sorry, Seele... But there's a valid reason for this. We wanted to investigate ME Corp. and confirm the status of the weapons manufacturing plant. I had no idea that all these armored mechas were still operating...",
+			null,
+			"I'm sorry, Shire...but there is a reason for this time. We had wanted to come to explore the state of the ME Society and confirm the status of the production line, and we didn't expect there to be so many mechatronic weapons in operation here.",
+			"Sorry, Seele ......, but this time there is a reason. Originally, I was just going to investigate the ME company and check the status of the production line. I had no idea that so many armored weapons were in operation. ......"
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301162,
+			"I didn’t want you to take the risk. Himeko and I could respond to any situation...",
+			"本来不想让你们冒险，如果是我和姬子的话不管什么情况都可以应对……",
+			"あなたたちを危険な目に遭わせたくなかった。ブローニャと姫子だけなら、どんな状況になっても対応できますから……。",
+			"당신들을 위험한 상황에 빠뜨리고 싶지 않았어. 브로냐와 히메코만이라면, 어떤 상황이 되어도 대처할 수 있으니까…….",
+			"I didn't want to put you guys in danger. We thought we'd be able to handle it on our own, no matter the situation...",
+			null,
+			"Originally did not want to let you take risks, if it is me and Himeko then no matter what the situation can cope with ......",
+			"I didn't want to put you guys in danger. Bronja and Himeko alone can handle any situation. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301163,
+			"So you don’t believe in me!",
+			"姐姐大人这是不相信我嘛！",
+			"お姉ちゃんったら、ゼーレのこと信用してないの？",
+			"언니는, 제레를 믿지 않는 거야?",
+			"What, so you don't believe in me?",
+			null,
+			"You don't believe me, sister!",
+			"Sis, don't you trust Seele?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301164,
+			"No... It’s just that, my mistake had...",
+			"不是的…只是因为之前我的错误导致……",
+			"そういうことではありません……ただブローニャのせいでケガをさせたくなかったのです……。",
+			"그런 게 아니야…… 단지 브로냐 탓에 다치게 하고 싶지 않았을 뿐이야…….",
+			"That's not what I meant.... I just didn't want you to be injured because of my decisions...",
+			null,
+			"No...it's just because of my mistake before ......",
+			"That's not what I meant ...... I just didn't want to injure you because of Bronya. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301165,
+			"Hey, could you sisters stop it. We are still in battle.",
+			"你们两姐妹能不能不要一见面就这么腻，现在可是战斗中。",
+			"そこの姉妹、会うなり痴話ゲンカやめてくれる？今は戦闘中なのよ。",
+			"저기 자매들, 만나자마자 티격태격 그만해 줄래? 지금은 전투 중이야.",
+			"Hey, you two sisters, can you stop with the lover's quarrel as soon as you see each other? We're still in the middle of a battle.",
+			null,
+			"Can you two sisters not be so mushy as soon as you meet, now it's in the middle of a battle.",
+			"Hey, sisters there, can you stop your lover's quarrel as soon as you see each other? We're in the middle of a battle."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301166,
+			"Uh... Alright! I will forgive you for now.",
+			"呃…好吧！这次先原谅姐姐大人。",
+			"あ……はい！ひとまずお姉ちゃんのこと許してあげる。",
+			"아…… 네! 일단 언니는 용서해 줄게.",
+			"Ah... Alright! I'll forgive you for now.",
+			null,
+			"Uh...okay! Forgive Sister-sama first this time.",
+			"Ah ...... yes! I forgive your sister for a moment."
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301167,
+			"Anyway, it’s very dangerous now! A lot of Houkai Creatures are coming to ME Corp! Others are fighting them in the hall, we must go back and help them!",
+			"总之现在的情况很危机！大批的崩坏生物都朝着ME社围了过来！大家正在大厅迎击崩坏生物，我们得立即回撤支援！",
+			"とにかく、今は危機的状況なの！大量の崩壊生物がME社を取り囲んでて！みんながホールで崩壊生物を迎撃してくれてるから、急いで支援に戻らないと！",
+			"어쨌든 지금은 위기 상황이야! 대량의 붕괴 생물이 ME사를 둘러싸고 있어! 모두 홀에서 붕괴 생물을 막아주고 있으니까 서둘러 지원하러 돌아가야 해!",
+			"More importantly, the situation outside the building is critical! There's tons of Honkai beasts surrounding ME Corp. Everyone is holed up in the main lobby fighting them off, so we need to get back there and provide support!",
+			null,
+			"In short, the situation is critical! A large number of Avalanche creatures are coming towards ME Society! Everyone is in the lobby to fight the Avalanche creatures, we have to retreat immediately to support!",
+			"Anyway, we're in a critical situation! There are tons of disintegrating organisms surrounding ME Inc. Everyone is intercepting the disintegrators in the halls, so we need to get back to support asap!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301168,
+			"Alright, we can’t just stay here and do nothing with those Mechanical weapons. Himeko, let’s merge with the team.",
+			"好吧，在这里与机甲兵器干耗着也不是办法。姬子，我们与部队汇合吧。",
+			"分かりました。ここで機甲兵器と睨み合ってても仕方ありません。姫子、部隊と合流しましょう。",
+			"알겠습니다. 여기서 기갑 병기와 눈싸움을 해봤자 소용없어요. 히메코, 부대와 합류합시다.",
+			"I understand. There's no point in continuing to fight off these armored mechas. Himeko, let's rendezvous with the troops.",
+			null,
+			"Well, it's not a good idea to spend time here with the mechatronic weapons. Himeko, let's rendezvous with the troops.",
+			"I understand. There's no use staring at armored weapons here. Himeko, let's meet up with the troops."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301169,
+			"If we could go back.",
+			"那也得回得才行。",
+			"そう、だったら急ぎましょう。",
+			"그래, 그렇다면 서두릅시다.",
+			"That's if we can even make it back.",
+			null,
+			"That has to come back too.",
+			"Well, then let's hurry."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV03_WarningAlert"
+		],
+		[
+			"msg",
+			301170,
+			"*Beep*",
+			"滴滴滴——",
+			"ピピピ——",
+			"삐삐삐——",
+			"*Beep*",
+			null,
+			"Drip-drip-drip-",
+			"Beepee--"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301171,
+			"!?",
+			"！？",
+			"！？",
+			"!?",
+			"!?",
+			null,
+			"!",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301172,
+			"Sister! The gate of factory is closing! We must get out now!",
+			"姐姐大人！工厂的大门正在关闭！我们得赶紧出去！",
+			"お姉ちゃん！工場のゲートが閉まるよ！急いで脱出しないと！",
+			"언니! 공장 게이트가 닫혀! 서둘러 탈출하지 않으면!",
+			"Bronya! The factory gate is closing! We have to get out of here!",
+			null,
+			"Sister-sama! The factory gates are closing! We have to get out of here!",
+			"Sis! The factory gate is closing! We have to get out quickly!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301173,
+			"Looks like these machines want to kill us here. We must fight a way out!",
+			"看来这些机甲是想把我们围杀在这里，必须杀出一条路了！",
+			"どうやら、ここの機甲は私たちを閉じ込めるつもりですね。血路を開かねばなりません！",
+			"아무래도 여기의 기갑은 우리를 가두려는 모양이에요. 혈로를 열어야 합니다!",
+			"Seems like those machines want to lock us in. We're going to have to fight our way through!",
+			null,
+			"It seems these mechs are trying to surround us here and must kill a way out!",
+			"Apparently, the armored here intends to lock us in. We must open up the blood channel!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301174,
+			"I know! You don’t have to tell me!",
+			"不用你说我也知道！",
+			"言われなくったって分かってるわ！",
+			"말해주지 않아도 알아!",
+			"As if that wasn't obvious!",
+			null,
+			"I don't need you to tell me!",
+			"I know what you're talking about!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301175,
+			"Let’s go! Follow up, we can’t become her burden!",
+			"走吧！我们也跟上去，不能给姐姐大人拖后腿！",
+			"行こう！私たちも後に続くよ、お姉ちゃんの足を引っ張らないように！",
+			"가자! 우리도 뒤따를게, 언니 발목 잡지 않도록!",
+			"Let's go! We'll follow her, we can't be the ones holding back my sister!",
+			null,
+			"Let's go! Let's follow suit, we can't hold back our sister-sama!",
+			"Let's go! We'll follow you, don't drag your sister down!"
+		]
+	],
+	"134": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10109"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV02_GateClose"
+		],
+		[
+			"msg",
+			301176,
+			"Bang!",
+			"轰！",
+			"ゴゴゴゴゴ……！",
+			"우르르르르......!",
+			null,
+			null,
+			"Boom!",
+			"Gogogogogo ......!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301177,
+			"The gate is closed...",
+			"大门关上了……",
+			"そんな……ゲートが閉まっちゃった！",
+			"저런… 게이트가 닫혀 버렸어!",
+			"Oh no... The gate's closed!",
+			null,
+			"The door is closed ......",
+			"Oh no ...... the gates are closed!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301178,
+			"Tsk! We didn’t make it!",
+			"啧！没赶上么！",
+			"チッ、間に合わなかった！",
+			"쳇, 늦었어!",
+			"Shit, we didn't make it!",
+			null,
+			"Tsk! Didn't make it!",
+			"Damn, I didn't make it!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301179,
+			"Let's find out if there are any other exits.",
+			"我们找找看有没有其他的出口吧！",
+			"他の出口を探しましょ！",
+			"다른 출구를 찾아보자!",
+			"Let's find another way out!",
+			null,
+			"Let's find out if there are other exits!",
+			"Let's find another way out!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301180,
+			"Don’t waste your energy if you don’t have a target. We don’t have much time to waste.",
+			"没有目标的行动只会消耗战力，还是不要白费功夫了，我们现在没有这么多时间浪费。",
+			"待ちなさい、むやみに動き回っても体力を消耗するだけよ。この状況での消耗は得策ではないわ。",
+			"기다려, 함부로 움직여봤자 체력만 소모할 뿐이야. 이런 상황에서 소모전은 좋은 전략이 아니라고.",
+			"Wait, moving around unnecessarily will only drain your energy. It's not a good idea to exhaust yourself in this situation.",
+			null,
+			"Action without a goal will only consume the war effort, or do not waste the effort, we do not have so much time to waste now.",
+			"Wait, moving around unnecessarily will only drain your energy. It's not a good idea to exhaust yourself in this situation."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301181,
+			"But...",
+			"可是……",
+			"でも……。",
+			"하지만…….",
+			null,
+			null,
+			"But ......",
+			"But you can also visit ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301182,
+			"Don't panic, there must be a way.",
+			"不要着急，肯定还有方法。",
+			"焦らないでください、必ず方法はあります。",
+			"조급해하지 마세요, 반드시 방법이 있습니다.",
+			null,
+			null,
+			"Do not rush, there must be a way.",
+			"Don't panic, there is always a way."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301183,
+			"A large arsenal like this should have an overall management system. If we can get to the control room, we may be able to stop the production.",
+			"这么大的兵工厂有着统一的管理系统，如果能到达控制室或许就能阻止这些机甲的生产。",
+			"こんなに大きな兵器工場なら、一括で現場を管理するシステムがあるはず。制御室に辿り着ければ、この機甲の生産を止められるかも。",
+			"이렇게 거대한 병기 공장이라면 통합 관리 시스템이 있을 거야. 제어실에 도달할 수만 있다면 이 기갑의 생산을 멈출 수 있을지도.",
+			"A massive weapons manufacturing plant like this should have a system to control the entire site at once. If we can get to the control room, we might be able to stop the production of these mechs.",
+			null,
+			"An arsenal of this size has a unified management system, and if you can reach the control room you might be able to stop the production of these mechs.",
+			"A weapons factory this big should have a system to control the entire site at once. If we can get to the control room, we might be able to stop the production of this armor."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301184,
+			"We will be dead for a long time when you find the control room!",
+			"等你找到控制室我们尸体都凉了！",
+			"これから崩壊生物との戦いが控えてるっていうのに、まだ機甲兵器と戦おうって言うの！？制御室を見つける前に、こっちが死体になってるわよ！",
+			"붕괴 생물과의 전투가 남아있다면서, 아직 기갑 병기와 싸우자고!? 제어실을 찾기 전에 우리가 시체가 되어버릴 거야!",
+			"Are you kidding me? We'd die before we ever find the control room!",
+			null,
+			"When you find the control room our bodies are cold!",
+			"We're about to fight a disintegrating organism and you're still trying to fight an armored weapon! We'll be dead before we find the control room!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301185,
+			"Trust me... I know where it is! Follow me!",
+			"相信我…我知道它在哪！跟我来！",
+			"制御室の場所……いえ、知ってます！ブローニャは、制御室の場所がわかります！！ついてきてください！",
+			"제어실 위치... 아니, 알고 있어요! 브로냐는 제어실의 위치를 알고 있어요!! 따라오세요!",
+			null,
+			null,
+			"Trust me...I know where it is! Come with me!",
+			"Control room location: ...... No, I know where it is! Bronya knows where the control room is! Follow me!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301186,
+			"Let’s focus fire and divide the Mechanical weapons, so Bronya can leave here!",
+			"我们集中火力把机甲兵器分割开，掩护姐姐大人离开！",
+			"火力を集中して機甲兵器を引き離そう！お姉ちゃんを援護して！",
+			"화력을 집중해서 기갑 병기를 떼어내자! 언니를 엄호해!",
+			"Concentrate your firepower and draw away the armored weapons! Cover Bronya so she can get out of here!",
+			null,
+			"Let's concentrate our firepower to split the mechatronic weapons and cover the departure of Lord Sister!",
+			"Concentrate your firepower and draw away the armored weapons! Cover your sister!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301187,
+			"Tsk, so much trouble!",
+			"啧，真是麻烦！",
+			"チッ、まったく面倒ね！",
+			"쳇, 정말 귀찮네!",
+			"Damn, what a pain in the ass!",
+			null,
+			"Tsk, what a pain in the ass!",
+			"Damn, what a pain in the ass!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			301188,
+			"Dadada!",
+			"哒哒哒！！",
+			"ダダダッ！！",
+			"다다닥!!",
+			null,
+			null,
+			"Ta-da!!!",
+			"Dah dah dah dah!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301189,
+			"Think carefully... I spent some time with Mei in ME Corp, there must be a record of the location of control room...",
+			"仔细想想…那个时候和芽衣姐姐在ME社中经历的事情，兵工厂的控制室位置一定记录过……",
+			"思い出すのです……あのとき芽衣姉様とME社内で経験したことを。兵器工場の制御室の場所は……。",
+			"기억해 냅니다...... 그때 메이 언니와 ME사에서 경험한 일을. 병기 공장의 제어실 위치는.......",
+			"I've got to think... I remember what I experienced when I was with ME Corp. with my sister Mei. The location of the control room is.....",
+			null,
+			"Come to think of it ... that time and Meiko sister in the ME Society experienced things, the control room location of the arsenal must have recorded ......",
+			"I remember ...... what I experienced that time in the ME company with my sister Mei. The location of the control room in the weapons factory is ......."
+		],
+		[
+			"msg",
+			301190,
+			"...",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301191,
+			"Hey! Don’t stop, keep moving!",
+			"喂！别愣着你倒是快走啊！",
+			"ちょっと！何ぼんやりしてるの、急いで！",
+			"저기! 뭐 멍하니 있는 거야, 서둘러!",
+			"Hey! Hey! What are you dawdling for? Hurry up!",
+			null,
+			"Hey! Don't stand still, you should go!",
+			"Hey! Hey! What are you dawdling for? Hurry up!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301192,
+			"This way!",
+			"这边！",
+			"こっちです！",
+			"이쪽이에요!",
+			null,
+			null,
+			"This way!",
+			"This way!"
+		]
+	],
+	"135": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10140"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			301193,
+			"Dadada!",
+			"哒哒哒！！",
+			"ダダダッ！！",
+			"다다닥!!",
+			null,
+			null,
+			"Ta-da!!!",
+			"Dah dah dah dah!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV02_GateClose"
+		],
+		[
+			"msg",
+			301194,
+			"This is the room! Come on in!",
+			"就是这个房间！快进来！",
+			"この部屋です！早く入って！",
+			"이 방입니다! 빨리 들어가요!",
+			"This is the room! C'mon, c'mon!",
+			null,
+			"This is the room! Come on in!",
+			"This is the room! Come in, come in, come in!"
+		],
+		[
+			"msg",
+			301195,
+			"Seele! Shut the gate of control room!",
+			"希儿！把控制室闸门关上！",
+			"ゼーレ！制御室のゲートを閉じてください！",
+			"제레! 제어실 게이트를 닫아주세요!",
+			"Seele! Shut the gate behind us!",
+			null,
+			"Hill! Close the control room gates!",
+			"Seele! Close the gate to the control room!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301196,
+			"Leave it to me! Sister!",
+			"交给我吧！姐姐大人！",
+			"任せて、お姉ちゃん！",
+			"맡겨둬, 언니!",
+			"Leave it to me, sis!",
+			null,
+			"Leave it to me! Sister-sama!",
+			"I got it, sis!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301197,
+			"Tatatat",
+			"哒哒哒！",
+			"ダダダッ！",
+			"다다닥!",
+			"[Clack Clack Clack!]",
+			null,
+			"Ta-da-da!",
+			"Dah dah dah!"
+		],
+		[
+			"msg",
+			301198,
+			"Bang!",
+			"砰！",
+			"ガシャンッ！",
+			"과아앙!",
+			null,
+			null,
+			"Bang!",
+			"Clash!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301199,
+			"We’ve finally got rid of those bastards...",
+			"终于甩掉那些混蛋了……",
+			"ようやくあいつらを撒けたわ……。",
+			"드디어 저 녀석들을 따돌렸어.......",
+			"We finally shook off those bastards...",
+			null,
+			"Finally got rid of those bastards ......",
+			"I finally got around to scattering those guys. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301200,
+			"Is this the control room? Wow... ME Corp sure had a lot of technology.",
+			"这里就是控制室么？好厉害…ME社的科技力量果然不可小觑。",
+			"ここが制御室なの？すごい……やっぱりME社のテクノロジーは侮れないね。",
+			"여기가 제어실이야? 대단해...... 역시 ME사의 테크놀로지는 얕볼 수 없네.",
+			"This is the control room? Wow... ME Corp.'s technology is more advanced than I thought...",
+			null,
+			"Is this the control room? So powerful...the technological power of ME Society is really not to be underestimated.",
+			"Is this the control room? Wow ...... I knew I shouldn't underestimate the technology of ME company."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301201,
+			"No time to appreciate it. This is not 100% safe. We must plan our next step.",
+			"没时间感叹了，这里也不是绝对安全，我们必须开始下一步计划了。",
+			"感心してる暇はないわ。ここだって絶対に安全とはいえない。次の計画に移らないと。",
+			"감탄할 틈은 없어. 여기도 절대 안전하다고 할 수 없어. 다음 계획으로 넘어가야 해.",
+			"No time to be impressed. Even this place isn't safe. We have to plan our next step.",
+			null,
+			"No time to lament, this is not absolutely safe, we must start the next step of the plan.",
+			"I don't have time to be impressed. Even this place is not safe. We have to move on to the next plan."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301202,
+			"Yeah, I will find a way to hack the admin access of ME Corp. As long as we can disarm their security system, they will not attack us.",
+			"嗯，我会想办法侵入ME社的管理权限，只要能解除这些机甲的安全警卫系统，它们就不会攻击我们了。",
+			"はい、何とかしてME社の管理者権限を乗っ取ります。機甲の防衛システムに侵入して解除さえできれば、こちらを攻撃してこなくなるでしょう。",
+			"네, 어떻게든 ME사의 관리자 권한을 빼앗을 거예요. 기갑의 방어 시스템에 침입해서 해제하기만 하면, 우리를 공격해 오지 않을 거야.",
+			"Right. We need to figure out a way to hack into the ME Corp.'s system and gain administrator privileges. If we can disarm the defense system, those robots will stop coming after us.",
+			null,
+			"Well, I'll find a way to hack into the ME Society's administrative privileges, and as long as I can disable the security guard system of these mechs, they won't attack us.",
+			"Yes, we will manage to hijack the ME company's administrative rights. As long as we can hack into the defense system of the armored car and disarm it, they will not attack us."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301203,
+			"Is it that simple? When we entered ME Corp, there was no security stopping us. They started attacking us until we entered their trap.",
+			"真的只是安全警卫这么简单么？在我们进入ME社的时候根本没有遇到安全警卫系统的阻拦，直到进入了它们的包围圈才突然遭到攻击。",
+			"それならいいけど、本当に防衛システムなんてものが働いたのかしら。私たちがME社に入ったとき、機甲どもは攻めてこなかったわ。奥深く侵入してから攻撃してくるなんて、防衛システムとして杜撰すぎない？",
+			"그럼 좋지만, 정말 방어 시스템 같은 게 작동했던 걸까. 우리가 ME사에 들어왔을 때 기갑들은 덤비지 않았잖아. 깊숙이 침입한 다음에 공격해온다니, 방어 시스템으로서는 허술하지 않아?",
+			"That sounds simple enough, but I really wonder if there was a defense system in the first place. There weren't any robots attacking us when we entered the building. Isn't it strange that the defense system would be triggered only after we made it into the weapons manufacturing area? (TN: Also, why would a defense system have murderbots attacking everyone in the building lol)",
+			null,
+			"Is it really as simple as security guards? We didn't encounter the security guard system at all when we entered the ME Society, and were only suddenly attacked when we entered their perimeter.",
+			"That's all well and good, but I really wonder if any defense system worked. When we entered the ME, they didn't attack us. Isn't it too sloppy of a defense system to attack after penetrating so deep?"
+		],
+		[
+			"msg",
+			301204,
+			"If it’s a security system, this strategy is too weird.",
+			"如果是安全系统的话这种蓄意诱敌深入的战术似乎也太奇怪了。",
+			"ちゃんとした防衛システムなら、もっと手前で機甲兵器たちが止めてきたはず。何か誘い込まれたようで気味が悪いわ。",
+			"제대로 된 방어 시스템이라면, 좀 더 앞에서 기갑 병기들이 막아냈을 텐데. 뭔가 유인당한 것 같아 소름이 돋아.",
+			"A proper defense system would have had the armored mechs patrolling the building to keep people out, not chasing us deeper inside. It's kind of creepy, as if we've been lead here by something...",
+			null,
+			"If it was a security system this deliberate tactic of luring the enemy deeper seems too strange.",
+			"A proper defense system would have stopped the armored weapons much earlier. It's kind of creepy that we've been lured into something."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301205,
+			"Anyway, let’s try it first. It’s our only way out.",
+			"不管怎么说先试试看吧，这是我们唯一的出路了。",
+			"いずれにしても試してみましょう。これが唯一の活路なのですから。",
+			"어쨌든 시도해 봐야 해. 이게 유일한 활로니까.",
+			"Well, it's not like we have a choice right now. Let's try hacking in and see what happens.",
+			null,
+			"Anyway, let's try it first, it's our only way out.",
+			"In any case, let's give it a try. Because this is the only way to make the most of it."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301206,
+			"*Beep*",
+			"滴滴滴……",
+			"ピピピ——",
+			"삐삐삐——",
+			null,
+			null,
+			"Drip ......",
+			"Beepee--"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301207,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301208,
+			"Sister, what’s up?",
+			"姐姐大人，怎么了？",
+			"お姉ちゃん、どうしたの？",
+			"언니, 왜 그래?",
+			"Bronya, what's wrong?",
+			null,
+			"Sister-sama, what's wrong?",
+			"Sis, what's wrong?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301209,
+			"The system control access is invalid. Looks like we can’t shut it from external interface... It’s hard to hack ME Corp’s system using ordinary ways.",
+			"控制系统的权限失效了，看来从外部端口进行关闭似乎是不可能了……果然ME社的系统用通常手段侵入还是太困难了。",
+			"ここの制御システム、権限が失効しています。どうやら、普通の方法では止めることが不可能なようです。",
+			"여기의 제어 시스템, 권한이 만료되었어. 아무래도 평범한 방법으론 멈출 수 없을 것 같아.",
+			"...The access for the security system has expired. It seems like there isn't any way to shut it down physically.",
+			null,
+			"The permission to control the system is disabled, and it seems that shutting it down from an external port is impossible ...... It is true that it is still too difficult to break into ME Society's system by usual means.",
+			"The control system here, the authority has expired. Apparently, it is impossible to stop it by normal means."
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301210,
+			"Project Bunny... Please.",
+			"重装小兔…拜托了。",
+			"もちろん……普通じゃない方法なら止めることができます。重装ウサギ……お願いします。",
+			"물론…… 평범하지 않은 방법이라면 멈출 수 있겠죠. 중장토끼…… 부탁해요.",
+			"Of course... We're not limited to physical means. I've still got Project Bunny.",
+			null,
+			"Reload bunnies...please.",
+			"Of course ...... unusual ways to stop it. Please ...... for a heavy-duty rabbit."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301211,
+			"Wait! Sister, are you going to...",
+			"等等！姐姐大人难道是想……",
+			"待って！お姉ちゃん、まさか……。",
+			"잠깐! 언니, 설마…….",
+			null,
+			null,
+			"Wait! Does Sister-sama want to ......",
+			"Wait!!! Sis, I don't think so. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301212,
+			"Yeah, I will use Project Bunny to upload my mind to the database and hack it from inside.",
+			"嗯，使用重装小兔将我的意识传输到数据库中，从内部侵入。",
+			"はい、重装ウサギを使ってブローニャの意識をデータベースに転送します。内部から侵入すれば、防衛システムを乗っ取ることが可能です。",
+			"네, 중장토끼를 사용해 브로냐의 의식을 데이터베이스로 전송합니다. 내부에서 침입하면 방어 시스템을 장악할 수 있어요.",
+			"Yes. I'm going to use Project Bunny to transfer my consciousness into the computer and hack in from there.",
+			null,
+			"Well, using the reloading bunny to transfer my consciousness to the database and invade from the inside.",
+			"Yes, we use heavily armed rabbits to transfer Bronya's consciousness to the database. If we can get in from the inside, we can hijack the defense system."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301213,
+			"It’s too dangerous to do so given Project Bunny’s state! Let’s find another way!",
+			"以重装小兔现在的状态使用的话太危险了！我们找找看有没有别的方法吧！",
+			"今の状態で重装ウサギを使うのは危険すぎるよ！別の方法を考えよう！",
+			"지금 상태로 중장토끼를 쓰는 건 너무 위험해! 다른 방법을 생각하자!",
+			"It's too risky to use Project Bunny in it's current state! Let's find another way!",
+			null,
+			"It's too dangerous to use in the current state of the reloading bunny! Let's find out if there's another way!",
+			"It's too risky to use a heavily armed rabbit in the state we're in! Let's find another way!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301214,
+			"There’s not time. Hacking with Project Bunny has the greatest chance.",
+			"已经没有时间了，用重装小兔黑入系统是成功率最高的手段。",
+			"もう時間がありません。この方法でシステムに侵入するのが一番成功率が高いです。",
+			"이제 시간이 없어. 이 방법으로 시스템에 침입하는 게 가장 성공률이 높아요.",
+			"There's no time, and hacking in with Project Bunny seems like our best chance.",
+			null,
+			"There is no more time, and hacking into the system with a reinstallation bunny is the means with the highest success rate.",
+			"There is no more time. This is the most successful way to break into the system."
+		],
+		[
+			"msg",
+			301215,
+			"And I believe in Project Bunny. It will try the best to protect me even in this state.",
+			"而且我相信重装小兔，即使是现在这个样子它也会用全力保护我的。",
+			"それに重装ウサギを信じています。今のような状態でも全力でブローニャを守ってくれるでしょう。",
+			"게다가 중장토끼를 믿어요. 지금 같은 상태라도 전력으로 브로냐를 지켜줄 거예요.",
+			"And I believe in Project Bunny. Even in it's current state it will protect me with all its might.",
+			null,
+			"And I believe that the heavy-duty bunny, even in its present state it will protect me with all its might.",
+			"And I believe in heavily armed rabbits. They will protect Bronya at all costs, even in a situation like the one we are in now."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301216,
+			"Sister...",
+			"姐姐大人……",
+			"お姉ちゃん……。",
+			"언니…….",
+			"Bronya...",
+			null,
+			"Sister-sama ......",
+			"Sis. ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301217,
+			"Seele, don’t worry, I will be back soon. Please protect this room when I’m working on it.",
+			"希儿，不要担心，我一会就会回来的，我进行在这段时间内请你们保护好这个房间。",
+			"ゼーレ、心配いりません。きっと戻ってきます。その間、この部屋をしっかり守ってください。",
+			"제레, 걱정하지 마세요. 분명히 돌아올 거예요. 그 동안 이 방을 꼭 지켜주세요.",
+			"Don't worry, Seele. I'll be back in a moment. In the meantime, please protect this room.",
+			null,
+			"Hill, do not worry, I will be back in a moment, I carry on in the meantime please protect this room.",
+			"Seele, don't worry. I am sure they will return. In the meantime, please protect this room."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301218,
+			"Yes! Seele will never let them hurt you!",
+			"嗯！希儿绝对不会让它们伤害姐姐大人的！",
+			"わかった……絶対にお姉ちゃんに危害が及ばないようにするから！",
+			"알겠어요... 절대로 언니에게 해가 가지 않도록 할게요!",
+			"Okay...... I'll make sure no harm comes to you!",
+			null,
+			"Yes! Heer will never let them hurt Sister-sama!",
+			"Okay ...... I'll make sure no harm comes to your sister!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301219,
+			"...You take care. I have a feeling that things are not so easy. If you find any danger, cut off the connection immediately. I can’t get you back if you fry your brain.",
+			"……你自己小心，我总有种预感事情没有这么简单，如果发现有危险就立刻切断链接，要是脑子烧掉的话可接不回来。",
+			"ブローニャ、言うのは簡単だけどこれは危険なことよ。何かあったら直ちにリンクを解除なさい。脳が燃えちゃったら元に戻せないわ。いいわね？",
+			"브로냐, 말하는 건 쉽지만 이건 위험한 일이야. 무슨 일이 생기면 즉시 링크를 해제하세요. 뇌가 타 버리면 원래대로 돌릴 수 없어요. 알겠죠?",
+			"Bronya, this might be easy for you to do, but I have a feeling things aren't going to be as simple as you say. If you encounter any danger, break the link immediately. If your mind gets burned out, there's no way to revive you.",
+			null,
+			"...... you take care of yourself, I always have a feeling things are not so simple, if found in danger immediately cut the link, if the brain burned off can not be picked up.",
+			"Bronya, this is easy for you to say, but this is dangerous. If anything goes wrong, break the link immediately. If your brain burns up, you can't get it back. Okay?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301220,
+			"Yeah, I know...",
+			"嗯，我明白……",
+			"はい、分かっています……。",
+			"네, 알겠습니다....",
+			null,
+			null,
+			"Well, I understand ......",
+			"Yes, I know. ......"
+		],
+		[
+			"msg",
+			301221,
+			"Project Bunny, hacking start!",
+			"重装小兔，入侵开始！",
+			"重装ウサギ、侵入開始！",
+			"중장토끼, 침입 시작!",
+			null,
+			null,
+			"Reloaded bunnies, the invasion begins!",
+			"Heavily armed rabbits, begin infiltration!"
+		],
+		[
+			"bg",
+			"CG10131"
+		],
+		[
+			"msg",
+			301222,
+			"...",
+			"……",
+			"……。",
+			"......",
+			null
+		],
+		[
+			"msg",
+			301223,
+			"Consciousness transfer complete... Successfully hacked into ME Corp system.",
+			"意识传输完成…成功侵入ME社系统。",
+			"意識の転送完了……ME社のシステムに侵入。",
+			"의식 전송 완료... ME사 시스템에 침입.",
+			"Consciousness transfer complete... Successfully hacked into the ME Corp. system.",
+			null,
+			"Consciousness transmission completed...Successful intrusion into ME Society system.",
+			"Consciousness transfer complete ......ME company's system was hacked."
+		],
+		[
+			"msg",
+			301224,
+			"Is this the database of ME Corp? The data looks very chaotic with a lot of discarded information. The operating access is invalid because of this blocked data...",
+			"这里是ME社的数据库么？数据的排列十分混乱，似乎还沉积了许多废弃的资料，是这些堵塞的数据让操作权限失效的么……",
+			"ここがME社のデータベースでしょうか？データの配列がずいぶん乱れています。捨てられたデータがたくさん沈殿しているようです。もしや、データが詰まって操作権限を失効したのでしょうか……。",
+			"여기가 ME사의 데이터베이스인가요? 데이터 배열이 상당히 흐트러져 있네요. 버려진 데이터가 많이 가라앉아 있는 것 같아요. 혹시 데이터가 막혀서 조작 권한을 상실한 걸까요...",
+			"Is this the ME Corp.'s database? It's a complete mess. There seems to be abandoned data lying around everywhere... Is the security system's access blocked off by all this data?",
+			null,
+			"Is this the ME database? The arrangement of data is very confusing, and there seems to be a lot of abandoned data deposited. Is it the blocked data that makes the operation privileges invalid ......",
+			"Is this the ME database? The array of data is very disorganized. There seems to be a lot of discarded data deposited. If so, did the data get stuck and revoke the operating privileges? ......"
+		],
+		[
+			"msg",
+			301225,
+			"Project Bunny, scan the database now and filter the data that looks like control system for me.",
+			"重装小兔，立刻扫描数据库把疑似控制系统的数据筛选出来发给我。",
+			"重装ウサギ、直ちにデータベースをスキャンし、疑似制御システムのデータを選別してください。",
+			"중장토끼, 즉시 데이터베이스를 스캔하고 가짜 제어 시스템 데이터를 선별하세요.",
+			"Project Bunny, perform a scan on the database and gather anything that looks like it's related to the security system.",
+			null,
+			"Reload the bunny and immediately scan the database to filter out the data of the suspected control system and send it to me.",
+			"Heavily armed rabbits, immediately scan the database and sort through the pseudo control system data."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301226,
+			"*Beep*",
+			"滴滴滴……",
+			"ピピピ……。",
+			"삐삐삐...",
+			null,
+			null,
+			"Drip ......",
+			"Pipi. ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301227,
+			"Data detection is interfered... Is it a firewall? I know it’s not going to be that easy. Looks like I have to break in by force.",
+			"数据侦测受到干扰…是防火墙么？果然没有那么简单就能找到，看来只能用武力突破了。",
+			"データ検出の妨害……ファイアウォールでしょうか？やはり、そう簡単には見つかりませんね。力づくで突破するしかなさそうです。",
+			"데이터 검출 방해…… 방화벽인가요? 역시, 그렇게 쉽게는 찾을 수 없군요. 힘으로 뚫는 수밖에 없을 것 같습니다.",
+			"The scan was interrupted... Is it a firewall? Guess it wouldn't have been that easy... I'll have to break through by force.",
+			null,
+			"Data detection is interfered with...is it a firewall? I'm sure it's not that easy to find, it seems that we can only break through by force.",
+			"Is it the ...... firewall that interferes with data detection? After all, it is not so easy to find. It seems that we will have to break through it by force."
+		],
+		[
+			"msg",
+			301228,
+			"Project Bunny, switch to demolition mode. We must find the corrupt system program ASAP!",
+			"重装小兔，切换到粉碎模式，我们必须尽快找到被破坏的系统程序！",
+			"重装ウサギ、粉砕モードにチェンジ。できるだけ早くプログラムを見つけないと……。",
+			"중장토끼, 분쇄 모드로 전환. 가능한 한 빨리 프로그램을 찾지 않으면…….",
+			"Project Bunny, switch to demolition mode. We need to find that corrupted program as soon as possible!",
+			null,
+			"Reload the bunny, switch to smash mode, we must find the corrupted system program as soon as possible!",
+			"Heavily armed rabbits, changed to smash mode. We need to find a program as soon as possible. ......"
+		],
+		[
+			"msg",
+			301230,
+			"The area in front should be the location of control system data. If I can activate it...",
+			"前面的区域应该就是控制系统所在的数据位置了，只要激活它的话……",
+			"前方のエリアに制御システムのデータがあるはず。これをアクティベートすれば……。",
+			"전방 구역에 제어 시스템 데이터가 있을 겁니다. 이것을 활성화하면…….",
+			"The area in front should be where the control system's data is located. If I can activate it...",
+			null,
+			"The area in front should be the data location where the control system is located, as long as it is activated ......",
+			"There should be control system data in the front area. You can activate this at ......."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301231,
+			"Hehehe~",
+			"嘻嘻嘻~",
+			"うふふっ……。",
+			"우후훗…….",
+			"Hehehe~",
+			null,
+			"Hee hee hee~",
+			"Ummm... ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301232,
+			"Who?",
+			"谁？",
+			"誰です？",
+			"누구세요?",
+			"Who's there?",
+			null,
+			"Who?",
+			"Who is it?"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301233,
+			"The bird in the cage~ When, oh when will it come out~",
+			"竹笼眼~竹笼眼~笼中的鸟儿何时出~",
+			"か～ごめかごめ～、籠の中の鳥は～いついつ出やる……♪",
+			"까꿍~ 까꿍~, 우리 속의 새는~ 언제 언제 나올까……♪",
+			"Kagome Kagome, the bird in the cage~ When will it come out ......♪//n(TN: The unknown person is singing a song associated with a Japanese children's game, see https://en.wikipedia.org/wiki/Kagome_Kagome )",
+			null,
+			"Bamboo cage eye ~ bamboo cage eye ~ cage of birds when out ~",
+			"Kagome Kagome, the bird in the cage - when will it come out ......♪"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301234,
+			"That voice is familiar... Feels like I have heard it somewhere.",
+			"这个声音好熟悉…好像在哪里听过。",
+			"聞き覚えのある声……一体どこから……？",
+			"들어본 적 있는 목소리…… 대체 어디서……?",
+			"That voice is familiar.... Where in the world did I hear that from.....?",
+			null,
+			"This voice is so familiar...I think I've heard it somewhere before.",
+			"A familiar voice ...... where in the world did you get ...... from?"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301235,
+			"Where are you looking at~ Come and find me now~",
+			"你在看哪里呀~快来找我吧~",
+			"ねぇ、どこ見てるの？早く探しに来て～。",
+			"저기, 어디 보고 있는 거예요? 빨리 찾으러 와요~.",
+			"Hey, where are you looking? Come and look for me quickly~. //n<size=30>(TN: Hopefully you read the Wikipedia page, she's telling Bronya to find her like the children's game)</size>",
+			null,
+			"Where are you looking? Come and find me!",
+			"Hey, where are you looking? Come and look for me quickly~."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301236,
+			"Wait! Don't go!",
+			"等下！不要走！",
+			"待ってください！",
+			"기다려 주세요!",
+			null,
+			null,
+			"Wait! Don't go!",
+			"Wait!"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301237,
+			"This way this way, I’m here~",
+			"这边这边，我在这里哦~",
+			"こっちこっち、ここよ～！",
+			"이쪽 이쪽, 여기예요~!",
+			"Over here, over here, over here!",
+			null,
+			"This way, this way, I'm here!",
+			"Over here, over here, over here!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				211,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301238,
+			"Father~",
+			"父亲大人~",
+			"お父様～！",
+			"아버님~!",
+			null,
+			null,
+			"Father~",
+			"Father~!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				211,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301239,
+			"Sister Mei!",
+			"芽衣姐姐！",
+			"芽衣姉様！",
+			"메이 언니님!",
+			null,
+			null,
+			"Meiko-san!",
+			"Sister Mei!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10140"
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV03_WarningAlert"
+		],
+		[
+			"msg",
+			301240,
+			"「Alarm! Alarm! Houkai Reaction detected! Locking down the area! Non-combatants, evacuate now!」",
+			"「警报！警报！发现崩坏能反应！封锁区域！请非作战人员立即撤离！」",
+			"「警報！警報！崩壊エネルギー反応を検出！エリアを封鎖します！戦闘要員以外は速やかに撤退してください！」",
+			"「경보! 경보! 붕괴 에너지 반응을 감지! 지역을 봉쇄합니다! 전투 요원 이외는 신속히 철수해 주십시오!」",
+			"「Warning! Warning! Honkai Reaction detected! Locking down the area! All noncombatants must evacuate immediately!」",
+			null,
+			"\"Alert! Warning! Avalanche energy reaction detected! Lockdown area! Please evacuate non-combatants immediately!\"",
+			"Alarm! Alarm! Disruptive energy signature detected! Lock down the area! All noncombatants must evacuate immediately!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			301241,
+			"Uh! What’s going on! Why is there an alarm?",
+			"呃！怎么回事！为什么忽然想起警报了？",
+			"え！？どういうこと？どうして急に警報が！？",
+			"에!? 무슨 소리야? 왜 갑자기 경보가!?",
+			"Ugh! What the hell! Why's the alarm suddenly going off?",
+			null,
+			"Ugh! What the hell! Why did the alarm suddenly come on?",
+			"What? What's going on? Why the sudden alarm?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301242,
+			"Looks like the paralyzed defense system has been activated. Could it be Bronya...",
+			"看来原本瘫痪的防御系统被激活了，难道是布洛妮娅么……",
+			"どうやら麻痺していた防衛システムが復活したみたいね。まさかブローニャが……。",
+			"아무래도 마비됐던 방어 시스템이 부활한 모양이네. 설마 브로냐가…….",
+			"Looks like the original defense system has been restored. Did Bronya....?",
+			null,
+			"It seems that the original paralyzed defense system was activated, could it be Bronya ......",
+			"Apparently the paralyzed defense system has been restored. I didn't think Bronya was ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301243,
+			"Bang!",
+			"轰！",
+			"ドゴーン！",
+			"우르릉!",
+			null,
+			null,
+			"Boom!",
+			"Boom!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301244,
+			"Tsk! The gate of control room is opening! Prepare to engage!",
+			"啧！控制室的闸门要打开了！准备迎击！",
+			"チッ！制御室のゲートが開くわ！迎撃用意！",
+			"쳇! 제어실 게이트가 열려! 요격 준비!",
+			"Shit! The control room gate is opening! Prepare to engage!",
+			null,
+			"Tsk! The control room gates are about to open! Prepare to meet the attack!",
+			"Shit! The control room gate is opening! Prepare to intercept!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301245,
+			"Why this point of time! Everyone! We must defend the gate! We can’t let these Mechanical weapons in!",
+			"怎么会偏偏这种时候！各位！一定要守住大门！不能让这些机甲兵器进来！",
+			"なんでこんなときに！全員、ゲートからの侵入を防いで！あの機甲兵器を中に入れちゃいけない！",
+			"왜 이런 때에! 모두, 게이트로부터의 침입을 막아! 저 기갑 병기를 안으로 들여보내서는 안 돼!",
+			"Why did it have to be right now!? Let's guard the gate! We can't let these mechs in!",
+			null,
+			"How could it be this time of year! Everyone! We must guard the gate! We can't let these mechs in!",
+			"Why at a time like this! Everyone, keep them out of the gate! We can't let that armored weapon in!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301246,
+			"We are surrounded now, if Bronya fails, we are doomed!",
+			"我们现在就是瓮中之鳖，如果布洛妮娅失败的话我们就必死无疑了！",
+			"今の私たちは袋のネズミよ。ブローニャが失敗したら死は確実……。",
+			"지금의 우리는 함정에 걸린 쥐야. 브로냐가 실패하면 죽음은 확실…….",
+			"We're sitting ducks here. If Bronya fails, we're going to die for sure.",
+			null,
+			"We are now a turtle in a jar, if Bronya fails then we will be dead for sure!",
+			"We are rats in the sack now. If Bronya fails, death is certain. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301247,
+			"No! I believe in her! I’m sure she will make it!",
+			"不会的！我相信姐姐大人！她一定会成功的！",
+			"そんなことない、絶対に成功するもん！お姉ちゃんを信じてる！",
+			"그럴 리 없어, 절대 성공할 거야! 언니를 믿어!",
+			"She won't! I know she can do it! I believe in my sister!",
+			null,
+			"It won't happen! I believe in Sister-sama! She will succeed!",
+			"No, you don't. I know you'll make it! I believe in you, sister!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301248,
+			"「Houkai Source detected! Eliminate now! Eliminate now!」",
+			"「发现崩坏源！立即消灭！立即消灭！」",
+			"「崩壊源を発見！直ちに除去せよ！」",
+			"「붕괴 원인을 발견! 즉시 제거하라!」",
+			"「Honkai Source detected! Eliminate now! Eliminate now!」",
+			null,
+			"\"Source of disintegration found! Destroy immediately! Destroy immediately!\"",
+			"\"Decay source found! Remove it immediately!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301249,
+			"Shut up! The only one you can believe is yourself!",
+			"闭嘴！能相信的就只有自己而已！",
+			"甘いのよっ！他人を信じるな！信じられるものなんて、自分だけよ！",
+			"착각하지 마! 남을 믿지 마! 믿을 수 있는 건 자신뿐이야!",
+			"You're so naïve! Look around us! The only person worth believing in is yourself!",
+			null,
+			"Shut up! The only person you can trust is yourself!",
+			"You're so naive! Don't trust others! The only person you can trust is yourself!"
+		],
+		[
+			"msg",
+			301250,
+			"Fire!",
+			"开火！",
+			"撃てーッ！",
+			"발사——!",
+			null,
+			null,
+			"Fire!",
+			"Shoot!"
+		]
+	],
+	"136": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10131"
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301251,
+			"Sister Mei! Wait for me please!",
+			"芽衣姐姐请等等我！",
+			"芽衣姉様、待ってください！",
+			"메이姉님, 기다려 주세요!",
+			null,
+			null,
+			"Meiko-san, please wait for me!",
+			"Sister Mei, please wait!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				211,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301252,
+			"Father! Here here~",
+			"父亲大人！这里这里~",
+			"お父様！こっちこっち～！",
+			"아버지! 이리 와요~!",
+			"Father! Over here, over here~!",
+			null,
+			"Father-sama! Here here~",
+			"Father! Over here, over here~!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				211,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301253,
+			"Is this Mei’s home... I remember, I have seen this in Mei’s dream before.",
+			"这里是芽衣姐姐的家么…我想起来了，以前在芽衣姐姐的梦境中曾经看到过这样的光景。",
+			"ここは芽衣姉様の家なのですか……思い出しました、前に芽衣姉様の夢でこんな光景を見たことがあります。",
+			"여기가 메이姉님의 집인가요…… 생각났어요, 전에 메이姉님의 꿈에서 이런 광경을 본 적이 있어요.",
+			"Is this Mei's house? ...... I remember, I've seen this scene before in Mei's dream.",
+			null,
+			"This is the home of Meiko-san... I remembered that I had seen this kind of light in Meiko-san's dream world before.",
+			"Is this Mei's sister's house? ...... I remember, I have seen this scene before in Mei's sister's dream."
+		],
+		[
+			"msg",
+			301254,
+			"This is a virtual space formed by data. The data in every other place is all messed up, and this is the only place where everything is preserved nicely. There must be a lot of protection here.",
+			"这里是由数据情报构成的虚拟空间，明明其他区域的数据都混乱不堪，唯独这个地方保存的这么完好，这里一定有着严密的保护吧。",
+			"ここはデータのみで構成された仮想空間。どういうことでしょう、他のエリアのデータはひどく混乱してるのに、ここだけは完璧に保存されています。厳重に保護されている……？",
+			"여기는 데이터만으로 구성된 가상 공간이군요. 어떻게 된 일일까요, 다른 영역의 데이터는 심하게 혼란스러운데 여기만은 완벽하게 보존되어 있어요. 엄중하게 보호되고 있는……?",
+			"This is a virtual space composed entirely of data. I don't understand, the data in the other areas is a complete mess, but only here is it perfectly preserved. It is heavily protected ......?",
+			null,
+			"This is a virtual space made up of data intelligence, obviously the data in other areas are in chaos, but only this place is so well preserved, there must be a tight protection here, right?",
+			"This is a virtual space composed entirely of data. I don't understand, the data in the other areas is terribly messed up, but only here is it perfectly preserved. It is heavily protected ......?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				211,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301255,
+			"Father, let’s play hide and seek! Father~",
+			"父亲大人，来玩捉迷藏吧！父亲大人~",
+			"お父様、かくれんぼしましょ！お父様～！",
+			"아버지, 숨바꼭질하자요! 아버지~!",
+			"Father, let's play hide and seek! Father~",
+			null,
+			"Father-sama, let's play hide-and-seek! Father-sama~",
+			"Father, let's play hide and seek! Father~!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				211,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301256,
+			"The person created this space must love Mei very much because her information has been preserved so well. It’s so nice to see her smile here.",
+			"把芽衣姐姐的资料这么细心地保存下来，制造这个空间的人一定非常地爱她，能在这里看到芽衣姐姐的笑容真是太好了。",
+			"芽衣姉様のデータがこんなにたくさん、しかも鮮明に保存されている。この空間を作った人はきっと芽衣姉様を深く愛していたのですね。こんなところでではありますが、芽衣姉様の笑顔が見られて本当に良かったです。",
+			"메이姉님의 데이터가 이렇게나 많이, 게다가 선명하게 보존되어 있어요. 이 공간을 만든 사람은 분명 메이姉님을 깊이 사랑했던 거겠죠. 이런 곳에서지만 메이姉님의 미소를 볼 수 있어 정말 다행이에요.",
+			"So much of Mei's data has been preserved, and so vividly. Whoever created this space must have loved her dearly. It's nice to see her smile again, even if it's in a place like this.",
+			null,
+			"The person who made this space must have loved Meiko very much for saving her information so carefully, and it's great to see Meiko's smile here.",
+			"So much of Mei Sis's data has been preserved, and so vividly. Whoever created this space must have deeply loved Sister Mei. I am very happy to see Mei Sis's smile, even though it is in a place like this."
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				211,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301257,
+			"Mei......",
+			"芽衣姐姐……",
+			"芽衣姉様……。",
+			"메이姉님…….",
+			null,
+			null,
+			"Sister Meiko ......",
+			"Sister Mei. ......."
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				211,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301258,
+			"No! I can’t stay here too long. I have to go back and get the data of security system to...",
+			"不行！不能在这里停留太久，我得回去把安全系统的数据给……",
+			"いえ、ここに長く留まっていてはいけません。戻って防衛システムのデータを……。",
+			"아니, 여기에 오래 머물러서는 안 됩니다. 돌아가서 방어 시스템 데이터를…….",
+			"No, I can't linger here too long. I have to go back and check the security system's data...",
+			null,
+			"No way! Can't stay here too long, I have to go back and give the security system data to ......",
+			"No, you must not stay here for long. Go back and check the defense system data at ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				211,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301259,
+			"Sister Bronya, please don’t leave~",
+			"布洛妮娅姐姐，请不要走~",
+			"ブローニャ姉様、行かないで……！",
+			"브로냐姉様, 가지 마세요……!",
+			"Sister Bronya, please don't leave~",
+			null,
+			"Sister Bronya, please don't go~",
+			"Sister Bronya, don't go. ......!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				211,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301260,
+			"Ouch...!",
+			"呜！",
+			"っ！？",
+			"츠!?",
+			"Huh?",
+			null,
+			"Woo!",
+			"What?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				true
+			],
+			[
+				211,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301261,
+			"Sister Bronya~ Mei wants to play hide and seek with you!",
+			"布洛妮娅姐姐~芽衣想要和你一起捉迷藏！",
+			"ブローニャ姉様～芽衣と一緒にかくれんぼしましょ！",
+			"브로냐姉님~메이와 함께 숨바꼭질하자!",
+			null,
+			null,
+			"Sister Bronya ~ Meiko wants to play hide-and-seek with you!",
+			"Sister Bronya - let's play hide and seek with Mei!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				211,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301262,
+			"No... Sorry, I can’t stay with you. I have more important task now...",
+			"不…抱歉，我不能陪你，我现在有更重要的任务……",
+			"いえ……すみません、一緒には遊べません。今はもっと大事な任務が……。",
+			"아니…… 죄송합니다, 함께 놀 수 없어요. 지금은 더 중요한 임무가…….",
+			"No.... Sorry, I can't play with you. I've got something important to do.........",
+			null,
+			"No...sorry, I can't stay with you, I have more important tasks now ......",
+			"No ...... sorry, I can't play with you. I have more important duties ...... right now."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				211,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301263,
+			"Don’t you want to stay with Mei? Do you not like Mei?",
+			"布洛妮娅姐姐不想和芽衣在一起么？难道是讨厌芽衣么？",
+			"ブローニャ姉様は芽衣と一緒にいたくないの？芽衣のことが嫌いなの？",
+			"브로냐姉님은 메이와 함께 있고 싶지 않은 거예요? 메이를 싫어하는 거예요?",
+			"Don't you want to stay with Mei? Do you not like Mei?",
+			null,
+			"Does Bronya-san not want to be with Meiko? Is it because she hates Meiko?",
+			"Sister Bronya doesn't want to be with Mei? Don't you like Mei?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				211,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301264,
+			"No! That’s not true! I like Mei... But other important people are waiting for me. I promised them I will be back!",
+			"不！不是的！我喜欢芽衣姐姐…但是还有其他重要的人在等着我，我答应了她们必须回去！",
+			"いえ！違います！芽衣姉様のことは大好きです……でも他にも大事な人が待っています。必ず帰ると約束したんです。",
+			"아니! 아닙니다! 메이姉님을 정말 좋아해요…… 하지만 다른 중요한 사람들이 기다리고 있어요. 꼭 돌아가겠다고 약속했어요.",
+			"No! That's not true! I love my sister Mei.... But I have other important people waiting for me. I promised them I would return.",
+			null,
+			"No! It's not! I love Meiko-san... but there are other important people waiting for me, and I promised them I had to go back!",
+			"No, sir! No, sir!!! I love my sister Mei ...... but I have other important people waiting for me. I promised I would return."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				211,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301265,
+			"Back? Back to where? Isn’t the world outside already destroyed? Where can you go?",
+			"回去？回到哪里呢？外面的世界不是都毁灭了么？还有什么地方能回去呢？",
+			"帰る？帰るってどこへ？外の世界は滅びちゃったんでしょ？帰る場所なんてあるの？",
+			"돌아간다구요? 어디로 돌아간다는 거예요?? 바깥 세상은 멸망했잖아요?? 돌아갈 곳이 있을까요?",
+			"Back? Back to where? Isn't the world outside already destroyed? Where can you go?",
+			null,
+			"Go back? Back to where? Hasn't the outside world been destroyed? What other place can we go back to?",
+			"Going back? Go back where? The outside world has been destroyed, hasn't it? Is there any place to go back to?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				211,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301266,
+			"Back to... Seele and I built the place... It’s our important home...",
+			"回去的地方…那里是我和希儿建造的…是我们重要的家……",
+			"はい……ブローニャとゼーレが築いた……大事な家が……。",
+			"네……브로냐와 제레가 만든…… 소중한 집이…….",
+			"Back to..... The place Seele and I built.... Our important home.......",
+			null,
+			"The place to go back to...it's where Hill and I built it...it's our important home ......",
+			"Yes, ...... Bronya and Seele built ...... an important house ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				211,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301267,
+			"Don’t you wish to stay with Mei?",
+			"布洛妮娅姐姐的心愿不是和芽衣在一起么？",
+			"ブローニャ姉様の願いは、芽衣と一緒にいることじゃないの？",
+			"브로냐姉님의 바람은 메이와 함께 있는 게 아니에요?",
+			"Don't you wish to stay with Mei?",
+			null,
+			"Isn't it Bronya's sister's wish to be with Meiko?",
+			"Isn't that what Sis Bronya wants, to be with Mei?"
+		],
+		[
+			"msg",
+			301268,
+			"Sister Bronya~ Father~ And Mei, three of us live here happily ever after~ Isn’t this what you have always wished for?",
+			"布洛妮娅姐姐~父亲大人~还有芽衣，我们三人永远幸福的生活在这里~这才是布洛妮娅姐姐一直期望的归宿吧？",
+			"ブローニャ姉様と、お父様と、それから芽衣、3人一緒にここで永遠に暮らすの。それがブローニャ姉様がずっと望んでいた結末でしょ？",
+			"브로냐 언니와 아버지, 그리고 메이, 세 사람이 함께 여기서 영원히 살 거야. 그게 브로냐 언니가 계속 바라던 결말이지?",
+			"Bronya, father, and Mei can live here together forever. That's what Bronya always wanted, isn't it?",
+			null,
+			"Sister Bronya ~ Father ~ and Meiko, the three of us live here happily forever ~ this is what Sister Bronya has always wanted to be, right?",
+			"Bronya, your father, and Mei will live here together forever. That's what Bronya always wanted, right?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				211,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301269,
+			"Where I want to be... With Mei...",
+			"我所期望的归宿…和芽衣姐姐一起……",
+			"ブローニャの望んでいた結末は……芽衣姉様と一緒にいること……。",
+			"브로냐가 바라던 결말은...... 메이 언니와 함께 있는 거......",
+			null,
+			null,
+			"Where I want to be...with Meiko-san ......",
+			"Bronya's desired end result was to be with her ...... sister Mei ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				211,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301270,
+			"Right, this is our home~",
+			"没错，这里就是我们的家~",
+			"そうよ、ここが私たちの家なんだから！",
+			"그래요, 여기가 우리 집이니까!",
+			null,
+			null,
+			"Yes, this is our home~",
+			"Yes, because this is our home!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				211,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301271,
+			"Sister Mei... Bronya wants to be with you...",
+			"芽衣姐姐…布洛妮娅想要和你在一起……",
+			"芽衣姉様……ブローニャは一緒にいたいです……。",
+			"메이 언니...... 브로냐는 함께 있고 싶어요......",
+			null,
+			null,
+			"Meiko-san...Bronya wants to be with you ......",
+			"Sister Mei ...... Bronya would like to be with you ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				211,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301272,
+			"Hehehe~ Bronya is such a good kid~",
+			"呵呵呵~布洛妮娅姐姐真是乖孩子呢~",
+			"ふふっ、ブローニャ姉様だーい好き！！",
+			"후후, 브로냐 언니 정말 좋아!!",
+			null,
+			null,
+			"Heh heh heh ~ Bronya sister is really a good boy ~",
+			"I love my sister Bronya!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301273,
+			"Then, fall asleep with Mei together...",
+			"那就和芽衣一起沉睡吧……",
+			"じゃあ、芽衣と一緒に眠りましょ……。",
+			"그럼, 메이와 함께 잠들자......",
+			"Then, fall asleep with Mei...",
+			null,
+			"Then fall asleep with Meiko ......",
+			"Then, let's sleep with Mei. ......"
+		],
+		[
+			"msg",
+			301274,
+			"Until forever.",
+			"直到永远。",
+			"——永遠に。",
+			"——영원히.",
+			"Forever.",
+			null,
+			"Until forever.",
+			"-- forever."
+		]
+	],
+	"137": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10140"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301275,
+			"Seele! Wake Bronya up! We can’t hold for long!",
+			"希儿！快把布洛妮娅叫醒！我们撑不了多久了！",
+			"ゼーレ！早くブローニャを起こしなさい！もう長くは持たないわ！",
+			"제레! 빨리 브로냐를 깨워! 더 이상 오래 버틸 수 없어!",
+			"Seele! Wake up Bronya! We can't hold out much longer!",
+			null,
+			"Hill! Wake up Bronya! We can't hold out much longer!",
+			"Seele! Quick, wake up Bronya! She won't last much longer!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301276,
+			"Wait! She must be working on it! Let’s hold on a little longer!",
+			"再等等！布洛妮娅姐姐一定还在想办法！我们再坚持一下！",
+			"もうちょっと待ってください！ブローニャお姉ちゃんもきっと今頑張ってるはず！もう少しだけ！",
+			"조금만 더 기다려 주세요! 브로냐 언니도 분명 지금 열심히 하고 있을 거야! 조금만 더요!",
+			"Just hold on a little longer! I'm sure Bronya's working on it right now!",
+			null,
+			"Wait a little longer! Sister Bronya must still be trying to figure it out! Let's hold on a little longer!",
+			"Just wait a little longer! I'm sure big sis Bronya is working hard right now! Just a little longer!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301277,
+			"If we keep waiting we are done! Go!",
+			"再等下去我们就完了！快去！",
+			"これ以上は待てないわ、ここで終わってもいいの！？早く！",
+			"이 이상은 기다릴 수 없어, 여기서 끝내도 돼!? 빨리!",
+			"I'm not going to wait to die here! Come on!",
+			null,
+			"If we wait any longer, we're done for! Go!",
+			"I can't wait any longer, this is where it ends! Come on, come on!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301278,
+			"Uh... Dammit!",
+			"呜…可恶！",
+			"う……くっ！",
+			"으......쿡!",
+			"Ugh! Damn it!",
+			null,
+			"Oooh...damn it!",
+			"U......!"
+		],
+		[
+			"msg",
+			301279,
+			"My sister... What’s going on, how can Seele help you?",
+			"姐姐大人…到底怎么样了，希儿到底怎么样才能帮到你呢？",
+			"お姉ちゃん……一体どうしたらいいの？ゼーレはどうしたら力になれるの？",
+			"언니......대체 어떻게 해야 돼? 제레는 어떻게 해야 도움이 될 수 있을까?",
+			"Bronya... What on earth can I do? How am I supposed to help you?",
+			null,
+			"Sister-sama...how in the end is it? How in the end can Hsieh help you?",
+			"Sis ...... What on earth can I do? How can Seele help me?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301280,
+			"「Warning, Houkai Energy reaction detected on Bronya, please cut off connection immediately!」",
+			"「警告，布洛妮娅身上检测到崩坏能反应，请立刻切断链接！」",
+			"「警告！ブローニャの身体から崩壊エネルギー反応を検出。直ちにリンクを解除してください！」",
+			"「경고! 브로냐의 신체에서 붕괴 에너지 반응을 검출. 즉시 링크를 해제하세요!」",
+			"「Warning! A Honkai Energy reaction has been detected on Bronya, please terminate the connection immediately!」",
+			null,
+			"\"Warning, disintegration energy reaction detected on Bronya, please cut the link immediately!",
+			"Warning! Disintegrating energy reaction detected in Bronya's body. Disconnect immediately!\""
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301281,
+			"Project Bunny!? What’s going on with her!",
+			"重装小兔！？姐姐大人怎么了！",
+			"重装ウサギ！？お姉ちゃん、どうしたの？！",
+			"중장토끼!? 언니, 어떻게 된 거야?!",
+			"Project Bunny!? What's going on with her!",
+			null,
+			"Reloaded bunny! What's wrong with Sister-sama!",
+			"A heavily armed rabbit! Sis, what's going on? !"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301282,
+			"「Bronya’s mind has been eroded by Houkai Energy, we must cut off as soon as possible... Must cut off... Cut... Off...」",
+			"「布洛妮娅的精神遭到崩坏能侵蚀，必须尽快切断…必须尽快切断…切…断……」",
+			"「ブローニャの精神が崩壊エネルギーに侵食されています。早急な切断を……切断して……切……断……」",
+			"「브로냐의 정신이 붕괴 에너지에 침식되고 있습니다. 조속한 단절을......단절하고......절......단......」",
+			"「Bronya's mind has been eroded by Honkai Energy, the connection must be terminated as soon as possible.... Must be terminated.... Must... Be.... Must....」",
+			null,
+			"\"Bronya's spirit is being eroded by the collapse energy, it must be cut off...it must be cut off...cut...off as soon as possible ......\"",
+			"'Bronya's psyche is being eroded by disintegrating energy. Immediate disconnection ...... disconnected ...... disconnected ...... disconnected ...... disconnected ...... disconnected ...... disconnected ...... disconnected ......\""
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301283,
+			"Project Bunny!! Hey! What’s going on!",
+			"重装小兔！！喂！到底出什么事情了！",
+			"重装ウサギ！！ちょっと！一体何があったの！？",
+			"중장토끼!! 잠깐! 대체 무슨 일이 있었던 거야!?",
+			null,
+			null,
+			"Reloaded Bunny!!! Hey! What the hell is going on!",
+			"Heavily armed rabbit! Hey! Hey! What the hell happened!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301284,
+			"Seele! What are you doing!",
+			"希儿！你还愣着在干什么！",
+			"ゼーレ！何ぼさっとしてるの！",
+			"제레! 뭘 멍하니 있는 거야!",
+			null,
+			null,
+			"Hill! What are you doing?",
+			"Seele! What are you doing?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301285,
+			"She’s been infected by Houkai Energy! I can’t wait her up!",
+			"姐姐大人被崩坏能感染了！我没办法叫醒她！",
+			"お姉ちゃんが崩壊エネルギーに感染した！呼んでも目を覚まさない！",
+			"언니가 붕괴 에너지에 감염됐어! 불러도 눈을 뜨지 않아!",
+			"Bronya's been infected by Honkai Energy! I can't wake her up!",
+			null,
+			"Sister-sama is infected by Avalanche Energy! I can't wake her up!",
+			"Your sister is infected with disintegrating energy! She won't wake up when I call her!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301286,
+			"Houkai Energy? So this factory is corrupt by Houkai too... Is this all a trap!",
+			"崩坏能？果然这个工厂也已经被崩坏污染了么…这一切都是圈套么！",
+			"崩壊エネルギー？やっぱり、この工場も崩壊に汚染されていたのね……何もかも罠だったんだわ！",
+			"붕괴 에너지? 역시, 이 공장도 붕괴에 오염되었던 거네......모든 것이 함정이었던 거야!",
+			"Honkai energy? I should have known this factory was contaminated with Honkai too.... Dammit, this was all a trap!",
+			null,
+			"Avalanche energy? So this factory has been contaminated with Avalanche...is this all a trap?",
+			"Disintegration energy? I knew this factory was contaminated by decay too ...... Everything was a trap!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301287,
+			"......",
+			"……",
+			"……。",
+			".......",
+			null,
+			null,
+			"......",
+			"......."
+		],
+		[
+			"msg",
+			301288,
+			"Himeko, please, just hold on for a little longer, I promise I will wake her up...",
+			"姬子，麻烦你们再撑一会，我一定会把姐姐大人唤醒的……",
+			"姫子さん、すみません……もう少し持ちこたえてください。絶対にお姉ちゃんの目を覚まさせますから！",
+			"히메코 씨, 미안해요…… 조금만 더 버텨주세요. 절대로 언니를 깨우겠어요!",
+			null,
+			null,
+			"Himeko, please hold on a little longer, I will definitely wake up my sister-sama ......",
+			"Himeko, I'm sorry, ...... please hold on a little longer. I will definitely wake up your sister!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301289,
+			"What are you going to do?",
+			"你要做什么？",
+			"何をするつもり？",
+			"뭘 하려는 거야?",
+			null,
+			null,
+			"What do you want to do?",
+			"What are you going to do?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301290,
+			"Please give me some time, only I can reach to her now!",
+			"请给我一点时间，现在只有我能够达姐姐大人的身边！",
+			"少し時間をください。今お姉ちゃんのそばに行けるのはゼーレだけなんです！",
+			"시간을 좀 주세요. 지금 언니 곁에 갈 수 있는 건 제레뿐이에요!",
+			"Please give me some time. I'm the only one that can reach her right now!",
+			null,
+			"Please give me some time, now only I can reach sister-sama's side!",
+			"Please give me some time. Seele is the only one who can be with your sister right now!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301291,
+			"Quantum state... You have disappeared once in the Great Houkai, don’t forget.",
+			"量子态么……你可别忘了在大崩坏中曾经消失过一次。",
+			"まさか量子状態に！？自分が大崩壊で一度消え失せてしまったこと、忘れたんじゃないでしょうね！？",
+			"설마 양자 상태에!? 자신이 대붕괴로 한 번 사라져버린 걸 잊은 건 아니겠죠!?",
+			"You're going to enter a quantum state, aren't you...? Don't forget you once disappeared in the Great Honkai by doing that.",
+			null,
+			"Quantum state? ...... You can't forget that it disappeared once before in the Great Crash.",
+			"You don't think you're in a quantum state! You must not have forgotten that you were once gone in the great collapse!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301292,
+			"Bronya brought me back that time. Now it’s my turn to take her back to home!",
+			"那次是姐姐大人曾经把我找回来了，这次要换我把姐姐大人带回家！",
+			"大丈夫です。戻ってこれます。それにあのときはお姉ちゃんがゼーレを連れ戻してくれました。今度はゼーレの番です。",
+			"괜찮아요. 돌아올 수 있어요. 게다가 그땐 언니가 제레를 데려와 줬잖아요. 이번엔 제레 차례예요.",
+			"It's okay. I'll make it back. Besides, my sister brought me back that time, now it's my turn.",
+			null,
+			"That time it was my sister-sama once got me back, this time it's going to be my turn to bring my sister-sama home!",
+			"It's okay. You can come back. Besides, my sister brought Seele back that time. Now it is Seele's turn."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301293,
+			"Tsk... Troublesome sisters. Fine, come back before we are dead!",
+			"哼…真是一对麻烦的姐妹，好吧，在我们还没死掉之前回来！",
+			"フン……まったくベッタリ姉妹ね。いいわ、こっちが死ぬ前に戻ってきなさいよ！",
+			"흥… 정말로 꼭 붙어다니는 자매네. 좋아, 우리가 죽기 전에 돌아와!",
+			"Tsk... You two are truly inseparable. Fine, but you'd better make it back before we die! (TN: It's hard to translate, but she's trying to say the both of them combined are a headache)",
+			null,
+			"Hm... what a pair of troublesome sisters... well, come back before we die!",
+			"Hunh...... you two are totally betta sisters. Fine, come back before this one dies!"
+		],
+		[
+			"choice",
+			[
+				301654,
+				"We will protect here!",
+				"我们会守住这里的！",
+				"私たちはここを守ってるから！",
+				"우리가 여길 지켜낼 거니까!",
+				"We'll keep you safe!"
+			],
+			[
+				301655,
+				"Please come back with Brony!",
+				"请和布洛妮娅一起回来！",
+				"ブローニャと一緒に帰ってきて！",
+				"브로냐와 함께 돌아와!",
+				"Please come back with Bronya!"
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			138,
+			139
+		]
+	],
+	"138": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10140"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301294,
+			"Yeah! Thank you!",
+			"嗯！拜托了！",
+			"はい！お願いします！",
+			"네! 부탁드립니다!",
+			null,
+			null,
+			"Hmmm! Please!",
+			"Yes! Please!"
+		]
+	],
+	"139": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10140"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301295,
+			"Yeah, we will be back!",
+			"嗯，我们一定会回来的！",
+			"絶対に戻って来る！ブローニャお姉ちゃんと一緒に。",
+			"절대 돌아올 거예요! 브로냐 언니와 함께.",
+			"I promise we'll make it back!",
+			null,
+			"Well, we'll definitely be back!",
+			"I'll definitely be back! With my sister Bronya."
+		]
+	],
+	"140": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10132"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301296,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			301297,
+			"Sister Bronya, what are you looking at?",
+			"布洛妮娅姐姐你在看什么呢？",
+			"ブローニャ姉様、何を見てるの？",
+			"브로냐 언니, 뭘 보고 있는 거예요?",
+			null,
+			null,
+			"Sister Bronya what are you looking at?",
+			"Sister Bronya, what are you looking at?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301298,
+			"Nothing... This world is just really quiet. No pain, no sorrow, always peaceful.",
+			"没什么…只是觉得这个世界真的很安静呢，没有痛苦和悲伤的事情，永远保持着和平的样子。",
+			"何も……ただこの世界は本当に静かで、苦痛も悲しみもなく、永遠に平和だと……そう感じているだけです。",
+			"아무것도... 그저 이 세상은 정말 조용하고, 고통도 슬픔도 없이 영원히 평화롭다고... 그렇게 느끼고 있을 뿐이에요.",
+			"Nothing.... It's just so.... Quiet. There's no pain, no suffering, no sadness. Everything is peaceful.",
+			null,
+			"It's nothing...I just think the world is really quiet, no painful and sad things, and always remains peaceful.",
+			"Nothing ...... just feels so ...... that this world is really quiet, no pain, no sadness, forever peaceful."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			301299,
+			"Isn’t that good?",
+			"和平的世界不好么？",
+			"平和な世界は嫌い？",
+			"평화로운 세상은 싫어요?",
+			"Isn't that good?",
+			null,
+			"Isn't a peaceful world good?",
+			"Don't like a peaceful world?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301300,
+			"I like a peaceful world, but I always feel like I used to live in another world... In that world, everyone fought their best to survive. It was a world on the brink of destruction.",
+			"我喜欢和平的世界，不过有时候总感觉自己曾经生活在另一个世界一般…大家都拼尽全力为了生存而战斗，那里似乎是一个行走于毁灭边缘的世界。",
+			"ブローニャは平和な世界が好きです。でも、時々自分は別の世界で暮らしていたような気がします……みんなが生きるために必死に戦っていました。破滅の淵を歩んでいるような、そんな世界でした。",
+			"브로냐는 평화로운 세상이 좋아요. 하지만, 가끔 자신은 다른 세상에서 살고 있었던 것 같은 기분이 들어요…… 모두가 살기 위해 필사적으로 싸우고 있었어요. 파멸의 연을 걸어가고 있는 듯한, 그런 세상이었어요.",
+			"I like a peaceful world, but sometimes I feel like I lived in a different world... One where everyone was fighting desparately to survive. It was the kind of world on the verge of destruction.",
+			null,
+			"I like a peaceful world, but sometimes I always feel like I was living in another world in general... Everyone fights to survive, and it seems to be a world walking on the edge of destruction.",
+			"Bronya likes a peaceful world. But sometimes I feel like I was living in a different world ...... where everyone was fighting desperately to survive. It was the kind of world where you were walking on the edge of destruction."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			301301,
+			"Sister Bronya, you must be thinking too much. You have always been living here with Mei, never been anywhere else~",
+			"一定是布洛妮娅姐姐想多了，布洛妮娅姐姐一直和芽衣生活在这里，从来没有到过别的地方哦~",
+			"きっとブローニャ姉様の考えすぎよ。ブローニャ姉様は、ここでずっと芽衣と一緒に暮らしてるのよ。別の場所に行ったことなんかないでしょ？",
+			"분명 브로냐 언니의 생각이 지나친 거예요. 브로냐 언니는 여기서 계속 메이와 함께 살고 있는 거잖아요. 다른 곳에 간 적은 없을 텐데…?",
+			"Bronya, you're just imagining things. You've been living here with me your whole life. You've never traveled anywhere else.",
+			null,
+			"It must be Bronya sister think too much, Bronya sister has always lived here with Meiko, never been anywhere else Oh ~",
+			"I'm sure Sister Bronya is overthinking this. Bronya has been living here with Mei all her life. You've never been anywhere else, have you?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301302,
+			"Yeah... But I always feel some uncertainty... I feel like I should not be here...",
+			"是呢…但是心中却总是有着一种不安定的感觉，总觉得自己不应该的存在于这里……",
+			"そうですね……でも、心の中にいつも何かがいるのです。それを感じようとすればするほど……心が締め付けられ、自分がここにいてはいけない存在だと考えてしまいます。どうしようもない焦燥感に駆られるのです。",
+			"그렇네요…… 하지만 마음 속엔 언제나 무언가가 있는 것 같아요. 그것을 느끼려고 하면 할수록…… 마음이 조여오고, 자신이 여기에 있어서는 안 될 존재라고 생각하게 돼요. 어쩔 수 없는 초조함에 사로잡히고 말죠.",
+			"Yeah... But I always have that feeling in the back of my mind. The more I think about it, the more I grow uneasy and it feels like I don't belong here.",
+			null,
+			"Yes ... but there is always a feeling of unrest in my heart, always feel that I should not exist here ......",
+			"Yes,...... but there is always something in my mind. The more I try to feel it,...... the more my heart constricts and I think I'm not supposed to be here. It's an irrepressible feeling of frustration."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			301303,
+			"Don’t think too much. Let’s have dinner together, my father cooked the dinner tonight~",
+			"不要想这么多啦布洛妮娅姐姐，和芽衣一起吃饭去吧，今天是父亲大人做的晚饭哦~",
+			"あまり思い詰めないで、ブローニャ姉様。芽衣と一緒にご飯食べよ？今日はお父様が晩ご飯を作ってくれるのよ。",
+			"너무 깊게 생각하지 마요, 브로냐 언니. 메이와 함께 밥 먹을래요? 오늘은 아버지가 저녁을 만들어 주신대요.",
+			"Don't worry about it, Bronya. Why don't have we have dinner together? My father is cooking today.",
+			null,
+			"Don't think so much, sister Bronya, go eat with Meiko, today is the father cooked dinner Oh ~",
+			"Don't get too worked up, sister Bronya. Why don't you and Mei have dinner together? Your father is cooking dinner for us today."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301304,
+			"Yeah, let’s go.",
+			"嗯，我们走吧。",
+			"そう……ですね。行きましょう。",
+			"그래요…… 그럴게요.",
+			"Yeah, let's go.",
+			null,
+			"Well, let's go.",
+			"So ....... Let's go."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				false
+			],
+			[
+				60,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301305,
+			"Hehe~ Father said he will bring us to HOMU Land tonight~ The Ferris Wheel looks the best at night!",
+			"嘻嘻~吃完晚饭父亲大人说要带我们去吼姆乐园玩哦~晚上的摩天轮最漂亮了！",
+			"うふふ～晩ご飯の後、お父様がホム楽園に連れていってくれるって。夜の観覧車はとってもきれいなのよ！",
+			"우후훗~ 저녁 먹고 나면 아버지가 호무 랜드에 데려가 주신대요. 밤의 관람차는 정말 예쁘다구요!",
+			"Hehe... My father said he would take us to HOMU Paradise after dinner, too! The ferris wheel looks the best at night!",
+			null,
+			"Hee hee ~ after dinner father adult said to take us to Howlam Land to play Oh ~ the Ferris wheel at night the most beautiful!",
+			"Ummm...after dinner, your father is taking me to Homme Paradise. The Ferris wheel is so beautiful at night!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301306,
+			"Mei really likes the HOMU Land. But don’t play too much, you still have class tomorrow.",
+			"芽衣真的很喜欢吼姆乐园呢，但是不能玩过头哦，明天还要上课呢。",
+			"芽衣は本当にホム楽園が好きですね。でも遊び過ぎてはいけませんよ。明日も学校があるんですから。",
+			"메이는 정말 호무 랜드를 좋아하네요. 하지만 너무 놀면 안 돼요. 내일도 학교가 있는 거잖아요.",
+			"You really love HOMU Paradise. But don't play too much, you've still got school tomorrow.",
+			null,
+			"Meiko really like Howlam Land, but can not play too much oh, tomorrow there are classes.",
+			"Mei really likes Hom Paradise. But don't play too much. You have school tomorrow."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				false
+			],
+			[
+				60,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301307,
+			"I know! You always like to teach me~ But it’s so good to have you here. I’m so happy to become your sister~",
+			"芽衣知道的啦！布洛妮娅姐姐真是爱说教呢~不过有布洛妮娅姐姐在真的很安心呢，能成为布洛妮娅姐姐的妹妹真是太好了~",
+			"芽衣分かってるもん！ブローニャ姉様ったらお説教ばっかり……でも、ブローニャ姉様がいてくれるから安心よ。ブローニャ姉様の妹になれて本当に良かった！",
+			"메이는 알아요! 브로냐 언니는 항상 잔소리뿐이지만…… 그래도 브로냐 언니가 있어 줘서 안심이에요. 브로냐 언니의 여동생이 될 수 있어서 정말 좋았어요!",
+			"I know, I know! You always nag me... But I'm glad you're there for me. I'm so glad I have a sister like you!",
+			null,
+			"Meiko knows! I'm really glad that I can be her sister!",
+			"Mei, I know! Bronya sister is always lecturing me ...... but I don't have to worry because Bronya sister is there for me. I'm so happy to be Bronya's sister!"
+		],
+		[
+			"msg",
+			301308,
+			"I like sister Bronya the most!",
+			"布洛妮娅姐姐最喜欢了！",
+			"ブローニャ姉様、だーい好き！",
+			"브로냐 언니, 정말 좋아해!",
+			"I love Bronya the most!",
+			null,
+			"Sister Bronya likes it best!",
+			"I love you, Bronya!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301309,
+			"Yeah, I like Mei the most, too. I will protect you, because you are my important sis...",
+			"嗯，我也最喜欢芽衣了，我一定会保护好的你，你是我最重要的妹……",
+			"ええ、ブローニャも芽衣が大好きです。ずっと大事にしますからね。ブローニャの大事な妹……",
+			"네, 브로냐도 메이를 정말 좋아해요. 영원히 소중히 할게요. 브로냐의 소중한 동생......",
+			"Yeah. I love you too. I'll always take care of you, because you're my precious sister...",
+			null,
+			"Well, I also like Meiko the most, I will definitely protect you, you are my most important sister ......",
+			"Yes, Bronya loves Mei too. We will always take good care of her. Bronya's precious sister: ......"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301310,
+			"Bronya!",
+			"姐姐大人！",
+			"——お姉ちゃん！",
+			"——언니!",
+			null,
+			null,
+			"Sister-sama!",
+			"--Oh, sister!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301311,
+			"Ouch... Sister... My most important sister... See...",
+			"唔…妹妹……最重要的妹妹…希……",
+			"……妹？……大事な妹……ゼー……",
+			"......동생?... 소중한 동생... 제......",
+			".....Sister? Precious sister... See...",
+			null,
+			"Well...sister ...... the most important sister...Hee ......",
+			"...... sister? ...... precious sister ...... ze ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			301312,
+			"Sister Bronya! Are you okay?",
+			"布洛妮娅姐姐！你怎么了？",
+			"ブローニャ姉様！どうしたの？",
+			"브로냐 언니! 왜 그래요?",
+			"Bronya! Are you okay?",
+			null,
+			"Sister Bronya! What's wrong with you?",
+			"Sister Bronya! What's wrong?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301313,
+			"Feels like someone’s calling me... This voice...",
+			"好像有谁在呼喊我…这个声音是……",
+			"誰かがブローニャを呼んでいるような……この声は……。",
+			"누군가 브로냐를 부르는 것 같은... 이 목소리는......",
+			"It sounds like someone is calling for me... This voice......",
+			null,
+			"It seems like someone is calling out to me...the voice is ......",
+			"It sounds like someone is calling for Bronya: ......This voice is ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			301314,
+			"You must be too tired! We are not going to the park tonight! You should rest early!",
+			"布洛妮娅姐姐一定是太累了！我们晚上不去游乐园了！布洛妮娅姐姐还是早点休息吧！",
+			"ブローニャ姉様はきっと疲れてるのよ。夜にホム楽園へ行くのはやめましょ。ブローニャ姉様は、早く休んだほうがいいわ。",
+			"브로냐 언니는 분명 지치신 거예요. 밤에 호무 랜드 가는 건 그만두자구요. 브로냐 언니는 빨리 쉬어야 해요.",
+			"You must be tired. Let's skip going to the amusement park today. You should rest early!",
+			null,
+			"Sister Bronya must be too tired! We're not going to the amusement park tonight! Sister Bronya better rest early!",
+			"Bronya must be tired. She should not go to Homme Paradiso at night. You should get some rest."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301315,
+			"Yeah... Sorry, Mei...",
+			"嗯…抱歉，芽衣……",
+			"ええ……ごめんなさい、芽衣……。",
+			"네... 미안해, 메이......",
+			null,
+			null,
+			"Um...sorry, Meiko ......",
+			"Yeah ...... sorry, Mei ......."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301316,
+			"Sister! Wake up!",
+			"姐姐大人！快醒醒！",
+			"お姉ちゃん！目を覚まして！",
+			"언니! 정신 차려!",
+			"Bronya!! Wake up!",
+			null,
+			"Sister-sama! Wake up!",
+			"Sis! Wake up!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301317,
+			"Ouch, this voice...",
+			"唔！这个声音…",
+			"うっ！この声は……。",
+			"윽! 이 목소리는......",
+			"Ugh! This voice is from .......",
+			null,
+			"Well! That sound...",
+			"Ugh! This voice is from ......."
+		],
+		[
+			"msg",
+			301318,
+			"See...",
+			"希…",
+			"ゼー……",
+			"제……",
+			null,
+			null,
+			"Hee...",
+			"Ze ......"
+		],
+		[
+			"msg",
+			301319,
+			"Le...",
+			"儿……",
+			"……レ……",
+			"……레……",
+			null,
+			null,
+			"Child ......",
+			"......re......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			301320,
+			"No! Don’t think of it!",
+			"不行！不能想起来！",
+			"だめ！思い出しちゃ！",
+			"안 돼! 생각나 버렸어!",
+			"No! No! No! Don't think about it!",
+			null,
+			"No! Can't think about it!",
+			"No! No! No! Don't remind me!"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301321,
+			"We had a promise! You said you will come back! Sister! Answer me!",
+			"我们约定好了啊！你一定会回来的！姐姐大人！请回答我！",
+			"約束したじゃない！必ず帰ってくるって！お姉ちゃん！返事して！",
+			"약속했잖아! 꼭 돌아온다고! 언니! 대답해!",
+			"We had a promise! You said you would come back! Bronya! Answer me!",
+			null,
+			"We made a deal! You'll be back for sure! Sister-sama! Please answer me!",
+			"You promised! You promised you'd come back! Sis! Answer me!"
+		],
+		[
+			"msg",
+			301322,
+			"Sister Bronya!",
+			"布洛妮娅姐姐！",
+			"ブローニャお姉ちゃん！",
+			"브로냐 언니!",
+			"You're my sister, aren't you?",
+			null,
+			"Sister Bronya!",
+			"Bronya sis!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301323,
+			"Seele... I have to go back... Everyone’s waiting for me!",
+			"希儿…我得回去…大家在等着我！",
+			"ゼーレ……帰らなければ……みんなが待っているところへ……。",
+			"제레…… 돌아가지 않으면…… 모두가 기다리는 곳으로…….",
+			"Seele... I have to go back... Everyone's waiting for me!",
+			null,
+			"Hill...I have to go back...everyone is waiting for me!",
+			"Seele ...... if you don't go home ...... where everyone is waiting for you ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			301324,
+			"Sister Bronya! Don’t you want to live with Mei here, happily?",
+			"布洛妮娅姐姐！你难道不想和芽衣一起幸福地生活在这里么？",
+			"ブローニャ姉様！芽衣と一緒にここで幸せに暮らすのが嫌なの？",
+			"브로냐 언님! 메이와 함께 여기서 행복하게 사는 게 싫은 거야?",
+			"Bronya! Don't you want to live here forever with Mei?",
+			null,
+			"Sister Bronya! Don't you want to live happily ever after with Meiko?",
+			"Sister Bronya! Don't you want to live happily here with Mei?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301325,
+			"Mei... I have had enough happiness from Mei, so I must pass the happiness to more people.",
+			"芽衣…我已经从芽衣的身上得到了足够的幸福了，所以必须得将芽衣姐姐传递给我的幸福交给更多的人。",
+			"芽衣……ブローニャは芽衣の側にいられて十分幸せでした。だから、芽衣……いえ、芽衣姉様がくれた幸せをもっとたくさんの人に伝えていかないと……。",
+			"메이…… 브로냐는 메이 곁에 있을 수 있어서 충분히 행복했어. 그래서, 메이…… 아니, 메이 언님이 준 행복을 더 많은 사람들에게 전해 나가지 않으면…….",
+			"Mei... I've obtained enough happiness from you, so I have to pass it on to everyone else.",
+			null,
+			"Meiko...I've gotten enough happiness from Meiko, so I have to give the happiness that Meiko-san passed on to me to more people.",
+			"Mei ...... Bronya was happy enough to be by Mei's side. So, Mei ...... No, we need to tell more people about the happiness that Mei's sister gave us. ......"
+		],
+		[
+			"msg",
+			301326,
+			"Seele... Himeko... Yssring... Emesa...",
+			"希儿…姬子…伊瑟琳…埃米沙……",
+			"ゼーレ……姫子……イザーリン……エミザ……。",
+			"제레…… 히메코…… 이자린…… 에미자…….",
+			"Seele... Himeko... Yiserin... Emesa...",
+			null,
+			"Shire...Himeko...Estherine...Emesa ......",
+			"Seele ...... Himeko ...... Estherine ...... Emesa ......."
+		],
+		[
+			"msg",
+			301327,
+			"And many people sacrificing their lives to fight for a better future. It is my duty to... Hand happiness to them.",
+			"还有许多为了未来而不断奋斗牺牲的人，把幸福交到她们的手中…这就是我的使命。",
+			"それから、未来のために戦って犠牲になった大勢の人たち……皆のところに幸せを届けないと……それがブローニャの使命です。",
+			"그리고, 미래를 위해 싸워 희생된 많은 사람들…… 모두에게 행복을 전하지 않으면…… 그게 브로냐의 사명이에요.",
+			"There are many people sacrificing their lives to fight for a better future. Bringing happiness to everyone... That's my mission.",
+			null,
+			"There are many others who keep fighting and sacrificing for the future, and put happiness into their hands...that is my mission.",
+			"Then there are the many people who sacrificed their lives fighting for the future.......We have to bring happiness to everyone.......That is Bronya's mission."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			301328,
+			"Are you leaving me... Sister Bronya...",
+			"已经要走了么…布洛妮娅姐姐……",
+			"行っちゃうんだね……ブローニャ姉様……。",
+			"가버리는 거야......브로냐 언니......",
+			null,
+			null,
+			"Already going?...Sister Bronya ......",
+			"You're going. ......Bronya sister ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301329,
+			"Yeah, Mei, please live here happily. I will have a happy life too, in another world.",
+			"嗯，芽衣，请在这里幸福地生活下去吧，我也会好好的，在另一个世界幸福地生活着。",
+			"はい、芽衣はここで幸せに暮らしてください。ブローニャも大丈夫です、別の世界で幸せに暮らします。",
+			"네, 메이는 여기서 행복하게 지내세요. 브로냐도 괜찮아요, 다른 세상에서 행복하게 살 거예요.",
+			"Yeah. Please live happily here, Mei. I'll be living happily too in another world.",
+			null,
+			"Well, Meiko, please live happily here, and I will also be well and happy in the other world.",
+			"Yes, Mei will live happily here. Bronya is fine too, she will live happily in another world."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			301330,
+			"So... I understand.",
+			"是么…芽衣明白了。",
+			"そう……芽衣わかった。",
+			"그래......메이 알았어.",
+			null,
+			null,
+			"Really...Meiko understands.",
+			"So ...... mei okay."
+		],
+		[
+			"msg",
+			301331,
+			"Goodbye then~ Sister Bronya!",
+			"那么再见了~布洛妮娅姐姐！",
+			"じゃあ、またね……ブローニャ姉様。",
+			"그럼, 또 봐......브로냐 언니.",
+			null,
+			null,
+			"So goodbye~Bronya-san!",
+			"See you soon, ...... Bronya sister."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301332,
+			"Yeah... Goodbye, sister Mei...",
+			"嗯…再见了，芽衣姐姐……",
+			"ええ……またお会いしましょう、芽衣姉様……。",
+			"네......다시 만나요, 메이 언니......",
+			null,
+			null,
+			"Well...goodbye, Meiko-san ......",
+			"Yes ...... see you again, sister Mei ......."
+		],
+		[
+			"portraits",
+			[
+				211,
+				0,
+				true
+			],
+			[
+				60,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301333,
+			"*Cries*…",
+			"呜……",
+			"うう……。",
+			"우우…….",
+			null,
+			null,
+			"Woo ......",
+			"Ugh. ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				7,
+				false
+			],
+			[
+				60,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301334,
+			"Sister Bronya!",
+			"布洛妮娅姐姐！",
+			"ブローニャお姉ちゃん！",
+			"브로냐 언니!",
+			"Bronya!",
+			null,
+			"Sister Bronya!",
+			"Bronya sis!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				7,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301335,
+			"Seele......",
+			"希儿……",
+			"ゼーレ……。",
+			"제레…….",
+			null,
+			null,
+			"Hill ......",
+			"Seele. ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				7,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			301336,
+			"Sister Bronya... Great! You are finally awake!",
+			"布洛妮娅姐姐…太好了！终于醒了！",
+			"ブローニャお姉ちゃん……良かった！やっと目を覚ました！",
+			"브로냐 언니…… 다행이야! 드디어 눈을 떴구나!",
+			"Bronya... thank god! You're finally awake!",
+			null,
+			"Sister Bronya...great! Finally awake!",
+			"Bronya sis ...... thank goodness! She finally woke up!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10137"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301337,
+			"...Bronya is back. Sorry, I made you worry again...",
+			"…布洛妮娅回来了。抱歉，又让你担心了……",
+			"……ただいま戻りました。ごめんなさい、心配させて……。",
+			"……다녀왔어요. 미안해요, 걱정시켜서…….",
+			"...I'm back. Sorry for making you worry again....",
+			null,
+			"...Bronya is back. Sorry to worry you again ......",
+			"I'm back at ....... Sorry, let me worry you ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"msg",
+			301338,
+			"Bronya, you fool... You scare me every single time! Fool! Fool!",
+			"布洛妮娅姐姐这个笨蛋…每次都吓希儿！笨蛋！笨蛋！",
+			"ブローニャお姉ちゃんのバカ！いつもゼーレをびっくりさせて！バカ！バカバカ！",
+			"브로냐 언니 바보! 언제나 제레를 깜짝 놀라게 하잖아! 바보! 바보바보!",
+			"Bronya, you idiot! You scare me every time! Idiot! Idiot, idiot, idiot!",
+			null,
+			"Sister Bronya the idiot...scares Hill every time! Idiot! Idiot!",
+			"Bronya, you idiot! You always surprise Seele! You idiot! Stupid, stupid, stupid!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			301339,
+			"Seele, you have not changed at all... Still likes to cry.",
+			"还是和以前一样爱哭的妹妹呢…希儿真的完全没有改变呢。",
+			"相変わらず泣き虫な妹ですね……ゼーレは昔のままです。",
+			"여전히 울보 동생이네요…… 제레는 예전 그대로예요.",
+			"Seele, you haven't changed at all. You still cry a lot.",
+			null,
+			"Still the same crybaby sister as before...Hill really hasn't changed at all.",
+			"She is still the same crybaby sister. ...... Seele is still the same as she used to be."
+		],
+		[
+			"msg",
+			301340,
+			"You always pretend to be outgoing and happy, always smiling, trying to make everyone happy... But you are the one that’s most scared...",
+			"平时假装着开朗，努力露出笑容，努力让大家开心起来，其实你的内心才是最害怕的吧……",
+			"いつもは明るく振る舞って、頑張って笑顔を見せて、みんなを楽しませようとしますけど、内心ではとても脅えている……。",
+			"항상 밝게 행동하고, 열심히 웃음을 보여주고, 모두를 즐겁게 하려고 하지만, 속으로는 많이 두려워하고 있어요…….",
+			null,
+			null,
+			"Usually pretend to be cheerful, trying to show a smile, trying to make everyone happy, in fact, your heart is the most afraid of it ......",
+			"He usually acts cheerful, tries his best to smile and entertain everyone, but inside he is very intimidated. ......"
+		],
+		[
+			"msg",
+			301341,
+			"Sorry... Bronya is not a good sister. I have not protected you, and I always make you worry.",
+			"抱歉…布洛妮娅不是一个称职的姐姐，没有保护好希儿，每次都让希儿担心受怕。",
+			"ごめんなさい……ブローニャは姉失格ですね、ゼーレをちゃんと守れなくて。いつもゼーレに心配ばかりかけて。",
+			"미안해요…… 브로냐는 언니로서 실격이네요, 제레를 제대로 지켜주지 못해서. 언제나 제레에게 걱정만 끼치고.",
+			"I'm sorry... I've been a terrible sister. I couldn't protect you, and I'm always making you worry about me.",
+			null,
+			"I'm sorry...Bronya is not a competent sister, not protecting Hill, and making Hill worry and be afraid every time.",
+			"I'm sorry ...... Bronya is not a good sister, she can't protect Seele properly. She always worries about Seele."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"msg",
+			301342,
+			"*Cries* Seele is so scared... How am I going to live, without you...",
+			"呜呜呜！希儿真的好害怕…如果没有了布洛妮娅姐姐，希儿要怎么生活下去……",
+			"うわぁぁん！……あのね、怖くてしかたないの……もしブローニャお姉ちゃんがいなくなったら、ゼーレはどうやって生きていけばいいのか……。いくら考えても答えが見つからないの！",
+			"우와아앙!…… 저기… 무서워서 어쩔 수가 없어… 만약 브로냐 언니가 없어지면, 제레는 어떻게 살아가야 하지……. 아무리 생각해도 답을 찾을 수가 없어!",
+			"Waaaaaaah!!!! I'm.... I'm just so scared... How am I supposed to live without you...? No matter how much I think about it, I can't imagine it!",
+			null,
+			"Wooooooooo! Shire is really scared...how is Shire going to live without Sister Bronya ......",
+			"Woohoo!!! You know, I'm just so scared ...... how will Seele live without her sister Bronya if she's gone... .... No matter how much I think about it, I just can't find the answer!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			301343,
+			"Seele, do you remember our agreement in the lab? I will become your hope, bring you back to the real world and become someone you can rely on.",
+			"希儿，还记得我们在实验室里的约定么？布洛妮娅会成为希儿的希望，将希儿带回现实世界，成为希儿的依靠。",
+			"ゼーレ、X-10実験での約束を覚えていますか？どんなに難しくてもブローニャが必ずゼーレを救い出す、その日まで絶対に諦めない、ブローニャはゼーレの希望だから。そう言いましたよね。",
+			"제레, X-10 실험에서의 약속 기억나요? 아무리 어려워도 브로냐가 꼭 제레를 구해낼 거라고, 그 날까지 절대 포기하지 않을 거라고, 브로냐는 제레의 희망이니까. 그렇게 말했잖아요.",
+			"Seele, do you remember the promise you made in the <tooltip entry=34>X-10 experiment</tooltip>? No matter how difficult it is, I'll always rescue you, and we will never give up until that day, because Bronya is Seele's hope. You said so.",
+			null,
+			"Hiel, remember our agreement in the lab? Bronya will be Hiel's hope, bring Hiel back to the real world and become Hiel's dependence.",
+			"Seele, do you remember the promise you made in the X-10 experiment? No matter how difficult it is, Bronya will always rescue Seele, and we will never give up until that day, because Bronya is Seele's hope. You said so."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"msg",
+			301344,
+			"Yeah... I do.",
+			"嗯…希儿记得。",
+			"うん……覚えてる。",
+			"응…… 기억나.",
+			null,
+			null,
+			"Well...Hill remembers.",
+			"Yeah I remember ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			301345,
+			"And now you have become my hope... Seele, you have really grown up. But I have not moved on from the back, always making you worry.",
+			"但是现在希儿却成了布洛妮娅的希望了呢…希儿真的长大了，而布洛妮娅却还是停留在过去止步不前，总是让希儿担心。",
+			"でも、今ではゼーレがブローニャの希望になりました……ゼーレは本当に成長しましたね。なのに、ブローニャは過去に留まったまま前に進めず、いつもゼーレに心配をかけてしまっています。",
+			"하지만, 지금은 제레가 브로냐의 희망이 되었어요…… 제레는 정말 성장했네요. 그런데 브로냐는 과거에 머물러 있는 채 앞으로 나아가지 못하고, 언제나 제레에게 걱정만 끼치고 있어요.",
+			null,
+			null,
+			"But now Hill has become the hope of Bronya it ... Hill has really grown up, while Bronya is still stuck in the past to stop, always let Hill worry.",
+			"But now Seele has become Bronya's hope. ...... Seele has really grown up. And yet, Bronya has stayed in the past, unable to move forward and always worrying about Seele."
+		],
+		[
+			"msg",
+			301346,
+			"Sorry, Seele. I didn’t make a world for you to be happy...",
+			"对不起，希儿。没能创造出让你幸福的世界……",
+			"ごめんなさい、ゼーレ。幸せな世界を作ってあげられなくて……。",
+			"미안해, 제레. 행복한 세상을 만들어 주지 못해서…….",
+			"Sorry, Seele. I couldn't make a world for you to be happy...",
+			null,
+			"I'm sorry, Shire. Didn't create the world to make you happy ......",
+			"I'm sorry, Seele. I couldn't make you a happy world. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"msg",
+			301347,
+			"No! As long as you are there, Seele is happy!",
+			"不！对于希儿来说只要有布洛妮娅姐姐在的地方就是最幸福的世界！",
+			"ちがうよ！ゼーレにとって……ブローニャお姉ちゃんがいるところが、一番幸せな世界だよ！",
+			"아냐! 제레에게는…… 브로냐 언니가 있는 곳이, 가장 행복한 세상이야!",
+			"That doesn't matter! The happiest world for me is anywhere I can be with you!",
+			null,
+			"No! For Hill, wherever Sister Bronya is, it's the happiest world!",
+			"No, it's not! The happiest world for Seele is the one where ...... Bronya's sister is!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			301348,
+			"I see... I am really a fool. I should have realized this...",
+			"原来如此…看来布洛妮娅果然是笨蛋呢，连这么简单的道理都没有明白……",
+			"そう……そうだったんですね……やっぱりブローニャはバカでした。こんな簡単なことも分からないなんて……。",
+			"그래......그런 거였군요......브로냐는 역시 바보였어요. 이렇게 쉬운 것도 몰랐다니.......",
+			null,
+			null,
+			"I see...it seems that Bronya is really stupid, even such a simple truth did not understand ......",
+			"Yes...... that's what happened...... I knew Bronya was an idiot. I can't believe he couldn't understand such a simple thing. ......"
+		],
+		[
+			"msg",
+			301349,
+			"Seele, let’s go back. Back to our world.",
+			"希儿，让我们回去吧，回到属于我们的世界。",
+			"ゼーレ、帰りましょう。私たちのいるべき世界へ。",
+			"제레, 돌아가자. 우리가 있어야 할 세계로.",
+			"Seele, let's go back. Back to the world where we belong.",
+			null,
+			"Hill, let's go back, back to the world where we belong.",
+			"Seele, let's go home. To the world where we belong."
+		],
+		[
+			"msg",
+			301350,
+			"A broken world, but a world where everyone is together...",
+			"那个破烂不堪，却是与大家在一起的……",
+			"あのボロボロの、でもみんなが一緒にいる——",
+			"그 낡아빠진, 하지만 모두가 함께 있는——",
+			"A broken and dying world, but a world where everyone is together...",
+			null,
+			"That raggedy, but with everyone ......",
+			"That battered, but all together--"
+		],
+		[
+			"msg",
+			301351,
+			"The happiest world.",
+			"最幸福的世界。",
+			"——最も幸せな世界へ。",
+			"—— 가장 행복한 세계로.",
+			null,
+			null,
+			"The happiest world.",
+			"-- to the happiest world."
+		]
+	]
+}

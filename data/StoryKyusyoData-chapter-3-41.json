@@ -1,0 +1,1216 @@
+{
+	"1123": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306044,
+			"We've got more and more injured, it's not a good sign... We were to hasty to take off, we should have brought more medical supplies with us.",
+			"伤员的数量还在增多，这样下去不行啊…出发的太着急了，应该带更多的医疗品才对。",
+			"くそっ、負傷者の数が増える一方だ。このままじゃまずい……なんにせよ出発が急すぎたんだ。もっと医薬品を持って来れていれば。",
+			"젠장, 부상자 수가 늘어나기만 해. 이대로면 안 되는데…… 어쨌든 출발이 너무 급했어. 약품을 더 가져올 수 있었더라면.",
+			null,
+			null,
+			"The number of wounded is still increasing, this can't go on...the departure was too hasty, should have brought more medical supplies.",
+			"Damn, the number of injured is only increasing. We can't go on like this ....... Whatever it was, we left too soon. We should have brought more medical supplies."
+		],
+		[
+			"msg",
+			306045,
+			"We shall try to get some medicines from the base camp. But how can we break through the siege of the Houkai beasts...",
+			"看来必须想办法从基地将药品调运过来才行…但是外面全是崩坏生物，到底要怎么突破……",
+			"何とかして基地から医薬品を持ってこないと……でも、外は崩壊生物だらけだしな。一体どうやって突破すりゃ……。",
+			"어떻게든 기지에서 약품을 가져와야 하는데…… 하지만 밖은 붕괴 생물 투성이야. 대체 어떻게 돌파하냐…….",
+			null,
+			null,
+			"It seems that we must find a way to transfer the medicine from the base to do so ... but outside all the collapse creatures, in the end, how to break through ......",
+			"We have to bring medical supplies from the base somehow ...... but it's full of decaying organisms out there. How the hell are we going to get through ......?"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306046,
+			"Ah, yes! Can you escort me? You've got what it takes to break through the siege!",
+			"啊！对了！你带我出去吧！如果以你的实力的话一定可以突破崩坏生物的包围！",
+			"あ、そうだ！あんた連れてってくれよ！あんたの実力なら崩壊生物の包囲も突破できるだろ！",
+			"아, 맞다! 너 좀 데려가 줘! 네 실력이면 붕괴 생물의 포위도 돌파할 수 있잖아!",
+			null,
+			null,
+			"Ah! That's right! You take me out! If you're strong, you'll be able to break through the collapsed creatures!",
+			"Oh, yeah! Take me with you! You're good enough to break through a siege of disintegrating organisms!"
+		],
+		[
+			"choice",
+			[
+				306563,
+				"Might be difficult.",
+				"恐怕有点难。",
+				"ちょっと難しいかも。",
+				"조금 어려울지도 몰라요.",
+				null
+			],
+			[
+				306564,
+				"Leave it to me.",
+				"交给我吧。",
+				"任せといて。",
+				"내게 맡겨요.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1124,
+			1125
+		]
+	],
+	"1124": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306047,
+			"What? Difficult? I won't find you if it's easy job! Don't tell me I shall rely on Yssring!",
+			"什么！难？简单的话就不找你了！难道要我指望伊瑟琳么！",
+			"何だって！？難しい？簡単にできるもんならあんたに頼まないよ！イザーリンに頼めってのか？",
+			"뭐라고!? 어렵다고? 쉽게 할 수 있으면 네게 부탁 안 해! 이자린한테 부탁하라는 거야?",
+			null,
+			null,
+			"What! Difficult? If it were easy, I wouldn't have asked you! Do I have to count on Estherine!",
+			"What! How hard can it be? If it were easy, I wouldn't ask you to do it! You want me to ask Estherineg to do it?"
+		],
+		[
+			"msg",
+			306048,
+			"Quit complaining! I choose you! Come!",
+			"不要啰嗦了！就你了！跟我走！",
+			"ごちゃごちゃ言うな、あんたが頼りなんだ！一緒に来い！",
+			"잡소리 말아, 네가 믿을 만 하니까! 같이 가자!",
+			null,
+			null,
+			"Stop nagging! It's all yours! Come with me!",
+			"Don't mess with me. I'm depending on you! Come with me!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1126
+		]
+	],
+	"1125": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306049,
+			"Hmm, you're confident, huh? But that's why you are capable of this mission.",
+			"嚯~这么自信的么，不过你如果没有自信的话就没有人能做的到了。",
+			"ほう～大した自信だな。もっとも、あんたで無理だったら誰にもできないんだけどな。",
+			"호오~ 대단한 자신감이군. 그래도, 네가 안 되면 누구도 못 할 거지만.",
+			null,
+			null,
+			"Ho ~ so confident, but you can't do it if you don't have confidence.",
+			"Wow, that's a lot of confidence. But if you can't do it, no one can."
+		],
+		[
+			"msg",
+			306050,
+			"Now me and the injured are in your hands, let's rock!",
+			"那我和伤员的生命就交到你身上了，我们一定要杀出去！",
+			"じゃあ、私と負傷者の命はあんたに預けたよ！絶対に突破するぞ！",
+			"그럼, 나와 부상자들의 목숨은 네게 맡긴다! 반드시 돌파하자고!",
+			null,
+			null,
+			"Then my life and the lives of the wounded are in your hands. We must kill our way out!",
+			"Then you owe me and all the wounded our lives! We're gonna get through this!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1126
+		]
+	],
+	"1126": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306051,
+			"You're going out now?",
+			"你们这是要出门么？",
+			"今から出かけるの？",
+			"지금 나갈 거야?",
+			null,
+			null,
+			"Are you guys going out?",
+			"Are you going out now?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306052,
+			"Yes, fancy coming with us?",
+			"是啊~你要一起来么？",
+			"そうさ、一緒に来るか？",
+			"그래, 같이 갈래?",
+			null,
+			null,
+			"Yes~ Do you want to come along?",
+			"Yeah, you wanna come with me?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306053,
+			"No, thanks.",
+			"不要。",
+			"……謹んで遠慮します。",
+			"……삼가 사양하겠습니다.",
+			null,
+			null,
+			"Don't.",
+			"...... respectfully refuses."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306054,
+			"What's the point you're asking then? You wanna play?",
+			"那你还说的这么轻松！是不是又皮痒了！",
+			"なら、引き留めるなよな。それとも何か用か？",
+			"그럼, 붙들지 마. 아니면 무슨 볼일이라도?",
+			null,
+			null,
+			"Then you are still talking so easy! Is it itchy again!",
+			"Then don't keep me around. Or what do you want?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			306055,
+			"I'm sorry. I mean, if you are going to the base camp, could you please also bring me the box in the workshop?",
+			"抱歉…我的意思是，如果你们要回基地的话帮我把维修室的箱子带过来。",
+			"あのね……もし基地に行くなら、整備室にある箱を持って来てほしいなって。",
+			"저기……만약 기지에 간다면 정비실에 있는 상자를 가져다 줬으면 하는데.",
+			null,
+			null,
+			"Sorry...I meant to bring the maintenance room case for me if you guys are going back to base.",
+			"You know, ...... if you go to the base, I was wondering if you could bring me a box from the maintenance room."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306056,
+			"We only have two people who can fight, no more hands left to carry your rubbish.",
+			"我们能突围的最多只有2个人，可没有力气拿你那些垃圾。",
+			"たった2人で包囲を突破するんだぜ。そんなガラクタ持ってくる余力あるもんか。",
+			"겨우 두 명으로 포위를 돌파하는 거잖아. 그런 잡동사니 가져올 여력이나 있겠어.",
+			null,
+			null,
+			"The most we can break out is 2 people, but we don't have the strength to take all your crap.",
+			"We're going to break through a siege with just two people. How can we afford to bring that crap with us?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306057,
+			"That's my latest invention of anti-Houkai beasts weapon... It must come to handy.",
+			"那是我最新研制的对崩坏生物的兵器…应该会派上用处。",
+			"ガ、ガラクタとは失礼な……！その箱は私が開発した最新の対崩壊生物兵器なの……あればきっと役に立つはず。",
+			"가, 가라쿠타라니 실례야……! 그 상자는 내가 개발한 최신 대붕괴 생물 병기라고…… 있으면 분명히 도움이 될 거야.",
+			null,
+			null,
+			"That's the latest weapon I've developed against disintegrating creatures...it should come in handy.",
+			"Gah, that's rude to call it crap ......! That box is the latest anti-decay bio-weapon I've developed ...... I'm sure it would be useful."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306058,
+			"What didn't you take them before?",
+			"那你出发的时候怎么不拿？",
+			"じゃあ、出発するとき何で持ってこなかったんだよ？",
+			"그럼 출발할 때 왜 가져오지 않았어?",
+			null,
+			null,
+			"Then why didn't you take it when you left?",
+			"Then why didn't you bring it with you when you left?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306059,
+			"I forgot...",
+			"忘了……",
+			"……………………うっかり。",
+			"……………………우물쭈물.",
+			null,
+			null,
+			"Forgotten ......",
+			"........................ inadvertently."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306060,
+			"You m************ s***!",
+			"我OOOOOOOOOO！",
+			"こっの、バカにしてんのか！",
+			"이런, 바보로 보는 거야!",
+			null,
+			null,
+			"I OOOOOOOOOOO!",
+			"You think I'm an idiot!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			306061,
+			"It's my bad, sorry!",
+			"呜呜…我错了！",
+			"ううう……ご、ごめんなさいいぃ……。",
+			"우우우…… 미, 미안해요오…….",
+			null,
+			null,
+			"Oooh...I was wrong!",
+			"Uuuu...... sorry about that. ......"
+		]
+	],
+	"1127": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			306062,
+			"Tatatat",
+			"哒哒哒！",
+			"ダダダッ！",
+			"다다닥!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dah dah dah!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			306063,
+			"Roarrrr!!",
+			"吼吼吼！！！",
+			"ガウウウ！！！",
+			"가우우우!!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"GAWWWW!!!!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306064,
+			"Phew... calm down... Deep breath...",
+			"呼…冷静……深呼吸……",
+			"フゥー……落ち着け……深呼吸……。",
+			"후우…… 진정해…… 심호흡…….",
+			null,
+			null,
+			"Phew...calm ...... take a deep breath ......",
+			"Whoo ...... calm down ...... deep breath ......."
+		],
+		[
+			"choice",
+			[
+				306565,
+				"You're scared?",
+				"害怕了么？",
+				"怖いの？",
+				"무서워?",
+				null
+			],
+			[
+				306566,
+				"Don't be nervous. I'll protect you.",
+				"不要紧张，我会保护你的。",
+				"緊張してるの？大丈夫、守るから。",
+				"긴장했어? 괜찮아, 내가 지켜줄게.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1128,
+			1129
+		]
+	],
+	"1128": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306065,
+			"I... I am not scared! I just need some time to get prepared! Tut! Read the atmosphere, will ya...",
+			"我！我才没有害怕！只是需要一些心理准备罢了！啧！真是不懂气氛的家伙……",
+			"べっ、別に怖くなんかないさ！ただ心の準備をしてるだけだ！空気が読めない奴だな……。",
+			"뻣, 별로 무섭진 않다고! 그냥 마음의 준비를 하고 있을 뿐이야! 분위기 못 읽는 녀석이야…….",
+			null,
+			null,
+			"Me! I'm not scared! It just takes some mental preparation! Sheesh! What a mood-less guy ......",
+			"No, I'm not scared! I'm just preparing myself! You're an airhead. ......"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1130
+		]
+	],
+	"1129": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306066,
+			"I... I am not scared! I just need some time to get prepared! Tut!",
+			"我！我才没有紧张！只是需要一些心理准备罢了！",
+			"べっ、別に緊張なんかしてないさ！ただ心の準備をしてるだけだ！",
+			"뻣, 별로 긴장 같은 거 안 한다고! 그냥 마음의 준비를 하고 있을 뿐이야!",
+			null,
+			null,
+			"Me! I'm not nervous! It just takes some mental preparation!",
+			"I'm not nervous! I'm just preparing myself!"
+		],
+		[
+			"msg",
+			306067,
+			"Plus, I don't need you to protect me! You'd better follow me! I don't want to see you being eaten up by the Houkai beasts!",
+			"还有谁要你保护了！你才是好好跟紧我！要是被崩坏生物吃掉可别怪我！",
+			"援護を頼んだだろ！しっかり付いてきてくれよ！崩壊生物に食われても知らないぞ！",
+			"원호를 부탁했잖아! 제대로 따라와 줘! 붕괴 생물에게 잡아먹혀도 모른다고!",
+			null,
+			null,
+			"Who else needs your protection? You're the one who should stay close to me! Don't blame me if you're eaten by an avalanche of creatures!",
+			"I asked you to cover me! You better follow me! I don't care if you get eaten by a decaying organism!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1130
+		]
+	],
+	"1130": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306068,
+			"Anyway, we have no time to lose, let's get going! The injured are waiting for us!",
+			"好了！没时间浪费了，走吧！伤员们还在等着我们呢！",
+			"よし！ぐずぐずしてる暇はない、行こう！ケガ人が待ってるんだ！",
+			"좋아! 둘러댈 시간 없어, 가자! 부상자가 기다리고 있다고!",
+			null,
+			null,
+			"All right! There's no time to waste, let's go! The wounded are still waiting for us!",
+			"Let's go! No time to dawdle, let's go! We've got wounded people waiting for us!"
+		]
+	],
+	"1131": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306069,
+			"Cough! You really did it... You're truly amazing!",
+			"咳咳！居然真的能突破重围……你这家伙也太厉害了吧！",
+			"ゲッゲホッ！本当にあの包囲を突破できた……あんたって本当すごいな！",
+			"헉헉! 정말로 그 포위를 돌파했어…… 너 정말 대단하네!",
+			null,
+			null,
+			"Ahem! I can actually break through the wall ...... you guys are too good!",
+			"Geez! It's really amazing that you ...... really managed to break through that siege!"
+		],
+		[
+			"choice",
+			[
+				306567,
+				"Thanks.",
+				"谢谢夸奖。",
+				"褒めてくれてありがとう。",
+				"칭찬해줘서 고마워.",
+				null
+			],
+			[
+				306568,
+				"Thank goodness for Emesa's valiant battle efforts.",
+				"多亏了埃米沙勇敢地战斗。",
+				"エミザが勇敢に戦ってくれたおかげだよ。",
+				"에미자가 용감하게 싸워준 덕분이야.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1132,
+			1133
+		]
+	],
+	"1132": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306070,
+			"Humph, quit being cocky! You should be grateful that I am here to fight for you.",
+			"哼！不要太得意了！要不是我的英勇战斗你也不可能这么轻松~",
+			"フン、でも調子に乗るなよ。私も一緒に戦わなかったら、こう簡単にはいかなかったんだからな。",
+			"흥, 하지만 기분 내댈 생각 마. 나도 같이 싸우지 않았더라면 이렇게 쉽게 되지 않았을 거니까.",
+			null,
+			null,
+			"Ha! Don't get too smug! You couldn't have fought so easily if it weren't for my valiant fight~",
+			"Hmm, but don't get carried away. If I hadn't fought alongside you, it wouldn't have been as easy as it was."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1134
+		]
+	],
+	"1133": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306071,
+			"I know I know! Don't you underestimate the power of medics. Seele can't even rival me if I fight!",
+			"哼~那还用说！别小瞧医疗兵的力量，要是我去作战部队希儿都得靠边站！",
+			"フフン～当然だろ！衛生兵の力を見くびるなよ。もし私が戦闘部隊にいたら、ゼーレだって形無しさ。",
+			"흐흥~ 당연하지! 의무병의 힘을 얕보지 마. 내가 전투 부대에 있었다면 제레도 형편없었을 거야.",
+			null,
+			null,
+			"You don't have to say that! Don't underestimate the power of the medics, if I were to go to the combat unit Shire would have to stand aside!",
+			"Hmph~ Of course! Don't underestimate the power of a medic. If I were in a combat unit, Seele would be nothing."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1134
+		]
+	],
+	"1134": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306072,
+			"Anyway, it's too early for us to be relieved now. Our mission objective is to bring these supplies back to ME.",
+			"不过现在还不是高兴的时候，等我们从基地取到物资回到ME社才算真正完成任务。",
+			"でも、喜ぶにはまだ早いな。基地から物資を回収してME社に戻るまで、本当に任務が完了したとは言えない。",
+			"하지만, 기뻐하기에는 아직 일러. 기지에서 물자를 회수해서 ME사로 돌아가기 전까지는 진짜로 임무가 완료됐다고 말할 수 없어.",
+			null,
+			null,
+			"But now is not the time to be happy, when we pick up the supplies from the base back to the ME Society is not really complete.",
+			"But it's too early to rejoice. The mission is not truly complete until we have retrieved the supplies from the base and returned to the ME company."
+		],
+		[
+			"msg",
+			306073,
+			"I've however planned with the defence troop and they will distract the Houkai beasts' attention from us and clear the path back for us. The engineers will be helping as well. It should be easier going back than out.",
+			"不过我和防御部队已经制定了计划，等我们回来的时候防御班的人会把崩坏生物的主力引开给我们创造空间。而且工程班的人也会前来接应，因此压力会小很多。",
+			"でも、安心しろ。守備部隊と打ち合わせてあるんだ。帰るときは守備部隊が崩壊生物の主力を引きつけて、スペースを空けてくれる。それにエンジニア班も応援に来てくれるから、だいぶ楽になるはずだ。",
+			"하지만, 안심해. 수비 부대와 협의해 뒀으니까. 돌아갈 때는 수비 부대가 붕괴 생물의 주력을 유인하고, 공간을 비워줄 거야. 게다가 엔지니어 팀도 지원 와줄 테니, 한결 수월해질 거야.",
+			null,
+			null,
+			"However, the defense unit and I have made a plan that when we return the defense squad will draw the main force of the disintegrating creatures away from us to create space. And the engineering squad will also come to meet them, so the pressure will be much less.",
+			"But don't worry. I have a meeting with the defending force. When it's time to leave, the defending force will draw the main force of the disintegrating organisms away to make room for them. And the engineering team will come to support us, so it should be a lot easier."
+		],
+		[
+			"msg",
+			306074,
+			"Let's hope the ongoing operation won't take too long. Even the supplies from the base won't be enough otherwise... Bronya, when will you be back...",
+			"只希望这次的战斗不会耗时太久，如果长期作战的话恐怕基地存储的药品也不够用……真希望布洛妮娅能快点回来。",
+			"ただ、無事に物資を持ち帰れても、今回の戦闘が長引かないことに越したことはないんだがな。長期戦になったら、基地に蓄えた医薬品でも足りない……ブローニャには本当に早く帰って来てほしいよ。",
+			"다만, 무사히 물자를 가져가도 이번 전투가 길어지지 않는 편이 좋겠지만. 장기전이 되면 기지에 비축한 의약품으로도 부족할 거야…… 브로냐에는 정말로 빨리 돌아와 줬으면 좋겠어.",
+			null,
+			null,
+			"I only hope that this battle will not take too long, if the long-term battle, I am afraid that the base storage of drugs are not enough ...... really hope that Bronya can come back soon.",
+			"But even if we can bring the supplies back safely, I'm hoping that this battle won't last too long. If it's a long battle, even the medical supplies stored at the base won't be enough....... I really hope Bronya comes home soon."
+		],
+		[
+			"msg",
+			306075,
+			"... Come on, keep your head up. Let's go, we shall return now.",
+			"…不是说丧气话的时候。走吧，我们立刻返回基地，",
+			"……おっと、シケた話をしてる場合じゃなかったな。行こう、急いで基地に帰らなきゃ。",
+			"……엇, 시시한 이야기할 때가 아니었어. 가자, 서둘러 기지로 돌아가야 해.",
+			null,
+			null,
+			"...is not the time for morose words. Come on, let's return to base, immediately.",
+			"...... Oops, this is not the time for idle chitchat. Let's go, we need to get back to base."
+		]
+	],
+	"1135": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306076,
+			"You've made it! That's unbelievable, are you not apparition or something?",
+			"你们居然真的能回来…实在太不可思议了，你们真的不是亡魂么？",
+			"本当に戻って来れたのね……ゆ、幽霊じゃない？",
+			"정말로 돌아올 수 있었구나…… 유, 유령 아니지?",
+			null,
+			null,
+			"You guys actually came back...it's incredible...are you really not the souls of the dead?",
+			"You really made it back. ...... Yu, you're not a ghost, are you?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306077,
+			"Huh? Did you mean you don't want us to be back here?",
+			"嚯？你的意思是希望我们回不来么？",
+			"はぁ？戻って来てほしくなかったのか？",
+			"하? 돌아오길 바라지 않았던 거야?",
+			null,
+			null,
+			"Ho? You mean you hope we don't come back?",
+			"Huh? You didn't want me to come back?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306078,
+			"Forget about it... Anyway, have you brought that box back?",
+			"没有……对了，你们帮我把箱子带回来了么？",
+			"とんでもない……そうそう、箱は持って来てくれた？",
+			"말도 안 돼…… 아 맞아, 상자는 가져왔어?",
+			null,
+			null,
+			"No ...... By the way, did you guys bring back the case for me?",
+			"No way. ...... Oh yeah, did you bring the box?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306079,
+			"Here you go! What is it inside this shabby box. It's so heavy!",
+			"给你！这破箱子到底装了什么东西，重死了！",
+			"ほらよ！このボロ箱に一体何が入ってるんだ。クソ重かったぞ！",
+			"자! 이 낡은 상자에 대체 뭐가 들어있는 거야. 존나게 무거웠다고!",
+			null,
+			null,
+			"Here you go! What the hell is in this damn box? It's heavy!",
+			"Look! What the hell is in this raggedy box? It's fucking heavy!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306080,
+			"Thank you... Allow me to prepare the anti-Houkai beast weapon...",
+			"辛苦了…那我去准备后面对抗崩坏生物的武器……",
+			"ご苦労様でした……じゃあ、さっそくこの武器の準備をしてくるわ……。",
+			"수고했어…… 그럼, 당장 이 무기 준비하러 갈게…….",
+			null,
+			null,
+			"hard work ... then I go to prepare the back of the weapon against the collapse of the creature ......",
+			"Thank you for your efforts. ...... Well, I'll get this weapon ready as soon as I can. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306081,
+			"Humph, she escapes. What a crafty girl.",
+			"哼，溜走了么？真是鸡贼的家伙……",
+			"おい、説明もなしかよ？まったく、お披露目くらいしてくれてもいいのにな……。",
+			"야, 설명도 없어? 진짜, 공개 정도는 해줘도 되잖아…….",
+			null,
+			null,
+			"Huh, slipped away? What a chicken thief ......",
+			"Hey, no explanation? At all, you could have at least unveiled it. ......"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306082,
+			"Whatever, mission complete. Phew, now the pressure of treating the injured is alleviated, I can put my mind to rest.",
+			"算了，不管怎么样这次的作战算是成功了。呼~总算是松了口气，这样伤员的处理压力应该会小很多了~",
+			"まあいい、いずれにしても今回の作戦は成功だ。ふぅ～ようやく一息つけるよ。これで治療もだいぶやりやすくなる。",
+			"뭐 어쩔 수 없지, 어쨌든 이번 작전은 성공이야. 후~ 드디어 한숨 돌릴 수 있겠네. 이제 치료도 한결 수월해지겠어.",
+			null,
+			null,
+			"Never mind, no matter what this battle was a success. Phew ~ finally a sigh of relief, so the pressure of handling the wounded should be much less ~",
+			"Oh well, in any case, this mission was a success. Phew, I can finally take a breather. This will make the treatment much easier."
+		],
+		[
+			"msg",
+			306083,
+			"I wonder what's going on with Seele in there. If only we could snuff out the beasts here, so that we could support them!",
+			"不知道希儿她们在里面的情况怎么样了，如果我们这边能解决掉这些崩坏生物就好了，这样就能支援她们了！",
+			"ゼーレたちの状況がどうなったか分からないけど、こちらはこっちの崩壊生物を始末できればそれでいい。それが後方支援に繋がるからな。",
+			"제레들 상황이 어떻게 됐는지 모르겠지만, 우리 쪽 붕괴 생물만 처리하면 돼. 그게 후방 지원으로 이어지니까.",
+			null,
+			null,
+			"I wonder how Hillel and the girls are doing in there, it would be nice if our side could take care of the disintegrating creatures so we can support them!",
+			"I don't know what the situation is with Seele and the others, but all we need to do is take care of the disintegrating organisms over here. That will help with the logistics."
+		],
+		[
+			"msg",
+			306084,
+			"Now we can only do what we can....",
+			"现在我们能做的只有自己力所能及的事情了……",
+			"今は自分がやれる限りのことをするだけだ……。",
+			"지금은 내가 할 수 있는 일만 하면 돼…….",
+			null,
+			null,
+			"Now all we can do is what we can do ......",
+			"Now I just do the best I can. ......"
+		],
+		[
+			"msg",
+			306085,
+			"I shall go back to the front line. The people there need our help.",
+			"回到前线去吧，还有更多的人需要我们帮助。",
+			"前線に戻ろう。まだ、たくさんの人が助けを必要としてる。",
+			"전선으로 돌아가자. 아직, 많은 사람들이 도움을 필요로 하고 있어.",
+			null,
+			null,
+			"Go back to the front lines, there are more people who need our help.",
+			"Let's get back to the front. There are still a lot of people who need help."
+		]
+	]
+}

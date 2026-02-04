@@ -1,0 +1,1006 @@
+{
+	"1115": [
+		[
+			"speaker",
+			204616
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306011,
+			"We've spotted Houkai beast reinforcement outside ME. They are marching to the lobby!",
+			"报告，ME社外围发现崩坏生物增援，正在朝大厅进攻！",
+			"報告します、ME社の周囲に崩壊生物の増援を発見。ホールに向かって進攻してきます！",
+			"보고드립니다, ME사 주변에 붕괴 생물 증원군 발견. 홀을 향해 진격해 오고 있습니다!",
+			null,
+			null,
+			"Report, reinforcements of Avalanche creatures have been found on the perimeter of ME Society and are attacking the hall!",
+			"Reporting, we have found reinforcements of disintegrating organisms around the ME company. They are advancing towards the hall!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306012,
+			"How quickly the reinforcement arrives, but the defense line is not yet ready... Looks like we have no other choice but to active the lately designed Hori Engineering Robots.",
+			"呃…居然这么快就有增援了么，可是防线的搭设还没有完成……看来只能启用新设计的吼里工程机器人了。",
+			"うえぇ……こんなに早く増援が？でも、防御線はまだ完成してないし……新兵器ホリ工兵ロボットを使うしかなさそうね。",
+			"우에에… 이렇게 빨리 증원이? 하지만 방어선은 아직 완성되지 않았는데… 신병기 호리 공병 로봇을 사용할 수밖에 없을 것 같네.",
+			null,
+			null,
+			"Uh ... actually so soon reinforcements? But the defense line is not yet completed ...... seems to be able to enable the newly designed Howlery engineering robot.",
+			"Eww ...... reinforcements so soon? But the defensive line isn't complete yet,...... and it looks like we'll have to use our new weapon, the Holi Engineer Robot."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			306013,
+			"Roarrrr!",
+			"吼吼吼！",
+			"ガウウウ……！",
+			"그르르르…!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Gauauuuuuu ......!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306014,
+			"Wow... I can even hear the beasts' howling from afar. We ought to make more haste...",
+			"呜…这么远就能听到怪物的吼声了，我们得抓紧时间了……",
+			"うう……こんな遠くからでも怪物のうなり声が聞こえる……急がないと……。",
+			"으… 이 먼 거리에서도 괴물의 울음소리가 들려… 서둘러야 해….",
+			null,
+			null,
+			"Oooh...you can hear the monster roar from so far away, we need to hurry up ......",
+			"Ugh ...... even from this far away I can hear the monster growling ...... we have to hurry ......."
+		],
+		[
+			"msg",
+			306015,
+			"Can you buy me some time? You can come back after the defense line is constructed.",
+			"可以为我们争取一些时间么？只要等防线铺设完毕就可以撤回来了。",
+			"お願い……ちょっと時間を稼いでもらえる？ホリ工兵ロボットたちが防御線の構築を終えたら、引き揚げていいから。",
+			"부탁드려… 조금만 시간을 벌어줄 수 있겠어? 호리 공병 로봇들이 방어선 구축을 마치면 철수해도 좋으니까.",
+			null,
+			null,
+			"Will it buy us some time? Just wait for the defenses to be laid and then we can pull back.",
+			"Please ...... can you buy me some time? Holly, when the engineering robots have finished building their defensive line, you can pull out."
+		]
+	],
+	"1116": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306016,
+			"Roarrrr!",
+			"吼吼吼！",
+			"ガウウウ！",
+			"그르르르!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"GAWWW!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306017,
+			"What a flock of beasts... That's not good. The robots have no means to defend themselves, they are vulnerable to Houkai beasts' attacks.",
+			"数…数量这么多的么，这可怎么办…工程机器人没有防御手段，如果被崩坏生物攻击的话很容易坏掉，",
+			"こ……こんなにいるの？これじゃどうしたら……工兵ロボットに防御手段はないし、崩壊生物に攻撃されたら簡単に壊れちゃうよ。",
+			"이……이렇게 많아? 이러면 어떻게……공병 로봇에 방어 수단은 없고, 붕괴 생물에게 공격당하면 쉽게 부서져 버릴 텐데.",
+			null,
+			null,
+			"The number of ... the number of so many, how can we do ... engineering robots have no means of defense, if the attack by the collapse of the creature then it is easy to break down.",
+			"How can there be so many of these ......? How can this be ...... the Armed Forces robots have no defense, and if they are attacked by a disintegrating organism, they will easily break down."
+		],
+		[
+			"msg",
+			306018,
+			"You must not let any Houkai beast break through. I am counting on you...",
+			"请务必不要让崩坏生物突破进来，拜托你了……",
+			"ゼッタイに崩壊生物に突破されちゃだめ。頼んだわよ……。",
+			"절대로 붕괴 생물에게 돌파당하면 안 돼. 부탁할게…….",
+			null,
+			null,
+			"Make sure you don't let the collapse creatures break in, please ......",
+			"Zettai don't let the disintegrating organisms break through. I'm asking you to do it. ......"
+		],
+		[
+			"choice",
+			[
+				306559,
+				"Please don't worry.",
+				"放心吧。",
+				"安心して。",
+				"안심하세요.",
+				null
+			],
+			[
+				306560,
+				"Make sure the defense lines are all unbreakable.",
+				"你也要把防线搭牢。",
+				"あなたも防御線を築きにいかなきゃ。",
+				"당신도 방어선을 구축하러 가야 해요.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1117,
+			1118
+		]
+	],
+	"1117": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306019,
+			"Sure thing! I will build up a robust defensive line, otherwise today will be our very last day...",
+			"嗯，这里就交给我吧，一定要把防线建的牢牢的，不然今天就是大家的忌日了……",
+			"うん、こっちは私に任せて。必ず頑丈な防御線を築くから。そうでないと今日がみんなの命日になっちゃう……。",
+			"응, 이쪽은 나에게 맡겨. 반드시 튼튼한 방어선을 구축할 테니까. 그렇지 않으면 오늘이 모두의 기일이 되어 버릴 거야…….",
+			null,
+			null,
+			"Well, here it is left to me, must build a firm line of defense, or today is the anniversary of everyone's death ......",
+			"Yeah, I'll take care of this side. I'll make sure to build a sturdy line of defense. Otherwise, today will be the anniversary of everyone's death. ......"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1119
+		]
+	],
+	"1118": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306020,
+			"Don't worry! I will build up a robust defensive line, otherwise today will be our very last day...",
+			"放心吧，一定要把防线建的牢牢的，不然今天就是大家的忌日了……",
+			"え、私も……？も、もちろん行くつもりだったわよ。頑丈な防御線を築かないと、今日がみんなの命日になっちゃうからね。",
+			"에, 나도……? 모, 물론 갈 생각이었어. 튼튼한 방어선을 구축하지 않으면, 오늘이 모두의 기일이 되어 버리니까.",
+			null,
+			null,
+			"Rest assured that the defense must be built firmly, or today is the anniversary of everyone's ......",
+			"What, I was going to go to ......? I was going to be there, too, of course. I had to build a sturdy line of defense or today would be the day of everyone's death."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1119
+		]
+	],
+	"1119": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10106"
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306021,
+			"Engineering robots activate! Show the beasts your prowess!",
+			"工程机器人启动！让崩坏生物见识到我们工程班的实力！",
+			"工兵ロボット起動！崩壊生物にエンジニア班の実力を見せつけてやりなさい！",
+			"공병 로봇 기동! 붕괴 생물에게 엔지니어 팀의 실력을 보여주라고!",
+			null,
+			null,
+			"Engineering robots activated! Let the crashing creatures see what our engineering class is capable of!",
+			"Launch the engineering robots! Let the disintegrating organisms show the Engineer Squad what they're made of!"
+		],
+		[
+			"speaker",
+			204635
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				65,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306022,
+			"Hori!",
+			"吼里！",
+			"ホリッ！",
+			"호릿!",
+			null,
+			null,
+			"Hooray!",
+			"Hooray!"
+		]
+	],
+	"1120": [
+		[
+			"speaker",
+			204635
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				65,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306023,
+			"Hori... hori...",
+			"吼里…吼里……",
+			"ホ、ホリ……ホリ……。",
+			"호, 호리……호리…….",
+			null,
+			null,
+			"Howl...howl ......",
+			"Ho, holi ...... holi ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306024,
+			"Hey! Stand firm! Move! Go the f**k up ahead and make covers!",
+			"喂！不要怂！快动起来啊！给我OO地去前面铺掩体！",
+			"おい！びびってないで、早く行けよ！前方に防御陣地を築いて来い！",
+			"야! 겁먹지 말고, 빨리 가라구! 전방에 방어 진지를 구축하고 와!",
+			null,
+			null,
+			"Hey! Don't be a coward! Get moving! Get to the front of the bunker!",
+			"Hey! Don't be scared, get moving! Go build a defensive position in front of them!"
+		],
+		[
+			"speaker",
+			204635
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				65,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306025,
+			"Hori... hori...",
+			"吼里…吼里……",
+			"ホリ……ホリホリ……。",
+			"호리……호리호리…….",
+			null,
+			null,
+			"Howl...howl ......",
+			"Holly ...... Holly ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306026,
+			"Yssring! How come these scraps act like you! Go get them moving!",
+			"伊瑟琳！这些破机器怎么和你一个德行！让它们给我麻利的上去！",
+			"イザーリン！何だよ、このポンコツロボット！前に進まないぞ！",
+			"이자린! 뭐야, 이 고물 로봇! 앞으로 나아가지 않잖아!",
+			null,
+			null,
+			"Estherine! These machines are just like you! Tell them to get up there!",
+			"Estherine! What the hell, you piece-of-shit robot! It won't move forward!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			306027,
+			"Can't do it... I've installed a danger detecting program in their OS. They will intuitively stay away from dangers.",
+			"没办法…我在它们的程序里设置了风险预估系统…只要有危险它们就会本能地后退。",
+			"仕方ないのよ……この子たちのプログラムにリスク予測システムを組み込んでおいたから……危険を察知したら本能的に後退するの。",
+			"어쩔 수 없어…… 이 아이들 프로그램에 위험 예측 시스템을 내장해 뒀으니까…… 위험을 감지하면 본능적으로 후퇴하는 거야.",
+			null,
+			null,
+			"No way...I programmed them with a risk prediction system...as soon as there is danger they will instinctively back off.",
+			"We don't have a choice.......I've built a risk prediction system into these kids' programs, so when they ...... sense danger, they instinctively retreat."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306028,
+			"What's the point to make such useless scraps then?",
+			"那要这种工程兵有个鸟用！",
+			"それじゃロボット工兵の意味がないだろ！！",
+			"그럼 로봇 공병의 의미가 없잖아!!",
+			null,
+			null,
+			"Then what's the point of having an engineer like this!",
+			"That doesn't make sense for a robot army of engineers!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			306029,
+			"Building one such robot costs a lot... Who can guarantee they can stay intact without such the danger detecting program...",
+			"但是制作这些机器人的成本可是很高的…如果没有这种风险控制的话弄坏了怎么办……",
+			"でも、こういうロボットの製作コストは高いのよ……リスクを顧みずに行動して壊れちゃったら困るじゃない……。",
+			"하지만, 이런 로봇 제작 비용은 비싸…… 위험을 무릅쓰고 행동하다 망가져 버리면 곤란하잖아…….",
+			null,
+			null,
+			"But the cost of making these robots is very high ... If there is no such risk control, what if it breaks ......",
+			"But the cost of making these robots is high. ...... You don't want to act without taking risks and have them break. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306030,
+			"Those scraps... Looks like I can only make you move by violence!",
+			"这群废物……看来只能用暴力让你们动起来了！",
+			"この役立たずども……だったら力尽くでも動かしてやる！",
+			"이 쓸모없는 것들…… 그럼 힘으로라도 움직여 주겠어!",
+			null,
+			null,
+			"This bunch of losers ...... seems to have to use violence to get you to move!",
+			"If these worthless bastards were ...... I'd move them by force!"
+		],
+		[
+			"msg",
+			306031,
+			"You god d**n scraps! Move or break into pieces!",
+			"你们这些OO的杂碎！再不上去我就把你们的龅牙脑袋给打爆！",
+			"おい！ガタクタども！さっさと行かないと、その頭を爆発させちまうぞ！",
+			"야! 허접한 것들! 빨리 안 가면, 그 머리를 폭발시켜 버린다!",
+			null,
+			null,
+			"You OO scumbags! If you don't get up there I'll blow your bucktooth heads off!",
+			"Hey! Rattlers! Get out of here or I'm gonna blow your head off!"
+		],
+		[
+			"speaker",
+			204635
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				65,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306032,
+			"Hori! Hori!",
+			"吼里！吼里！",
+			"ホリ！ホリ！",
+			"호리! 호리!",
+			null,
+			null,
+			"Hooray! Ho-ri!",
+			"Holi! Holi!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				65,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306033,
+			"... Houkai beasts can't even rival you. Are you serious?",
+			"……居然比崩坏生物的风险评估还高，你是认真的么！",
+			"……エミザに対する脅威が崩壊生物を上回った……もしかして本気で言ってたの？",
+			"……에미자에 대한 위협이 붕괴 생물을 넘어섰어…… 혹시 진심으로 말한 거야?",
+			null,
+			null,
+			"...... is actually higher than the risk assessment of the collapsed creatures, are you serious!",
+			"The threat to ...... Emesas outweighs that of disintegrating organisms...... maybe you were serious?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306034,
+			"Huh? You want a punch from me too? Cut the crap! Go f**king working!",
+			"哈？你的意思是也让我打爆你的头么？少废话！给我OO地快干活！",
+			"はぁ？お前の頭も爆発させてほしいか？無駄口はいいから、さっさと仕事しろ！",
+			"하? 네 머리도 폭발시키고 싶어? 쓸데없는 소리는 됐고, 빨리 일해!",
+			null,
+			null,
+			"Huh? You mean you want me to blow your head off too? Cut the crap! Get your ass to work!",
+			"Huh? You want your head to explode too? Cut the useless talk and get to work!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			306035,
+			"My... my bad! Will do...",
+			"我…我错了！我现在就去……",
+			"わわ……わかった、すぐやります！",
+			"와와…… 알았어, 바로 할게!",
+			null,
+			null,
+			"I...I was wrong! I'll go now ......",
+			"Wow ...... okay, I'll get right on it!"
+		],
+		[
+			"choice",
+			[
+				306561,
+				"Chill, Emesa.",
+				"埃米沙冷静些。",
+				"エミザ、落ち着いて。",
+				"에미자, 진정해.",
+				null
+			],
+			[
+				306562,
+				"Emesa can be real strict.",
+				"埃米沙真的很严格。",
+				"エミザは本当に厳しいね。",
+				"에미자는 정말 엄격하네요.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1121
+		]
+	],
+	"1121": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306036,
+			"Huh? What are you doing here? Don't you slack off!",
+			"啊？看什么看！你也赶紧给我上！",
+			"あ？何見てんだよ！あんたも早く行けよな！",
+			"아? 뭐 보고 있는 거야! 당신도 빨리 가라고!",
+			null,
+			null,
+			"What? What are you looking at? You too, hurry up and get on!",
+			"Huh? What are you looking at? You go, too, quick!"
+		]
+	],
+	"1122": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306037,
+			"Finally it's done... It's doesn't feel good to stay in between two dangerous zones...",
+			"总算铺设完了…这个前有狼后有虎的感觉实在太可怕了……",
+			"なんとか完成したわね……この前門の虎、後門の狼って感じ、超怖い……。",
+			"간신히 완성했네…… 이건 전문의 호랑이, 후문의 이리 같은 느낌, 완전 무서워…….",
+			null,
+			null,
+			"Finally finished laying ... This feeling of having a wolf in front and a tiger behind is too terrible ......",
+			"I managed to finish it. ...... I feel like this tiger at the front gate, wolf at the back gate, it's super scary. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306038,
+			"Stop complaining! You won't finish your work that fast without me pushing you.",
+			"少抱怨多干活！要不这样逼你你能这么快就完成作业么？",
+			"文句言わずに働けよ！このくらいプレッシャーかけなきゃこんなに早く作業できなかったろ？",
+			"불평하지 말고 일해! 이 정도 압박 없었으면 이렇게 빨리 작업 못 했겠지?",
+			null,
+			null,
+			"Less complaining and more work! Would you be able to finish your homework so quickly if you weren't forced to do so?",
+			"Stop complaining and get to work! You couldn't have worked this fast without this much pressure, could you?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306039,
+			"Erm... Thank you, then...",
+			"好吧…那谢谢你哦……",
+			"はいはい……感謝します……。",
+			"네네…… 감사합니다…….",
+			null,
+			null,
+			"Well...then thank you oh ......",
+			"Yes yes thank you ...... thank you ......."
+		],
+		[
+			"speaker",
+			204635
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				65,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306040,
+			"Hori......",
+			"吼里……",
+			"ホリ……。",
+			"홀리…….",
+			null,
+			null,
+			"Howlly ......",
+			"Holly. ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV07_FootStepAway"
+		],
+		[
+			"msg",
+			306041,
+			"Alright, alright! You can have a short break! There are still a lot to do!",
+			"好了好了！该干什么干什么去，还有好多工作要做呢！",
+			"よしよし！さあ仕事だ仕事、やるべきことはまだたくさんあるんだ！",
+			"좋아좋아! 자 일이다 일, 해야 할 일은 아직 한참 남았어!",
+			null,
+			null,
+			"All right, all right! Do what you have to do, there is still a lot of work to do!",
+			"All right, all right! Come on, work, work, there's so much more to do!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306042,
+			"Ok, you should also take some rest too...",
+			"嗯…您也辛苦了……",
+			"うん……あなたもご苦労様……。",
+			"응…… 너도 수고했어…….",
+			null,
+			null,
+			"Well...you've worked hard too ......",
+			"Yeah ...... you too for your efforts ......."
+		],
+		[
+			"msg",
+			306043,
+			"Sigh... I wanna go home...",
+			"哎…好想回家……",
+			"はぁ……家に帰りたい……。",
+			"하아…… 집에 가고 싶어…….",
+			null,
+			null,
+			"Hey ... so want to go home ......",
+			"Huh ...... I want to go home ......."
+		]
+	]
+}

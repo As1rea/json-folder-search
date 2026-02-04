@@ -1,0 +1,1406 @@
+{
+	"1326": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308233,
+			"Finally.",
+			"终于还是到了这一刻么。",
+			"この時が、ついに訪れた。",
+			"이 순간이, 마침내 찾아왔다.",
+			"The time has come.",
+			null,
+			"Finally, this is the moment.",
+			"This time finally came."
+		],
+		[
+			"msg",
+			308234,
+			"The destruction has starts, natural rules are explained in a most reasonable way, civilization extinction will be the final conclusion.",
+			"毁灭的倒计时已经开始，自然法则以最合理的方式得到解释，文明的灭亡将是最后的结论。",
+			"破滅へのカウントダウンが始まり、自然の摂理は最も合理的な形で解釈をされ、最後には文明が終焉へと至る。",
+			"파멸로의 카운트다운이 시작되고, 자연의 섭리는 가장 합리적인 형태로 해석되어, 마지막에는 문명이 종언에 이르게 된다.",
+			"The countdown to destruction has begun, the laws of nature are interpreted to their logical end, and civilization will come to an end.",
+			null,
+			"The countdown to destruction has begun, the laws of nature are explained in the most logical way, and the demise of civilization will be the final conclusion.",
+			"The countdown to doom begins, the natural order is interpreted in the most rational way, and finally civilization comes to an end."
+		],
+		[
+			"msg",
+			308235,
+			"Maybe such a result is the best for this dying world, but I still can't accept this answer……",
+			"或许这样的结果对于这个死寂绝望的世界来说是最好的解脱，但是我却怎么也无法接受这样的答案……",
+			"この結末は、絶望に満ちたこの世界にとって解放なのかもしれない……だが、どうしてもその答えを受け入れることができない……。",
+			"이 결말은, 절망으로 가득 찬 이 세상에 해방일지도 모른다…… 하지만, 어떻게든 그 답을 받아들일 수가 없다…….",
+			null,
+			null,
+			"Perhaps such a result is the best relief for this dead and desperate world, but how can I not accept such an answer ......",
+			"This ending may be liberating for this world full of despair,...... but I just can't accept the answer."
+		],
+		[
+			"msg",
+			308236,
+			"Well…seeking survival is the only thing in common among all lives, even for us it's the same.",
+			"没办法…追求生存是生命唯一的共性，就算是我们也一样。",
+			"仕方ない……生きることを望むのは、どの生命にもある欲望であり、私たちも例外ではないのだから。",
+			"어쩔 수 없어…… 살고자 하는 것은 모든 생명체가 가진 욕망이고, 우리도 예외는 아니니까.",
+			null,
+			null,
+			"No way...the pursuit of survival is the only commonality of life, even if we are the same.",
+			"We have no choice....... It is the desire of every life to live, and we are no exception."
+		],
+		[
+			"msg",
+			308238,
+			"「Stigmata Space connection starts……」",
+			"「圣痕空间链接开始……」",
+			"「聖痕空間のリンクを開始……」",
+			"「성흔공간의 링크를 시작……」",
+			null,
+			null,
+			"\"Stigmata Space Link Start ......\"",
+			"\"Start a link to the Stigmata space: ......\""
+		],
+		[
+			"msg",
+			308239,
+			"——Because we're all selfish creatures called human beings.",
+			"——谁让我们是称为人类的自私的生物呢。",
+			"——人類は、利己的な生き物だ。",
+			"——인류는 이기적인 생물이다.",
+			null,
+			null,
+			"--who made us the selfish creatures called humans.",
+			"--Humans are selfish creatures."
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"msg",
+			308240,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			308241,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			308242,
+			"……",
+			"……",
+			"…………。",
+			"………….",
+			null
+		],
+		[
+			"msg",
+			308243,
+			"Go……",
+			"快走……",
+			"はやく、戻らないと……。",
+			"빨리 돌아가지 않으면…….",
+			null,
+			null,
+			"Go fast ......",
+			"Quickly, I have to get back to ......."
+		],
+		[
+			"msg",
+			308244,
+			"Everyone…leave here……",
+			"大家…离开这里……",
+			"みんなのために……ここから出るんだ……。",
+			"모두를 위해…… 여기서 나가는 거야…….",
+			null,
+			null,
+			"Everyone...get out of here ......",
+			"Get out of here ...... for everyone. ......"
+		],
+		[
+			"msg",
+			308245,
+			"I will protect you……",
+			"我会保护大家的……",
+			"みんなのことを守らないと……。",
+			"모두를 지켜내지 않으면…….",
+			null,
+			null,
+			"I will protect everyone ......",
+			"We need to protect everyone. ......"
+		],
+		[
+			"msg",
+			308246,
+			"Go!",
+			"快走！",
+			"はやく……ッ！",
+			"빨리……!",
+			null,
+			null,
+			"Move it!",
+			"Quickly ......!"
+		],
+		[
+			"msg",
+			308247,
+			"Woo……",
+			"唔……",
+			"うぅ……ん……。",
+			"으음……응…….",
+			null,
+			null,
+			"Well ......",
+			"Ugh ...... n ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308248,
+			"Kyushou! How are you! Wake up!",
+			"九霄！九霄你怎么样了！快醒醒！",
+			"九霄ッ！九霄、どうしましたか！目を覚ましてください！",
+			"큐쇼! 큐쇼, 어떻게 된 거예요! 정신 차리세요!",
+			"Kyuushou! Hey, what's wrong with you? Wake up!",
+			null,
+			"Kyuushou! Kyuushou, how are you? Wake up!",
+			"Kyuushou! Kyuushou, what's wrong! Wake up!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308249,
+			"Bronya……",
+			"布洛妮娅……",
+			"ブローニャ……。",
+			"브로냐…….",
+			null,
+			null,
+			"Bronya ......",
+			"Bronya. ......."
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308250,
+			"Great…finally, I thought you will be like Seele……",
+			"太好了…终于醒了么，我还以为你和希儿一样……",
+			"良かった……やっと起きたのですね。ゼーレと同じように目を覚まさないのではと思いました……。",
+			"다행이야… 겨우 일어났군요. 제레처럼 정신을 차리지 않을까 걱정했어요…….",
+			"Thank goodness... You finally woke up. I thought you'd sleep forever like Seele...",
+			null,
+			"Great...finally woke up? I thought you were the same as Hill ......",
+			"Thank goodness ...... you finally woke up. I thought you might not wake up as well as Seele did. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308251,
+			"Huh~finally wake up…Kyushou, you've been sleeping for two days, but now the situation seems to be better than I thought.",
+			"呼~总算是醒过来了么…九霄，你已经昏迷了快两天了，不过现在看来情况要比想象中的要好不少呢。",
+			"ふぅ、やっと起きたのね……九霄、もう2日も気を失ってたのよ。でも、想定よりもだいぶ状態が良いみたいね。",
+			"후우, 겨우 깨어났구나… 큐쇼, 이틀 동안이나 의식을 잃고 있었어. 하지만 예상보다 상태가 괜찮아 보이네.",
+			"Whew, you finally woke up..... Kyuushou, you've been out cold for two days now. But the situation seems to be much better than we thought.",
+			null,
+			"Hoo~ finally woke up...Kyuushou, you have been in a coma for almost two days, but now seems to be in a much better condition than expected.",
+			"Whew, you finally woke up ...... Kyuushou, I've been out cold for two days now. But you seem to be in much better shape than we thought."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308252,
+			"Where am…I?",
+			"我这是…在哪？",
+			"私は……ここはどこ？",
+			"나는…… 여긴 어디지?",
+			null,
+			null,
+			"What am I...where am I?",
+			"I am ...... where am I?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			308253,
+			"Sorry, as Emesa is still in a coma, I have to take you here, so I can better take care of you.",
+			"抱歉，因为埃米沙还在昏迷中，所以只能把你安排在我的维修室里了，这样也方便我观察。",
+			"ごめんね、エミザがまだ昏睡状態だから、あなたには修理室で寝てもらってるの。ここの方が、私としても対応しやすいしね。",
+			"미안해, 에미자가 아직 혼수 상태라서 너는 수리실에서 자게 했어. 여기가 나로서도 관리하기 편하니까.",
+			"Sorry, Emesa is still in a coma, so I'm having you sleep in the repair room. It's easier for me to deal with you here.",
+			null,
+			"Sorry, but since Emesa is still in a coma, I had to put you in my maintenance room, which also makes it easier for me to observe.",
+			"Sorry, Emesa is still in a coma, so I'm having you sleep in the repair room. It's easier for me to deal with you here."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308254,
+			"Kyushou, I know you must be very confused now, but we're in an emergency, please answer my questions now.",
+			"九霄，我知道你现在一定很迷茫，不过现在情况紧急，请先配合我一下吧。",
+			"九霄、きっとまだ困惑していると思うけど、今は非常事態だから先に私の質問に答えてくれる？",
+			"큐쇼, 아직 혼란스러울 거라 생각하지만 지금은 비상사태니까 먼저 내 질문에 답해 줄래?",
+			"Kyuushou, I am sure you are still disoriented, but since this is an emergency situation, can you answer my question first?",
+			null,
+			"Kyuushou, I know you must be very confused now, but now the situation is urgent, please cooperate with me first.",
+			"Kyuushou, I am sure you are still confused, but since this is an emergency situation, can you answer my question first?"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			308255,
+			"First, do you still remember what happened in academic city?",
+			"首先，你还记得在学园都市发生了什么事情么？",
+			"まず、学園都市での出来事について、覚えてる？",
+			"먼저, 학원 도시에서 있었던 일에 대해 기억나?",
+			"First of all, do you remember what happened in Academy City?",
+			null,
+			"First of all, do you remember what happened in Gakuen City?",
+			"First of all, do you remember what happened in the school city?"
+		],
+		[
+			"choice",
+			[
+				309285,
+				"Himeko……",
+				"姬子她……",
+				"姫子が……。",
+				"히메코가…….",
+				null
+			],
+			[
+				309305,
+				"Is that a dream……",
+				"那一切都不是梦么……",
+				"全部夢じゃなかったんだ……。",
+				"전부 다 꿈이 아니었어…….",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1327
+		]
+	],
+	"1327": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308256,
+			"You look like remember something more or less…ok, I know you have lots of questions now, but let me explain first, it's more efficient……",
+			"看来多少还有一些印象…好吧，我知道你现在一定有很多问题想问，但请先听我说明一下现在的状况吧，这样会效率很多……",
+			"少し覚えているのね……聞きたいことはたくさんあると思うけど、少し状況を説明させてもらうわ。",
+			"조금은 기억하고 있군…… 묻고 싶은 게 많겠지만, 잠시 상황을 설명해 줄게.",
+			null,
+			null,
+			"Seems more or less impressive...well, I know you must have a lot of questions you want to ask now, but please listen to me first to explain the current situation, it will be much more efficient ......",
+			"You remember a little ...... I know you have a lot to ask, but let me explain a little bit about the situation."
+		],
+		[
+			"msg",
+			308257,
+			"First, about you, you have very strong Honkai reaction in your body when Bronya brought you back from academic city, now it's gonne for a while, but it's still inside your body.",
+			"首先，关于你自己，在布洛妮娅把你从学园都市带回来的时候你的身上有着强烈的崩坏侵蚀反应，虽然现在已经暂时消退了，不过这股崩坏能依旧潜伏在你的体内。",
+			"まず、あなたに関することだけど、ブローニャがあなたを学園都市から連れて戻ってきた時、崩壊による侵食反応が強く出てたの。今のところ大丈夫だけど、崩壊エネルギーはまだあなたの体内に残ってる。",
+			"우선, 너와 관련된 일이지만, 브로냐가 너를 학원 도시에서 데려왔을 때 붕괴에 의한 침식 반응이 강하게 나타났어. 지금은 괜찮지만 붕괴 에너지가 아직 네 몸속에 남아있어.",
+			"First, regarding you, when Brogna brought you back from the school city, you had a strong erosive reaction from the Honkai. You are fine for now, but the Honkai energy is still in your system.",
+			null,
+			"First of all, about yourself, at the time when Bronya brought you back from the Academy City you had a strong disintegration erosion reaction, although it has now temporarily subsided, but this disintegration energy is still lurking in your body.",
+			"First, regarding you, when Bronya brought you back from the school city, you had a strong erosive reaction from the disintegration. You are fine for now, but the decay energy is still in your system."
+		],
+		[
+			"msg",
+			308258,
+			"According to her description, when you are attacked, you were saying something weird, as if someone else is controlling you.",
+			"根据布洛妮娅的描述，在你遭受侵蚀的时候，总是说着一些令人不解的话，仿佛有另一个意识正在操控着你。",
+			"ブローニャの説明では、あなたが侵食を受けた時に意味のわからないことを口走っていたそうよ。まるで、別の意識があなたを操ってたみたいだって。",
+			"브로냐의 설명에 따르면, 네가 침식을 받았을 때 이해할 수 없는 말을 중얼거렸다고 해. 마치 다른 의식이 널 조종하고 있는 것 같았다고.",
+			null,
+			null,
+			"According to Bronya's description, when you are suffering from erosion, you are always saying unsettling things, as if another consciousness is manipulating you.",
+			"Bronya explained that when you were eroding, you were saying things that didn't make sense. It was as if another consciousness was controlling you."
+		],
+		[
+			"msg",
+			308259,
+			"Although I don't know the exact reason now…but, if I am right everything must to do with your disappearing memory and the strange transformation of this world……",
+			"虽然目前还不清楚具体的原因…不过，如果我的猜想没错的话这一切一定与你消失的记忆还有这个世界发生的异变有关……",
+			"具体的な原因はまだわかってないけど……私の予想では、おそらくそれはあなたの消えた記憶と——そして、この世界にあった異変と関係してるんだと思う……。",
+			"구체적인 원인은 아직 밝혀지지 않았지만... 내 예상으로는 아마도 그것은 네가 사라진 기억과 —— 그리고 이 세계에 있었던 이변과 관련이 있는 것 같아....",
+			null,
+			null,
+			"Although it is not clear exactly why ... However, if my guess is correct all this must be related to your disappearing memories and the mutation that occurred in this world ......",
+			"We don't know the specific cause yet, but ...... My guess is that it probably has something to do with your missing memories--and the anomaly that was in this world. ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308260,
+			"I don't know if you still remember, during the fighting with Herrshcers the dead plague starts to shine again, after that Herrschers disappeared in the huge tower they created……",
+			"不知道你还记不记得，在与律者战斗的时候天空中的死斑重新发出了亮光，随后律者也消失在了她们创造出来的巨塔之中……",
+			"律者との戦いの後、空にある死斑が再び光を帯びたことは覚えていますか？それと、律者が作り出した巨塔は？そこに律者の二人が消えていったことは覚えていますか？",
+			"율자와의 전투 후 하늘의 사반이 다시 빛을 띠었던 것 기억하니? 그리고 율자가 만들어낸 거대 탑은? 거기서 율자 두 사람이 사라졌던 것 기억하니?",
+			null,
+			null,
+			"I don't know if you remember, in the battle with the Ruler when the dead spot in the sky re-emitted bright light, then the Ruler also disappeared in the giant tower they created ......",
+			"Do you remember that after the battle with the scribes, the dead spots in the sky lit up again? And what about the giant tower that the scribes created? Do you remember that two of the scribes disappeared there?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308261,
+			"Yes, when the Honkai inside of you awoke, the dead plague was activated again, I think there must be a connection.",
+			"是的，在你体内的崩坏苏醒的同时，这个世界的死斑也重新被激活了，所以我想这其中一定有什么联系。",
+			"あなたが崩壊に支配されたのと同時に、この世界の死斑が復活したの。だから、この二つにはきっと何か関係があるんだと思う。",
+			"네가 붕괴에 지배당했던 것과 동시에 이 세계의 사반이 부활했어. 그래서 이 두 가지 사이엔 분명히 연관이 있을 거야.",
+			null,
+			null,
+			"Yes, the dead spot in this world was reactivated at the same time as the collapse inside you was awakened, so I think there must be some connection there.",
+			"At the same time that you were ruled by the collapse, the dead spots in this world were resurrected. So I am sure there must be some connection between the two."
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			308262,
+			"But these are not the most important…because the conclusion of my two-day's investitation is much worse…...",
+			"不过现在这些并不是最重要的…因为通过我这两天的调查后得出的结论远比预想的要糟糕许多……",
+			"でも、それらのことは一旦置いておきましょう……ここ2日の調査で得た結果が、予想よりもだいぶマズいことになっているの……。",
+			"하지만 그런 건 잠시 제쳐두자... 지난 이틀 간의 조사로 얻은 결과가 예상보다 훨씬 심각한 상태라서....",
+			null,
+			null,
+			"But now these are not the most important ... because through my investigation of the past two days came to a conclusion far worse than expected ......",
+			"But let's put those things aside for a moment: ......The results from the last two days of research have been much muddier than expected ......."
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308263,
+			"As you know…the dead plague is the scar left by herrshcers after releasing big Honkai, it covers the whole earth and make the Honkai energy going to every corner of the world, during this process, the dead plague gets dark.",
+			"如你所知…死斑是律者在释放毁灭世界的大崩坏后留下的伤疤，它笼罩着整个地球并将崩坏能不断散布到这个星球各个角落，随着崩坏能的扩散，原本闪耀的死斑变得渐渐暗淡。",
+			"あなたも知っての通り、死斑とは律者が大崩壊を起こした後に、この世界に残した傷跡よ。それらは地球を包み、崩壊エネルギーを至るところにまき散らしてるわ。そして、崩壊エネルギーが拡散されるにつれ、死斑の色は徐々に暗くなっていく。",
+			"알다시피 사반(死斑)이란 율자가 대붕괴를 일으킨 후 이 세계에 남긴 상처야. 이들은 지구를 뒤덮고 붕괴 에너지를 사방에 흩뿌리고 있지. 그리고 붕괴 에너지가 확산될수록 사반의 색은 점점 어두워져.",
+			null,
+			null,
+			"As you know...the Dead Spot is the scar left by the Ruler after unleashing the great world-destroying Avalanche, which enveloped the entire planet and spread the Avalanche energy to all corners of the planet, and as the Avalanche energy spread, the originally shining Dead Spot became gradually dimmed.",
+			"As you know, the death spots are the scars left on this world after the great collapse of the Law. They are enveloping the earth and spreading the disintegration energy everywhere. And as the disintegration energy is spread, the color of the death spots gradually darkens."
+		],
+		[
+			"bg",
+			"CG10174"
+		],
+		[
+			"msg",
+			308264,
+			"But now it's re-activated, according to the monitor data, it's absorbing the Honkai energy back…the process of big Honkai is going back again, which means when the dead plague absorbs all the Honkai energy, the big Honkai will happen again……",
+			"然而现在死斑被再次激活，从观测的数据来看，它正在将地表的崩坏能重新吸收回去…大崩坏的过程正在回溯，这也就意味着当地表的崩坏能重新归于死斑的时候，那场毁天灭地的大崩坏将再次降临……",
+			"死斑が再び光を帯び始めたのを見て、その状態を観察してみたところ、地表の崩壊エネルギーを吸収していることがわかったの……つまり、大崩壊の過程が巻き戻されているってわけ。地表にあった崩壊エネルギーが全て死斑に戻れば、おそらく大崩壊が再び発生するわ……。",
+			"사반이 다시 빛을 띠기 시작하는 걸 보고 상태를 관찰해봤더니, 지표면의 붕괴 에너지를 흡수하고 있다는 걸 알게 됐어... 즉 대붕괴 과정이 역재생되고 있다는 거야. 지표면에 있던 붕괴 에너지가 모두 사반으로 돌아가면, 아마 대붕괴가 다시 발생할 거야....",
+			null,
+			null,
+			"However, now the dead spot is activated again, and from the observed data, it is reabsorbing the avalanche energy on the surface back...the process of the Great Avalanche is being retraced, which means that when the avalanche energy on the surface reverts to the dead spot, the earth-destroying Great Avalanche will come again ......",
+			"I saw that the dead spots started to glow again and observed their condition and found that they were absorbing the decay energy from the surface ......, which means that the process of the Great Collapse is being rewound. If all the decay energy that was on the surface returns to the dead spots, perhaps the Great Collapse will occur again. ......"
+		],
+		[
+			"bg",
+			"CG10156"
+		],
+		[
+			"msg",
+			308265,
+			"Now Herrshcers all leave the earth, the tower they created that links to the dead plague also proves this point…to starts the Honkai will need Herrscher's power, when the dead plague completes activation, Herrschers will use the power of destroying the world, to repeat the tragedy five years ago.....",
+			"而如今律者已经离开了地表，她们创造的那座直通死斑中心的巨塔也验证了这个观点…想要触发这场大崩坏就需要律者的力量，当死斑完全激活的时候，律者就将再次动用灭世的力量，重演五年前的惨剧……",
+			"律者は地表を離れ、死斑の中心へと繋がる巨塔を作ると、その中へと姿を消したわ……大崩壊の発生には律者の力が必要と考えると、これらがすべてを証明しているの。死斑が完全に復活した時、5年前の惨劇が繰り返されるってね……。",
+			"율자는 지표면을 떠나 사반의 중심부와 연결된 거탑을 세운 뒤 그 안으로 모습을 감췄어... 대붕괴 발생에는 율자의 힘이 필요하다는 점을 고려하면, 이 모든 게 사실을 증명하는 셈이지. 사반이 완전히 부활할 때면 5년 전의 비극이 재현될 거라고....",
+			null,
+			null,
+			"And now that the Rulers have left the surface, the giant tower they created that goes straight to the center of the dead spot also verifies this view... To trigger this great collapse will require the power of the Rulers, and when the dead spot is fully activated, the Rulers will once again use the power of extinction to repeat the tragedy of five years ago ......",
+			"The Ruler left the surface of the earth and disappeared into it as he created a huge tower that led to the center of the Dead Spot. ...... Considering that the Ruler's power was necessary for the Great Collapse to occur, all of this proves. They say that when the death spots are fully restored, the tragedy of five years ago will be repeated. ......"
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			308266,
+			"Until then none of us can escape from it…human civilization will walk to the end.",
+			"届时我们都将难逃一劫…人类的文明也将走向终点。",
+			"もし、そうなれば……もう誰も逃げられない……人類の文明は完全に終わりを迎える。",
+			"만약 그렇게 된다면... 이번에는 아무도 도망칠 수 없어... 인류 문명은 완전히 종말을 맞이하게 될 거야.",
+			null,
+			null,
+			"At that time we will all escape...and human civilization will come to an end.",
+			"If that happens, no one will be able to escape ...... anymore and human civilization will come to a complete end."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			308267,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308268,
+			"Eh…after all these you must be very confused, but this is the situation we have now, though we don't know the exact time, but it seems that we are very close to the Honkai eruption……",
+			"呃…一下子说了这么多你也一定一头雾水吧，不过这就是我们现在面临的状况，虽然还不知道大崩坏具体的爆发时间，但是以现在崩坏能的衰退速度来看恐怕离那一刻的到来不会太久了……",
+			"ごめん、一気に言われてもわけがわからないよね。でも、これが今、私たちの直面している状況なの。大崩壊がいつ発生するのかはわからないけど、地表にある崩壊エネルギーの減衰速度を見ると、おそらくそう先のことではないわ……。",
+			"미안, 갑자기 그런 말을 들으니 이해가 안 될 거야. 하지만 이게 지금 우리가 직면한 상황이야. 대붕괴가 언제 발생할지는 모르지만, 지표면의 붕괴 에너지 감쇠 속도로 보면 아마 머지않았을 거야......",
+			null,
+			null,
+			"Uh ... said so much at once you must also be confused, but this is the situation we are now facing, although we do not know the specific time of the outbreak of the great collapse, but the current rate of decline in the collapse of energy, I'm afraid that the moment will not be too long to come ......",
+			"Sorry, I know it doesn't make sense if you say it all at once. But this is the situation we are facing right now. We don't know when the great collapse will occur, but looking at the decay rate of the decay energy on the surface of the earth, it probably isn't too far off. ......"
+		],
+		[
+			"choice",
+			[
+				309286,
+				"Is this the end?",
+				"一切都结束了么？",
+				"すべて終わったの？",
+				"모든 게 끝난 거야?",
+				null
+			],
+			[
+				309306,
+				"Is there any way we can bring it back?",
+				"难道没有挽回的方法了么？",
+				"挽回する方法はないの？",
+				"만회할 방법은 없는 거야?",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1328
+		]
+	],
+	"1328": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308269,
+			"Based on current situation…we're quite hopeless now……",
+			"以现在的状况来看…的确是没有希望了……",
+			"この状況を見ると……確かに希望はありません……。",
+			"이 상황을 보면...... 확실히 희망은 없어......",
+			null,
+			null,
+			"With the current situation...there is indeed no hope ......",
+			"Looking at this situation ...... there is certainly no hope ......."
+		],
+		[
+			"msg",
+			308270,
+			"Sorry…for telling you all these when you just recover…now people in the base are all very panic, I don't know what to do either…maybe the right choice is to wait for the end of the world quietly as Theresa said……",
+			"抱歉…明明你还刚刚恢复就和你说这些…现在基地的大家都乱做一团，我也不知道该怎么办…或许像德丽莎说的那样安静地迎接末日的降临才是正确的选择……",
+			"意識が戻ったばかりなのに、このような話をしてしまいすみません……基地の皆が混乱していて、ブローニャもどうすればいいのかわからないのです……テレサが言ったよう、静かに最後の日を迎えるのが正しい選択なのでしょうか……。",
+			"의식을 차린 지 얼마 안 됐는데 이런 이야기를 해서 미안해...... 기지 사람들 모두 혼란스러워서 브로냐도 어떻게 해야 할지 모르겠습니다...... 테레사가 말한 것처럼 조용히 마지막 날을 맞이하는 게 올바른 선택일까요......",
+			null,
+			null,
+			"Sorry...obviously you are still just recovering to talk to you about this...now everyone in the base is in a mess and I don't know what to do...maybe it's the right choice to meet the end of days quietly like Theresa said ......",
+			"I'm sorry to talk about this, even though I just regained consciousness. ...... Everyone on the base is confused and Bronya doesn't know what to do. ...... As Teresa said, be quiet. Is it the right choice to face our last day? ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				54,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			308271,
+			"Bronya……",
+			"布洛妮娅……",
+			"ブローニャ……。",
+			"브로냐......",
+			null,
+			null,
+			"Bronya ......",
+			"Bronya. ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				54,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			308272,
+			"Kyushou, you should rest well…we will take care of those things, thank you for fighting with us until now……",
+			"九霄，你先好好休息吧…后面的事情就交给我们好了，谢谢你为了大家战斗到了现在现在……",
+			"九霄は、身体を休めることに専念してください……あとのことは何とかします。今までみんなのために戦ってくれたこと、心より感謝します……。",
+			"큐쇼는, 몸을 쉬는 데 전념하세요...... 나머진 어떻게든 해낼게요. 지금까지 모두를 위해 싸워준 것, 진심으로 감사드립니다......",
+			null,
+			null,
+			"Kyuushou, you rest well first ... the back of the matter will be left to us well, thank you for everyone fighting until now now ......",
+			"Kyuushou, please focus on resting your body and ...... we will take care of the rest. Thank you from the bottom of my heart for fighting for all of us until now. ......"
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				54,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			308273,
+			"Sorry…I'll need to go first.",
+			"那么…我先失陪了。",
+			"では、失礼します。",
+			"그럼 실례할게요.",
+			"Sorry.... I have to go somewhere.",
+			null,
+			"So...if you'll excuse me.",
+			"Now, if you'll excuse me."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			308274,
+			"……",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			308275,
+			"Bronya must be very lost as well…now she also need time to cheer up, otherwise she can't do anything in this state.",
+			"布洛妮娅也一定很迷茫吧…现在的她也需要一段时间重新振作起来，如果是以这个状态的话什么事情都干不成了。",
+			"ブローニャもきっと迷ってると思う……今の彼女には、立ち直る時間が必要なの。そうでないと、きっと何もかもうまくいかない。",
+			"브로냐도 분명히 망설이고 있을 거야...... 지금 그녀에겐 회복할 시간이 필요해. 그렇지 않으면 분명 모든 게 엉망이 될 테니까.",
+			null,
+			null,
+			"Bronya must also be very confused ... now she also needs some time to revive, if it is in this state then nothing can be done.",
+			"I'm sure Bronya is lost too ...... She needs time to get back on her feet now. Otherwise, I'm sure everything will go wrong."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308276,
+			"We can only depend on ourselves now……",
+			"看来事到如今只能靠我们自己来扭转这个绝望的局面了……",
+			"今は私たち自身の力で、この絶望的な状況をなんとかしないとね……。",
+			"이젠 우리 자신의 힘으로, 이 절망적인 상황을 어떻게든 해결해야 해......",
+			null,
+			null,
+			"It seems that things have come to a point where we can only rely on ourselves to turn this desperate situation around ......",
+			"Now we have to do something about this desperate situation on our own. ......"
+		],
+		[
+			"msg",
+			308277,
+			"We don't have much time left, if you still hesitate we might lose everything……",
+			"现在留给我们的时间已经不多了，如果继续犹豫下去的话一切都将无法挽回……",
+			"残された時間はそう多くないわ。これ以上、迷ってたらきっと何もかも取り返しがつかなくなる……。",
+			"남은 시간은 그리 많지 않아. 더 이상 망설이고 있으면 분명 모든 것을 되돌릴 수 없게 될 거야…….",
+			null,
+			null,
+			"Now left us little time, if we continue to hesitate everything will be irrevocable ......",
+			"We don't have much time left. If we stray any further, we'll surely lose everything we've got. ......"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			308278,
+			"Kyushou.",
+			"九霄。",
+			"九霄。",
+			"큐쇼.",
+			"Kyuushou.",
+			null,
+			"Ninth Heaven.",
+			null
+		],
+		[
+			"msg",
+			308279,
+			"What I'm going to say might be very astonishing, but please trust me!",
+			"接下来我要说的话你可能会很震惊，但是无论如何请你相信我！",
+			"これから私が言うことは、あなたを驚かせるかもしれない。けど、どうか信じてほしいの。",
+			"지금부터 내가 말할 내용은 너를 놀라게 할지도 몰라. 하지만, 부디 믿어줬으면 해.",
+			null,
+			null,
+			"You may be shocked at what I have to say next, but please believe me anyway!",
+			"What I am about to say may surprise you. But please believe me."
+		],
+		[
+			"msg",
+			308280,
+			"Because everything is related to your life…and the being of this world.",
+			"因为这一切都将关系到你自己的生命…也关系到这个世界的存亡。",
+			"あなたの命と……この世界の存亡に関わることだから。",
+			"네 목숨과…… 이 세계의 존망이 걸린 문제이니까.",
+			null,
+			null,
+			"Because it will all be about your own life...and the survival of the world.",
+			"It's about your life and ...... the existence of this world."
+		],
+		[
+			"msg",
+			308281,
+			"Kyushou…do you know why you don't have the memory of this world?",
+			"九霄…你知道自己为什么没有这个世界的记忆么？",
+			"九霄……どうして、あなたにこの世界の記憶がないかわかる？",
+			"큐쇼…… 왜 네게 이 세계의 기억이 없는지 알아?",
+			"Kyuushou... Do you know why you have no memories of this world?",
+			null,
+			"Kyuushou...do you know why you have no memory of this world?",
+			"Kyuushou...... how do you know you have no memory of this world?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			308282,
+			"Because you don't belong to here……",
+			"那是因为你根本就不属于这个世界……",
+			"それは、あなたがこの世界の人間じゃないから……。",
+			"그건 네가 이 세계의 인간이 아니기 때문이야…….",
+			"It's because you weren't originally someone from this world.",
+			null,
+			"That's because you simply do not belong to the world ......",
+			"That's because you are not of this world. ......"
+		],
+		[
+			"bg",
+			"CG10179"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bgm",
+			66
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"msg",
+			308283,
+			"Horaiji Kyushou.",
+			"蓬莱寺九霄。",
+			"蓬莱寺九霄。",
+			"호라이지큐쇼.",
+			"Houraiji Kyuushou.",
+			null,
+			"The nine skies of the Temple of Penglai.",
+			null
+		],
+		[
+			"msg",
+			308284,
+			"We are now in a dreamland, an illusion created by the stigamatas inside of your body.",
+			"我们身处的世界不过是一个虚幻的梦境罢了，是由你体内纠缠的数个圣痕所创造的假象。",
+			"今、私たちがいる世界は幻でしかないの。ここは、あなたの中にある聖痕が作り出した幻想の世界。",
+			"지금, 우리가 있는 세계는 환상일 뿐이야. 여기는 네 안에 있는 성흔이 만들어낸 환상의 세계.",
+			"The world we are in right now is just a phantom.  This is the illusionary world created by the stigmata in you.",
+			null,
+			"The world we are in is nothing more than an illusory dream, an illusion created by the several stigmata entangled within you.",
+			"The world we are in now is only an illusion. This is an illusory world created by the sacrament inside you."
+		],
+		[
+			"msg",
+			308285,
+			"This dying Nagazora City is a cage that limites you, and the human civilization will not exist any more.",
+			"这座濒临毁灭的长空市就是束缚你的牢笼，而这个苟延残喘的人类文明也根本不复存在。",
+			"この破滅寸前の長空市は、あなたを束縛する監獄よ。そして、この人類文明もそもそも存在しない。",
+			"이 붕괴 직전의 장공시는 너를 속박하는 감옥이야. 그리고 이 인류 문명도 원래 존재하지 않는 거야.",
+			"The dying city of Nagazora is the cage that binds you, and the remnants of humanity here never existed in the first place.",
+			null,
+			"This endangered city of Changkong is the cage that binds you, and this lingering human civilization simply no longer exists.",
+			"This doomed long-empty city is a prison that keeps you in bondage. And this human civilization never existed in the first place."
+		],
+		[
+			"msg",
+			308286,
+			"At the moment, you are dying in reality, your body is eroded by Herrscher core, and my mission is to pull you away from Honkai!",
+			"而此时此刻，在现实层面的真正的你正濒临死亡，你的身体正遭受律者核心的侵蚀岌岌可危，而我的使命就是把你从崩坏的边缘拉回来！",
+			"今、現実世界にいるあなたは死に直面しているの。あなたの身体は、律者のコアに侵食され危険な状態にある。私の目的は、あなたを崩壊の浸蝕から助け出すこと。",
+			"지금, 현실 세계에 있는 너는 죽음을 맞이하고 있어. 네 몸은 율자의 코어에 침식당해 위험한 상태야. 내 목적은 너를 붕괴의 침식으로부터 구해내는 거야.",
+			"Right now, in the real world, you are on the verge of death. Your body is in danger of being eroded by the core of the Herrscher. My purpose is to rescue you from the Honkai's erosion.",
+			null,
+			"And right now, the real you on the reality level is dying, your body is suffering from the erosion of the Ruler's core precariously, and my mission is to pull you back from the brink of collapse!",
+			"Right now, in the real world, you are facing death. Your body is in danger of being eroded by the core of the Ruler. My purpose is to rescue you from the erosion of decay."
+		],
+		[
+			"msg",
+			308287,
+			"Based on my observation of this world, your awareness has combined with here, the world is a reflection of you.",
+			"以我这段时间对这个世界的观测来看，你的意识已经与这里融为一体，这个世界本身就是你身体的写照，",
+			"これまで、この世界を観測してきたけど、あなたの意識はすでにここと一つになってる。この世界自体が、あなたの身体の生き写しみたいなものなの。",
+			"지금까지 이 세계를 관측해왔지만, 당신의 의식은 이미 여기와 하나가 되어있어요. 이 세계 자체가 당신 몸의 살아있는 복사본 같은 거예요.",
+			null,
+			null,
+			"With my observation of this world during this time, your consciousness has become one with this place, and this world itself is a reflection of your body.",
+			"So far, I have observed this world, and your consciousness is already one with this place. This world itself is like a living copy of your body."
+		],
+		[
+			"msg",
+			308288,
+			"This is a dream, and a reality too, when this world dies, your life will come to the end……",
+			"这里既是幻境，也是现实，当这个世界被崩坏侵蚀消灭的时候，你的生命也将迎来真正的终结……",
+			"ここは幻であり、現実でもある。この世界が崩壊に侵食され破滅する時、あなたの命もそこで終わりを迎えるの……。",
+			"이곳은 환상이면서 동시에 현실이에요. 이 세계가 붕괴에 침식되어 멸망할 때, 당신의 생명도 그곳에서 끝을 맞이할 거예요.......",
+			null,
+			null,
+			"Here is both the illusion and reality, when this world is destroyed by the collapse of erosion, your life will also usher in the real end ......",
+			"This place is both illusion and reality. When this world is eroded by collapse and ruined, your life will end there too. ......"
+		],
+		[
+			"msg",
+			308289,
+			"But as long as this world is not ended, we will still have hope, so we can't give up!",
+			"但是只要这个世界还没有结束，我们就还有最后的希望，所以我们还不能放弃！",
+			"ただ、この世界が終わらない限り、私たちには最後の希望がある。だから、絶対に諦めないでほしい……！",
+			"다만 이 세계가 끝나지 않는 한, 우리에겐 마지막 희망이 있어요. 그러니까 절대 포기하지 말아주세요......!",
+			null,
+			null,
+			"But as long as the world hasn't ended, we still have a last hope, so we can't give up yet!",
+			"However, unless this world ends, we have one last hope. So please don't ever give up. ......!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			308290,
+			"Listen, now there's another way to rescue you, also the only way to prevent the big Honkai.",
+			"听着，现在还有一个办法可以挽救你，这也是唯一一个可以阻止大崩坏的方法。",
+			"ひとつだけ助かる方法があるの。これは、大崩壊を阻止する唯一の方法でもあるわ。",
+			"단 하나 살아남을 방법이 있어요. 이건 대붕괴를 막을 유일한 방법이기도 하죠.",
+			"Listen, there's only one way left to save you. It's also the only way to stop the Great Honkai. (TN: Is this supposed to be the Honkai Impact? What the fuck is the Great Honkai?)",
+			null,
+			"Listen, there is one more way to save you now, and it is the only way to stop the Great Crash.",
+			"There is only one way to save it. It's also the only way to stop the Great Collapse."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308291,
+			"But this is the final way, I can't guarantee its successful rate, but we don't have other choices.",
+			"但这已经是最后的手段了，我不能保证它的成功率，但我们也别无选择。",
+			"その成功率は保証できないけど、他に選択肢もない状況よ。",
+			"성공률은 보장할 수 없지만, 다른 선택지도 없는 상황이에요.",
+			"I can't guarantee we'll succeed, but we've got no options left.",
+			null,
+			"But it's a last resort, and I can't guarantee its success, but we don't have a choice.",
+			"I can't guarantee that success rate, but we're in a situation where we have no other choice."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			308292,
+			"I hope you can help me…not only for the world, also for yourself!",
+			"如果可以的话希望你能帮助我…这不仅是为了改变这个世界，更是为了你自己！",
+			"できれば協力してほしい……この世界に変革をもたらすだけでなく、あなたのためでもあるから。",
+			"가능하다면 협력해주세요...... 이 세계에 변혁을 가져올 뿐만 아니라 당신을 위한 일이기도 하니까요.",
+			null,
+			null,
+			"I hope you can help me if you can... it's not just about changing the world, it's about you!",
+			"Please help us if you can: ...... because not only will it make a difference in this world, but it will help you as well."
+		],
+		[
+			"choice",
+			[
+				309287,
+				"Sorry…I still don't understand.",
+				"抱歉…我还不是很明白。",
+				"ごめん……まだよくわからない。",
+				"미안... 아직 잘 모르겠어.",
+				"Sorry... I still don't understand."
+			],
+			[
+				309307,
+				"Sorry…let me sort it our.",
+				"抱歉…让我整理一下吧。",
+				"ごめん……ちょっと整理させて。",
+				"미안… 잠시 정리 좀 하게 해줘.",
+				"Sorry... Let me think about it."
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1329
+		]
+	],
+	"1329": [
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308293,
+			"Really…it's my fault, you must be very lost now after all the information, sorry.",
+			"是么…是我的错，一次和你说这些你一定也很混乱吧，抱歉。",
+			"あっ……一気に言われても混乱するわね、ごめんなさい。",
+			"앗...... 한꺼번에 들으니 혼란스러울 수 있죠, 미안해요.",
+			"Oh... Sorry, it must be confusing to try to explain this to you all at once.",
+			null,
+			"Yeah?...my fault, it must be confusing for you to talk to you about this all at once, sorry.",
+			"Oh, ...... I'm sorry, it's confusing when you say it all at once."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			308294,
+			"Rest well today…I will wait you outside of ME, come to me if you make the decision.",
+			"今天你就好好休息吧…明天早上我会在ME社外面等你，如果你决定好了就来找我吧……",
+			"今日はひとまずゆっくり休んで……明日の朝、ME社の外で待ってるから。決心がついたら、私のところに来てほしい……。",
+			"오늘은 일단 천천히 쉬고...... 내일 아침 ME사 밖에서 기다릴게요. 결심이 섰다면 제게 와주세요.......",
+			"Take the rest of the day off for now...... I'll be waiting for you tomorrow morning outside the ME office. When you've made up your mind, come and meet me there.",
+			null,
+			"Get some rest today...I'll be waiting for you outside ME tomorrow morning...come see me if you decide ......",
+			"Take the rest of the day off for now and ...... I'll be waiting for you tomorrow morning outside the ME office. When you make up your mind, I want you to come to me ......."
+		]
+	]
+}

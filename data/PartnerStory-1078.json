@@ -1,0 +1,634 @@
+{
+	"4501": [
+		[
+			"speaker",
+			204136
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				1078,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			144591,
+			"Shadow★Revolution Radio, the best choice for health. Hi everyone, I am Vader.",
+			"闇★Revolution Radio，养生的最佳选择，大家好，我是维达。",
+			"第五回になったわ。闇★Revolutionの特別番組を開始します。",
+			"다섯 번째가 됐네. 암★Revolution의 특별 프로그램을 시작합니다.",
+			null
+		],
+		[
+			"msg",
+			144592,
+			"Today, I'm going to teach you how to make a regimen potion. You’ll need frost dew collected in the morning, crust of insects in the soil, brightly colored mushrooms, and a drop of concentrated liquid.",
+			"今天我来教大家做养生药剂，材料是清晨的霜露，土里的昆虫外壳，还有颜色鲜艳的蘑菇，加上一滴特制的浓缩液。",
+			"担当はヴェイダーの復讐のヴィーザルよ。九霄が落ち込んでるから私が勝手に進めていくわ。",
+			"담당은 베이다의 복수의 비자루야. 큐쇼가 우울해하니까 내 마음대로 진행해 나갈 거야.",
+			null
+		],
+		[
+			"msg",
+			144593,
+			"All right. We made it. Gosh, exciting and worrying.",
+			"这么一来就大功告成，真是担忧，真是兴奋。",
+			"では、まず最初に呪いという名前の祝福の薬を調合するのでレシピを——",
+			"자, 먼저 처음으로 저주라는 이름의 축복의 약을 조합할 테니 레시피를 ——",
+			null
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				false
+			],
+			[
+				1078,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			144594,
+			"Making holy water again? It seems weird... but my hidden power is likely to have something to do with it!",
+			"是又在制作驱魔的圣水吗，总感觉散发着诡异的光芒...我被封印的力量也似乎要和它产生共鸣了！",
+			"そんなものいらないから！ヴィーザルに進行任せると危ない調合の仕方を言うからダメ！",
+			"그런 거 필요 없어! 비자루에게 진행 맡기면 위험한 조합 방법을 말하니까 안 돼!",
+			null
+		],
+		[
+			"speaker",
+			204136
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				true
+			],
+			[
+				1078,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			144595,
+			"It can strengthen your body, but the side effect is unknown. Don’t worry, it’s good for you. Seems you really wanna have a try.",
+			"体能强化药剂，副作用未知，很养生，请安心，你这是想要试用的心理表现。",
+			"バスクビールに逃げられて怒られたのね。嬉しそうでなによりだわ。だから私が薬の作り方を今からレクチャーするわ。",
+			"바스크 비어에게 도망쳐 혼난 거네. 기뻐 보여서 다행이야. 그래서 내가 약 만드는 방법을 지금부터 레슨할 거야.",
+			null
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				false
+			],
+			[
+				1078,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			144596,
+			"Wait, forget it. I’m fine. And you’re doing a total different program now!",
+			"算、算了，我还是不要试用了。而且节目的性质已经被你带歪了！",
+			"ヴィーザルの薬は危険だから放送させるわけにはいかないわ！",
+			"비자루의 약은 위험하니까 방송시키면 안 되지!",
+			null
+		],
+		[
+			"msg",
+			144597,
+			"Well, every time you are done with the morning exercise, you’ve always got a pile of strange materials with you. You do love making potions, don’t you?",
+			"不过，每天晨练完回来总能见你带回来大堆超越人类常识的材料呢，维达你真的很喜欢制药啊。",
+			"そういえば、いつも朝練から帰ってくると不思議な材料を持ってるよね。それでいつも調合してるの？",
+			"그러고 보니, 항상 아침 연습에서 돌아오면 이상한 재료를 가지고 있더라. 그걸로 항상 조합하고 있는 거야?",
+			null
+		],
+		[
+			"speaker",
+			204136
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				true
+			],
+			[
+				1078,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			144598,
+			"It’s my interest indeed. It’s happy when people are happy with my potions, and exciting when waiting for the side effects...",
+			"这确实是兴趣使然，看人服用药剂时露出幸福的表情时很开心，等待副作用产生时很激动......",
+			"趣味だからね。それに、薬を飲んだときに幸せそうな顔を見るのが好きなの。だけど、もっと好きなのは副作用がでたときよ。興奮が止まらないわ。",
+			"취미니까. 게다가, 약을 마셨을 때 행복해하는 얼굴을 보는 게 좋아. 하지만, 더 좋아하는 건 부작용이 나타났을 때야. 흥분이 멈추질 않아.",
+			null
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				false
+			],
+			[
+				1078,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			144599,
+			"Forget about the side effects. We’re the Saviors. We just bring happiness. No pain from us!",
+			"副作用还是禁止吧，我们洒下的是绝对的恩赐，不会给人带来苦痛才对！",
+			"副作用はNGに決まってるでしょ！キアナが飲まされて倒れたとか聞いたことある。だから絶対ダメ。",
+			"부작용은 당연히 NG지! 키아나가 억지로 마시고 쓰러졌다는 얘기 들었어. 그러니까 절대 안 돼.",
+			null
+		],
+		[
+			"msg",
+			144600,
+			"Well, talking about idol, why would like to be one? I picked you indeed, but seems making potions is your real interest.",
+			"不过，话说回来，为什么维达会想突破预选来到这当偶像呢，虽然九霄大人选择了你，但你似乎更想沉迷制药呢。",
+			"関係ないんだけど、ヴィーザルはなんでアイドルをやろうと思ったの？薬を調合してるほうが好きでしょ？",
+			"관계없는 말인데, 비자루는 왜 아이돌을 하려고 생각했어? 약을 조합하는 쪽이 더 좋잖아?",
+			null
+		],
+		[
+			"speaker",
+			204136
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				true
+			],
+			[
+				1078,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			144601,
+			"You know, you just can’t give it up. Oh, you want some potions from me?",
+			"兴趣的事，没法说放下就放下。怎么样，你果然想喝吗？",
+			"当然よ。九霄も幸せになりたいなら薬を分けてあげるわ。飲むと呪いがかかるかもしれないけど。",
+			"물론이지. 큐쇼도 행복해지고 싶다면 약을 나눠줄게. 먹으면 저주에 걸릴지도 모르지만.",
+			null
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				false
+			],
+			[
+				1078,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			144602,
+			"Leave me alone. My power can’t be improved anymore.",
+			"我、我就不需要了，毕竟这种东西对于强大的九霄大人来说起不了任何作用呢！",
+			"えっと、全力でお断りする。この天下無敵の九霄様が飲んでも大した効果は期待できないと思うわ。",
+			"어, 전력으로 거절할게. 이 천하무적의 큐쇼님이 먹어봤자 큰 효과는 기대할 수 없을 것 같아.",
+			null
+		],
+		[
+			"msg",
+			144603,
+			"Since you’re an idol now, you gotta focus on your training.",
+			"但你们既然是偶像，就不要忘了这个伟大的身份，我觉得应该要将精神集中在训练上才行噢！",
+			"ヴィーザルもアイドルになったんだから、役割を果たしトレーニングしなきゃダメよ。",
+			"비자르도 아이돌이 된 거니까, 역할을 다하고 훈련해야 해.",
+			null
+		],
+		[
+			"speaker",
+			204136
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				true
+			],
+			[
+				1078,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			144604,
+			"Understood. That’s all for today!",
+			"嗯，我明白了。那，这期节目结束！",
+			"わかってるわ。時間だから番組を終了するわね。",
+			"알고 있어. 시간이니까 프로그램 종료할게.",
+			null
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				false
+			],
+			[
+				1078,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			144605,
+			"Hey! Don't end it yourself!!",
+			"喂！别擅自为我结束啦！！",
+			"ちょ！？ダメに決まってるじゃない！どうして、うちのアイドルたちは自分勝手なのが多いの！",
+			"잠깐!? 안 되는 게 당연하잖아! 왜 우리 아이돌들은 제멋대로인 애들이 이렇게 많냐고!",
+			null
+		]
+	],
+	"4502": [
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			144606,
+			"1, 2, 3 and 4...",
+			"——1、2、3&4......",
+			"——少女移動中",
+			"——소녀 이동중",
+			null
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			144607,
+			"Didn’t see Vader would stop the program and come to take the training. She does dance well.",
+			"没想到维达这家伙擅自停掉Radio回来训练了呢，她跳起舞来还是挺好看的。",
+			"また、怒られちゃったじゃない。般若の顔した監督こわすぎ……。",
+			"또 혼났잖아. 반야 얼굴 한 감독님 너무 무서워...",
+			null
+		],
+		[
+			"msg",
+			144608,
+			"BTW, I’ve got the power to continue the program everywhere. Now let’s see how Vader does in her training.",
+			"啊，顺带一提，九霄大人的法力可不止于那个狭小的录音室，在这我也可以继续做Radio节目呢，就让我来转播维达蜕变的一幕吧！",
+			"とりあえず、番組からカメラ持たされたからヴィーザルを追いかけるわ。どこに行ったんだろう。それにしても、私って普通の喋り方で長時間喋ってるだなんて久しぶりじゃない？",
+			"일단 프로그램에서 카메라를 받았으니 비자르를 따라가 볼게. 어디로 간 거지. 그런데 말야, 내가 평범한 말투로 오랫동안 말하는 거 오랜만이네?",
+			null
+		],
+		[
+			"msg",
+			144609,
+			"Though she’s a weird girl, and I don’t see any passion in her, I know I was right picking her.",
+			"虽然平时很奇怪，也看不出她对于偶像的热情在哪，但反正九霄大人选她就是没错的！",
+			"っと、ヴィーザル発見！変人だし、アイドルの情熱とか全然感じないけど大丈夫かな。",
+			"엇, 비자르 발견! 괴짜에다가 아이돌의 열정 같은 건 전혀 느껴지지 않는데 괜찮을까.",
+			null
+		],
+		[
+			"speaker",
+			204136
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				true
+			],
+			[
+				1078,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			144610,
+			"About the action Toreador talked about, you gotta...",
+			"嗯，关于妥芮朵刚才讲的动作的重点，这样，这样......",
+			"違うわ。トレアドールが言っていた動きは……こうやって、こうやるの——",
+			"아니야. 트레아도르가 말했던 동작은... 이렇게, 이렇게 하는 거야——",
+			null
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				false
+			],
+			[
+				1078,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			144611,
+			"Really? Vader teaching others?! So my words work!",
+			"真的假的，那个维达居然在休息时间教人动作？难道在录音室时的启示给她带来了指引？",
+			"え、ウソでしょ！？あのヴィーザルが誰かに指導してる……。",
+			"에, 거짓말!? 그 비자르가 누군가를 지도하다니…….",
+			null
+		],
+		[
+			"msg",
+			144612,
+			"That’s cool! Do it once you decide it! That’s how you change the world!",
+			"嗯嗯！很好，这份决心，这种行动力！这才是可以改变世界，带来革命的人！",
+			"珍しい光景だし、もうちょっと見てみよう。",
+			"흔하지 않은 광경이니 좀 더 지켜보자.",
+			null
+		],
+		[
+			"speaker",
+			204136
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				true
+			],
+			[
+				1078,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			144613,
+			"Einherjar, you’re being way too stiff...",
+			"关于恩赫里亚，你的全身都过于僵硬，过于柔软......",
+			"エインヘリャルは体の動きが悪かったりする場合が——",
+			"에인헤랴르는 몸 움직임이 나쁜 경우가 ——",
+			null
+		],
+		[
+			"msg",
+			144614,
+			"Baskerville, you went too fast and had to stop for long, and that’s why you couldn’t keep your balance.",
+			"巴斯克维尔因为动作过快，导致停顿延迟，所以站不稳。",
+			"バスクビールは動きが速すぎるのよ。だから、周囲と——",
+			"바스크비르는 움직임이 너무 빨라. 그래서 주변과 ——",
+			null
+		],
+		[
+			"msg",
+			144615,
+			"Night, you...",
+			"夜夜的话......",
+			"真夏の夜は——",
+			"한여름 밤은 ——",
+			null
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				false
+			],
+			[
+				1078,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			144616,
+			"She applied her carefulness in making potion to the training. This is not just a kind of change. She’s evolving!",
+			"平时对制药材料细致观察这点也用到了对队友缺点的观察上，这已经不是单纯的改变，甚至于是蜕变，飞升！",
+			"薬の調合で培われた細かい洞察力が仲間の欠点を探すことにも役に立ってる……のかな。",
+			"약 조합으로 길러진 섬세한 통찰력이 동료의 결점을 찾는 데도 도움이 되고 있는…… 걸까.",
+			null
+		],
+		[
+			"msg",
+			144617,
+			"Hmm, seems the chemistry is working. With Vader as the catalyzer, they will do much better soon!",
+			"哼哼哼，看来化学的反应式已经建立起来了，在维达作为催化剂的前提下一定可以让队伍变得更强！",
+			"今までのヴィーザルからは考えられない行動ね。なにがあったかは知らないけどいい影響で嬉しいわ。",
+			"지금까지의 비자르라면 생각도 못 할 행동이네. 무슨 일이 있었는지는 모르지만 좋은 영향이라 기쁘네.",
+			null
+		],
+		[
+			"speaker",
+			204136
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				true
+			],
+			[
+				1078,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			144618,
+			"So, to sum up, we’ve got only one way.",
+			"于是，综上所述，只有一个办法可以解决问题。",
+			"結果、結論から言えば解決方法はひとつ。",
+			"결과적으로 말하자면 해결 방법은 하나야.",
+			null
+		],
+		[
+			"msg",
+			144619,
+			"That is, to take the latest potion I developed. It’s for muscle stiffness caused by overwork and physical discordance.",
+			"——那就是服用我最新研发的药剂，专门治疗过度劳作导致的肌肉僵硬，或者肌肉不协调等问题。",
+			"それは、私が開発した最新の薬を服用し、疲労や筋肉をほぐし様々な不調を治すことができるわ。よって——",
+			"그건 바로 내가 개발한 최신 약을 복용해 피로와 근육을 풀고 각종 불편을 치료할 수 있다는 거야. 따라서 ——",
+			null
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				false
+			],
+			[
+				1078,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			144620,
+			"Wait! I feel something ominous. So she became an idol... to sell her potions!?",
+			"等等！有一股不祥的气息让九霄大人昏头晕脑，难道这一切都是为了......推销自己的药剂！？",
+			"（ガシャン）ちょっと待ったー！なにやってるの？ねぇねぇなにやってるの、ヴィーザル？今いいとこだったよね？",
+			"(쨍그랑) 잠깐만! 뭐 하는 거야? 야야 뭐 하는 거냐고, 비자르? 지금 좋은 순간이었잖아?",
+			null
+		],
+		[
+			"speaker",
+			204136
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				true
+			],
+			[
+				1078,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			144621,
+			"Yes, being popular is best selling method.",
+			"是的，自己受到关注的本身就是推销的最好途径。",
+			"もちろん呪いの祝福の薬を飲ませるためにメンバーの今ある改善点を教えていただけよ。それより、九霄はそのデカいものはなにかしら？落としていいもの？",
+			"물론 저주의 축복의 약을 먹이기 위해 멤버들의 현재 개선점을 알려주겠어. 그보다 큐쇼는 그 큰 건 뭐야? 버려도 되는 거야?",
+			null
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				1083,
+				0,
+				false
+			],
+			[
+				1078,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			144622,
+			"Gosh... Is that appropriate...? This is worrying.",
+			"咕...难道踏上舞台也是为了这个吗？这真的是好事吗......我突然开始担忧了。",
+			"……え？あ、あー！？番組から持たされたカメラが……。も、もう逃げよう！",
+			"……어? 아, 아아!? 프로그램에서 받은 카메라가……. 어, 어서 도망가자!",
+			null
+		]
+	]
+}

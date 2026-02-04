@@ -1,0 +1,1505 @@
+{
+	"1050": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305449,
+			"Engine test... What kind of task is this?",
+			"引擎测试…这是什么委托？",
+			"エンジンテスト……これは何の依頼？",
+			"엔진 테스트…… 이건 무슨 의뢰예요?",
+			null,
+			null,
+			"Engine testing...what kind of commission is this?",
+			"Engine test: ...... What is this request?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305450,
+			"Bomb!",
+			"轰隆！！！",
+			"ドオオン！！！",
+			"두오온!!!",
+			null,
+			null,
+			"BOOM!!!",
+			"D'ohon!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305451,
+			"Aaargh! What's going on! Are we under attack of Houkai creatures?",
+			"呜哇！！怎么回事！难道是崩坏生物入侵了么！",
+			"うわ！！何！まさか崩壊生物が侵入してきた！？",
+			"우와!! 뭐! 설마 붕괴 생물이 침입해온 거야!?",
+			null,
+			null,
+			"Woohoo!!! What's going on! Did the Avalanche creatures invade!",
+			"Oh, my God! What! Don't tell me a disintegrating organism has invaded!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305452,
+			"Cough... Cough... So... again, it didn't work...",
+			"咳咳…又失败了么……",
+			"ゴホッ、ゴホッ……また失敗しちゃった……。",
+			"콜록, 콜록…… 또 실패했어요…….",
+			null,
+			null,
+			"Ahem...failed again? ......",
+			"Gosh, gosh ...... I screwed up again ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305453,
+			"Cough... Cough... So smoky here... Yssring, what the hell are you doing?",
+			"咳咳！好大的烟…伊瑟琳，你又在搞什么鬼！",
+			"ゴホッ、ゴホッ！すごい煙……イザーリン、あなた何をやったの！",
+			"콜록, 콜록! 엄청난 연기……이자린, 당신 뭘 한 거예요!",
+			null,
+			null,
+			"Ahem! What a lot of smoke...Estherine, what the hell are you up to again!",
+			"Gosh, gosh! Great smoke ...... Estherine, what have you done!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305454,
+			"Cough! Just trying to optimize the engine of Hyperion. It has been too loud and could use some improvement.",
+			"咳！只是想优化一下休伯利安的引擎系统，之前的噪音实在太大了，需要进行一些改良……",
+			"ゴホン！ハイペリオンのエンジンシステムを改善しようとしたのよ。騒音が大きすぎるから少し改良しないと……。",
+			"콜록! 히페리온의 엔진 시스템을 개선하려고 한 거예요. 소음이 너무 커서 조금 개선하지 않으면…….",
+			null,
+			null,
+			"Ahem! Just want to optimize the engine system of Hublian, before the noise is really too much, need to make some improvements ......",
+			"Gohon! I've been trying to improve Hyperion's engine system. It's too noisy and needs a little improvement. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305455,
+			"You can't just do this experiment in the base! There's too much noise!",
+			"那你也不能在基地里面做实验吧！这个噪音也太大了！",
+			"だからって基地の中で実験しないでよ！この騒音も大きすぎるわ！",
+			"그래도 기지 안에서 실험하지 마! 이 소음도 너무 커!",
+			null,
+			null,
+			"Then you can't do experiments inside the base! The noise is too loud!",
+			"That doesn't mean you can't experiment on the base! And this noise is too loud!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305456,
+			"Well, you're right. But since you've already accepted the request, we can test it outside.",
+			"好吧，的确如你所说，不过既然你接受了委托那我们就可以去外面进行测试了。",
+			"分かった。確かにその通りね。まぁ、あなたがその依頼を受けてくれたから、これで私たちも外でテストができる。",
+			"알겠어. 확실히 그렇네. 뭐, 네가 그 의뢰를 받아줬으니 이제 우리도 밖에서 테스트를 할 수 있겠지.",
+			null,
+			null,
+			"Well, it is indeed as you say, but since you accepted the commission then we can go outside for the test.",
+			"I understand. You're absolutely right. Well, now that you've accepted the request, we can go out and test it."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305457,
+			"Can I say no?",
+			"我能拒绝么？",
+			"拒否してもいい？",
+			"거절해도 돼?",
+			null,
+			null,
+			"Can I refuse?",
+			"Can I refuse?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305458,
+			"Sure, I'll just do it myself.",
+			"可以，你不帮忙的话我也会自己完成。",
+			"いいわ。あなたが手伝わないなら私が自分でやるから。",
+			"좋아. 네가 도와주지 않는다면 내가 직접 할 거야.",
+			null,
+			null,
+			"Yes, I'll do it myself if you don't help.",
+			"Fine. If you won't help me, I'll do it myself."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305459,
+			"This request came from Himeko. She wants me to design an improvement plan before Hyperion's next departure. She brought back a lot of parts specifically for it.",
+			"这次的委托是姬子提出的，她要在下次休伯利安出发之前让我设计一套改良方案，为此她还特地带回来了很多零件。",
+			"今回の依頼は姫子が提出したの。ハイペリオンが次に出発するまでに改良案を設計するようにってね。このためにわざわざたくさんの部品を持ってきてくれたのよ。",
+			"이번 의뢰는히메코가 제출한 거야.히페리온이 다음에 출발하기까지 개량안을 설계하라고 했지. 이를 위해 일부러 많은 부품을 가져와 준 거야.",
+			null,
+			null,
+			"This time the commission was proposed by Himeko, she wants me to design a set of improvement plan before the next Huberian departure, for which she also brought back a lot of parts.",
+			"Himeko submitted this request. She asked me to design an improvement before Hyperion's next departure. She went out of her way to bring a lot of parts for this."
+		],
+		[
+			"msg",
+			305460,
+			"Every time the investigation squad came back, they made a huge mess. No one wants that, so this is not just for me.",
+			"大家都不希望每次调查队回来都大费周章，所以这可不是我一个人的私欲。",
+			"みんな調査隊が帰ってくるたびに大変な思いをしたくないからね。だから、これは私一人の私欲じゃないの。",
+			"모두 조사대가 돌아올 때마다 힘든 기억을 하고 싶지 않아서 그래. 그래서 이건 내 혼자의 사욕이 아니야.",
+			null,
+			null,
+			"People don't want to make a big fuss every time an investigation team comes back, so it's not my personal desire alone.",
+			"People don't want to have a hard time every time the survey team comes back. So this is not about my personal greed alone."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305461,
+			"...Fine, it's very rare to hear you say things like this. I will help you on this one.",
+			"…好吧，难得你能有这么高的觉悟，那这次就帮你一次吧。",
+			"……いいわ。あなたにそれだけの覚悟があるのなら、今回は手伝ってあげる。",
+			"……좋아. 당신이 그만큼 각오가 있다면, 이번엔 도와주겠어.",
+			null,
+			null,
+			"...Well, it's rare for you to have such a high level of awareness, so let's help you out this time.",
+			"...... Okay. I'll help you this time if you're that determined."
+		]
+	],
+	"1051": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305462,
+			"This place should be fine. It's open and empty, enough for the engine test.",
+			"这里应该没问题，空旷的环境足够进行引擎的测试了。",
+			"ここなら大丈夫のはず。広々した環境で十分にエンジンのテストを行える。",
+			"여긴 괜찮을 거야. 넓은 환경에서 엔진 테스트를 충분히 진행할 수 있겠어.",
+			null,
+			null,
+			"There should be no problem here, the open environment is enough for engine testing.",
+			"This place should be fine. The spacious environment is sufficient to test the engines."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305463,
+			"Alright, let's do it.",
+			"嗯，那就开始吧。",
+			"ええ、じゃあ始めましょう。",
+			"그래, 자 시작하자고.",
+			null,
+			null,
+			"Well, let's get started then.",
+			"Yeah, well, let's get started."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305464,
+			"Based on what we heard in the base, I could already imagine the horde of zombies attracted by the noise...",
+			"从之前基地里的动静，我已经可以想象被噪音引来的大批死士了……",
+			"前の基地での様子からして、騒音が大量の崩壊生物を引き寄せるのを想像できるわ……。",
+			"이전 기지에서의 모습으로 미뤄봤을 때, 소음이 대량의 붕괴 생물을 유인할 거라 예상할 수 있어......",
+			null,
+			null,
+			"From the previous commotion in the base, I can already imagine the large number of dead soldiers attracted by the noise ......",
+			"From what I saw at the previous base, I can imagine the noise attracting a lot of disintegrating organisms. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305465,
+			"Don't worry, based on my design blueprint, the noise level will be within 120 dB this time.",
+			"不用担心，如果按照我之前的设计图纸的话，这次的噪音可以降到120分贝以内。",
+			"心配しないで。私の設計図通りにすれば、今回の騒音は120デシベル以内に下げられる。",
+			"걱정 마. 내 설계도대로 하면 이번 소음은 120데시벨 이내로 낮출 수 있어.",
+			null,
+			null,
+			"Don't worry, if you follow my previous design drawings, the noise can be reduced to less than 120 decibels this time.",
+			"Don't worry. If you follow my blueprints, we can get the noise down to within 120 decibels this time."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305466,
+			"That's still very loud...",
+			"那不还是很吵么……",
+			"それでもうるさいんじゃないの……。",
+			"그래도 시끄러운 거 아니야…….",
+			null,
+			null,
+			"That is not still very noisy ......",
+			"Still, it's not too loud. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305467,
+			"Well, this is the best it can do, Hyperion is a huge battleship... We wouldn't have problems like this if the nuclear engine is still functional.",
+			"毕竟是要带动这么大的战舰，这样已经是极限了…如果休伯利安内的核动力炉没有损坏的话，就不会有这种问题了。",
+			"さすがにこれだけ大きな戦艦を動かすとなると、これが限界なのかも……。ハイペリオン内の核動力炉が損傷していなければ、こんな問題は起こらないのに。",
+			"이렇게 큰 전함을 움직이려면 이게 한계인가 봐……. 히페리온 내의 핵동력로가 손상되지 않았다면, 이런 문제는 일어나지 않았을 텐데.",
+			null,
+			null,
+			"After all, it is to drive such a large warship, so this is already the limit... If the nuclear power furnace inside the Hublian is not damaged, there will be no such problem.",
+			"As expected, this may be the limit when it comes to moving such a large battleship. ...... If the nuclear powered reactor in the Hyperion had not been damaged, we would not have this problem."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305468,
+			"As long as it can move, we will be fine. I personally don't have any issue with the noise. Killing all attracted Houkai creatures in one go saves a lot of hassle.",
+			"现阶段只要这能动起来就可以了，其实我对声音的问题没有什么意见，能把崩坏生物都引过来一举消灭也省了不少功夫。",
+			"動くなら何だって構わないわ。私は、音の問題にそれほど意見はないの。崩壊生物を引き寄せられれば一気に消滅させることができて手間が省けるじゃない。",
+			"움직이기만 하면 뭐든 괜찮아. 나는 소음 문제에 그다지 신경 쓰지 않아. 붕괴 생물을 끌어들일 수 있다면 한꺼번에 없애버려서 번거로움이 줄어들잖아.",
+			null,
+			null,
+			"At this stage, as long as this can move, in fact, I have no problem with the sound, can lead to the collapse of creatures are destroyed in one fell swoop also saved a lot of effort.",
+			"I don't care what it is, as long as it works. I don't have much of an opinion on the sound issue. If you can attract disintegrating organisms, you can make them disappear all at once and save a lot of trouble."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305469,
+			"But it is indeed a danger for the base. What if we attract strange enemies like this time again...",
+			"但是对于基地来说确实是危险的因素，像这次一样引来奇怪的敌人就不好了……",
+			"でも、基地にとっては危険要素。今回のように奇妙な敵を引き寄せたら、もっとマズい……。",
+			"하지만 기지에선 위험 요소야. 이번처럼 이상한 적을 유인하면 더 큰 문제가 생길 거야…….",
+			null,
+			null,
+			"But it's really a dangerous element for the base, and it's not good to attract strange enemies like this one ......",
+			"But it is a danger factor for the base. If it attracts strange enemies like this one, it's even worse. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305470,
+			"Okay, let's stop talking and start the experiment now.",
+			"好了，闲话少说，开始实验吧。",
+			"いいわ。無駄話はやめて、実験を始めましょう。",
+			"좋아. 잡담은 그만하고 실험 시작하자.",
+			null,
+			null,
+			"Well, without further ado, let's start the experiment.",
+			"OK. Let's stop wasting time and start experimenting."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305471,
+			"Roger that. Put these ear plugs on. Also, for your safety, stay further away from the engine.",
+			"了解，你们带上这个耳塞吧，还有离引擎远一些，这样会更安全。",
+			"了解。この耳栓をして。それからエンジンから離れて。その方が安全。",
+			"알겠어. 이 귀마개를 하고. 그 다음 엔진에서 떨어져. 그 편이 안전해.",
+			null,
+			null,
+			"Understand, you put on these ear plugs, and away from the engine, it will be safer.",
+			"Copy that. Put these earplugs in. And stay away from the engine. It's safer."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305472,
+			"Alright, I hope nothing goes wrong...",
+			"好吧，希望不要出什么问题……",
+			"分かった。何も問題が起きなければいいけど……。",
+			"알았어. 아무 문제 없길 바라지만…….",
+			null,
+			null,
+			"Well, I hope nothing goes wrong ......",
+			"Ok, I've got it. I hope nothing goes wrong. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305473,
+			"OK, experiment starting now... 3, 2,1. Activate.",
+			"OK，实验开始……3、2、1。启动。",
+			"OK、実験開始……3、2、1、起動。",
+			"OK, 실험 시작……3, 2, 1, 기동.",
+			null,
+			null,
+			"OK, the experiment begins ......3, 2, 1. Start.",
+			"OK, start experiment ......3, 2, 1, start."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305474,
+			"Bomb!",
+			"轰隆！！！！",
+			"ゴオオオ！！！！",
+			"꾸오오오오!!!!",
+			null,
+			null,
+			"Rumble ！！！！",
+			"Gooooooo ！！！！"
+		]
+	],
+	"1052": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305475,
+			"Ouch! That was loud... Almost made me deaf. How did it go?",
+			"呼！好大的声音…耳朵都快震聋了，怎么样成功了么？",
+			"ふぅ！大きな音ね……耳がおかしくなりそう。どうなの、成功した？",
+			"후! 큰 소리네… 귀가 이상해질 것 같아. 어때, 성공했어?",
+			null,
+			null,
+			"Whew! What a sound...my ears are deafening...how did it go?",
+			"Whew! That's a loud one. ...... I'm going deaf. How's it going, did you make it?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305476,
+			"Hmm... Seems it did not go as we expected.",
+			"嗯…似乎没有达到理想中的效果。",
+			"うん……思い描いたレベルではないわ。",
+			"응… 생각한 수준은 아니야.",
+			null,
+			null,
+			"Well...it doesn't seem to be working as well as it should.",
+			"Yeah ...... it's not at the level I envisioned."
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			305477,
+			"Looks like there are some small problems. Give me a moment... I need to adjust the engine parts.",
+			"看来是出了点小问题，稍等下…我需要调整一下引擎的零件。",
+			"どうやら少し問題があるたみたい。ちょっと待って……エンジンの部品を調整する必要がある。",
+			"아무래도 조금 문제가 생긴 모양이야. 잠깐 기다려… 엔진 부품을 조정해야 해.",
+			null,
+			null,
+			"Looks like there's a little problem. Hold on a second...I need to adjust the engine parts.",
+			"Apparently there is a little problem. I need to adjust some parts of the ...... engine in a minute."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305478,
+			"It is still as loud, but sounds more pleasant.",
+			"虽然声音没有变小，不过听起来是比以前更悦耳了。",
+			"音は小さくなっていないけど、以前より聞き心地がよくなったわ。",
+			"소리는 작아지지 않았지만 이전보다 들리는 느낌이 좋아졌어.",
+			null,
+			null,
+			"Although the voice has not become smaller, but it sounds more pleasant than before.",
+			"The sound hasn't gotten any louder, but it's more pleasant to listen to than before."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305479,
+			"Plea...sant?",
+			"悦耳…么？",
+			"聞き心地？",
+			"들리는 느낌?",
+			null,
+			null,
+			"Pleasant to the ear...is it?",
+			"Comfort of hearing?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305480,
+			"I spent more time fighting on Hyperion than staying on the ground. No one knows the sound better than me. I can feel all the changes.",
+			"我在休伯利安上战斗的时间可是比陆地上面还久，它所发出的声音我是最熟悉不过了，不管是什么样的变化我都能感受的到。",
+			"私はハイペリオンで戦っている時間が地上よりも長いのよ。ハイペリオンが出す音は私が一番熟知しているわ。どんな変化でも感じ取れる。",
+			"나는 히페리온에서 싸우는 시간이 지상보다 더 길어. 히페리온이 내는 소리는 내가 가장 잘 알고 있어. 어떤 변화라도 느낄 수 있지.",
+			null,
+			null,
+			"I have been fighting on the Hublian for a longer time than on land, and I am most familiar with the sounds it makes, no matter what kind of changes I can feel.",
+			"I spend more time fighting in Hyperion than on the ground. I know the sounds Hyperion makes better than anyone. I can sense any change."
+		],
+		[
+			"msg",
+			305481,
+			"The engine sounds more smooth now. If we use wine to describe it, it is like rum.",
+			"这次引擎的声音更加柔和了，如果用酒来比喻的话就是朗姆酒。",
+			"今回のエンジンは……そうね、柔らかくなったわ。お酒で例えるならラム酒ね。",
+			"이번 엔진은… 그래, 부드러워졌어. 술로 비유하자면 럼주야.",
+			null,
+			null,
+			"This time the sound of the engine was much softer, a rum if you use a wine analogy.",
+			"This time, the engine is ...... well, it's softer. If I had to use a liquor analogy, I'd say rum."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305482,
+			"Huh...",
+			"哈……",
+			"はぁ……。",
+			"하아….",
+			null,
+			null,
+			"Ha ......",
+			"Huh. ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				61,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305483,
+			"Sorry, you are too young to drink. You wouldn't understand what I said.",
+			"抱歉，你还没到喝酒的年龄吧，和你说这些也不会懂的。",
+			"ごめんなさい、まだお酒の飲める歳じゃなかったわね。こんな例えじゃ、分かりにくいわよね。",
+			"미안, 아직 술 마실 나이가 아니었지. 이런 비유론 이해하기 어렵겠네.",
+			null,
+			null,
+			"Sorry, you're not old enough to drink, right, and you won't understand what you're talking about.",
+			"Sorry, you weren't old enough to drink yet. It's hard to understand with an analogy like this."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				61,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305484,
+			"No... You lost me at the sound part.",
+			"不…光是声音这个部分我就已经无法理解了。",
+			"うん……音だけ聞いても私には理解できないわ。",
+			"응… 소리만 들어선 나도 이해할 수 없어.",
+			null,
+			null,
+			"No...the sound part alone is beyond my comprehension.",
+			"Yeah ...... just hearing the sound doesn't make sense to me."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305485,
+			"Alright, I adjusted the transmitting volume of the fuel pipes. I think there was too much fuel. Let's give it another go.",
+			"好了，我调整了一下燃料管的传导量，之前可能是燃料加的太多导致的，再试试看吧。",
+			"よし、燃料パイプの伝導量を調整したわ。以前のは燃料を加えすぎていたからいけなかったみたい。もう1度試してみましょう。",
+			"좋아, 연료 파이프의 전도량을 조정했어. 이전 건 연료를 너무 많이 가했던 게 문제였나 봐. 다시 한번 시도해 보자구.",
+			null,
+			null,
+			"Well, I adjusted the amount of fuel tube conduction, before may be too much fuel added to cause, try again.",
+			"Okay, I adjusted the conduction in the fuel line. It looks like I shouldn't have done that before because I was adding too much fuel. Let's try again."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305486,
+			"Ergh... Not again!",
+			"呃…又要来了么！",
+			"う……またやるの！",
+			"으…… 또 하는 거야!",
+			null,
+			null,
+			"Ummm...is it coming again!",
+			"U...... do it again!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305487,
+			"Yeah, put the ear plugs on. Experiment starting now... 3, 2,1. Activate.",
+			"嗯，带好耳塞吧，实验开始…3、2、1，启动。",
+			"ええ、耳栓をはめてね。実験開始……3、2、1、起動。",
+			"응, 귀마개 꼭 해. 실험 시작…… 3, 2, 1, 기동.",
+			null,
+			null,
+			"Well, bring your earplugs, let the experiment begin...3, 2, 1, start.",
+			"Yes, with earplugs. Start the experiment: ......3, 2, 1, start."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305488,
+			"Bomb!",
+			"轰隆！！！",
+			"ゴオオオ！！！！",
+			"우오오오오!!!!",
+			null,
+			null,
+			"BOOM!!!",
+			"Gooooooo ！！！！"
+		]
+	],
+	"1053": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305489,
+			"Ouch... My head is still trembling... Will this loudness ever drop?",
+			"呜呜…耳朵还在嗡嗡的响…这个声音真的能小的下来么？",
+			"うう……耳がまだキンキンする。この音、本当に小さくできないの？",
+			"으…… 아직도 귀가 쨍쨍해. 이 소리, 정말로 작게 못 해?",
+			null,
+			null,
+			"Oooh...my ears are still buzzing...can this sound really be reduced?",
+			"Ugh ...... ears are still ringing. Can't you really turn this sound down?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305490,
+			"Yeah, based on the measuring device, it was 2dB less than last time. The experiment worked.",
+			"嗯，根据检测仪器来看，比之前小了2分贝，实验效果还是很明显的。",
+			"うん、メーターによれば、さっきよりも2デシベル小さくなったわ。実験の効果は明らか。",
+			"응, 메터에 따르면 아까보다 2데시벨 작아졌어. 실험 효과는 분명해.",
+			null,
+			null,
+			"Well, according to the test instrument, it is 2 decibels smaller than before, and the experimental effect is still very obvious.",
+			"Yeah, according to the meter, it's 2 decibels louder than before. The effect of the experiment is obvious."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305491,
+			"Hey! I thought you said you could put it under 120dB!",
+			"喂！你不是说可以调整到120分贝以内么！",
+			"ちょっと！120デシベル以内に調整できるって言ってたじゃないの！",
+			"잠깐! 120데시벨 이내로 조정할 수 있다고 했잖아!",
+			null,
+			null,
+			"Hey! I thought you said you could adjust it to 120 decibels or less!",
+			"Hey, you said it could be adjusted to within 120 decibels!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305492,
+			"That was the ideal number. You never get what you want... It's quite a good result considering the materials and technology we have.",
+			"那只是理想值，理想与现实总会有差别…以现在的材料和技术能达到这个效果已经很不错了。",
+			"それは理想値よ。理想と現実には常に開きがあるもの……現在の材料と技術ではこのレベルに達するだけで御の字よ。",
+			"그건 이상값이야. 이상과 현실은 항상 차이가 있는 법…… 현재 재료와 기술로는 이 수준이면 다행이야.",
+			null,
+			null,
+			"That is only the ideal value, the ideal and reality will always be different ... with the current materials and technology to achieve this effect has been very good.",
+			"That is an ideal value. There is always a gap between the ideal and the reality. ...... With today's materials and technology, it is a good thing to reach this level."
+		],
+		[
+			"msg",
+			305493,
+			"Alright, let's call it a day... We can head back to the base.",
+			"好了，这次的实验就到此为止吧…我们可以返回基地了。",
+			"よし、今回の実験はここまで……基地に帰れるわよ。",
+			"좋아, 이번 실험은 여기까지…… 기지로 돌아갈 수 있겠어.",
+			null,
+			null,
+			"Well, that's the end of this experiment...we can return to base.",
+			"Okay, that's it for this experiment, you can go back to ...... base."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305494,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305495,
+			"Himeko? Are you okay, let's go back?",
+			"姬子？你怎么了，不回去么？",
+			"姫子？どうしたの、帰らないの？",
+			"히메코? 왜 그래, 안 갈 거야?",
+			null,
+			null,
+			"Himeko? What's wrong with you, aren't you going back?",
+			"Himeko? What's wrong, aren't you going home?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305496,
+			"I'm actually thinking, what if we don't restrict the volume and make it a sonic weapon.",
+			"我在想如果干脆不要限制声音的大小，直接做成音波武器的话可行么。",
+			"音の大小を制限するのを止めて、音波をそのまま武器にできないかと思って。",
+			"음의 크기 제한을 멈추고, 음파를 그대로 무기로 만들 수 없을까 생각해서.",
+			null,
+			null,
+			"I was thinking that if you simply do not limit the size of the sound, directly into the sound wave weapons, then it is feasible.",
+			"I wondered if we could stop limiting the loudness of sound and use sound waves as weapons as they are."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305497,
+			"Hey!",
+			"喂！",
+			"ちょっと！",
+			"잠깐!",
+			null,
+			null,
+			"Hey!",
+			"Hey!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305498,
+			"Well, that's a good idea. It might work if we have relatively safe amplifier and restrictor.",
+			"嗯，不错的想法，如果有相对安全的功率放大器与收束器的话说不定可以实行。",
+			"うん、イイ考えね。相対的に安全な出力のアンプと収束器があればできるかもしれない。",
+			"응, 좋은 생각이야. 상대적으로 안전한 출력의 앰프와 집속기가 있으면 할 수 있을지도.",
+			null,
+			null,
+			"Well, a good idea, if there is a relatively safe power amplifier and transceiver, it may be possible to implement.",
+			"Yeah, that's a good idea. Maybe with an amplifier and a converger with relatively safe outputs, it could be done."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305499,
+			"I'm counting on you then.",
+			"那就拜托你了。",
+			"じゃあ、お願いするわ。",
+			"그럼, 부탁할게.",
+			null,
+			null,
+			"Then, please.",
+			"Then I'll ask for it."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305500,
+			"Alright, as long as Bronya does not find out...",
+			"好的，只要不被布洛妮娅知道的话……",
+			"分かった。ブローニャに知られなければの話だけど……。",
+			"알았어. 브로냐에게 들키지 않는다면야…….",
+			null,
+			null,
+			"Okay, as long as Bronya doesn't know about it ......",
+			"Ok. That is if Bronya doesn't know about it. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305501,
+			"...Those two are dangerous when they are together.",
+			"……这两人在一起真是危险呢。",
+			"……この2人が一緒になると本当に危ないわね。",
+			"……이 두 사람이 함께 하면 정말 위험하네.",
+			null,
+			null,
+			"...... These two are really dangerous together.",
+			"......They are really dangerous when they get together."
+		]
+	]
+}

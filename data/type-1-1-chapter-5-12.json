@@ -1,0 +1,984 @@
+{
+	"11": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251097,
+			"Ahhh~ Finally we arrived a normal place! I can't stay there anymore……",
+			"唔！终于走到正常的地方了！再在那种地方待下去的话我大概会闷死在那的吧……",
+			"ふぅ～、やっと新鮮な空気が吸えるところに出た！あんなところにずっといたら、クサくて窒息死しちゃうよ……。",
+			"후~, 드디어 신선한 공기를 마실 수 있는 곳에 나왔네! 저런 곳에 계속 있었더라면, 냄새 나서 질식사할 뻔했어......",
+			"Whew~ Finally, some fresh air! If I'd have stayed there any longer, I would've suffocated...",
+			"Ufa... Finalmente, alguém normal. Se eu tivesse que ficar lá por mais tempo, eu ficaria sufocada.”//n",
+			"Well! Finally, we're in a normal place! I'll probably die of boredom if I stay in that place any longer ......",
+			"Whew, I finally got out where I could get some fresh air! If I stayed in that place all the time, I would stink and choke to death. ......"
+		],
+		[
+			"msg",
+			251098,
+			"This place, just like winding road.",
+			"这个地方，好像是个盘山公路？",
+			"ここどこだろう？妙に曲がりくねった道だけど。",
+			"여기 어디지? 이상하게 구불구불한 길뿐인데.",
+			"Where am I? It looks to be a winding road.",
+			"Essa parece ser uma estrada sinuosa.",
+			"This place, it seems to be a pan mountain road?",
+			"Where am I? It's a strange winding road."
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251099,
+			"I shouldn't come to this place…",
+			"我怎么会走到这儿来了……",
+			"まさか……迷子になっちゃったなんてことないよね……？",
+			"설마...... 길을 잃은 건 아니겠지......?",
+			"I didn't get... lost, did I...?",
+			"Onde acabei dessa vez…",
+			"How did I get here ......",
+			"You don't mean you got ...... lost, do you ......?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251100,
+			"*Sound of motorbike*",
+			"突突突突突……",
+			"ドゥルルルッ——ブゥオォオオオォンッ！！",
+			"두르르릉—— 부우오오오온!!",
+			"<I>Durrrrrr—— Brrrrrrr!!</I>",
+			"Vrooom~vrom vrom vrom vrom vrom~",
+			"Tudden Tudden Tudden ......",
+			""
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251101,
+			"Is this the sound of motorbike?",
+			"这……又是机车的声音？",
+			"……っ！バイクの音！？",
+			"......! 오토바이 소리?!",
+			"This is... another motorcycle sound?!",
+			"Essa.. é a motocicleta que eu ouvi antes?",
+			"This ...... is the sound of a locomotive again?",
+			"......! The sound of motorcycles!"
+		],
+		[
+			"msg",
+			251102,
+			"It's closer and closer to us!",
+			"越来越近了！",
+			"こっちに近づいて来てる！",
+			"이쪽으로 다가오고 있어!",
+			"It's getting closer!",
+			"Está chegando perto!",
+			"It's getting closer!",
+			"It's coming this way!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251103,
+			"*Strange sound*",
+			"嘟啦啦啦啦……",
+			"ブゥオオオォオン——ッ！",
+			"부우오오오온——!",
+			"<i>Vrrrrrrroonn——!</i>",
+			null,
+			"Do la la la la la ......",
+			"Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251104,
+			"That motorbike?! And the person on it……",
+			"那辆机车？！还有上面的那个人……",
+			"来たっ！あのバイクに乗ってる人……まさか！",
+			"왔어! 저 오토바이 탄 사람…… 설마!",
+			"There's the motorcycle! And the person on it... It can't be!",
+			"Essa é a motocicleta? A pessoa que está dirigindo-",
+			"That locomotive?! And the guy on top ......",
+			"Here it comes! The guy on that bike. ...... No way!"
+		],
+		[
+			"msg",
+			251105,
+			"Humph~ It's a dead-end street… We can catch her…",
+			"哼，上面可是死路，这下你跑不了了！",
+			"へへっ！逃がさないんだから！",
+			"헤헤! 놓치지 않을 거야!",
+			"Heheh, there's a dead end up there. You're not getting away now!",
+			"Hum, é um beco sem saída lá em cima, você não irá fugir!",
+			"Hmph, it's a dead end up there, you can't get away now!",
+			"Heh heh! I won't let you get away!"
+		],
+		[
+			"msg",
+			251106,
+			"Ha, a piece of scrip? I didn't see it before…",
+			"咦，这里怎么有个纸条？明明刚才还没有的……",
+			"ん？これ何かしら……メモ？あのバイクが落としたのかな。",
+			"음? 이건 뭐지…… 메모? 저 오토바이가 떨어뜨린 걸까.",
+			"Hm? What's this... A note? Could it have been dropped by that bike?",
+			"Ei, o que há com essa nota? Não estava aqui antes…",
+			"Hey, why is there a note here? Obviously there wasn't one just now ......",
+			"Hmm? What is this ...... note? I wonder if that bike dropped it."
+		],
+		[
+			"msg",
+			251107,
+			"It's hard to read…",
+			"这字迹可真是潦草……",
+			"どれどれ……うわ、ヘッタクソな字ね……。",
+			"어디 보자…… 으악, 글씨 진짜 못 썼네…….",
+			"Let's see... Whoa, this handwriting is <I>awful...</I>",
+			"Essa caligrafia é bem desleixada.",
+			"This handwriting is really scribble ......",
+			"Let's see. ...... Wow, your handwriting is terrible. ......"
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251108,
+			"Help me?",
+			"救救我？",
+			"うーん、「助けて」って書いてあるのかな？",
+			"으음, 「도와줘」 라고 써 있는 건가?",
+			"Hmm, it says \"Help me\"?",
+			"Me ajude?",
+			"Help me?",
+			"Hmmm, does it say \"help\"?"
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251109,
+			"So the person on motorbike was not him… Kalanas won't be effected by Houkai energy.",
+			"这么说那辆机车上的人不是他了……卡斯兰娜家的人可是不会感染上崩坏的。",
+			"それにさっきのバイクはあの人と関係なさそうね……カスラナ家の人間が崩壊に感染するわけないし。",
+			"게다가 아까 그 오토바이는 그 사람과는 관계 없어 보여…… 카스라나 가문 사람이 붕괴에 감염될 리 없으니까.",
+			"So the person on the motorcycle definitely isn't him... Kaslanas are never corrupted by the Honkai.",
+			"Então a pessoa na motocicleta definitivamente não é ele... Kaslanas nunca são corrompidos pelo Honkai.",
+			"So the person on that locomotive is not him ...... Caslana's family is not infected with the crash.",
+			"And that motorcycle earlier doesn't seem to have anything to do with that guy. ...... No one from the Kasrana family could be infected by the collapse."
+		],
+		[
+			"msg",
+			251110,
+			"Ah, it's not time to talk about that, we must help her!",
+			"现在可不是说那个家伙的事的时候，现在得去救人了！",
+			"とりあえず、あの人のことは一旦置いておきましょう。今は、バイクの方が気になる！",
+			"일단, 그 사람은 잠시 제쳐 두자. 지금은 오토바이가 더 궁금해!",
+			"Ah, but it's no time to be thinking about that guy. Right now, I should be saving someone!",
+			"Ah!? mas não é hora de ficar pensando sobre aquele cara. Agora mesmo eu deveria estar salvando alguém!",
+			"Now is not the time to talk about that guy, now we have to go save someone!",
+			"For now, let's put that guy aside for a moment. Right now, I'm more concerned about the bike!"
+		],
+		[
+			"msg",
+			251111,
+			"Let me see, that person is…",
+			"让我看看……这周围……啊，那个人是……",
+			"こっちの方に走ってったと思うんだけど……あっ！",
+			"이쪽으로 달려간 것 같은데…… 앗!",
+			"Let me see... around here... Ah!",
+			"Deixe-me ver... por aqui... Ah! isso é…",
+			"Let me see ...... this around ...... ah, that person is ......",
+			"I think I ran this way: ...... Oh!"
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251112,
+			"A girl? And a motorbike near her?",
+			"一个女孩？周围还有一辆机车？",
+			"バイク発見っ！！それと……乗ってるのは女の子？",
+			"오토바이 발견!! 그리고…… 탄 건 여자애?",
+			"Found the motorcycle!! And... the person on it is a girl?",
+			"...uma garota? E essa é a motocicleta?",
+			"A girl? And a locomotive around?",
+			"I found a motorcycle! And is that a girl on ......?"
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251113,
+			"I thought it was him, I thought we could find some clues about him.",
+			"果然不是他啊，我还以为能够找到他的半点踪迹。",
+			"はぁ、あの人とはやっぱり関係なさそうだね。手掛かりくらいはあったら良かったんだけど。",
+			"하아, 역시 그 사람과는 관계 없나 보네. 단서라도 있었으면 좋았을 텐데.",
+			"<I>Sigh,</I> seems this had nothing to do with him after all. I hoped to at least find a clue.",
+			"Então realmente? Não era ele. Eu tinha esperança de encontrar ao menos um sinal dele.",
+			"Sure enough, it wasn't him. I thought I'd be able to find half a trace of him.",
+			"Huh, I guess I'm not related to that guy after all. I wish I had at least a clue."
+		],
+		[
+			"msg",
+			251114,
+			"But, why she is not moving at all? Hey! Are you alright?!",
+			"不过，她怎么在那里不动了？喂！你还好么！",
+			"んー、この子、微動だにしないけど……ゾンビなのよね？ねぇ、大丈夫？",
+			"음-, 이 아이, 꿈쩍도 안 하는데... 좀비 맞지? 저기, 괜찮아?",
+			"Hmm, but why isn't she moving...? Hey, you okay over there?!",
+			"Mas, por que ela não está se movendo? Ei, você está bem?!",
+			"But, why is she not moving there? Hey! Are you okay!",
+			"Hmm, she's not moving a bit, but she's a ...... zombie, right? Hey, are you okay?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251115,
+			"*Strange sound*",
+			"嘟啦啦啦啦……",
+			"ブロォロロロォオ——ッ！",
+			"브로로로로오——!",
+			"<i>Vrrrrrrrooooooo——!</i>",
+			null,
+			"Do la la la la la ......",
+			"Bro-ro-ro-o--!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251116,
+			"No…… I'm afraid she is not human anymore……",
+			"糟了……她的身上好像已经感受不到人类的气息了……",
+			"わっ、ビックリした！…………えーと、何かヤバめな雰囲気？",
+			"앗, 깜짝이야!............ 어-트, 뭔가 위험한 분위기?",
+			"Damn... She doesn't give me the vibe that she's still human...",
+			"Droga... Ela não me passa a sensação de que ainda é humana.",
+			"Damn ...... her body seems to have felt no human breath ......",
+			"Wow, what a surprise! ............ Well, what's the bad vibe?"
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251117,
+			"Ha? She is not driving to me? Maybe she still have some consciousness?",
+			"咦？她竟然没有向我这边开？莫非她还留有一点意识么？",
+			"——ッ！！って、あれ？こっちに向かってこない。もしかして、まだ人間の頃の意識が残ってるのかな？",
+			"——!! 라고, 어라? 이쪽으로 오지 않네. 혹시, 아직 인간이었을 때의 의식이 남아 있는 걸까?",
+			"Wait, what? She's not coming towards me. Could she still have some consciousness left?",
+			"Hã? Ela não está dirigindo em minha direção? Ela ainda tem alguma consciência sobrando?",
+			"Huh? She didn't drive towards me? Could it be that she still has some consciousness left?",
+			"--! What's that? It's not coming this way. Could it be that it still has consciousness from when it was human?"
+		]
+	],
+	"12": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251118,
+			"There were a lot of cars ran away…… Most of them are sports cars……",
+			"刚才有好多辆车都开过去了……大部分都是跑车的样子……",
+			"うーん……さっきから改造車ばっか通るわね。",
+			"으음... 아까부터 개조차만 지나다니네.",
+			"A bunch of cars just drove past... Most of them were sports cars...",
+			"Um monte de carros acabara de passar... Maioria deles eram carros esportivos…",
+			"Just now there are a lot of cars are driving over ...... most of them are sports cars look like ......",
+			"Hmmm... ...... I've been going by all the modified cars since a while ago."
+		],
+		[
+			"msg",
+			251119,
+			"Is this a road race?",
+			"这难道就是传说中的公路赛道么，专门用来赛车的地方？",
+			"もしかして、公道レースってやつ？ちょうど、ここがコースになってるのかな？",
+			"혹시, 공도 레스라는 거야? 마침 여기가 코스가 된 건가?",
+			"Is this some public road race? And this is the track?",
+			"Isso é uma pista de corrida? É esse o caminho?",
+			"Is this the legendary road race track, a place dedicated to racing?",
+			"Maybe it's called a public road race? Is this just the course?"
+		],
+		[
+			"msg",
+			251120,
+			"Seems Houkai's effect is not so bad now, at least this place is still fine…",
+			"看来崩坏扩散的范围还不是特别大，至少这个地方还暂时没有受到……",
+			"今回の崩壊はやっぱり範囲が狭いみたいだね。ここはまだ大丈夫そうだし……。",
+			"이번 붕괴는 역시 범위가 좁은 모양이네. 여긴 아직 괜찮을 것 같고……",
+			"Turns out the Honkai outbreak this time is only in a small area after all. This place seems to be okay for now...",
+			"Parece que a extensão e o alcance do surto não é tão grande, pelo menos esse lugar parece não estar afetado.",
+			"It seems that the spread of the collapse is not particularly large, at least this place is not yet temporarily subject to ......",
+			"It looks like this collapse is still very small in scope. It looks like we're still in good shape here. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251121,
+			"Bang!!",
+			"轰隆隆！",
+			"ドゴォオオオォンッ！！",
+			"우르르르르릉!!",
+			"<i>BoooOOOM!!</i>",
+			null,
+			"Rumble!",
+			"Dogooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251122,
+			"What happened?",
+			"怎么回事？哪里爆炸了？！",
+			"えっ！？何、爆発ッ！？",
+			"엇!? 뭐야, 폭발!?",
+			"Wha—?! What was that explosion?!",
+			"O que aconteceu?! Onde foi essa explosão?!",
+			"What happened? Where did it explode?",
+			"What? What, explosion!"
+		],
+		[
+			"msg",
+			251123,
+			"I can see black smokes ahead. Is that car accident?",
+			"前方开始冒黑烟了……莫非是车祸？",
+			"煙が上がってる……もしかして、さっきの改造車が事故ったのかな？",
+			"연기가 올라가고 있어…… 혹시, 아까 그 개조차가 사고 난 걸까?",
+			"Black smoke is rising up ahead... Did those sports cars crash?",
+			"Eu consigo ver fumaça preta à frente... Poderia ser um acidente de carro?",
+			"Black smoke is starting to come out from the front ...... Mo is not a car accident?",
+			"Smoke is rising. ...... Maybe the modified car that just crashed?"
+		],
+		[
+			"msg",
+			251124,
+			"Heyheyhey! I know there is not much people in this place, however, you still need to follow the rules!",
+			"喂喂喂，虽然这地方平时是没什么人经过啦，但你们也要好歹也要遵守基本的交通规则吧喂！",
+			"もうっ！人通りが少ないからって危険な運転してくれちゃって！最低限の交通ルールは守んなさいよ！",
+			"아 진짜! 사람이 없다고 위험한 운전을 하다니! 최소한의 교통 규칙은 지켜야지!",
+			"Seriously?! Just because there's no one else driving here, you decide to drive so dangerously?! At least follow basic traffic rules!",
+			"Ei, ei, ei! Mesmo se esse lugar estiver deserto, você ainda tem que respeitar as leis de trânsito básicas!",
+			"Hey, hey, hey, although this place is usually not much people pass through it, but you should at least also observe the basic rules of the road it hey!",
+			"Oh, God! You drove dangerously just because there were few pedestrians on the street! You should at least obey the traffic rules!"
+		],
+		[
+			"msg",
+			251125,
+			"I think I almost know what happened, they must became zombies during the road race, so the car accident happened.",
+			"我大概知道是怎么回事了，肯定是那些人在赛车的时候都变成了死士，所以也就发生了这个交通事故……",
+			"……いや、違う。もしかしたら、レース中にゾンビになっちゃったのかも。それで意識が保てなくなって事故を……。",
+			"……아니, 다르다. 어쩌면 레스 중에 좀비가 되어버린 걸지도. 그래서 의식을 유지하지 못하고 사고를...",
+			"...No, that's not it. They must've turned into zombies while racing. Then they lost consciousness and crashed...",
+			"Ah! Posso imaginar o que aconteceu. Eles provavelmente viraram zumbis enquanto eles estavam, e então eles bateram.",
+			"I probably know what is going on, it must be those people in the racing are turned into dead soldiers, so also happened this traffic accident ......",
+			"...... No, no. Maybe I turned into a zombie during the race. That's why I couldn't stay conscious and had an accident ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251126,
+			"*Strange sound*",
+			"嘟啦啦啦啦……",
+			"ドゥルルルッ——ブゥオォオオオォンッ！！",
+			"두르르륵——부우오오오오온!!",
+			"<i>Durrrrrr—— Vrrrrrrr!!</i>",
+			null,
+			"Do la la la la la ......",
+			""
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251127,
+			"There is no way… Why can we still hear that sound?!!",
+			"这前面已经没有路了……为什么听那个声音她还在加速？！！",
+			"またバイク！？……というか、この先は崖よ！何でアクセル全開にしてんのよ！？",
+			"또 오토바이!?…… 아니, 앞은 절벽이야! 왜 액셀을 풀로 밟고 있는 거야!?",
+			"Another motorcycle?! ...But there's a cliff ahead! Why're they at full throttle?!",
+			"Não há estrada à frente! Por que parece que ela ainda está acelerando?!",
+			"There is no road in front of this ...... Why listen to that voice she is still accelerating?!",
+			"Bikes again! I mean ......, there's a cliff ahead! Why are you at full throttle!"
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251128,
+			"Is she driving to the cliff……",
+			"她…朝着悬崖开下去了……",
+			"……えッ！そ、そんな崖から落ちるなんて……。",
+			"……엣! 그, 그런 절벽에서 떨어지다니...",
+			"She... drove off the cliff...",
+			"Ela... caiu do penhasco…",
+			"She...drove down towards the cliff ......",
+			"...... eh! That's such a cliff to fall off of. ......"
+		],
+		[
+			"msg",
+			251129,
+			"What happened……",
+			"是发生了什么……",
+			"どうして自ら……？",
+			"왜 스스로...?",
+			"What happened...?",
+			"O que aconteceu…",
+			"is what happened ......",
+			"Why do you want to go to ...... yourself?"
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251130,
+			"Ha? There is a notebook? Looks like a diary? Maybe it's the girl's thing, let me take a look……",
+			"咦？这个本子？好像是个日记本？难道是那个女孩留下的东西吗？让我来看看……",
+			"あれ、何か落ちてる。これは……日記？さっきのバイクが落としたのかな？……読んでもいいよね？",
+			"어라, 뭔가 떨어져 있어. 이건…… 일기? 아까 그 오토바이가 떨어뜨린 걸까?…… 읽어도 되겠지?",
+			"Oh, something's fallen. Is this... a diary? Maybe it was dropped by that biker? ...Is it really alright if I read it?",
+			"Hã, esse livro? Ele parece um diário. Aquela garota deixou isso para trás? Vamos dar uma olhada.",
+			"Huh? This book? It seems to be a diary? Could it be something left by that girl? Let's see ......",
+			"Oh, there's something down. Is this ...... diary? Did the bike just drop it? You don't mind if I read ......, do you?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251131,
+			"05/01, I finally got my motorbike, I gave her a name- Rapid, because she moves so fast!",
+			"1月5日，我的机车终于到了，我准备给她取名为霹雳，因为她的速度肯定就像闪电一样快！",
+			"1月5日 ついにバイクが届いた！さっそく名前をつけたの。その名もイナズマ！絶対イナズマみたいに速いはずだからっ！",
+			"1월 5일 드디어 오토바이가 도착했어! 바로 이름을 지어줬지. 그 이름은 번개! 분명 번개처럼 빠를 거야!",
+			"<color=#ffd7b3>01/05: My motorcycle is finally here! I am going to name her Inazuma, because she will be as fast as lightning!</color>",
+			"01/05: Minha motocicleta está finalmente aqui! Nomearei ela de Raio, porque ela será tão rápida quanto um relâmpago!",
+			"My locomotive finally arrived on January 5, and I'm going to name her Thunderbolt, because she must be as fast as lightning!",
+			"Jan. 5: Finally, my bike arrived! I gave it a name right away. I named it Inazuma! I'm sure it will be as fast as Inazuma!"
+		],
+		[
+			"msg",
+			251132,
+			"06/01, I joined the motorbike club in school, an elder sister said I got talent on this and she likes me… I feel so good because no one laughed at me for my face.",
+			"1月6日，我加入了我学校中的机车部，没想到千羽学园居然真的有这种社团！第一次跟着学姐们去兜风，开机车真是太棒了！学姐说我是她遇到过的最有天赋的人，她说她很喜欢我……这是第一个没有因为我的相貌而看不起我的人……",
+			"1月6日 千羽学園のバイク部に入部した。バイク部があるなんて驚き！今日、先輩たちとツーリングに行ったけど最高だった！先輩は才能があるって言ってくれたし、不細工な私のことを可愛いと言ってくれた……。",
+			"1월 6日 센바 학원의 오토바이 부에 입부했어. 오토바이 부가 있다니 놀라워! 오늘 선배들과 투어링을 갔는데 최고였어! 선배가 재능이 있다고 해줬고, 못생긴 나를 귀엽다고 해줬어…….",
+			"<color=#ffd7b3>01/06: I joined the motorcycle club at school! I didn't think Senba Academy would have such a club! My senpai told me I am the most talented person she's ever met, and she said she likes me a lot... She's the first person who didn't judge me because of my looks...</color>",
+			"01/06: Eu me juntei ao clube de moto da escola! Eu não pensava que a Academia Senba teria tal clube! A Senpai me disse que sou a pessoa mais talentosa, que ela já conheceu, e ela disse que gosta muito de mim... Ela foi a primeira pessoa que não me julgou pela minha aparência.",
+			"On January 6, I joined the biker club at my school. I never thought there would be such a club at Chihaya! The first time I went for a ride with the girls, it was great to drive a motorcycle! Sister said I was the most talented person she had ever met, and she said she liked me a lot ...... This is the first person who didn't look down on me because of my looks ......",
+			"January 6, I joined the bike club at Senba Academy. I was surprised that there is a motorcycle club! I went touring with the seniors today and it was great! The seniors told me I was talented and that I was ugly and that I was pretty. ......"
+		],
+		[
+			"msg",
+			251133,
+			"13/01, we took challenges from Race club, it's fight between sports car and motorbike. They laughed for my face but I let them shut up with my speed.",
+			"1月13日，我们社团接受了飙速部的挑战，这是机车与跑车的战斗。我们相约在废墟后面的无人山道上比赛，据说这里已经有五年没有人来了，曾经这里还有“车神”的传说。她们嘲讽我的面容，但是我的速度让她们闭上了嘴巴。",
+			"1月13日 レーシング部と勝負することになった。コースは人気のない裏山。神速のカズハとかいう凄腕のドライバーが出る都市伝説もあるみたい。連中は私の外見を笑ったけど、誰も私の速度にはついてこれなかった。",
+			"1월 13일 레이싱 부와 승부를 겨루기로 했어. 코스는 사람이 없는 뒷산. 신속의 카즈하라는 엄청난 실력의 드라이버가 나온다는 도시 전설도 있는 모양이야. 걔들은 내 외모를 비웃었지만, 아무도 내 속도를 따라오지 못했어.",
+			"<color=#ffd7b3>01/13: Our motorcycle club has accepted a challenge from the racing club. A battle between motorcycles and sports cars. We met on the deserted mountain backroads behind the ruins. It's said that nobody has come here for five years, and that there used to be some urban legend of someone called \"Kazuha of Godly Speed\". They laughed at my looks, but my speed shut them up.</color>",
+			"01/13: Nosso clube de moto aceitou um desafio do clube de corrida. Uma batalha entre motocicletas e carros esportivos.   Nós nos encontramos na estrada vazia da montanha atrás das ruínas. Diz-se que ninguém veio aqui por cinco anos e que costumava haver alguma lenda urbana sobre o Deus das Corridas. Eles riram da minha aparência, mas minha velocidade calou eles.",
+			"On January 13, our club took on the challenge of the Speed Division, a battle between locomotives and sports cars. We met on the uncrowded mountain road behind the ruins, where no one had come for five years and where the legend of the \"God of Cars\" once existed. They mocked my face, but my speed made them shut up.",
+			"January 13th, I was to compete with the Racing Club. The course is an unpopular backwoods mountain. There seems to be an urban legend that there will be a great driver called \"Kazuha of God's Speed\" or something like that. They laughed at my appearance, but no one could keep up with my speed."
+		],
+		[
+			"msg",
+			251134,
+			"02/02, we won a lot of matches, sister said I'm born for race matches. I'm so happy about it.",
+			"2月2日，我们的机车部又赢下了很多比赛，学姐说我仿佛就是为了机车而生的人一样。真高兴。",
+			"2月2日 今日もバイク部はレースに勝った。先輩は私のことを「まるでバイクのために生まれてきたような人だ」と言った……心の底から嬉しかった。",
+			"2월 2일 오늘도 바이크부는 레이스에서 이겼다. 선배는 나를 「마치 바이크를 위해 태어난 사람 같다」라고 말했어…… 정말로 기뻤어.",
+			"<color=#ffd7b3>02/02: Our club has won a lot of matches. Senpai said that I was born for biking. I'm so happy.</color>",
+			"02/02: Nosso clube ganhou muitas partidas. Senpai me disse que nasci para dirigir motos. Estou tão feliz.",
+			"On February 2, our biker section won many more races, and my sister said that it was as if I was born for bikers. I am so happy.",
+			"February 2, the bike club won the race again today. A senior said of me, \"You are like a person who was born for motorcycles.\"...... I was happy from the bottom of my heart."
+		],
+		[
+			"msg",
+			251135,
+			"13/03, we have another match tomorrow, elder sister made a promise with me, if I win tomorrow, she will consider to study for the local university.",
+			"3月13日，明天又有一场比赛，这是我跟学姐约好了的，如果我赢了，她就考虑攻读本地的学校，不过长空市的学校很难进，但是学姐说如果我赢了的话，她就会为我而努力的。",
+			"3月13日 明日もレースがある——先輩との大事なレース。先輩は難関校ばかりの長空市を出て、別の街の学校へ進学するらしい。けど、もし私がレースに勝てたら、ここに残って受験を頑張ると約束してくれた。",
+			"3월 13일 내일도 레이스가 있어——선배와의 중요한 레이스. 선배는 명문校만 있는 장공시를 떠나 다른 도시의 학교로 진학할 거래. 하지만 내가 레이스에서 이기면 여기에 남아 수험 공부를 열심히 하겠다고 약속해줬어.",
+			"<color=#ffd7b3>03/13: Tomorrow is another race — an important one with Senpai. She's leaving Nagazora City because there are too many prestigious schools, and going to a school in another town. However, she promised me that if I win the race, she'll stay here and do her best and study for the entrance exams.</color>",
+			"03/13: Amanhã, haverá outra partida. Eu fiz um trato com a Senpai. Se eu ganhar, ela vai considerar estudar para frequentar uma escola local. É realmente difícil de entrar em uma escola em Nagazora. Mas se eu vencer, ela vai tentar muito por mim.",
+			"There is another game tomorrow, March 13. This is a date with my sister, if I win, she will consider to study in a local school, but it is hard to get into a school in Changkong City, but my sister said if I win, she will work for me.",
+			"March 13, I have another race tomorrow--an important race with my senior. I heard that my senior is leaving Nagora City, which is full of difficult schools, to go to a school in another city. But if I win the race, he promised to stay here and do his best to take the entrance exam."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251136,
+			"What a poor kid… If there was no Houkai energy, maybe she is having match with her sister…",
+			"真是一个可怜的孩子……如果不是这场崩坏的话，她现在已经在和她的学姐比赛了吧……",
+			"可哀想な子……崩壊さえ起らなければ、先輩とレースできてたんだろうな……きっと、幸せな未来が待ってたはずなのに。",
+			"불쌍한 아이……붕괴만 일어나지 않았다면, 선배와 레이스를 할 수 있었을 텐데…… 분명, 행복한 미래가 기다리고 있었을 텐데.",
+			"Poor kid... If only the Honkai outbreak hadn't happened, she would've been able to race with her senpai... I'm sure she would've had a happy future.",
+			"Esta pobre garota... Se não fosse pelo Honkai, ela estaria tendo uma partida com seu Senpai agora mesmo.",
+			"What a poor child ...... If it wasn't for this collapse, she would already be competing with her schoolmates right now ......",
+			"The poor kid ...... would have been able to race with his seniors if only the collapse hadn't happened. ...... I'm sure he would have had a happy future."
+		],
+		[
+			"msg",
+			251137,
+			"In her last time, she still loves the sister… So she wrote the scrip…",
+			"她到了最后快要被崩坏侵蚀完毕的时候，也一直凭着自己对于那位学姐的执着而坚持着吗？所以才会有那个“救救我”么……",
+			"崩壊に浸蝕される最後の最後まで、先輩への想いを胸に頑張ったんだ……だから、力を振り絞って「助けて」ってメモを残したのね……。",
+			"붕괴에 침식당하는 마지막 순간까지, 선배에 대한 마음을 가슴에 품고 버텼어…… 그래서, 힘을 다해 「도와줘」라는 메모를 남긴 거구나…….",
+			"She persevered with her feelings for her senpai in her heart until the very end, when the Honkai was beginning to take hold... That's why she mustered up all her strength and left that \"Help me\" note...",
+			"No fim, quando ela estava sendo partida em pedaços e corrompida pelo Honkai, ela aguentou por causa da ligação dela com sua Senpai? É por isso que havia aquela nota com `Me ajude’...",
+			"She was about to be eroded by the end of the collapse of the erosion of the time, but also has been based on their own persistence for the school sister and persisted? That's why there is that \"help me\" ......",
+			"Until the very end, when the collapse was eroding him, he did his best with his feelings for his seniors. ...... So, with all his strength, he left a note saying, \"Help me.\" ......"
+		],
+		[
+			"msg",
+			251138,
+			"Although I don't know how she looks like, however, I think she is more beautiful than most people.",
+			"虽然不知道她究竟是一个长相如何的女孩，但是，至少她比太多太多人要美丽。",
+			"どんな子だったのかは知らないけど、見た目とは裏腹に彼女の心が純粋で綺麗だったのは間違いない。",
+			"어떤 아이였는지는 모르지만, 외모와는 달리 그녀의 마음이 순수하고 아름다웠다는 건 분명해.",
+			"I don't know what kind of girl she was, but there's no doubt that her heart was pure and beautiful, no matter what she looked like.",
+			"Eu não sei como essa garota se parece, mas eu acho ela linda. Diferente de muitas pessoas.",
+			"I don't know exactly how she is a girl who looks like, but, at least she is more beautiful than too many people.",
+			"I don't know what kind of girl she was, but I am certain that despite her looks, her heart was pure and beautiful."
+		],
+		[
+			"msg",
+			251139,
+			"In this world, some people have ugly look, however, they have a pure heart…",
+			"这个世界上，有的人虽然长相可怖，但是她们有着纯粹的内心，我收回之前对于这世上所有人的那个差评吧……",
+			"外見ばかりを取り繕って、裏で違法なことをしていたこの学園とは正反対……。",
+			"겉모습만 꾸미고, 뒤에서는 불법적인 일을 저지르는 이 학원과는 정반대…….",
+			"The complete opposite of this school, where everyone's concerned with appearances and doing illegal things behind the scenes...",
+			"Nesse mundo, onde tem pessoas que parecem feias, mas que tem um coração puro. Eu retiro meus comentários negativos anteriores sobre todos no mundo......",
+			"In this world, there are people who look horrible, but they have a pure heart, I take back that bad review for everyone in this world ......",
+			"The exact opposite of this school, which was all about mending appearances and doing illegal things behind the scenes. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251140,
+			"Bang…",
+			"轰隆隆隆……",
+			"ゴロ、ゴォゴロオォオッ！",
+			"우르르, 우르르르릉!",
+			"<I>Rumble, RUMBLE...!</I>",
+			null,
+			"Rumble Rumble ......",
+			"Goro, goro goro ooh!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251141,
+			"This sound of thunders…",
+			"这个雷声……",
+			"この雷は……！",
+			"이 번개는……!",
+			"This thunder...!",
+			"Esse trovão...",
+			"This thunder ......",
+			"This lightning can be found at ......!"
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251142,
+			"Oh no, I almost forgot I was in this Houkai… I need to catch Mei…",
+			"糟了，差点就忘记自己还处在这个崩坏中。现在应该是追踪雷电芽衣的时候才对……",
+			"そうだ、感傷に浸ってる場合じゃなかった！今は崩壊の真っ只中なんだよね。雷電芽衣を追わなくちゃ！",
+			"맞아, 감상에 빠져 있을 때가 아니었지! 지금은 붕괴의 한가운데야. 라이덴 메이를 쫓아가야 해!",
+			"Right, this is no time for being sentimental! I'm in the middle of a Honkai outbreak right now. I have to find Raiden Mei!",
+			"Droga, eu quase esqueci que ainda estava nesse surto. Eu deveria estar rastreando a Raiden Mei agora mesmo.",
+			"Damn, almost forgot I was still in this collapse. Now should be the time to track down Raiden Meiko ......",
+			"Yes, this was not the time for sentimentality! We're in the middle of a collapse right now. I have to go after Raiden Mei!"
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251143,
+			"RIP.",
+			"就让那个女孩在这里沉眠吧，至少她在死去的时候，仍然念想着自己的学姐。",
+			"この子のことは残念だけど、どうか安らかに眠って……せめて先輩の傍にいけるよう祈ってるわ。",
+			"이 아이는 안타깝지만, 부디 편히 잠들어…… 적어도 선배 곁에 있을 수 있기를 빌어.",
+			"I feel sorry for this girl, but I hope she rests in peace... and that she can at least be by her senpai's side.",
+			"Deixe essa garota descansar. Pelo menos ela morreu com sua Senpai próxima em seu coração.",
+			"Let the girl sleep here, at least when she dies, she will still think of her sister.",
+			"I'm sorry to hear about this girl, but please let her rest in peace and ...... pray that she can at least be with her seniors."
+		],
+		[
+			"msg",
+			251144,
+			"I need to find my sister~",
+			"可惜，我的学姐却不是一个那么让人放心的人呐~还是得赶紧把她找到才行！",
+			"さて、残念なことに、こっちの先輩は手がかかるんだよね～。早く見つけ出さないと！",
+			"아니, 안타깝게도 이쪽 선배님은 손이 많이 가거든~. 빨리 찾아내지 않으면!",
+			"Unfortunately, <i>my</i> senpai is quite a handful~ I still have to find her, and fast!",
+			"Infelizmente, Minha Senpai é um pouco trabalhosa~ Eu ainda tenho que encontrar ela, e rápido!",
+			"Unfortunately, my sister is not such a reassuring person na ~ still have to hurry to find her to do!",
+			"Well, unfortunately, the seniors over here are a handful! We have to find out soon!"
+		]
+	]
+}

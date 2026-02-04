@@ -1,0 +1,4490 @@
+{
+	"11351": [
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10260"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020001,
+			null,
+			"天气晴朗。",
+			"天気は快晴。",
+			"날씨는 맑음.",
+			null,
+			null,
+			"The weather is clear.",
+			"The weather was clear."
+		],
+		[
+			"bgm",
+			129
+		],
+		[
+			"msg",
+			2020002,
+			null,
+			"我的心情也很舒畅。",
+			"気分も爽快だ。",
+			"기분도 상쾌하다.",
+			null,
+			null,
+			"And I'm in a soothing mood.",
+			"I feel refreshed."
+		],
+		[
+			"msg",
+			2020003,
+			null,
+			"推着自行车走到基地门口，把识别卡在机器上一摁。#n士兵便朝我敬礼，让到一边。",
+			"自転車を押して基地のゲートまで歩き、IDカードを機械にかざす。#n識別が終わるのと同時に、私に気付いた兵士が道を開け、敬礼した。",
+			"자전거를 끌고 기지 게이트까지 걸어가, ID 카드를 기계에 갖다 댄다.#n인식이 끝나는 동시에, 나를 알아챈 병사가 길을 비키고 경례를 했다.",
+			null,
+			null,
+			"Pushing my bike, I walked to the base entrance and pressed my identification card on the machine. The soldier then saluted me and stepped aside.",
+			"Pushing my bicycle, I walked to the base gate and held my ID card over the machine. As soon as the identification was finished, a soldier noticed me, opened the way, and saluted me."
+		],
+		[
+			"msg",
+			2020004,
+			null,
+			"我点头，走出基地，最后摸了遍口袋，确认了里面有那张折成小块的纸。",
+			"私は軽くうなずき、基地を出た。#nポケットを探り、小さく折りたたまれた紙がそこにあることを確かめる。",
+			"나는 가볍게 고개를 끄덕이고 기지를 나섰다.#n주머니를 더듬어, 작게 접힌 종이가 거기 있는 것을 확인한다.",
+			null,
+			null,
+			"I nodded and walked out of the base, feeling around my pockets one last time to make sure I had the piece of paper folded into small pieces in there.",
+			"I nodded lightly and left the base. I search my pocket to make sure the small folded piece of paper is there."
+		],
+		[
+			"msg",
+			2020005,
+			null,
+			"两架直升机从我头上飞过，朝着基地内的降落点而去。",
+			"頭上をヘリコプターが2機通り過ぎ、基地内の着陸地点へ向かっていく。",
+			"머리 위로 헬리콥터 2대가 지나가며 기지 내 착륙 지점을 향해 날아갔다.",
+			null,
+			null,
+			"Two helicopters flew over my head toward the landing site inside the base.",
+			"Two helicopters pass overhead, heading toward the landing site on the base."
+		],
+		[
+			"msg",
+			2020006,
+			null,
+			"[pause=1]背对它们，我骑上自行车用力一蹬。#s这台二手货便载着我，驶入偶有颠簸的小道。",
+			"[pause=1]そのヘリコプターに背を向け、私は自転車に乗り、ペダルに力を入れた。#sこの中古自転車は私を乗せ、舗装されていない小道を走り始めた。",
+			"[pause=1]나는 그 헬리콥터를 등지고 자전거에 올라타 페달을 힘껏 밟았다.#s이 중고 자전거는 나를 태우고 포장되지 않은 오솔길을 달리기 시작했다.",
+			null,
+			null,
+			"[pause=1]Turning my back on them, I got on my bike and pedaled hard. The #s, a used one, then carries me down the occasionally bumpy trail.",
+			"[pause=1]With my back to that helicopter, I got on my bike and strained the pedals. #sThis used bicycle picked me up and began to ride down the unpaved path."
+		],
+		[
+			"bg",
+			"CG10500"
+		],
+		[
+			"msg",
+			2020007,
+			null,
+			"在街角的快餐店转弯，到了路口等一次红灯。",
+			"街角のファストフード店で曲がり、交差点で信号を待つ。",
+			"골목길의 패스트푸드점에서 방향을 틀고, 교차로에서 신호를 기다린다.",
+			null,
+			null,
+			"Turn at the fast food place on the corner and wait for the red light once at the intersection.",
+			"Turn at a fast food restaurant on a street corner and wait for the light at the intersection."
+		],
+		[
+			"msg",
+			2020008,
+			null,
+			"过街之后的第二家店是一家蛋糕店，我要在那里停下。",
+			"通りを渡った2軒先がケーキ屋で、そこで自転車を止めるつもりだ。",
+			"길을 건너 두 집 앞이 케이크 가게이고, 거기에서 자전거를 멈출 생각이다.",
+			null,
+			null,
+			"The second store after crossing the street is a cake store, and I'm going to stop there.",
+			"Two doors down across the street is a cake shop, where I plan to park my bike."
+		],
+		[
+			"msg",
+			2020009,
+			null,
+			"店里的老板正看着电视，余光扫到了正在锁车的我，向我打了个招呼。",
+			"テレビを見ていたケーキ屋の主人は、私が自転車をロックしているのを横目で認めるとあいさつしてきた。",
+			"TV를 보고 있던 케이크 가게 주인은 내가 자전거를 잠그는 것을 눈치채고는 인사를 건넸다.",
+			null,
+			null,
+			"The owner of the store was watching TV when he caught a glimpse of me, who was locking up my car, and greeted me.",
+			"The owner of the cake shop, who was watching TV, greeted me when he recognized me locking up my bike with a sideways glance."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020010,
+			null,
+			"理事，什么时候发射啊？#n老头我也想看大场面哩。",
+			"理事、いつ発射するんだい？#n俺も一大イベントをこの目で見てみたいよ。",
+			"이사님, 언제 발사할 거예요?#n저도 큰 행사를 이 눈으로 직접 보고 싶어요.",
+			null,
+			null,
+			"Councilor, when's the launch? I'd like to see the big game, too, old man.",
+			"Director, when are you going to launch? I'd like to see the big event with my own eyes too."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020011,
+			null,
+			"看日内瓦那边的意思。#s乐观的话，这个赛季结束之前。",
+			"ジュネーブの考え次第だろうな。#s順調に進めば、このシーズン終了前にはお見せ出来るはずだ。",
+			"제네바의 생각에 달렸지.#s순조롭게 진행된다면 이번 시즌이 끝나기 전에 보여줄 수 있을 거야.",
+			null,
+			null,
+			"Depends on the Geneva side of things. #s optimistic by the end of this season.",
+			"I guess it depends on what Geneva thinks. If #s go well, we should be able to show you before the end of this season."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020012,
+			null,
+			"我用下巴指了指那台电视，上面正播着球赛。",
+			"私はテレビをあごで示した。#nそこには試合の中継が映っている。",
+			"나는 턱으로 TV를 가리켰다.#n거기에는 경기 중계가 방영되고 있었다.",
+			null,
+			null,
+			"I pointed with my chin at the TV, which was showing a ball game.",
+			"I indicated the TV with my chin. There it was showing a live broadcast of the match."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020013,
+			null,
+			"来个蛋糕。",
+			"ケーキの宅配を頼む。",
+			"케이크 배달을 부탁한다.",
+			null,
+			null,
+			"Have a cake.",
+			"Ask for cake delivery."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020014,
+			null,
+			"多大？",
+			"サイズは？",
+			"사이즈는?",
+			null,
+			null,
+			"How big?",
+			"Size."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020015,
+			null,
+			"最大的，办公室里新人的名字有点长，小的放不下。",
+			"一番大きいサイズで。オフィスの新人の名前が長くてね、小さいケーキだと収まらないんだ。",
+			"가장 큰 사이즈로. 사무실 신입 이름이 길어서 작은 케이크로는 안 들어가겠어.",
+			null,
+			null,
+			"Max, the names of the new people in the office are a bit too long for the small ones to fit.",
+			"The biggest size. The new guy in the office has a long name, and a small cake just wouldn't fit."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020016,
+			null,
+			"你是找借口想多吃点蛋糕吧，老头知道，哈哈哈哈。",
+			"そんなことを言って、たくさん食べたいだけだろう？わかっているぞ。ハハハハ。",
+			"그런 말하면서 많이 먹고 싶은 거잖아? 다 알아. 하하하하.",
+			null,
+			null,
+			"You're looking for an excuse to have more cake, the old man knows that, hahahaha.",
+			"You just want to say that and eat a lot, don't you? I know, I know. Ha ha ha."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020017,
+			null,
+			"是啊，说不定你才该当我的秘书。",
+			"そうだな。あなたこそ私の秘書になるべきかもしれない。",
+			"그렇군. 너야말로 내 비서가 되어야 할 사람일지도 모르겠네.",
+			null,
+			null,
+			"Yeah, well, maybe you should be my secretary.",
+			"Yes, you're right. Maybe you should be my secretary."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020018,
+			null,
+			"老板用当地语言说了几句玩笑话，又按了几下屏幕，机器吐出一张单据。",
+			"店主とこの地の言葉でいくつか冗談を言い合った。#n彼が話をしつつ画面を何度か押すと、機械からレシートが出てきた。",
+			"주인과 이곳 말로 농담을 몇 마디 나눴다.#n그가 이야기하며 화면을 몇 번 누르자, 기계에서 영수증이 나왔다.",
+			null,
+			null,
+			"The owner made a few jokes in the local language, pressed the screen a few more times, and the machine spit out a bill.",
+			"The owner and I shared a few jokes in the language of the region. He pressed the screen a few times while he talked, and a receipt came out of the machine."
+		],
+		[
+			"msg",
+			2020019,
+			null,
+			"我收起单据，又瞟了一眼电视，老板便拿出了一盘坚果。#n我靠在柜台上和他一起看起了球赛。",
+			"私はレシートを受け取った後、再びテレビをちらりと見た。察しの良い店主がナッツの皿を取り出したのを合図に、私はカウンターにもたれかかると、店主と一緒に試合観戦を始めた。",
+			"나는 영수증을 받은 후, 다시 TV를 흘끗 봤다. 눈치 빠른 주인이 견과류 접시를 꺼내는 걸 신호로, 나는 카운터에 기대어 주인과 함께 시합 관전을 시작했다.",
+			null,
+			null,
+			"I collected the slip and glanced at the TV again, and the owner brought out a plate of nuts. I leaned against the counter and watched the game with him.",
+			"After I received my receipt, I glanced at the TV again. As if on cue, the perceptive proprietor pulled out a plate of nuts, I leaned against the counter and began watching the game with the proprietor."
+		],
+		[
+			"msg",
+			2020020,
+			null,
+			"和纽约或者日内瓦相比，这里的时光流动得更悠闲。",
+			"ニューヨークやジュネーブに比べ、ここは時間がゆっくりと流れている。",
+			"뉴욕이나 제네바에 비해 여긴 시간이 느리게 흐르는 것 같다.",
+			null,
+			null,
+			"Time flows more leisurely here than in New York or Geneva.",
+			"Compared to New York or Geneva, time passes more slowly here."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020021,
+			null,
+			"到时候#s你会在上面吗？",
+			"その時には、#sあんたも行くのか？",
+			"그때쯤이면, #s너도 가는 거야?",
+			null,
+			null,
+			"Will you be on it by then #s?",
+			"Will #s you be there then?"
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020022,
+			null,
+			"到球场去？",
+			"球場に？",
+			"구장에?",
+			null,
+			null,
+			"To the ballpark?",
+			"At the ballpark?"
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020023,
+			null,
+			"到天上去。",
+			"空の上だよ。",
+			"하늘 위야.",
+			null,
+			null,
+			"Go to heaven.",
+			"It's in the sky."
+		],
+		[
+			"msg",
+			2020024,
+			null,
+			"到太空上。",
+			"宇宙に。",
+			"우주로.",
+			null,
+			null,
+			"To space.",
+			"Space."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020025,
+			null,
+			"我老了，而且两年前打仗受了伤，该年轻人去了。",
+			"私はもう歳だし、2年前の戦いで負傷してしまってね。あとは若い人に任せるべきだろう。",
+			"나는 이미 나이도 많고, 2년 전 싸움에서 부상까지 입었어. 이젠 젊은이들에게 맡겨야 할 때지.",
+			null,
+			null,
+			"I'm old, and wounded in the war two years ago, and it's time for young men to go.",
+			"I'm too old, and I was injured in a fight two years ago. The rest should be left to younger people."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020026,
+			null,
+			"也是，您是理事大人了，应该坐在教练席上才对。",
+			"それもそうだ。あんたは理事様だから、監督席に座っているべきだな。",
+			"그러게 말이야. 당신은 이사님이니까, 감독석에 앉아 있어야겠네.",
+			null,
+			null,
+			"Yes, you're a councilor, you should be in the coach's chair.",
+			"That's true too. Since you are a board member, you should be sitting in the director's seat."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020027,
+			null,
+			"我吃着坚果，一边轻轻点头。",
+			"私はナッツを食べながら、軽くうなずいた。",
+			"나는 너트를 먹으면서, 가볍게 고개를 끄덕였다.",
+			null,
+			null,
+			"I nodded softly as I ate my nuts.",
+			"I nodded lightly as I ate my nuts."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020028,
+			null,
+			"不过，老头又觉得你不像是这样的人，#s你很想去吧？",
+			"しかし、今のあんたの様子だとそうは見えないな。#s本当は行きたいんだろう？",
+			"하지만, 지금 당신의 모습을 보면 그렇게 보이지 않는걸. #s사실은 가고 싶은 거지?",
+			null,
+			null,
+			"But then again, the old man doesn't think you're like that, #s You're eager to go, aren't you?",
+			"But the way you look right now, it doesn't look that way. #sYou really want to go, don't you?"
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020029,
+			null,
+			"嗯。",
+			"ああ。",
+			"아.",
+			null,
+			null,
+			"Uh-huh.",
+			"Oh."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020030,
+			null,
+			"。",
+			"。",
+			".",
+			null
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020031,
+			null,
+			"天上是什么样子？",
+			"空の上はどんな感じだ？",
+			"하늘 위는 어떤 느낌이야?",
+			null,
+			null,
+			"What's it like in the sky?",
+			"What's it like up in the sky?"
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020032,
+			null,
+			"……#s很美丽。",
+			"……#sとても美しい。",
+			"……#s아주 아름다워.",
+			null,
+			null,
+			"......#s is beautiful.",
+			"......#s so beautiful."
+		],
+		[
+			"msg",
+			2020033,
+			null,
+			"地球，很美丽。",
+			"地球は、本当に美しい。",
+			"지구는, 정말 아름다워.",
+			null,
+			null,
+			"Earth, it's beautiful.",
+			"The earth is truly beautiful."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020034,
+			null,
+			"在上面真的能看到金字塔吗？",
+			"上空からでもピラミッドが見えるそうだが、本当なのか？",
+			"상공에서도 피라미드가 보인다던데, 정말인가?",
+			null,
+			null,
+			"Can you really see the pyramids from up there?",
+			"I heard that you can see the pyramids even from the sky above. Is it true?"
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020035,
+			null,
+			"怎么不说还能看到你的蛋糕店呢。",
+			"そこはこのケーキ屋が見えるか聞くべきだろう？",
+			"거기는 이 케이크 가게가 보이냐고 물어봐야 할 것 같은데?",
+			null,
+			null,
+			"Why don't you say you can still see your cake store.",
+			"Shouldn't you ask if you can see this cake shop there?"
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020036,
+			null,
+			"可以的话，老头就弄一个大大的招牌，这样过路的外星人就会知道，这里有家蛋糕店呢！",
+			"ハハハ。それじゃあ大きな看板を作って、通りかかる宇宙人に向けて、ここにケーキ屋があるって知らせるよ！",
+			"하하하. 그럼 큰 간판을 만들어서 지나가는 우주인들에게 여기에 케이크 가게가 있다고 알려줄게!",
+			null,
+			null,
+			"If you can, the old man will make a big sign so that passing aliens will know that there is a cake store here!",
+			"Hahaha. I'll make a big sign then and let all the aliens passing by know that there is a cake shop here!"
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020037,
+			null,
+			"……我在上面往下看，只能看到一颗蓝色的，圆融的整体。",
+			"ああ。#n……宇宙から見ると、青くて丸い球体しか見えない。",
+			"아아.#n…… 우주에서 보면 파랗고 둥근 구체밖에 안 보여.",
+			null,
+			null,
+			"...... I looked down from above and could only see a blue, rounded whole.",
+			"Oh. From the ...... universe, all you see is a blue, round sphere."
+		],
+		[
+			"msg",
+			2020038,
+			null,
+			"让人觉得，世界本就应当是一个整体。",
+			"私は、世界は本来一つであるべきだと考えている。",
+			"나는 세상은 본래 하나여야 한다고 생각해.",
+			null,
+			null,
+			"It makes one feel that the world is supposed to be one.",
+			"I believe that the world should inherently be one."
+		],
+		[
+			"msg",
+			2020039,
+			null,
+			"纽约的人把我流放，但他们却给了我那个项目和重返星辰的希望。",
+			"ニューヨークの連中は私を左遷したが、彼らは私にそのプロジェクトと……星へと戻る希望を与えてくれた。",
+			"뉴욕 녀석들은 나를 좌천시켰지만, 그들은 나에게 그 프로젝트와…… 별로 돌아갈 희망을 주었어.",
+			null,
+			null,
+			"The people in New York exiled me, but they gave me that program and the hope of returning to the stars.",
+			"The New York guys left me, but they gave me hope to return to that project and to the ...... planet."
+		],
+		[
+			"msg",
+			2020040,
+			null,
+			"[pause=1]为了这份希望我就不会鱼死网破。#s这就是这样美丽的东西。",
+			"[pause=1]その希望がある限り、何かを失ったとは思わない。#s私に残された希望は、それほどまでに美しいものなんだ。",
+			"[pause=1]그 희망이 있는 한, 뭔가를 잃었다고 생각하지 않아.#s내게 남은 희망은 그만큼 아름다운 거야.",
+			null,
+			null,
+			"[PAUSE=1]I wouldn't fish for this hope. #s This is such beautiful stuff.",
+			"[pause=1]As long as I have that hope, I don't think I've lost anything. #sThe hope I have left is such a beautiful thing."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020041,
+			null,
+			"#s像是蛋糕上的蓝色装饰糖？",
+			"#sケーキにかける青いアイシングシュガーみたいなものかい？",
+			"#s케이크에 뿌리는 파란 아이싱슈가 같은 거야?",
+			null,
+			null,
+			"#s like blue decorative candies on a cake?",
+			"Is that like the blue icing sugar you put on #s cakes?"
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020042,
+			null,
+			"如果那么好看的糖，请撒在蛋糕上，新人会高兴的。",
+			"そのアイシングシュガーとやらがそんなに美しいものならば、ケーキの上にかけてくれないか。新人が喜ぶだろうから。",
+			"그 아이싱슈라는 게 그렇게 아름다운 거라면, 케이크 위에 뿌려주지 않을래. 신입이 좋아할 테니까.",
+			null,
+			null,
+			"If it's that good looking sugar, please sprinkle it on the cake, the couple will be happy.",
+			"If that icing sugar or whatever it's called is so beautiful, please pour it over the cake. I'm sure the newcomers would love it."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020043,
+			null,
+			"知道了知道了，理事你就是这样喜欢所有人的人嘛，认识的不认识的，全都一样。",
+			"はいよ。理事は本当にみんなのことが好きなんだな。知っている人も知らない人もみんな同じだ。",
+			"그래. 이사님은 정말 모두를 좋아하시는구만. 아는 사람도 모르는 사람도 모두 똑같이.",
+			null,
+			null,
+			"I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, I know, you like everyone, everyone, everyone, everyone, everyone.",
+			"Yes. The board members really like everyone. Everyone I know and everyone I don't."
+		],
+		[
+			"msg",
+			2020044,
+			null,
+			"这就是所谓领袖魅力吗？",
+			"それがリーダーのカリスマ性ってやつかい？",
+			"그게 리더의 카리스마라는 거야?",
+			null,
+			null,
+			"Is that what you call charismatic leadership?",
+			"Is that what you call the charisma of a leader?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020045,
+			null,
+			"领袖魅力？我没有那种东西。",
+			"ははは、そんなものはないよ。",
+			"하하하, 그런 건 없어.",
+			null,
+			null,
+			"Leadership charisma? I don't have that kind of thing.",
+			"Haha, there is no such thing."
+		],
+		[
+			"msg",
+			2020046,
+			null,
+			"我只是觉得，来到这座基地的人都是被流放者和斗争的失败者。",
+			"ただ思うんだ。この基地に来るのは、追放された者や戦いに敗れた者ばかり。",
+			"그저 생각해. 이 기지에 오는 건 추방당한 자나 싸움에서 진 자뿐이야.",
+			null,
+			null,
+			"I just think that the people who come to this base are exiles and losers in the struggle.",
+			"Just think. The only people who come to this base are the outcasts and those who have lost their battles."
+		],
+		[
+			"msg",
+			2020047,
+			null,
+			"所以……我想要让他们觉得，在这里的生活，#s是有意义的。",
+			"だから……彼らにはここでの暮らしが#s有意義なものだと思ってもらいたい。",
+			"그러니까…… 그들에게 여기에서의 삶이 #s의미 있는 것이라고 생각해 주었으면 해.",
+			null,
+			null,
+			"So ...... I want to make them feel that life here, #s meaningful.",
+			"So ...... we want them to think that life here is #s meaningful."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020048,
+			null,
+			"干嘛露出这么复杂的表情，球场上的局势有那么复杂吗。",
+			"どうしてそんな複雑な表情をするんだ？そんなに複雑な局面なのか？",
+			"왜 그렇게 복잡한 표정을 짓는 거야? 그렇게 복잡한 국면인가?",
+			null,
+			null,
+			"Why are you showing such a complicated face, is the situation on the court that complicated.",
+			"Why do you look so complicated? Is it really such a complicated phase?"
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020049,
+			null,
+			"哈，我从来看不明白这些较量。",
+			"いや、こういった勝負事はさっぱりでね。",
+			"아니, 이런 승부사는 전혀 몰라.",
+			null,
+			null,
+			"Ha, I can't understand these comparisons from watching.",
+			"No, I have no clue about this kind of competition."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020050,
+			null,
+			"理事，你是个空想家，是种下种子却无法等到开花的人，否则你就不会在这里和一个蛋糕店老头一起看球赛了。",
+			"理事、あんたは夢想家だ。種をまいても花が咲くのを待てないタイプのな。でなければ、ここでケーキ屋のおっさんと一緒に試合を観たりしないだろう。",
+			"이사, 넌 몽상가야. 씨를 뿌려도 꽃이 피는 걸 기다리지 못하는 타입이지. 그렇지 않다면 여기에서 케이크 가게 아저씨와 함께 시합을 관전하진 않을 거야.",
+			null,
+			null,
+			"Councilor, you're a pipe dreamer, someone who plants seeds but can't wait for them to bloom, or you wouldn't be here watching a football game with an old cake store man.",
+			"Director, you are a dreamer. You're the type of person who sows a seed but can't wait for it to bloom. Otherwise, you wouldn't be here watching the game with the old man in the cake shop."
+		],
+		[
+			"msg",
+			2020051,
+			null,
+			"也不会兴冲冲地在这个世界的角落垒起沙堡，费尽心思地考虑每一个部下的感受，还给自己的部门起一个那么夸张的代称……是叫什么来着……第一……第一……",
+			"そして、この世界の片隅で砂の城を築き、すべての部下の気持ちを丁寧に汲み取り、さらには自分の部署にそんな大げさな名前を付けることもないだろう……なんて名前だったか……第一……第一……。",
+			"그리고 이 세계의 구석에서 모래성을 쌓고, 모든 부하들의 마음을 세심히 헤아리며, 심지어 자기 부서에 그런 과장된 이름을 붙이지도 않을 거야…… 뭐라고 했더라…… 제일…… 제일…….",
+			null,
+			null,
+			"Nor would you be so giddy as to build sandcastles in the corners of this world, take pains to consider the feelings of each and every one of your minions, and give your own department such an over-the-top pronoun ...... what is it called ...... first... ...First ......",
+			"And you would not build a sand castle in this corner of the world, carefully taking care of the feelings of all your subordinates, and even giving your department such an exaggerated name ...... what a name it was...... The first ...... first ......."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020052,
+			null,
+			"第一军团。",
+			"第一軍団。",
+			"제일 군단.",
+			null,
+			null,
+			"First Legion.",
+			"First Corps."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020053,
+			null,
+			"对对，“探索星海的第一支武装”。",
+			"そうそう、「星海を探索する第一武装軍団」。",
+			"그래 그래, 「성해를 탐험하는 제일 무장 군단」.",
+			null,
+			null,
+			"Yeah, yeah, \"the first arm to explore the sea of stars.\"",
+			"Yes, yes, the \"First Armed Corps to Explore the Sea of Stars\"."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020054,
+			null,
+			"我承认这个名字有点不切实际。",
+			"その名前がやや現実離れしていることは認める。",
+			"그 이름이 약간 현실과 동떨어져 있다는 건 인정해.",
+			null,
+			null,
+			"I admit the name is a bit unrealistic.",
+			"I admit that the name is somewhat unrealistic."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020055,
+			null,
+			"但我觉得很棒，我那个老不在家的儿子也这么觉得。",
+			"それでも、すごいことに変わりはない。いつも家にいない俺のせがれもそう思っているよ。",
+			"그래도, 대단한 건 변함없어. 항상 집에 안 있는 내 자식도 그렇게 생각하고 있지.",
+			null,
+			null,
+			"But I think it's great, and so does my old absentee son.",
+			"Still, it's still awesome. My sire, who isn't always home, thinks so, too."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020056,
+			null,
+			"谬赞了。",
+			"ほめ過ぎだよ。",
+			"과찬이야.",
+			null,
+			null,
+			"I'm sorry.",
+			"That's too much praise."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020057,
+			null,
+			"也在这时球赛结束了，我从柜台边离开。",
+			"その時、ちょうど試合が終わり、私はカウンターから離れた。",
+			"그때 마침 시합이 끝나고, 나는 카운터에서 떨어졌다.",
+			null,
+			null,
+			"Also at this point the ball game ended and I left by the counter.",
+			"Just then the match was over and I left the counter."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020058,
+			null,
+			"蛋糕我会送到的，谢谢你陪老头聊天了。",
+			"ケーキは送り届けるよ。話し相手になってくれてありがとう。",
+			"케이크는 보내줄게. 이야기 상대가 되어줘서 고마워.",
+			null,
+			null,
+			"I'll deliver the cake. Thanks for talking to the old man.",
+			"I'll send the cake on its way. Thanks for talking to me."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020059,
+			null,
+			"嗯，走了。",
+			"ああ。また来るよ。",
+			"아. 또 올게.",
+			null,
+			null,
+			"Uh, go.",
+			"Oh. I'll be back."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020060,
+			null,
+			"我离开蛋糕店，弯腰去开自行车的软锁。",
+			"私はケーキ屋から出て、かがんで自転車のロックを外した。",
+			"나는 케이크 가게에서 나와, 웅크려 자전거 자물쇠를 풀었다.",
+			null,
+			null,
+			"I left the cake store and bent down to unlock the soft lock on my bike.",
+			"I walked out of the cake shop, bent down and unlocked my bike."
+		],
+		[
+			"msg",
+			2020061,
+			null,
+			"回去吧。",
+			"戻ろう。",
+			"돌아가자.",
+			null,
+			null,
+			"Go back.",
+			"Let's go back."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020062,
+			null,
+			"等下，理事，理事阁下！",
+			"待ってくれ、理事、理事！",
+			"기다려, 이사, 이사!",
+			null,
+			null,
+			"Wait a minute, Councilor, Your Honor!",
+			"Wait a minute, Director, Director!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020063,
+			null,
+			"有什么事我忘了吗？",
+			"何か忘れているだろうか？",
+			"뭔가 잊은 거 있나?",
+			null,
+			null,
+			"Is there something I'm forgetting?",
+			"Am I forgetting something?"
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020064,
+			null,
+			"哦，你儿子的婚礼我会去的，我记在日程表上了。",
+			"ああ、息子さんの結婚式には行くよ。スケジュールにも入れてある。",
+			"아, 아들 결혼식엔 갈게. 스케줄에도 넣어뒀어.",
+			null,
+			null,
+			"Oh, I'll be at your son's wedding. I put it on my calendar.",
+			"Yes, I will be at your son's wedding. I have it on my schedule."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020065,
+			null,
+			"哎呀不是老头我的事，是您的事。",
+			"いや、俺のことじゃなくて、あんたのことだよ。",
+			"아니, 내 얘긴 아니고, 네 얘기야.",
+			null,
+			null,
+			"Alas it's not about me old man, it's about you.",
+			"No, I'm not talking about me, I'm talking about you."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020066,
+			null,
+			"我的事？电视上播什么新闻了吗？",
+			"私のこと？ニュースにでも映っていただろうか。",
+			"나 말인가? 뉴스에라도 나왔던 걸까.",
+			null,
+			null,
+			"About me? Is there any news on TV?",
+			"Is it me? Was it on the news?"
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020067,
+			null,
+			"哎呀，名字呢？我得写在蛋糕上。",
+			"いやいや、名前は？ケーキに名前を書かないと。",
+			"아니 아니, 이름은? 케이크에 이름을 쓰지 않으면.",
+			null,
+			null,
+			"Oops, where's the name? I have to write it on the cake.",
+			"No, no, no. What's your name? I have to write my name on the cake."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020068,
+			null,
+			"名字？",
+			"名前？",
+			"이름?",
+			null,
+			null,
+			"Name?",
+			"Name?"
+		],
+		[
+			"msg",
+			2020069,
+			null,
+			"哦，对，我忘把新人的名字告诉你了。",
+			"ああ、そうだった。新人の名前を伝え忘れていたな。",
+			"아, 그랬지. 신입 이름을 말하는 걸 깜빡했군.",
+			null,
+			null,
+			"Oh, yeah, I forgot to give you the new guy's name.",
+			"Oh, that's right. You forgot to tell us the name of the new guy."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020070,
+			null,
+			"我站了起来，从口袋里拿出了那张叠好的纸。",
+			"私は立ち上がり、折りたたまれた紙をポケットから取りだした。",
+			"나는 일어나서 접힌 종이를 주머니에서 꺼냈다.",
+			null,
+			null,
+			"I stood up and took the folded piece of paper out of my pocket.",
+			"I stood up and took the folded paper out of my pocket."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020071,
+			null,
+			"她的名字我搞不懂，所以特地抄在了纸上。",
+			"彼女の名前は、忘れないように紙に書いておいたんだ。",
+			"그녀의 이름은, 잊지 않도록 종이에 적어둔 거야.",
+			null,
+			null,
+			"I couldn't figure out her name, so I made a point of copying it on a piece of paper.",
+			"I wrote her name down on a piece of paper so I wouldn't forget it."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020072,
+			null,
+			"神州人？",
+			"神州人かい？",
+			"신주 사람이야?",
+			null,
+			null,
+			"A man from God's country?",
+			"Are you a Jinsyuan?"
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020073,
+			null,
+			"极东人，我看看。",
+			"極東の人間だよ。#nこれを見てくれ。",
+			"극동 사람이야.#n이걸 봐.",
+			null,
+			null,
+			"Extreme Easterners, let's see.",
+			"I'm from the Far East. Look at this."
+		],
+		[
+			"msg",
+			2020074,
+			null,
+			"嗯听好了，I-C-H-I……K-A……",
+			"I-C-H-I……K-A……",
+			"I-C-H-I……K-A……",
+			null,
+			null,
+			"Well listen up, I-C-H-I......K-A......",
+			"I-C-H-I......K-A......"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020075,
+			null,
+			"“滴滴滴滴！”",
+			"「ピピピピ！」",
+			"「 삐삐삐삐!」",
+			null,
+			null,
+			"\"Drip, drip, drip!\"",
+			"Bleepy!\""
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020076,
+			null,
+			"稍等我接个电话。",
+			"電話だ。——すぐに戻る。",
+			"전화왔어. —— 금방 돌아올게.",
+			null,
+			null,
+			"Hold on a second I'll take a call.",
+			"Phone. ---I'll be right back."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020077,
+			null,
+			"——",
+			"——",
+			"——",
+			null
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020078,
+			null,
+			"喂？",
+			"もしもし？",
+			"여보세요?",
+			null,
+			null,
+			"Hello?",
+			"Hello?"
+		],
+		[
+			"msg",
+			2020079,
+			null,
+			"嗯我在蛋糕店，你在机场了？这么早去？",
+			"ああ、今ケーキ屋にいる。……空港？こんなに早く発つのか？",
+			"아, 지금 케이크 가게에 있어. ...공항? 이렇게 일찍 출발하는 거야?",
+			null,
+			null,
+			"Uh, I'm at the cake store. You're at the airport? You're at the airport?",
+			"Yeah, I'm at the cake shop. ...... airport? You're leaving this early?"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"msg",
+			2020080,
+			null,
+			"什么？",
+			"何？",
+			"뭐?",
+			null,
+			null,
+			"What?",
+			"What?"
+		],
+		[
+			"msg",
+			2020081,
+			null,
+			"什么时候的事？",
+			"それはいつのことだ？",
+			"그건 언제 일이야?",
+			null,
+			null,
+			"When was that?",
+			"When was that?"
+		],
+		[
+			"msg",
+			2020082,
+			null,
+			"……",
+			"……",
+			"......",
+			null
+		],
+		[
+			"msg",
+			2020083,
+			null,
+			"那边是怎么说的？",
+			"向こうはなんと言っている？",
+			"저쪽은 뭐라고 하던?",
+			null,
+			null,
+			"What does it say over there?",
+			"What's the other side saying?"
+		],
+		[
+			"msg",
+			2020084,
+			null,
+			"你怎么看？",
+			"どう思う？",
+			"어떻게 생각해?",
+			null,
+			null,
+			"What do you think?",
+			"What do you think?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020085,
+			null,
+			"。",
+			"。",
+			".",
+			null
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020086,
+			null,
+			"好，我知道了，你注意安全，马上回基地，安全第一，不要考虑省钱。",
+			"わかった。くれぐれも気をつけて基地に帰るんだ。安全が最優先だ。費用の心配は要らない。",
+			"알겠어. 조심히 기지로 돌아가라. 안전이 최우선이야. 비용 걱정은 하지 마.",
+			null,
+			null,
+			"Okay, I got it. You stay safe, go back to base right away. Safety first, don't think about saving money.",
+			"All right. Take care of yourself back at the base. Your safety is our priority. Don't worry about the cost."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020087,
+			null,
+			"“哔！”",
+			"「ピッ！」",
+			"「삑!」",
+			null,
+			null,
+			"\"Beep!\"",
+			"Bleep!\""
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020088,
+			null,
+			"要提前回去？",
+			"早めに帰るのか？",
+			"일찍 돌아가는 거야?",
+			null,
+			null,
+			"Going back early?",
+			"Are you leaving early?"
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020089,
+			null,
+			"……蛋糕我照样要，但名字不用写了。",
+			"……ケーキはそのまま頼むが、名前は書かなくていい。",
+			"……케이크는 그대로 부탁하지만, 이름은 쓰지 말아줘.",
+			null,
+			null,
+			"...... cake I'll take it as is, but the name doesn't have to be written.",
+			"...... Ask for the cake as is, but you don't have to write your name on it."
+		],
+		[
+			"speaker",
+			320890
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020090,
+			null,
+			"怎么了？",
+			"どうしたんだい？",
+			"무슨 일이야?",
+			null,
+			null,
+			"What's going on?",
+			"What's wrong?"
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020091,
+			null,
+			"我办公室的那个新部下……#s她不会来了。",
+			"新しい部下だが……#s彼女はもう来ない。",
+			"새로운 부하지만...#s그녀는 더 이상 오지 않아.",
+			null,
+			null,
+			"That new ministry in my office ......#s she won't be coming.",
+			"New subordinate, but ......#s she's not coming back."
+		],
+		[
+			"bgm",
+			131
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020092,
+			null,
+			"。",
+			"。",
+			".",
+			null
+		],
+		[
+			"msg",
+			2020093,
+			null,
+			"铁师一夏不会来了。",
+			"鉄師一夏は来ない。",
+			"철사 이치카는 오지 않는다.",
+			null,
+			null,
+			"Ironmaster Ixia won't be coming.",
+			"Iron Master Issatsu is not coming."
+		],
+		[
+			"msg",
+			2020094,
+			null,
+			"她死在了纽约的一场动乱之中。",
+			"彼女はニューヨークの動乱の中で命を落とした。",
+			"그녀는 뉴욕의 혼란 속에서 목숨을 잃었다.",
+			null,
+			null,
+			"She died in a disturbance in New York.",
+			"She lost her life during the upheaval in New York."
+		],
+		[
+			"msg",
+			2020095,
+			null,
+			"可惜，最困难的时间已经过去了，而我们还没相互认识呢。",
+			"残念だ。最も苦しい時期が過ぎ去ったばかりで、互いの事もよく知らなかった。",
+			"유감이군. 가장 힘든 시기가 막 지나갔을 뿐인데, 서로에 대해 잘 알지도 못했어.",
+			null,
+			null,
+			"Unfortunately, the hardest time has passed and we haven't even gotten to know each other yet.",
+			"It's a shame. The most difficult time had just passed and we didn't know each other well."
+		],
+		[
+			"msg",
+			2020096,
+			null,
+			"嗯，那时候我是这么想的。",
+			"そう、その時の私はそう思っていた。",
+			"그래, 그때의 나는 그렇게 생각했었다.",
+			null,
+			null,
+			"Well, that's what I thought at the time.",
+			"Yes, that's what I thought at the time."
+		],
+		[
+			"msg",
+			2020097,
+			null,
+			"我还并不知道，这本以为是故事终点的年代，其实是另一个故事的起点。",
+			"私はまだ知らなかった。物語の終わりだと思っていたこの時代が——実は別の物語の始まりであったことを。",
+			"나는 아직 몰랐다. 이야기의 끝이라고 생각했던 이 시대가 —— 사실은 또 다른 이야기의 시작이었다는 것을.",
+			null,
+			null,
+			"I hadn't realized that this era, which I thought was the end of the story, was actually the beginning of another story.",
+			"I did not yet know. I thought it was the end of the story - that this period was actually the beginning of another story."
+		],
+		[
+			"msg",
+			2020098,
+			null,
+			"我更不知道，我将来会经历那么多事情。",
+			"ましてや、経験するとは思ってもみなかった。",
+			"하물며, 경험하리라고는 꿈에도 생각하지 못했다.",
+			null,
+			null,
+			"I had even less idea that I would experience so many things in the future.",
+			"I never thought I would experience it, much less"
+		],
+		[
+			"msg",
+			2020099,
+			null,
+			"那么多……那么多事情。",
+			"あれほど……#s多くのことを。",
+			"그렇게나... #s 많은 것을.",
+			null,
+			null,
+			"So many ...... so many things.",
+			"So much so that ......#s a lot."
+		],
+		[
+			"msg",
+			2020100,
+			null,
+			"空桌事件、伽蓝争夺战、天命重组、余波战争……一次又一次，我会活下来。",
+			"空席事件、ガラン争奪戦、天命の改組、余波戦争……私は何度も何度も生き延びてきた。",
+			"공석 사건, 가란 쟁탈전, 천명의 개편, 여파 전쟁... 나는 몇 번이고 몇 번이고 살아남았다.",
+			null,
+			null,
+			"The Empty Table Incident, the Gamma Scramble, Schicksal Reorganization, and the Aftermath War ...... Over and over again, I will survive.",
+			"I have survived the empty seat incident, the Garang war, the Schicksal reorganization, the aftermath war ...... I have survived many, many times."
+		],
+		[
+			"msg",
+			2020101,
+			null,
+			"然后，同伴们会聚集在我的周围。",
+			"そして、私の周りに仲間が集まった。",
+			"그리고, 내 주위에 동료들이 모여들었다.",
+			null,
+			null,
+			"Then the companions would gather around me.",
+			"And my friends gathered around me."
+		],
+		[
+			"msg",
+			2020102,
+			null,
+			"克里斯玛、拉维妮娅、莱恩……远比我更优秀的年轻人站到了我这一边。",
+			"カリスマ、ラヴィニア、ライアン……私よりもはるかに優秀な若者が私の味方についた。",
+			"카리스마, 라비니아, 라이언... 나보다 훨씬 뛰어난 젊은이들이 내 편이 되어주었다.",
+			null,
+			null,
+			"Krisma, Lavinia, and Lane ...... far better young men than me came over to my side.",
+			"Charisma, Lavinia, and Ryan ......, much better young men than me, were on my side."
+		],
+		[
+			"msg",
+			2020103,
+			null,
+			"甚至铁师一夏，也以寒铁之名再次加入了我的事业中。",
+			"鉄師一夏さえも、寒鉄の名で再び私の仕事に加わった。",
+			"철사 일하마저도, 한철이라는 이름으로 다시 내 일에 합류했다.",
+			null,
+			null,
+			"Even the Iron Master, Ichika, has once again joined me in my endeavors under the name of Cold Iron.",
+			"Even the ironmaster Issatsu joined my work again under the name of Cold Iron."
+		],
+		[
+			"msg",
+			2020104,
+			null,
+			"而直到我生命走向终点的那个瞬间，我都没有背叛自己的理想，我能骄傲地宣称，我让全人类团结在一起。",
+			"そして私の命が尽きるその瞬間まで、私は自分の理想を裏切らなかった。全人類を一つにまとめたと胸を張って言える。",
+			"그리고 내 생명이 다하는 그 순간까지, 나는 나의 이상을 배신하지 않았다. 전 인류를 하나로 모았다고 당당히 말할 수 있다.",
+			null,
+			null,
+			"And until that moment when my life came to an end, I did not betray my ideals, and I can proudly claim that I brought all of humanity together.",
+			"And until the moment my life ended, I did not betray my ideals. I can proudly say that I have united all mankind as one."
+		],
+		[
+			"msg",
+			2020105,
+			null,
+			"但代价是什么呢？",
+			"しかし、その代償は何か？",
+			"하지만, 그 대가는 무엇이었을까?",
+			null,
+			null,
+			"But at what cost?",
+			"But at what cost?"
+		],
+		[
+			"msg",
+			2020106,
+			null,
+			"我打开了禁忌。",
+			"私は禁忌を破った。",
+			"나는 금기를 깼다.",
+			null,
+			null,
+			"I opened Taboo.",
+			"I broke the taboo."
+		],
+		[
+			"msg",
+			2020107,
+			null,
+			"承受了代价，#s代价……可怕的代价。这代价注定了我的结局。",
+			"私は代償を払った。#s代償……恐ろしい代償を。その代償が私の結末を運命づけた。",
+			"나는 대가를 치렀다. #s대가…… 무시무시한 대가를. 그 대가가 나의 결말을 운명지었다.",
+			null,
+			null,
+			"Suffered the price, #s price ...... terrible price. The price that doomed me.",
+			"I paid the price. A #s price ...... terrible price. The price that doomed me to my end."
+		],
+		[
+			"msg",
+			2020108,
+			null,
+			"因此我对那刺杀、那锋刃、那控诉……唯有接受。",
+			"だからこそ、暗殺も、その刃も、訴えも……すべてを受け入れるしかなかった。",
+			"그렇기에, 암살도, 그 칼날도, 고발도…… 모두 받아들일 수밖에 없었다.",
+			null,
+			null,
+			"So the only thing I have to do with that stab, that sharp edge, that accusation ...... is to accept it.",
+			"That is why I had to accept the assassination, its blade, its appeal, ...... everything."
+		],
+		[
+			"msg",
+			2020109,
+			null,
+			"因为，这是基于我的立场，我的信念做出的选择。",
+			"それは私の立場、私の信念にもとづいて行った選択だからだ。",
+			"그것은 나의 입장, 나의 신념에 따라 내린 선택이었기 때문이다.",
+			null,
+			null,
+			"Because, it's a choice based on what I stand for, what I believe in.",
+			"It is a choice I made based on my position and my beliefs."
+		],
+		[
+			"msg",
+			2020110,
+			null,
+			"是我放弃了星空，选择大地。",
+			"私は星空を諦め、大地を選んだ。",
+			"나는 별빛을 포기하고 대지를 선택했다.",
+			null,
+			null,
+			"It was I who gave up the stars for the earth.",
+			"I gave up on the stars and chose the earth."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30569,
+				1,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020111,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020112,
+			null,
+			"女孩，你明白吗？",
+			"少女よ、わかるだろうか？",
+			"소녀여, 알겠는가?",
+			null,
+			null,
+			"Girl, do you understand?",
+			"Girl, do you understand?"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30569,
+				1,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020113,
+			null,
+			"。",
+			"。",
+			".",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020114,
+			null,
+			"女孩，我未曾见过你。",
+			"少女よ、私は君に会ったことはない。",
+			"소녀여, 나는 너를 만난 적이 없다.",
+			null,
+			null,
+			"Girl, I haven't seen you before.",
+			"Girl, I have never met you."
+		],
+		[
+			"msg",
+			2020115,
+			null,
+			"毕竟你出生时，我已死去。",
+			"君が生まれたとき、私は既に死んでいたからな。",
+			"네가 태어났을 때, 나는 이미 죽어 있었으니까.",
+			null,
+			null,
+			"After all, I was dead when you were born.",
+			"Because I was already dead when you were born."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30569,
+				1,
+				false
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020116,
+			null,
+			"该走了。",
+			"そろそろ行かないと。",
+			"이제 가야겠어.",
+			null,
+			null,
+			"It's time to go.",
+			"I have to go soon."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30960,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020117,
+			null,
+			"但如果，女孩，但如果我能与你相见，说上些话……#s哪怕就一两句。",
+			"しかし少女よ、もし私が君に会うことができて、たとえ短い言葉でも……#s話すことができたら。",
+			"하지만 소녀여, 만약 내가 너를 만나서, 아주 짧은 말이라도...#s말할 수 있다면.",
+			null,
+			null,
+			"But if, girl, but if I could meet you and say something ......#s even just a word or two.",
+			"But girl, if I could see you and speak ......#s even a few short words."
+		],
+		[
+			"msg",
+			2020118,
+			null,
+			"我会祝福你。",
+			"君を祝福しよう。",
+			"너에게 축복을 빌어주마.",
+			null,
+			null,
+			"I'll bless you.",
+			"I congratulate you."
+		],
+		[
+			"msg",
+			2020119,
+			null,
+			"无论你要做什么，我都祝福你将来一路顺风。",
+			"君が何をするにせよ、その未来がうまくいくことを祈っている。",
+			"네가 무엇을 하든, 그 미래가 순조롭기를 바란다.",
+			null,
+			null,
+			"Whatever you're going to do, I wish you the best of luck in your future endeavors.",
+			"Whatever you do, I wish you well in that future."
+		],
+		[
+			"msg",
+			2020120,
+			null,
+			"…………………………",
+			"…………………………",
+			"…………………………",
+			null
+		],
+		[
+			"msg",
+			2020121,
+			null,
+			"………………",
+			"………………",
+			"………………",
+			null
+		],
+		[
+			"msg",
+			2020122,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"msg",
+			2020123,
+			null,
+			"她离开这幽暗的空间。",
+			"彼女はこのうす暗い空間から出た。",
+			"그녀는 이 어두운 공간에서 나왔다.",
+			null,
+			null,
+			"She leaves this claustrophobic space.",
+			"She left this dingy space."
+		],
+		[
+			"msg",
+			2020124,
+			null,
+			"随后，火焰燃起。",
+			"そして、炎が燃え上がった。",
+			"그리고, 불길이 타올랐다.",
+			null,
+			null,
+			"The flames then ignited.",
+			"Then the flames flared up."
+		]
+	],
+	"11352": [
+		[
+			"bgm",
+			167
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10536"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020125,
+			null,
+			"——",
+			"——",
+			"——",
+			null
+		],
+		[
+			"msg",
+			2020126,
+			null,
+			"——“看到天上那个东西了吗？好像是个什么娱乐公司搞的，这下真开始过节了。”",
+			"——「空のあれって何なんだ？どっかのエンタメ会社がやってるみたいだけど、今度こそ本当に祭りが始まるのか？」",
+			"——「저 하늘에 있는 건 뭐야? 어느 엔터테인먼트 회사가 하는 거 같은데, 이번엔 진짜로 축제가 시작되는 거야?」",
+			null,
+			null,
+			"- \"See that thing in the sky? Looks like it's some kind of entertainment company that's really starting to get festive.\"",
+			"-- \"What is that thing in the sky? It looks like some entertainment company is doing it, and now the festivities are really starting?\""
+		]
+	],
+	"11353": [
+		[
+			"bgm",
+			167
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10536"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020127,
+			null,
+			"“气球？说起来那个吉祥物脸上的到底是眼睛还是鼻孔。”",
+			"「気球のことですか？それよりも、あのマスコットの顔にある穴は鼻ですよね？」",
+			"「기구 말인가요? 그보다 저 마스코트 얼굴에 있는 구멍은 코 맞죠?」",
+			null,
+			null,
+			"\"Balloons? Speaking of which, are those eyes or nostrils on that mascot's face.\"",
+			"You mean the balloon?\" More importantly, that hole in the mascot's face is his nose, right?\""
+		],
+		[
+			"msg",
+			2020128,
+			null,
+			"——“不知道，搞不清楚才有讨论的价值吧？说起来啊拉妮，是不是同盟军的人都会过来谈生意？”",
+			"——「鼻でも目でも、どっちでもいいだろ？でも、わかりづらいからこうやって話題になるんだろうな。……そういえばラニアット、同盟軍のやつらは商談に来るのか？」",
+			"——「코든 눈이든, 어느 쪽이든 상관없지 않아? 하지만 알아보기 힘들어서 이렇게 화제가 되는 거겠지. ......그런데 라니아트, 동맹군 녀석들은 협상하러 오는 거야?」",
+			null,
+			null,
+			"- \"I don't know, it's the confusion that makes the discussion worthwhile, right? Speaking of which, ah Rani, isn't it true that people from the Allied Forces come over to talk business?\"",
+			"-- \"Nose or eyes, it doesn't matter which, does it? But it's hard to tell, I guess that's why it's talked about like this. ...... Speaking of which, Laniat, are the Alliance guys coming to the business meeting?\""
+		],
+		[
+			"msg",
+			2020129,
+			null,
+			"“好热……”",
+			"「暑いですわ……」",
+			"「덥네요......」",
+			null,
+			null,
+			"\"It's hot ......\"",
+			"It's hot. ......"
+		],
+		[
+			"msg",
+			2020130,
+			null,
+			"——“空调开的不够大吧？”",
+			"——「エアコンが弱いんじゃないか？」",
+			"——「에어컨이 약한 거 아니야?」",
+			null,
+			null,
+			"-- \"The air conditioning isn't turned up enough, is it?\"",
+			"-- \"I think the air conditioner is weak.\""
+		],
+		[
+			"msg",
+			2020131,
+			null,
+			"“你们不热吗？”",
+			"「みなさんは暑くないのですか？」",
+			"「여러분은 안 더우신가요?」",
+			null,
+			null,
+			"\"Aren't you guys hot?\"",
+			"Isn't everyone hot?\""
+		],
+		[
+			"msg",
+			2020132,
+			null,
+			"——“我还好，打游戏呢。精神集中，心静自然凉。”",
+			"——「ボクは平気だぞ。ゲームに集中しているからな。精神を集中していれば、自然と涼しくなるんじゃないか」",
+			"——「난 괜찮아. 게임에 집중하고 있으니까. 정신을 집중하면 자연스럽게 시원해지는 거 아니야?」",
+			null,
+			null,
+			"-- \"I'm okay, playing a game. Mentally focused and calm.\"",
+			"--I'm fine. I'm concentrating on the game. If you keep your mind focused, you'll naturally cool down.\""
+		],
+		[
+			"msg",
+			2020133,
+			null,
+			"“凉不下来啊！”",
+			"「涼しくなりませんわ！」",
+			"「시원해지지 않아요!」",
+			null,
+			null,
+			"\"It won't cool off!\"",
+			"It's not getting any cooler!\""
+		],
+		[
+			"msg",
+			2020134,
+			null,
+			"——“你把背后的披风卸了就不热了。”",
+			"——「背中のマントを外せば少しは涼しくなるだろ……」",
+			"——「등에 망토나 벗으면 좀 시원해지지......」",
+			null,
+			null,
+			"-- \"You won't be hot if you remove the cloak from your back.\"",
+			"-- \"If you take the cape off your back, it'll be a little cooler. ......\""
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"bg",
+			"CG10551"
+		],
+		[
+			"msg",
+			2020135,
+			null,
+			"……我离空调再近点。",
+			"うぅ……もっとエアコンの近くに行きますわ……。",
+			"우우...... 에어컨 더 가까이 가야겠어요......",
+			null,
+			null,
+			"...... I'm a little closer to the air conditioning.",
+			"Ugh ...... I'll go closer to the air conditioner ......."
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"msg",
+			2020136,
+			null,
+			"随你。",
+			"勝手にしろ～",
+			"마음대로 해~",
+			null,
+			null,
+			"As you wish.",
+			"Suit yourself."
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"msg",
+			2020137,
+			null,
+			"呼，感觉舒服了。",
+			"ふぅ、涼しくなりました。",
+			"후우, 시원해졌네.",
+			null,
+			null,
+			"Whew, that feels good.",
+			"Whew, it's cooler now."
+		],
+		[
+			"msg",
+			2020138,
+			null,
+			"继续话题，说起来真有吗？",
+			"話を戻しますが、本当にいるのでしょうか？",
+			"다시 본론으로 돌아가서, 정말 있을까요?",
+			null,
+			null,
+			"Continuing the conversation, is it really true to say?",
+			"Back to the topic, are they really there?"
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"msg",
+			2020139,
+			null,
+			"什么东西？",
+			"何が？",
+			"뭐가?",
+			null,
+			null,
+			"What's that?",
+			"What?"
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"msg",
+			2020140,
+			null,
+			"长空市的下水道里，真有鳄鱼吗？",
+			"長空市の下水道のことです。そこに……本当にワニがいるのでしょうか？",
+			"창공시의 하수도 이야기예요. 거기에... 정말 악어가 있을까요?",
+			null,
+			null,
+			"Are there really alligators in the sewers of Long Hollow?",
+			"It's about the sewage system in Nagora City. Is there ...... really an alligator there?"
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"msg",
+			2020141,
+			null,
+			"是猪。",
+			"ブタだぞ。",
+			"돼지야.",
+			null,
+			null,
+			"It's a pig.",
+			"It's a pig."
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"msg",
+			2020142,
+			null,
+			"啊？",
+			"えっ？",
+			"엥?",
+			null,
+			null,
+			"Huh?",
+			"What?"
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"msg",
+			2020143,
+			null,
+			"前因很复杂，总之是猪。",
+			"説明すると長くなるけど、とにかくブタだぞ。",
+			"설명하자면 길지만, 어쨌든 돼지야.",
+			null,
+			null,
+			"The antecedents are complicated, and in short, they're pigs.",
+			"It's a long story to explain, but anyway, they're pigs."
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"msg",
+			2020144,
+			null,
+			"那……说不定除了猪还有鳄鱼，大家只是看到了猪。",
+			"では……ブタの他にワニもいて、みなさんはブタしか見ていないのかもしれませんね。",
+			"그럼... 돼지 말고 악어도 있고, 여러분은 돼지만 본 걸지도 모르겠네요.",
+			null,
+			null,
+			"Then ...... maybe there are alligators in addition to hogs and people just see hogs.",
+			"Now let's look at ...... There are crocodiles as well as pigs, and you may have only seen pigs."
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"msg",
+			2020145,
+			null,
+			"嘶……我记得鳄鱼是冷血动物，在地下很难晒到太阳，应该不可能生存吧？",
+			"フン……たしかワニは変温動物だから、太陽の光が届かない地下じゃ生き延びられないだろ？",
+			"흠... 확실히 악어는 변온동물이니까, 태양빛이 닿지 않는 지하에서는 살아남지 못할 거 아냐?",
+			null,
+			null,
+			"Hiss ...... I remember that crocodiles are cold-blooded and have a hard time getting sun underground, so they shouldn't be able to survive, right?",
+			"Hn...... I remember that crocodiles are thermotolerant animals, so they can't survive underground where the sun doesn't reach them, right?"
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"msg",
+			2020146,
+			null,
+			"……崩坏能鳄鱼。",
+			"……崩壊エネルギーワニなのかもしれません。",
+			"......붕괴 에너지 악어일지도 모릅니다.",
+			null,
+			null,
+			"...... Honkai can crocodile.",
+			"Maybe it is a ...... Honkai energy crocodile."
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"msg",
+			2020147,
+			null,
+			"崩坏能鳄鱼也是冷血动物吧？",
+			"その崩壊エネルギーワニとやらも変温動物なのか？",
+			"그 붕괴 에너지 악어라는 것도 변온동물인가?",
+			null,
+			null,
+			"Honkai can crocodiles are cold-blooded too, right?",
+			"Is that Honkai energy crocodile some kind of a thermoregulatory animal?"
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"msg",
+			2020148,
+			null,
+			"……背着暖气片的崩坏能鳄鱼。",
+			"……ヒーターを背負ったワニですわ。",
+			"......히터를 맨 악어입니다.",
+			null,
+			null,
+			"The ...... backed heater Honkai can crocodile.",
+			"...... I'm an alligator with a heater on my back."
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"msg",
+			2020149,
+			null,
+			"那它去哪里充……不行，这时候应该——",
+			"電源はどうするんだよ……ダメだ、こういう時は——",
+			"전원은 어떻게 하는 거야...... 안 돼, 이런 때는 ——",
+			null,
+			null,
+			"So where does it go to charge ...... No, this is the time to--",
+			"What about the power supply? ...... No. In times like this--"
+		],
+		[
+			"msg",
+			2020150,
+			null,
+			"阿库莉亚，那个……不吐槽吗？帮帮。",
+			"アクリア、その……突っ込まないのか？#nボクを助けてくれ……。",
+			"아쿠리아, 그...... 말리지 않을 거야?#n나를 도와줘......",
+			null,
+			null,
+			"Arkria, that ...... doesn't spit? Help.",
+			"Arkria, you're not going to shove that ......? Help me out ......."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"msg",
+			2020151,
+			null,
+			"……",
+			"……",
+			"......",
+			null
+		],
+		[
+			"msg",
+			2020152,
+			null,
+			"鳄鱼，可能存在。",
+			"ワニ、いるかもしれないわね。",
+			"악어, 있을지도 모르네.",
+			null,
+			null,
+			"Alligators, may exist.",
+			"Crocodiles, they might be there."
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"msg",
+			2020153,
+			null,
+			"我就说嘛！我刚也推理出来了，是不是背着无线充电的暖气片？",
+			"ですよね！ちょうど推理していたところです。ワイヤレス式の充電ヒーターを背負っているのでしょうか？",
+			"그렇죠! 마침 추리하고 있던 참이에요. 무선식 충전 히터를 지고 있을까요?",
+			null,
+			null,
+			"I told you! I just reasoned it out too, is it a heater with wireless charging on its back?",
+			"Right? I was just guessing. Are you carrying a wireless rechargeable heater on your back?"
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"msg",
+			2020154,
+			null,
+			"你这算什么推理。",
+			"どんな推理だよ！",
+			"무슨 추리야!",
+			null,
+			null,
+			"What kind of reasoning is that.",
+			"What kind of reasoning is that?"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"msg",
+			2020155,
+			null,
+			"长空市人说的下水道和其他城市的下水道指的不是一个东西。",
+			"長空市の人が言う下水道は、他の都市の下水道と違うの。",
+			"창공시 사람들이 말하는 하수도는 다른 도시의 하수도와 달라.",
+			null,
+			null,
+			"When Longhorn people say sewer, they don't mean the same thing as sewers in other cities.",
+			"The sewers that people in Nagora say are different from the sewers in other cities."
+		],
+		[
+			"msg",
+			2020156,
+			null,
+			"地下是有成规模的居民居住的开发区，推测生活废气和人造光可以提供一定的温度。",
+			"地下には住民が住む一定規模の開発エリアがあって、生活の排気や人工光によって一定の温度が保たれていると推測されるわ。",
+			"지하에는 주민이 사는 일정 규모의 개발 구역이 있어서 생활 배기나 인공광으로 일정한 온도가 유지되고 있을 거라고 추측되네.",
+			null,
+			null,
+			"Underneath is a development with sizable residential dwellings, and it is hypothesized that domestic exhaust gases and artificial light could provide some temperature.",
+			"I'm assuming there's a certain size of developed area underground where the residents live, and the exhaust of life and artificial light keep the temperature constant."
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"msg",
+			2020157,
+			null,
+			"为什么有人要住下水道里？",
+			"なぜ下水道に住む人がいるのですか？",
+			"왜 하수도에 사는 사람들이 있나요?",
+			null,
+			null,
+			"Why would anyone want to live in a sewer?",
+			"Why do some people live in sewers?"
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"msg",
+			2020158,
+			null,
+			"那还用问，一定是大平层住腻了想去转换生活，肯定不是因为穷。",
+			"聞くまでもないだろ。きっと、広い家に住み飽きてライフスタイルを変えたいんだ。貧乏だからって理由じゃないと思うぞ。",
+			"물어볼 것도 없잖아. 분명, 넓은 집에 살다 지쳐 라이프스타일을 바꾸고 싶은 거야. 가난해서 그런 건 아닐 거라고 생각해.",
+			null,
+			null,
+			"That goes without asking, it must be that the big flat is tired of living there and wants to go for a life conversion, and it's certainly not because of poverty.",
+			"You don't have to ask. I bet they are tired of living in a big house and want to change their lifestyle. I don't think it's because they're poor."
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"msg",
+			2020159,
+			null,
+			"嗯……所以不会有背着暖气片的鳄鱼吗？",
+			"つまり……ヒーターを背負ったワニはいないということですか？",
+			"그러니까……히터를 멘 악어는 없다는 말씀이신가요?",
+			null,
+			null,
+			"Hmmm ...... so there won't be a gator with a heater on his back?",
+			"So you are saying there are no alligators with ...... heaters on their backs?"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"msg",
+			2020160,
+			null,
+			"鳄鱼手很短。",
+			"……ワニの手足は短いのよ。",
+			"……악어의 팔다리는 짧아.",
+			null,
+			null,
+			"Crocodile hands are short.",
+			"...... crocodiles have short limbs."
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"msg",
+			2020161,
+			null,
+			"对哦……啊结束思考之后又觉得好热。卡琳不是去买饮料了吗？什么时候回来啊？",
+			"そうですね……あぁ、考え事が済んだらまた暑く感じてきましたわ。カリンは飲み物を買いに行ったのですよね？いつ戻ってくるのですか？",
+			"그렇네요……아, 생각할 거리를 다 하니 다시 더워지기 시작했어요. 카린은 음료 사러 갔죠? 언제 돌아오나요?",
+			null,
+			null,
+			"Right Oh ...... ah end thinking after feel so hot again. Karin did not go to buy drinks? When will she be back?",
+			"Yes. ...... Oh, it's starting to feel hot again once I'm done thinking about it. Karin went to get a drink, right? When will you be back?"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"msg",
+			2020162,
+			null,
+			"现在。",
+			"今よ。",
+			"지금이야.",
+			null,
+			null,
+			"Now.",
+			"Now."
+		]
+	],
+	"11354": [
+		[
+			"bgm",
+			167
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"bg",
+			"CG10554"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020163,
+			null,
+			"哟，我回来了~",
+			"よっと、たっだいま～！",
+			"자, 다녀왔어~!",
+			null,
+			null,
+			"Yo, I'm back!",
+			"Yo, I'm back!"
+		],
+		[
+			"msg",
+			2020164,
+			null,
+			"自己把点的饮料拿走。刚刚在聊什么？",
+			"自分の飲み物を取ってね～#nところでティアラ、今何の話をしてたの？",
+			"자기 음료 가져가~#n그런데 티아라, 지금 무슨 이야기하고 있었어?",
+			null,
+			null,
+			"Take your own drink order. What were we talking about?",
+			"Get your own drink - by the way, Tiara, what were you just talking about?"
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"msg",
+			2020165,
+			null,
+			"聊身上绑暖气片的鳄鱼。",
+			"ヒーターを背負ってるワニの話。",
+			"히터를 멘 악어 이야기.",
+			null,
+			null,
+			"Talking about alligators with heaters strapped to their bodies.",
+			"Talk about an alligator with a heater on its back."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"msg",
+			2020166,
+			null,
+			"谁会这么闲，又不是我。以及时候到了，阿库准备开车。",
+			"えぇ～？そんなに暇なの？あたしじゃあるまいし。#nそれにもう時間だよ。ほらアクリア、車を出して。",
+			"에엥~? 그렇게 한가한 거야? 내가 아닌데.#n게다가 이제 시간 다 됐어. 자 아쿠리아, 차 내.",
+			null,
+			null,
+			"Who would be so idle, not me. As well as the time has come, Cu is ready to drive.",
+			"What? Are you that bored? It's not like me. Besides, it's time to go. Come on, Arkria, start the car."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"msg",
+			2020167,
+			null,
+			"嗯。",
+			"ええ。",
+			"네.",
+			null,
+			null,
+			"Uh-huh.",
+			"Yes."
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"msg",
+			2020168,
+			null,
+			"说起来，我开不行吗？",
+			"ところで、私が運転してはいけないのでしょうか？",
+			"그런데, 제가 운전하면 안 될까요?",
+			null,
+			null,
+			"Speaking of which, can't I drive?",
+			"By the way, am I not allowed to drive?"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"msg",
+			2020169,
+			null,
+			"你先把驾照考了再说，阿库刚考完呢，然后蒂亚拉准备好了吗？",
+			"まずは運転免許を取ってからだね～。アクリアは取ったばかりだけど。#nそれでティアラ、準備はできてる？",
+			"먼저 운전면허 따고 나서야~. 아쿠리아는 막 땄지만.#n그래서 티아라, 준비됐어?",
+			null,
+			null,
+			"You get your license first, Aku just finished, and then is Tiara ready?",
+			"I guess I'll have to get my driver's license first! Arkria just got hers. So, Tiara, are you ready?"
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"msg",
+			2020170,
+			null,
+			"……嗯，我会努力的。",
+			"……うん、頑張ってみる。",
+			"……응, 열심히 해 볼게.",
+			null,
+			null,
+			"...... Well, I'll work on that.",
+			"...... Yeah, I'll try my best."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"msg",
+			2020171,
+			null,
+			"准备，启动。",
+			"エンジン、起動。",
+			"엔진, 시동.",
+			null,
+			null,
+			"Ready, start.",
+			"Engine, start."
+		],
+		[
+			"msg",
+			2020172,
+			null,
+			"……启动了。",
+			"……起動したわ。",
+			"……시동 걸었어.",
+			null,
+			null,
+			"...... is up and running.",
+			"I've activated ......."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"msg",
+			2020173,
+			null,
+			"嗯，不要紧张，先打转向灯，然后从路边出去。",
+			"うん、緊張しないで。まずはウィンカーを出して、それから路肩から出るんだよ。",
+			"응, 긴장하지 마. 먼저 깜빡이 켜고, 그다음에 길가에서 나가는 거야.",
+			null,
+			null,
+			"Well, don't be nervous. Put on your turn signal and get out of the curb.",
+			"Yeah, don't be nervous. First you put on your blinker, then you get off the shoulder."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"msg",
+			2020174,
+			null,
+			"了解。",
+			"了解。",
+			"알겠어.",
+			null,
+			null,
+			"Understand.",
+			null
+		]
+	],
+	"11355": [
+		[
+			"bgm",
+			167
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020175,
+			null,
+			"啊！对不起，我室友新手上路正在练车。",
+			"あっ、ごめんごめん！この子はまだ初心者で、運転の練習をしているところなんだ。",
+			"아, 미안미안! 이 아이는 아직 초보라서, 운전 연습 중이야.",
+			null,
+			null,
+			"Uh-huh! Sorry, my roommate's new to the road and practicing.",
+			"Oh, sorry, sorry! This girl is still a beginner and is just practicing her driving skills."
+		],
+		[
+			"speaker",
+			320891
+		],
+		[
+			"portraits",
+			[
+				30568,
+				5,
+				true
+			],
+			[
+				30961,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020176,
+			null,
+			"什么情况……练车找个人少的地方练啊。",
+			"何しているんだ……運転の練習なら人の少ない場所でやってくれ。",
+			"뭐하는 거야…… 운전 연습이면 사람 적은 곳에서 해 줘.",
+			null,
+			null,
+			"What is the situation ...... practicing to find a place where there are fewer people to practice ah.",
+			"What are you doing? ...... If you want to practice driving, do it in a less crowded place."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				15,
+				false
+			],
+			[
+				30961,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020177,
+			null,
+			"是刮到了吗？蒂亚拉，你去看看？",
+			"こすっちゃったかな？ティアラ、見てもらえる？",
+			"스친 거야? 티아라, 좀 봐줄 수 있어?",
+			null,
+			null,
+			"Is it scratched? Tiara, will you go check?",
+			"Did I rub it off? Tiara, can you take a look?"
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"portraits",
+			[
+				30568,
+				15,
+				true
+			],
+			[
+				30571,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			2020178,
+			null,
+			"……嗯，是、是刮到了。",
+			"……うん。こ、こすったみたい。",
+			"……응. 스, 스친 것 같아.",
+			null,
+			null,
+			"...... Well, it is, it is scratched.",
+			"...... Yeah. Looks like it rubbed off."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30568,
+				15,
+				true
+			],
+			[
+				30569,
+				14,
+				false
+			]
+		],
+		[
+			"msg",
+			2020179,
+			null,
+			"非常抱歉。",
+			"本当にごめんなさい。",
+			"정말 미안해요.",
+			null,
+			null,
+			"I'm very sorry.",
+			"I am so sorry."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				4,
+				false
+			],
+			[
+				30569,
+				14,
+				true
+			]
+		],
+		[
+			"msg",
+			2020180,
+			null,
+			"这该怎么办……您有急事吗？长空市马上要办旅游节，保险公司的人来会比较慢，要不要留个联系方式什么的。",
+			"どうしよう……キミは急いでるの？もうすぐ観光フェスティバルが始まるから、保険会社の人が来るのは遅くなるかも。よければ連絡先を教えてもらえないかな？",
+			"어떡하지…… 너 급해? 곧 관광 페스티벌이 시작되니까 보험사 사람이 늦을지도 몰라. 괜찮으면 연락처 알려줄 수 있을까?",
+			null,
+			null,
+			"What should I do ...... Do you have an emergency? The city of Long Hollow will soon be organizing a tourism festival, the insurance company will be slow to come, do you want to leave a contact information or something.",
+			"What to do ...... are you in a hurry? The tourist festival is starting soon, so the insurance company might be late coming. If you don't mind, could you give me your contact information?"
+		],
+		[
+			"speaker",
+			320891
+		],
+		[
+			"portraits",
+			[
+				30568,
+				4,
+				true
+			],
+			[
+				30961,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020181,
+			null,
+			"……联系方式么……",
+			"……連絡先か……。",
+			"……연락처라…….",
+			null,
+			null,
+			"...... contact information ......",
+			"...... contact information or ......."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				14,
+				false
+			],
+			[
+				30961,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020182,
+			null,
+			"真的非常抱歉，那个……为表歉意……嗯……你看这个蒂亚拉多可爱啊，来摸摸吧。",
+			"本当にごめんね。その……お詫びの印として……う～ん……このティアラのかわいい顔を見て。好きなだけ触っていいよ。",
+			"정말 미안해. 그…… 사과의 의미로…… 음…… 이 티아라의 귀여운 얼굴 봐. 마음껏 만져도 돼.",
+			null,
+			null,
+			"I'm really very sorry, that ...... To apologize ...... Well ...... Look how cute this Tiara is, come and touch it.",
+			"I'm really sorry. As a sign of its ...... apology,...... ummm ...... look at this Tiara's cute face. You can touch it as much as you like."
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"portraits",
+			[
+				30568,
+				14,
+				true
+			],
+			[
+				30571,
+				17,
+				false
+			]
+		],
+		[
+			"msg",
+			2020183,
+			null,
+			"喵哈？",
+			"ニャハ！？",
+			"냐하!?",
+			null,
+			null,
+			"Meow-ha?",
+			"Nyaha!"
+		],
+		[
+			"speaker",
+			320891
+		],
+		[
+			"portraits",
+			[
+				30568,
+				14,
+				true
+			],
+			[
+				30961,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020184,
+			null,
+			"唔……算了，毕竟你们是学生，我看就算了……",
+			"……まあいい。まだ学生みたいだし、これ以上はもうよそう……。",
+			"……뭐 됐어. 아직 학생 같은데, 더 이상은 됐고…….",
+			null,
+			null,
+			"Well ...... never mind, after all, you are students, I think forget it ......",
+			"...... Well, okay. You still look like a student, so let's not go any further: ......"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"msg",
+			2020185,
+			null,
+			"崩坏学园的学生？",
+			"待て。君たちはまさか……崩壊学園の生徒か？",
+			"잠깐. 너희들 설마…… 붕괴학원 학생이야?",
+			null,
+			null,
+			"A student at Honkai Academy?",
+			"Wait. You guys don't happen to be students at ...... Honkai Academy, do you?"
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"portraits",
+			[
+				30568,
+				14,
+				true
+			],
+			[
+				30571,
+				27,
+				false
+			]
+		],
+		[
+			"msg",
+			2020186,
+			null,
+			"呜啊！别开枪！",
+			"うわっ！撃たないでくれ！",
+			"우왁! 쏘지 마!",
+			null,
+			null,
+			"Wooah!",
+			"Whoa! Don't shoot!"
+		],
+		[
+			"speaker",
+			320891
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30568,
+				14,
+				true
+			],
+			[
+				30961,
+				0,
+				false
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			2020187,
+			null,
+			"果然！",
+			"やっぱり！",
+			"역시!",
+			null,
+			null,
+			"Sure enough!",
+			"I knew it!"
+		],
+		[
+			"bgm",
+			100
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				3,
+				false
+			],
+			[
+				30961,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020188,
+			null,
+			"闪开——！",
+			"避けて——！",
+			"피해——!",
+			null,
+			null,
+			"Flash -!",
+			"Avoid--!"
+		]
+	],
+	"11356": [
+		[
+			"bgm",
+			100
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10476"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020189,
+			null,
+			"嘟、嘟、哔！",
+			"ツー、ツー、ピッ！",
+			"투, 투, 삑!",
+			null,
+			null,
+			"Beep, beep, beep!",
+			"Two, two, beep!"
+		],
+		[
+			"speaker",
+			320837
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30692,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			2020190,
+			null,
+			"喂？找到了？",
+			"もしもし？見つかりましたか？",
+			"여보세요? 찾았어요?",
+			null,
+			null,
+			"Hello? Did you find it?",
+			"Hello? Did you find it?"
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				13,
+				false
+			],
+			[
+				30692,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			2020191,
+			null,
+			"找到了找到了，这个用标准术语怎么说来着——",
+			"見つけたよ！アクリア、あれってなんて言うんだっけ——",
+			"찾았어! 아쿠리아, 저건 뭐라고 했더라——",
+			null,
+			null,
+			"I got it. I got it. What's the standard term for this--",
+			"I found it! Arkria, what's that called--"
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30569,
+				1,
+				false
+			],
+			[
+				30692,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			2020192,
+			null,
+			"发现疑似运载“先锋兵器”的目标车辆，正在追踪。",
+			"「先鋒兵器」を輸送していると思われる目標車両を発見、追跡中です。",
+			"「선봉 병기」을 수송하는 것으로 추정되는 목표 차량을 발견, 추적 중입니다.",
+			null,
+			null,
+			"Target vehicle suspected to be carrying Pioneer Weapons has been spotted and is being tracked.",
+			"We have located and are tracking a target vehicle believed to be transporting \"spearhead weapons.\""
+		],
+		[
+			"speaker",
+			320837
+		],
+		[
+			"portraits",
+			[
+				30569,
+				1,
+				true
+			],
+			[
+				30692,
+				8,
+				false
+			]
+		],
+		[
+			"msg",
+			2020193,
+			null,
+			"路线收到，临时指挥所会派遣两支2年级小队协助。对方实力不明，你们不要交火。",
+			"ルートは受信しました。臨時司令部から2年生の2個小隊をサポートに派遣します。相手の実力は不明です。交戦しないようにしてください。",
+			"루트는 수신했습니다. 임시 사령부에서 2학년 2개 소대를 지원으로 파견합니다. 상대의 실력은 불분명합니다. 교전하지 않도록 하세요.",
+			null,
+			null,
+			"Route received. Temporary command post will send two 2nd year squads to assist. Opponent strength is unknown, you will not engage in a firefight.",
+			"Route received. Two platoons of sophomores will be sent from the temporary command center to support. The opponent's capabilities are unknown. Please do not engage."
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"portraits",
+			[
+				30568,
+				10,
+				false
+			],
+			[
+				30692,
+				8,
+				true
+			]
+		],
+		[
+			"msg",
+			2020194,
+			null,
+			"怎么才两支啊？",
+			"2個小隊だけで足りるの？",
+			"2개 소대로만으로 충분해?",
+			null,
+			null,
+			"Why only two?",
+			"Are two platoons enough?"
+		],
+		[
+			"speaker",
+			320837
+		],
+		[
+			"portraits",
+			[
+				30568,
+				10,
+				true
+			],
+			[
+				30692,
+				8,
+				false
+			]
+		],
+		[
+			"msg",
+			2020195,
+			null,
+			"因为目标不止一个，目前已经锁定的疑似目标一共有四辆，不知道哪辆里载着目标物品。",
+			"目標は一つだけではありません。現在確認できている疑わしい車両は合計4台です。まだどの車両に目標物が積まれているかは分かりません。",
+			"목표는 하나가 아닙니다. 현재 확인된 의심스러운 차량은 총 4대입니다. 아직 어느 차량에 목표물이 실려 있는지는 모릅니다.",
+			null,
+			null,
+			"Because there is more than one target, there are four suspected targets that have been locked in, and it is not known which one is carrying the target item.",
+			"There is more than one target. There are a total of four suspect vehicles that we have identified at this time. We do not yet know which vehicle is carrying the target."
+		],
+		[
+			"msg",
+			2020196,
+			null,
+			"我再重复一遍，不要交火，学姐上了高速就会和你们汇合，不要交火。",
+			"繰り返します。交戦しないようにしてください。あなた方の先輩が高速に乗ったら合流するので、交戦してはいけません。",
+			"다시 한 번 말씀드립니다. 교전하지 않도록 하세요. 여러분의 선배들이 고속도로에 진입하면 합류할 테니, 교전해서는 안 됩니다.",
+			null,
+			null,
+			"I repeat, do not engage in a firefight. Sister will meet you when she gets on the highway. Do not engage in a firefight.",
+			"Repeat. Do not engage. Do not engage as your seniors will join you when they get to the highway."
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"portraits",
+			[
+				30570,
+				22,
+				false
+			],
+			[
+				30692,
+				8,
+				true
+			]
+		],
+		[
+			"msg",
+			2020197,
+			null,
+			"不要太爱护我们了，老师，这里有拉妮艾特在呢！就算遇到一点意外情况我们小组也是能搞得定的。",
+			"過保護すぎますわ、先生。ここにはラニアットもいます！ちょっとしたトラブルがあっても、私たちのグループで対処可能です。",
+			"과보호이십니다, 선생님. 여기에는 라니아트도 있습니다! 작은 문제가 생겨도 우리 그룹으로 해결 가능합니다.",
+			null,
+			null,
+			"Don't love us too much, Sensei. We've got Rani Ate here! Even if there's a little mishap our group can manage.",
+			"You're too overprotective, sir. We also have laniats here! If you have a little trouble, our group can handle it."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				30569,
+				1,
+				false
+			],
+			[
+				30692,
+				8,
+				true
+			]
+		],
+		[
+			"msg",
+			2020198,
+			null,
+			"和对方交火是高年级学生的课题实践，如果被干扰计分要和对方的指导老师交涉。#n会很麻烦，别太高估巫老师的道德水平。",
+			"目標との交戦は上級生の実践課題よ。得点を妨害してしまうと向こうの指導員と交渉しなければならなくて、それがとても面倒なのよ。巫先生の道徳観を過大評価してはダメ。",
+			"목표와의 교전은 상급생들의 실전 과제야. 점수를 방해하게 되면 저쪽 지도원과 협상해야 하게 되고, 그것이 매우 번거롭거든. 무 선생님의 도덕관을 과대평가하면 안 돼.",
+			null,
+			null,
+			"Firefighting with the other side is a subject matter practice for upperclassmen, and it's a pain in the ass to have to deal with the other side's instructor if you're interfering with your scoring, so don't overestimate the morality of woo teachers.",
+			"Engaging the target is a practical assignment for the upperclassmen. If you interfere with the scoring, you have to negotiate with their instructors, which is very troublesome. Don't overestimate the moral values of Wo Sensei."
+		],
+		[
+			"speaker",
+			320837
+		],
+		[
+			"portraits",
+			[
+				30569,
+				1,
+				true
+			],
+			[
+				30692,
+				33,
+				false
+			]
+		],
+		[
+			"msg",
+			2020199,
+			null,
+			"阿库莉亚同学，虽然你说得一点没错，但是希望下次背着老师偷偷说。",
+			"アクリアさん、あなたの言っていることは事実ですが、次からは私の居ない場所で言ってくださいね……。",
+			"아쿠리아 씨, 당신이 말하는 것은 사실이지만, 다음부터는 제가 없는 곳에서 말해 주세요......",
+			null,
+			null,
+			"Arkria-san, although you're absolutely right, I hope you'll sneak it behind the teacher's back next time.",
+			"Arkria, what you are saying is true, but next time please say it where I am not. ......"
+		],
+		[
+			"speaker",
+			320772
+		],
+		[
+			"portraits",
+			[
+				30570,
+				12,
+				false
+			],
+			[
+				30692,
+				33,
+				true
+			]
+		],
+		[
+			"msg",
+			2020200,
+			null,
+			"那总之冲啊——！",
+			"では、とにかく突撃ですね——！",
+			"그럼, 어쨌든 돌격이네요——!",
+			null,
+			null,
+			"Then all in all rush ah-!",
+			"Then, it's an assault anyway - right?"
+		]
+	],
+	"11357": [
+		[
+			"bgm",
+			100
+		],
+		[
+			"speaker",
+			320826
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30815,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020201,
+			null,
+			"这里是N小队，已发现目标车辆。",
+			"こちらN小隊、目標車両を発見。",
+			"여기 N 소대, 목표 차량 발견.",
+			null,
+			null,
+			"This is Echo Team. Target vehicle has been spotted.",
+			"This is N Platoon, target vehicle spotted."
+		],
+		[
+			"msg",
+			2020202,
+			null,
+			"这里是Z小队，目标车辆进入视野。",
+			"こちらZ小隊、目標車両を目視で確認。",
+			"여기는 Z 소대, 목표 차량을 시각으로 확인.",
+			null,
+			null,
+			"This is L Squad. Target vehicle coming into view.",
+			"This is Z Platoon, visual confirmation of target vehicle."
+		],
+		[
+			"speaker",
+			320837
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30692,
+				8,
+				false
+			]
+		],
+		[
+			"msg",
+			2020203,
+			null,
+			"学姐们来了，按计划把车停下吧。",
+			"上級生たちが来ました。計画通り車を止めてください。",
+			"선배들이 왔습니다. 계획대로 차를 멈춰 주세요.",
+			null,
+			null,
+			"The schoolgirls are here. Stop the car as planned.",
+			"The senior students are here. Please stop the car as planned."
+		],
+		[
+			"speaker",
+			320771
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30569,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			2020204,
+			null,
+			"是，蒂亚拉。",
+			"はい。……ティアラ。",
+			"네. ……티아라.",
+			null,
+			null,
+			"Yes, Tiara.",
+			"Yes. ...... Tiara."
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30571,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			2020205,
+			null,
+			"啊！哦，好，虽然没碰到司机的身体不过……姆姆姆姆——！",
+			"あっ！わ、わかった。運転手の体には触れてないけど……ムムムム——！",
+			"아! 알, 알겠어. 운전사의 몸에는 닿지 않았지만…… 음음음——！",
+			null,
+			null,
+			"Ah! Oh well, it didn't touch the driver's body though ...... mmmmmmmmmm-!",
+			"Ah! Wow, okay. I didn't touch the driver's body, but ...... mmmm--!"
+		]
+	],
+	"11358": [
+		[
+			"bgm",
+			100
+		],
+		[
+			"speaker",
+			320891
+		],
+		[
+			"bg",
+			"CG10476"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30961,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			2020206,
+			null,
+			"等等……什么……方向盘怎么！？",
+			"待て……なんだ……どうしてハンドルが！？",
+			"기다려... 뭐야... 왜 핸들이!?",
+			null,
+			null,
+			"Wait ...... what ...... steering wheel how!",
+			"Wait ...... what's ...... why the handle!"
+		],
+		[
+			"speaker",
+			320773
+		],
+		[
+			"portraits",
+			[
+				30571,
+				8,
+				false
+			],
+			[
+				30961,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			2020207,
+			null,
+			"我以我的圣痕命令你。",
+			"聖痕を以て命じる。",
+			"성흔으로 명한다.",
+			null,
+			null,
+			"I command you by my stigmata.",
+			"I command you by the sacrament."
+		],
+		[
+			"msg",
+			2020208,
+			null,
+			"【方向盘往左打死，刹车。】",
+			"【ハンドルを左に切り、ブレーキ。】",
+			"【핸들을 왼쪽으로 돌리고, 브레이크.】",
+			null,
+			null,
+			"[Steering wheel to the left, brake.]",
+			"[Turn steering wheel to left, brake."
+		]
+	],
+	"11359": [
+		[
+			"bgm",
+			167
+		],
+		[
+			"speaker",
+			320770
+		],
+		[
+			"bg",
+			"CG10511"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30568,
+				12,
+				false
+			]
+		],
+		[
+			"msg",
+			2020209,
+			null,
+			"搞定了，还挺快的。",
+			"結構早かったね～",
+			"꽤 빨랐네~",
+			null,
+			null,
+			"It's done. It was pretty quick.",
+			"That was pretty fast."
+		]
+	]
+}

@@ -1,0 +1,1171 @@
+{
+	"17": [
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bg",
+			"CG10094"
+		],
+		[
+			"msg",
+			300139,
+			"The left line is falling apart! Request immediate reinforcement!",
+			"左侧防线快支持不住了！请求增援！",
+			"左側の防衛ラインが持たない！増援を要請する！",
+			"좌측 방어 라인이 버티지 못하고 있다! 증원을 요청한다!",
+			"\"The defense line on the left is falling apart! Requesting immediate reinforcements!\"",
+			null,
+			"The left side of the defense line is almost untenable! Requesting reinforcements!",
+			"The left flank defense line won't hold! We need reinforcements!"
+		],
+		[
+			"msg",
+			300140,
+			"Someone's hurt here! Help!",
+			"来人！这里有人受伤了！",
+			"誰か来て！こっちにケガ人だ！",
+			"누구 없어요?! 여기 부상자 있어요!",
+			"\"Someone come! There's an injured person over here!\"",
+			null,
+			"Somebody! Someone's been hurt here!",
+			"Somebody get in here! Someone's hurt over here!"
+		],
+		[
+			"msg",
+			300141,
+			"Fortification is hindered! Stop them!",
+			"防御工事被撞开了！快拦住它们！！！",
+			"防御工事が突き破られる！急いで食い止めるんだ！！！",
+			"방어 공사가 뚫리고 있어! 서둘러 막아야 해!!!",
+			"\"They've broken through our defenses! Stop them immediately!!!\"",
+			null,
+			"The fortifications have been breached! Stop them now!!!",
+			"The defensive construction is breached! Hurry up and hold them off!"
+		],
+		[
+			"msg",
+			300142,
+			"Ahhhhh!!!",
+			"啊啊啊！！！！",
+			"あああ！！！！",
+			"아아아!!!!",
+			"<i>\"AAAHHH!!!!\"</i>",
+			null,
+			"Ahhhhh ！！！！",
+			"Ohhhh ！！！！"
+		],
+		[
+			"msg",
+			300143,
+			"We need help over here!",
+			"那边的人！请帮我一下！",
+			"そこの人！手伝って！",
+			"저기요! 도와주세요!",
+			"\"You over there! We need backup!\"",
+			null,
+			"The people over there! Please help me out!",
+			"Hey, there! Help me!"
+		],
+		[
+			"msg",
+			300144,
+			"Where are you looking at? I'm here!",
+			"喂！你在看哪边呢！这里这里！",
+			"ちょっと！どこ見てるの！こっち、こっち！",
+			"저기요! 어디 보고 있는 거예요! 이쪽, 이쪽!",
+			"\"Hey! Where are you looking? I'm over here!\"",
+			null,
+			"Hey! Which way are you looking! Here here!",
+			"Hey! Hey! Where are you looking? Over here, over here!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300145,
+			"The Houkai creatures are absolutely fierce! The road ahead is blocked, mechas can't be transported to the frontier. We have to clear the road, or there will be even more causalities in the frontier.",
+			"崩坏生物的攻击太猛烈了！前面的道路都被封锁了！机器人没有办法到达前线！现在前线的伤员很多！得赶紧打通道路才行！",
+			"崩壊生物の攻撃が激しすぎる！前方の道路が塞がれた！これじゃロボットが前線に到達できない！負傷者がたくさんいるっていうのに！今すぐこの道路を通れるようにしないと！",
+			"붕괴 생물의 공격이 너무 심해! 앞쪽 길이 막혔어! 이러면 로봇들이 전선에 도달하지 못해! 부상자가 엄청 많다구! 지금 당장 이 길을 뚫어야 해!",
+			"The onslaught from the Honkai Beasts is too intense! The road ahead's blocked! The robots can't reach the frontlines like this! There's so many injured people! We need to make this road passable <i>right now!</i>",
+			null,
+			"The Avalanche creatures are attacking too fiercely! The roads ahead are blocked! There's no way for the robots to reach the front line! There are many wounded on the front line! We have to open up the roads quickly!",
+			"The disintegrating creatures are attacking too hard! The road ahead is blocked! The robots can't reach the front line! There are too many wounded! We need to make this road passable now!"
+		],
+		[
+			"msg",
+			300146,
+			"Which mechas? Of course the healing mecha of Homei! Don't just stand there, go and kill the enemies ahead!",
+			"你问什么机器人？废话！当然是吼美医疗机器人了！你是傻子么！快帮我一起把前面的敌人干掉！",
+			"何のロボットかって？何、言ってるんだ！ホミ医療ロボットに決まってるじゃん！バカ言ってないで早く前方の敵を倒すのを手伝って！",
+			"무슨 로봇이냐고? 뭔 소리를 하는 거야! 호미 의료 로봇이지 뭐겠어! 바보 같은 소리 말고 빨리 전방의 적을 처치하는 걸 도와줘!",
+			"\"What robots?\" What are you talking about?! Obviously the Homi Healing Robots! Quit being an idiot — hurry up and help defeat the enemies up ahead!",
+			null,
+			"What robot, you ask? Nonsense! Of course it's the Howling Beauty Medical Robot! You're a fool! Help me take out the enemy in front of us!",
+			"What robot? What are you talking about! It's a Homi medical robot, of course! Don't be silly, hurry up and help me defeat the enemy up ahead!"
+		],
+		[
+			"msg",
+			300147,
+			"I won't let my family die here! I'm going tear those Houkai bastards apart!",
+			"可恶！绝对不会再让家人死在这种地方！就让你们这些崩坏垃圾！都OO地给我变成OO吧！",
+			"チキショウ！家族をこんな場所で死なせてたまるもんか！崩壊のゴミどもめ！",
+			"빌어먹을! 가족을 이런 곳에서 죽게 둘 수 없어! 붕괴의 쓰레기들 같으니!",
+			"Goddamnit! I won't let my family die here! I'm gonna tear those Honkai bastards apart!",
+			null,
+			"Damn! I will never let my family die in a place like this again! I'll let you all become OO! Turn all of you into OO!",
+			"Damn it! I will not let my family die in this place! Disintegrating trash!"
+		],
+		[
+			"msg",
+			300148,
+			"Take this like you've never been born!",
+			"去死吧OO！！看我把你的OO打回娘胎去！",
+			"死ね！！あの世に送り返してやる！",
+			"죽어!! 저 세상으로 돌려보내 주겠어!",
+			"Go to hell, you ☆☆!! I'm gonna beat you back into your mother's ☆☆ing womb!",
+			null,
+			"Go to hell OO!!! Watch me beat your OO back to your mother's womb!",
+			"Die! I'll send you back to the other side!"
+		],
+		[
+			"msg",
+			300149,
+			"What on earth are you doing? Move it, protect those mechas and maintain their healing procedures.",
+			"喂！你还傻愣着干嘛呢！赶紧给我动起来啦！保护这些机器人进行医疗作业！快！",
+			"ちょっと！何、ボケッと突っ立ってんの！早く動け！このロボットたちの医療作業を守ってくれ！早く！",
+			"저기요! 뭐, 멍하니 서 있는 거예요! 빨리 움직여요! 이 로봇들의 의료 작업을 지켜줘요! 빨리!",
+			"Hey, c'mon! What're you doing just standing there?! Get moving and protect the healing robots!",
+			null,
+			"Hey! Why are you still standing there? Let's get moving! Protect these robots for medical operations! Hurry up!",
+			"Hey! What are you just standing there like that? Move it! Protect the medical work of these robots! Come on!"
+		]
+	],
+	"18": [
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10094"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300150,
+			"Damn it! Can't believe these things are flooding in! What the hell do they come from!",
+			"混蛋！居然已经渗透进来这么多了！这帮家伙难道都是从OO里钻出来的OO么！",
+			"このヤロー！こんなにたくさん入り込んでくるなんて！",
+			"이 자식! 이렇게 많이 침투하다니!",
+			"These bastards! How're these things still flooding in?! Where the ☆☆ do they keep coming from?!",
+			null,
+			"Bastard! So much infiltration already! Are these guys all OO from OO!",
+			"You son of a bitch! I can't believe so many of them got in here!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			300151,
+			"Roar!!!",
+			"吼吼吼！！！",
+			"ゴゴゴォ～！！！",
+			"우르르르~!!!",
+			"Grrrooooahh~!!!",
+			null,
+			"Ho ho ho ho!!!",
+			"Gogo~!!!!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300152,
+			"Can't believe we can this guy at this moment. It's definitely not a lucky day for us.",
+			"啧！居然在这种时候出现这种家伙！真OO的倒霉！",
+			"ゲッ！こんな時にコイツが現れるのか！本当、ツイてない！",
+			"쳇! 이런 때에 이 녀석이 나타나다니! 정말, 운이 없어!",
+			"Tch! What a great time for this one to show up! Just my ☆☆ing luck!",
+			null,
+			"Tsk! I can't believe this guy showed up at a time like this! What OO bad luck!",
+			"Geez! This is not a good time for this guy to show up! This is really not my lucky day!"
+		],
+		[
+			"msg",
+			300153,
+			"Get the injured and those mechas out of here! This place is not going to hold any longer.",
+			"喂！赶紧带着伤员和这些机器人离开！这里恐怕也坚持不了多久了！",
+			"ほら！急いでケガ人を連れて、このロボットとここを離れて！ここはもう持たない！",
+			"자! 서둘러 부상자를 데리고 이 로봇과 여기를 떠나! 여긴 더 이상 버틸 수 없어!",
+			"C'mon! Hurry and get the wounded outta here with the robots! We can't hold on here any longer!",
+			null,
+			"Hey! Get the wounded and the robots out of here! I'm afraid we won't last much longer here!",
+			"Come on, come on, come on! Hurry up and get the wounded away from here with this robot! We can't hold this place any longer!"
+		],
+		[
+			"choice",
+			[
+				300154,
+				"I'll get you covered. Go now.",
+				"我掩护你，你先离开。",
+				"私が援護するから、あなたが先に離れて。",
+				"내가 엄호할 테니, 네가 먼저 떠나.",
+				"I've got you covered, you go first."
+			],
+			[
+				300155,
+				"I'll defeat it.",
+				"就让我来打败它",
+				"私に倒させて",
+				"내가 쓰러뜨리게 해줘",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			19
+		]
+	],
+	"19": [
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10094"
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300156,
+			"Wait! It can't be killed! Come back!",
+			"喂！等下！你是杀不死它的！给我回来！",
+			"おい！あんたじゃ倒せっこない！戻れ！",
+			"야! 너 따위가 쓰러뜨릴 수 있을 리 없어! 돌아와!",
+			"Hey, wait! There's no way you can kill that thing! Get back here!",
+			null,
+			"Hey! Wait! You can't kill it! Get back here!",
+			"Hey! Hey! You can't beat me! Get back here!"
+		]
+	],
+	"20": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10094"
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300157,
+			"Can't believe you won... I'm impressed!",
+			"居然赢了…不错啊~你这家伙还是挺厉害的嘛！",
+			"まさか勝つとは……すごいじゃん！あんたって案外やるんだな！",
+			"설마 이길 줄은…… 대단한데! 너 생각보다 잘하는구나!",
+			"Wow, I can't believe you won... Impressive! You're surprisingly capable!",
+			null,
+			"I can't believe I won... Not bad, huh? You're still pretty good!",
+			"I didn't expect you to win. ...... That's awesome! You're a real doer!"
+		],
+		[
+			"msg",
+			300158,
+			"Almost all the Houkai creatures in this area are killed. We're reaching the frontier!",
+			"这片区域的崩坏生物已经消灭的差不多了，马上就能到达前线了！",
+			"このエリアの崩壊生物は大体消滅させたかな……すぐ前線に向かえる！",
+			"이 구역의 붕괴 생물은 대부분 소멸시킨 것 같아…… 곧 전선으로 향할 수 있어!",
+			"I think we've wiped out most of the Honkai Beasts in this area... We're able to reach the frontlines soon!",
+			null,
+			"The avalanche creatures in this area have almost been wiped out, and will soon reach the front line!",
+			"I think we've pretty much eliminated most of the decay organisms in the area. ...... We can head to the front line soon!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300159,
+			"Huff...",
+			"呼…呼…",
+			"ふぅ……ふぅ……。",
+			"후…… 후…….",
+			"<i>Huff... huff...</i>",
+			null,
+			"Hoo...hoo...",
+			"Phew. ...... Phew. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300160,
+			"What? Drained by the scrap? Well, I might've overestimated you. Rest here, my fellows need me.",
+			"怎么了？这样就累趴了么？看来刚才还是高看你了~那你就在这里歇会吧，前面的伤员还在等着我呢！",
+			"どうした？こんなのでバテちゃったのか？どうやら買い被りだったかな。じゃあ、あんたはここで休んでて。先、行くよっ！負傷者は待ってくれないからね！",
+			"왜 그래? 이 정도에 지친 거야? 아무래도 과대평가했나 보네. 그럼 넌 여기서 쉬고 있어. 난 먼저 갈게! 부상자들은 기다려주지 않으니까!",
+			"What's wrong? Exhausted already? I guess I overestimated you. Well, you rest here. I'm going on ahead! I can't leave the injured waiting!",
+			null,
+			"What's wrong? You're exhausted just like that? It seems that just now or overestimated you ~ then you rest here, the wounded in front of me are still waiting for me!",
+			"What's the matter? Did I get busted for this? I guess I've been buying too much. Well, you rest here. I'll go ahead! The wounded don't wait for me!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			300161,
+			"Roar!",
+			"吼吼吼！",
+			"ゴゴゴォ～！",
+			"우르르르~!",
+			"Grrroooaaahhh~!",
+			null,
+			"Ho ho ho ho!",
+			"Gogo~!"
+		],
+		[
+			"msg",
+			300162,
+			"!?",
+			"！？",
+			"！？",
+			"!?",
+			"?!",
+			null,
+			"!",
+			null
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV12_MonsterRaid"
+		],
+		[
+			"msg",
+			300163,
+			"Bam!",
+			"碰！！",
+			"パン！！",
+			"팡!!",
+			"<i>Bang!!</i>",
+			null,
+			"Bump!!!",
+			"Pan!"
+		],
+		[
+			"msg",
+			300164,
+			"Oh...",
+			"唔……",
+			"うっ……。",
+			"윽…….",
+			"Ugh...",
+			null,
+			"Well ......",
+			"Ugh. ......."
+		],
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300165,
+			"What's it? Why are this guy here?",
+			"这个是！？为什么这样的家伙会在这里！",
+			"これは！どうしてこんなヤツがここ！？",
+			"이건! 왜 이런 놈이 여기에!?",
+			"This...! Why is this thing here?!",
+			null,
+			"This one is! Why would a guy like this be here!",
+			"What the hell! Why is this guy here!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			300166,
+			"Roar!",
+			"吼吼吼！",
+			"ゴゴゴォ～！",
+			"우르르르~!",
+			"Grrroooaahh~!",
+			null,
+			"Ho ho ho ho!",
+			"Gogo~!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300167,
+			"Get up! These monsters are much stronger! You can't just die here!",
+			"喂！快站起来！！这可不是之前那些废物一个等级的怪物！别OO就这样死掉啊！",
+			"おいおい！早く立って！！さっきまでの雑魚レベルの敵じゃない！こんなところで死ぬな！！",
+			"야 야! 빨리 일어나!! 아까까지의 잡몹 수준이 아니라고! 이런 데서 죽지 마!!",
+			"Hey, hey! Hurry and get up! These enemies aren't the same as those small fry from before! Don't just ☆☆ing die here!",
+			null,
+			"Hey! Get up! This is not a monster of the same level as those losers before! Don't die like that!",
+			"Hey, hey, hey! Come on, get up! This isn't the same small fry we saw earlier! Don't die here!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			300168,
+			"Roar!!!",
+			"吼吼吼！！！",
+			"ゴゴゴォ～！！！",
+			"우르르르~!!!",
+			"Grrroooaaahh~!!!",
+			null,
+			"Ho ho ho ho!!!",
+			"Gogo~!!!!"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			300169,
+			"Bang!!!",
+			"砰！！！",
+			"バーン！！！",
+			"빠아아앙!!!",
+			"<i>BANG!!!</i>",
+			null,
+			"BANG!!!",
+			"Boom!!!!!!!"
+		],
+		[
+			"bg",
+			"CG10118"
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			300170,
+			"Are you ok? Didn't I tell you to wait for me at the base?",
+			"你没事吧。不是让你在基地等着么？",
+			"大丈夫ですか？ブローニャは基地で待っているよう言ったはずですが。",
+			"괜찮으십니까? 브로냐가 기지에서 기다리고 있을 거라고 했을 텐데요.",
+			"Are you alright? Didn't I tell you to wait at the base?",
+			null,
+			"Are you okay? Didn't I tell you to wait at the base?",
+			"Are you okay? I thought I told Bronya to wait for you at the base."
+		],
+		[
+			"msg",
+			300171,
+			"Get her outta here. I can handle it.",
+			"快带她离开，这里交给我。",
+			"早く彼女を連れて離れてください。ここはブローニャに任せてください。",
+			"빨리 그녀를 데리고 떠나주세요. 여기는 브로냐에게 맡기고.",
+			"Get her out of here as soon as possible. I'll take care of this.",
+			null,
+			"Get her out of here. I'll take care of this.",
+			"Please take her away as soon as possible. Let Bronya take care of this place."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"msg",
+			300172,
+			"But what about Bronya?",
+			"可是！布洛妮娅你怎么办！？",
+			"でも！ブローニャはどうするんだよ！？",
+			"하지만! 브로냐는 어떻게 하는 거야!?",
+			"Wait! But what about you, Bronya?!",
+			null,
+			"But! What about you, Bronya!",
+			"But! What about Bronya!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			300173,
+			"Roar!!!",
+			"吼吼吼！！！",
+			"ゴゴゴォ～！！！",
+			"우르르르~!!!",
+			"Grroooaaahh~!!!",
+			null,
+			"Ho ho ho ho!!!",
+			"Gogo~!!!!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			300174,
+			"Bang!",
+			"砰！砰！",
+			"バーン！バーン！",
+			"빵! 빵!",
+			"<i>Bang! Bang!</i>",
+			null,
+			"Bang! Bang!",
+			"Boom! Boom!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"msg",
+			300175,
+			"Don't worry, just go! This is an order!",
+			"别担心，快走！这是命令！",
+			"心配しないでください。早く！これは命令です！",
+			"걱정하지 마십시오. 빨리! 이건 명령입니다!",
+			"Don't worry about me, just go! This is an order!",
+			null,
+			"Don't worry, go! That's an order!",
+			"Don't worry. Quickly! That's an order!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"msg",
+			300176,
+			"Alright. Take care.",
+			"好吧，你自己小心！",
+			"分かった。気をつけるんだぞ！",
+			"알겠습니다. 조심하세요!",
+			"Understood. Be careful!",
+			null,
+			"Well, you take care of yourself!",
+			"Okay, I get it. Be careful!"
+		],
+		[
+			"msg",
+			300177,
+			"Hang in there! I'm taking you back to the base.",
+			"喂！振作一点！我带你回基地！",
+			"しっかりしろ！！今、基地に連れて帰る！耐えろ！",
+			"정신 차려!! 지금 기지로 데려갈게! 견뎌내!",
+			"C'mon, stay with me!! I'm taking you back to the base now! Hold on!",
+			null,
+			"Hey! Pull yourself together! I'll take you back to the base!",
+			"Stay with me! I'm taking him back to base now! Hold on!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			300178,
+			"Roar!!!",
+			"吼吼吼！！！",
+			"ゴゴゴォ～！！！",
+			"우르르르~!!!",
+			"Grroooaaahh~!!!",
+			null,
+			"Ho ho ho ho!!!",
+			"Gogo~!!!!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV15_EarRing"
+		],
+		[
+			"msg",
+			300179,
+			"Buzz...",
+			"嗡————",
+			"キーン——",
+			"끼이이인——",
+			"<i>Bzzzzz——</i> (TN: I really don't know how to do an onomatopoeia of ears ringing...)",
+			null,
+			"Buzz ----",
+			"Keen--"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10094"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300180,
+			"How do you feel now?",
+			"喂！你怎么样了……",
+			"おい！気をしっかり持て……！",
+			"야! 정신 차려……!",
+			"Hey! Stay focused...!",
+			null,
+			"Hey! How are you doing ......",
+			"Hey! Keep your head in the game. ......!"
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300181,
+			"Wake up. Hey...",
+			"喂…醒醒……",
+			"起きろ……。",
+			"일어나…….",
+			"Hey... wake up...",
+			null,
+			"Hey...wake up ......",
+			"Wake up. ......."
+		],
+		[
+			"msg",
+			300182,
+			"Hey...",
+			"喂……",
+			"目を覚ましてくれ……。",
+			"정신 차려줘…….",
+			"Open your eyes...",
+			null,
+			"Hey ......",
+			"Wake up. ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10100"
+		],
+		[
+			"msg",
+			300183,
+			"What is this place?",
+			"这里是……",
+			"ここは……。",
+			"여기는…….",
+			"This place...",
+			null,
+			"Here is ......",
+			"You can find it here: ......."
+		],
+		[
+			"bgm",
+			62
+		],
+		[
+			"msg",
+			300184,
+			"It seems like déjà vu .",
+			"又回到了熟悉的光景中。",
+			"また見慣れた光景に戻ってきた。",
+			"또 익숙한 풍경으로 돌아왔다.",
+			"I'm back in this familiar scene.",
+			null,
+			"It's back to the familiar light.",
+			"We are back to the familiar scene again."
+		],
+		[
+			"msg",
+			300185,
+			"Maybe I'm already used to this state, because I can't feel any emotional ups and downs.",
+			"看来似乎已经习惯了这种状态，内心已经感受不到任何一丝起伏。",
+			"この状態に慣れてしまったみたい。異様なのに内心では何の起伏も起こらない。",
+			"이 상태에 익숙해져 버린 것 같다. 이상한데 마음속으로는 아무런 동요도 일어나지 않는다.",
+			"I seem to have gotten used to this state. It's strange, but I don't feel any ups or downs inside.",
+			null,
+			"It seems to have gotten used to this state of affairs and can no longer feel any hint of ups and downs inside.",
+			"It's like I've gotten used to this state of affairs. It's bizarre, yet no ups and downs occur inwardly."
+		],
+		[
+			"msg",
+			300186,
+			"I'm separated with my previous memories. From an unknown start, I'm moving forward to an inevitable end.",
+			"之前的记忆仿佛被一刀闸断，从未知的起点开始，朝向必然的终点。",
+			"以前の記憶は寸断されてしまったように感じる。未知なる出発点から始まり、必然の終点に向かう。",
+			"이전의 기억은 조각나 버린 것처럼 느껴진다. 미지의 출발점에서 시작해 필연의 종점을 향한다.",
+			"It feels like my previous memories have been torn apart, beginning from an unknown starting point and heading towards an inevitable end.",
+			null,
+			"The previous memories seem to be cut off with a single stroke, starting from an unknown starting point and heading towards the inevitable end.",
+			"The memory of what came before feels like a disconnection. Beginning from an unknown starting point and heading toward an inevitable end point."
+		],
+		[
+			"msg",
+			300187,
+			"The same story in mind is on repeat over and over, but I can do nothing but watch.",
+			"如同不断回放的录影带一般反复经历着同一段故事，但是却始终以旁观者的角度无法介入。",
+			"繰り返し流している映像のように、同じ出来事を何度も経験している。でも最初から最後まで傍観者の立場で、介入することはできない。",
+			"반복해서 재생되는 영상처럼, 같은 사건을 몇 번이고 경험하고 있다. 하지만 처음부터 끝까지 방관자의 입장에서, 개입할 수는 없다.",
+			"Like a video being played on repeat, I experience the same events over and over again. But I remain a bystander from the beginning to the end, unable to intervene.",
+			null,
+			"Like a video tape that keeps replaying, I experience the same story over and over again, but I am always unable to intervene from a spectator's point of view.",
+			"Like a video played over and over again, we experience the same events over and over again. But from start to finish, we are on the sidelines, unable to intervene."
+		],
+		[
+			"msg",
+			300188,
+			"I've been wondering why I exist in this world, but my mind is cluttered. Simple and basic things is all I can do now...",
+			"试图思考着存在于此的理由，但是脑袋却像卡带了一般昏昏沉沉，只能做出最简单的行为——",
+			"ここに存在している理由を考えようとしても、頭が固まっちゃったみたいに朦朧として、簡単なことしかできなくなってしまう——",
+			"여기에 존재하는 이유를 생각하려고 해도, 머리가 굳어버린 것처럼 멍해져서, 간단한 일밖에 할 수 없게 되어버려——",
+			"When I try to think about the reason for my existence here, my mind becomes hazy, as if frozen. I can only do simple things...",
+			null,
+			"Trying to think about the reason for being here, but the head is as dizzy as a cassette tape, and can only perform the simplest of acts -",
+			"I try to figure out why I'm here, but I get all fuzzy, like my mind has frozen up, and I can only do the simplest things..."
+		],
+		[
+			"msg",
+			300189,
+			"March on.",
+			"前进。",
+			"進もう。",
+			"나아가자.",
+			"I continue to walk ahead.",
+			null,
+			"Moving forward.",
+			"Let's move on."
+		],
+		[
+			"msg",
+			300190,
+			"Because I believe she will there at the end of the road.",
+			"因为我知道，在路途的尽头，她总会出现在那里。",
+			"道の終点に、彼女がそこに現れるって分かっているから。",
+			"길의 끝에, 그녀가 거기에 나타날 거란 걸 알고 있으니까.",
+			"Because I know she'll always be there at the end of the road.",
+			null,
+			"Because I know that at the end of the road, she will always be there.",
+			"At the end of the road, I know she will show up there."
+		],
+		[
+			"bg",
+			"CG10111"
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"msg",
+			300192,
+			"Same face and same posture. She seems to be carved in this meaningless world.",
+			"总是同样的表情，总是同样的姿势，仿佛被镌刻在了这无意义的世界中。",
+			"いつも同じような表情、いつも同じような姿勢。まるでこの意味のない世界に刻まれているかのように。",
+			"언제나 똑같은 표정, 언제나 똑같은 자세. 마치 이 의미 없는 세계에 새겨져 있는 것처럼.",
+			"Always the same expression, always the same posture, as if engraved in this meaningless world.",
+			null,
+			"Always the same expression, always the same pose, as if engraved in this meaningless world.",
+			"Always the same look, always the same posture. As if inscribed in this meaningless world."
+		],
+		[
+			"msg",
+			300193,
+			"Is she lost in this random world just like me? We're both searching for an exit, waiting to be saved.",
+			"她是否也和我一样迷失在不知名的世界中呢？徘徊寻找着出口，等待着谁来救赎。",
+			"彼女は私と同じように知らない世界で彷徨っているのかな？出口を探して彷徨い、誰かが助けに来るのを待っている。",
+			"그녀는 나와 같이 모르는 세계에서 헤매고 있는 걸까? 출구를 찾아 방황하며, 누군가 구하러 올 때를 기다리고 있는 건지.",
+			"I wonder if she's like me, lost in a strange world? Wandering around, searching for a way out, waiting for someone to come to the rescue.",
+			null,
+			"Is she lost in the same unknown world as I am? Wandering around looking for an exit, waiting for someone to save her.",
+			"Is she wandering in the same unknown world as I am? Wandering around looking for a way out, waiting for someone to come to her rescue."
+		],
+		[
+			"msg",
+			300194,
+			"Can you tell me your name?",
+			"呐…请告诉我你的名字吧？",
+			"ねぇ……名前を教えてくれない？",
+			"이봐…… 이름을 가르쳐 주지 않을래?",
+			"Hey... can you tell me your name?",
+			null,
+			"Nah...please tell me your name, right?",
+			"Hey ...... can you tell me your name?"
+		],
+		[
+			"msg",
+			300195,
+			"If we belong to the same space and time, we should be able to feel each other's body's warmth...",
+			"如果是相处在同一时空中的我们，应该能够感受到彼此的体温…",
+			"同じ時空にいる私たちなら、お互いの体温を感じられるはず……。",
+			"같은 시공간에 있는 우리라면, 서로의 체온을 느낄 수 있을 텐데…….",
+			"Since we are in the same time and space, we should be able to feel each other's body temperature...",
+			null,
+			"If we are living together in the same time and space, we should be able to feel each other's body heat...",
+			"If we are in the same time and space, we should be able to feel each other's body temperature. ......"
+		],
+		[
+			"msg",
+			300197,
+			"I'm here. But where are you now?",
+			"我在这里…而你在何方呢？",
+			"私はここにいる……あなたはどこにいるの？",
+			"나는 여기에 있는데…… 당신은 어디에 있는 거야?",
+			"I'm here... so where are you?",
+			null,
+			"I am here...and where are you?",
+			"I am here ...... where are you?"
+		],
+		[
+			"msg",
+			300198,
+			"Please take me to where you are...",
+			"请把我带向你所在的地方吧……",
+			"私を、あなたのいる場所に連れて行って……。",
+			"나를, 당신이 있는 곳으로 데려가 줘…….",
+			"Take me to where you are...",
+			null,
+			"Please take me to where you are ......",
+			"Take me to where you are at ......."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"msg",
+			300199,
+			"Wake up!",
+			"快醒过来！",
+			"早く起きて！",
+			"빨리 일어나!",
+			"Wake up already!",
+			null,
+			"Wake up!",
+			"Get up early!"
+		],
+		[
+			"msg",
+			300200,
+			"What...",
+			"呃…",
+			"えっ……。",
+			"엣…….",
+			"Uh...",
+			null,
+			"Uh...",
+			"What? ......."
+		],
+		[
+			"msg",
+			300201,
+			"This voice...",
+			"这个声音是…",
+			"この声は……。",
+			"이 목소리는…….",
+			"This voice...",
+			null,
+			"This sound is...",
+			"This voice can be heard at ......."
+		]
+	]
+}

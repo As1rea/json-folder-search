@@ -1,0 +1,5598 @@
+{
+	"60": [
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56031,
+			"Sin, enough, it's over now.",
+			"杏，已经够了，一切结束了。",
+			"シン……もう十分です。何もかも終わりました。",
+			"신…… 이제 충분해. 모든 게 끝났어.",
+			"Sin... that's enough. It's all over now.",
+			null,
+			"Apricot, it's enough, it's over.",
+			"Shin ...... has had enough. Everything is over."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56032,
+			"Why!Why! Why I can't win you once! You are so weak!",
+			"为什么！为什么！为什么每次都赢不了你！明明是这么弱小的家伙！！为什么！",
+			"何で！どうして、いつもお前に勝てないんだ！……こんな弱っちい奴に、どうして！どうして……っ！！",
+			"왜! 어째서, 항상 너한테 질 수밖에 없는 거야!……이런 약해빠진 녀석에게, 어째서! 어째서……!!",
+			"Why?! Why can't I ever beat you?! Why... am I so weak?! Why...?!!",
+			null,
+			"Why! Why? Why can't I beat you every time! You're obviously such a weakling! Why!",
+			"Why! Why can't I always beat you? Why ...... such a weak guy? Why ......!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56033,
+			"I was like you. Power is not the only thing we should have.",
+			"布洛妮娅以前和杏一样，觉得只要自己足够强大就能够保护身边的人……然而不论是希儿还是你，最后都到了布洛妮娅无法触及的地方。",
+			"ブローニャも以前はシンと同じでした。自分が強くなれば、周りの人を守れると思っていたのです……ですが、それは違います。ゼーレもあなたも、最後には手の届かないところに行ってしまったのが、その証拠です……。",
+			"브로냐도 이전에는 신과 같았어. 자신이 강해지면 주변 사람을 지킬 수 있을 거라고 생각했었죠…… 하지만 그건 틀렸어요. 제레도 당신도, 결국에는 손이 닿지 않는 곳으로 가버렸다는 게 그 증거예요…….",
+			"Bronya was once just like Sin. She thought that if she became stronger, she would be able to protect those around her... but that's not the case. The fact that both Seele and you ended up beyond her reach is proof of that...",
+			null,
+			"Bronya used to be the same as Apricot, feeling that as long as she was strong enough she could protect those around her ...... However, whether it was Hill or you, it ended up in a place that Bronya couldn't reach.",
+			"Bronya used to be the same as Shin. She thought that if she was strong enough, she could protect the people around her ......, but that is not true. The fact that both Seele and you ended up out of reach is proof of that. ......"
+		],
+		[
+			"msg",
+			56034,
+			"However, I have new targets now, I love my friends.",
+			"但是，在芽衣姐姐与大家的帮助下，布洛妮娅开始渐渐能够触及到自己想要的东西了。",
+			"ブローニャは芽衣姉様やみんなのお陰で、だんだんと自分の欲しかったものに触れられるようになりました。",
+			"브로냐는 메이 언니와 모두들 덕분에, 조금씩 자신이 원하던 것에 닿을 수 있게 되었어요.",
+			"Thanks to Mei and everyone else, Bronya is gradually being able to reach the things she wants.",
+			null,
+			"However, with the help of Meiko's sister and everyone else, Bronya gradually began to be able to reach what she wanted.",
+			"Thanks to sister Mei and everyone else, Bronya gradually got in touch with what she wanted."
+		],
+		[
+			"msg",
+			56035,
+			"We are human, not weapon!",
+			"为了变强而像钢铁一般的身体也仿佛渐渐被填满一般，流淌着温暖的血液。",
+			"強くなることだけを追求し、ブローニャの身体は鋼鉄のように硬く冷たくなっていました。ですが、それが徐々に満たされ、温かな血が流れていることを感じられるようになったのです。",
+			"강해지는 것만을 추구하며, 브로냐의 몸은 강철처럼 단단하고 차가워져 있었어요. 하지만, 그것이 서로 채워지고, 따뜻한 피가 흐르고 있음을 느낄 수 있게 되었죠.",
+			"Pursuing only the pursuit of becoming stronger, Bronya's body had become as hard and cold as steel. But it gradually became fuller, and she began to feel the warmth of her blood flowing through her.",
+			null,
+			"The body, which was like steel in order to become strong, also seemed to be gradually filled with warm blood.",
+			"Pursuing only to become stronger, Bronya's body had become as hard and cold as steel. However, it gradually filled up and she began to feel the warmth of her blood."
+		],
+		[
+			"msg",
+			56036,
+			"I want to have smile just like others!",
+			"虽然现在还无法顺利的露出笑容，但是布洛妮娅的内心现在一定是微笑着的。",
+			"今はまだ上手く笑顔を作れませんが……ブローニャの心は、今きっと微笑んでいると思います。",
+			"지금은 아직 잘 웃지 못하지만…… 브로냐의 마음은, 지금 분명 미소 지을 거예요.",
+			"Although she's not yet very good at smiling... I'm sure Bronya's heart is smiling right now.",
+			null,
+			"Although it is not yet possible to smile smoothly, Bronya's heart must be smiling right now.",
+			"I can't smile well right now, but I'm sure ...... Bronya's heart is smiling right now."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56037,
+			"Shut up! Shut up! I must kill you all!",
+			"闭嘴！闭嘴！给我闭嘴！！我只要一个人就能把你们全杀掉！",
+			"うるさいッ！黙れ黙れッ！黙れぇええーーーッ！！！！ボク一人でも、お前らを皆殺しにできるんだッ！！！",
+			"시끄러워! 닥쳐 닥쳐! 닥쳐애애애——!!! 나 혼자서도, 너희들을 몰살시킬 수 있다고——!!!",
+			"Shut up! Shut up, shut up! SHUT UP!!! I can kill you all by MYSELF!!!",
+			null,
+			"Shut up! Shut up! Shut the hell up!!! I can kill you all with just one man!",
+			"Shut up! Shut up, shut up! Shut up! Shut up! Shut up! ！！！！ I alone can kill you all!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56038,
+			"Sorry, Sin…",
+			"对不起，杏……",
+			"ごめんなさい……シン……。",
+			"미안해…… 신…….",
+			"I'm sorry... Sin...",
+			null,
+			"Sorry, Apricot ......",
+			"Sorry ...... sin ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56039,
+			"Leave me alone! Don't show mery on me!",
+			"放手！放开我！！我才不需要你的怜悯！",
+			"放せッ！放せよ！おまえの情けなんか受けるもんかッ！！！",
+			"놔! 놔! 네 동정 같은 건 받을 수 없어——!!!",
+			"Let go! Let go of me! I won't accept your mercy!!!",
+			null,
+			"Let go of me! Let go of me!!! I don't need your pity!",
+			"Let go of me! Let go of me! I won't accept your mercy!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56040,
+			"Sorry,I should save you earlier…",
+			"对不起，让你一个人经历了这么多……",
+			"すみません……あなた一人に、こんな辛い思いをさせてしまいました……。",
+			"죄송해요…… 당신 혼자만, 이렇게 괴롭게 해버렸어요…….",
+			"I'm so sorry... I made you go through such hardship...",
+			null,
+			"I'm sorry you had to go through so much alone ......",
+			"I'm sorry ...... you alone have caused me such pain ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56041,
+			"Don't like at me like that! Don't! No!",
+			"不要用这种眼神看我！不要！！不要！！！！",
+			"そんな目でボクを見るなッ！やめろッ！やめろぉーーーッ！！！！",
+			"그런 눈으로 나를 보지 마! 그만둬! 그만둬어어——!!!!",
+			"Don't look at me like that! Stop it! STOP IT——!!!!",
+			null,
+			"Don't look at me like that! Don't!!! Don't ！！！！",
+			"Don't look at me like that! Stop it! Stop it! ！！！！"
+		],
+		[
+			"msg",
+			56042,
+			"Ahhhhh!!!!",
+			"啊啊啊啊！！！！！！！",
+			"あっああ、うあぁあああああーーーーッ！！！",
+			"아아, 우아아아아아——!!!",
+			"Aaahhh, AAAAHHHHH————!!!",
+			null,
+			"Ahhhhhhh ！！！！！！！",
+			"Ahhhhhhhhhhhhhhh!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56043,
+			"Watch out!!",
+			"危险！！",
+			"危ないっ！！",
+			"위험해!!",
+			null,
+			null,
+			"DANGER!!!",
+			"Dangerous!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56044,
+			"Bang!!",
+			"砰！！！",
+			"バン——ッ！！",
+			"빵——!!",
+			"<i>Bang——!!</i>",
+			null,
+			"BANG!!!",
+			"Bang--!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56045,
+			"Err…",
+			"呃……",
+			"くっ……！",
+			"쿳……!",
+			"Gghh...!",
+			null,
+			"Uh ......",
+			"Damn. ......!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56046,
+			"Sin…",
+			"……居然能把杏逼到这种程度，我还真是小看了你们。",
+			"……ここまでシンを追い詰めるなんて……あなたたちを甘く見すぎていたようね。",
+			"……여기까지 신을 몰아붙이다니…… 너희들을 얕잡아 봤던 모양이네.",
+			"...Pushing Sin to this point... it seems I underestimated you guys.",
+			null,
+			"...... can actually force the apricot to this extent, I really underestimated you guys.",
+			"I guess I underestimated you guys too much to go so far ...... to push Sin this far."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56047,
+			"What happen to her? Is she got controlled like Bronya was?",
+			"这家伙的表情，难道和布洛妮娅一样被控制了！？",
+			"この変わりぶり……もしかして、ブローニャの時と同じように操られてる！？",
+			"이런 변한 모습…… 설마, 브로냐 때처럼 조종당하는 건가!?",
+			"This change... Could it be that she's being controlled just like Bronya was?!",
+			null,
+			"The expression on this guy's face, is he being controlled like Bronya!",
+			"This change ...... maybe he's being manipulated just like he was with Bronya!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56048,
+			"Stop it, mother!",
+			"妈妈，请您住手吧。",
+			"お母様……お願いです。もう、やめてください……。",
+			"어머님…… 제발 그만두세요……",
+			"Matushka... please. Please stop...",
+			null,
+			"Mom, please stop.",
+			"Mother, please ....... Please don't do this anymore. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56049,
+			"Bronya, seems you don't remember our aim anymore… It's time to break with the past. I'm waiting for you.",
+			"布洛妮娅，看来你已经把我们的目的全忘记了呢……我在动力区等你，是时候做个了断了。",
+			"ブローニャ……あなたは私たちの目的を全て忘れてしまったようね。動力炉で待っているわ……決着を付けましょう。",
+			"브로냐…… 너는 우리의 목적을 모두 잊어버린 모양이구나. 동력로에서 기다리고 있을 거야…… 결판을 내자.",
+			"Bronya... It seems you have forgotten all about your purpose. I'll be waiting at the reactor... Let's settle this.",
+			null,
+			"Bronya, it seems you've forgotten all about our purpose yet ...... I'm waiting for you in the Power Zone, it's time to make a break.",
+			"Bronya...... you seem to have forgotten all about our purpose. I'll be waiting for you in the power reactor. ...... Let's settle this."
+		]
+	],
+	"61": [
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56050,
+			"Is here \"Power unit\"? …「Sirin」? What's that?",
+			"这里就是核心动力区么…这个写着「Sirin」的就是动力炉么？",
+			"ここが動力の中心部へ続く道かしら……？あの「シーリン」って書いてあるものが、この戦艦の動力炉？",
+			"여기가 동력 중심부로 통하는 길인가……? 저 「시린」이라고 써 있는 게, 이 전함의 동력로?",
+			"I wonder if this is the path to the center of the power plant...? Is that thing that says \"Sirin\" the power reactor of this battleship?",
+			null,
+			"Is this the core power area...is this one with \"Sirin\" written on it the power furnace?",
+			"Is this the road that leads to the center of the power ......? Is that thing that says \"Shilin\" on it the power reactor of this battleship?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56051,
+			"Hummm…",
+			"唔……",
+			"うっ、く……。",
+			"으, 으……",
+			"Ughh...",
+			null,
+			"Well ......",
+			"Ugh, ku ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56052,
+			"Kiana? What happened?",
+			"琪亚娜？你怎么了！",
+			"キアナちゃん！？どうしたの！？",
+			"키아나 쨩!? 무슨 일이야!?",
+			"Kiana-chan! What's wrong?!",
+			null,
+			"Kiana? What's wrong with you!",
+			"Kiana! What's wrong!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56053,
+			"Don't worry! Just a little bit tired.",
+			"嘿嘿~没事，战斗的太久了稍微有点累而已……",
+			"な、何でもない！戦いが長引いてるから、ちょっと疲れただけだよ……！",
+			"아, 아무것도 아냐! 싸움이 길어져서 좀 지쳤을 뿐이야……!",
+			"N-Nothing! The battle has been dragging on for so long, I'm just a bit tired...!",
+			null,
+			"Hey ~ nothing, fighting too long a little tired just ......",
+			"Nah, it's nothing! The fight is dragging on, I'm just a little tired. ......"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56054,
+			"Finally, you arrived here.",
+			"终于来了么？",
+			"ようやく来たようね？",
+			"드디어 온 모양이지?",
+			"You're finally here?",
+			null,
+			"Is it finally here?",
+			"Looks like you're finally here, huh?"
+		],
+		[
+			"msg",
+			56055,
+			"You should feel proud to stand here.",
+			"先让我赞扬一下你们吧，居然仅靠三人就能到达这里。",
+			"まずは褒めてあげるわ。たった3人で、ここまで辿り着いたことに。",
+			"일단 칭찬해 주마. 겨우 세 명으로 여기까지 도달한 걸.",
+			"First of all, I want to praise you for making it this far with just the three of you.",
+			null,
+			"Let me commend you first for actually getting here with just three people.",
+			"First of all, let me commend you. For getting here, with only three of us."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56056,
+			"Mother…",
+			"妈妈，布洛妮娅……",
+			"お母様……ブローニャは……。",
+			"어머님…… 브로냐는……",
+			"Matushka... Bronya is...",
+			null,
+			"Mom, Bronya ......",
+			"Your mother ...... Bronya can be found at ......."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56057,
+			"Don't call me \"mother\", I'm your enemy now.",
+			"不要叫我妈妈，我们现在可是敌人。",
+			"そんな風に呼ばないでちょうだい。今のあなたは、天命に手を貸す敵なのよ。",
+			"그런 식으로 부르지 마. 지금의 너는 천명을 돕는 적이야.",
+			"Don't call me that. You are now part of Schicksal, an enemy.",
+			null,
+			"Don't call me mom, we're enemies now.",
+			"Don't call me that. You are now an enemy who lends a helping hand to the heavenly destiny."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56058,
+			"You… What's you target?",
+			"你这家伙…目的到底是什么！",
+			"あんたの目的は、一体何なの！？",
+			"너의 목적은 대체 뭐야!?",
+			"What the hell is your goal?!",
+			null,
+			"You guys...what the hell is the purpose!",
+			"What the hell do you want?"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56059,
+			"You will lose your lives here. Poor girls.",
+			"哼，你们这些被天命饲养的女武神，只会盲目地送掉自己卑微的生命，真是可怜呢。",
+			"ふん！天命に飼われているだけの戦乙女が何を偉そうに。自分の命を捨てることしかできない存在なのに、本当に哀れな子ね。",
+			"흥! 천명에게 길러진 발키리가 뭘 잘났다고. 자신의 목숨을 버리는 것밖에 못 하는 존재가, 정말 불쌍한 아이구나.",
+			"Hmph! How dare you act so arrogant; you're only a Valkyrie being controlled by Schicksal. All you can do is throw away your own life, what a pitiful girl you are.",
+			null,
+			"Hmph, it's pitiful that you Valkyries bred by the Mandate of Heaven only blindly give away your humble lives.",
+			"Hmm! What a high-minded war maiden who is just being kept by heavenly fate. She's a being who can only throw away her own life, but she's really a pathetic child."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56060,
+			"What do you mean? We are fighting for all human beings.",
+			"你说什么！我们可是为了从崩坏的手中保护人类才战斗的！",
+			"はぁ、何言ってんのよ！？私たちは、崩壊の魔の手から人類を守るために戦ってるのよ！",
+			"하아, 뭔 소리야!? 우리는 붕괴의 마수로부터 인류를 지키기 위해 싸우고 있다고!",
+			"Huh?! What are you talking about?! We are fighting to protect humanity from the evil clutches of the Honkai!",
+			null,
+			"What are you talking about! We're fighting to protect humanity from Avalanche!",
+			"Huh, what are you talking about? We're fighting to protect humanity from the clutches of decay!"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56061,
+			"Fight for human being? How cute you are! You are making the Houkai power stronger!",
+			"为人类战斗？真是天真的可爱，你们的力量恰恰没有消灭崩坏，反而令它更肆意地成长了起来。",
+			"人類のために戦ってる？本当に無知で無垢ね。その力で崩壊を消滅させられていないじゃない……むしろ、成長させているのよ。",
+			"인류를 위해 싸운다고? 정말 무지하고 순진하구나. 그 힘으로 붕괴를 소멸시키지 못하고 있잖아…… 오히려 성장시키고 있는 거야.",
+			"Fighting for humanity? You're truly naive. Your power isn't eradicating the Honkai... it's making it grow.",
+			null,
+			"Fighting for humans? What a naive and lovely thing, your power has not precisely destroyed the collapse, but has made it grow even more recklessly.",
+			"Fighting for humanity? You are truly ignorant and innocent. You haven't extinguished the collapse with your power ......, rather, you've made it grow."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56062,
+			"What do you mean?",
+			"这是什么意思？",
+			"それは……どういう意味ですか？",
+			"그건…… 무슨 뜻이에요?",
+			"What... do you mean?",
+			null,
+			"What does this mean?",
+			"What does that mean ......?"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56063,
+			"You can't clear the Houkai power, all you did just made it greater!",
+			"人类的诞生与发展史伴随着崩坏的侵袭，不停的抗争与厮杀只是无谓地苟延残喘罢了。崩坏是无法被消灭的，你们的抗争只会让最后的毁灭来的更快而已。",
+			"人類の誕生と発展は、常に崩壊の訪れと共にあるの。無意味な殺し合いを延々に続けても、崩壊を消滅させることはできない。そして、あなたたちの抵抗は、人類の滅亡を早めることになる。",
+			"인류의 탄생과 발전은 항상 붕괴의 도래와 함께해. 무의미한 살육을 계속해도, 붕괴를 소멸시킬 수 없어. 그리고 너희들의 저항은 인류의 멸망을 앞당기게 될.",
+			"The birth and development of humanity is always accompanied by the coming of Honkai. No matter how much meaningless killing continues, it will not eliminate the Honkai. And your resistance will only hasten the extinction of humanity.",
+			null,
+			"The history of the birth and development of mankind is accompanied by the invasion of the collapse, and the constant struggle and fight is just a needlessly lingering. The collapse can not be eliminated, your struggle will only make the final destruction come more quickly.",
+			"The birth and development of the human race is always accompanied by the coming of collapse. You cannot extinguish the collapse by continuing to kill each other for no good reason. And your resistance will hasten the demise of the human race."
+		],
+		[
+			"msg",
+			56064,
+			"Of course, Houkai power is envolving with human technology development. We can't avoid the destroy of human.",
+			"崩坏会随着人类科技的发展不断的进化，永远以凌驾于人类的姿态将人类逼向绝路，这个是宇宙的意识，自然发展的规律，人类的灭亡是无法避免的。",
+			"崩壊は、人類の科学技術の発展と共に絶えず進化するわ。だから、永遠に人類を凌駕し、凌辱し続ける。これは宇宙の意志、自然の摂理なのよ。これを理解しない限り、人類の滅亡は避けられないわ。",
+			"붕괴는 인류의 과학 기술 발전과 함께 끊임없이 진화해. 그래서 영원히 인류를 뛰어넘고, 능욕해 나갈 거야. 이건 우주의 의지, 자연의 섭리야. 이것을 이해하지 못한다면, 인류의 멸망은 피할 수 없어.",
+			"The Honkai will continue to evolve with the development of mankind's science and technology. Therefore, it will forever surpass and humiliate human beings. This is the will of the universe, the law of nature. Unless we understand this, the extinction of human beings is inevitable.",
+			null,
+			"The collapse will continue to evolve with the development of human technology, and will always be overriding the human gesture will force humans to the end of the road, this is the consciousness of the universe, the laws of natural development, the extinction of humanity is inevitable.",
+			"Disintegration will continually evolve along with mankind's technological advances. So it will continue to surpass and humiliate mankind forever. This is the will of the universe, the order of nature. Unless we understand this, our extinction is inevitable."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56065,
+			"So… Anti-entropy's aim is \"destroy all things\", right?",
+			"所以……逆熵的目的是将所有人类的希望都摧毁，让我们坐以待毙么？",
+			"つまり……人類に希望なんてないから、大人しく死を待てってこと！？そう人類に解き伏せるのが、ネゲントロピーの目的？",
+			"즉……인류에게 희망 따위 없다고, 얌전히 죽음을 기다리라!? 그게 인류에게 해답을 강요하는 네겐트로피의 목적이냐?",
+			"In other words... there is no hope for humanity, so we should just wait patiently for death! Is that the goal of Anti-Entropy for humanity?",
+			null,
+			"So the purpose of ...... reverse entropy is to destroy all human hope and make us sit back and wait for death?",
+			"So ...... there is no hope for humanity, so we should all just grow up and wait for death! Is that what Negentropy wants to unravel to humanity?"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56066,
+			"Don't be impatient! We are human too, we are also trying to find a way to save all people.",
+			"不要这么急着下结论啊小鬼，不管阵营如何我们也一样是人类。谁也不想看到自己的种族就这样被无聊的自然规律毁灭掉，所以我们也一样在寻找着拯救人类的方法。",
+			"お嬢ちゃん、そんなに焦らないで。どの組織に属していようと、同じ人間だもの。人類がくだらない意思やら摂理のために滅亡するなんてこと望んじゃいないわ。だから、私たちも同じく救う方法を探しているのよ。",
+			"아가씨, 그렇게 조바심 내지 말아요. 어느 조직에 속해 있든 같은 인간이잖아요. 인류가 시시한 의지니 섭리니 하는 이유로 멸망하는 걸 바라지는 않아요. 그래서 우리도 똑같이 구원의 방법을 찾고 있는 거예요.",
+			"Don't be so hasty, my dear. No matter what organization you belong to, you're still human. I don't want humanity to perish because of some stupid will or providence. That's why we're looking for a way to save it, too.",
+			null,
+			"Don't be so quick to jump to conclusions, kid, no matter what the camp is we are just as human. No one wants to see their race destroyed by the boring laws of nature, so we are also looking for a way to save humanity.",
+			"Don't be in such a hurry, little girl. No matter which organization you belong to, we are all human beings. We don't want the human race to be destroyed because of some stupid will or providence. That's why we are looking for ways to save them as well."
+		],
+		[
+			"msg",
+			56067,
+			"Our conclusion is we should make all Houkai power release.",
+			"只是……我们的方法是引发最后的大崩坏，让所有的崩坏能释放出来，这样人类才能得到救赎。",
+			"ただ……私たちの場合、その方法は最後の大崩壊を誘発させることで達成するわ。全ての崩壊エネルギーを放出させ、崩壊に怯えない世界を作る。それで次世代の人類に救済をもたらすの。",
+			"다만……우리의 경우, 그 방법은 최후의 대붕괴를 유발함으로써 이루어져요. 모든 붕괴 에너지를 방출시켜, 붕괴를 두려워하지 않는 세상을 만드는 거죠. 그렇게 다음 세대 인류에게 구원을 가져다줄 거예요.",
+			"However... in our case, the way to achieve this is to trigger the Final Eruption. We will release all of the Honkai Energy and create a world that does not fear the Honkai. This will bring salvation to the next generation of humanity.",
+			null,
+			"Just ...... our way is to trigger the final great collapse, so that all the collapse energy is released so that humanity can be saved.",
+			"Just ...... In our case, the way we'll accomplish that is by triggering the last great collapse. We'll have all the collapse energy released and create a world that isn't afraid of collapse. That will bring salvation to the next generation of humanity."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56068,
+			"You must be crazy! If you do that, all people must die.I won't let you do that!",
+			"你们这些家伙一定是疯了！咳咳……如果触发大崩坏的话这个世界的人都会死亡！我是不会让你们得逞的！！",
+			"あ、あんたたち絶対、狂ってる！ゲホゲホッ……もし、大崩壊なんてものが起こったら……この世界に生きる人が、みんな死んじゃう！そんなのダメッ！ネゲントロピーの思い通りになんてさせないんだから！",
+			"아, 너희들 분명, 미쳤어! 콜록콜록…… 만약, 대붕괴 같은 게 일어난다면…… 이 세상에 사는 사람이, 모두 죽어 버린다고! 그런 건 안 돼! 네겐트로피의 생각대로는 절대 안 되게 할 거야!",
+			"Y-You guys must be crazy! <i>Cough cough...</i> If something like an Eruption were to occur... everyone living in this world would die! That's no good! I won't let Anti-Entropy have their way!",
+			null,
+			"You guys must be out of your minds! Ahem ...... If the Great Collapse is triggered everyone in this world will die! I won't let you guys get away with this!!!",
+			"Oh, you guys are absolutely insane! If there is a great collapse,...... everyone living in this world will die! No, no, no, no, no, no, no, no, no, no, no, no, no, no! I won't let the negentropes have their way!"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56069,
+			"How impulsive you are!",
+			"还真是冲动的年轻人呢，那就来试试看吧。",
+			"まったく、血の気の多いお嬢ちゃんねぇ……それなら、止めてごらんなさい！",
+			"정말, 피가 많으신 아가씨네…… 그럼, 막아 보시지!",
+			"What a hot-blooded girl you are... In that case, try and stop me!",
+			null,
+			"You're really an impulsive young man, so let's give it a try.",
+			"You're a bloody little girl at all, aren't you? ...... Then try and stop me!"
+		]
+	],
+	"62": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56070,
+			"Humm…",
+			"呼呼……身体好重……",
+			"ハァ、ハァ……クッ……身体が重い……。",
+			"하, 하…… 쿡…… 몸이 무거워…….",
+			"<i>Huff, huff...</i> ugh... my body feels heavy...",
+			null,
+			"Hoo hoo ...... body so heavy ......",
+			"Hah, hah...... kk...... body is heavy......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56071,
+			"Kiana, are you alright?",
+			"琪亚娜！你没事吧！",
+			"キアナちゃん！大丈夫！？",
+			"키아나！괜찮아!?",
+			"Kiana-chan! Are you okay?!",
+			null,
+			"Kiana! Are you all right!",
+			"Kiana! Are you okay!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56072,
+			"I'm fine, don't worry~",
+			"没事……芽衣学姐不用管我……",
+			"平気、だよ……芽衣先輩……私のことは、気にしないで……。",
+			"괜찮아……메이 선배……나 같은 건 신경 쓰지 말아…….",
+			"I'm fine... Mei-senpai... Don't worry about me...",
+			null,
+			"It's okay ......芽衣学姐Don't worry about me ......",
+			"I'm fine, I'm fine. ...... Mei Senpai ...... don't worry about me. ......"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56073,
+			"Bad girls, you should just sit there are watch the new centry coming!",
+			"还真是学不乖的家伙们，在末日降临之前留着自己的生命好好地享受最后的人生不好么？你们会亲眼目睹人类踏向新的旅程，这将会是两个世纪的交替！",
+			"飲み込みの悪い子たちね！最後の審判の日まで生きて、生を謳歌しようとは思わないの？人類が新たな一歩を踏み出すの、それをその目で見られるのよ。新しい世代への交代劇が始まるの！",
+			"이해가 느린 아이들 같으니! 최후의 심판의 날까지 살아서 생을 만끽해보겠다는 생각은 안 해? 인류가 새로운 한 걸음을 내딛는 걸, 그 눈으로 직접 볼 수 있다고. 새로운 세대로의 교체극이 시작되는 거야!",
+			"You slow learners! Don't you want to live until Judgment Day and enjoy life to the fullest? You'll see humanity take a new step forward, and a new generation will take over!",
+			null,
+			"You've learned your lesson well, don't you think it's a good idea to save your lives and enjoy the last days of your lives before the end? You will witness humanity embarking on a new journey, which will be the turn of two centuries!",
+			"You are not very good at swallowing, are you? Don't you want to live and enjoy life until the Last Judgment Day? Humanity will take a new step forward, and you can see it with your own eyes. A new generation will take over!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56074,
+			"That's nonsense! We won't let that happen… Death won't make the new era! We will save all human beings!",
+			"胡说八道！绝对不会允许这样的结局发生…死亡带来的新生都是骗人的！我会拯救所有的人！",
+			"誰がそんな結末を認めるもんですか！死を迎えることで、新しい命にバトンを託すなんて……私が、人類全員救ってみせるんだからっ！",
+			"누가 그런 결말을 인정하겠어! 죽음을 맞이함으로써 새로운 생명에게 바통을 넘긴다니…… 내가, 인류 모두 구해 보이겠어!",
+			"Who would accept such an ending?! Death bringing new life is such a lie... I'm going to save all of humanity!",
+			null,
+			"Nonsense! Will never allow such an end to happen...death brings new life is all a lie! I will save all of them!",
+			"Who would approve of such an ending? I'm not going to let death pass the baton to a new life. ...... I'm going to save all of humanity!"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56075,
+			"You still don't understand. Shicksal seal more Houkai power, the more serious consequence it will be. You will be the murderers.",
+			"你们还不明白么！天命越是封印崩坏，这些被淤积的崩坏能会越聚越多，到最后爆发的时刻才会导致全人类的灭亡！你们现在的抵抗恰恰是对人类无情地屠杀！",
+			"まだわからないの！？天命が崩壊を封じ込めれば、それだけ崩壊エネルギーが蓄積され、最後には大爆発が待ってる！全人類が消滅し、次世代への希望もなくなるわ。あなたたちの抵抗は、人類の虐殺に等しいのよ！",
+			"아직도 모르겠어!? 천명이 붕괴를 봉인하면, 그만큼 붕괴 에너지가 축적되어 결국 대폭발이 기다리고 있어! 전 인류가 소멸하고, 다음 세대에 대한 희망도 없어져. 너희들의 저항은 인류 학살과 다를 바 없어!",
+			"You still don't get it?! The longer Schicksal seals the Honkai away, the more Honkai Energy will accumulate, and eventually a huge explosion awaits! All of humanity will be wiped out, and all hope for the next generation will be lost. Your resistance is tantamount to genocide of the human race!",
+			null,
+			"Don't you understand! The more the Mandate of Heaven seals the collapse, the more the collapsed energy will gather, and the final moment of eruption will lead to the extinction of all mankind! Your resistance now is a merciless slaughter of humanity!",
+			"You still don't get it! If the heavenly life contains the disintegration, so much disintegration energy will accumulate, and finally, a huge explosion will be waiting for us! The entire human race will be extinguished, and there will be no hope for the next generation. Your resistance is tantamount to a genocide of the human race!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56076,
+			"What…",
+			"什么……",
+			"な、何を言って……。",
+			"뭐, 뭐라고…….",
+			"Wh-What are you saying...?",
+			null,
+			"What ......",
+			"Hey, what do you say ......."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56077,
+			"We can protect part of human beings now, so we choose to activate all Houkai power now. We will die, but some people will survive.",
+			"我们在世界的阴影中不断提升着人类的科技能力的极限，在崩坏进化之前运用这些超越崩坏的科技来保护一部分的人类。随后再触发崩坏，这样这一部分的人类就将存活下来！",
+			"私たちは、裏で人類の科学技術の限界を引き上げてきた。崩壊が進化を遂げる前に、この崩壊を超えた科学技術で一部の人類を守るの。そして、その直後に大崩壊を誘発させる。そうすれば人類は生き延びることができる！",
+			"우리는 뒤에서 인류의 과학 기술 한계를 끌어올려 왔어. 붕괴가 진화를 이루기 전에, 이 붕괴를 초월한 과학 기술로 일부 인류를 지키는 거야. 그리고 그 직후에 대붕괴를 유발시키는 거지. 그렇게 하면 인류는 살아남을 수 있어!",
+			"We have been working behind the scenes to push the limits of human science and technology. Before the Honkai evolves, we will protect some of humanity with science and technology that surpasses the Honkai. Then, immediately after that, we will trigger the Final Honkai Eruption. That way, humanity can survive!",
+			null,
+			"We are constantly raising the limits of human technological capabilities in the shadow of the world, using these technologies beyond the collapse to protect a portion of humanity before the collapse evolves. Then trigger the collapse, so that this part of humanity will survive!",
+			"We have been pulling up the limits of human science and technology behind the scenes. We protect some of humanity with science and technology beyond this collapse before the collapse evolves. Then we will trigger the great collapse immediately afterwards. Then humanity will survive!"
+		],
+		[
+			"msg",
+			56078,
+			"Bronya, you will stay alive. You will create the great new world!",
+			"而布洛妮娅，你就是这一科技极限的产物，我的女儿们会成为最初的进化者，跨过毁灭的焦土与前人的尸骸在崩坏消散之后创造新的世界，这才是唯一的存活之道！",
+			"そして、ブローニャ。あなたは、その科学技術の結晶なの。私の娘たちが新たな人類となり、焦土と人の屍を乗り越え、崩壊の消え失せた世界で新しい歴史を刻んでいく。これこそが、人類が生き延びる唯一の道なの！",
+			"그리고, 브로냐. 너는 그 과학 기술의 결정체야. 내 딸들이 새로운 인류가 되어 초토와 사람의 시체를 넘어, 붕괴가 사라진 세계에서 새로운 역사를 새겨 나갈 거야. 이것이야말로 인류가 살아남을 유일한 길이야!",
+			"And Bronya. You are the product of that science and technology. You, my daughter, will begin the new human race, overcome the scorched earth and human corpses, and write a new history in a world that has been destroyed and wiped out. This is the only way for humanity to survive!",
+			null,
+			"And Bronya, you are the product of this technological limit, my daughters will become the original evolutionary, across the scorched earth of destruction and the corpses of their predecessors to create new worlds after the disintegration and dissipation, which is the only way to survive!",
+			"And Bronya. You are the crystallization of that science and technology. My daughters will be the new humanity, overcoming the scorched earth and human corpses, making a new history in a world where the collapse has vanished. This is the only way for humanity to survive!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56079,
+			"…",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56080,
+			"Bronya, come back~ We will go to the brand new world.",
+			"布洛妮娅，回来吧，回到妈妈的身边，和妈妈一起去到新的世界，回到在孤儿院时幸福的时光吧。",
+			"ブローニャ！さぁ、こっちに帰ってらっしゃい。一緒に新しい世界に行きましょう。孤児院にいた頃の、幸せな時に戻れるのよ。",
+			"브로냐! 자, 이쪽으로 돌아와. 함께 새로운 세계로 가자꾸나. 고아원에 있을 때의 행복한 시절로 돌아갈 수 있어.",
+			"Bronya! Come back here. Let's go to the new world together. We can go back to the happy times when we were at the orphanage.",
+			null,
+			"Come back, Bronya, come back to your mother, go to a new world with her, go back to the happy times when you were in the orphanage.",
+			"Bronya! Come on, come back here. Let's go to the new world together. We can go back to those happy times when we were in the orphanage."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56081,
+			"Sorry, mother… I choose to fight with Mei sama.",
+			"对不起，妈妈……如果布洛妮娅只能一个人存活下来的话，我会选择和芽衣姐姐一起毁灭。",
+			"ごめんなさい、お母様……ブローニャしか生き延びることのできない未来なら、芽衣姉様と一緒に滅びる道を選びます。",
+			"죄송해요, 어머니... 브로냐만이 살아남을 수 있는 미래라면, 메이 언니와 함께 멸망의 길을 선택하겠습니다.",
+			"I'm sorry, Matushka... If the future holds that only Bronya can survive, then I will choose to perish together with Mei.",
+			null,
+			"Sorry, mom ...... If Bronya can only survive alone, I will choose to destroy with Meiko's sister.",
+			"I'm sorry, Mother ...... If a future in which only Bronya can survive, I will choose to perish with my sister Mei."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56082,
+			"Seriously? Bronya, you are a big girl now. It's your choice, I won't stop you. I will do the last thing to you then.",
+			"是么……布洛妮娅，看来你已经长大了呢。这是你的选择，妈妈不会再干涉你的想法了。所以作为监护人，就让妈妈来履行最后的义务……",
+			"そう……ブローニャ、成長したのね。それがあなたの選んだ道なら、もう説得はしないわ。でも、母親として最後の義務を果たさせてちょうだい……。",
+			"그래... 브로냐, 많이 컸구나. 그게 네가 선택한 길이라면, 더 이상 설득하지 않겠다. 하지만 어머니로서 마지막 의무를 다하게 해다오...",
+			"Is that so... Bronya, you've grown up. If that's the path you've chosen, I won't try to persuade you any more. But please let me fulfill my final duty as a mother...",
+			null,
+			"Really ...... Bronya, it looks like you've grown up. It's your choice and mommy won't interfere with your thoughts anymore. So as a guardian, let mommy fulfill her last obligation ......",
+			"So ...... Bronya, you've grown up. I won't try to talk you out of it anymore if that's the path you've chosen. But let me do my last duty as a mother: ......."
+		],
+		[
+			"msg",
+			56083,
+			"I will kill you by myself.",
+			"不听话的孩子就让妈妈亲手杀掉吧！",
+			"聞き分けのない子は、始末してあげる！",
+			"말을 듣지 않는 꼬맹이는, 처리해 주마!",
+			"Your mother will kill the disobedient child with her own hands!",
+			null,
+			"Let your mother kill the disobedient children with her own hands!",
+			"If a child is not a good listener, we will take care of him or her!"
+		]
+	],
+	"63": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56084,
+			"Power unit is infront of us. I won't let you destroy the St. Freya Hs.",
+			"动力炉就在前面！绝对不会让你们毁灭圣芙蕾雅学园的！",
+			"動力炉はもう目の前だよ！絶対に聖フレイヤ学園を破壊なんてさせないんだから！",
+			"동력로는 바로 눈앞이야! 절대로 세인트 프레야 학원을 파괴하게 두지 않을 거라고!",
+			"The power reactor is just ahead! We'll never let St. Freyja Academy be destroyed!",
+			null,
+			"The power furnace is just ahead! We will never let you destroy St. Freya's Academy!",
+			"The power reactor is right in front of us! I won't let you destroy St. Freya Academy!"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56085,
+			"Humph! You still haven't understood us. We're not interested in your trial. Shicksal will be judged by the new human.",
+			"哼！还不明白么！我对于天命的人体试验学园没有丝毫兴趣，愚蠢的天命只会在最后的审判日中化为历史，谁也不会在乎你们是否存在过。",
+			"ふんっ！まだ分からないの？私は人体実験が蔓延る天命の学園に、これっぽっちも興味なんてない。愚かな天命は、最後の審判の日に歴史と化すだけ。あなたたちの存在なんて、誰も気にしないわ。",
+			"흥! 아직도 모르겠어? 나는 인체 실험이 만연한 천명의 학원에, 이만큼 관심 같은 건 없어. 어리석은 천명은, 최후의 심판 날에 역사로 변할 뿐. 너희들의 존재 같은 건, 아무도 신경 쓰지 않아.",
+			"Hmph! You still don't understand? I have no interest in the Academy of Schicksal, where human experiments are rampant. Those Schicksal fools will become history on Judgement Day. No one cares about your existence.",
+			null,
+			"Huh! Don't you understand yet! I am not the least bit interested in the human experimentation academy of the Mandate of Heaven, the stupid Mandate of Heaven will only be turned into history in the final judgment day, and no one will care whether you ever existed or not.",
+			"Hmm! Still don't get it? I have not the slightest interest in a heavenly school where human experimentation is rampant. The foolishness of heavenly destiny will become history on the Day of Final Judgment. No one cares about your existence."
+		],
+		[
+			"msg",
+			56086,
+			"However, I need to activate Houkai power by wake up one thing in St. Freya HS.",
+			"但是为了实现人类的进化，触发大崩坏需要一个启动的道具，而这个道具就在这个学园的地底下，我只是来取回它而已。",
+			"でも、大崩壊を誘発するためにはある道具が必要でね。それが、あの学園の地下にあるの。人類の進化のため、私はそれを取り返しに来ただけ。",
+			"하지만, 대붕괴를 유발하기 위해서는 어떤 도구가 필요해. 그게 바로 그 학원 지하에 있지. 인류의 진화를 위해, 나는 그것을 되찾으러 온 것뿐이야.",
+			"But to trigger the Final Eruption, we need a certain tool. It's right underneath that school. For the sake of the evolution of mankind, I've come to retrieve it.",
+			null,
+			"But in order to achieve human evolution, triggering the Great Disintegration requires an activation prop, which is under the ground of this academy, and I just came to retrieve it.",
+			"But I need a certain tool to induce a major collapse. It is in the basement of that school. For the sake of human evolution, I have only come to retrieve it."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56087,
+			"One thing? Did you try to control Bronya to find that in church?",
+			"道具？难道是你之前控制布洛妮娅在教堂里找寻的那个东西么！",
+			"道具……もしかして、前にブローニャちゃんを操ったのも、それを探すため？",
+			"도구…… 혹시, 전에 브로냐를 조종한 것도, 그것을 찾기 위해서였어?",
+			"Tool... Is that the reason you controlled Bronya before, to find that?",
+			null,
+			"Props? Is it the same thing you controlled Bronya to find in the church before!",
+			"Tools...... maybe that's why you manipulated Bronya before, to find it?"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56088,
+			"Yes, it should be ours.I just try to get it back today!",
+			"没错，那个原本应该交付逆熵保管的东西，却因为天命主教耍的小心机而没有成功回收，今天我只是来把这件东西要回来罢了。",
+			"その通りよ！あれは本来ならネゲントロピーが保管すべきものなの！天命の主教が小細工をしたせいで、手中に収めることができなかったけど……今日は、それを返してもらうわ！",
+			"그렇지! 그것은 원래 네겐트로피가 보관해야 할 것이야! 천명의 주교가 소 잔꾀를 부린 탓에, 손에 넣지는 못했지만…… 오늘은, 그것을 돌려받을 거야!",
+			"That's right! That's something that should have been kept by Anti-Entropy! I wasn't able to get it because of the Schicksal Bishop's tricks... but today, I'm getting it back! (TN: The sole mention of Otto in Retro lmao)",
+			null,
+			"That's right, that originally should have been delivered to the custody of the reverse entropy, but because of the providential bishop played a careful game and did not succeed in recovery, today I just come to get this thing back.",
+			"That's right! That was originally meant to be kept by Negentropy! I didn't get to keep it in my hands because of the little tricks the Heavenly Bishop played with it, but ...... today, I'm giving it back to you!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56089,
+			"What's… that?",
+			"那到底是……什么东西！",
+			"それって、いったい……？何を奪うつもりなの！",
+			"그게 대체……? 뭘 빼앗으려는 거야!",
+			"What the hell is that...? What are you planning to steal?!",
+			null,
+			"What the hell is that ...... thing!",
+			"What the hell is that ......? What are you going to take away from it?"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56090,
+			"Seems Theresa still has some secrets to you. Hoho~",
+			"看来天命对自己的培养的孩子们的教育做的不够到家呢，你们居然不知道在自己生活的学园底下藏着这么危险的一颗炸弹。",
+			"どうやら、天命は子供たちに教えていないようね。哀れね、自分たちの学び舎たる学園の地下に、あんな危険極まりない爆弾が隠されていることを知らないだなんて。",
+			"천명은 아이들에게 가르치지 않은 모양이네. 불쌍하네, 자신들의 배움터인 학원 지하에 그런 위험천만한 폭탄이 숨겨져 있다는 걸 모르다니.",
+			"Apparently, Schicksal doesn't teach this to its children. How pitiful that they don't know that such a dangerous bomb is hidden underneath their school.",
+			null,
+			"It seems that the Mandate of Heaven is not doing enough to educate its own children, and you don't know that there is such a dangerous bomb hidden under the school you live in.",
+			"Apparently, Heaven's mission has not been taught to the children. It's pathetic that they don't know that such a dangerous bomb is hidden in the basement of their school."
+		],
+		[
+			"msg",
+			56091,
+			"It's the product of the \"Second Houkai power rampage\" 2000 years ago-- \"The second Herrscher\".",
+			"那是早在2000年时爆发的第二次崩坏的产物——第二律者。",
+			"私が取りに来たのは、2000年に発生した第二次崩壊の産物——第二律者よ！",
+			"내가 찾아온 건, 2000년에 발생한 제2차 붕괴의 산물——제2 율자야!",
+			"What I have come to retrieve is the product of the Second Eruption that occurred in the year 2000 — the Second Herrscher!",
+			null,
+			"That was the product of the second collapse that broke out back in the year 2000 - the Second Herrscher.",
+			"What I have come for is the product of the second collapse that occurred in 2000 - the Second Ruler!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56092,
+			"\"The second Herrscher\"……",
+			"第二律者……",
+			"第二律者……。",
+			"제2 율자…….",
+			"The Second Herrscher...",
+			null,
+			"The Second Herrscher ......",
+			"The Second Ruler. ......."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56093,
+			"You seems don't remember your identity, Mei. She was same as you, the difference is you are \"alive\".",
+			"看来和平的日子已经让你忘记了自己的身份呢，雷电芽衣。没错，那个教堂底下埋藏的是和你一样的东西哦，只不过你现在还活着，而底下的那具只不过是第二律者的残骸而已。",
+			"雷電芽衣、平和ボケで忘れてしまったのかしら？まるで他人事ね。あの学園の教会の地下に隠されているのは、あなたと同じ存在よ……ただ、生きているあなたと違って、地下のあれはただの残骸に過ぎないけどね。",
+			"라이덴메이, 평화에 찌들어 잊어버린 건가? 마치 남의 일인 양 말이지. 그 학원 교회 지하에 숨겨져 있는 건 너와 같은 존재야… 단, 살아있는 너와 달리 지하에 있는 그건 그저 잔해에 불과하지만.",
+			"Raiden Mei, have you forgotten about this because of your oh so peaceful life? It's like it's someone else's problem. Hidden in the basement of that school's church is a being just like you... However, unlike you, a living being, the thing underground is nothing more than a corpse.",
+			null,
+			"It seems that the days of peace have made you forget your identity, Raiden Meiko. That's right, what is buried under that church is the same thing as you, except that you are still alive, and the one underneath is just the remains of the Second Herrscher.",
+			"Raiden Mei, have you been so peaceful that you've forgotten? You sound like someone else. Hidden in the basement of that school's church is a being just like you ......, only unlike you who are alive, that thing in the basement is just a wreck."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56094,
+			"I have read that in a book. 2000 years ago, Shicksal valkyries killed \"The second Herrscher\" in Siberia.",
+			"女武神的资料中记载过这些历史……在2000年的时候于西伯利亚爆发的第二次崩坏，天命率领的女武神与第二律者展开了激烈的死斗，最终将第二律者消灭……",
+			"学園の資料にその歴史について記されていたわ……2000年にシベリアで発生した第二次崩壊は、天命率いる戦乙女と第二律者が激しい死闘を繰り広げ、ついには消滅させたって……。",
+			"학원 자료에 그 역사가 기록되어 있었어… 2000년 시베리아에서 발생한 제2의 붕괴는 천명이 이끄는 발키리와 제2 율자가 치열한 사투를 벌여, 결국 소멸시켰다고….",
+			"Its history was recorded in the school's documents... The Second Eruption occurred in Siberia in the year 2000, and a fierce battle was fought between the Valkyries led by Schicksal and the Second Herrscher, which ultimately led to its annihilation...",
+			null,
+			"Valkyrie data recorded in these histories ...... in 2000 years in Siberia, the second outbreak of the collapse of the Valkyrie led by the Mandate of Heaven and the second law of the fierce death struggle, and finally wiped out the second law ......",
+			"The school's archives describe its history: ......The Second Collapse occurred in Siberia in 2000, when the War Maidens led by Tenmei and the Second Ruler fought a fierce battle to the death and finally extinguished it.... ...."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56095,
+			"It should be \"caught\" not \"killed\".",
+			"是“捕获”而不是“消灭”，篡改历史可不是好习惯呢。",
+			"「消滅」でなくて「捕獲」よ。歴史を改竄するのは、感心しないわね。",
+			"「소멸」이 아니라「포획」이야. 역사를 날조하다니, 참으로 유감스러운 일이네.",
+			"It's not \"annihilation\", it's \"capture\". I don't approve of rewriting history.",
+			null,
+			"It is \"capture\" and not \"destroy\", it is not a good habit to falsify history.",
+			"It's not \"disappear,\" it's \"capture.\" I'm not impressed with your falsification of history."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56096,
+			"I don't care! What's your aim to get it?",
+			"管它是第二律者还是什么的！那种死掉的东西有什么用……呃！你们的目的绝对不止这些！",
+			"その第二律者っていうのは、もう死んでるんでしょ！何に使うつもり！？それだけが目的だなんて、信じられない！",
+			"그 제2 율자라는 건 이미 죽은 거잖아! 뭘 하려는 거야!? 그게 목적이라고? 믿을 수가 없어!",
+			"That Second Herrscher is already dead! What are you planning to use it for?! I won't believe that's your only purpose!",
+			null,
+			"Who cares if it's the Second Herrscher or something! What good is that dead stuff ...... uh! You guys are definitely up to more than that!",
+			"That second Herrscher is already dead, isn't it? What are you going to use it for? I can't believe that's all they want!"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56097,
+			"Humph, I thought you were just followed Shicksal orders. I'm wrong, You were just controlled by Shicksal and knew nothing.",
+			"哼，我以为天命的女武神都只是一味服从命令的机器而已，看来这种智商连机器都不如，应该叫做木偶才对~",
+			"ハッ、天命の戦乙女は命令に従うことに長けた機械かと思っていたけど、どうやらそれ以下の知能のようね。木偶の坊とでも呼んだ方がお似合いかしら？",
+			"하, 천명의 전처녀는 명령 복종만 잘하는 기계인 줄 알았더니, 그보다도 못한 지능을 가졌나 보네? 목각인형이라고 부르는 게 더 어울릴 것 같아?",
+			"Ah, I thought the Valkyries of Schicksal were machines skilled only at following orders, but it seems they're less intelligent than that. Maybe calling them puppets would be more appropriate?",
+			null,
+			"Hum, I thought all the female warriors of the Mandate of Heaven were just machines that obeyed orders, but it seems that this kind of intelligence is not even better than a machine, it should be called a puppet ~",
+			"Ha, I thought the Heavenly Warrior Maiden was a machine skilled at following orders, but it seems she is less intelligent than that. I guess it would be more appropriate to call her a \"wooden idol\"?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56098,
+			"What are you saying?",
+			"你说什么！",
+			"何ですって！？",
+			"뭐라고!?",
+			"What did you just say?!",
+			null,
+			"What did you say!",
+			"I beg your pardon?"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56099,
+			"We haven't changed our aim, we will activate Houkai power, start the new era. We still need two things, one is \"The second Herrscher\" and the other, guess what it is?",
+			"我们的目的从来就没有改变过，触发大崩坏，打开通往下个时代的大门。而为了引发大崩坏需要两样重要的东西，那是崩坏创造出来灭亡人类的最强兵器，一件就是大教堂底下的第二律者，而另一件……你们猜猜看是什么呢？",
+			"私たちの目的は何も変わらない。大崩壊を誘発し、次の世代への扉を開くこと。そして、その誘発のために2つのものが必要になる——1つは学園の地下に眠る第二律者。そして、もう1つが……何だと思う？",
+			"우리의 목적은 조금도 변하지 않았다. 대붕괴를 유발해 다음 세대로 향하는 문을 여는 것. 그리고 그 유발을 위해 두 가지가 필요해——하나는 학원 지하에 잠든 제2율자. 그리고 또 하나는…… 뭔지 알겠어?",
+			"Our goal remains the same. To trigger the Final Eruption and open the door to the next generation. And to trigger it, we need two things — the first is the Second Herrscher sleeping in the basement of the school. And the other thing is... guess what?",
+			null,
+			"Our purpose has never changed, to trigger the Great Disintegration and open the door to the next era. And in order to trigger the Great Disintegration needs two important things, that is the most powerful weapon created by the Disintegration to exterminate mankind, one is the Second Herrscher under the Cathedral, and the other ...... you guess what it is?",
+			"Our goal is no different. To induce the Great Collapse and open the door to the next generation. And to induce it, we need two things - one is the Second Ruler, which lies in the basement of the school. And the other is ...... guess what?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56100,
+			"The other thing…",
+			"另一件……莫非是！？",
+			"もう1つのもの……？まさか！？",
+			"또 다른 것……? 설마!?",
+			"One more thing...? It can't be?!",
+			null,
+			"Another piece of ...... Murphy!",
+			"Another one ......? No way!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56101,
+			"…",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56102,
+			"Errr!!",
+			"呃！！",
+			"あっ……うぅ……ッ！！",
+			"앗……우……흑!!",
+			"Ah... ugh...!!",
+			null,
+			"Ugh!!!",
+			"Oh ...... ugh ......!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56103,
+			"Mei!?",
+			"芽衣学姐！？",
+			"芽衣先輩ッ！？",
+			"메이 선배!?",
+			"Mei-senpai?!",
+			null,
+			"Meiko-senpai!",
+			"Mei-senpai-senpai!"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56104,
+			"Bingo, \"The third Herrscher\" Raiden Mei!",
+			"答对了，那就是“第三律者”雷电芽衣！",
+			"正解！それは第三律者「雷電芽衣」よ！",
+			"정답! 그건 제3율자「라이덴메이」라고!",
+			"Correct! The Third Herrscher, \"Raiden Mei\"!",
+			null,
+			"That's right, it's the \"Third Herrscher\" Raiden Meiko!",
+			"Correct answer! That's the third ritist, \"Raiden Mei\"!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56105,
+			"Leave her alone!!",
+			"给我放开芽衣学姐！！",
+			"芽衣先輩を放しなさい！",
+			"메이 선배를 놓으라고!",
+			"Let go of Mei-senpai!",
+			null,
+			"Let go of Meiko-san!",
+			"Let go of Mei-senpai!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56106,
+			"…",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56107,
+			"Ping!!!",
+			"砰！！！",
+			"パン——ッ！！！",
+			"빵——!!!",
+			"<i>Bang——!!!</i>",
+			null,
+			"BANG!!!",
+			"Pan--!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56108,
+			"Er ahhhh!!!",
+			"呃啊啊啊！！！",
+			"あぁあああッ！！",
+			"아아아악!!",
+			"Aahhhh!!",
+			null,
+			"Uhhhhhhh!!!",
+			"Ahhhh!"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56109,
+			"Hehehe… Sin, show me your power!",
+			"呵呵呵……没错，杏。把体内宝石的力量发挥出来吧！你将是妈妈最后的希望，给妈妈展现你成长的成果吧！",
+			"ククク……いいわ、シン。体内にあるジェムの力を解放しなさい。あなたはママの最後の希望よ。ママに、その成長を見せてごらんなさい！",
+			"쿡쿡…… 좋아, 신. 몸 안에 있는 젬의 힘을 해방하렴. 넌 엄마의 마지막 희망이야. 엄마에게, 그 성장을 보여다오!",
+			"Hehehe... It's okay, Sin. Release the power of the gem inside your body. You're Matushka's last hope. Show me how much you've grown!",
+			null,
+			"Ohhhh ...... That's right, apricot. Bring out the power of the gem inside you! You will be the last hope of your mother, show her the fruits of your growth!",
+			"Kukuk...... okay, Shin. Release the power of the Gem in your body. You are Mom's last hope. Let Mommy see you grow!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56110,
+			"Yes, mom.",
+			"是……妈妈。",
+			"はい……ママ。",
+			"네…… 엄마.",
+			"Yes... Matushka.",
+			null,
+			"It's ...... mom.",
+			"Yes ...... mom."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				665,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56111,
+			"Nooo!!! I won't let you harm Mei!!",
+			"可恶！！我是不会让你伤害芽衣学姐的！！！",
+			"くっ！！芽衣先輩には、指一本も触れさせやしないんだからッ！！",
+			"쿳!! 메이 선배에게는 손가락 하나도 대지 못하게 할 거야!!",
+			"Damn it!! I won't let you lay even one finger on Mei-senpai!!",
+			null,
+			"Damn it! I won't let you hurt Meiko-san!",
+			"Damn! I won't let Mei-senpai-senpai touch even one finger!"
+		]
+	],
+	"64": [
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56112,
+			"Sorry… Mom, I'm too weak, can't even stay alive…",
+			"妈妈……对不起…我还是太弱小了，就连活着都无法做到……",
+			"ママ……ごめんなさい……ボク、やっぱり弱かったんだ……生きていることさえ、もう限界みたい……。",
+			"엄마…… 미안해…… 나, 역시 약했어…… 살아있는 것 조차, 이제 한계인 것 같아…….",
+			"Matushka... I'm sorry... I guess I was weak after all... It seems like I've reached my limit even of staying alive...",
+			null,
+			"Mom ...... sorry...I'm still too weak to even stay alive ......",
+			"Mom......I'm sorry......I'm so weak after all......I feel like I'm at the end of my rope, even being alive.... I can't even stay alive anymore...."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56113,
+			"Sin, nevermind. I will take you to the brand new world.",
+			"杏……没关系。我们马上就会得到解脱了。妈妈会带着你们到达新的彼岸……那里将没有鲜血和杀戮……只有一望无际的麦田与风中悠扬的摇篮曲。",
+			"シン……大丈夫よ。すぐ楽になるわ。ママが、あなたたちを彼岸に連れて行ってあげる。そこは血が流れることも殺戮もない……一面の麦畑と、子守歌が聞こえてくる場所なの。",
+			"얘야…… 괜찮아. 곧 편안해질 거야. 엄마가 너희를 저 세상으로 데려갈게. 거긴 피도 흐르지 않고 살육도 없는…… 끝없는 밀밭이 펼쳐지고 자장가가 들려오는 곳이야.",
+			"Sin... It's okay. You'll feel better soon. Matushka will take you all to the new world. There's no bloodshed or carnage there... It's a place with nothing but wheat fields and the sound of lullabies.",
+			null,
+			"Apricot ...... It's okay. We will be relieved soon. Mom will take you to the new shore ...... where there will be no blood and killing ...... only endless fields of wheat with lullabies lulling in the wind.",
+			"Shin ...... It's okay. It'll get easier soon. Mama will take you all to the other shore. It's a place where there's no bloodshed and no carnage,...... where you'll see fields of wheat and hear lullabies."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56114,
+			"Oh, cradlesong, I feel so warm…",
+			"杏听到妈妈唱的摇篮曲……好温暖的感觉……",
+			"ママの子守歌が聞こえる……あったかい……。",
+			"엄마의 자장가가 들려…… 따뜻해……",
+			"I can hear Matushka's lullaby... It's warm...",
+			null,
+			"Apricot heard mother singing lullabies ...... good warm feeling ......",
+			"I can hear mommy's lullaby: ...... warm ......."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56115,
+			"Take a sleep, when you wake up, it will be the brand new world.",
+			"睡吧，等下次醒来的时候就是新的世界了。",
+			"眠りなさい。次に目覚める時は、新しい世界になってるわ。",
+			"잠들어라. 다음에 눈 뜰 땐, 새로운 세상이 되어 있을 거야.",
+			"Go to sleep now. The next time you wake up, it'll be a new world.",
+			null,
+			"Go to sleep, and when you wake up next time it will be a new world.",
+			"Go to sleep. The next time you wake up, it will be in a new world."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				665,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56116,
+			"Yes, mom…",
+			"嗯，妈妈……",
+			"うん、ママ……。",
+			"응, 엄마…….",
+			"Okay, Matushka...",
+			null,
+			"Well, mom ......",
+			"Yeah, mom. ......."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56117,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56118,
+			"*Sound of cough*",
+			"咳咳！咳咳！呜咕！！噗！！",
+			"ゴホッ！ゲホ、ゲホ……ッ！",
+			"콜록! 게흑, 게흑……!",
+			"<i>Cough! Cough, cough...!</i>",
+			null,
+			"Ahem! Ahem! Woo-hoo!!! Pfft!!!",
+			"Goho! Gho, gho ......ッ!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56119,
+			"Kiana!",
+			"琪亚娜！振作点！琪亚娜！",
+			"キアナちゃん！しっかりして！キアナちゃん！！",
+			"키아나！정신 차려！키아나！！",
+			"Kiana-chan! Stay strong! Kiana-chan!!",
+			null,
+			"Kiana! Pull yourself together! Kiana!",
+			"Kiana! Stay with me! Kiana-chan!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56120,
+			"It's all over, I said it. I won't let you detroy the things I love…",
+			"已经结束了…我说过，不会让你们破坏我所爱的一切……",
+			"もう、終わりよ……私の愛するものを、何一つ壊させやしない……。",
+			"이제, 끝이야…… 내가 사랑하는 것을, 단 하나도 부수게 하지 않아……。",
+			"It's over now... I won't let anything I love be destroyed...",
+			null,
+			"It's over...I said I wouldn't let you destroy everything I love ......",
+			"It's over. ...... I won't let you destroy anything I love. ......"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56121,
+			"Humph, naive. It's your fate.",
+			"哼，你们还是太天真了。当这艘「月光王座」到达这片空域的时候一切都已经注定了。",
+			"ふん、やっぱり無垢なガキね……この戦艦がこの区域に到達した時点で、勝敗は決しているのよ。",
+			"흥, 역시 순수한 꼬맹이구나…… 이 전함이 이 구역에 도달한 시점에서, 승패는 결정된 거야.",
+			"Hmph, you really are just a naïve brat... The moment Moonlight Throne reached this area, the outcome has already been decided.",
+			null,
+			"Hmph, you are still too naive. When this \"Moonlight Throne\" arrived in this airspace, everything was already predetermined.",
+			"Hmm, I knew you were an innocent kid. ...... As soon as this battleship reaches this area, it's a win/win situation."
+		],
+		[
+			"msg",
+			56122,
+			"「Sirin」 is not only a \"Power unit\", it's also the \"key\" to open the new world! It's the core of \"The second Herrscher\".",
+			"这个名为「Sirin」的熔炉不仅是这艘战舰的动力核心，同时也是打开新世界大门的钥匙——第二律者的「律者核心」。",
+			"この「シーリン」という動力炉は、戦艦の動力の中心っていうだけじゃない。新しい世界の扉を開く鍵——第二律者の「核心」でもあるのよ。",
+			"이 「시린」이라는 동력로는 전함 동력의 중심뿐만이 아니야. 새로운 세계의 문을 여는 열쇠—— 제2 율자의「 핵심」이기도 하니까.",
+			"This power reactor called \"Sirin\" is not just the center of power for the battleship. It is also the key to opening the door to a new world — the \"Core\" of the Second Herrscher.",
+			null,
+			"This furnace named \"Sirin\" is not only the power core of this warship, but also the key to open the door to a new world - the \"Ruler Core\" of the Second Ruler.",
+			"This power reactor called \"Sealine\" is not only the center of power of the battleship. It is also the key that opens the door to a new world - the \"core\" of the Second Ruler."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56123,
+			"Core of \"The second Herrscher\"?",
+			"律者…核心？",
+			"律者の……核心？",
+			"율자의... 핵심?",
+			"Core of the... Second Herrscher?",
+			null,
+			"The Herrscher...the core?",
+			"The ...... core of the law?"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56124,
+			"It our destiny.",
+			"一切都是被安排好的…人类的存亡也好，世界的轮回也好，我们只不过是这湍流不息的星河中的沙砾罢了，不管如何挣扎，都无法激起一丝涟漪。",
+			"全ては定めなの……人類の存亡も、世界の輪廻も。私たちは、この銀河の乱気流に漂う砂利にすぎない。どう足掻こうと、さざ波ひとつ立てられやしないのよ。",
+			"모든 건 운명이야... 인류의 존망도, 세계의 윤회도. 우리는 이 은하의 난기류에 떠도는 자갈에 불과해. 어떻게 발버둥쳐도, 잔물결 하나 일으키지 못해.",
+			"Everything is predestined... the survival of humanity, the reincarnation of the world. We are nothing but gravel in the turbulent currents of this galaxy. No matter how hard we struggle, we cannot make even a ripple.",
+			null,
+			"Everything is arranged... Whether the survival of mankind, the world's reincarnation or not, we are just gravel in this turbulent river, no matter how to struggle, can not stir up a ripple.",
+			"Everything is predestined ...... for the survival of humanity and the reincarnation of the world. We are but gravel in the turbulence of this galaxy. No matter how we struggle, we can't even make a ripple."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56125,
+			"I can change it!",
+			"那只是你不想承认自己的可能性罢了……",
+			"それは、あんたが自分の可能性を信じようとしてないだけじゃない……。",
+			"그건 네가 자신의 가능성을 믿으려 하지 않기 때문이 아니겠어…….",
+			"You just don't want to admit there's other possibilities...",
+			null,
+			"That's just a possibility you don't want to admit to yourself ......",
+			"It's not just that you're not willing to believe in your potential. ......"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56126,
+			"Really? Just show me then…",
+			"可能性么？那就来证明给我看吧…",
+			"可能性ですって？だったら、証明してみせなさい……。",
+			"가능성이라고? 그렇다면, 증명해 보여…….",
+			"Possibilities? Then prove it to me...",
+			null,
+			"Is it possible? Then prove it to me...",
+			"Possibility? Then prove it. ......"
+		],
+		[
+			"msg",
+			56127,
+			"Sirin, wake up. My daughter, finish the last part to start the new era!",
+			"Sirin，醒来吧，我最后的“女儿”，为妈妈铺完最后一段道路吧。",
+			"シーリン、起きなさい！私の最後の「娘」よ！ママのために最後の道を作ってちょうだい！！",
+			"시린, 일어나! 나의 마지막 「딸」이여! 엄마를 위해 마지막 길을 열어다오!!",
+			"Sirin, wake up! My last \"daughter\"! Pave the final road for your mother!!",
+			null,
+			"Sirin, wake up, my last \"daughter\", and finish paving the last stretch of road for your mother.",
+			"Sirin, wake up! You are my last \"daughter\"! Make the last road for mommy!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56128,
+			"「Yes,my mom」",
+			"「Yes,my mom」",
+			"「Yes,my mom」",
+			"「Yes,my mom」",
+			"\"Yes, my mother.\" (TN: This line is in English originally for some reason.)",
+			null,
+			"\"Yes, my mom\"",
+			null
+		],
+		[
+			"msg",
+			56129,
+			"Bang!!!",
+			"轰隆隆！！！！！",
+			"ドゴォオオオン！！！",
+			"쿵!!!",
+			"<i>BOOOOOM!!!</i>",
+			null,
+			"Rumble ！！！！！",
+			"Dogooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56130,
+			"Errr!! What happened…",
+			"呃！发生了什么……",
+			"きゃっ！いったい、何なの……。",
+			"꺅! 대체, 뭐야…….",
+			"Aahh! What on earth is this...?",
+			null,
+			"Ugh! What's happening ......",
+			"Kya! What in the world is ......?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			56131,
+			"Houkai power detected. \"Moonlight throne\" is falling!",
+			"月光王座的动力炉内检测到剧烈的崩坏能反应…但是战舰的动力停止了，月光王座正在下坠。",
+			"月光玉座の動力炉に激しい崩壊エネルギー反応が検出された……しかし、戦艦の動力は止まり、月光玉座は墜落している。",
+			"달빛 옥좌의 동력로에 격렬한 붕괴 에너지 반응이 감지됐다…… 하지만 전함의 동력은 멈추고, 달빛 옥좌는 추락하고 있다.",
+			"A violent Honkai Energy reaction was detected in the Moonlight Throne's power reactor... but the battleship's power has stopped and the Moonlight Throne has crashed. (TN: Seriously, why can't they just have narration? It's weird in this line how Bronya explained exactly what happened, and a bit anticlimatic too.)",
+			null,
+			"A violent disintegration energy reaction was detected in the power furnace of the Moonlight Throne...but the power of the battleship stopped and the Moonlight Throne was falling.",
+			"A severe decay energy reaction was detected in the power reactor of the Moonlight Throne...... but the battleship stopped powering up and the Moonlight Throne crashed."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			56132,
+			"Brand new world…",
+			"与新世界的接触开始了……",
+			"今、新しい世界へと手が届くわ……",
+			"이제, 새로운 세계에 손이 닿을 거야……",
+			"Now, a new world is within reach...",
+			null,
+			"Contact with the new world begins ......",
+			"Now you can reach out to a whole new world. ......"
+		],
+		[
+			"msg",
+			56133,
+			"Welcome back, Houkai power and \"The second Herrscher\"! Hahahaha!",
+			"在这第二律者复苏的光芒中迎来最后的崩坏吧！！哈哈哈哈！！！",
+			"第二律者が復活する光の中で、最後の崩壊を迎えなさい！！フフッ、アハハハハッ——！！！",
+			"제2 율자가 부활하는 빛 속에서, 마지막 붕괴를 맞이하라!! 후후, 아하하하하핫——!!!",
+			"In the light of the Second Herrscher's resurrection, welcome the Final Eruption!! Hehe, AHAHAHAHAHA!!!",
+			null,
+			"In the light of the resurrection of the Second Herrscher comes the final collapse! Hahahahaha!!!",
+			"In the light of the resurrection of the Second Ruler, meet the final collapse! Hmph, ahahahahaha--!"
+		]
+	],
+	"65": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250677,
+			"「Alert！Alert！Moonlight throne is falling, Alert！Alert！」",
+			"「警报！警报！月光王座正在下坠，高度过低！高度过低！」",
+			"「警報！警報！月光王座の高度が急低下！航行の維持が困難！」",
+			"「경보! 경보! 월광왕좌의 고도가 급강하! 항행 유지 불가능!」",
+			"\"Warning! Warning! The Moonlight Throne's altitude is rapidly decreasing! Navigation is unstable!\"",
+			"Alerta! Aviso! O Trono do Luar está caindo. A altitude está muito baixa! A altitude está muito baixa!",
+			"\"Alert! Warning! The Moonlight Throne is falling. Altitude is too low! Altitude too low!\"",
+			"Alarm! Alarm! The altitude of the Moonlight Throne is dropping rapidly! Navigation is unsustainable!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250678,
+			"Team 5! Can you hear me!? Anti-entropy's warship is falling! Leave there!",
+			"第五小队！你们听得到么！逆熵战舰正在下坠！快点离开那里！",
+			"第五小隊！聞こえるかしら！？ネゲントロピーの戦艦が墜落するわ！早く脱出しなさい！",
+			"제5소대! 들리나요!? 네겐트로피의 전함이 추락할 거예요! 빨리 탈출하세요!",
+			"Squad V! Can you hear me?! The Anti-Entropy battleship is about to crash! Get out of there as fast as you can!",
+			"Equipe cinco! Vocês conseguem me ouvir? A nave da Anti-Entropia está descendo! Saiam daí rapidamente!",
+			"Squad 5! Can you hear me! The reverse entropy battleship is falling! Get out of there!",
+			"Fifth Platoon! Can you hear me! The Negentropy battleship is going down! Get out of there as fast as you can!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250679,
+			"Cough! Cocolia, you wanna die here?!",
+			"咳咳！可可利亚，你这家伙是想让我们一起死么……",
+			"ゲホッ！カカリア、あんた私たちと心中するつもり……？",
+			"컥! 쿠쿠리아, 너 우리랑 동반자살할 셈이야……?",
+			"<i>Cough!</i> Cocolia, are you planning to commit suicide with us...?",
+			null,
+			"Ahem! Coccolia, do you guys want us to die together ......",
+			"Geez! Kakaria, you're going to have a heart-to-heart with us ......?"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			250680,
+			"Die… Die is just another start of immortal, when the god appears, all the guilty will be mercy, only death can make you free!",
+			"死…死是永生的开始，当神的使者降临的时候，所有的罪恶都将得到宽恕，只有选择死亡才能得到心的自由！",
+			"死……死は永遠の命の始まりよ。神の使者が降臨した時、あらゆる罪が許される。死を選んではじめて、心の自由が得られるのよ。",
+			"죽음…… 죽음은 영원한 생명의 시작이야. 신의 사자가 강림하셨을 때 모든 죄가 사해지지. 죽음을 선택해야 비로소 마음의 자유를 얻을 수 있어.",
+			"Death... Death is simply the beginning of eternal life.  When God's messenger descends, all sins will be forgiven.  Only when you've chosen death will your soul be freed!",
+			"A morte... A morte é simplesmente o começo da vida eterna. Quando o mensageiro de Deus desce, todos os pecados serão perdoados. Só quando você escolher a morte sua alma será libertada!",
+			"Death... death is the beginning of eternal life, when the messenger of God comes, all sins will be forgiven, and only by choosing death will the heart be free!",
+			"Death ...... death is the beginning of eternal life. When the messenger of God descends, all sins are forgiven. Only when we choose death can our hearts be free."
+		],
+		[
+			"msg",
+			250681,
+			"Human reveres gods,  see the god who destroyed them as redeemer, death is the redemption for us. I will get pay for everything I lost!",
+			"人类畏惧着神，将毁灭自己的神看做是救世主，而死则是神赐予人类最后的救赎，我所失去的一切，都将得到回报！",
+			"人間は神を畏れ敬い、自らを滅ぼす存在である神を救世主だと信じている。死とは、神が人類に賜る最後の救済。失った数々のものが報われるの！",
+			"인간은 신을 두려워하며 공경하고, 스스로를 멸망시키는 존재를 구세주라고 믿고 있다. 죽음이란 신이 인류에게 내려주는 마지막 구원. 잃어버린 수많은 것들이 보상받는 것이다!",
+			"Humans fear God and believe that God, who will destroy them, is their savior. Death is the final salvation that God bestows upon mankind. It will make up for all the things we have lost!",
+			"O homem reverência a Deus e acredita em Deus, que se destrói, como seu Messias. A morte é a salvação final que Deus dá à humanidade. Tudo o que você perdeu será recuperado!",
+			"Mankind fears God and sees the God who destroys them as the savior, and death is the final salvation that God gives to mankind, and everything I have lost, I will be rewarded!",
+			"Humans fear and revere God, believing Him to be their savior, the very being who destroys them. Death is the final salvation that God bestows on mankind. It is the reward for all that we have lost!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250682,
+			"I don't think so! It's so negative, we should control our lifes… No one has the right to decide other's life!",
+			"谁会承认这种消极的结果！只有活着的人才会有自己的意义……没有人有权利夺走他人的生命！",
+			"そんなネガティブな結末、誰が認めるもんですか！人は生きているからこそ価値があるのよ。誰にも人の命を奪う権利なんかない！",
+			"그런 부정적인 결말, 누가 인정하겠어요! 사람은 살아있기 때문에 가치가 있는 거예요. 아무도 사람의 목숨을 빼앗을 권리는 없어!",
+			"Who would accept such a negative outcome?! People have value because they are alive. No one has the right to take another person's life!",
+			"Quem aceitaria um resultado tão negativo! As pessoas são valiosas porque estão vivas. Ninguém tem o direito de tirar a vida de outra pessoa!",
+			"Who will admit such negative results! Only those who live have their own meaning ...... No one has the right to take away the lives of others!",
+			"Who would approve of such a negative ending? People are valuable because they are alive. No one has the right to take someone's life!"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			250683,
+			"It's too late, stupid girl, Anti-entropy will win this time, we will free all people!",
+			"哼哼，蠢丫头，你现在说这些都已经没有用了，神的天平已经倒向了逆熵，所有的人都将引来最终的解放！",
+			"フフ、愚かな小娘が今さら何をほざいても無駄よ。神の天秤はネゲントロピーに傾いた。全人類が解き放たれる時が来たの！",
+			"훗, 어리석은 계집애가 이제 와서 무슨 소리를 해봤자 소용없어. 신의 천칭은 네겐트로피로 기울었으니. 전 인류가 해방될 때가 온 거야!",
+			"Haha, there's no point in you babbling about anything now, silly little girl. God's scales have tipped in favor of Anti-Entropy. The time has come for all of humanity to be set free!",
+			"Ha ha, garota estúpida, já não adianta mais você falar isso, a balança da providência se inclina para a Anti-Entropia. Está na hora de toda a humanidade ser libertada!",
+			"Hmph, stupid girl, it's useless for you to talk about this now, the scales of God have fallen to reverse entropy, and all will lead to the final liberation!",
+			"Hmph, what's the use of insinuating anything now, you silly little girl? God's scales have tipped to negentropy. It's time for all mankind to be unleashed!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250684,
+			"Oh! I will give the \"god\" a lesson then!",
+			"既然这样！就让我来把神教训一顿！",
+			"だとしたら、その神とやらに思い知らせてやるわ！",
+			"그렇다면, 그 신이란 놈에게 제대로 각성시켜 주겠어!",
+			"Is that so? Then I'll teach that god of yours a lesson!",
+			"É mesmo? Então eu vou ensinar uma lição a ´deus`!",
+			"In that case! Let me teach God a lesson!",
+			"If so, I'll remind you of that god!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250685,
+			"Kiana! Where are you going?!",
+			"琪亚娜！你要去哪！",
+			"キアナちゃん！どこ行く気！？",
+			"키아나 쨩! 어딜 가려는 거야!?",
+			"Kiana-chan! Where are you going?!",
+			"Kiana! Para onde você vai?!",
+			"Kiana! Where are you going!",
+			"Kiana! Where are you going!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250686,
+			"I must close the smelter… Cough! Although I don't know what's going on! However, the smelter must be the \"Key\" for resurgence the \"Herrscher\"…",
+			"当然是想办法关闭那个熔炉……咳咳！虽然不知道是怎么回事！但这个熔炉一定是复活律者的关键……",
+			"もちろん、何とかしてあの動力炉を閉じるの……ゲホッ、理屈はよく分からないけど、あの動力炉こそが律者を復活させる鍵みたいだから……。",
+			"물론, 어떻게든 저 동력로를 닫으러... 으억, 이론은 잘 모르겠지만, 저 동력로가 바로 호문쿨루스를 부활시키는 열쇠인 것 같아서...",
+			"Obviously, we have to shut down that reactor somehow... <i>Cough,</i> I don't really understand the logic, but it seems that reactor is the key to reviving the Herrscher...",
+			"Claro, terei que de alguma forma fechar aquele reator de energia.",
+			"Of course it is to find a way to shut down that furnace ...... Ahem! Don't know what's going on though! But this furnace must be the key to resurrecting the Ruler ......",
+			"Of course, we have to close that power reactor somehow......geh, I'm not sure of the logic, but it seems that that power reactor is the key to bringing the scribes back to life. ......"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250687,
+			"Kiana! Don't do that! Situation is complicated now! We shouold obey the oder! Leave the warship!",
+			"琪亚娜！不要乱来！现在的状况很复杂！给我遵从命令！脱离战舰！",
+			"キアナ、無茶はやめなさい！今の状況は、簡単に打開できるものじゃないわ。あたくしの命令に従って、戦艦から脱出しなさい！",
+			"키아나, 무리하지 마! 지금 상황은 쉽게 해결될 문제가 아니야. 내 명령에 따라, 전함에서 탈출해!",
+			"Kiana, stop being so reckless! This situation is not something that can be easily resolved. Follow my orders and escape from the battleship!",
+			"Kiana, pare de brincar! A situação atual não é fácil de superar. Siga minhas ordens e escape para nave de guerra!",
+			"Kiana! Don't mess around! The situation is very complicated! Obey my orders! Disengage from the battleship!",
+			"Kiana, don't be reckless! This is not an easy situation to overcome. Follow my orders and get out of the battleship!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250688,
+			"Sorry… Master Theresa! I can't leave there myself, please take Mei and Bronya away!",
+			"抱歉…德丽莎学园长，我现在的身体状态已经无法脱离了，请带着芽衣和布洛妮娅走吧！",
+			"ごめん、テレサ……この身体じゃ、もう私は脱出できない。芽衣先輩とブローニャが脱出したら、2人を連れて逃げて！",
+			"미안, 테레사... 이 몸으로는 더 이상 나는 탈출할 수 없어. 메이 선배와 브로냐가 탈출하면, 둘을 데리고 도망쳐!",
+			"Sorry, Theresa... I can't escape with this body. Once Mei-senpai and Bronya have escaped, take them and run!",
+			"Me desculpe... Diretora Teresa, não posso escapar com minha condição física atual, por favor, leve Mei e Bronya embora!",
+			"I'm sorry...schoolmistress Theresa, I can't detach myself in my current physical state, so please take Meiko and Bronya with you!",
+			"Sorry, Teresa ...... I can no longer escape with this body. When Mei Senpai and Bronya escape, take them with you and run away!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250689,
+			"No! Stop saying like that! I promised Cecilia I will protect you! If…",
+			"混蛋！你在胡说些什么！我可是答应过塞西莉亚要保护好你的！如果你有什么事的话我……咔！",
+			"バカッ！何、バカなこと考えてるの！あなたをちゃんと守るって、セシリアと約束したんだから！あなたにもしものことがあったら、あたくしはっ——く、通信が！",
+			"바보야! 뭔, 바보 같은 생각을 하는 거야! 너를 제대로 지키겠다고, 세실리아와 약속했단 말야! 네게 무슨 일이라도 생기면, 나는——크, 통신이!",
+			"You idiot! What stupid thing are you thinking?! I promised Cecilia that I'd protect you! If anything were to happen to you, I'd— Shit, the comm link is...!",
+			"Idiota! Que absurdo você está falando! Prometi a Cecília proteger você! Se precisar de alguma coisa me... chame!",
+			"Bastard! What are you talking about! I promised Cecilia I'd protect you! If anything happens to you I ...... click!",
+			"Stupid! What, are you thinking of something stupid? I promised Cecilia that I would protect you! If anything should happen to you, I'll-- k, I'm on comms!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250690,
+			"Kiana… You…",
+			"琪亚娜…你……",
+			"キアナちゃん……。",
+			"키아나 쨩...",
+			"Kiana-chan...",
+			"Kiana...Você....",
+			"Kiana...you ......",
+			"Kiana. ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250691,
+			"I decided it… Cough! Sorry, leave here, Mei.",
+			"我已经决定了……咳咳！对不起，芽衣学姐你们先走吧。",
+			"もう決めたの……ゴホッ！ごめん、芽衣先輩たちは先に逃げて。",
+			"이미 결정한 거야... 으억! 미안, 메이 선배들은 먼저 도망쳐.",
+			"I've already decided... <i>Cough!</i> Sorry, you guys have to run away first.",
+			"Já me decidi ...... tosse! Desculpe, Mei-senpai você e os outros  vão primeiro.",
+			"I have decided ...... cough cough! Sorry, Meiko-senpai you guys go first.",
+			"I've already decided ...... Goho! Sorry, Mei-senpai and the others run ahead."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			250692,
+			"You won't succeed! Moonlight throne! Attack! No one can leave here tonight!",
+			"休想得逞！月光王座的所有部队发起进攻！谁也别想从这里出去！",
+			"そうはさせないわ。月光王座の全隊に告ぐ、攻撃を開始せよ！誰もここから逃がすな！",
+			"그렇게는 안 놔둘 거야. 월광왕좌 전대에 고한다, 공격을 시작하라! 누구도 여기서 빠져나가지 못하게 하라!",
+			"I won't let that happen. Attention all Moonlight Throne troops, commence attack! Don't let anyone escape!",
+			"Vocês nunca terão sucesso! Todas as tropas do Moonlight Throne  ataquem! Ninguém sairá daqui!",
+			"You won't get away with it! All troops of the Moonlight Throne attack! No one will get out of here!",
+			"I won't let that happen. Attention all units of the Moonlight Throne, commence attack! Do not let anyone escape from here!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250693,
+			"Bang!!!!",
+			"轰隆隆隆！！！！",
+			"ドオォオオオン——ッ！！！",
+			"우르르르릉——크!!!",
+			"<i>BOOOOOM——!!!</i>",
+			null,
+			"Rumble Rumble ！！！！",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250694,
+			"Errrr…",
+			"呃……",
+			"ぅ……あッ！",
+			"으…… 앗!",
+			"Ugh... ah!",
+			null,
+			"Uh ......",
+			"Oooh ...... ah!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250695,
+			"Bronya!?",
+			"布洛妮娅！？",
+			"ブローニャ！？",
+			"브로냐!?",
+			"Bronya?!",
+			null,
+			"Bronya!",
+			"Bronya!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250696,
+			"Don't worry about me… I don't want to see Mom in suffer, Kiana, I will watch your back, let's end this!",
+			"不用管布洛妮娅…我不想看到妈妈再痛苦下去了，琪亚娜，掩护的工作就交给布洛妮娅，请让一切都结束吧。",
+			"ブローニャのことは気にしないでください……お母様が、これ以上苦しむのを見たくありません。キアナ、援護します。ここで何もかも終わらせましょう。",
+			"브로냐는 신경 쓰지 마세요…… 어머니가, 더 이상 고통받는 걸 보고 싶지 않아요. 키아나, 엄호할게요. 여기서 모든 걸 끝내자구요.",
+			"Please don't worry about Bronya... I don't want to see Matushka suffer any more. Kiana, I'll support you. Let's end this here.",
+			"Não se preocupe com a Bronya... Eu não quero ver minha mãe sofrer mais. Kiana, eu vou cuidar de sua segurança. Vamos terminar isso!",
+			"Don't bother with Bronya...I don't want to see Mom suffer any longer. Kiana, leave the covering to Bronya and please let it all end.",
+			"Don't worry about Bronya ...... I don't want to see your mother suffer any more than she already has. Kiana, I'll cover for you. Let's end everything here."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250697,
+			"Humph~ Kiana! I won't let you fight alone! Let's do it together!",
+			"嗯……琪亚娜！我不会让你一个人战斗的！就让我们一起阻止这场灾难吧！",
+			"そうよ……キアナちゃん一人で戦わせるものですか！一緒にこの大崩壊を阻止しましょう！",
+			"그래요…… 키아나 혼자 싸우게 둘 수 없어요! 함께 이 대붕괴를 막아봅시다!",
+			"That's right... I can't let Kiana-chan fight alone! Let's stop the Final Eruption together!",
+			"Está certo... Kiana! Eu não vou deixar você lutar sozinha! Vamos parar essa catástrofe juntas!",
+			"Well ...... Kiana! I won't let you fight alone! Let's stop this disaster together!",
+			"Yes, ...... Kiana, I will not let you fight alone! Together we can stop this great collapse!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250698,
+			"Mei… Hoho~ I love you so much~",
+			"芽衣学姐……嘿嘿~果然我还是最喜欢学姐了~",
+			"芽衣先輩……えへへ～、やっぱり先輩大好きーっ！",
+			"메이 선배…… 에헤헤~ 역시 선배 최고애요!",
+			"Mei-senpai... Ehehe~ I really love you, Senpai!",
+			null,
+			"Meizi school girl ...... hehehe~ really I still like school girl the most~",
+			"Mei senpai senpai ...... ehehe~ I still love senpai!"
+		],
+		[
+			"msg",
+			250699,
+			"Let's turn off the machine!",
+			"让我们一起关掉那个破机器吧！",
+			"じゃあ、一緒にあのポンコツを止めるの手伝って！",
+			"그럼, 함께 저 폐품을 막는 걸 도와줘!",
+			"So, help me turn off that piece of crap!",
+			"Vamos desligar essa máquina quebrada juntos!",
+			"Let's turn off that broken machine together!",
+			"Then help me stop that clunker together!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250700,
+			"Yeah!",
+			"嗯！",
+			"ええ！",
+			"네!",
+			null,
+			"Sim!",
+			"Hm!",
+			"Yes!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250701,
+			"Kiana! Kiana! Answer me! She cut down the communication…",
+			"琪亚娜！琪亚娜！回答我！可恶…居然把通讯给切断了…那个混蛋！",
+			"キアナ！キアナ！応答せよ！くっ……通信が切断された……あのバカッ！！",
+			"키아나! 키아나! 응답해! 쳇…… 통신이 끊겼어…… 저 바보야!!",
+			"Kiana! Kiana! Respond! Damn... The comms cut off... That idiot!!",
+			"Kiiana! Kiiana! responda-me! Droga... realmente cortaram a comunicação... Aquela desgraçada!",
+			"Kiana! Kiana! Answer me! Damn it...I can't believe I cut off the communication...that bastard!",
+			"Kiana! Kiana! Respond! Damn ...... communication disconnected ...... that idiot!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250702,
+			"Master… We lost the Moonlight throne signal, from the report of ground troops… It was destroyed after hitting the Big Church…",
+			"学园长…月光王座的信号消失了，根据地面部队反馈…与大教堂发生撞击后坠毁……",
+			"学園長……月光王座の信号が消えました。地上部隊からの報告によると……学園の教会に激突後、大破したと……。",
+			"학원장…… 월광왕좌의 신호가 사라졌어요. 지상 부대의 보고에 따르면…… 학원의 교회에 충돌 후, 대파되었다고…….",
+			"Principal... the Moonlight Throne's signal has been lost. Ground forces have reported... that it was heavily damaged after crashing into the school's church...",
+			"Diretor... O sinal do Moonlight Throne foi desligado. De acordo com um relatório das forças terrestres... ele foi destruído depois de colidir com a igreja da academia...",
+			"Schoolmaster...Moonlight Throne's signal disappeared, according to feedback from ground troops...crashed after collision with cathedral ......",
+			"The signal from the Dean ...... of the Moonlight Throne has been lost. The ground troops reported ...... that it was wrecked after crashing into the school's church. ......"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250703,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			250704,
+			"No!! No!! Why they didn't follow my orders! It's so difficult… So difficuly for me to see you again… Why…",
+			"可恶！！可恶！！为什么不听我的命令！逞什么英雄！好不容易…好不容易才再见到你……为什么…",
+			"何で！！何でなのよッ！！！どうして、あたくしの命令を聞かず、無茶なんかするの！英雄にでもなったつもり！？やっと……やっと見つけたのに……どうして……。",
+			"왜!! 왜냐고요!!! 어째서, 아타쿠시의 명령을 듣지 않고 무리수를 두는 거야! 영웅이라도 된 셈이야!? 겨우…… 겨우 찾았는데…… 어째서…….",
+			"Why?!! <i>Why are you doing this?!!!</i> Why did you disobey my orders and do something so reckless?! Do you think you're some kind of hero?! I finally... finally found you... so why...?",
+			"Por que! Por que você fez isso! Por que você desobedeceu minhas ordens e fez algo imprudente! Você pensa que é um herói! Eu finalmente ...... finalmente encontrei você. ...... Por que ......?",
+			"Damn it! Damn it! Why don't you listen to my orders! What a hero! It's so hard...it's so hard to see you again ...... Why...",
+			"Why? ! Why are you doing this? Why did you disobey my orders and do something reckless? You think you're a hero! I finally ...... found you at last. ...... Why ......?"
+		],
+		[
+			"msg",
+			250705,
+			"They are kids, but we can do nothing for them! I'm too useless!",
+			"明明还都是些孩子，而我们却在一旁什么都做不到！可恶！我真是太没用了！",
+			"子供たちばかり、どうしてこんな目に遭わなきゃいけないの。大人がついていながら、何もできなかった……っ！あたくし、どうしてこんなに役立たずなの！",
+			"아이들뿐인데, 어째서 이런 눈을 당해야 하는 거야. 어른들이 함께 있었으면서, 아무것도 못 했어……! 아타쿠시, 어째서 이렇게 무능한 거야!",
+			"Why do only children have to go through this? Even though adults are here, we can't do anything...! Why am I so useless?!",
+			"Por que todas as crianças deveriam passar por isso? Por que todas as crianças têm que sofrer assim? Por que sou tão inútil!",
+			"We're still kids and we can't do anything about it! Damn! I'm so useless!",
+			"Why should all the children have to go through this? Why is it that all the children have to suffer like this? Why am I so useless?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250706,
+			"Master…",
+			"学园长……",
+			"学園長……。",
+			"학원장…….",
+			"Principal...",
+			null,
+			"Schoolmaster ......",
+			"Dean ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250707,
+			"Beep Beep.",
+			"滴滴滴。",
+			"ピーッ、ピーッ、ピーッ……。",
+			"삐-, 삐-, 삐-…….",
+			"<i>Beep, beep, beep...</i>",
+			null,
+			"Drip drip drip.",
+			"Beep, beep, beep. ......"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250708,
+			"Big Church… Houkai energy? This couldn't happen…",
+			"大教堂么…崩坏能反应？怎么会……",
+			"教会から……崩壊エネルギー反応？いったい、何が……。",
+			"교회에서…… 붕괴 에너지 반응? 대체, 무슨…….",
+			"A Honkai Energy reaction... from the church? What the hell is going on...?",
+			"Na catedral?...A energia Honkai está se manifestando? Como poderia ......",
+			"Cathedral?...collapse can react? How can ......",
+			"A ...... decay energy reaction from the church? What in the world is ......."
+		],
+		[
+			"msg",
+			250709,
+			"Master Theresa! Houkai energy detected at where Moonlight throne crashed! It's still increasing!",
+			"德丽莎园长！据报告在月光王座坠毁的地方产生了强烈的崩坏能反应！目前还在进一步扩大！",
+			"テレサ学園長！偵察兵からの報告で、月光王座の墜落場所から強烈な崩壊エネルギー反応が発生したとのことです！その範囲は、今もなお拡大中とのこと！",
+			"테레사 학원장! 정찰병의 보고로, 월광왕좌의 추락 지점에서 강력한 붕괴 에너지 반응이 발생했다고 합니다! 그 범위는 지금도 계속 확대 중이라고 합니다!",
+			"Principal Theresa! Scouts have reported that a strong Honkai Energy reaction has occurred from the site where the Moonlight Throne crashed! The range is still expanding!",
+			null,
+			"Director Theresa Gardener! A strong collapse energy reaction has been reported at the site where the Moonlight Throne crashed! It is still expanding further!",
+			"Dean Teresa! Our scouts report that an intense disintegrating energy reaction has occurred from the crash site of the Moonlight Throne! The area is reported to be still expanding!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250710,
+			"… The long sleep devil finally will awake, we chose wrongly at the very beginning time, it's time to pay it.",
+			"…长眠的恶魔终究还是会苏醒么，从一开始我们就选择了错误的结局，看来是时候该赎罪了。",
+			"……長い眠りについていた悪魔が甦ってしまったのね。あたくしたちの選択は、初めから間違っていたということ？贖罪からはもう逃れられないのね。",
+			"…… 긴 잠에 들었던 악마가 되살아난 거네. 아타쿠시들의 선택은, 처음부터 틀렸던 거야? 속죄에서 이제는 벗어날 수 없는 거네.",
+			"...So the devil has risen from its long slumber. Does that mean our choice was wrong from the beginning? We can no longer escape from our atonement.",
+			"O demônio que estava adormecido por tanto tempo acordou. Isso significa que nossa decisão desde o início estava errada? Não podemos mais escapar da punição.",
+			"...the long-sleeping demon will finally wake up, from the beginning we chose the wrong ending, it seems to be time to redeem ourselves.",
+			"...... So the devil has risen from his long slumber. Are you saying that our choices were wrong from the beginning? There is no escape from redemption."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250711,
+			"Master, what do you mean…?",
+			"学园长，你的意思是……？",
+			"学園長、どういう意味ですか……？",
+			"학원장, 무슨 뜻이죠……?",
+			"Principal, what do you mean...?",
+			"Diretor, o que você quer dizer com isso...?",
+			"Gakuenji, you mean ......?",
+			"Dean, what do you mean ......?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250712,
+			"Hyperion landing! Shicksal, get ready for battle… St. Freya HS will fight until the last time, this is our last redemption, please show mercy, gods!",
+			"命令休伯利安号降落，通知天命本部…圣芙蕾雅学园将会奋战到最后一刻，这是我们对人类最后的救赎…后面就只能看神的旨意了。",
+			"ハイペリオン号、着陸せよ。聖フレイヤ学園は最後の時まで戦うと天命本部へ伝えて。これが人類の最後の贖罪……あとのことは神の思し召し次第よ。",
+			"히페리온 호, 착륙하라. 세인트 프레야 학원은 마지막 순간까지 싸우겠다고 천명 본부에 전해. 이게 인류의 마지막 속죄…… 이후는 신의 뜻대로야.",
+			"Hyperion, land. Tell Schicksal HQ that St. Freyja Academy will fight until the end. This is the final atonement for humanity... the rest is up to God's will.",
+			"Ordene que o Hyperion pouse e informe o Quartel General da Schicksal... A Academia St. Freya lutará até o último momento, esta é a nossa salvação final para a humanidade... Só podemos olhar para a vontade de Deus mais tarde.",
+			"Order the Huberian to land and notify the Mandate of Heaven headquarters ... St. Freya Academy will fight to the last moment, this is our final salvation of mankind ... later it will be left to the will of God.",
+			"Hyperion, land. Tell Heavenly Command that St. Freya Academy will fight until the end of time. This is humanity's final atonement ...... and the rest is up to God's will."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250713,
+			"…… Roger that.",
+			"……遵命。",
+			"……了解しました。",
+			"…… 알겠습니다.",
+			"...Roger that.",
+			null,
+			"...... compliance.",
+			"...... Roger."
+		]
+	],
+	"66": [
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250714,
+			"Is this the wreckage of Moonlight throne?",
+			"这里就是月光王座撞击大教堂的残骸么……",
+			"これが教会に激突した月光王座の残骸ね……。",
+			"이것이 교회에 충돌한 월광왕좌의 잔해네…….",
+			"These are the remains of the Moonlight Throne that crashed into the church...",
+			"São os destroços do moonlight throne atingindo a catedral...",
+			"Is this the wreckage of the Moonlight Throne hitting the cathedral ......",
+			"This is the wreckage of the moonlight throne that crashed into the church. ......"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				314,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250715,
+			"Master Theresa! Enemies on the ground were cleared! Where is Bronya!? Is she alright……",
+			"德丽莎园长！地面的机甲部队已经消灭完毕了！布洛妮娅姐姐呢！？她没事吧……",
+			"テレサ学園長、地上の機甲部隊の掃討は完了しました！ブローニャお姉ちゃんは無事ですよね……？",
+			"테레사 학원장, 지상의 기갑 부대 소탕은 완료되었습니다! 브로냐 언니는 무사하죠……?",
+			"Principal Theresa, we've completed the sweep of the mechas on the ground! Is Bronya safe...?",
+			"Diretora Teresa, a limpeza das unidades blindadas no terreno foi concluída! Onde está a minha irmã Bronya!？Ela está bem……",
+			"Director Theresa! The mecha units on the ground have been wiped out! Where is Sister Bronya! Is she okay ......",
+			"Dean Teresa, the sweep of the armored units on the ground is complete! Bronya's sister is safe, right ......?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250716,
+			"They are in the Moonlight throne, they were falling with the warship…",
+			"她们在月光王座里面，和战舰已经坠落了……",
+			"あの子たちは月光王座の船内よ。戦艦と一緒に墜落したわ……。",
+			"그 아이들은 월광왕좌의 선내야. 전함과 함께 추락했어…….",
+			"They're on board the Moonlight Throne. They crashed with the battleship...",
+			"Eles estão dentro do Moonlight Throne, mais o encouraçado caiu...",
+			"They are inside the Moonlight Throne, and the battleship has crashed ......",
+			"Those kids are on board the Moonlight Throne. They crashed with the battleship. ......"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				314,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250717,
+			"… This… Bronya!",
+			"……怎么会，布洛妮娅姐姐！",
+			"……そんな、ブローニャお姉ちゃん！",
+			"……그런, 브로냐 언니!",
+			"...Oh no, Bronya!",
+			"...... Por que, Irmã Bronya!",
+			"...... How, Sister Bronya!",
+			"......Such, sister Bronya!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250718,
+			"There are still some weapons in wreckage, maybe they are still alive?!",
+			"残骸里仍有残留的逆熵机甲兵器运作，说不定琪亚娜她们也还活着！？",
+			"戦艦の残骸の中に、まだ動いている機甲兵器があるわ。キアナたちだって生きているかもしれない……。",
+			"전함의 잔해 속에, 아직 움직이고 있는 기갑 병기가 있어. 키아나 녀석들도 살아있을지도…….",
+			"There are still functioning mechas in the remains of the battleship. Kiana and the others might still be alive...",
+			"Entre os destroços do encouraçado, ainda existem armas blindadas em funcionamento. Até mesmo Kiana e os outros podem estar vivos...",
+			"There are still residual anti-entropy mecha weapons operating in the wreckage, so maybe Kiana and the girls are still alive too!",
+			"There are still working armored weapons in the wreckage of the battleship. Even Kiana and her friends may be alive. ......"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250719,
+			"… You are right! Follow me, let's find them!",
+			"……你说的对！命令剩余的女武神与我一起突入教堂的残骸！即使是尸体也要给我找到她们！",
+			"……その通りよ！残りの戦乙女はあたくしに続いて崩れた教会へと突入！必ず、あの子たちを見つけ出すわよ！",
+			"……그래 맞아! 남은 발키리는 나를 따라 무너진 교회로 돌진! 반드시, 저 아이들을 찾아내겠어!",
+			"...That's right! Remaining Valkyries, follow me into the ruined church! We <i>will</i> find the girls!",
+			"……Isso mesmo! O resto das valquírias devem me seguir até a igreja em ruínas! Tenho certeza que vamos encontrá-las!",
+			"...... You're right! Order the remaining Valkyries to break into the wreckage of the church with me! Find them for me even if they are corpses!",
+			"...... is right! The rest of the war maidens followed me into the collapsed church! We'll find those girls, I promise!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				313,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250720,
+			"Roger that!",
+			"嗯！希儿这就去！",
+			"はい！ゼーレも一緒に行きます！",
+			"네! 제레도 함께 갈게요!",
+			"Yes! Seele will go with you!",
+			null,
+			"Yes! Shire is on her way!",
+			"Yes, I'll be there! Seele will go with you!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250721,
+			"Ka!!",
+			"嘎啦！！",
+			"ガラ——ッ！！",
+			"글라——스!!",
+			"<i>Clatter——!!</i>",
+			null,
+			"Gala!!!",
+			"Gala--!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250722,
+			"Is that enemy!? Ready for battle!",
+			"是逆熵的残部么！？开始攻击！",
+			"くっ、ネゲントロピーの生き残りか！？迎撃用意ッ！",
+			"쿨, 네겐트로피의 생존자냐!? 요격 준비!",
+			"Damn, an Anti-Entropy survivor?! Prepare to intercept!",
+			"São os remanescentes da Anti-Entropia! Comece o ataque!",
+			"Is it the remnants of Counter Entropy! Start the attack!",
+			"Damn, survivors of the negentropy! Prepare to intercept!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250723,
+			"Wait! That's Remodeled Bunny 19C!",
+			"等等！那个是重装小兔！",
+			"待ちなさい！あれは……重装ウサギよ！",
+			"기다려! 저건……중장토끼야!",
+			"Wait! That's... Armored Bunny!",
+			"Espere! Esse é o Project Bunny!",
+			"Wait! That's a reloading bunny!",
+			"Wait a minute! That's a ...... heavily armed rabbit!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250724,
+			"Cough!",
+			"咳咳！",
+			"ゴホ、ゴホ——ッ！",
+			"콜록, 콜록——!",
+			"<i>Cough, cough——!</i>",
+			null,
+			"Ahem!",
+			"Goho, goho--goho!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250725,
+			"Mei… Are you alright?",
+			"芽衣姐姐…你没受伤吧？",
+			"芽衣姉様……お怪我はありませんか？",
+			"메이 언니... 다친 데 없어요?",
+			"Mei... are you okay?",
+			null,
+			"Meiko-san...you're not hurt, are you?",
+			"Sister Mei ...... are you hurt?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250726,
+			"Humph… I'm fine, Bronya protected me… Kiana! Where is she?",
+			"嗯…没事，多亏了布洛妮娅的保护……琪亚娜！琪亚娜在哪里？",
+			"ええ……大丈夫、ブローニャちゃんが守ってくれたおかげよ……そうだ、キアナちゃん！キアナちゃんはどこ？",
+			"응... 괜찮아, 브로냐가 지켜줘서... 아 맞아, 키아나야! 키아나는 어디에?",
+			"Yes... I'm fine, thanks to Bronya-chan protecting me... That's right, Kiana-chan! Where's Kiana-chan?",
+			"Sim... está tudo bem, obrigado a Bronya-chan por me proteger... Kiana! Onde está Kiana?",
+			"Well...it's okay, thanks to Bronya's protection ...... Kiana! Where's Kiana?",
+			"Yes, ...... it's okay, thanks to Bronya's protection. ...... Yes, Kiana! Where's Kiana?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250727,
+			"Kiana… She ran to the smelter and didn't come back, I just saw Mei fell from the smelter.",
+			"琪亚娜…她冲向熔炉后就没有回来，布洛妮娅只看到芽衣姐姐从熔炉中掉了下来。",
+			"キアナは……動力炉に飛び込んだきり戻って来ていません。ブローニャは、芽衣姉様が動力炉から押し出されるように戻ってくるところしか確認できませんでした。",
+			"키아나는... 동력로로 뛰어든 채 돌아오지 않았어요. 브로냐는 메이 언니가 동력로에서 밀려나오는 걸 확인했을 뿐이에요.",
+			"Kiana... has not returned since she jumped into the reactor. All Bronya could see was Mei being pushed out of the reactor.",
+			"Kiana... ela não voltou depois de correr para a fornalha, e Bronya só viu a irmã Mei cair da fornalha.",
+			"Kiana...she rushed to the furnace and did not return, and Bronya only saw Meiko's sister fall from the furnace.",
+			"Kiana jumped into the ...... power reactor and has not returned. Bronya could only see Mei's sister being pushed back out of the power reactor."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250728,
+			"Kiana… Why! She pushed me at the last time… Why she did this! We should face it together!",
+			"琪亚娜…为什么！她在最后把我推了出去…为什么要做这种事情！我们不是说好要在一起的么！",
+			"キアナちゃんが……最後、私を押し出したの……どうして！一緒にって約束したのに！",
+			"키아나가... 마지막에 나를 밀어냈어... 왜! 함께 하기로 약속했는데!",
+			"Kiana... in the end, you pushed me away... Why?! We promised to be together forever!",
+			"Kiana... Por quê! Ela me empurrou no último momento... Por que ela fez isso! Prometemos enfrentar isso juntas!",
+			"Kiana...why! She pushed me out at the end...why did she do such a thing! Didn't we say we were going to be together!",
+			"Kiana pushed me out of the ...... last, ...... why! I promised her we'd be together!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250729,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250730,
+			"Master Theresa… I'm… sorry… It's… all my fault…",
+			"德丽莎园长……我…对不起…我…都是我的错……",
+			"テレサ学園長……すみません……みんな、私のせいで……。",
+			"테레사 학원장... 미안해요... 모두, 제 탓에...",
+			"Principal Theresa... I'm sorry... It's all my fault...",
+			"Diretora Teresa...eu...sinto muito...eu...é tudo minha culpa...",
+			"Theresa Gardener ...... I'm...sorry...I...it's all my fault ......",
+			"Theresa, Dean of the school ...... sorry ...... guys, it's my fault ......."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250731,
+			"No, it's not your fault… If I were Kiana, I would do it too… She is so… \"Stupid\"…",
+			"不，你没有错…如果我是琪亚娜的话一定也会这么做，她就是这样的傻孩子……",
+			"いえ、あなたのせいじゃないわ……もし、あたくしがキアナの立場でもきっと同じことをしたでしょう。そういうバカな子なのよ……。",
+			"아니, 당신 탓이 아니야... 만약, 아타쿠시가 키아나의 입장이었다면 분명 똑같이 했을 거야. 그런 바보 같은 애니까...",
+			"No, it's not your fault... If I were in Kiana's position, I'm sure I would have done the same. She's such a stupid child...",
+			"Não, não é sua culpa... Se eu estivesse na posição da Kiana, tenho certeza de que teria feito a mesma coisa. Ela é uma criança tão estúpida...",
+			"No, you're not wrong...if I were Kiana I would definitely do the same, she's such a silly kid ......",
+			"No, it's not your fault. ...... I'm sure if you were in Kiana's shoes, you would have done the same thing. She's a silly girl like that. ......"
+		],
+		[
+			"msg",
+			250732,
+			"Himeko, keep searching… We must find her!",
+			"姬子…继续搜索，一定要找到琪亚娜！",
+			"姫子少佐、捜索を続けて。必ずキアナを見つけ出すのよ！",
+			"히메코 소좌, 수색을 계속해. 반드시 키아나를 찾아내야 해!",
+			"Major Himeko, keep up the search. Make sure you find Kiana!",
+			null,
+			"Himeko...keep searching, make sure you find Kiana!",
+			"Major Himeko, continue your search. Make sure you find Kiana!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250733,
+			"Humph… Let me help too… She must be alive… At least, let me see her again…",
+			"嗯……请让我也一起把…她一定还活着…至少让我再见到她一次……",
+			"あの……私も捜索に加わらせてください……キアナちゃんは、きっと生きています……どうか、もう一度会わせて……。",
+			"저... 저도 수색에 참여하게 해주세요... 키아나은, 분명 살아있을 거예요... 제발, 한 번 더 만나게 해줘...",
+			"Um... please let me join the search... I'm sure Kiana's alive... Please, let me see her again...",
+			"Umm... deixe-me participar na busca... Tenho certeza que Kiana ainda está viva... por favor, deixe-me vê-la novamente...",
+			"Well ...... please let me along...she must still be alive...let me see her at least once more ......",
+			"Please let me join the search for that ...... Kiana, I'm sure she is alive ...... Please let me see her again! Please let me see her again. ......"
+		]
+	],
+	"67": [
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250734,
+			"Master Theresa, the main Houkai energy field is infront of us.",
+			"德丽莎园长，再往前就是崩坏能涌出的核心区域了。",
+			"テレサ学園長、崩壊エネルギーの漏出はこの先のポイントが中心となっています。",
+			"테레사 학원장, 붕괴 에너지의 누출은 이 앞의 포인트가 중심이 되고 있습니다.",
+			"Principal Theresa, the leakage of Honkai Energy is centered on the point ahead.",
+			"Diretora Theresa, diretamente à frente está o centro de onde a energia Honkai está sendo liberada.",
+			"Director Theresa Gardener, further ahead is the core area where the collapse energy gushes out.",
+			"Teresa Dean, the leakage of collapsing energy is the main point ahead."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250735,
+			"Dogma district… I see… Prepare for battle, Valkyries! This maybe our last battle…",
+			"教条区么…果然是这样么…命令女武神们全副武装！接下来可能是我们最后的战斗了……",
+			"この先はドグマエリア……やはり、そうなのね……戦乙女、全員警戒態勢に移行！これが、おそらく最後の戦闘になるはずよ……。",
+			"이 앞은 도그마 영역…… 역시, 그런 거네…… 전투처녀들, 전원 경계태세로 전환! 이것이, 아마도 마지막 전투가 될 거야…….",
+			"Up ahead is the Dogma Zone... I knew it... Valkyries, be on alert! This will most likely be the final battle...",
+			"Além deste ponto está a área Dogma...... como eu pensava. ...... Valquírias, todas se movam assim que eu ordenar! Esta é provavelmente a última batalha que vocês terão que travar.......",
+			"Dogma Zone?...is this really the case...order the Valkyries to arm themselves! Next may be our last battle ......",
+			"Beyond this point is the dogma area...... I knew it, I knew it...... war maidens, all on alert! This is probably the last battle you'll ever have to fight. ......"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250736,
+			"Master… What's inside…",
+			"园长…这前面究竟是……",
+			"学園長……この先はいったい……。",
+			"학원장…… 이 앞에는 대체…….",
+			"Principal... what's going to happen next...?",
+			null,
+			"Gardeners...what exactly is in front of this ......",
+			"Dean ...... what the heck is going on here ......."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250737,
+			"Cocolia said the second \"Herrscher\" is buried under the Big Church, is that true?",
+			"我们在逆熵的战舰上可可利亚说过…大教堂的底下埋着第二律者，这难道是真的么？",
+			"ネゲントロピーの戦艦であのカカリアが言ってました……教会の地下に第二律者がいると。まさか、本当に……？",
+			"네겐트로피의 전함에서 그 쿠쿠리아가 말했어…… 교회 지하에 제2율자가 있다고. 설마, 정말로……?",
+			"In the Anti-Entropy battleship, Cocolia said... that the Second Herrscher was in the basement of the church. Is that really true...?",
+			null,
+			"Is it true what Coccolia said on our warship in Counter Entropy...that the Second Herrscher is buried underneath the cathedral?",
+			"That cacalia on the battleship of Negentropy said ...... that there is a second rite in the basement of the church. No way, really ......?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250738,
+			"…… Although it's secret, however, there is no need to hide it.",
+			"……虽然这些是极秘事项，但是到现在也没有必要隐瞒了。",
+			"……これは機密事項なんだけど、今となってはもはや隠す必要もないわね。",
+			"…… 이건 기밀 사항이지만, 지금 와서는 더 이상 숨길 필요도 없네.",
+			"...This is classified, but I guess there's no need to hide it anymore.",
+			null,
+			"...... Although these are extremely secret matters, there is no need to conceal them by now.",
+			"...... This is classified, but now we no longer have to hide it."
+		],
+		[
+			"msg",
+			250739,
+			"Yes, the second \"Herrscher\" is here…",
+			"没错，这里埋着的正是第二次大崩坏中诞生的律者，第二律者的残骸……",
+			"その通りよ。この先には、第二次崩壊で誕生した第二律者の残骸があるの……ネゲントロピーは、第二律者を復活させようとしているのよ。",
+			"그래. 이 앞에는, 제2차 붕괴에서 탄생한 제2율자의 잔해가 있어…… 네겐트로피는, 제2율자를 부활시키려 하고 있어.",
+			"That's right. Up ahead is the remains of the Second Herrscher, born from the Second Eruption... Anti-Entropy is trying to resurrect the Second Herrscher.",
+			null,
+			"Yes, buried here is the second great collapse born in the Ruler, the remains of the Second Ruler ......",
+			"That's right. Just down the road, there are remnants of the Second Ruler that were created in the Second Collapse. ...... Negentropy is trying to resurrect the Second Ruler."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250740,
+			"So, the resurgence is true too?!",
+			"难道复活第二律者的事情是真的么！？",
+			"第二律者を復活させる？そんなことが可能なのですか！？",
+			"제2율자를 부활시킨다고? 그런 게 가능한 건가요!?",
+			"Resurrect the Second Herrscher? Is that even possible?!",
+			null,
+			"Is it true about the resurrection of the Second Herrscher!",
+			"Bringing back the Second Ruler? Is such a thing possible!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250741,
+			"I'm not sure now, because no one did it before, our experiment failed too… We are still learning it. It's just a dream to revive her.",
+			"现在还不确定，因为谁也没有完成过这件事情，天命唯一进行过的实验也失败了…对于律者的信息我们现在还在研究中，复活律者只是一个理论上的猜想罢了。",
+			"今は何とも言えない。天命組織もその手の研究はひとつだけ行っていたけど、失敗で幕を閉じてるわ。成功者は誰ひとりいないの……律者については、未だ研究途中なのよ。律者の復活も机上の空論にすぎないわ。",
+			"지금은 뭐라고 말할 수 없어. 천명 조직도 그런 연구는 하나만 진행했지만, 실패로 막을 내렸어. 성공자는 단 한 명도 없었고…… 율자에 대해서는, 아직 연구 중이야. 율자의 부활도 책상 위의 공론에 불과해.",
+			"It's hard to say right now. Schicksal had done one such study, but it ended in failure. None have succeeded... As for the Herrscher, research is still in progress. The Herrscher's revival is nothing more than an armchair theory.",
+			null,
+			"It is still uncertain, because no one has ever completed this thing, the only experiment conducted by the Mandate of Heaven also failed ... For the information of the Ruler we are still working on, resurrecting the Ruler is just a theoretical speculation.",
+			"I can't say right now. The Tenmei organization has done one study of that kind, but it ended in failure. None of them have succeeded. ...... As for the scribes, they are still in the process of research. The resurrection of the scribes is just a theory."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250742,
+			"Do you mean Shicksal tried to revive her?",
+			"您的意思是，天命也曾想过要复活律者么？",
+			"つまり、天命組織も律者の復活を企てたことがあるのですね？",
+			"즉, 천명 조직도 율자의 부활을 꾀한 적이 있다는 건가요?",
+			"So Schicksal also plotted to resurrect the Herrscher?",
+			"Você quer dizer que o Shicksal também tentou reviver um Herrscher?",
+			"Do you mean that the Mandate of Heaven has also thought about resurrecting the Herrscher?",
+			"So, the Heavenly Mission Organization has also plotted to resurrect the scribes?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250743,
+			"What!? Revive \"Herrscher\"! Why Shicksal tried to do this thing?! Our destiny should be destroy them, right?!",
+			"什么！？复活律者！为什么天命要做这种事情！我们的使命不是为了消灭崩坏和它的产物么！",
+			"何ですって！？律者の復活？どうして、天命がそんなことを！我々の使命は、崩壊とそこから生まれる者を消滅させることでしょう！",
+			"뭐라고요!? 율자의 부활? 어떻게 해서, 천명이 그런 걸! 우리의 사명은, 붕괴와 거기서 태어난 자를 소멸시키는 것 아니었나요!",
+			"What?! Reviving the Herrscher? How could Schicksal do such a thing? Our mission is to eliminate the Honkai, including those born from it!",
+			null,
+			"What! Resurrect the Herrscher! Why would the Mandate of Heaven do such a thing! Isn't our mission to destroy the Avalanche and its products!",
+			"I beg your pardon? The resurrection of the Scribes? Why, the heavenly order would do such a thing! Our mission would be to extinguish the collapse and those born from it!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250744,
+			"We are trying to know more thing s about the Houkai energy, so we can find the way to beat Houkai monsters. Human beings also can have the hope of reborn.",
+			"了解律者是为了更有效的与崩坏作战，如果能运用律者的能力来对抗崩坏，那么人类将获得新生的希望。",
+			"律者を研究するのは、崩壊との戦いを有利に進めるために必要だったのよ。律者の力を利用することで崩壊に対抗する力を得られれば、人類は新たな希望を見い出せるもの。",
+			"율자를 연구하는 건 붕괴와의 전쟁을 유리하게 이끌기 위해 필요했어. 율자의 힘을 이용해 붕괴에 대항할 힘을 얻을 수 있다면, 인류는 새로운 희망을 찾을 수 있을 거야.",
+			"Studying the Herrscher was necessary to gain an advantage in the fight against the Honkai. If we could gain the power to resist the Honkai by harnessing the Herrscher's powers, humanity would be able to find new hope.",
+			null,
+			"Understanding the Ruler is to fight against the Avalanche more effectively, and if the Ruler's power can be used to fight the Avalanche, then humanity will have the hope of a new life.",
+			"The study of the scribes was necessary to gain an edge in the fight against disintegration. By harnessing the power of the scribes, humanity can find new hope in its ability to resist collapse."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250745,
+			"Hope of reborn? Valkyries should be the hope! Why we need to based on \"Herrscher\"?! They are trying to detroy human beings!",
+			"新生的希望？女武神不就是希望么！为什么要依靠律者！它们可是摧毁人类的根源啊！？",
+			"新たな希望？戦乙女こそが、その希望なんですよね！？どうして、律者に頼るのですか！あれは人類を破滅に導く根源です！",
+			"새로운 희망? 전투무녀야말로 그 희망이잖아!? 왜 율자에게 의존하려는 거야! 그것은 인류를 파멸로 이끄는 근원이라고!",
+			"New hope? The Valkyries are that hope, aren't they?! Why do you rely on the Herrscher?! She is the root that will lead humanity to ruin!",
+			null,
+			"The hope of new life? Isn't the Valkyrie the hope! Why rely on the Rulers! They are the root cause of the destruction of humanity!",
+			"A new hope? The War Maiden is that hope! Why do you rely on the scribes? That is the root that leads mankind to ruin!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250746,
+			"Himeko, if there is no information about \"Herrscher\", there will be no St. Freya HS now.",
+			"姬子，如果没有律者的情报，也不会有现在的圣芙蕾雅学园。",
+			"姫子少佐……律者を研究していなければ、今の聖フレイヤ学園はなかったのよ。",
+			"히메코 소좌... 율자를 연구하지 않았다면 지금의 세인트 프레야 학원도 없었어.",
+			"Major Himeko... if we hadn't studied the Herrscher, St. Freyja Academy wouldn't exist as it is today.",
+			null,
+			"Himeko, without the information of the Ruler, there would not be the current St. Freya's Academy.",
+			"Major Himeko_...... would not be the St. Freya Academy we have today if we had not studied the scribes."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250747,
+			"So the Valkyries are…",
+			"难道女武神是……",
+			"そんな……まさか、戦乙女は——",
+			"그럴 리가... 설마, 전투무녀는 ——",
+			"No way... Does that mean that the Valkyries are――",
+			null,
+			"Could the Valkyrie be ......",
+			"No way, ......, the War Maiden is--"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250748,
+			"Not all people can be Valkyries, only the members of three big families and few other people are qualified. Valkyries should be used to the Houkai energy, we learned a lot from the second \"Herrscher\".",
+			"本来女武神是只有三大家系以及极少的高崩坏适格者才有资格成为，因为她对崩坏的适应性有着很严格的要求，正是因为二次崩坏后对第二律者的研究才让崩坏能的应用得到飞升。",
+			"戦乙女になるには、崩壊に対し高い適応性が必要なの。だから、三大家系の者か高度な崩壊適応者でないとなれなかったわ。……ただ、第二次崩壊後、第二律者の研究を通じて崩壊エネルギーの応用が飛躍的に向上したの。",
+			"전투무녀가 되기 위해서는 붕괴에 대한 높은 적응성이 필요해. 그래서 삼대 가문의 자손이거나 고도의 붕괴 적응자가 아니면 될 수 없었지. ...... 다만, 제2차 붕괴 이후, 제2율자 연구를 통해 붕괴 에너지 응용 기술이 비약적으로 발전했어.",
+			"To become a Valkyrie, you need to be highly adaptable to the Honkai. That's why you had to be from one of the three houses or someone with a high degree of Honkai adaptability to become one. However, after the Second Eruption, the application of Honkai Energy improved dramatically through the research of the Second Herrscher.",
+			null,
+			"Originally the Valkyrie is only the three major families and a very small number of high disintegration fitters are eligible to become, because she has very strict requirements for the adaptation of disintegration, it is because of the second disintegration after the study of the second lawmaker to allow the application of disintegration energy to soar.",
+			"To become a War Maiden, one had to be highly adapted to disintegration. So you had to be from one of the three major families or highly adapted to disintegration to become a War Maiden. ...... However, after the Second Disintegration, the application of disintegration energy has improved dramatically through the research of the Second Ruler."
+		],
+		[
+			"msg",
+			250749,
+			"That's why St. Freya HS is the base of Valkyries and can training Valkyries.",
+			"所以圣芙蕾雅学园才成为一所能够征召培训女武神的基地，训练更多的女武神。",
+			"それによって、戦乙女に必要な適正が緩和されたわ。そして、聖フレイヤ学園は戦乙女を集め、育成をする拠点となったのよ。",
+			"그로 인해 전투무녀에게 필요한 적성 기준이 완화되었어. 그리고 세인트 프레야 학원은 전투무녀를 모아 양성하는 거점이 되었지.",
+			"As a result, the aptitude required for a Valkyrie was relaxed. St. Freyja Academy became a base for gathering and training Valkyries.",
+			null,
+			"That's why St. Freya's Academy has become a base that can recruit and train more Valkyries.",
+			"This relaxed the aptitude required for the War Maidens. St. Freya Academy became a base for the gathering and training of the maidens of war."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250750,
+			"That's what I think…",
+			"果然是这样么……",
+			"そう、だったのですか……。",
+			"그런... 것이었군요.......",
+			"Is that so...",
+			null,
+			"Is this really the case ......",
+			"Yes, it was. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250751,
+			"So, what's the point of reviving \"Herrscher\"?",
+			"既然律者的研究已经有了进展，为什么要复活律者呢？",
+			"でも、律者を研究することで十分な進展があったのですよね？それなのに、どうして律者をわざわざ復活させようとしたのですか？",
+			"하지만 율자 연구로 충분한 진전이 있었던 거 아니에요? 그런데도 왜 율자를 일부러 부활시키려고 한 거죠?",
+			"But hasn't enough progress been made by studying the Herrscher? So why bother trying to revive them?",
+			"Mas você fez bastante progresso estudando o Herrscher, certo? Então por que você tentou reviver um?",
+			"Why do we need to resurrect the Herrscher when there has been progress in the study of the Herrscher?",
+			"But you have made enough progress in studying the scribes, haven't you? So why did you bother trying to revive the scribes?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250752,
+			"Simple question… To against the next \"Herrscher\", it's you, Mei… And the following \"Herrscher\".",
+			"原因很简单…为了对抗下一个律者，也就是你，雷电芽衣…还有及此后将会诞生的更多的律者。",
+			"理由は簡単……次の律者に対抗するためよ。次の律者というのは——つまり雷電芽衣、あなたのこと……そして、これから誕生するであろう第四、第五の律者のことね。",
+			"이유는 간단해... 다음 율자에 대항하기 위해서야. 다음 율자라는 건 —— 즉 라이덴 메이, 너의 이야기... 그리고 앞으로 태어날 제4, 제5의 율자를 말하는 거지.",
+			"The reason is simple... to counter the next Herrscher. The next Herrscher was you, Raiden Mei... and the fourth and fifth Herrschers would've been born in the future.",
+			null,
+			"The reason is simple...to fight the next Ruler, which is you, Raiden Meiko...and the many more Rulers that will be born after that.",
+			"The reason is simple: ...... to counter the Next Ruler. By next scribes, I mean you, Raiden Mei, ...... and the fourth and fifth scribes that will come into being."
+		],
+		[
+			"msg",
+			250753,
+			"Houkai energy never ends, we have paid too much to stop it. We must find a way to against Houkai energy.",
+			"崩坏的狂潮从来就没有停歇过，对抗第二律者时留下的伤疤现在也依然在冰川中灼热地燃烧着，我们付出了太多的代价，如果没有决定性的力量，很难战胜后面出现的强敌。",
+			"荒れ狂う崩壊の波は止むことがないわ。第二律者が残した傷痕は、今も氷河の中で激しく燃え続けている。あたくしたちが払った代償は大きすぎたのよ。決定的な力を持たなければ、これから出現する強敵には勝てない。",
+			"거세게 몰아치는 붕괴의 파도는 멈추지 않아. 제2율자가 남긴 상처는 지금도 빙하 속에서 격렬하게 타오르고 있어. 우리가 치른 대가는 너무나 컸어. 결정적인 힘을 갖지 않으면 앞으로 나타날 강적에게 이길 수 없어.",
+			"The raging waves of the Honkai never stop. The scars left by the Second Herrscher still burn fiercely in the glacier. We have paid too high a price. Unless we have a decisive power, we will not be able to defeat the powerful enemies that will appear in the future.",
+			null,
+			"The frenzy of disintegration never stops, and the scars from the fight against the Second Herrscher are still burning hot in the glacier. We have paid too much, and without decisive power, it will be difficult to overcome the strong enemy that will appear behind us.",
+			"The raging waves of decay will never cease. The scars left by the second law are still burning fiercely in the glacier. The price we paid was too great. Without decisive power, we will not be able to defeat the powerful enemies that will emerge."
+		],
+		[
+			"msg",
+			250754,
+			"And the best way is using \"Herrscher\".",
+			"而对抗律者最好的兵器，就是律者。",
+			"そして——律者に対抗する一番の力は、やはり律者なのよ。",
+			"그리고 ——율자에게 대항할 수 있는 가장 큰 힘은 역시 율자 자신이야.",
+			"And... the greatest force against a Herrscher is, of course, a Herrscher itself.",
+			"E --- a força mais poderosa contra um Herrscher é outro Herrscher.",
+			"And the best weapon against the Herrscher is the Herrscher.",
+			"And - the best force against the law is still the law."
+		]
+	],
+	"68": [
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250755,
+			"Cough! More and more Houkai energy here… It's even more than in Nagazora…",
+			"咳咳！崩坏的浓度越来越高了……就连长空市都没有遇到过这种事情……",
+			"ゴホッ……！崩壊の濃度がますます濃くなってきたわ……長空市でさえ、こんなことはなかったのに……。",
+			"컥...! 붕괴의 농도가 점점 더 짙어지고 있어... 창공시에서도 이런 일은 없었는데....",
+			"<i>Cough...!</i> The concentration of Honkai is getting stronger and stronger... Even in Nagazora, nothing like this has happened...",
+			null,
+			"Ahem! The concentration of collapse is getting higher and higher ...... Even Nagumo City has not encountered this kind of thing ......",
+			"Gosh......! The concentration of collapse is getting denser and denser. ...... Even in Long Sky City, this never happened. ......"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250756,
+			"Normal Valkyries can't take so much Houkai energy in the front, Himeko, take others to safe place.",
+			"再往前进的话普通的女武神已经无法抵抗崩坏的侵蚀了，姬子你带着其他人先撤离吧。",
+			"この先、並の戦乙女では崩壊の浸蝕に耐えきれないはずよ。姫子少佐は、一般の戦乙女を連れて撤退してちょうだい。",
+			"이 앞으로는 평범한 발키리로는 붕괴의 침식을 견딜 수 없을 거야. 히메코 소좌는 일반 발키리들을 데리고 철수하도록 해.",
+			"From now on, ordinary Valkyries will not be able to withstand the erosion of Honkai. Major Himeko, please evacuate with the ordinary Valkyries.",
+			null,
+			"Further forward then the ordinary Valkyrie has been unable to resist the erosion of the collapse, Himeko you take the others to evacuate first.",
+			"I am sure that ordinary war maidens will not be able to withstand the erosion of the disintegration ahead. Major Himeko, please retreat with the ordinary war maidens."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250757,
+			"No! At least let me stay with you! It's my only wish! And… Kiana is my student, I have the duty to take her out!",
+			"不！至少让我跟在你身边！这是我唯一的请求！而且…琪亚娜也是我的学生，我有义务把她带回来！",
+			"学園長、せめて私だけでも同行を許可してください！これだけは譲れません！キアナは私の教え子なんです、私には連れて帰る義務があります！",
+			"학원장님, 적어도 저만이라도 동행을 허락해 주세요! 이것만은 양보할 수 없어요! 키아나는 제 제자예요, 제가 데리고 돌아갈 의무가 있습니다!",
+			"Principal, please at least allow me to accompany you! This is nonnegotiable! Kiana is my student, and I have a duty to bring her back!",
+			null,
+			"No! At least let me stay with you! That's my only request! And...Kiana is my student too, I have an obligation to bring her back!",
+			"Dean, at least allow me to accompany you! This is non-negotiable! Kiana is my student, and I am obligated to bring her home!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250758,
+			"Humph… Fine.",
+			"嗯……好吧。",
+			"…………わかったわ。",
+			"............ 알겠어.",
+			"Well...... alright.",
+			null,
+			"Well ...... well.",
+			"............ Okay, I get it."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250759,
+			"Are we going to have a battle with the second \"Herrscher\"? Does Anti-entropy really have that power…",
+			"我们一会战斗的对手真的是第二律者么…如果连天命都没有复活成功的律者，逆熵真的会……",
+			"本当に第二律者と戦うことになるのでしょうか……？天命でさえ復活させることができなかった律者を、ネゲントロピーはいったいどうやって……？",
+			"정말로 제2율자와 싸우게 되는 걸까...? 천명조차 부활시킬 수 없었던 율자를, 네겐트로피는 대체 어떻게...?",
+			"Are we really going to end up fighting the Second Herrscher...? How on earth will Anti-Entropy even manage to revive the Herrscher, who even Schicksal couldn't revive?",
+			null,
+			"We will fight the opponent is really the second Ruler ... If even the fate of the Ruler did not succeed in resurrecting, reverse entropy will really ......",
+			"Are we really going to fight the Second Ruler ......? How in the world can Negentropy revive a Ruler that not even Heaven's will could revive ......?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250760,
+			"Actually, Shicksai have the power to do this, however, a key material belongs to Anti- entropy.",
+			"以目前的状况来说，天命并非没有能力复活，而是复活律者需要的要素之一被逆熵给夺走了。",
+			"いえ、天命にも復活させる科学力はあるはずよ。ただ、それに必要な材料をネゲントロピーに奪われてしまったというだけ。",
+			"아니, 천명도 부활시킬 과학력은 있었을 거야. 다만, 그에 필요한 재료를 네겐트로피에게 빼앗겼을 뿐이지.",
+			"No, I'm sure Schicksal had the scientific knowledge to revive her. It's just that the materials needed for that were stolen by Anti-Entropy.",
+			null,
+			"In the current situation, it is not that the Mandate of Heaven is incapable of resurrection, but that one of the elements needed to resurrect the Herrscher has been taken away by reverse entropy.",
+			"No, I'm sure that Tenmei has the scientific power to revive it. It's just that the materials needed for it have been stolen by negentropy."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250761,
+			"The core of \"Herrscher\"…",
+			"律者核心…",
+			"律者のコア……。",
+			"율자의 코어....",
+			"The Herrscher Core...",
+			null,
+			"Lawmaker Core...",
+			"The Core of the Ruler. ......."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250762,
+			"Yes. After the second Houkai explosion, Shicksai is very weak, there was a mysterious organization asked us to give them the \"Herrscher's\" body, that's Anti-entropy.",
+			"没错。在第二次大崩坏之后，天命的力量受到了很大的削弱，这时候出现了一个神秘的组织要求我们将律者的残骸交给他们，那就是逆熵。",
+			"そのとおり。第二次崩壊のあと、戦力の削がれた天命の勢力は一気に縮小してしまったわ。その時に現れた謎の組織が、律者の残骸を引き渡せと要求してきたのよ。その組織こそが、あのネゲントロピー。",
+			"그래. 제2차 붕괴 이후, 전력이 약화된 천명의 세력은 급격히 축소되었어. 그때 나타난 수수께끼의 조직이 율자의 잔해를 넘기라고 요구했던 거야. 그 조직이 바로 그 네겐트로피.",
+			"That's right. After the Second Eruption, the power of Schicksal was reduced and it dwindled rapidly. At that time, a mysterious organization appeared and demanded that the remains of the Herrscher be handed over to them. That organization was none other than Anti-Entropy.",
+			null,
+			"That's right. After the Second Great Collapse, the power of the Mandate of Heaven was greatly weakened, and at that time a mysterious organization appeared asking us to give them the remains of the Ruler, that is, Reverse Entropy.",
+			"That's right. After the second collapse, the forces of the Celestials, reduced in strength, shrank all at once. At that time, a mysterious organization appeared and demanded that we hand over what was left of the Riten. That organization was Negentropy."
+		],
+		[
+			"msg",
+			250763,
+			"It's all because their leader at that time, the leader named \"Walter\".",
+			"而当时逆熵的谈判筹码就是他们的首领，号称是第一律者的家伙“瓦尔特”。",
+			"ネゲントロピーの交渉の切り札は、彼らの盟主であり、そして第一律者と称する「ヴェルト」という存在。",
+			"네겐트로피의 협상 카드는 그들의 맹주이자 제1율자라 불리는 「웰트」라는 존재.",
+			"Anti-Entropy's trump card in negotiations was their leader, the one who calls himself the First Herrscher, named \"Welt.\" (TN: Welt's name is pronounced like 'Velt' btw. I'm just tired of people mispronouncing his name lol)",
+			null,
+			"The bargaining chip of Counter Entropy at that time was their leader, the guy called the First Herrscher, \"Walter\".",
+			"Negentropy's bargaining chip is their ally and purported first Herrscher, \"Welt\"."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250764,
+			"Walter is the founder of Anti-entropy, I have never seen her before, she is just like imaginary.",
+			"瓦尔特…逆熵的创始者，但是布洛妮娅从来都没见过，仿佛只是虚拟的人物。",
+			"ヴェルトは……ネゲントロピーの創始者です。でも、ブローニャは一度もその顔を見たことがありません。本当にいるのかわからない、まるで架空の人物のような存在です。",
+			"벨트는......네겐트로피의 창시자입니다. 하지만 브로냐는 한 번도 그 얼굴을 본 적이 없어요. 정말 존재하는지조차 알 수 없는, 마치 가공의 인물 같은 존재입니다.",
+			"Welt is the... founder of Anti-Entropy. However, Bronya has never seen his face. It's unclear whether he actually exists or he's just a myth.",
+			null,
+			"Walter...the founding father of Counter Entropy, but Bronya had never seen it, as if it were just a virtual character.",
+			"Welt is the founder of ...... negentropy. But Bronya has never seen his face. I don't know if he is really there, he is like a fictional character."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250765,
+			"But at that time, she is the first \"Herrscher\", she showed her power to Shicksai… We don't have power to against her that time… We approved their need, but we didn't do it all.",
+			"但是那时的确是这个第一律者，向天命展示了自己的力量…刚经历过第二次崩坏战斗的天命无力对抗另一个律者，只能答应了他们的要求…但是我们没有全盘拖出。",
+			"でも当時、この第一律者は自らの力を確かに誇示してみせたわ……第二次崩壊で疲弊しきっていた天命は、これに対抗するすべもなく、要求を飲むしかなかった……ただ、こちらもすべてを差し出したわけじゃなかったの。",
+			"하지만 당시, 이 첫 번째 율자는 자신의 힘을 확실히 과시해 보였어...... 제2차 붕괴로 피폐해진 천명은 이에 대항할 방법도 없이 요구를 받아들일 수밖에 없었지...... 다만, 우리 쪽도 모든 것을 내준 건 아니었어.",
+			"But at the time, this First Herrscher had certainly demonstrated his power.... Schicksal, exhausted from the Second Eruption, had no way to resist and had no choice but to accept his demands.... However, that doesn't mean he offered everything.",
+			null,
+			"But then it was indeed this First Herrscher, who showed his power to the Mandate of Heaven... The Mandate of Heaven, who had just experienced the second collapse battle, was unable to fight another Herrscher and could only agree to their demands... But we didn't drag it all out.",
+			"But at the time, this First Ruler certainly made a show of his own power. ......Then, exhausted by the second collapse, Tenmei had no way to fight it, and had no choice but to drink the demand. ......But we, too, had to give up everything. We didn't give them everything."
+		],
+		[
+			"msg",
+			250766,
+			"Although we gave the most important part to them, but we kept the rest part, we hide it in the Dogma district. Anti-entropy's aim today is find it.",
+			"交给逆熵的律者残骸虽然是最重要的律者核心，但是复活律者的其他要素我们还隐秘地保管了起来，将它秘密藏匿在了教条区，所以逆熵的此次的目的就是让核心与其他的碎片结合。",
+			"一番重要な律者のコア片はネゲントロピーに渡したわ。けど、律者を復活させる材料となる他のコア片は、秘かにドグマエリアへと隠して渡さなかったの。だから、ヤツらの目的はそれを回収し融合させることのはず。",
+			"가장 중요한 율자의 코어 조각은 네겐트로피에 넘겨줬어. 하지만 율자를 부활시킬 재료가 되는 다른 코어 조각들은 비밀리 도그마 영역에 숨겨 넘기지 않았거든. 그래서 놈들의 목적은 그것들을 회수해 융합시키는 게 분명해.",
+			"The most important core fragment of the Herrscher was given to Anti-Entropy. However, I secretly hid the other core fragments, which are the key materials to revive the Herrscher, in the Dogma Zone and did not hand them over. Therefore, their goal must be to retrieve them and fuse them.",
+			null,
+			"The remnants of the Herrscher handed over to Counter Entropy are the most important Herrscher core, but the other elements of the resurrected Herrscher we also keep hidden, secretly hiding it in the dogma area, so Counter Entropy's purpose this time is to have the core combined with the other pieces.",
+			"I gave Negentropy the most important core fragment of the scribe. But the other core pieces, which are the materials to revive the law, were secretly hidden in the dogma area and not given to them. So, their purpose must be to retrieve and fuse them."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250767,
+			"Seriously? This revive thing really could happen?",
+			"这种事情真的做的到么……复活律者什么的……",
+			"そんなことが、本当にできるんですか……律者の復活なんて……。",
+			"그런 게 정말 가능할까요...... 율자의 부활이라니......",
+			"Is something like that really possible...? Will it really resurrect the Herrscher...?",
+			null,
+			"Does this kind of thing really do ...... resurrect the Herrscher or something ......",
+			"Can such a thing really ...... be done? ......Resurrection of the scribes?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250768,
+			"This is just a report, I wish it won't be the result.",
+			"但是这也只是理论上的报告罢了，希望这不是最后的结果。",
+			"もちろん、理論上での話にすぎないわ。復活が失敗に終わる可能性もある。",
+			"물론, 이론상의 이야기에 불과해. 부활이 실패로 끝날 가능성도 있지.",
+			"Of course, this is just a theory, and the revival could end in failure.",
+			null,
+			"But this is just a theoretical report, and I hope this is not the final result.",
+			"Of course, that's only in theory. There is also the possibility that the revival will fail."
+		],
+		[
+			"msg",
+			250769,
+			"Hurry up! Dogma district is just ahead, I can feel the danger.",
+			"我们抓紧时间吧！教条区就在前面了，不管怎么样，挡在我们前面的都将是无法估量的危险。",
+			"時間がないわ、急ぎましょう！ドグマエリアは、この先よ。いずれにせよ、この先には危険が待ち構えているわ……気を引き締めていきましょう。",
+			"시간이 없어, 서두르자! 도그마 영역은 이 앞이야. 어쨌든, 이 앞에는 위험이 기다리고 있어...... 긴장을 늦추지 말자고.",
+			"We don't have much time, so let's hurry! The Dogma Area is just ahead. Either way, danger awaits ahead... so stay alert.",
+			null,
+			"Let's get a grip! The Dogma Zone is just up ahead, and no matter what, what stands in our way will be immeasurably dangerous.",
+			"We're running out of time. Let's hurry! The dogma area is just up ahead. In any case, there are dangers ahead of us. ...... Let's keep our heads up."
+		]
+	],
+	"69": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250770,
+			"Mom… Where are you…",
+			"妈妈…你在哪里……",
+			"ママ……どこにいるの……？",
+			"엄마...... 어디에 있는 거야......?",
+			"Mama... where are you...?",
+			null,
+			"Mom...where are you ......",
+			"Mom ...... where are you ......?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250771,
+			"Errr… This voice is? I remember I rush forward to the smelter, and then…",
+			"呃…这个声音是？我记得刚才冲向了熔炉，然后就……",
+			"えっ……この声はいったい？私、たしか動力炉に飛び込んで、それから……。",
+			"엇...... 이 목소리는 대체? 나, 분명 동력로에 뛰어들었고, 그 다음......",
+			"Huh... what's that voice? I remember jumping into the reactor, and then...",
+			null,
+			"Uh...is this sound? I remember just rushing towards the furnace and then it ......",
+			"What ...... is this voice? I think I jumped into the power reactor and then ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250772,
+			"Mom… Is that you? Are you coming to take me…",
+			"妈妈…是你么？你来接我了么……",
+			"ママ……ママなのね？やっと迎えに来てくれた……。",
+			"엄마...... 엄마 맞지? 드디어 마중 나와 줬어......",
+			"Mama... Is that you, Mama? You've finally come to take me...",
+			null,
+			"Mom...is that you? Have you come to pick me up ......",
+			"Mom ...... you're my mom, right? They finally came to pick me up. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250773,
+			"No… I'm not your mom… My name is Kiana.",
+			"不…我觉得你应该是认错人了，我不是你的妈妈…我叫琪亚娜。",
+			"ううん……たぶん、人違いだと思うよ。私はママじゃない……キアナっていうの。",
+			"아니...... 아마, 사람 잘못 본 것 같아. 나는 엄마가 아니야...... 키아나라고 해.",
+			"No... I think you must be mistaken. I'm not your mom... I'm Kiana.",
+			null,
+			"No...I think you have the wrong person...I am not your mother...my name is Kiana.",
+			"No, ...... maybe you've got the wrong person. I'm not a mom,...... my name is Kiana."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250774,
+			"You are not… mom… But you have the same smell as mom, the smell of sun…",
+			"不是…妈妈么…但是你有和妈妈一样的味道，像太阳一样温暖的味道……",
+			"ママ……じゃないの……？でも、ママと同じ匂いがするわ。お日様みたいにあったかくて、いい匂い……。",
+			"엄마...... 아니야......? 하지만 엄마랑 같은 냄새가 나. 해님처럼 따뜻하고, 좋은 냄새......",
+			"You're... not Mama...? But you smell just like Mama. Warm like the sun, and smells good...",
+			null,
+			"Not...mom?...but you have the same smell as mom, as warm as the sun ......",
+			"I'm not a mom ....... ......? But you smell just like my mom. It's warm like the sun and smells good......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250775,
+			"Haha~ Thanks~ Who are you? Can you tell me where is this place?",
+			"啊哈哈~那真是过奖了~你是谁？能告诉我这里是哪里么？",
+			"あははっ、褒めてくれてありがとう。えっと、あなたのお名前は？ここがどこだか教えてくれる？",
+			"아하하, 칭찬해줘서 고마워. 어머, 너 이름은? 여기가 어딘지 알려줄 수 있니?",
+			"Ahaha, thanks for the compliment. Um, what's your name? Can you tell me where we are?",
+			null,
+			"Ahahaha~ That's really flattering~ Who are you? Can you tell me where this place is?",
+			"Haha, thanks for the compliment. Um, what is your name? Can you tell me where I am?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250776,
+			"I'm Sirin… This place is my world…",
+			"我是Sirin…这里是我的世界…",
+			"私はシーリン……ここは私の世界……。",
+			"나는 시린...... 여기는 내 세상......",
+			"I'm Sirin... This is my world...",
+			null,
+			"I am Sirin...this is my world...",
+			"I am Sirin ...... and this is my world ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250777,
+			"Your world? This place looks so desolate, do you feel lonely?",
+			"你的世界？这里看起来挺荒凉的呢，除了一些破铜烂铁的残骸好像什么也没有了，你一个人不寂寞么？",
+			"あなたの世界？ずいぶんと荒れ果てたところね。ガラクタや何かの残骸ばっかり。ひとりで寂しくないの？",
+			"네 세상? 꽤 황폐해진 곳이네. 쓰레기나 무언가의 잔해뿐이야. 혼자서 외롭지 않아?",
+			"Your world? It's a pretty rundown place. There's a lot of junk and debris. Aren't you lonely?",
+			null,
+			"Your world? It looks quite desolate here, except for some broken iron wreckage seems to have nothing, you are not lonely alone?",
+			"Your world? It's a very desolate place. It's full of junk and debris. Aren't you lonely by yourself?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250778,
+			"Lonely? What does it mean? I'm waiting for mom… Because mom said she would come back.",
+			"寂寞是什么意思？我在这里等着妈妈……因为妈妈说过会来接我……",
+			"寂しいって、なぁに？私、ここでママを待ってるの……迎えに来てくれるって約束したから……。",
+			"외롭다는 게 뭐야? 나 여기서 엄마 기다리고 있어...... 데리러 와준다고 약속했으니까......",
+			"What do you mean lonely? I'm waiting here for Mama... She promised to come and take me...",
+			null,
+			"What does it mean to be lonely? I'm waiting for my mom here ...... because she said she would pick me up ......",
+			"What do you mean you miss me? I'm waiting for my mom here ...... because she promised to come and get me ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250779,
+			"Really? You are waiting for the most important person in your life, however, you shouldn't just wait there, we need to do something to make the dream come true~",
+			"是么？你也在等待着重要的人么，但是光是等待是不会有结果的，还是要靠自己伸出手才能握住对方的手心哦~",
+			"そうなんだ？あなたも大事な人を待ってるんだね。でも、ただ待ってるだけじゃ始まらないよ。やっぱり、自分から手を伸ばさないとね。そうじゃないと、相手の心を掴むことはできないもの。",
+			"그랬구나? 너도 소중한 사람을 기다리는구나. 하지만 그냥 기다리기만 해선 안 돼. 역시 스스로 손을 내밀어야 해. 그렇지 않으면 상대방의 마음을 잡을 수 없으니까.",
+			"Is that so? You're also waiting for someone special. But just waiting won't get you anywhere. You have to reach out to them yourself. Otherwise, you won't be able to win their heart.",
+			null,
+			"Is it? You are also waiting for an important person, but just waiting is not the result, or rely on their own hands to hold each other's palms Oh ~",
+			"Really? You're waiting for someone important too. But just waiting won't get you anywhere. You have to reach out to them yourself. If you don't, you will never be able to win their heart."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250780,
+			"Do… something?",
+			"自己…伸出手？",
+			"自分から……手を伸ばす？",
+			"스스로...... 손을 내민다고?",
+			"Reach out to them... myself?",
+			null,
+			"Himself...holding out your hand?",
+			"Do you want to reach out to ...... yourself?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250781,
+			"Yes~ Let me take you outside! Your mom must be there~",
+			"没错~就让姐姐带你去外面的世界吧！你的妈妈一定也在那里等你~",
+			"そーだよ！ほら、お姉ちゃんが外の世界に連れて行ってあげる！ママもきっとそこにいるはずよ！",
+			"그래! 자, 언니가 밖의 세상으로 데려가 줄게! 엄마도 분명 거기 있을 거야!",
+			"That's right! Look, big sis is going to take you to the outside world! Your mom will probably be there too!",
+			null,
+			"That's right~ Let my sister take you to the outside world! Your mother must be waiting for you there too.",
+			"That's right! Come on, big sister, I'll take you to the outside world! I'm sure Mom will be there!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250782,
+			"……",
+			"……",
+			"……。",
+			".......",
+			"......"
+		],
+		[
+			"msg",
+			250783,
+			"Humph!",
+			"嗯！",
+			"うんっ！",
+			"응!",
+			"Okay!",
+			null,
+			"Hm!",
+			"Yeah!"
+		]
+	]
+}

@@ -1,0 +1,3283 @@
+{
+	"1371": [
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			308888,
+			"Growl——!!",
+			"吼吼吼——！！",
+			"ヴォォオオオオオオ——ッ！！",
+			"우오오오오——!!",
+			null,
+			null,
+			"Ho ho ho ho-!!!",
+			"Vooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"msg",
+			308889,
+			"Da da da!!",
+			"哒哒哒！！",
+			"ダダダダッ——！！",
+			"다다다다——!!",
+			null,
+			null,
+			"Ta-da!!!",
+			"Dah-dah-dah--!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			308890,
+			"Boom!!!",
+			"轰隆！！！",
+			"ドォオオオオオオン——ッ！！！",
+			"우오오오오옴——!!!",
+			null,
+			null,
+			"BOOM!!!",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308891,
+			"Bronya! We've got a basic line!",
+			"布洛妮娅！工程班已经搭建好了简易的防线！",
+			"ブローニャ！工事班が簡易的な防衛線を作ったわ！",
+			"브로냐! 공사반이 임시 방어선을 구축했어!",
+			null,
+			null,
+			"Bronya! The engineering squad has set up an improvised defense line!",
+			"Bronya! The construction crew has built a simple line of defense!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308892,
+			"OK! Everybody go back to ME! Start the fight! Don't let them break through!",
+			"好的！所有人撤回ME社！开始迎击！不要让崩坏生物突破防线！",
+			"わかりました。全員ME社に戻り、迎撃準備を！崩壊生物を防衛線で食い止めてください！",
+			"알겠습니다. 전원 ME사로 복귀, 요격 준비를! 붕괴 생물을 방어선에서 저지하세요!",
+			null,
+			null,
+			"Yes! Everyone back to ME Society! Begin the attack! Don't let the collapse creatures break through the defense line!",
+			"Understood, sir. All return to ME Company and prepare to intercept! Hold off the disintegrating organisms on the defense line!"
+		],
+		[
+			"msg",
+			308893,
+			"Take a look of each other! Don't leave them behind!",
+			"看下周围的同伴！不要落下别人！",
+			"周りの仲間を意識し、決して単独行動をしないように！",
+			"주변 동료들과 호흡을 맞추고, 절대 혼자 행동하지 마세요!",
+			null,
+			null,
+			"Look around for your companions! Don't leave others behind!",
+			"Be aware of your peers around you and never act alone!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			308894,
+			"Boom——!!!",
+			"轰隆——！！",
+			"ドォオオオオオンッ！！",
+			"우오오오오옴!!!",
+			null,
+			null,
+			"Boom--!",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308895,
+			"Bronya! Something's wrong!",
+			"布洛妮娅！不好了！",
+			"ブローニャ！大変よ！",
+			"브로냐! 큰일이야!",
+			null,
+			null,
+			"Bronya! It's not good!",
+			"Bronya! Oh, my God!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308896,
+			"What's happening!",
+			"怎么了！",
+			"どうしましたか？",
+			"무슨 일이에요?",
+			null,
+			null,
+			"What's going on!",
+			"What's wrong?"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308897,
+			"Kids! They are separated! Can't find them anywhere!",
+			"孩子们！基地的孩子们走散了！哪里都找不到她们的身影！",
+			"子供たちが！基地の子たちがいないの！どこにも！",
+			"아이들이! 기지의 아이들이 없어요! 어디에도!",
+			null,
+			null,
+			"Kids! The children of the base have gotten separated! Can't find them anywhere!",
+			"The kids! The kids at the base are gone! Nowhere!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308898,
+			"How come…are they still ourside!",
+			"怎么会…难道还在外面么！",
+			"そんな……まさか、まだ外に！？",
+			"그런…… 설마, 아직 밖에!?",
+			null,
+			null,
+			"How could it be... is it still out there!",
+			"No way ......, still out there!"
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308899,
+			"You stay here! I will go and find them!",
+			"你们守住这里！我去外面找她们！",
+			"ここは任せます！ブローニャは、子供たちを探してきます！",
+			"여기는 맡길게요! 브로냐는 아이들을 찾아올게요!",
+			null,
+			null,
+			"You guys hold the fort here! I'll go outside and find them!",
+			"I'll take care of this place! Bronya will go find the kids!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308900,
+			"But! Now we are under huge pressure here! If without your guidance……",
+			"可是！现在正面的防守压力也很大！而且没有指挥的话……",
+			"でも！正面の防衛がギリギリだわ、指揮する人物がないと……。",
+			"하지만! 정면의 방어가 간신히 버티고 있어요, 지휘할 사람이 없으면…….",
+			null,
+			null,
+			"But! Now the pressure on the front defense is also very big! And without command words ......",
+			"But!!! We're on the edge of a frontal defense, and without someone to command it, we'll have to go to ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308901,
+			"Woo……",
+			"呜……",
+			"くっ……。",
+			"쿨…….",
+			null,
+			null,
+			"Woo ......",
+			"Damn. ......."
+		],
+		[
+			"choice",
+			[
+				309297,
+				"Bronya stay here, I go.",
+				"布洛妮娅在这里指挥吧，我去。",
+				"ブローニャはここで指揮して、私が行く。",
+				"브로냐는 여기서 지휘하고, 내가 갈게.",
+				null
+			],
+			[
+				309317,
+				"Theresa is still outside, ask her to help find the kids.",
+				"德丽莎还在外面，让她帮忙找一下孩子吧。",
+				"外にいるテレサに探してもらおう。",
+				"밖에 있는 테레사에게 찾아보라고 하자.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1372,
+			1373
+		]
+	],
+	"1372": [
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308902,
+			"Kyushou…please!",
+			"九霄…那就拜托你了！",
+			"九霄……お願いします！",
+			"큐쇼…… 부탁드립니다!",
+			null,
+			null,
+			"Kyuushou...then I'm counting on you!",
+			"Kyuushou...... please!"
+		],
+		[
+			"msg",
+			308903,
+			"Theresa is still outside fighting! Stop it when you meet her! Go to find the kids!",
+			"德丽莎还在外面迎击！你与她会和之后不要与崩坏生物继续战斗！直接去找孩子们吧！",
+			"テレサがまだ外にいます。彼女と合流したら崩壊生物とは戦わず、そのまま子供たちを探してください。",
+			"테레사가 아직 밖에 있습니다. 그녀와 합류하면 붕괴 생물과는 싸우지 말고 그대로 아이들을 찾아주세요.",
+			null,
+			null,
+			"Theresa is still out there to meet the fight! Don't continue fighting the crashing creatures after you rendezvous with her! Go straight to the children!",
+			"Teresa is still outside. When you meet up with her, do not fight the disintegrating creatures, but continue to look for the children."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1374
+		]
+	],
+	"1373": [
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308904,
+			"No…Theresa is fighting with Honkai creatures, she can hardly notices them!",
+			"不行…德丽莎还要与崩坏生物作战，很难注意到走失的孩子们！",
+			"ダメです……テレサは崩壊生物と戦っていますから、子供たちのことに気付いていないと思います。",
+			"안 돼요…… 테레사는 붕괴 생물과 싸우고 있기 때문에, 아이들 일을 알아채지 못한 것 같아요.",
+			null,
+			null,
+			"No...it's hard for Theresa to notice the lost children when she has to fight the collapsing creatures!",
+			"No. ...... Theresa is fighting a disintegrating organism, so I don't think she is aware of the children."
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308905,
+			"Kyushou, please help her! Stop their fighting when you meet her! Go to find the kids!",
+			"九霄，只能麻烦你去帮助德丽莎了！与她汇合之后不要与崩坏生物继续战斗！直接去找孩子们吧！",
+			"九霄、テレサのサポートをお願いします。彼女と合流したら崩壊生物とは戦わないで、そのまま子供たちを探してください。",
+			"큐쇼, 테레사의 지원을 부탁드립니다. 그녀와 합류하면 붕괴 생물과는 싸우지 말고 그대로 아이들을 찾아주세요.",
+			null,
+			null,
+			"Ninth Heaven, I can only trouble you to help Theresa! Don't continue fighting with the collapsed creatures after you rendezvous with her! Go straight to the children!",
+			"Kyuushou, please support Teresa. When you join her, please do not fight the disintegrating organisms and go straight to find the children."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1374
+		]
+	],
+	"1374": [
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308906,
+			"We will cover you to get out! Please! Those kids are our hope! We must protect them!",
+			"我们会为你进行掩护杀出一条道路的！后面就交给你了！那些孩子是我们的希望！绝对要保护好他们！",
+			"外へ出るまでフォローします。その後のことはよろしくお願いします。あの子たちは火を追う蛾の——この世界の希望です。何としてでも守らなければいけません。",
+			"밖으로 나갈 때까지 따라갈게요. 그 이후의 일은 잘 부탁드립니다. 그 아이들은 불을 좇는 나방의——이 세상의 희망입니다. 어떻게 해서든 지켜야 합니다.",
+			null,
+			null,
+			"We'll take cover for you and kill a path! You're in charge back there! Those children are our hope! Absolutely protect them!",
+			"We will follow you until you get out. After that, please take care of them. Those children are the hope of the fire-chasing moths - the hope of this world. We must protect them at all costs."
+		],
+		[
+			"msg",
+			308907,
+			"Everybody! Let Kyushou go!",
+			"所有人集中火力！为九霄创造机会！",
+			"皆さん、火力を集中してください！九霄をフォローします！",
+			"여러분, 화력을 집중하세요! 큐쇼를 따라하세요!",
+			null,
+			null,
+			"Everyone concentrate their firepower! Create opportunities for Kyuushou!",
+			"Focus your firepower, folks! I'll follow Kyuushou!"
+		],
+		[
+			"msg",
+			308908,
+			"Fire!",
+			"开火！！",
+			"Fire！！",
+			"Fire!!",
+			null,
+			null,
+			"Fire!!!",
+			"Fire!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308909,
+			"Boom——!!",
+			"轰隆——！！",
+			"ドォオオオオン——ッ！！",
+			"도오오온——!!",
+			null,
+			null,
+			"Boom--!",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		]
+	],
+	"1375": [
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			308910,
+			"Growl——!!",
+			"吼吼吼——！！",
+			"ウォオオオオオオン——ッ！！",
+			"우오오오오온——!!",
+			null,
+			null,
+			"Ho ho ho ho-!!!",
+			"Wooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"msg",
+			308911,
+			"Bang!",
+			"砰！",
+			"ガンッ！",
+			"강!",
+			null,
+			null,
+			"Bang!",
+			"GUN!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308912,
+			"Huh! I'm still not used to fight without Judah…only if I can have some weapons……",
+			"啧！没有犹大之后战斗还是有点不习惯呢…要是有什么趁手的武器就好了……",
+			"くっ！誓約の十字架を使わない戦闘には、やっぱり慣れないわね……何か代用できる武器があったらいいのに……。",
+			"큇! 서약의 십자가를 사용하지 않는 전투에는 역시 익숙하지 않아...... 대신 쓸 수 있는 무기가 있으면 좋을 텐데.......",
+			null,
+			null,
+			"Tsk! No Judas after the battle or a little uncomfortable it ... if only there was some handy weapons ......",
+			"Duh!!! I'm still not used to fighting without a pledge cross. ...... I wish I had some kind of weapon to replace it with. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308913,
+			"Growl!",
+			"吼吼吼！",
+			"ゴォオオオオオオ——ッ！！",
+			"꾸어어어어어어——!!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Gooooooooooooooo--!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308914,
+			"Damn! It never ends!",
+			"可恶！接二连三的有完没完！",
+			"ああっ、もう！きりがないわね！",
+			"아아, 정말! 끝이 없네!",
+			null,
+			null,
+			"Damn! One after the other, there's no end to it!",
+			"Oh, God! There's no end to this!"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308915,
+			"Hey! We're coming to help you!",
+			"那边的姐姐！我们来帮你了！",
+			"お姉ちゃん！手伝いにきたよ！",
+			"언니! 도우러 왔어!",
+			null,
+			null,
+			"That sister over there! We're here to help you!",
+			"Sis! I'm here to help!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308916,
+			"Eh! Support! Great…eh! Why these kids are here!",
+			"呃！是支援么！太好……噗！你们这些小孩子怎么还在战场上啊！！",
+			"支援？よかった……って、子供が戦場に来てどうするのよ！！",
+			"지원? 다행이다...... 그래도 아이가 전장에 와서 뭘 하려는 거야?!",
+			null,
+			null,
+			"Ugh! Is that support! Too good ...... poof! Why are you kids still on the battlefield!!!",
+			"Support? Thank goodness ...... is what kids do when they come to war!"
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308917,
+			"Woo…people just said Bronya need to tell something important, so we just came……",
+			"呜…刚才大人们说布洛妮娅姐姐要召集大家说重要的事情，所以我们就一起跟来了……",
+			"うぅ……ブローニャが、みんなに伝えたいことがあるって言うから、おとなの人たちと一緒にきたの……。",
+			"우......브로냐가 모두에게 전할 말이 있다고 해서 어른들하고 같이 왔어......",
+			null,
+			null,
+			"Oooh...just now the adults said that Sister Bronya wanted to summon everyone to say something important, so we came along with ......",
+			"Ugh ...... Bronya said she had something to tell everyone, so I came with a group of adults ......."
+		],
+		[
+			"msg",
+			308918,
+			"But suddenly there're lots of beasts, so we want to fight together!",
+			"不知道为什么忽然来了好多怪物，所以我们也想和大姐姐们一起战斗！",
+			"そしたら、急に化け物が出てきて……私たちも、お姉ちゃんのように戦いたいの！",
+			"그랬더니 갑자기 괴물이 나타나서......우리도 언니처럼 싸우고 싶어!",
+			null,
+			null,
+			"I don't know why suddenly came a lot of monsters, so we also want to fight with the big sisters!",
+			"Then all of a sudden the monster came out of nowhere and ...... we want to fight like your sister!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308919,
+			"Hey! This is not something you kids can deal with! Hide behind me! I will protect you!",
+			"喂喂！这可不是你们这种小鬼打的赢的对手啊！给我到后面躲起来！我会保护你们的！",
+			"あのね、あなたたちみたいな子供が勝てるような相手じゃないのよ！後ろに隠れてて、あたくしが守るから！",
+			"있잖아, 너흰 애들이 이길 수 있는 상대가 아니라고! 뒤에 숨어 있어, 내가 지켜줄 테니까!",
+			null,
+			null,
+			"Hey, hey! This is not an opponent that kids like you can beat! Get in the back and hide! I'll protect you!",
+			"You know what, kids like you can't win this fight! Get behind me, I'll protect you!"
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308920,
+			"No! We want to fight together! Don't call us kids! You look not that older than us! Why we have to hide behind you!",
+			"不要！我们也要一起战斗！而且不要叫我们小鬼！你看起来不也和我们差不多大么！为什么你能战斗我们就必须躲起来！",
+			"いやだ！一緒に戦う！それにもう子供じゃないもん！お姉ちゃんだって、私たちとあんまり歳が変わらないのに戦えてるよ！どうして、私たちは隠れなきゃいけないの？",
+			"싫어! 같이 싸울 거야! 게다가 우리 이제 애도 아니라고! 언니도 우리랑 별로 나이 차이 안 나는데 싸울 수 있잖아! 왜 우리만 숨어야 하는 거야?",
+			null,
+			null,
+			"No! We'll fight together too! And don't call us kids! You look about the same age as us! Why do we have to hide when you can fight!",
+			"No! No! We'll fight with you! And we're not kids anymore! You're not much older than us, and you can fight! Why do we have to hide?"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308921,
+			"Coo! Though I look like this but I'm indeed much older than you guys!",
+			"咕！别看我这个样子我的年龄可比你们大多了啊喂！",
+			"なっ！見た目は若いけど、あなたたちよりずっと年上よ！",
+			"뭐! 겉보기엔 젊어도 너희보다 훨씬 연상이야!",
+			null,
+			null,
+			"Goo! Don't look at me like this I'm older than you guys Hey!",
+			"Hey! They may look young, but they are much older than you!"
+		],
+		[
+			"msg",
+			308922,
+			"Ok! Stop! I can't really fight while you're here! Be good girls!",
+			"好了！别逞强了！你们在我很难发挥的呀！快听话！",
+			"もうっ！いい子だから言うこと聞きなさい！あなたたちがここにいると、本気を出せないのよ。",
+			"真是的！要當乖孩子就聽話！你們在這裡的話，我就不能使出真本事了。",
+			null,
+			null,
+			"All right! Don't be a hero! It's hard for me to play with you guys around! Do as you're told!",
+			"Damn it! You're a good boy, now listen to me! I can't take you guys seriously when you're here."
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308923,
+			"But…all our sisters fell down…even Emesa is sleeping…if you also……",
+			"可是…保护我们的大姐姐一个个都倒下了…现在连埃米沙也昏睡不起…如果连姐姐你也死掉的话……",
+			"でも……私たちを守ってくれてた人はみんな倒れちゃった……エミザも起きないし……お姉ちゃんまで死んじゃったら……。",
+			"可是……保護我們的人全都倒下了……艾米莎也醒不過來……要是連姊姊都死了的話……",
+			null,
+			null,
+			"But...the big sisters who protect us have fallen one by one...and now even Emesa is sleeping...if even you, sister, die ......",
+			"But ...... everyone who was protecting us has fallen. ...... Emesa won't wake up and ...... if even my sister dies. ......."
+		],
+		[
+			"msg",
+			308924,
+			"We will fight together with you! With our own power! We won't let you die like others!",
+			"我们也要一起战斗！我们也要用自己的力量保护姐姐！不会让姐姐像其他人一样死掉的！",
+			"私たちも戦う！自分たちの力でお姉ちゃんを守るの！お姉ちゃんを死なせたくないの！",
+			"我們也要戰鬥！要用我們自己的力量保護姊姊！不想讓姊姊死掉！",
+			null,
+			null,
+			"We also have to fight together! We will also use our strength to protect our sister! We won't let our sister die like the others!",
+			"We will fight too! We will protect you by our own strength! I don't want you to die!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308925,
+			"You……",
+			"你们……",
+			"あなたたち……。",
+			"你們……",
+			null,
+			null,
+			"You guys ......",
+			"You guys ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			308926,
+			"Growl!",
+			"吼吼吼！！",
+			"ヴォォオオオオオッ——！！",
+			"嗚喔喔喔喔喔！！",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"VOOOOOOOOHHHHHHH!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308927,
+			"Eh! New Honkai creatures are coming!",
+			"呃！又有新的崩坏生物又攻上来了么！",
+			"そんなっ！まだ来るの！？",
+			"그럴 수가! 아직 오는 거야!?",
+			null,
+			null,
+			"Ugh! A new creature of destruction has attacked again!",
+			"Son of a bitch! You're still coming!"
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308928,
+			"Those are beasts! Let's go together! Revenge for the sisters!",
+			"是怪兽！我们一起上！为姐姐们报仇！",
+			"化け物だ！行こう！お姉ちゃんたちの仇を取るんだ！",
+			"괴물이다! 가자! 언니들의 원수를 갚는 거야!",
+			null,
+			null,
+			"It's a monster! Let's go together! Avenge the sisters!",
+			"It's a monster! Let's go! Let's go avenge your sisters!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308929,
+			"Hey! Don't go! You are not able to beat them!",
+			"喂！别上去！你们是打不过它们的！",
+			"ま、待ちなさい！あなたたちの勝てる相手じゃないわ！",
+			"잠, 잠깐 기다려! 당신들이 이길 상대가 아니야!",
+			null,
+			null,
+			"Hey! Don't go up there! You can't beat them!",
+			"Wait, wait, wait! You are no match for them!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			308930,
+			"Growl!!",
+			"吼吼吼！！",
+			"グォオオオオオオッ！！",
+			"꾸오오오오오오오!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Guoooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308931,
+			"Damn! Go back!! I have no energy to look after each of you!",
+			"糟糕！快回来！！我现在没有精力保护你们！",
+			"まずいわ！早く戻りなさい！今はあなたたちを守る余裕がないの！",
+			"안 되겠어! 빨리 돌아가! 지금은 당신들을 지킬 여유가 없어!",
+			null,
+			null,
+			"Shit! Get back here!!! I don't have the energy to protect you now!",
+			"Oh, no! Get back here now! We can't afford to protect you right now!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			308932,
+			"Growl!!",
+			"吼吼吼！！",
+			"グォオオオオオオ——ッ！！",
+			"꾸오오오오오오——오!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Guooooooooooooooooo--!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308933,
+			"No!!",
+			"不要！！",
+			"いやーッ！！",
+			"아야아!!",
+			null,
+			null,
+			"No!!!",
+			"No!!!"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			308934,
+			"Bang!",
+			"砰！！",
+			"ガン……ッ！！",
+			"강……!!",
+			null,
+			null,
+			"BANG!!!",
+			"Gun......!!!"
+		],
+		[
+			"choice",
+			[
+				309298,
+				"I will protect the kids.",
+				"孩子们交给我来保护。",
+				"子供は任せて。",
+				"아이는 내게 맡겨.",
+				null
+			],
+			[
+				309318,
+				"Theresa, are you alright?",
+				"德丽莎，你没事吧？",
+				"テレサ、大丈夫？",
+				"테레사, 괜찮아?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1376,
+			1377
+		]
+	],
+	"1376": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308935,
+			"Kyushou…great……I was freaking out.",
+			"九霄…太好了……真是吓死我了。",
+			"きゅ、九霄……！よかった……もうダメかと思ったわ。",
+			"큐, 큐쇼……! 다행이야…… 다 끝인 줄 알았어.",
+			null,
+			null,
+			"Kyuushou...great ...... really scared me.",
+			"Kyu, Kyuushou......! Thank goodness ...... I thought I'd lost it."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1378
+		]
+	],
+	"1377": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308936,
+			"Don't worry about me! Protect the kids!",
+			"你先别管我！保护孩子们要紧！",
+			"あたくしのことはいいから、子供たちを守って！",
+			"아타쿠시의 건 괜찮으니까, 아이들을 지켜!",
+			null,
+			null,
+			"You leave me alone for now! Protect the children first!",
+			"Don't worry about me, protect my children!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1378
+		]
+	],
+	"1378": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308937,
+			"Boom!!",
+			"轰隆！！",
+			"ドンッ！！",
+			"쾅!!",
+			null,
+			null,
+			"Boom!!!",
+			"Boom!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308938,
+			"Huh! We're saved! Thanks to you! Or these kids will be in danger……",
+			"呼！得救了！多亏了你及时赶到！不然这些孩子的性命可就危险了……",
+			"ふぅ、助かったわ。九霄が間に合わなかったら、この子たちも危なかったはずよ……。",
+			"후우, 도움이 됐어. 큐쇼가 늦었더라면 이 아이들도 위험했을 거야…….",
+			null,
+			null,
+			"Hoo! We're saved! Thanks to you for arriving in time! Otherwise these children's lives would have been in danger ......",
+			"Whew, thank God. If Kyuushou hadn't gotten there in time, these kids would have been in danger. ......"
+		],
+		[
+			"msg",
+			308939,
+			"But the situation is dangerous, you should get the kids to find a safe place! I will cover you!",
+			"不过情况还很危险，你带着孩子们找个安全的地方躲起来！我来挡住这些崩坏生物掩护你们撤退！",
+			"でも、まだ油断はできないわよ。こいつらは、あたくしが引き止めるわ。その間に子供たちを安全な場所へ！",
+			"하지만 아직 방심할 수 없어. 이 녀석들은 내가 막을게. 그 동안 아이들을 안전한 곳으로!",
+			null,
+			null,
+			"But the situation is still dangerous, you take the children and find a safe place to hide! I'll hold off these crashing creatures to cover your retreat!",
+			"But we can't let our guard down yet. I'll hold them off. Meanwhile, get the kids to safety!"
+		],
+		[
+			"msg",
+			308940,
+			"Don't let them get hurt! Please!",
+			"千万不要让孩子们受伤！明白么！",
+			"子供たちに怪我させちゃダメよ！いいわね？",
+			"아이들에게 상처 입히면 안 돼! 알겠지?",
+			null,
+			null,
+			"Don't let the kids get hurt! Understand!",
+			"Don't hurt the kids! Okay?"
+		]
+	],
+	"1379": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			308941,
+			"Growl!!",
+			"吼吼吼！！",
+			"フシュー……ウォオオオオオオッ！！",
+			"휴…… 우오오오오오오오!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Fushoo ...... wow wow wow!!!!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308942,
+			"Damn…there're still so many of them……",
+			"可恶…居然还有这么多家伙……",
+			"くっ……まだこんなにいるなんて……。",
+			"큭…… 아직도 이렇게 많다니…….",
+			null,
+			null,
+			"Damn...there are actually so many guys ......",
+			"Damn ...... I can't believe how many are still here. ......"
+		],
+		[
+			"msg",
+			308943,
+			"Kyushou…can you still hold on! Otherwise you can take them leave here!",
+			"九霄…你还撑得住么！不行的话你带着孩子们走！",
+			"九霄……大丈夫？無理そうなら、子供たちと一緒に隠れてなさい！",
+			"큐쇼…… 괜찮아? 무리할 것 같으면 아이들과 함께 숨어 있어!",
+			null,
+			null,
+			"Kyuushou...can you still hold on! If you can't, take the kids and go!",
+			"Kyuushou...... are you okay? If you can't, go hide with the kids!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308944,
+			"Growl!!",
+			"吼吼吼！！",
+			"グォオオオオオオ——ッ！！",
+			"우오오오오오——!!",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Guooooooooooooooooo--!"
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308945,
+			"Stupid beasts! We're here!",
+			"笨蛋怪物！我们在这里！",
+			"バーカッ！こっちだよーッ！",
+			"바보야! 이쪽이야!",
+			null,
+			null,
+			"Stupid monsters! We're here!",
+			"You idiot! Over here!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308946,
+			"Eh! What are those kids doing! Hey! Don't get their attention!",
+			"呃！那些孩子在干什么！喂！别吸引崩坏生物的注意啊！",
+			"もうっ！あの子たち何してるのよ！崩壊生物に気付かれちゃうでしょ！",
+			"정말! 저 애들 뭐 하는 거야! 붕괴 생물에게 들키겠어!",
+			null,
+			null,
+			"Ugh! What are those kids doing! Hey! Don't attract the attention of the crashing creatures!",
+			"God damn it! What are they doing? The disintegrator will notice!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308947,
+			"Growl!",
+			"吼吼吼！",
+			"ウォオオオオオ——ッ！！",
+			"우오오오오——쓰!!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Wo-o-o-o-o-o--!"
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308948,
+			"Now! Turn down that fall!",
+			"就是现在！大家把那堵墙堆倒！！",
+			"今だ！壁を壊せ！！",
+			"지금이야! 벽을 부숴!!",
+			null,
+			null,
+			"Right now! Everybody pile that wall down!!!",
+			"Now! Break the wall!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308949,
+			"Boom!!",
+			"轰隆！！",
+			"ドゴォオオオオンッ！！",
+			"도고오오오온쓰!!",
+			null,
+			null,
+			"Boom!!!",
+			"Dogooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV11_MosterRoar"
+		],
+		[
+			"msg",
+			308950,
+			"Growl……",
+			"吼吼吼……",
+			"……ッゥオオオ——ッ！",
+			"……쓰우오오오——쓰!",
+			null,
+			null,
+			"rolleyes ......",
+			"......ooooooo--!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308951,
+			"Woo…We kick them down by using the ruins……",
+			"呜…居然利用ME社的废墟击败了崩坏生物……",
+			"ME社の瓦礫を使って、崩壊生物を倒すなんて……。",
+			"ME사의 잔해를 사용해서, 붕괴 생물을 쓰러뜨리다니…….",
+			null,
+			null,
+			"Oooh...actually used the ruins of ME Society to defeat the collapsed creatures ......",
+			"I can't believe they used the rubble from the ME company to defeat the decaying organisms. ......"
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308952,
+			"Sister! Are you ok!",
+			"姐姐！你没事吧！",
+			"お姉ちゃん！大丈夫だった？",
+			"언니! 괜찮았어?",
+			null,
+			null,
+			"Sister! Are you okay!",
+			"Sis! Are you okay?"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308953,
+			"It's ok…I'm just a bit tired…I haven't try so hard for long time, maybe I just get old……",
+			"没事…只是稍微有点累了…好久没这么拼命地战斗了，果然是上年纪了么……",
+			"ええ、少し疲れただけだから問題ないわ……こんなに本気を出したのは久しぶりよ、やっぱり歳のせいかしら……。",
+			"응, 조금 지쳤을 뿐이니까 문제없어…… 이렇게 진심을 낸 건 오랜만이야, 역시 나이 탓인가…….",
+			null,
+			null,
+			"Nothing...just a little tired...it's been a long time since I fought so hard...I'm really getting older ......",
+			"Yeah, I'm just a little tired, no problem. ...... I haven't been this serious in a long time, I guess I'm getting old. ......"
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308954,
+			"Sorry, we just created trouble again……",
+			"对不起。我们又给姐姐添麻烦了……",
+			"ごめんなさい。お姉ちゃんに迷惑かけちゃった……。",
+			"미안해. 언니에게 폐를 끼쳤어…….",
+			null,
+			null,
+			"Sorry. We gave my sister trouble again ......",
+			"Sorry. I got in trouble with my sister. ......"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				true
+			],
+			[
+				62,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308955,
+			"Haha, thanks to you, we are all saved, you're so smart to come up with that solution.",
+			"呵呵，这次多亏了你们，没想到居然反而被你们救下了呢，真亏你们能想到那种办法。",
+			"ふふっ、今回はあなたたちのお陰でなんとかなったのよ。まさか、助けられるなんてね。",
+			"후훗, 이번에는 너희들 덕분에 어떻게든 된 거야. 설마, 구원받을 줄이야.",
+			null,
+			null,
+			"Oh, thanks to you guys this time, I didn't expect to be saved by you guys instead, really thanks to you guys for thinking of that kind of solution.",
+			"Phew, you guys made it this time. I never thought I'd be able to help."
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308956,
+			"Hehe! That's to say we can fight with you now!",
+			"嘿嘿！这么说的话我们也能和姐姐一起战斗了么！",
+			"へへっ！それなら私たちもお姉ちゃんと一緒に戦えるの？",
+			"헤헷! 그럼 우리도 언니랑 함께 싸울 수 있는 거야?",
+			null,
+			null,
+			"Hey, hey! So we can fight with our sister too!",
+			"Hehe! Then we can fight with your sister too?"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				true
+			],
+			[
+				62,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308957,
+			"Huh…this time you're lucky, with what you have now, you still need a decade to be ale to fight against Honkai creatures!",
+			"哼…这次只是运气好罢了，凭你们现在这几下三脚猫的功夫，想和崩坏生物战斗还早十年呢！",
+			"だーめっ！今回はまぐれよ。あなたたちが崩壊生物と戦うなんて、10年早いわよ！",
+			"안 돼! 이번엔 운이 좋았을 뿐이야. 너희들이 붕괴 생물과 싸우다니, 10년은 일러!",
+			null,
+			null,
+			"Hmph...this time is just lucky, with your current kung fu, you want to fight with the creatures of destruction is still ten years too early!",
+			"DAMN! This time it's a fluke. You guys are ten years too young to be fighting disintegrating organisms!"
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308958,
+			"But…you're at a similar age bubt you're so great! Why don't you teach us!",
+			"可是…姐姐年龄和我们差不多居然能这么厉害！要不然姐姐教我战斗吧！",
+			"でも……私たちと歳の変わらないお姉ちゃんは、化け物と戦えるんだよね！すごいっ！！ねぇねぇ、戦い方を教えてよ！",
+			"하지만...... 우리와 나이 차이 안 나는 언니는 괴물과 싸울 수 있잖아! 대단해!! 저기 저기, 싸우는 방법 가르쳐 줘!",
+			null,
+			null,
+			"But... my sister is about the same age as us and she's so good! Or you can teach me how to fight!",
+			"But ...... your sister, who is no older than us, can fight monsters! Amazing! Hey, hey, teach me how to fight!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308959,
+			"Coo…so……",
+			"咕…所以说……",
+			"もうっ……だから……。",
+			"아真是... 그러니까......",
+			null,
+			null,
+			"Goo...so says ......",
+			"It's ...... because it's ...... already."
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308960,
+			"As long as we can fight like you, no one would die! We can drive away the beast like Bronya does when we grow up!",
+			"只要我们能像姐姐一样战斗的话，大家一定都不会死掉了！我们长大后也可以和布洛妮娅一起把怪物们都赶跑了！",
+			"お姉ちゃんみたいに戦えるようになったら、みんなのことを守れるでしょ？ブローニャと一緒に化け物を倒せるでしょ？",
+			"언니처럼 싸울 수 있게 되면, 모두를 지킬 수 있겠지? 브로냐와 함께 괴물을 물리칠 수 있겠지?",
+			null,
+			null,
+			"If we can fight like our sister, we won't die! When we grow up, we can also work with Bronya to chase away the monsters!",
+			"If you can fight like your sister, you can protect everyone, right? You and Bronya can defeat the monster together, right?"
+		],
+		[
+			"msg",
+			308961,
+			"So no one dares to bully us! We can all live together happily! Am I right!",
+			"这样的话就没有人敢欺负我们了！大家也一定都可以开开心心地生活在一起了！姐姐你说对不对！",
+			"そしたら、みんな幸せに暮らせるよね！そうでしょ？お姉ちゃん！",
+			"그러면 모두 행복하게 살 수 있겠지! 그렇지? 언니!",
+			null,
+			null,
+			"Then no one will dare to bully us! Everyone will be able to live happily together! Don't you think so, sister?",
+			"Then we could all live happily ever after! Right? Sis!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308962,
+			"……",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				true
+			],
+			[
+				62,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308963,
+			"Yes, you're right…when you grow up, that day will come.",
+			"嗯，你们说的没错…等你们长大的时候，那一天就会来到了。",
+			"うん、そうね……あなたたちが大人になったら、きっとそうなれるわ。",
+			"응, 그래...... 너희들이 어른이 되면, 분명 그렇게 될 수 있을 거야.",
+			null,
+			null,
+			"Well, you guys are right...that day will come when you are older.",
+			"Yeah, well ...... I'm sure when you guys grow up you will."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				5,
+				false
+			],
+			[
+				62,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308964,
+			"Theresa! Kyushou! Are you ok!",
+			"德丽莎！九霄！你们没事吧！",
+			"テレサ！九霄！大丈夫ですか？",
+			"테레사! 큐쇼! 괜찮으세요?",
+			null,
+			null,
+			"Theresa! Ninth Heaven! You guys are okay!",
+			"Teresa! Kyuushou! Are you okay?"
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308965,
+			"Bronya! It's Bronya coming!",
+			"布洛妮娅！是布洛妮娅来了！",
+			"ブローニャだ！ブローニャが来てくれた！",
+			"브로냐다! 브로냐가 와줬어!",
+			null,
+			null,
+			"Bronya! It's Bronya coming!",
+			"It's Bronya! Bronya's here!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				62,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308966,
+			"The kids are here…huh…you're all alright, great.",
+			"孩子们也在这里…呼…你们都没事，真是太好了。",
+			"子供たちも……みんな無事なようでよかったです。",
+			"아이들도...... 모두 무사해서 다행이에요.",
+			null,
+			null,
+			"The kids are here too...phew...it's great that you're all okay.",
+			"I'm glad to hear that all the kids are ...... safe."
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				62,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308967,
+			"The Honkai creatures in ME are almost wiped out…this time the attack is not that fierce, we've gone through that.",
+			"ME社的崩坏生物也都消灭得差不多了…还好这次的进攻并不算太猛烈，总算是撑过去了。",
+			"ME社の崩壊生物も何とか倒せました……今回はそんな大規模な戦いにならずよかったです。",
+			"ME사의 붕괴 생물도 어떻게 쓰러뜨렸어요... 이번에는 그렇게 대규모 전투가 되지 않아 다행이에요.",
+			null,
+			null,
+			"The ME Society's collapsed creatures were all pretty much wiped out as well... Fortunately, the attack wasn't too violent this time, so we finally made it through.",
+			"We also managed to defeat the disintegrating organisms of ME company ...... I'm glad we didn't have such a huge battle this time."
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308968,
+			"So we win again!",
+			"也就是说这次我们又胜利了么！",
+			"つまり、また勝ったってこと？",
+			"즉, 또 이겼다는 거야?",
+			null,
+			null,
+			"That means we have won again this time!",
+			"Does that mean we won again?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				62,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308969,
+			"Yes, you're right, this time we get them away again.",
+			"嗯，你们说的没错，这次我们又把怪物们赶跑了。",
+			"ええ、そうですね。今回も化け物たちを倒せました。",
+			"네, 그렇네요. 이번에도 괴물들을 쓰러뜨렸어요.",
+			null,
+			null,
+			"Well, you guys were right, we got rid of the monsters again this time.",
+			"Yes, we did. We were able to defeat the monsters again."
+		],
+		[
+			"msg",
+			308970,
+			"Let's go, go back to the base, althrough the beasts are gone, they might come back again, we need to get prepared for the next time~",
+			"走吧，我们回基地去吧，虽然怪物们都跑掉了，但它们一定还会回来，我们得做好准备让它们下次也吃不了兜着走~",
+			"さあ、基地に戻りましょう。化け物たちは逃げましたが、また戻ってくるかもしれません。その前に準備しておかないと。",
+			"자, 기지로 돌아가죠. 괴물들은 도망갔지만 다시 돌아올지도 몰라요. 그 전에 준비를 해야겠죠.",
+			null,
+			null,
+			"Come on, let's go back to the base, although the monsters have run away, but they will definitely come back, we have to be prepared to let them next time also eat the pocket ~",
+			"Now, let's go back to the base. The monsters have escaped, but they may come back. We have to be ready before they do."
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				62,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308971,
+			"Yes!",
+			"嗯嗯！",
+			"うんっ！",
+			"응!",
+			null,
+			null,
+			"Mmmmmm!",
+			"Yeah!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308972,
+			"……",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308973,
+			"Theresa? What's wrong, let's go.",
+			"德丽莎？怎么了，我们也走吧。",
+			"テレサ？行きましょう？",
+			"테레사? 갈까요?",
+			null,
+			null,
+			"Theresa? What's wrong? Let's go too.",
+			"Teresa? Shall we go?"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308974,
+			"Yes……",
+			"嗯……",
+			"ええ、そうね……。",
+			"네, 그렇네......",
+			null,
+			null,
+			"Well ......",
+			"Yes, you're right. ......."
+		]
+	],
+	"1380": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308975,
+			"Bronya, all the injured are settled down, this time the scale is not that big, the number of casualties are controlled.",
+			"布洛妮娅，伤员都已经安顿好了，所幸这次战斗的规模不大，伤亡还算控制住了。",
+			"ブローニャ、怪我人の治療は済んだわ。今回の戦闘は小規模だったから、怪我人の数もさほど多くないわね。",
+			"브로냐, 부상자 치료는 끝났어. 이번 전투는 소규모였으니까 부상자 수도 그리 많지 않네.",
+			null,
+			null,
+			"Bronya, the wounded have been settled, and fortunately the battle was small and the casualties were fairly contained.",
+			"Bronya, the wounded have been treated. The battle was small, so there weren't too many injuries."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308976,
+			"Ok……",
+			"好的……",
+			"わかりました……。",
+			"알겠어요......",
+			null,
+			null,
+			"Okay ......",
+			"Okay. ......."
+		],
+		[
+			"speaker",
+			204663
+		],
+		[
+			"portraits",
+			[
+				963,
+				0,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308977,
+			"We can help to take care of them! Emesa taught us how to do bandage up the injury!",
+			"我们也来帮忙一起照顾受伤的姐姐们吧！埃米沙教过我们包扎的方法！",
+			"私たちも手伝う！エミザに手当てのやり方を教えてもらったの！",
+			"우리도 도울게! 에미사한테 치료 방법을 배웠거든!",
+			null,
+			null,
+			"Let's help take care of the injured sisters together! Emesa has taught us how to bandage!",
+			"We'll help too! Emesa taught me how to patch you up!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308978,
+			"Yes, please.",
+			"嗯，那就拜托你们了。",
+			"ええ、お願いしますね。",
+			"네, 부탁드려요.",
+			null,
+			null,
+			"Well, then, I'm counting on you.",
+			"Yes, please."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308979,
+			"By the way, Bronya, I haven't heard from you about the important thing, now that the situation is getting well, you can continue.",
+			"对了，布洛妮娅，刚才因为崩坏生物还没有听你说重要的事情呢，现在局势也都稳定住了，你就继续刚才的话题吧。",
+			"そうだ、ブローニャ。さっきは崩壊生物のせいで聞きそびれちゃったけど、みんなに話したいことって何だったの？",
+			"그러고 보니까, 브로냐. 아까는 붕괴 생물 때문에 말을 못 들었는데, 다들 말하고 싶은 게 뭐였던 거야?",
+			null,
+			null,
+			"By the way, Bronya, just now because of the collapse of the creatures have not heard you say important things, and now that the situation is all stabilized, you can continue what you just said.",
+			"Yes, Bronya. I missed asking you earlier because of the disintegrating organisms, but what was it that you wanted to talk to everyone about?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308980,
+			"Well…then let me talk about it……",
+			"嗯…那我就继续刚才要说的话吧……",
+			"そうですね……では、先ほどの話の続きをしたいと思います……。",
+			"그러네요…… 그럼, 아까 말씀드리던 이야기를 이어가도록 하겠습니다…….",
+			null,
+			null,
+			"Well...then I'll continue what I was about to say ......",
+			"Yes, ......, I would like to continue what we were talking about earlier: ......."
+		],
+		[
+			"msg",
+			308981,
+			"as you see, now the world has a huge change, the dead plague is shining again, and the rising tower in Academic City.",
+			"如果你们所见，现在整个世界都在发生着巨大的变化，天空中再次闪耀的死斑，还有在学园都市中升起的巨塔。",
+			"皆さん見ての通り、この世界は今なお異変が続いています。空にある死斑は再び光を帯び始め、学園都市には巨大な塔が現れました。",
+			"여러분도 보시다시피, 이 세계는 여전히 이변이 계속되고 있습니다. 하늘에 있는 사반은 다시 빛을 띠기 시작했고, 학원 도시에는 거대한 탑이 나타났습니다.",
+			null,
+			null,
+			"If you can see, the whole world is now changing dramatically, with the death spots shining in the sky once again, and the giant towers rising in Academy City.",
+			"As you can all see, this world is still in a state of mutation. The death spots in the sky have begun to glow again, and huge towers have appeared in the school city."
+		],
+		[
+			"msg",
+			308982,
+			"What I want to tell you is…what's going to happen in this world……",
+			"我想告诉你们的…就是这个世界即将发生的事情……",
+			"そして、みんなに伝えたいのは、この世界でこれから起きることです……。",
+			"그리고, 여러분께 전하고 싶은 건 이 세계에서 앞으로 일어날 일입니다…….",
+			null,
+			null,
+			"What I want to tell you...is what is about to happen in this world ......",
+			"And I want to tell everyone what is going to happen in this world. ......"
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308983,
+			"In future, not sure how long…the Honkai energy will be absorbed by the dead plague in the sky, Herrscher will activate it on the top of the huge tower, and the big Honkai will happen again…at that time……",
+			"在今后的一段时间内，具体是多久还无法确定…地面的崩坏能会被天空中的死斑吸收，律者会在巨塔的顶端重新激活死斑，重新引发五年前的那次大崩坏…到那个时候……",
+			"この先、具体的な時期はまだ確定できていませんが……地表にある崩壊エネルギーが死斑へと吸収され、律者が巨塔の上から死斑を復活させることで、5年前の大崩壊が再び引き起こされます……その時……。",
+			"앞으로, 구체적인 시기는 아직 확정되지 않았지만…… 지표에 있는 붕괴 에너지가 사반으로 흡수되고, 율자가 거탑 위에서 사반을 부활시킴으로써, 5년 전의 대붕괴가 다시 일어날 것입니다…… 그때…….",
+			null,
+			null,
+			"At some time in the future, exactly how long is still uncertain... The collapse energy on the ground will be absorbed by the dead spot in the sky, and the Ruler will reactivate the dead spot at the top of the giant tower, reigniting that great collapse five years ago... At that time ......",
+			"Beyond this, the specific timing has yet to be determined. ...... The collapse energy on the surface of the earth will be absorbed into the death spots, and the Ruler will resurrect the death spots from the top of the giant tower, causing the great collapse of five years ago to occur again.... ...at that time ......."
+		],
+		[
+			"msg",
+			308984,
+			"At that time……",
+			"那个时候……",
+			"その時は——",
+			"그때는 ——",
+			null,
+			null,
+			"That time ......",
+			"And then--"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308985,
+			"At that time it's the end of ours……",
+			"那个时候就是我们的终点了吧……",
+			"——私たちも終わるのね。",
+			"——우리도 끝나는 거네요.",
+			null,
+			null,
+			"That time is the end of us, right ......",
+			"--We're done, too, aren't we?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308986,
+			"Right……",
+			"没错……",
+			"はい……。",
+			"네…….",
+			null,
+			null,
+			"That's right ......",
+			"Yes. ......."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308987,
+			"I've somehow felt it, it's really the end of the world……",
+			"虽然已经隐约感觉到了，看来真的是末日的尽头了么……",
+			"何となく気づいてはいた。けど、本当に世界の終わりがくるのね……。",
+			"어느 정도 눈치채고는 있었어. 하지만 정말 세상의 끝이 오는 거네…….",
+			null,
+			null,
+			"Although it has been vaguely felt, it really seems to be the end of the end is it ......",
+			"I had somehow noticed it. But the end of the world is really coming. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308988,
+			"Sorry…I should cheer you up at this moment…but that's the only thing I can tell you.",
+			"抱歉…明明这种时候最应该激励大家的我…却只能告诉你们这样的结果。",
+			"ごめんなさい……本当は、みんなを元気づけなきゃいけない立場なのに……この結末を伝えることだけで、精一杯なんです。",
+			"미안해…… 사실은 모두를 격려해야 할 입장인데…… 이 결말을 전하는 것만으로도 정말 힘들어.",
+			null,
+			null,
+			"I'm sorry...I'm the one who should be motivating everyone at a time like this...but I can only tell you this result.",
+			"I'm sorry ...... I'm really in a position where I have to cheer everyone up ...... but all I can do is tell you how this ends."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308989,
+			"Bronya…don't blame yourself…we've prepared to accept the answer, if we can't get away from it…then we have to accept it.",
+			"布洛妮娅…你不用自责…我们已经准备好接受一切答案了，如果这是无法逃避的结局的话…那也只能接受了。",
+			"ブローニャ……自分を責めることないわ……私たち、全てを受け入れる覚悟はできてるもの。これが避けられない運命なら……受け入れるしかないわ。",
+			"브로냐…… 자신을 탓하지 마…… 우리는 모든 것을 받아들일 각오는 되어 있어. 이것이 피할 수 없는 운명이라면…… 받아들일 수밖에 없어.",
+			null,
+			null,
+			"Bronya...you don't have to blame yourself...we are ready to accept all the answers, and if this is the inescapable end...then it will have to be accepted.",
+			"Bronya,...... don't blame yourself,...... we're ready to accept it all. If this is our inevitable fate, we have to accept it......."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308990,
+			"But…but…if we just die like this……everything will be……",
+			"可是…可是…就这样死去的话……不是一切都……",
+			"でも、でも……このまま死ぬなんて……今までの何もかもが……！",
+			"하지만, 하지만…… 이대로 죽다니…… 지금까지의 모든 것이……!",
+			null,
+			null,
+			"But...but...if you die like this ...... not everything is ......",
+			"But, but I can't ...... just die like this ...... everything I've ever done ......!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308991,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308992,
+			"It's not ended!",
+			"一切都还没有结束！",
+			"まだ終わってないわ！",
+			"아직 끝난 게 아니야!",
+			null,
+			null,
+			"It's not over yet!",
+			"It's not over yet!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308993,
+			"Theresa?",
+			"德丽莎？",
+			"テレサ？",
+			"테레사？",
+			null,
+			null,
+			"Theresa?",
+			"Teresa?"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308994,
+			"Our fight has not ended…as long as we're live, we shouldn't give up the hope!",
+			"我们的战斗还没有结束…只要我们还活着，就不要放弃希望！",
+			"あたくしたちの戦いはまだ終わってないの……生きている限り、希望を捨てちゃダメよ！",
+			"우리들의 싸움은 아직 끝나지 않았어…… 살아있는 한, 희망을 포기하면 안 돼!",
+			null,
+			null,
+			"Our fight is not over...as long as we are alive, don't give up hope!",
+			"Our fight is not over yet. ...... As long as you are alive, don't give up hope!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			308995,
+			"But…can you stop the day coming? If not then please don't say it!",
+			"可是…你有什么办法阻止末日的来临么？如果没有的话就不要说这样的话！",
+			"でも……終焉の降臨を止める方法はあるの？ないなら、軽々しくそんなこと言わないで！",
+			"하지만…… 종언의 강림을 막을 방법이 있어? 없다면, 함부로 그런 말 하지 마!",
+			null,
+			null,
+			"But...do you have any way to stop the end? If you don't, don't say such things!",
+			"But is there any way to stop the descent of the ...... demise? If there isn't, don't say that so flippantly!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308996,
+			"……I know…I was having the same thought, about to give up, and wait for that day coming in peace.",
+			"……我知道…原本我和你们的想法一样，准备放弃抵抗，平静地迎来末日的降临。",
+			"……わかってるわ……あたくしもあなたたちと同じで、抗うことをやめて静かに終わりを迎えるつもりだった。",
+			"……알고 있어…… 나도 너희들과 마찬가지로, 맞서는 것을 그만두고 조용히 끝을 맞이할 생각이었어.",
+			null,
+			null,
+			"...... I know... Originally I had the same idea as you, ready to give up resistance and calmly usher in the end.",
+			"I know ...... I know ...... I, like you guys, was going to stop resisting and quietly end it."
+		],
+		[
+			"msg",
+			308997,
+			"But just now…I changed my mind.",
+			"但是就在刚才…我的想法改变了。",
+			"でも、今……気が変わったわ。",
+			"하지만, 지금… 마음이 변했어.",
+			null,
+			null,
+			"But just now...my mind changed.",
+			"But now I've changed my mind about ......."
+		],
+		[
+			"msg",
+			308998,
+			"Even in such a disaster! Those kids are still full of hope for the future! They just winned over the Honkai creatures with their small bodies and wisdom!",
+			"即使在这样的灾难中！那些孩子还是对未来充满了希望！就在刚才她们甚至用自己小小的身躯和智慧赢得了一场与崩坏生物的战斗！",
+			"災厄に包まれたこんな世界でも、子供たちは未来に希望を抱いているの！さっきだって、その小さな身体と知恵で崩壊生物を倒したのよ！",
+			"재앙에 휩싸인 이런 세상에서도 아이들은 미래에 희망을 품고 있어! 방금도 그 작은 몸과 지혜로 붕괴 생물을 쓰러뜨렸다고!",
+			null,
+			null,
+			"Even in the midst of such a disaster! Those children still have hope for the future! Just now they even used their tiny bodies and wits to win a battle against the collapsing creatures!",
+			"Even in this world of disaster, children hold out hope for the future! Just a few moments ago, they used their tiny bodies and their wits to defeat a decaying organism!"
+		],
+		[
+			"msg",
+			308999,
+			"Even those kids haven't give up, why should we!",
+			"连那些孩子都没有放弃，为什么我们就已经要言败了呢！",
+			"あの子たちが諦めていないのに、どうしてあたくしたちが諦めてしまうの？",
+			"저 아이들이 포기하지 않았는데, 어째서 우리가 포기해 버리는 거야?",
+			null,
+			null,
+			"Even those kids didn't give up, so why are we already talking about defeat!",
+			"Why should we give up on them when they haven't given up on us?"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			309000,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				4,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309001,
+			"Theresa is right.",
+			"德丽莎说的的对。",
+			"確かにそうです……テレサの言う通りです。",
+			"확실히 그렇습니다…테레사가 말한 대로입니다.",
+			null,
+			null,
+			"What Theresa said is right.",
+			"Indeed it is. ...... Teresa is right."
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309002,
+			"The day is coming…but so what? We've still survived until now from that big Honkai five years ago!",
+			"末日的确近在眼前…但那又如何呢？五年前的大崩坏我们不也照样活着坚持到了现在么！",
+			"終わりは近づいてきていますが……それがどうしたというのですか？5年前の大崩壊だって、ブローニャたちは生き残れたのです！",
+			"종말이 다가오고 있지만…그게 어쨌다는 거죠? 5년 전의 대붕괴라고 해도, 브로냐들은 살아남을 수 있었어!",
+			null,
+			null,
+			"It is true that the end is near...but so what? Five years ago the great collapse we did not also live to persist until now!",
+			"The end is coming, but ...... what does it matter, even the great collapse of 5 years ago, Bronya and the others survived!"
+		],
+		[
+			"msg",
+			309003,
+			"As long as we don't give up! No matter how many times the end of the world comes! We'll stand up again! Fight for the destiny of human beings!",
+			"只要不放弃希望！那样的末日来多少次都一样！因为我们还是会再次站起来！再次为了人类的命运而战斗！",
+			"希望を諦めない限り、あんな終焉が何度訪れようとも同じです！我々は何度だって立ち上がります！人類の運命のために戦います！",
+			"희망을 포기하지 않는 한, 그런 종말이 몇 번 찾아오든 상관없어요! 우리는 몇 번이라도 일어설 거예요! 인류의 운명을 위해 싸울 거라고!",
+			null,
+			null,
+			"Just don't give up hope! That kind of doomsday comes as many times as it does! Because we will still stand up again! Fight again for the fate of mankind!",
+			"As long as we don't give up hope, it doesn't matter how many times that demise comes! We will rise again and again! We will fight for the destiny of mankind!"
+		],
+		[
+			"msg",
+			309004,
+			"\"Moths in Fire\" is created because of this purpose!",
+			"“逐火之蛾”不就是为了这个目标而建立的么！",
+			"「火を追う蛾」は、そのために作られたものなのですから！",
+			"「불을 좇는 나방」은 바로 그를 위해 만들어진 것이니까!",
+			null,
+			null,
+			"Isn't that what the \"Moth of Fire\" was created for?",
+			"Because that's what \"Moths Chasing Fire\" was made for!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			309005,
+			"Moths in Fire……",
+			"逐火之蛾……",
+			"火を追う蛾……。",
+			"불을 좇는 나방….",
+			null,
+			null,
+			"The Moth of Fire ......",
+			"Moths Chasing Fire. ......."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			309006,
+			"No matter how frightening darkness is…we have to pursue that fire of hope……",
+			"不管黑暗多么令人恐惧…我们还是要追逐那一丝闪耀的希望之火……",
+			"闇が怖くても……あの希望の火を追いかける……。",
+			"어둠이 두려워도…그 희망의 불꽃을 좇아가는…….",
+			null,
+			null,
+			"No matter how frightening the darkness is...we still have to chase the glimmering flame of hope ......",
+			"Even if you are afraid of the darkness, ...... follow that fire of hope. ......"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309007,
+			"Right! Even we have to burn ourselves in the end……",
+			"没错！哪怕是烧尽自己最后的躯体……",
+			"その通りです！自分の身体が燃え尽きようとも——",
+			"그렇습니다! 제 몸이 불타 없어지더라도——",
+			null,
+			null,
+			"That's right! Even if it means burning your last body ......",
+			"That's right! Even if your own body is burning up--"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			309008,
+			"We will fight!",
+			"也要战斗到底！",
+			"——最後まで戦う！",
+			"——끝까지 싸울 거야!",
+			null,
+			null,
+			"We will fight to the end too!",
+			"--Fight to the end!"
+		]
+	]
+}

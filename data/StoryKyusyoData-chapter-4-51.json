@@ -1,0 +1,2866 @@
+{
+	"160": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bg",
+			"CG10152"
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"msg",
+			301665,
+			"\"Warning! Ship significantly damaged! Compartment 2 to 17 on fire! Fault discovered in power system! Engine power down!\"",
+			"「警告！船体严重受损！2-17仓室起火！动力系统发现故障！出力下降中！",
+			"「警告！船体が激しく損傷！2-17キャビンから出火！動力システムに故障発生！出力低下中！」",
+			"「경고! 선체가 심각하게 손상되었습니다! 2-17 캐빈에서 화재 발생! 동력 시스템에 고장 발생! 출력 저하 중!」",
+			"\"Warning! Severe damage to the hull! Fire in cabin 2-17! Power system failure! We're losing power!\"",
+			null,
+			"\"Warning! Hull severely damaged! Fire in compartment 2-17! Power system failure detected! Power is dropping!",
+			"Warning! Severe hull damage! Fire in cabin 2-17! Power system failure! We're losing power!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301666,
+			"Hurry up! Transfer the injured crew to safe cabins! It’s too dangerous here!",
+			"快！把伤员转移到安全的舱室！这里太危险了！",
+			"急げ！負傷者を安全なキャビンに！ここは危険すぎる！",
+			"서둘러! 부상자를 안전한 캐빈으로! 여기는 너무 위험해!",
+			"Hurry! Get the wounded to the safe cabin! It's too dangerous here!",
+			null,
+			"Quickly! Move the wounded to a safe compartment! It's too dangerous here!",
+			"Hurry! Get the wounded to the safe cabin! It's too dangerous here!"
+		],
+		[
+			"msg",
+			301667,
+			"Over there! Don’t @#$* care about the supplies! Evacuate, now!",
+			"那边的！别OO地管那些破烂物资了！赶紧从这里撤离！",
+			"そこっ！そんなグチャグチャになった物資はほっとけ！急いでここから撤退するんだ！",
+			"저기! 그렇게 엉망이 된 물자는 놔두고! 서둘러 여기서 철수하는 거야!",
+			"Over there! Leave those ☆☆ supplies alone! We've gotta get the hell out of here!",
+			null,
+			"Over there! Leave the crap supplies alone! Get out of here now!",
+			"There! Leave those mangled supplies alone! We've got to get the hell out of here!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301668,
+			"......",
+			"……",
+			"……。",
+			"……。",
+			"......"
+		],
+		[
+			"msg",
+			301669,
+			"Are we... Still alive...",
+			"我们…还活着么……",
+			"私たち……まだ生きているの……？",
+			"우리…… 아직 살아있는 거야……?",
+			"Are we...... Still alive......?",
+			null,
+			"Are we...still alive ......",
+			"Are we ...... still alive ......?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			301670,
+			"Yssring! Get up! Boot up your crappy robots! We need more hands now!",
+			"伊瑟琳！给我起来！去把你那些破机器人启动了！现在急需人手！",
+			"イザーリン！何、寝ぼけたこと言ってんだ！お前のあのボロロボットを起動させろ！人手が足りない！",
+			"이자린! 뭔, 잠꼬대 같은 소리를 하는 거야! 네 그 낡아빠진 로봇을 작동시켜! 인원이 부족하다고!",
+			"Yiserin! C'mon, get the hell up! Get those crap robots of yours up and running, we need more manpower!",
+			null,
+			"Estherine! Get the hell up! Go get your damn robots started! We need help now!",
+			"Estherine! What the hell are you talking about? Turn on that rag-tag robot of yours! We don't have enough manpower!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				54,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			301671,
+			"Ah... My HOMU robots... All gone... My effort... It’s all over...",
+			"啊…吼姆机器人…它们都没了……我的心血…全都完了……",
+			"ホムロボットのこと……？全部なくなっちゃったわ……私の苦労が……全ておしまいよ……。",
+			"홈 로봇 말이야……? 전부 없어져 버렸어…… 내 수고가…… 모두 끝이야…….",
+			"Those... Homu mechas? They're all gone... All my hard work... My life's effort... It's all over....",
+			null,
+			"Ah...hoom robots...they are gone ...... my heart and soul...all finished ......",
+			"The homerobot thing ......? It's all gone. ...... all my hard work ...... is all over. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				54,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			301672,
+			"Tsk! Useless! Don’t pretend to be dead!",
+			"啧！没用的家伙！别给我装死！",
+			"この役立たずが！起きろ！そんなとこで死んでないで、手伝え！",
+			"이 쓸모없는 녀석! 일어나! 그런 데서 죽어 있지 말고, 도와줘!",
+			"You fucking... Get up! Don't just sit there, help me! (TN: Emesa seems to be using a very harsh word here that means 'waste of space' or such, but I can't think of a fitting swear right now)",
+			null,
+			"Tsk! Useless bastard! Don't play dead for me!",
+			"You worthless piece of shit! Get up! Don't just stand there, help me!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301673,
+			"Fire had spread from the compartment in front!",
+			"报告！前方舱室的火灾已经蔓延过来了！",
+			"報告します！前方キャビンの火災がこちらに広がってきています！",
+			"보고합니다! 전방 캐빈의 화재가 이쪽으로 번지고 있습니다!",
+			"Report! The fire in the front compartment is spreading!",
+			null,
+			"Report! The fire in the forward hatch has spread!",
+			"Report! The fire in the forward cabin is spreading this way!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301674,
+			"What the @#$* are you waiting for! Put out the fire!",
+			"那还OO的等什么！快去灭火！",
+			"何ボサッとしてんだ！早く消火してこい！",
+			"뭘 멍하니 서 있는 거야! 빨리 소화하러 가!",
+			"What the ☆☆ are you waiting for? Go and put out the fire!",
+			null,
+			"Then what are you waiting for! Go put out the fire!",
+			"What are you waiting for? Go put out the fire!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301675,
+			"But... But there are Houkai creatures inside...",
+			"可…可是里面还有崩坏生物……",
+			"し……しかし、中には崩壊生物が……。",
+			"그... 하지만 안에는 붕괴生物이......",
+			"But... There are Honkai Beasts inside...",
+			null,
+			"But...but there are still collapsed creatures inside ......",
+			"Sh...... but some of the disintegrating organisms are ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301676,
+			"So what! Go! If you don’t put out the fire, we will be burnt to death!",
+			"崩坏生物又怎么样！给我上！如果不扑灭的话就等着都被烧死吧！",
+			"崩壊生物がどうした！行ってこいっ！倒せなかったら、ここで焼け死ぬだけだぞ！",
+			"붕괴生物이 어쨌다고! 가서 처리해! 못 쓰러뜨리면 여기서 타죽을 거야!",
+			"So what if there's Honkai Beasts! Go and fight them! If you don't put it out, everyone's going to burn to death!",
+			null,
+			"So what if it's a crashing creature! Let's go! If you don't put it out, you'll be burned to death!",
+			"What about the disintegrating organisms? Go on! If you can't beat it, you'll just burn to death here!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301677,
+			"No! Don’t! Don’t pull me into the fire!!",
+			"不！不要！不要拉着我进火海啊！！",
+			"い、嫌っ！焼け死ぬなんてこわい……！",
+			"아, 싫어! 타죽는 건 무서워...!",
+			"No! Don't! Don't pull me into the fire, I don't want to burn!",
+			null,
+			"No! Don't! Don't pull me into the fire!",
+			"Oh, no! I don't want to burn to death. ......!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			301678,
+			"Hey! And you! Come and help! There must be invading Houkai creatures in the damaged compartments! Kill them all!",
+			"喂！还有你！你也来帮忙！损坏的舱室中应该还有入侵的崩坏生物！给我OO地把它们都宰了！！",
+			"おい！あんたも手伝ってやってくれ！壊れたキャビンの中にクソったれな崩壊生物がまだ残ってるはずだ！葬ってこいっ！！",
+			"야! 너도 도와줘! 부서진 캐빈 안에 빌어먹을 붕괴生物이 아직 남아 있을 거야! 처리해 버려!!",
+			"Hey! And <color=#cc66ffFF>you</color>! Come and help! There could be invading Honkai Beasts in the damaged compartments! Kill them all!",
+			null,
+			"Hey! And you! You come and help too! There should be invading Avalanche creatures in the damaged hatch! Kill them all for me OO!!!",
+			"Hey! You've got to help him! There's got to be some fucking disintegrating organisms still left in that broken cabin! Go!"
+		],
+		[
+			"msg",
+			301679,
+			"Remember! Do not let any one get away! You must revenge for everybody!",
+			"记住！一只也不能放走！一定要给大家报仇！",
+			"いいか！？1体たりとも生かすなよ！……必ずみんなの仇を討つぞ！",
+			"알겠어!? 한 마리도 살려두지 마! ... 반드시 모두의 원수를 갚을 거야!",
+			"Remember! Don't let any of them go! We must avenge everyone!",
+			null,
+			"Remember! Don't let any of them go! We must avenge everyone!",
+			"Listen to me! Don't let any of them live! ...... will avenge you all for sure!"
+		]
+	],
+	"161": [
+		[
+			"speaker",
+			204616
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301680,
+			"Reporting! Emergency damage control in the ship completed. All visible fire is put out. Injured personnel have been transferred to safe compartments.",
+			"报告！舰内损坏区域的应急损管已经处理完毕，明火已经全部扑灭，受伤的人员也都已经转移到了安全仓室。",
+			"報告します！艦内の損壊エリアの応急処置が完了しました。全て消火済み、負傷者も安全なキャビンに移しました。",
+			"보고합니다! 함내 손상 구역의 응급 처치를 완료했습니다. 모두 소화 완료, 부상자도 안전한 캐빈으로 옮겼습니다.",
+			null,
+			null,
+			"Report! The emergency damage control in the damaged area of the ship has been dealt with, the open fires have all been extinguished and the injured personnel have all been transferred to the safety compartment.",
+			"Report! First aid has been completed on the damaged areas of the ship. All fires have been extinguished and the injured have been moved to safe cabins."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301681,
+			"...Good. Thanks for your hard work.",
+			"……好的，辛苦了。",
+			"……分かったわ。ご苦労様。",
+			"......알겠어. 수고했어.",
+			"......I understand. Thanks for your help.",
+			null,
+			"...... Okay, hard work.",
+			"I understand ....... Thanks for your help."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301682,
+			"*Cough*... I was almost burnt to death... It will be such a pity if I died on our own battleship...",
+			"咳咳…差点就被烧死了，要是死在自家的战舰上就太冤了……",
+			"ゴホッ、ゴホッ……あとちょっとで焼け死ぬところだった。自分の戦艦で焼身死体になるなんて、想像もしたくない……。",
+			"콜록, 콜록...... 조금 더 있으면 타죽을 뻔했어. 자신의 전함에서 불타는 시체가 된다니, 상상도 하고 싶지 않아......",
+			"*cough* I was almost burnt to death... I don't want to imagine becoming a burnt corpse on my own battleship...",
+			null,
+			"Ahem...almost got burned to death, if I died on my own battleship it would be too wrong ......",
+			"Gosh, gosh,...... I almost burned to death. I don't even want to imagine being a burnt corpse on my own battleship. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			301683,
+			"Keep moving! We have a lot of things to do, there’s no time to waste!",
+			"走了！要做的事情还很多，没时间浪费了！",
+			"行くぞ！まだやることがいっぱいあるんだ、時間を無駄にはできないぞ！",
+			"가자! 아직 할 일이 많아, 시간을 낭비할 수 없어!",
+			"Keep moving! We have a lot of things to do, there's no time to waste!",
+			null,
+			"Let's go! There's so much to do, no time to waste!",
+			"Let's go! We still have a lot of work to do, we can't waste any more time!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			301684,
+			"Wait a minute... Let me have more rest! I’m not a labor! You need to treat the surviving technicians well!",
+			"等等…让我再休息一下！我可不是苦力啊！你们要善待仅存的技术人员！",
+			"待ってよ……少し休ませて！私は奴隷じゃないんだよ。ぎ、技術者をもっと大切に扱ってよね……！",
+			"잠깐만…… 좀 쉬게 해줘! 나 노예 아니라고. 기, 기술자를 좀 더 소중히 대우해줘야지……!",
+			"Hold on... Give me a break! I'm not free labor! You should treat your few remaining technicians with more respect!",
+			null,
+			"Wait...give me another break! I'm not a hard worker! You have to be kind to the only remaining technicians!",
+			"Wait, ...... give me some rest! I'm not a slave. Gee, you should treat your technicians with more respect. ......!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			301685,
+			"Cut the nonsense! Move!",
+			"少废话！快走！",
+			"その減らず口、無理やり閉じさせてやろうか！次、行くぞ！",
+			"그 입 싸움, 억지로라도 닫혀버리게 해주마! 다음, 간다!",
+			"Cut the crap! Move it!",
+			null,
+			"Cut the crap! Move it!",
+			"I'm going to force you to close that gaping mouth of yours! Next time, let's go!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			301686,
+			"Emesa... How many people in the base made it to the ship?",
+			"埃米沙…基地里有多少人上船了？",
+			"エミザ……基地の中からは何人が乗ったの？",
+			"에미자…… 기지 안에서부터는 몇 명이 탔어?",
+			"Emesa... How many people from the base made it on board?",
+			null,
+			"Emesa...how many people on the base are on board?",
+			"How many people from the Emesa...... base were on board?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			301687,
+			"......",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"msg",
+			301688,
+			"Those you think are useless didn’t make it. Are you happy now?",
+			"你觉得没用的人都没有上来，这下你满意了吧？",
+			"あんたが役に立たないと思う人はみんな乗ってない。……これでいいか？",
+			"네가 쓸모없다고 생각하는 사람들은 다 안 탔어. ……이러면 된 거야?",
+			"Those you thought were useless didn't make it. Are you happy now?",
+			null,
+			"You think useless people are not coming up, now you are satisfied, right?",
+			"Everyone you think is useless isn't on board. ...... Is that it?"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			301689,
+			"......",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			301690,
+			"Let’s go!",
+			"我们走！",
+			"急いでるから。",
+			"서두르고 있으니까.",
+			"Let's go!",
+			null,
+			"Let's go!",
+			"I'm in a hurry."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			301691,
+			"Hey! Wait, Emesa! Let’s get Seele too. She is the best person to do this! Speaking of it, why have I not seen her?",
+			"喂！埃米沙等下啦！我们去把希儿也叫上吧，这种事情她们最合适了！说起来怎么都没看到她？",
+			"ちょっと！エミザ待って！ゼーレも呼んでこよう。こういうことなら彼女が適任！……ってあれ、そう言えばゼーレは？見かけないような……。",
+			"잠깐! 에미자 기다려! 제레도 불러올게. 이런 일이라면 그녀가 적임! ……라고 해도, 그런데 제레는? 보이지 않는 것 같은…….",
+			"Hey! Wait, Emesa! Let's get Seele too. She is the best person to do this! Speaking of it, why have I not seen her?",
+			null,
+			"Hey! Wait up, Emesa! Let's go get Hill too, they're the best for this kind of thing! Speaking of which, why haven't we seen her?",
+			"Hey! Hey! Emesa, wait! Let's go get Seele too. She's the one for this kind of thing! ......, hey, speaking of which, where's Seele? I don't think I've seen her ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			301692,
+			"……!",
+			"……！",
+			"……！",
+			"……!",
+			"......!"
+		],
+		[
+			"msg",
+			301693,
+			"Himeko, where is Seele and others!",
+			"姬子，希儿她们在哪！",
+			"姫子、ゼーレたちはどこ！？",
+			"히메코, 제레들은 어디!?",
+			"Himeko, where's Seele and the rest of the crew!?",
+			null,
+			"Himeko, where are they?",
+			"Himeko, where are Seele and the others!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			301694,
+			"Seele is already...",
+			"希儿她已经……",
+			"ゼーレはもう……。",
+			"제레는 이미…….",
+			"Seele... She's already...",
+			null,
+			"Hill she has ......",
+			"Seele is already at ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				false
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			301695,
+			"You @#$* bastard!!!",
+			"你OO的真是个混蛋！！！",
+			"お前ッ！！！この馬鹿が！！",
+			"이 자식!!! 이 바보가!!",
+			"You ☆☆ing asshole!!",
+			null,
+			"You OO's are such a jerk!!!",
+			"You! You idiot!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				55,
+				4,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			301696,
+			"E! Emesa! Calm down!",
+			"埃！埃米沙！冷静一些！",
+			"ちょっと！エミザ！落ち着いて！",
+			"잠깐! 에미자! 진정해!",
+			null,
+			null,
+			"Em! Emesa! Calm down!",
+			"Hey! Hey! Emesa! Calm down!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			301697,
+			"*Slap*!",
+			"啪！",
+			"ドンッ！",
+			"쿵!",
+			"*Slap*!",
+			null,
+			"Snap!",
+			"Boom!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10146"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301698,
+			"It’s all my fault...",
+			"都是我的错……",
+			"全てブローニャが悪いんです……。",
+			"모두 브로냐가 나쁜 거예요…….",
+			"It's all my fault...",
+			null,
+			"It's my fault ......",
+			"It's all Bronya's fault. ......"
+		],
+		[
+			"msg",
+			301699,
+			"It’s all my fault...",
+			"都是我的错……",
+			"全てブローニャが悪いんです……。",
+			"모두 브로냐가 나쁜 거예요…….",
+			"It’s all my fault...",
+			null,
+			"It's my fault ......",
+			"It's all Bronya's fault. ......"
+		],
+		[
+			"msg",
+			301700,
+			"It’s all my fault...",
+			"都是我的错……",
+			"全てブローニャが悪いんです……。",
+			"모두 브로냐가 나쁜 거예요…….",
+			"It’s all my fault...",
+			null,
+			"It's my fault ......",
+			"It's all Bronya's fault. ......"
+		],
+		[
+			"choice",
+			[
+				302194,
+				"Bronya, stop blaming yourself.",
+				"布洛妮娅，不要自责了。",
+				"ブローニャ、自分を責めないで。",
+				"브로냐, 자책하지 마.",
+				null
+			],
+			[
+				302195,
+				"Bronya, it’s not your fault.",
+				"布洛妮娅，这不是你的错。",
+				"ブローニャ、これはあなたのせいじゃない。",
+				"브로냐, 이건 네 탓이 아니야.",
+				"Bronya, it's not your fault."
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			162
+		]
+	],
+	"162": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10146"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301701,
+			"It’s all my fault...",
+			"都是我的错……",
+			"全てブローニャが悪いんです……。",
+			"모두 브로냐가 나쁜 거예요…….",
+			"It's all my fault...",
+			null,
+			"It's my fault ......",
+			"It's all Bronya's fault. ......"
+		],
+		[
+			"msg",
+			301702,
+			"It’s all my fault...",
+			"都是我的错……",
+			"全てブローニャが悪いんです……。",
+			"모두 브로냐가 나쁜 거예요…….",
+			null,
+			null,
+			"It's my fault ......",
+			"It's all Bronya's fault. ......"
+		],
+		[
+			"choice",
+			[
+				302196,
+				"Seele doesn’t want to see you like this.",
+				"希儿不希望看到你这样。",
+				"ゼーレは、そんなあなたの姿を見たくないはず。",
+				"제레는 그런 네 모습을 보고 싶어 하지 않을 거야.",
+				"Seele doesn't want to see you like this."
+			],
+			[
+				302197,
+				"Everyone needs your leadership now.",
+				"这个时候大家都需要你的领导。",
+				"今こそ、あなたのリーダーシップが必要。",
+				"지금이야말로 네 리더십이 필요해.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			163
+		]
+	],
+	"163": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10146"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301703,
+			"It’s all my fault...",
+			"都是我的错……",
+			"全てブローニャが悪いんです……。",
+			"모두 브로냐가 나쁜 거예요…….",
+			"It's all my fault...",
+			null,
+			"It's my fault ......",
+			"It's all Bronya's fault. ......"
+		],
+		[
+			"msg",
+			301704,
+			"It’s all my fault...",
+			"都是我的错……",
+			"全てブローニャが悪いんです……。",
+			"모든 건 브로냐 탓이에요……。",
+			null,
+			null,
+			"It's my fault ......",
+			"It's all Bronya's fault. ......"
+		],
+		[
+			"msg",
+			301705,
+			"It’s all my fault...",
+			"都是我的错……",
+			"全てブローニャが悪いんです……。",
+			"모든 건 브로냐 탓이에요……。",
+			null,
+			null,
+			"It's my fault ......",
+			"It's all Bronya's fault. ......"
+		],
+		[
+			"choice",
+			[
+				302198,
+				"Bronya, cheer up!",
+				"布洛妮娅，快振作一些！",
+				"ブローニャ、しっかりして！",
+				"브로냐, 정신 차려!",
+				null
+			],
+			[
+				302199,
+				"Bronya, wake up!",
+				"布洛妮娅，给我清醒一下！",
+				"ブローニャ、目を覚まして！",
+				"브로냐, 정신 차려!",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			164
+		]
+	],
+	"164": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10146"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301706,
+			"Enough. It’s useless to say anything now.",
+			"已经够了，现在说什么都是没用的。",
+			"もうやめなさい。今、何を言っても無駄でしょうから。",
+			"이제 그만하세요. 지금 뭘 말해도 소용없을 테니까.",
+			"Enough. Nothing is going to get through to her right now.",
+			null,
+			"Enough is enough, it is useless to say anything now.",
+			"Don't do it again. It won't do you any good to say anything now."
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301707,
+			"Let her stay here and calm down, if it makes her feel better.",
+			"就让她在这里静一下吧，如果这样能让她心理好受一些的话。",
+			"そっとしておいてあげましょう。その方が心も落ち着くわ、きっと。",
+			"내버려 두는 게 좋겠어요. 그쪽이 마음도 안정될 거예요, 분명히.",
+			"Let's leave her alone. She might feel better after she calms down.",
+			null,
+			"Just leave her here in peace, if that makes her feel better mentally.",
+			"Let's leave them alone. It will put your mind at ease, I'm sure."
+		],
+		[
+			"choice",
+			[
+				302200,
+				"Himeko, what’s that wound on your face?",
+				"姬子，你脸上的伤是？",
+				"姫子、その顔の傷は？",
+				"히메코, 그 얼굴의 상처는?",
+				"Himeko, what's that wound on your face?"
+			],
+			[
+				302201,
+				"Himeko, is Seele really dead?",
+				"姬子，希儿真的死了么？",
+				"姫子、ゼーレは本当に死んじゃったの？",
+				"히메코, 제레는 정말 죽은 거야?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			165,
+			166
+		]
+	],
+	"165": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301708,
+			"She deserves it. This will not work.",
+			"自作自受罢了，那家伙下手还是太轻了，这样根本不痛不痒。",
+			"気にしないで自分で招いた結果だから。エミザのやつ、本気じゃなかったみたい。これじゃあ、痛くもかゆくもないわ。",
+			"신경 쓰지 마세요. 자초한 결과니까. 에미자 녀석, 진심이 아니었던 모양이에요. 이러니 아프지도 간지럽지도 않아요.",
+			"Don't worry about it, I reap what I sow. Emesa didn't hit me that hard anyways, it doesn't hurt.",
+			null,
+			"It's just self-inflicted, that guy still hit too lightly, so it doesn't hurt at all.",
+			"Never mind, I brought this on myself. That Emesa guy, I guess he didn't mean it. This doesn't hurt or itch, then."
+		],
+		[
+			"msg",
+			301709,
+			"You should know about Seele now. Her death is all my fault, so you don’t need to blame yourselves. Let’s deal with the immediate problems now.",
+			"希儿的事情你也知道了吧，希儿的死都是我的责任，所以你们也不用太自责，现在还是专心应对眼前的问题吧。",
+			"ゼーレのことはあなたも知っているでしょう？彼女の死は全て私の責任よ。だから、あなたたちも自分を責めないで。今は目の前の問題に集中して。",
+			"제레의 것은 당신도 알고 있을 거예요? 그녀의 죽음은 모두 내 책임이에요. 그러니까, 당신들도 자신을 탓하지 말아요. 이제는 눈앞의 문제에 집중하고.",
+			"You know what happened to Seele, don't you? Her death was my fault, so don't blame yourself for it. Right now we have to focus on the problem at hand.",
+			null,
+			"You know what happened to Hill, right? Hill's death is all my responsibility, so you don't have to blame yourselves too much, now it's better to focus on the problem at hand.",
+			"You know Seele as well as I do. Her death is entirely my fault. So don't blame yourselves either. Focus on the problem at hand."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			167
+		]
+	],
+	"166": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301710,
+			"I don’t want to admit either, but surviving under a Herrscher’s attack is basically impossible.",
+			"我也不想承认，但是在律者的攻击下生存的几率基本已经是零了。",
+			"私だって認めたくないわ。でも、律者の攻撃を受けて生き残る可能性はゼロよ。",
+			"나도 인정하고 싶지 않아요. 하지만 율자의 공격을 받고 살아남을 가능성은 제로예요.",
+			"I don't want to admit it, but there's no chance of anyone surviving an attack from a Herrscher.",
+			null,
+			"I hate to admit it, but the chances of surviving an attack by the Ruler are basically nil.",
+			"I don't want to admit it either. But the chances of surviving an attack by the scribes are nil."
+		],
+		[
+			"msg",
+			301711,
+			"Alright, don’t think too much about Seele’s death. It’s all my fault, so you don’t need to blame yourselves. Let’s deal with the immediate problems now.",
+			"好了，希儿的事情你也不用在多想了，她的死都是我的责任，所以你们也不用太自责，现在还是专心应对眼前的问题吧。",
+			"ほら、ゼーレのことは考えすぎないで。彼女の死は全て私の責任よ。だから、あなたたちも自分を責めないで。今は目の前の問題に集中して。",
+			"자, 제레의 일은 너무 생각하지 마. 그녀의 죽음은 모두 내 책임이야. 그러니까, 너희들도 자신을 탓하지 말아. 지금은 눈앞의 문제에 집중해.",
+			"So... Try not to think about her death too much. It's all my fault, so don't blame yourself for it. Right now we have to focus on the problem at hand.",
+			null,
+			"Well, you don't have to think much about Hsieh, her death is all my responsibility, so you don't have to blame yourselves too much, now it's better to concentrate on the problem at hand.",
+			"See, don't overthink Seele. Her death is entirely my fault. So don't blame yourselves either. Focus on the problem at hand."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			167
+		]
+	],
+	"167": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				61,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301712,
+			"Don't show me such a sad face... Stay with me for some time. You can’t do anything if you are always depressed. Let’s go out and relax a little bit. I have something to tell you.",
+			"不要露出这种忧伤的表情……稍微陪我一会吧，总是消沉的样子是做不好事情的，去外面放松一下吧，顺便也有些话想对你说。",
+			"そんな悲しい顔しないでよ……ちょっと私に付き合ってくれる？いつまでも意気消沈してたらよくないわよ。外へ出て気分転換しなさい。ついでにあなたに話したいことがあるの。",
+			"그런 슬픈 얼굴 하지 말아요…… 잠깐 나랑 같이 있어 줄래요? 언제까지나 풀이 죽어 있으면 안 좋아요. 밖에 나가서 기분 전환하세요. 덤으로 당신에게 하고 싶은 말이 있어요.",
+			"Don't show me such a sad face... It's not good to stay depressed forever. Let's go outside for a bit, maybe the fresh air will lighten the mood. And while we're at it, I've got something I want to talk to you about.",
+			null,
+			"Do not show this sad expression ...... a little with me for a while, always depressed look is not good to do things, go outside and relax, by the way there are some things I want to say to you.",
+			"Don't look so sad. ...... Will you stay with me for a bit? It's not good to stay dejected forever. Go out and change your mind. And while you're at it, there's something I want to talk to you about."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301713,
+			null,
+			"",
+			null,
+			null,
+			null
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10145"
+		],
+		[
+			"msg",
+			301714,
+			"*Drinking*... Hah!",
+			"咕咕咕……哈！",
+			"ゴク、ゴク……プハァ！",
+			"꼴깍, 꼴깍…… 푸하아!",
+			null,
+			null,
+			"Gu Gu Gu ...... ha!",
+			"Goku, goku ...... puhah!"
+		],
+		[
+			"msg",
+			301715,
+			"I haven’t had a drink for a long time. Feels so good! Do you want one too?",
+			"好久没有喝酒了，真是痛快啊！怎么样你也要来一罐么？",
+			"お酒なんて久しぶりだわ。本当に最高！どう？あなたも一杯やらない？",
+			"오랜만에 술을 마시네. 정말 최고야! 어때? 너도 한 잔 할래?",
+			"I haven't had a drink in ages. Pretty refreshing! How about you, you want one too?",
+			null,
+			"It's been a long time since I've had a drink, it's a real treat! How about you want a can too?",
+			"I haven't had a drink in ages. I really love it! What do you say? Would you like a drink?"
+		],
+		[
+			"choice",
+			[
+				302202,
+				"Sorry, I’m not an adult yet.",
+				"对不起，我还没成年。",
+				"ごめんなさい。私まだ未成年だから。",
+				"미안해요. 저 아직 미성년자라서.",
+				"Sorry, I'm not an adult yet."
+			],
+			[
+				302203,
+				"I'm not good at drinking.",
+				"我不擅长喝酒。",
+				"私、お酒は苦手なの。",
+				"저는 술을 잘 못 마셔서요.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			168,
+			169
+		]
+	],
+	"168": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10145"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301716,
+			"Tsk, look at the earth now, why are you still following the meaningless rule? Come on! Take it!",
+			"哼，地球都已经变成这个样子了你居然还遵守这种无意义的规则？来！拿去！",
+			"へ～、地球がこんな姿になってしまったのに、まだそんな無意味な規則を守ってるの？ほら、飲んで！",
+			"허~ 지구가 이렇게 변해버렸는데 아직 그런 무의미한 규칙을 지키고 있어? 자, 마셔!",
+			"Hah? The world is falling apart and you still want to follow those meaningless rules? Here, have a drink!",
+			null,
+			"Hm, the earth has become this way and you still follow such meaningless rules? Come on! Take it!",
+			"Heh, the earth has turned into this and you still follow such nonsensical rules? Here, drink!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			170
+		]
+	],
+	"169": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10145"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301717,
+			"No one is good at drinking in the beginning. Once you are used to it, alcohol will become your inseparable friend... Come on! Take it!",
+			"没有谁一开始就擅长，只要习惯的话酒会成为你不可替代的伙伴……来！拿去！",
+			"誰でも最初から飲めるわけではないわ。慣れさえすれば、お酒はかけがえのない仲間になるわよ……ほら！飲んで！",
+			"아무나 처음부터 마실 수 있는 게 아니야. 익숙해지기만 하면, 술은 더없이 소중한 친구가 될 거야...... 자! 마셔!",
+			null,
+			null,
+			"No one is good at it at first, just get used to it wine will become your irreplaceable companion ...... Come! Take it!",
+			"Not everyone can start out drinking. Once you get used to it, alcohol can be an invaluable companion. ...... Look! Drink!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			170
+		]
+	],
+	"170": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10145"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301718,
+			"*Drinking*!",
+			"咕咕咕！",
+			"ゴク、ゴク！",
+			"꿀꺽, 꿀꺽!",
+			null,
+			null,
+			"Coo-coo-coo!",
+			"Goku, goku!"
+		],
+		[
+			"msg",
+			301719,
+			"I heard you have lost your memories for some reason?",
+			"听说你的记忆因为某些原因消失了么？",
+			"あなたの記憶、なんらかの原因で消えてしまったって聞いたけれど？",
+			"네 기억, 어떤 이유로 사라져버렸다고 들었는데?",
+			"I heard you've lost your memories for some reason.",
+			null,
+			"Did you hear that your memory has disappeared for some reason?",
+			"I heard that your memory was erased for some reason."
+		],
+		[
+			"msg",
+			301720,
+			"I’m so jealous. It would be so nice to remove all the memories in my brain... Everything will be restored to what they were like before...",
+			"真是令人羡慕，如果能把脑海中的记忆都消除该多好，那样的话一切都会恢复原来的样子吧……",
+			"羨ましいわ。もし頭の中の記憶を全て消せるなら、どれだけいいことか。そうすれば、全て元に戻せるのに……。",
+			"부럽네. 머릿속의 기억을 모두 지울 수 있다면 얼마나 좋을까. 그렇게 하면 모든 게 원래대로 돌아갈 텐데.......",
+			"I envy you. What would it be like if I could just forget everything...",
+			null,
+			"It is really enviable, if you can eliminate all the memories in your mind how good it would be, then everything will be back to the original, right ......",
+			"I envy you. If I could erase all the memories in my head, how good would that be? Then I could undo it all. ......"
+		],
+		[
+			"msg",
+			301721,
+			"*Drinking*!",
+			"咕咕咕！",
+			"ゴク、ゴク！",
+			"꿀꺽, 꿀꺽!",
+			null,
+			null,
+			"Coo-coo-coo!",
+			"Goku, goku!"
+		],
+		[
+			"msg",
+			301722,
+			"Sigh... I was like you before. I thought I could be a heroine and change this hopeless world once I became a Valkyrie... As long as we got rid of Houkai, I could live like others.",
+			"呼……以前我也有和你一样的时候，以为只要成为了女武神就能变成英雄，就能改变这个无药可救的世界……只要把崩坏解决掉，就能像其他人一样活着。",
+			"ふう……以前は私にもあなたみたいなときがあったの。戦乙女にさえなれれば英雄になれるって思ってた。この救いようのない世界を変えられるって……崩壊を倒しさえすれば、他の人と同じように暮らせるって。",
+			"후...... 예전엔 나도 너 같은 때가 있었어. 전처녀가 되기만 하면 영웅이 될 수 있을 거라고 생각했지. 이 구제불능의 세상을 바꿀 수 있을 거라고...... 붕괴를 쓰러뜨리기만 하면 다른 사람들처럼 살 수 있을 거라고.",
+			"Haaah... I used to have the same optimism as you. I used to think I could be the heroine and save this hopeless world..... That as long as I defeated the Honkai, I could live like everyone else.",
+			null,
+			"Whew ...... I used to have the same time as you, thinking that as long as I became a Valkyrie I could become a hero and change this hopeless world ...... as long as the collapse was solved, I could live like everyone else.",
+			"Fuu...... used to be like you at times. I thought that as long as I could become a warrior maiden, I could be a hero. I thought I could change this irredeemable world,...... and that as long as I defeated the collapse, I could live like everyone else."
+		],
+		[
+			"msg",
+			301723,
+			"Meeting a man I like, having a great love... Walking into a church in a wedding dress with him... Then spending a peaceful live with our kids... It feels like a dream.",
+			"与喜欢的男人相遇…谈一场轰轰烈烈的恋爱…戴上白纱与他一起走进教堂…然后与孩子们度过平静的一生…感觉就像梦境一样。",
+			"好きな男の人と出会って……激しい恋をして……白いヴェールをかぶって彼と教会に入っていく……そして子供たちと一緒に穏やかな一生を送る……まるで夢みたいね。",
+			"좋아하는 남자를 만나서...... 격렬한 사랑을 하고...... 하얀 베일을 쓰고 그와 교회에 들어가...... 그리고 아이들과 함께 평온한 일생을 보내...... 마치 꿈만 같네.",
+			"Meeting a man I like, falling madly in love, walking into church in a wedding dress, hand in hand... Then having children, living a peaceful life... It was what I dreamed of.",
+			null,
+			"To meet the man you like...to fall in love with a big bang...to put on a white veil and walk into a church with him...and then to spend a peaceful life with your children...feels like a dream.",
+			"You meet a man you like,...... fall madly in love,...... walk into church with him wearing a white veil,...... and with your children. You live a peaceful life...... like a dream."
+		],
+		[
+			"msg",
+			301724,
+			"Now, think about it... Everything had ended when I became a Valkyrie.",
+			"现在想想……就在成为女武神的那一刻起，一切都已经结束了。",
+			"今、考えてみれば……戦乙女になったあのとき、全てが終わっていたのよね。",
+			"지금 생각해보면...... 전처녀가 된 그때, 모든 것이 끝나 있었던 거야.",
+			"Now that I think about it... Those dreams ended the moment I became a valkyrie.",
+			null,
+			"Now think about it ...... Just the moment you become a Valkyrie, it's all over.",
+			"Now that I think about it, that time when I became a ...... war maiden, it was all over."
+		],
+		[
+			"msg",
+			301725,
+			"*Drinking*...",
+			"咕咕咕……",
+			"ゴク、ゴク……。",
+			"꼴깍, 꼴깍…….",
+			null,
+			null,
+			"Goo Goo ......",
+			"Gok, Gok. ......."
+		],
+		[
+			"msg",
+			301726,
+			"Sorry, it must be really boring for you to listen to an old woman talking about this... Whatever, none of it matters now.",
+			"抱歉，听着像我这样的阿姨讲这种事一点意思都没有吧……算了，现在这种事情都不重要了。",
+			"ゴメンね。こんなおばさんの身の上話を聞かされても、ちっともおもしろくないでしょ……いいわ、今のは忘れてちょうだい、本題はここから。",
+			"미안해. 이런 아줌마의 신세 이야기를 듣고 있어도 전혀 재미없지...... 좋아, 방금 건 잊어줘, 본론은 여기부터야.",
+			"Sorry to dump all this crap on you... It must be pretty boring to hear an old woman like me talk about her life... Forget it, let's talk about more important things.",
+			null,
+			"Sorry, listening to an aunt like me talk about such things is not interesting at all, right ...... forget it, now such things are not important.",
+			"I'm sorry. It's no fun to listen to this old lady's personal story. ...... Okay, forget about that, let's get down to business."
+		],
+		[
+			"msg",
+			301727,
+			"Remember when we first met, Bronya asked you to join the Greymoth, but I refused. Do you know why?",
+			"还记得第一次见面的时候么，布洛妮娅让你加入灰蛾部队，但是我拒绝了，你知道为什么么？",
+			"初めて会ったときのことを覚えている？ブローニャがあなたを灰蛾部隊に推薦したけど、私が断ったの。なぜだか分かる？",
+			"처음 만났을 때 일 기억나?브로냐가 당신을 회아 부대에 추천했지만 내가 거절했어. 왜인지 알아?",
+			"Do you remember when we first met? Bronya recommended you for the Grey Moths, but I turned you down. Do you know why?",
+			null,
+			"Remember the first time we met, Bronya asked you to join the Grey Moths, but I refused, and do you know why?",
+			"Do you remember when we first met? Bronya recommended you for the Ash Moth Unit, but I turned her down. Do you know why?"
+		],
+		[
+			"msg",
+			301728,
+			"The first time I saw you, I thought... Why do you look different from others... You are always looking right into the front and keep moving forward, not afraid of getting hurt.",
+			"第一次见到你的时候我就在想…为什么你这家伙有着和其他人不一样的表情…总是正直地注视着前方，不惧怕受伤一直前进。",
+			"初めてあなたに会ったときに思ったの……どうしてあなたは他の人と違う表情をしているんだろうって……まっすぐ前を向いていて、傷つくことを恐れずに前に進むことを決意していた。",
+			"처음 당신을 봤을 때 생각했어...... 왜 당신은 다른 사람들과 다른 표정을 짓고 있는 걸까...... 똑바로 앞을 바라보며, 상처받는 것을 두려워하지 않고 앞으로 나아가기로 결심했던.",
+			null,
+			null,
+			"The first time I saw you I wondered... why you guys have a different expression from the others... always looking straight ahead, always moving forward without fear of injury.",
+			"When I first met you, I thought ...... why do you look different from the rest of us, you were looking straight ahead and determined to move forward without fear of getting hurt. I was."
+		],
+		[
+			"msg",
+			301729,
+			"I want you to remain who you are... But now, your expressions look the same as others. Too much pressure made you hard to breathe, and you have given up moving forward because of death and pain.",
+			"我想让你保持这样的自己…不过现在你的表情已经开始变得和其他人一样，在压力中喘不过气，因为死亡和痛苦而放弃了前进。",
+			"私は、あなたにそんな自分をいつまでも保っていてもらいたかったのよ……でも、今のあなたの表情は他の人と同じになっているわ。プレッシャーの中で息も絶え絶えになっている。死と苦痛から、前に進むことを諦めている。",
+			"나는, 당신이 그런 모습을 영원히 유지해주길 바랐어...... 하지만 지금 당신의 표정은 다른 사람들과 똑같아졌어. 압박 속에서 숨도 제대로 쉬지 못하고 있지. 죽음과 고통으로부터 앞으로 나아가는 것을 포기하고 있어.",
+			null,
+			null,
+			"I want you to stay that way about yourself...but now your expression has started to look like everyone else's, gasping for breath in the stress, giving up on moving forward because of death and pain.",
+			"I wanted you to keep yourself like that forever ...... but now you look like everyone else. You are breathless under pressure. From death and pain, you have given up on moving forward."
+		],
+		[
+			"msg",
+			301730,
+			"This is the correct face for this world... The more you struggle, the less hope you can see. People can only be strong when they lie to themselves... But they will only fall deeper in fear.",
+			"这才是这个世界应该有的表情吧…越是挣扎越是看不到希望，只有在自我麻痹的假象中才能让自己坚强起来…在名为恐惧的泥潭中越陷越深。",
+			"それこそが、本来この世界にある表情よ……もがけばもがくほど希望が見えなくなる。自我を麻痺させて作った幻想の中でこそ自分を強くすることができる……恐怖という名の泥沼にますます深くはまっていく。",
+			"그것이 바로 본래 이 세계가 가진 표정이야...... 발버둥칠수록 희망이 보이지 않게 돼. 자아를 마비시켜 만든 환상 속에서만 자신을 강하게 할 수 있어...... 공포라는 이름의 수렁에 점점 더 깊이 빠져들고.",
+			null,
+			null,
+			"This is the expression that the world should have, right?... The more you struggle, the less hope you see... Only in the illusion of self-paralysis can you make yourself strong... Sinking deeper and deeper into the quagmire called fear.",
+			"That is the original expression of this world. ...... The more you struggle, the more you lose hope. It is only in the illusion we create by paralyzing our ego that we can make ourselves stronger. ......We get deeper and deeper into the quagmire of fear."
+		],
+		[
+			"msg",
+			301731,
+			"As long as someone appears to be weak, everyone will break down. So we must fake to be strong. That’s why Bronya and those kids could be so calm... But now, I’m the only one left.",
+			"只要有人露出软弱的样子，所有人的心理都会决堤。所以必须得有装作坚强的样子，所以布洛妮娅和希儿那些孩子才会那么冷静……而现在，只有我了。",
+			"誰かが軟弱な姿を見せると、みんなの心の堤防が壊れてしまう。だから、強い姿を装っていなくてはならない。ブローニャやゼーレのような子たちはそれをわかっていたから、あんなに冷静だったのよ……でも今は私だけね。",
+			"누군가 나약한 모습을 보이면 모두의 마음 둑이 무너져버려. 그래서 강한 모습을 꾸며내야만 했지.브로냐나제레 같은 아이들은 그걸 알고 있었으니까, 그렇게 차분할 수 있었던 거야...... 하지만 지금은 나뿐이네.",
+			"If anyone shows weakness, the rest of us would despair. That's why we put on a strong façade. Those kids Bronya and Seele knew that... But now it's just me.",
+			null,
+			"As soon as someone shows weakness, everyone's psyche will break the dike. So there has to be pretending to be strong, that's why those children of Bronya and Shire are so calm ...... and now, it's just me.",
+			"If someone shows a soft appearance, the levee of everyone's heart will break. So you have to put on a strong facade. Kids like Bronya and Seele knew that, that's why they were so calm ...... but now it's just me."
+		],
+		[
+			"msg",
+			301732,
+			"...If I waited for a bit longer... That kid might not have to die... Tell me... Am I really wrong...",
+			"…如果当时再等一下的话…是不是那个孩子就不会死了…告诉我…我是不是真的做错了……",
+			"……もし、あのときもう少し待っていれば……あの子は死ななかったのかしら……教えて……私、本当に間違えてしまったのかしら……。",
+			"......만약, 그때 조금만 더 기다렸더라면...... 그 아이는 죽지 않았을까...... 말해줘...... 나, 정말 잘못한 걸까......",
+			"Tell me... If I had waited just a little longer... Maybe that girl wouldn't have died... I wonder if I made the right choice.",
+			null,
+			"...if I had waited a little longer then...wouldn't that child have died...tell me...did I really do wrong ......",
+			"Tell me ...... if I had waited just a little longer then ...... maybe that girl wouldn't have died ......... ...I wonder if I really made a mistake......."
+		],
+		[
+			"choice",
+			[
+				302204,
+				"You didn't do anything wrong.",
+				"你没有做错。",
+				"あなたは間違ってない。",
+				"넌 틀리지 않았어.",
+				null
+			],
+			[
+				302205,
+				"I don’t know either.",
+				"我也不知道。",
+				"私にも分からない。",
+				"나도 모르겠어.",
+				"I don't know either."
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			171,
+			172
+		]
+	],
+	"171": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10145"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301733,
+			"Is it... Thank you, for trusting me.",
+			"是么…谢谢你，能这么相信我。",
+			"そう……ありがとう。こんなにも弱い私のこと、信じてくれて。",
+			"그래...... 고마워. 이렇게나 약한 나를, 믿어줘서.",
+			"Is that so... Thank you for believing in me.",
+			null,
+			"Really...thank you, for believing in me so much.",
+			"So ...... thank you. For believing in me when I am so weak."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			173
+		]
+	],
+	"172": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10145"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301734,
+			"I’m sorry... For the trouble caused.",
+			"抱歉…让你为难了。",
+			"ごめんなさい……面倒をかけて。",
+			"미안해...... 폐를 끼쳤어.",
+			"Sorry... For making things difficult for you.",
+			null,
+			"Sorry...for making it difficult for you.",
+			"Sorry ...... for the hassle."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			173
+		]
+	],
+	"173": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10145"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301735,
+			"All right! Don’t just stand there, drink it! You are still a kid, you need a lot more exercise!",
+			"好了！别傻站着，快喝起来！像你这样的孩子还需要多加锻炼才行！",
+			"よし！湿っぽい話はやめにして、早く飲みましょう！あなたみたいな子はまだまだ鍛えなくちゃね！",
+			"좋아! 감상적인 이야기는 그만하고 빨리 마시자! 너 같은 애는 아직도 단련이 필요하니까!",
+			"All right! Don't just stand there, start drinking! You're still just a kid, you need to build up your tolerance!",
+			null,
+			"All right! Don't just stand there, drink up! Kids like you still need more exercise to get it right!",
+			"Alright!!! Let's cut the soggy talk and get to drinking! A girl like you still needs to work out!"
+		],
+		[
+			"msg",
+			301736,
+			"*Drinking*...",
+			"咕咕咕……",
+			"ゴク、ゴク……。",
+			"꿀꺽, 꿀꺽…….",
+			null,
+			null,
+			"Goo Goo ......",
+			"Gok, Gok. ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			301737,
+			"Boom!",
+			"轰！",
+			"ドォォォン！",
+			"우우우웅!",
+			null,
+			null,
+			"Boom!",
+			"D'oh!"
+		]
+	],
+	"174": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301738,
+			"[Warning! Power system has stopped running. Please repair immediately! Please repair immediately!]",
+			"「警告！动力系统已停止运行，请立即修复！请立即修复！」",
+			"「警告！動力システム作動停止。直ちに修復してください！直ちに修復してください！」",
+			"「경고! 동력 시스템 작동 정지. 즉시 수복해 주세요! 즉시 수복해 주세요!」",
+			null,
+			null,
+			"\"Warning! The power system has stopped working, please fix it now! Please repair immediately!\"",
+			"Warning! Power system inoperative. Repair immediately! Repair immediately!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301739,
+			"Tsk! Every time I’m enjoying myself, something must happen... Can’t I just take a break...",
+			"啧！每次喝到尽兴的时候就有状况发生…就不能给我消停一会么……",
+			"もう！いつも楽しく飲んでいるときに限ってトラブルが起こるんだから……少しは休ませてよね……。",
+			"정말! 항상 즐겁게 마시고 있을 때만 문제가 생기니까…… 좀 쉬게 해줘…….",
+			"Damn it! Every time I try to have a drink, something happens... Gimme a break already...",
+			null,
+			"Gee! Every time I drink to my heart's content, something happens...can't give me a break ......",
+			"Oh my god!!! You always get into trouble only when you're having a good time drinking. ...... Give it a rest a bit. ......"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301740,
+			"Captain Himeko! The power system of Hyperion is completely down. We cannot move anymore!",
+			"报告！姬子队长，休伯利安号的动力系统完全瘫痪，战舰已经无法前进了！",
+			"報告します！姫子隊長、ハイペリオン号の動力システムが完全に動作停止、戦艦はこれ以上進めません！",
+			"보고합니다! 히메코 대장, 히페리온 호의 동력 시스템이 완전히 작동 정지, 전함은 더 이상 나아갈 수 없습니다!",
+			null,
+			null,
+			"Report! Captain Himeko, the power system of the USS Huberian is completely disabled and the battleship is no longer able to move forward!",
+			"Report! Captain Himeko, the Hyperion's power systems have completely stopped operating, the battleship cannot proceed any further!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301741,
+			"I know, the broadcast already told everyone... *Burp*!",
+			"我知道了，刚才的广播已经说过了……嗝！",
+			"分かってるわよ。さっきの放送で言っていたじゃない……ゲップ！",
+			"알고 있다고. 아까 방송에서 말했잖아…… 꺼억!",
+			null,
+			null,
+			"I got it, the broadcast just said it ...... burp!",
+			"I know. You said it earlier on the air: ...... Geb!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301742,
+			"Uh... The Houkai creatures around the battleship have started attacking us. Please give us orders...",
+			"那个…现在战舰周围的崩坏生物正在朝我们进攻，请求指示……",
+			"あの……現在戦艦の周りにいる崩壊生物がこちらに向かって攻めてきます。指示を……。",
+			"저기…… 현재 전함 주변에 있는 붕괴 생물이 이쪽으로 공격해 오고 있습니다. 지시를…….",
+			null,
+			null,
+			"That...the collapsed creatures around the battleship are now attacking towards us, requesting instructions ......",
+			"That ...... disintegrating organisms that are currently around the battleship are attacking towards us. Please contact ...... for instructions."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301743,
+			"What order do you need! Attack back now!",
+			"那还用得着指示么！给我开始反击！",
+			"そんなの指示を待つまでもないでしょう！反撃しなさい！",
+			"그런 건 지시를 기다릴 필요 없잖아! 반격하라니까!",
+			"What order do you need! Start fighting back!",
+			null,
+			"What need is there for instructions! Start fighting back!",
+			"You don't need to wait for instructions to do that! Fight back!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301744,
+			"Okay... Roger that!",
+			"是…是！",
+			"は……はい！",
+			"네……네!",
+			null,
+			null,
+			"Yes...yes!",
+			"is ...... Yes!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301745,
+			"Sigh~ Let’s go! The break is over. Time to get back to the familiar hell.",
+			"呼~走吧！中场休息结束了，是时候该回到熟悉的地狱了。",
+			"ふぅ～、行くわよ！中休みはおしまい。おなじみの地獄へ戻る時間よ。",
+			"휴우~ 갈게요! 중간 휴식은 끝이에요. 익숙한 지옥으로 돌아갈 시간이죠.",
+			"Sigh~ Let's go! Break time's over. Time to get back to the familiar hell.",
+			null,
+			"Whew~ Let's go! With halftime over, it's time to get back to the familiarity of hell.",
+			"Whew, here we go! Mid-term break is over. It's time to return to our familiar hell."
+		]
+	],
+	"175": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10148"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301746,
+			"Yssring! How’s the situation!",
+			"伊瑟琳！情况怎么样了！",
+			"イザーリン！状況はどう！？",
+			"이자린! 상황은 어때!?",
+			"Yiserin! What's the situation!",
+			null,
+			"Estherine! How's the situation!",
+			"Estherine! What's the situation!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301747,
+			"Uh... Himeko, did you drink? You smell like alcohol...",
+			"呃…姬子你喝酒了么？怎么一身酒气……",
+			"あ……姫子、あなた、お酒飲んでたの？お酒臭い……。",
+			"아......히메코, 당신 술 마셨던 거야? 술 냄새 나......",
+			"Ugh...... Himeko, have you been drinking? You reek of alcohol.......",
+			null,
+			"Uh ... Himeko you drink? How all over the smell of alcohol ......",
+			"Oh ...... Himeko, have you been drinking? You reek of alcohol......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			301748,
+			"Don’t mention it! Can we fix the power system!?",
+			"别管这个！动力系统能修好么！",
+			"そんなことどうでもいいでしょ！動力システムは修理できた！？",
+			"그런 건 어찌 됐든! 동력 시스템은 수리했어!?",
+			"Don't worry about it! Can the power system be fixed?",
+			null,
+			"Leave this alone! Can the powertrain be fixed!",
+			"You don't care about that! The power system could be repaired!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301749,
+			"I’m trying... But it’s unlikely we can fix it. When we ran away from the base, while we didn’t take any direct hit from the Herrscher, the strong magnetic field from that thunderstorm had pretty much ruined the parts in the power furnace... Honestly, it is already a miracle we can make this far.",
+			"我在努力…不过能够修复的可能性很低，在逃离基地的时候虽然没有受到律者的直击，但是那个雷暴中的强磁场已经将动力炉中的元件破坏的面目全非了…老实说能运行到现在已经是奇迹了。",
+			"今やってるわ……でも修理は絶望的。基地から逃げ出すとき、律者の攻撃を直接受けてはいないものの、あの雷の強力な磁場で動力炉のパーツが完全にイカれてる……正直言って、ここまで稼働していただけでも奇跡よ。",
+			"지금 하고 있어...... 하지만 수리는 절망적이야. 기지에서 도망칠 때 율자의 공격을 직접 받진 않았지만, 그 번개의 강력한 자기장으로 동력로 부품이 완전히 망가졌어...... 솔직히 여기까지 작동한 것만 해도 기적이야.",
+			null,
+			null,
+			"I'm working on it...but the possibility of being able to repair it is very low. While escaping from the base without a direct hit from the Ruler, the strong magnetic field in that thunderstorm has destroyed the components in the power furnace beyond recognition...and frankly it's a miracle that it's working at all.",
+			"I'm working on it right now...... but repairs are hopeless. When we ran away from the base, although we weren't directly attacked by the Rite, the parts of the power reactor are completely screwed up by the powerful magnetic field of that lightning....... Honestly, it's a miracle that we've been able to keep it up and running this long."
+		],
+		[
+			"msg",
+			301750,
+			"We can only control the reactor to stabilize the power furnace. If the power furnace explodes, Hyperion will be gone...",
+			"现在只能能控制稳定住动力炉的反应堆，如果动力炉发生爆炸，整个休伯利安号就完了……",
+			"今は動力原子炉をコントロールするだけで精一杯。もし、動力炉が爆発したらハイペリオン号は終わりよ……。",
+			"지금은 동력 원자로 제어만으로도 벅차. 만약 동력로가 폭발하면 히페리온 호는 끝이야......",
+			null,
+			null,
+			"Now can only be able to control and stabilize the power reactor, if the power furnace explosion, the entire USS Huberian will be finished ......",
+			"Right now we are just trying to control the power reactor. If the power reactor explodes, the Hyperion is finished. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301751,
+			"No! We can’t stay here, there are too many Houkai creatures around us. If we don’t leave now, we will be surrounded by numerous Houkai creatures!",
+			"不行！我们现在不能在这里停留，周围的崩坏生物数量庞大，如果现在不离开的话我们会被源源不断的崩坏生物包围的！",
+			"なんとかしなさい！今ここに留まるわけにはいかないわ。周囲には崩壊生物が無数にいるのよ。今すぐここを離れないと、崩壊生物に包囲されてしまうわ！",
+			"어떻게든 해야 해! 여기에 머물 순 없어. 주변에 붕괴생물이 무수히 꼬였단 말야. 당장 떠나지 않으면 붕괴생물에게 포위당할 거야!",
+			null,
+			null,
+			"No way! We can't stay here now, the number of Avalanche creatures around us is huge, if we don't leave now we will be surrounded by a constant stream of Avalanche creatures!",
+			"Do something! We can't stay here now. There are countless disintegrating organisms all around us. If we don't leave now, we will be surrounded by them!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			301752,
+			"I... I have no solution. There are no spare parts, so nothing can be done... All the spare parts for Hyperion have turned into ashes together with the base...",
+			"这…这个我也没办法，现在没有维修的零件所以什么也做不了…维修休伯利安的零件也都和基地一起化成灰了……",
+			"そ……そんなこと言われても無理よ。修理用部品がないから何もできない……ハイペリオンの部品は基地と一緒に灰になっちゃったんだよ……。",
+			"그......그래도 어쩌겠어. 수리 부품이 없으니 아무것도 못 해......히페리온 부품들은 기지와 함께 재가 됐다고......",
+			null,
+			null,
+			"This ... this I can not help, there is no repair parts so nothing can be done ... repair Hublian parts are also turned into dust with the base ......",
+			"That...... can't be done, even if you told me that. We can't do anything because we don't have the parts to repair them.......Hyperion's parts have gone to ashes with the base......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			301753,
+			"Roar!!",
+			"吼吼吼！！",
+			"グルルル——",
+			"그르릉——",
+			null,
+			null,
+			"Ho ho ho ho!!!",
+			"Grrr--"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301754,
+			"Houkai creatures are attacking the power sector!",
+			"报告！崩坏生物正在朝动力区进攻！",
+			"報告します！崩壊生物が動力エリアに向かっています！",
+			"보고합니다! 붕괴생물이 동력 구역으로 접근 중입니다!",
+			null,
+			null,
+			"Report! Avalanche creatures are attacking towards the power zone!",
+			"Report! Decay organisms are heading for the power area!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301755,
+			"You don’t have to tell me this! Follow me! Let’s get those Houkai scums out of this place!",
+			"不用你说我也知道，跟我来！把那些崩坏渣滓从这里赶出去！",
+			"言われなくとも分かってるわよ。ついて来て！あの崩壊どもをここから追い出すのよ！",
+			"말해주지 않아도 알아. 따라와! 저 붕괴 것들을 여기서 몰아내는 거야!",
+			null,
+			null,
+			"I don't need you to tell me, follow me! Get the crumbling scum out of here!",
+			"I know you don't have to tell me. Follow me! We have to get those disintegrators out of here!"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301756,
+			"Yssring, listen! I don’t care what you do, but get Hyperion moving, or die!",
+			"伊瑟琳你给我听着！不管你用什么办法一定要让休伯利安动起来，不然就等死吧！",
+			"イザーリン、お願い！どんな方法を使ってもいいから必ずハイペリオンを動かして。さもないと死ぬわよ！",
+			"이자린, 부탁해! 어떤 방법을 써도 좋으니까 반드시 히페리온을 움직여. 안 그러면 죽는 거야!",
+			null,
+			null,
+			"Listen to me, Estherine! No matter what you do you must get Hubertarian moving or die!",
+			"Estherine, please! Make sure you move Hyperion by any means necessary. Or you will die!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			301757,
+			"Alright... I will try... We are already dying anyway...",
+			"好吧…我尽力…反正已经快习惯了等死这种状态了……",
+			"分かったわ……やってみる……もう死を待つような状況には慣れちゃったしね……。",
+			"알았어…… 해볼게…… 이미 죽음을 기다리는 상황에는 익숙해졌으니까…….",
+			null,
+			null,
+			"Well ... I try ... anyway, have almost gotten used to waiting for death this state ......",
+			"Okay, I'll try ...... I'm already used to waiting for death ......."
+		]
+	],
+	"176": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301758,
+			"Houkai creatures in the power sector are under control. Keep moving! Get them all out!",
+			"动力区的崩坏生物已经控制住了，继续推进！把崩坏生物赶出去！",
+			"動力エリアの崩壊生物は制圧したわ。引き続き進むわよ！このまま崩壊生物を追い出してやろうじゃない！",
+			"동력 구역의 붕괴 생물은 제압했어. 계속 전진하자! 이대로 붕괴 생물을 몰아내버리자고!",
+			null,
+			null,
+			"Avalanche creatures in the power zone are under control. Keep pushing! Get the avalanche creatures out!",
+			"We've got the disintegrating organisms in the powered area under control. Let's keep going! Let's keep going and drive out the decaying organisms!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301759,
+			"Reporting!",
+			"报告！",
+			"報告します！",
+			"보고합니다!",
+			null,
+			null,
+			"Report!",
+			"Report!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301760,
+			"Now what!",
+			"又怎么了！",
+			"今度は何っ！",
+			"이번엔 또 뭐야!",
+			null,
+			null,
+			"What's wrong again!",
+			"What now!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301761,
+			"Uh... We have received SOS signal from the left wing compartment. They are under heavy attack from Houkai creatures!",
+			"那个…战舰左翼舱室发来求救信号，似乎遭到了崩坏生物的猛攻！",
+			"あの……戦艦左舷のキャビンから救援信号が出ています。崩壊生物の猛攻にあったようで……。",
+			"저기…… 전함 좌현의 캐빈에서 구조 신호가 나오고 있어요. 붕괴 생물의 맹공을 받은 모양인데…….",
+			null,
+			null,
+			"That...distress signal from the left wing compartment of the battleship, seems to be under heavy attack from the collapsed creatures!",
+			"The ...... battleship has a rescue signal coming from the port cabin of the battleship. It seems to have been under an onslaught of disintegrating organisms. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301762,
+			"Left wing... Dammit! The wounded people are there! We must send reinforcements immediately!",
+			"左翼…该死！是转移过去的伤员！必须立即增援！",
+			"左舷……しまった！負傷者を移したところよ！今すぐ救援に行かなきゃ！",
+			"좌현…… 망했어! 부상자를 옮긴 곳이야! 지금 당장 구하러 가야 해!",
+			null,
+			null,
+			"Left flank...damn! It's the wounded that were transferred there! We must reinforce immediately!",
+			"Portside ...... Oh shit! We just moved the wounded! We have to go get help now!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301763,
+			"But we don’t have enough manpower here either. If we send people there, the power sector will be lost again...",
+			"可是这里的人手也不足，如果再分调出去人手的话动力区会再次失守的……",
+			"ですが、ここの人手も足りません。さらに手分けするとなると動力エリアをまた失ってしまいます……。",
+			"하지만, 여기 인력도 부족해요. 더 분산시키면 동력 구역을 또 잃게 돼요…….",
+			null,
+			null,
+			"However, the manpower here is also insufficient, if the manpower is transferred out again then the power area will be lost again ......",
+			"But we are also short on manpower here. If we have to further split up, we will lose another power area. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301764,
+			"......",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			301765,
+			"Greymoth, assemble.",
+			"灰蛾部队集合。",
+			"灰蛾部隊集合。",
+			"회나방 부대 집합.",
+			null,
+			null,
+			"Grey moth troops assemble.",
+			"Ash Moth Unit meeting."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301766,
+			"Got it!",
+			"是！",
+			"はッ！",
+			"하앗!",
+			null,
+			null,
+			"Yes!",
+			"Ha!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301767,
+			"You, follow me out to support the wounded! Others, stay and defend the power sector!",
+			"你们几个跟我一起杀出去支援伤员！其他人留下防守动力区！",
+			"あなたたち数人は私と一緒に別働隊として負傷者を助けに行くわよ！その他は、ここに残って動力エリアを守って！",
+			"너희 몇 명은 나와 함께 별동대로 부상자를 구하러 갈 거야! 나머지는 여기에 남아 동력 구역을 지켜!",
+			null,
+			null,
+			"You guys come with me and kill the wounded! The rest of you stay behind to defend the power zone!",
+			"Some of you will go with me as a detachment to help the wounded! The rest of you will stay here and protect the power area!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301768,
+			"Roger!",
+			"了解！",
+			"了解！",
+			"알겠습니다!",
+			null,
+			null,
+			"Understand!",
+			null
+		],
+		[
+			"choice",
+			[
+				302206,
+				"I will go together.",
+				"我也一起去吧。",
+				"私も一緒に行く。",
+				"나도 같이 갈게.",
+				null
+			],
+			[
+				302207,
+				"Is there anything I can help with?",
+				"有什么我能帮忙的么？",
+				"何か手伝えることある？",
+				"뭐 도와줄 일 있어?",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			177
+		]
+	],
+	"177": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301769,
+			"Act on your own will now. You don’t need anyone to give you orders anymore. Find your former self with your own strength.",
+			"按你自己的意识行动吧，现在的你已经不需要有人来指挥了，以自己的力量找回以前的自己吧。",
+			"あなたは、あなた自身の意志で動きなさい。今のあなたにはもう誰かの指揮は不要よ。自分の力で以前の自分を取り戻すの。",
+			"넌 네 자신의 의지로 움직여. 지금의 넌 더 이상 누군가의 지휘가 필요 없어. 네 힘으로 예전의 자신을 되찾는 거야.",
+			null,
+			null,
+			"Act according to your own consciousness, now you don't need someone to direct you, find your old self with your own power.",
+			"You move of your own volition. You don't need anyone else to lead you now. You are on your own and you will regain your old self."
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301770,
+			"Greymoth, listen to me. Push forward in collaboration with the frontline, then head for the left wing compartments!",
+			"灰蛾部队听命，配合战线推进，随后朝左翼舱室进发！",
+			"灰蛾部隊！戦線の前進に協力して、それから左舷キャビンに突入！",
+			"회나방 부대! 전선 진출을 지원한 후 좌현 캐빈으로 돌입!",
+			null,
+			null,
+			"Grey Moth troops on command, cooperate with the advance of the battle line, then head towards the left wing hatch!",
+			"Ash Moth Squadron! Help us advance the front line, then charge into the port cabin!"
+		]
+	]
+}

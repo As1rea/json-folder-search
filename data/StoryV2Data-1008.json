@@ -1,0 +1,1784 @@
+{
+	"10080": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			715138,
+			null,
+			"是什么？",
+			"何を見たんだ？",
+			"뭘 봤는데?",
+			"What is it?",
+			null,
+			"What is it?",
+			"What did you see?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715139,
+			null,
+			"呃……",
+			"えっと……。",
+			"음.....",
+			"Uh ......",
+			null,
+			"Uh ......",
+			"Let's see, ......."
+		],
+		[
+			"msg",
+			715140,
+			null,
+			"我，我……回想不起来……",
+			"うーん、どうしてかしら……思い出せないの……。",
+			"으음, 왜일까... 생각이 안 나...",
+			"I, I can’t remember.",
+			null,
+			"Me, I ...... can't recall ......",
+			"Hmmm, I wonder why I can't remember ...... ......."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				true
+			],
+			[
+				70,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			715141,
+			null,
+			"可能是太累了吧。",
+			"きっと疲れているんだろう。",
+			"분명 피곤한 거겠지.",
+			"You’re probably too exhausted.",
+			null,
+			"Probably too tired.",
+			"They must be tired."
+		],
+		[
+			"msg",
+			715142,
+			null,
+			"毕竟你的父亲还没醒来。",
+			"芽衣先輩のお父さんはまだ目を覚ましていないし。",
+			"메이 선배의 아버지는 아직 깨어나지 않았어.",
+			"Well, your father still hasn’t woken up yet.",
+			null,
+			"After all, your father hasn't woken up yet.",
+			"And Mei's senior father hasn't woken up yet."
+		],
+		[
+			"choice",
+			[
+				715137,
+				null,
+				"我刚才看到了奇怪的东西。",
+				"さっき変なものを見たの。",
+				"방금 이상한 걸 봤어.",
+				"I just saw something strange."
+			],
+			[
+				715143,
+				null,
+				"【你为什么觉得崩坏来自另一个次元？】",
+				"【どうして崩壊が他の次元から来たと思うの？】",
+				"【왜 붕괴가 다른 차원에서 왔다고 생각해?】",
+				"\"Why do you think Honkai comes from another dimension?\""
+			],
+			[
+				715149,
+				null,
+				"【你为什么觉得崩坏的本质是能量生命？】",
+				"【どうして崩壊の本質がエネルギー生命体だと思うの？】",
+				"【왜 붕괴의 본질이 에너지 생명체라고 생각해?】",
+				"\"Why do you think the essence of Honkai Energy is life?\""
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			10080,
+			10081,
+			10082
+		]
+	],
+	"10081": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			715144,
+			null,
+			"可能黑洞连接着另一个次元，它吸入的物质在那里被吐出。",
+			"おそらくブラックホールが別の次元とつながり、その中に吸い込まれたものが吐き出されたんだと思う。",
+			"아마도 블랙홀이 다른 차원과 연결되어 그 안으로 빨려 들어간 것들이 토해졌다고 생각해.",
+			"Perhaps my Black Holes connect to another dimension, where the matter that is sucked in is spewed out?",
+			null,
+			"Perhaps the black hole connects to another dimension where the matter it inhales is exhaled.",
+			"Perhaps the black hole was connected to another dimension and what was sucked into it was spit out."
+		],
+		[
+			"msg",
+			715145,
+			null,
+			"在使用聚爆燃魂……黑洞能力的时候，我感觉到了来自另一个次元的意识。",
+			"集爆燃魂……ブラックホールの力を使った時、我は別の次元の意識を感じた。",
+			"집폭연혼... 블랙홀의 힘을 사용했을 때, 나는 다른 차원의 의식을 느꼈어.",
+			"While using the Fusion Burning Soul... Black Hole ability, I felt a consciousness from another dimension.",
+			null,
+			"While using the Polyblast Burning Soul ...... black hole ability, I felt a realization from another dimension.",
+			"When I used the power of the Collective Bomb Burning Soul ...... black hole, I felt the consciousness of another dimension."
+		],
+		[
+			"msg",
+			715146,
+			null,
+			"但太微弱了，只有把注意力从拯救世界移开时，才感知得到。",
+			"だが、それはとても弱く、世界を救うことから注意を逸らした時、初めて感じることができた。",
+			"하지만 그것은 매우 약해서, 세계를 구하는 데서 주의가 흐트러질 때야 비로소 느낄 수 있었지.",
+			"But, it's too weak, and I can only notice it when I turn my attention away from saving the world.",
+			null,
+			"But it's so faint that it's only perceived when you take your attention away from saving the world.",
+			"But it was so weak that I could feel it only when my attention was diverted from saving the world."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715147,
+			null,
+			"（跨越次元的距离也要消灭人类……）",
+			"（次元を超越して人類を滅ぼそうとする……）",
+			"(차원을 초월해 인류를 멸망시키려 한다...)",
+			"(Crossing such an inter-dimensional distance just to destroy humanity…)",
+			null,
+			"(Destroying Humans Even Across Subdivision Distances ......)",
+			"(Transcending Dimensions and Trying to Destroy Humanity ......)"
+		],
+		[
+			"msg",
+			715148,
+			null,
+			"（好划不来啊……）",
+			"（割に合わないと思うけど……）",
+			"(손해 보는 거 같지만...)",
+			"(It’s hard to make a difference…)",
+			null,
+			"(It's too good to pass up ......)",
+			"(I don't think it's worth it. ......)"
+		],
+		[
+			"choice",
+			[
+				715157,
+				null,
+				"只是你的感觉和猜测吧？",
+				"でも、それは推測にすぎないでしょう？",
+				"하지만, 그건 추측에 불과하지 않아?",
+				"It's just your feeling and guess, right?"
+			]
+		]
+	],
+	"10082": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			715150,
+			null,
+			"一直以来人类和崩坏的战斗，都像打在棉花上。",
+			"これまで人類と崩壊の戦いは、ずっと手応えがないまま続いてきた。",
+			"지금까지 인류와 붕괴의 전쟁은 계속 실감 없이 이어져 왔어.",
+			"The battle between Humanity and Honkai has always been akin to beating the cotton. (TN: Literally what does this mean)",
+			null,
+			"It's always been like fighting cotton for humans and Honkai.",
+			"The battle between humanity and Honkai has been going on for a long time without a response."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715151,
+			null,
+			"对。认识到崩坏意志这一存在后，对“敌人是谁”这个答案突然清晰了不少。",
+			"ええ。崩壊の意志という存在を知った後、「敵が誰なのか」という問いの答えが急に明確になったわ。",
+			"그래. 붕괴의 의지라는 존재를 알게 된 후, 「적이 누구인지」라는 질문의 답이 갑자기 명확해졌어.",
+			"Yes. After realizing the existence of the Will of the Honkai, the answer to the question \"who is the enemy\" suddenly became much clearer.",
+			null,
+			"Yes. After realizing the existence of Honkai's will, the answer to the question, \"Who is the enemy?\" suddenly became much clearer.",
+			"Yes. After I learned of the existence of the Will of Honkai, the answer to the question, \"Who is the enemy?\" suddenly became much clearer."
+		],
+		[
+			"msg",
+			715152,
+			null,
+			"但“崩坏到底是什么”这个问题，还是有疑问。",
+			"でも、「結局のところ崩壊とは何なのか」という問題については、まだ疑問が残るわ。",
+			"하지만, 「결국 붕괴란 무엇인가」라는 문제에 대해서는, 아직 의문이 남아.",
+			"But the question of \"what exactly is Honkai\" is still unclear.",
+			null,
+			"But the question of \"what exactly is Honkai\" is still open to question.",
+			"But I'm still left wondering about the question, \"What is Honkai after all?\""
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				true
+			],
+			[
+				70,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			715153,
+			null,
+			"我觉得，以前想得太复杂了。",
+			"これまでは複雑に考えすぎていたんだと思う。",
+			"지금까지는 너무 복잡하게 생각했던 것 같아.",
+			"I think that we’ve tried to think too complexly about this before.",
+			null,
+			"I think that it was too complicated to think before.",
+			"I think I've been overcomplicating things so far."
+		],
+		[
+			"msg",
+			715154,
+			null,
+			"崩坏就是崩坏能本身，崩坏能是一种能量生命！而且有思想，所以当你成为律者时，它化作另一个你……意识之间的缠斗！而崩坏意志就是它们的BOSS。",
+			"崩壊とは崩壊エネルギーそのものだ。そして崩壊エネルギーはある種のエネルギー生命体、しかも意思を持っている。だから芽衣先輩が律者になった時、もう1人の芽衣先輩となって……意識と意識の間で激しく戦っていた。そして崩壊の意志はあいつらのボスなのだろう。",
+			"붕괴란 붕괴 에너지 그 자체야. 그리고 붕괴 에너지는 어떤 에너지 생명체이며, 더욱이 의지를 가지고 있어. 그래서 메이 선배가 율자가 되었을 때, 또 다른 메이 선배가 되어서... 의식과 의식 사이에서 치열하게 싸우고 있었어. 그리고 붕괴의 의지는 저들의 보스일 거야.",
+			"Honkai is Honkai Energy itself, Honkai Energy is a type of life energy! And it has a mind, so when you become a Herrscher, it transforms into another you...Entanglement between consciousnesses! And the Will of the Honkai is their BOSS.",
+			null,
+			"Honkai is Honkai energy itself, Honkai energy is an energy being! And it has a mind, so when you become a Herrscher, it morphs into another you ...... The consciousnesses tangle with each other! And the Honkai Will is their BOSS.",
+			"Honkai is Honkai energy itself. And Honkai energy is some kind of energy life form, and it has a will. That's why when Mei-senpai became Herrscher, he became another Mei-senpai and was fighting fiercely between ...... consciousness and awareness. And Honkai's will is probably the boss of those guys."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715155,
+			null,
+			"（好像确实能说通一些事情……）",
+			"（たしかに一理あるような気がするわね）",
+			"(확실히 일리는 있는 것 같네)",
+			"(I guess parts make sense…)",
+			null,
+			"(It does seem to make sense of things ......)",
+			"(You do have a point there, don't you?)"
+		],
+		[
+			"msg",
+			715156,
+			null,
+			"（但勾起了以前不好的回忆）",
+			"（……不意に昔の嫌な記憶を思い出してしまったわ）",
+			"(...갑자기 옛날의 싫은 기억이 떠올랐어)",
+			"(But, this brings back painful memories.)",
+			null,
+			"(but brings back bad memories)",
+			"(...... I just unexpectedly remembered a bad memory from way back when.)"
+		],
+		[
+			"choice",
+			[
+				715157,
+				null,
+				"只是你的感觉和猜测吧？",
+				"でも、それは推測にすぎないでしょう？",
+				"하지만, 그건 추측에 불과하지 않아?",
+				"It's just your feeling and guess, right?"
+			]
+		]
+	],
+	"10083": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			715158,
+			null,
+			"确实，可能是我想太多了。",
+			"たしかに我の考えすぎかもしれない。",
+			"확실히 내가 너무 생각했을지도.",
+			"Indeed, maybe I am overthinking things.",
+			null,
+			"Indeed, maybe I'm overthinking it.",
+			"Perhaps I am overthinking things."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			715159,
+			null,
+			"但我的直觉一向很准！",
+			"だが、我の直感は常に正しい！",
+			"하지만, 나의 직감은 항상 정확해!",
+			"But my intuition is always spot on!",
+			null,
+			"But my instincts have always been spot on!",
+			"But my intuition is always right!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				70,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			715160,
+			null,
+			"能不能来点更有说服力的话？",
+			"……もう少し説得力のある理由はないのかしら？",
+			"......조금 더 설득력 있는 이유는 없는 거야?",
+			"Can we have something more convincing for you to say?",
+			null,
+			"Can you come up with something more convincing?",
+			"I wonder if ...... has any more compelling reasons?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				true
+			],
+			[
+				70,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			715161,
+			null,
+			"我们确实在和崩坏对抗。",
+			"ふむ……そうだな。確かに我々は崩壊と戦っている。",
+			"흠......그렇군. 확실히 우리는 붕괴와 싸우고 있어.",
+			"We are indeed fighting against the Honkai.",
+			null,
+			"We do fight Honkai.",
+			"Hmmm ...... I agree. Indeed we are fighting Honkai."
+		],
+		[
+			"msg",
+			715162,
+			null,
+			"但其实全球崩坏也好，崩坏意志降临也好，还有琪亚娜……",
+			"しかし、全世界の崩壊にしても、崩壊の意志にしても、さらにはキアナも……。",
+			"하지만 전 세계의 붕괴에 대해서도, 붕괴의 의지에 대해서도, 심지어 키아나까지도…….",
+			"But in fact, it doesn’t matter if the Global Honkai Eruption occurs, or whether the Will of the Honkai descends, or Kiana…",
+			null,
+			"But really, global collapse or not, Honkai will come down or not, and Kiana ......",
+			"But whether it is the collapse of the whole world, the will to collapse, or even Honkai, ......."
+		],
+		[
+			"msg",
+			715163,
+			null,
+			"很多悲剧，奥托才是始作俑者。",
+			"数々の悲劇はオットーが元凶となっている。",
+			"수많은 비극은 오토가 근본 원인이다.",
+			"They’re many tragedies! Otto is the one who started them all!",
+			null,
+			"A lot of the tragedies, Otto was the one who started them.",
+			"Otto is the source of many tragedies."
+		],
+		[
+			"msg",
+			715164,
+			null,
+			"我们真正的敌人，其实一直是他！",
+			"我らの本当の敵は、実はずっとあいつだったんだ！",
+			"우리의 진정한 적은 사실 줄곧 그 녀석이었어!",
+			"Our real enemy, has in fact, always been him!",
+			null,
+			"Our real enemy, in fact, has always been him!",
+			"Our real enemy has actually been him all along!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			715165,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			"…………"
+		],
+		[
+			"msg",
+			715166,
+			null,
+			"这话从你口中说出来，感觉之前的论断都变得有说服力了。",
+			"九霄ちゃんからその言葉を聞いて、さっきまでの話も、私の中で説得力が増したわ。",
+			"큐쇼 쨩에게 그 말을 듣고, 지금까지의 이야기도 내 안에서 설득력이 더해졌어.",
+			"After hearing THAT come out of your mouth, your previous assessments have become much more convincing.",
+			null,
+			"This coming from you, it feels like all the previous assertions are becoming convincing.",
+			"Hearing those words from Kyuushou, what you said earlier became more convincing to me."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				true
+			],
+			[
+				70,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			715167,
+			null,
+			"你是在夸我还是在损我……",
+			"それは褒めてるの……？",
+			"그건 칭찬하는 거……?",
+			"Are you complimenting me or roasting me…?",
+			null,
+			"Are you complimenting me or undermining me ......",
+			"Is that a compliment ......?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				0,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			715168,
+			null,
+			"鉴于中二台词变少了这一点，就当是在夸你吧。",
+			"中二病的なセリフが減っていることも含めて、褒めているつもりよ。",
+			"중이병적인 대사가 줄어든 것도 포함해서, 칭찬하는 셈이야.",
+			"In view of the fact that the middle two lines have become less important, take it as a compliment.",
+			null,
+			"Consider this a compliment in light of the fact that the middle two lines have become fewer.",
+			"I'll take that as a compliment, including the fact that there's a lot less chuunibuzzy dialogue."
+		],
+		[
+			"choice",
+			[
+				715170,
+				null,
+				"我还想聊一聊。",
+				"もう少し話していたい。",
+				"조금 더 이야기하고 싶어.",
+				"I still want to chat."
+			],
+			[
+				715171,
+				null,
+				"（结束对话）我该走了。",
+				"（会話終了）もう行くわね。",
+				"(대화 종료) 이제 갈게.",
+				"(ends conversation) It's time for me to go."
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			151,
+			10084
+		]
+	],
+	"10084": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				70,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715172,
+			null,
+			"这艘飞船真不错，我再到处看看。",
+			"この宇宙船は悪くない。もう少し見て回るとしよう。",
+			"이 우주선은 나쁘지 않아. 조금 더 둘러보자.",
+			"This is an amazing ship, I’ll take a look around.",
+			null,
+			"It's a nice ship. I'll look around.",
+			"This spaceship is not bad. Let's look around some more."
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715173,
+			null,
+			"救世的黑炎与你同在！",
+			"救世の黒炎は汝とともにある！",
+			"구세의 흑염은 너와 함께 있노라!",
+			"The black flames of salvation are with you!",
+			null,
+			"The black flames of salvation are with you!",
+			"The black flame of salvation is with thee!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715174,
+			null,
+			"（我收回前面的话）",
+			"（前言撤回ね）",
+			"(앞말 취소할게)",
+			"(I take back whatever I said a moment ago.)",
+			null,
+			"（I take it back.)",
+			"（I take that back.)"
+		]
+	],
+	"10085": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715175,
+			null,
+			"（宁蒂的双肩在微微颤抖，这让她娇小的身躯更显得可怜）",
+			"（ニンディの肩がかすかに震えている。そのせいで小柄な彼女がより一層かわいそうに見える。）",
+			"(닌디의 어깨가 살짝 떨리고 있다. 그 탓에 작은 체구의 그녀가 더 한층 안쓰러워 보인다.)",
+			"(Ninti's shoulders were trembling slightly, which made her petite frame look even more pitiful)",
+			null,
+			"(Ninti's shoulders are shaking slightly, which makes her petite frame look even more pathetic)",
+			"(Ninti's shoulders are shaking faintly. It makes her look even more pitiful for being so petite.)"
+		],
+		[
+			"msg",
+			715176,
+			null,
+			"（很难相信这居然是一名S级女武神）",
+			"（彼女がS級ヴァルキリーとは信じられないくらい）",
+			"(그녀가 S급 발키리라고는 믿을 수 없을 정도로)",
+			"(It was hard to believe that this was an S-rank Valkyrie)",
+			null,
+			"（\"It's hard to believe that this is an S-class Valkyrie.)",
+			"(I can't believe she's an S-class Valkyrie)"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715177,
+			null,
+			"我们出发前，你的话就很少。",
+			"出発する前、ニンディちゃんはあまりしゃべっていなかったわね。",
+			"출발하기 전, 닌디은 별로 말이 없었네.",
+			"Before we left, you said very few things.",
+			null,
+			"Before we left, your words were few.",
+			"Before we left, Ninti didn't talk much."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715178,
+			null,
+			"宁蒂的身体不抖了。",
+			"ニンディの体の震えが止まった。",
+			"닌디의 몸 떨림이 멈췄다.",
+			"Ninti’s body stopped shaking.",
+			null,
+			"Ninti's body stopped shaking.",
+			"Ninti's body stopped shaking."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715179,
+			null,
+			"你在看什么？",
+			"何を見ているの？",
+			"뭘 보고 있는 거야?",
+			"What are you looking at?",
+			null,
+			"What are you looking at?",
+			"What are you looking at?"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				216,
+				4,
+				true
+			],
+			[
+				35,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			715180,
+			null,
+			"太空，黑漆漆的……",
+			"宇宙です。真っ暗闇の……。",
+			"우주요. 칠흑 같은...",
+			"Space, the darkness…",
+			null,
+			"Space, pitch black ......",
+			"Space. It's pitch black. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				35,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715181,
+			null,
+			"你在害怕？",
+			"怖いの？",
+			"무서워?",
+			"Are you afraid?",
+			null,
+			"Are you afraid?",
+			"Are you scared?"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				true
+			],
+			[
+				35,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			715182,
+			null,
+			"没有。",
+			"いいえ。",
+			"아뇨.",
+			"No.",
+			null,
+			"No.",
+			"No. The company is not a member of the National Association of Schools and Colleges of America."
+		],
+		[
+			"choice",
+			[
+				715184,
+				null,
+				"我刚才看到了奇怪的东西。",
+				"さっき、変なものを見たの。",
+				"방금 이상한 걸 봤어.",
+				"I just saw something strange."
+			],
+			[
+				715187,
+				null,
+				"【安抚宁蒂】",
+				"【ニンディを落ち着かせる】",
+				"【닌디를 진정시키다】",
+				"(Calm down Ninti)"
+			],
+			[
+				715203,
+				null,
+				"夸奖宁蒂。",
+				"ニンディを褒める。",
+				"닌디를 칭찬한다.",
+				"(Praise Ninti)"
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			10086,
+			10087,
+			10088
+		]
+	],
+	"10086": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715185,
+			null,
+			"（算了吧）",
+			"（よしましょう）",
+			"(그만두자)",
+			"(I changed my mind...)",
+			null,
+			"(Forget it.)",
+			"(Okay, let's go.)"
+		],
+		[
+			"msg",
+			715186,
+			null,
+			"（我不想加深宁蒂的不安）",
+			"（彼女の不安をあおりたくないわ）",
+			"(그녀의 불안을 부추기고 싶지 않아)",
+			"(I don’t want to deepen Ninti’s anxiety)",
+			null,
+			"(I don't want to aggravate Ninti's anxiety.)",
+			"(I don't want to stir up her anxiety.)"
+		],
+		[
+			"choice",
+			[
+				715184,
+				null,
+				"我刚才看到了奇怪的东西。",
+				"さっき、変なものを見たの。",
+				"방금 이상한 걸 봤어.",
+				"I just saw something strange."
+			],
+			[
+				715187,
+				null,
+				"【安抚宁蒂】",
+				"【ニンディを落ち着かせる】",
+				"【닌디를 진정시키다】",
+				"(Calm down Ninti)"
+			],
+			[
+				715203,
+				null,
+				"夸奖宁蒂。",
+				"ニンディを褒める。",
+				"닌디를 칭찬한다.",
+				"(Praise Ninti)"
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			10086,
+			10087,
+			10088
+		]
+	],
+	"10087": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				216,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715188,
+			null,
+			"（轻轻抱住）",
+			"（そっと抱きしめる）",
+			"(살포시 안아주다)",
+			"(Holds gently)",
+			null,
+			"(Holding gently)",
+			"(softly embracing)"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				216,
+				4,
+				true
+			],
+			[
+				35,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			715189,
+			null,
+			"芽衣姐姐？",
+			"芽衣さん？",
+			"메이 씨?",
+			"Mei-san?",
+			null,
+			"Mei?",
+			"Mei?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				4,
+				false
+			],
+			[
+				35,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			715190,
+			null,
+			"第一次到离家这么远的地方吧？",
+			"家を離れて、こんなに遠くまで来たのは初めてでしょう？",
+			"집을 떠나서 이렇게 먼 곳까지 온 건 처음이지?",
+			"It's your first time going to a place so far from home, right?",
+			null,
+			"First time so far from home, right?",
+			"You've never been this far from home before, have you?"
+		],
+		[
+			"msg",
+			715191,
+			null,
+			"害怕也是没关系的，这是你作为正常人的表现。",
+			"怖くてもいいの。それが普通の人間よ。",
+			"무서워도 괜찮아. 그게 평범한 인간이야.",
+			"It's okay to be scared, that's how you are as a normal person.",
+			null,
+			"It's okay to be scared, it's what you do as a normal human being.",
+			"It's okay to be scared. That's normal human nature."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				216,
+				4,
+				true
+			],
+			[
+				35,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			715192,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"portraits",
+			[
+				216,
+				4,
+				true
+			],
+			[
+				35,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			715193,
+			null,
+			"我找博士了解了一下宇宙。",
+			"博士から宇宙のことを教わりました。",
+			"박사님께 우주에 대해 배웠어.",
+			"I approached the Doctor in order to learn about the Universe.",
+			null,
+			"I sought out the Doctor to learn about the universe.",
+			"Dr. D. taught me about the universe."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				35,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715194,
+			null,
+			"和芽衣单独相处的时候，宁蒂说了很多话——博士告诉她，地球外是宇宙，宇宙中几乎都是真空。真空就是什么都没有，没有空气，没有声音，一无所有。",
+			"芽衣と二人だけになると、ニンディは口数が多くなった。博士はニンディに、地球の外は宇宙であり、宇宙の中はほとんど真空であると伝えた。真空とは、空気も音も何もない状態である。",
+			"메이와 단둘이 되자, 닌디는 말수가 많아졌다. 박사는 닌디에게 지구 밖은 우주이며, 우주 안은 대부분 진공이라고 설명했다. 진공이란 공기도 소리도 아무것도 없는 상태라고.",
+			"When she was alone with Mei, Ninti said a lot of things- the Doctor told her that outside the Earth is the universe, and that the universe is almost always a vacuum. A vacuum is nothing, no air, no sound, nothing.",
+			null,
+			"Alone with Mei, Ninti talks a lot - the Doctor tells her that beyond Earth is the universe, and the universe is almost always a vacuum. A vacuum is nothing, no air, no sound, nothing.",
+			"Once alone with Mei, Ninti became more talkative. Dr. Ninti told Ninti that outside the earth is space, and inside space is mostly a vacuum. A vacuum is a state in which there is no air, no sound, nothing."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				35,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			715195,
+			null,
+			"然后失重，温度和宇宙射线……",
+			"あと無重力、温度、宇宙船についても……。",
+			"그리고 무중력, 온도, 우주선에 대해서도…….",
+			"Weightlessness, temperature, cosmic rays…",
+			null,
+			"Then weightlessness, temperature and cosmic rays ......",
+			"Also, ...... for weightlessness, temperature, and spacecraft."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				35,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715196,
+			null,
+			"（博士，你说得太直接了……）",
+			"（博士、ストレートに伝え過ぎたのかしら……）",
+			"(박사님, 너무 직구로 전한 건 아닐까……)",
+			"(Doctor, you were far too direct…)",
+			null,
+			"(Dr., you're being too direct ......)",
+			"(Dr. I wonder if I told him too straight ......)"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				true
+			],
+			[
+				35,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			715197,
+			null,
+			"离开天命后，我发现世界很大。",
+			"天命を去った後、世界が広いことを知りました。",
+			"천명을 떠난 후, 세상이 넓다는 것을 알게 되었습니다.",
+			"After leaving Schicksal, I found that the world is a big place.",
+			null,
+			"After leaving Schicksal, I realized the world is a big place.",
+			"After leaving Schicksal, I learned that the world is a big place."
+		],
+		[
+			"msg",
+			715198,
+			null,
+			"每到一个地方，我都感觉是比天命大得多、美好得多的新世界……",
+			"新しい場所に行くたびに、天命よりずっと大きく、美しい新世界だと感じていました……。",
+			"새로운 곳에 갈 때마다, 천명보다 훨씬 크고 아름다운 신세계라고 느꼈습니다…….",
+			"Everywhere I went, I felt it was a new world much bigger and better than Shicksal...",
+			null,
+			"Every place I go feels like a new world much bigger and better than Schicksal ......",
+			"Every time I went to a new place, I felt it was a beautiful new world, much bigger than Schicksal. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715199,
+			null,
+			"宁蒂看着遥远的地球。",
+			"ニンディは遠くの地球を見つめている。",
+			"닌디는 먼 곳에 있는 지구를 바라보고 있다.",
+			"Ninti looked at the distant Earth.",
+			null,
+			"Ninti looked at the distant Earth.",
+			"Ninti stares at the earth in the distance."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				true
+			],
+			[
+				35,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			715200,
+			null,
+			"但原来地球也很小很小，我知道的一切，全在那个小小的地球上。",
+			"しかし地球はとても小さく、私の知っていたことは、すべてあの小さな星の話でした。",
+			"하지만 지구는 아주 작았고, 내가 알고 있던 모든 것은 그 작은 별에 관한 이야기였습니다.",
+			"But it turns out that the Earth is also small and tiny, and everything I know is on that tiny Earth.",
+			null,
+			"But it turns out that the Earth is also very, very small, and everything I know is on that tiny little planet.",
+			"But Earth is very small, and everything I knew was about that little planet."
+		],
+		[
+			"msg",
+			715201,
+			null,
+			"芽衣姐姐……",
+			"芽衣さん……。",
+			"메이씨…….",
+			"Mei-sama…",
+			null,
+			"Mei Sister ......",
+			"Mei. ......."
+		],
+		[
+			"msg",
+			715202,
+			null,
+			"现在是我一生中最悲伤的时刻。",
+			"ニンディは今、とても悲しい気分です……。",
+			"닌디는 지금, 매우 슬픈 기분이에요…….",
+			"This is the saddest moment of my life.",
+			null,
+			"This is the saddest time of my life.",
+			"Ninti is feeling very sad right now. ......"
+		],
+		[
+			"choice",
+			[
+				715211,
+				null,
+				"我还想聊一聊。",
+				"もう少し話していたい。",
+				"조금 더 이야기하고 싶어.",
+				"Chat with her some more."
+			],
+			[
+				715212,
+				null,
+				"（结束对话）我该走了。",
+				"（会話終了）もう行くわね。",
+				"(대화 종료) 이제 갈게.",
+				"(ends conversation) It's time for me to go."
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			153,
+			10089
+		]
+	],
+	"10088": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				216,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715204,
+			null,
+			"你其实很害怕宇宙吧？",
+			"ニンディちゃん、実は宇宙が怖いんでしょう？",
+			"닌디, 사실 우주가 무서운 거지?",
+			"You’re actually afraid of the universe, aren’t you?",
+			null,
+			"You're actually afraid of the universe, aren't you?",
+			"Ninti, you're actually afraid of space, aren't you?"
+		],
+		[
+			"portraits",
+			[
+				216,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715205,
+			null,
+			"即使这样，你也跟着我们一起来了呢……了不起。",
+			"それでも私たちと一緒に来るなんて……すごいわね。",
+			"그래도 우리랑 같이 온다니... 대단하네.",
+			"Even so, you came along with us... That's remarkable.",
+			null,
+			"Even so, what about the fact that you came along with us ...... marvelous.",
+			"Still, it's ...... awesome that you're coming with us."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				216,
+				4,
+				true
+			],
+			[
+				35,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			715206,
+			null,
+			"不……",
+			"いえ……。",
+			"아니요....",
+			"No…",
+			null,
+			"No ......",
+			"No. ......."
+		],
+		[
+			"msg",
+			715207,
+			null,
+			"和崩坏战斗，是我身为女武神的使命。",
+			"崩壊と戦うことがヴァルキリーである私の使命ですから。",
+			"붕괴와 싸우는 것이 발키리인 제 사명이니까요.",
+			"Fighting against the Honkai is my mission as a Valkyrie.",
+			null,
+			"Fighting Honkai is my mission as a Valkyrie.",
+			"Because it is my mission as a Valkyrie to fight Honkai."
+		],
+		[
+			"msg",
+			715208,
+			null,
+			"没什么了不起的……",
+			"すごくありません……。",
+			"대단하지 않아요....",
+			"It’s no big deal.",
+			null,
+			"It's no big deal ......",
+			"Not very much. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				35,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715209,
+			null,
+			"…………",
+			"…………",
+			"........",
+			null
+		],
+		[
+			"choice",
+			[
+				715184,
+				null,
+				"我刚才看到了奇怪的东西。",
+				"さっき、変なものを見たの。",
+				"방금 이상한 걸 봤어.",
+				"I just saw something strange."
+			],
+			[
+				715187,
+				null,
+				"【安抚宁蒂】",
+				"【ニンディを落ち着かせる】",
+				"【닌디를 진정시키다】",
+				"(Calm down Ninti)"
+			],
+			[
+				715203,
+				null,
+				"夸奖宁蒂。",
+				"ニンディを褒める。",
+				"닌디를 칭찬한다.",
+				"(Praise Ninti)"
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			10086,
+			10087,
+			10088
+		]
+	],
+	"10089": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"bg",
+			"CG10444"
+		],
+		[
+			"portraits",
+			[
+				35,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			715213,
+			null,
+			"谢谢你，芽衣姐姐。",
+			"ありがとうございます。芽衣さん。",
+			"감사합니다. 메이 씨.",
+			"Thank you, Mei-sama.",
+			null,
+			"Thank you, Mei-san.",
+			"Thank you very much. Mei."
+		],
+		[
+			"msg",
+			715214,
+			null,
+			"我没事了。",
+			"ニンディは大丈夫です。",
+			"닌디는 괜찮아요.",
+			"I’m fine now.",
+			null,
+			"I'm okay.",
+			"Ninti is fine."
+		]
+	]
+}

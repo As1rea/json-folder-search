@@ -1,0 +1,932 @@
+{
+	"1042": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305373,
+			"Boo-hoo... Emesa is just bullying me...",
+			"呜…居然被摆了一道……可恶的埃米沙！",
+			"うぅ……だまされた……エミザのやつ！",
+			"우우…… 속았어…… 에미자 이 자식!",
+			null,
+			null,
+			"Oooh...I actually got set up ...... Damn you Emesa!",
+			"Ugh ...... I was tricked ...... by the Emesa's!"
+		],
+		[
+			"msg",
+			305374,
+			"Do you want to swap tasks? I wouldn't enjoy a notoriety for bullying rookies.",
+			"要不我和你换一个活吧？免得那家伙到处说我欺负新人……",
+			"任務なんだけど、私と交換しない？あいつに私が新人をいじめてるって言われないためにも……。",
+			"임무인데, 나랑 교환하지? 그 녀석이 내가 신입을 괴롭힌다고 말하지 않도록 하기 위해서도…….",
+			null,
+			null,
+			"How about I change a job with you? Lest that guy go around saying I bully newcomers ......",
+			"I'm on a mission, would you trade me? I don't want that guy to say I'm picking on the new guy. ......"
+		],
+		[
+			"choice",
+			[
+				305375,
+				"No worries. I'll be fine.",
+				"没问题，交给我吧。",
+				"いいよ、任せて。",
+				"좋아, 맡겨.",
+				null
+			],
+			[
+				305376,
+				"Well, if you say so.",
+				"既然你这么说的话。",
+				"そこまで言うなら。",
+				"그렇게까지 말한다면.",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1043
+		]
+	],
+	"1043": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305377,
+			"Oh, here you are.",
+			"啊…找到你们了。",
+			"あ……ここにいたの。",
+			"아…… 여기 있었구나.",
+			null,
+			null,
+			"Ah...found you guys.",
+			"Oh ...... here you are."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305378,
+			"Yssring! Perfect timing! I was about to tell you I'll help move your stuff all by myself.",
+			"伊瑟琳，你来的正好，关于搬运东西的那个委托我一个人来就行了！",
+			"イザーリン、ちょうどいいとこに来た。荷物運びだけど、私一人で大丈夫よ！",
+			"이자린, 참 잘 왔어. 짐 나르는 건데, 나 혼자서 괜찮아!",
+			null,
+			null,
+			"Estherine, you're just in time, I'll do the commission on the moving stuff alone!",
+			"Estherine, I'm just getting to the right place. I'll carry your stuff, but I'll be fine on my own!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305379,
+			"Alone? No way. Moving those defensive structures is simply not a one-man job. We all have to go together.",
+			"啊？别开玩笑了…那些防御工事你一个人怎么可能完成，当然是一起去啊。",
+			"え？冗談だよね……あの防御工事はあなた一人では無理。私も一緒に行く。",
+			"에? 농담이지…… 그 방어 공사는 당신 혼자서는 무리야. 나도 같이 갈게.",
+			null,
+			null,
+			"Ah? Don't be ridiculous...how can you finish those fortifications alone, of course you go together.",
+			"Huh? You're kidding. ...... You can't do that defensive work alone. I'm going with you."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305380,
+			"What?! Everyone here? But—",
+			"诶！？一起去？可是……",
+			"え！？一緒に行く？でも……。",
+			"에!? 같이 간다고? 하지만…….",
+			null,
+			null,
+			"Eh! Go together? But ......",
+			"What? Do you want to go with me? But you can go to ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305381,
+			"Sorry, but we are running out of time. I don't want to wait until it's dark outside.",
+			"抱歉，可以拜托你们快点么，不然天色晚了我可不敢在基地外面作业。",
+			"ごめんなさい。少し急がないと。暗くなってから基地の外で作業したくない……。",
+			"미안해요. 좀 서둘러야 해요. 어두워진 후엔 기지 밖에서 작업하기 싫어서……",
+			null,
+			null,
+			"Sorry, can you please hurry up, otherwise it's late and I don't dare to work outside the base.",
+			"I'm sorry. I need to hurry up a bit. I don't want to work outside the base after dark. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305382,
+			"All... all right. Let's go together.",
+			"好…好吧，那我们一起去吧。",
+			"わ、分かったわ。じゃあ一緒に行きましょう。",
+			"알, 알았어. 그럼 같이 가자.",
+			null,
+			null,
+			"Okay...well, let's go together then.",
+			"Wow, okay. Then let's go together."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305383,
+			"Seele, I'm ready. Let's go find those bandages.... Huh? Where is everyone?",
+			"希儿，我准备好了，走去找绷带……人呢？",
+			"ゼーレ、こっちは準備できたぞ。包帯を探しに……あれどこ行った？",
+			"제레, 여긴 준비 끝났어. 붕대를 찾으러…… 저건 어디 간 거지?",
+			null,
+			null,
+			"Hill, I'm ready to go, walk to get bandages ...... Where are the people?",
+			"Seele, we're ready over here. I went to ...... to look for bandages, where did that go?"
+		]
+	],
+	"1044": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10104"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305384,
+			"Everything you need to move is here.",
+			"要搬的东西就是这些了。",
+			"運ぶものはこれで全部。",
+			"옮길 건 이게 전부야.",
+			null,
+			null,
+			"That's all the stuff to move.",
+			"This is all that we carry."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305385,
+			"What's in this crate?",
+			"这个箱子里是什么？",
+			"この箱の中は何？",
+			"이 상자 안에는 뭐가 들어있어?",
+			null,
+			null,
+			"What's in this box?",
+			"What's in this box?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305386,
+			"You probably don't want to know.",
+			"你还是不要知道的好。",
+			"あなたは知らなくていいわ。",
+			"당신은 알 필요 없어.",
+			null,
+			null,
+			"It is better for you not to know.",
+			"You don't need to know."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305387,
+			"Eh... Is it dangerous?",
+			"呃……不会有危险么？",
+			"え……まさか危険なものとか？",
+			"어…… 설마 위험한 물건이라든가?",
+			null,
+			null,
+			"Uh ...... won't it be dangerous?",
+			"What, ...... you don't think it's dangerous or something?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305388,
+			"It's totally safe. As long as you don't bump into something or drop it on the floor.",
+			"没事，只要不磕磕碰碰的话是不会有问题的。",
+			"……あちこちぶつけなければ問題ない。",
+			"……여기저기 부딪히지만 않으면 문제없어.",
+			null,
+			null,
+			"It's okay, as long as you don't bump into it, there will be no problem.",
+			"...... If you don't bump it all over the place, it's not a problem."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305389,
+			"I see. It's used for stopping Houkai creatures, isn't it?",
+			"好吧…这些是用来阻拦崩坏生物的吧？",
+			"分かった……これは崩壊生物を防ぐのに使うの？",
+			"알았어…… 이건 붕괴 생물을 막는 데 쓰는 거야?",
+			null,
+			null,
+			"Well...these are used to deter avalanche creatures, right?",
+			"Ok. ...... is this used to prevent decaying organisms?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305390,
+			"Indeed. It can deal tons of damage to them if you place it at the designated place.",
+			"是的，只要安置在指定的位置就能对崩坏生物造成极大的伤害。",
+			"そう。指定された位置にセットするだけで崩壊生物に絶大なダメージを与えられる。",
+			"그래. 지정된 위치에 세트하기만 하면 붕괴 생물에게 절대적인 데미지를 줄 수 있어.",
+			null,
+			null,
+			"Yes, it can cause great damage to the disintegrating creatures as long as it is placed in the designated location.",
+			"Right. You can do immense damage to decaying organisms simply by setting them in the designated positions."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305391,
+			"Alright. Leave it to us!",
+			"明白了，那就交给我们吧！",
+			"分かったわ。じゃあ、指示をちょうだい！",
+			"알았어. 그럼, 지시를 내려줘!",
+			null,
+			null,
+			"Understood, then leave it to us!",
+			"All right, then. Then give me your instructions!"
+		]
+	],
+	"1045": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10104"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305392,
+			"Right, just over there... And the crate, place it over there...",
+			"对对，就放在那边就行了…还有那个箱子放在那个位置。",
+			"そうそう。そっちに置いて……それからあの箱はそっちの位置に置いて。",
+			"그래그래. 저쪽에 놓고…… 그리고 저 상자는 저쪽 위치에 놓아.",
+			null,
+			null,
+			"Yes, yes, just put it over there...and that box in that position.",
+			"Oh yeah, yeah. Put it over there ...... and then put that box in that position."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305393,
+			"I mean... Yssring, why I have the feeling that you are trying to stay away from me.",
+			"我说，伊瑟琳你怎么越站越远了？",
+			"イザーリン、あなたどうしてそんなに遠くに立っているの？",
+			"이자린, 너 왜 저렇게 멀리 서 있는 거야?",
+			null,
+			null,
+			"I said, \"Estherine, why are you standing further and further away?",
+			"Estherine, why are you standing so far away?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305394,
+			"It... It's just your delusion...",
+			"只，只是你的错觉而已……",
+			"た、ただの錯覚よ……。",
+			"그, 그냥 착각이야…….",
+			null,
+			null,
+			"Only, it's just your illusion ......",
+			"It's just an illusion. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305395,
+			"Wait... What exactly is in this crate? Tell me, or I'll drop it at you!",
+			"你…这箱子里到底装了什么？你不说的话我可要罢工了！",
+			"あなたね……この箱には一体何が入っているの？言わないならストライキするわよ！",
+			"너 말이야…… 이 상자에 대체 뭐가 들어있는 거야? 말 안 하면 스트라이크 할 거야!",
+			null,
+			null,
+			"You...what's in this box? I'm going to strike if you don't tell me!",
+			"You. ...... What the hell is in this box? Tell me or I'll strike!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305396,
+			"Don't! Don't come close to me... We can talk...",
+			"等等…你别过来…有话好说嘛……",
+			"待って……来ないで……ちゃんと話すから……。",
+			"기다려…… 오지 마…… 제대로 말할 테니까…….",
+			null,
+			null,
+			"Wait ... you do not come over ... have a good talk ......",
+			"Wait ...... don't come ...... I'll talk to you properly ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305397,
+			"Last time, you also didn't explain, and it turned out to be dangerous biochem materials... Ouch!",
+			"我记得上次也是…明明装着危险的化学药品也没有说明，到作战开始的时候才知道里面装的是…呃！",
+			"この前もそうだったわよね……危ない科学薬品を入れているのに説明もしないで、作戦が始まってからようやく中に何が入っているのか知ったのよ……あ！",
+			"저번에도 그랬잖아…… 위험한 과학 약품을 넣어놓고 설명도 안 해주더니, 작전이 시작되고서야 겨우 안에 뭐가 들어있는지 알게 됐다고…… 아!",
+			null,
+			null,
+			"I remember the last time too...it was clearly loaded with dangerous chemicals without explanation, and only when the battle began did we know that it was loaded with...uh!",
+			"That's what happened the other day when they put ...... dangerous scientific chemicals in it and didn't explain it to us, and we finally found out what was in it after the operation started....... Oh!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305398,
+			"Bang!!",
+			"砰！！",
+			"バン！！",
+			"빵!!",
+			null,
+			null,
+			"BANG!!!",
+			"Bang!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305399,
+			"Sorry, I tripped over.",
+			"啊~抱歉，不小心绊了一下。",
+			"あ～ごめん、つまづいちゃった。",
+			"아~ 미안, 발이 걸려서.",
+			null,
+			null,
+			"Ah~ Sorry, I tripped accidentally.",
+			"Oh, sorry, I tripped."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305400,
+			"AGHHHH! RUN FOR YOUR LIFE! IT'S GOING TO EXPLODE!!!",
+			"啊啊！！！！不行！要爆炸了！！！",
+			"ああ！！！！だめ！爆発する！！！",
+			"아아!!!! 안 돼! 폭발한다!!!",
+			null,
+			null,
+			"Ahhh ！！！！ No way! It's going to explode!!!",
+			"Oh. ！！！！ No! It's gonna explode!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305401,
+			"Explode?!",
+			"爆？爆炸！？",
+			"ば、爆発！？",
+			"방, 폭발!?",
+			null,
+			null,
+			"Explosion? Explosion!",
+			"Ba, explosion!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305402,
+			"Seele, you such a dumb-ass! That's a whole crate of TNT!! If it explodes, we all gonna die!",
+			"希儿你是笨蛋么！这里面装的可都是TNT啊！！要是炸了我们都得死！",
+			"ゼーレ、あなたバカなの！この中は全部TNT……爆発したらみんな死ぬ……。",
+			"제레, 당신 바보야! 이 안은 전부 TNT…… 폭발하면 모두 죽어…….",
+			"Seele, you dumbass! That's a whole crate of TNT!! If it explodes, we're all done for...",
+			null,
+			"Hill are you stupid! It's loaded with TNT! If it blows up, we'll all die!",
+			"Seele, you are an idiot! Everything in here is TNT...... If it explodes, we will all die......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305403,
+			"So... It's actually explosives... And you didn't tell me?!",
+			"嚯…原来里面是炸药啊…你这家伙居然不告诉我！",
+			"……中身は火薬だったのね。あんたってやつは、やっぱり危険なものじゃない！",
+			"……안에는 화약이었구나. 너란 녀석은, 역시 위험한 물건이잖아!",
+			"....So it's explosives. What the hell, you told me it wasn't dangerous!",
+			null,
+			"Ho...so it's explosives inside...you guys didn't tell me!",
+			"...... was gunpowder on the inside. I knew you guys weren't dangerous!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305404,
+			"Sheesh... It looks like your job here is done. I'll let you be. See you~",
+			"咕…嗯，看来搬的差不多了，我先走了，你们接着加油……",
+			"えっと……うん。大体運び終わったわね。私はこれで行くから、あなたたち引き続き頑張ってね……。",
+			"음…… 응. 대부분 운반은 끝났네. 난 이만 갈 테니까, 너희들은 계속 힘내…….",
+			"Let's see, ...... yeah. I think we're almost done. I'm going to go now, so keep up the good work.......",
+			null,
+			"Goo...well, it seems to move almost, I'll go first, you guys continue to cheer ......",
+			"Let's see, ...... yeah. I think we're almost done. I'm going to go now, so you guys keep up the good work. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305405,
+			"Stop there!",
+			"你给我站住！",
+			"待ちなさい！",
+			"기다려！",
+			"Get back here!",
+			null,
+			"Stop right there!",
+			"Wait for me!"
+		]
+	]
+}

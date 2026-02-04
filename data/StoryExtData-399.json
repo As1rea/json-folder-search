@@ -1,0 +1,7527 @@
+{
+	"3990": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488510,
+			null,
+			"救世主。",
+			"救世主。",
+			"구세주.",
+			null,
+			null,
+			"Savior.",
+			null
+		],
+		[
+			"msg",
+			488511,
+			null,
+			"怎么样的人才能算是救世主。",
+			"救世主とはどんな人なのだろうか。",
+			"구세주란 어떤 사람일까.",
+			null,
+			null,
+			"How about someone who can be considered a savior.",
+			"What kind of person is the savior?"
+		],
+		[
+			"msg",
+			488512,
+			null,
+			"顾名思义，那就是得要拯救世界吧。",
+			"その名の通り、世界を救う人のことだろうか。",
+			"말 그대로 세상을 구하는 사람일까.",
+			null,
+			null,
+			"As the name suggests, that means you have to save the world, right?",
+			"As the name implies, is it someone who saves the world?"
+		],
+		[
+			"msg",
+			488513,
+			null,
+			"这么一来，其实也没什么了不起的。",
+			"その場合、それほど大きな問題ではない。",
+			"그렇다면 그리 큰 문제는 아니다.",
+			null,
+			null,
+			"In that case, it's not really that big of a deal.",
+			"In that case, it is not that big a deal."
+		],
+		[
+			"msg",
+			488514,
+			null,
+			"因为……",
+			"なぜなら……。",
+			"왜냐하면…….",
+			null,
+			null,
+			"Because ......",
+			"Because ......."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488515,
+			null,
+			"不是每个人都做得到么。",
+			"誰にでも出来ることだから。",
+			"누구나 할 수 있는 일이니까.",
+			null,
+			null,
+			"Can't everyone do it.",
+			"Anyone can do it."
+		],
+		[
+			"msg",
+			488516,
+			null,
+			"能救赎这个世界。",
+			"世界を救う。",
+			"세상을 구하는 것.",
+			null,
+			null,
+			"can redeem the world.",
+			"Save the world."
+		],
+		[
+			"msg",
+			488517,
+			null,
+			"能救赎他人。",
+			"他人を救う。",
+			"타인을 구하는 것.",
+			null,
+			null,
+			"Can redeem others.",
+			"Save others."
+		],
+		[
+			"msg",
+			488518,
+			null,
+			"英雄到处都有。",
+			"そんなヒーローはどこにでも現れる。",
+			"그런 영웅은 어디에나 나타난다.",
+			null,
+			null,
+			"Heroes are everywhere.",
+			"Such heroes appear everywhere."
+		],
+		[
+			"msg",
+			488519,
+			null,
+			"九霄大人，或许并不特别。",
+			"我も本当は特別な存在ではないかもしれない。",
+			"나도 사실은 특별한 존재가 아닐지도 모른다.",
+			null,
+			null,
+			"Lord Kyuushou, perhaps, is not special.",
+			"I may not really be special either."
+		],
+		[
+			"msg",
+			488520,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			488521,
+			null,
+			"那么，我的救世之道又是什么……",
+			"では、我が名乗る救世主とは一体何なのか……。",
+			"그렇다면 내가 자칭하는 구세주란 과연 무엇일까…….",
+			null,
+			null,
+			"So what is my salvation ......",
+			"So what exactly is the savior I claim to be: ......."
+		]
+	],
+	"3991": [
+		[
+			"bgm",
+			71
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488522,
+			null,
+			"接下来开始作战会议！",
+			"そろそろ作戦会議を始めよう！",
+			"이제 작전 회의를 시작하자!",
+			null,
+			null,
+			"The combat meeting began next!",
+			"It's time to start a strategy meeting!"
+		],
+		[
+			"msg",
+			488523,
+			null,
+			"我们这次的目标，是消灭位于城市尽头的巨大方块体。",
+			"今回の目標は、街のはずれにある巨大な立方体の破壊だ。",
+			"이번 목표는 마을 외곽에 있는 거대한 정육면체의 파괴다.",
+			null,
+			null,
+			"Our goal this time, is to destroy the giant cube body located at the end of the city.",
+			"This time, the goal is to destroy a huge cube on the edge of the city."
+		],
+		[
+			"msg",
+			488524,
+			null,
+			"那家伙信息未明，就继续以通称代号【崩坏体】代替。",
+			"そいつの情報は不明だが、我々は【崩壊体】と呼んでいる。",
+			"그 녀석에 대한 정보는 불명이지만, 우리는 【붕괴체】라고 부르고 있다.",
+			null,
+			null,
+			"The guy's information is unknown, so he continues to be known by the generic codename [Honkai] instead.",
+			"We don't have any information on that guy, but we call him [Honkai]."
+		],
+		[
+			"msg",
+			488525,
+			null,
+			"现在，琪亚娜靠着自己控制崩坏的力量压制了那家伙的力量。",
+			"現在、キアナが自身の力で【崩壊体】の崩壊エネルギーを制御している。",
+			"현재 키아나가 자신의 힘으로 【붕괴체】의 붕괴 에너지를 제어하고 있다.",
+			null,
+			null,
+			"Now, Kiana relied on her power to control Honkai to suppress that guy's power.",
+			"Currently, Kiana is controlling the Honkai energy of the [Honkai] with her own power."
+		],
+		[
+			"msg",
+			488526,
+			null,
+			"趁着这个机会，我们去把怪物消灭掉。",
+			"今のうちに、周囲の崩壊生物を一掃しておきたい。",
+			"지금 중에 주변의 붕괴 생물을 일소해 두고 싶다.",
+			null,
+			null,
+			"While we're at it, let's go wipe out the monsters.",
+			"We want to wipe out the Honkai organisms around us while we still can."
+		],
+		[
+			"msg",
+			488527,
+			null,
+			"我们不知道她还能坚持多久。",
+			"キアナがいつまで持ちこたえられるかわからないから。",
+			"키아나가 언제까지 버틸 수 있을지 모르니까.",
+			null,
+			null,
+			"We don't know how much longer she can hold out.",
+			"Because I don't know how long Kiana can hold out."
+		],
+		[
+			"msg",
+			488528,
+			null,
+			"必须马上行动。",
+			"今すぐ行動する必要がある。",
+			"지금 당장 행동할 필요가 있다.",
+			null,
+			null,
+			"Must act now.",
+			"We need to act now."
+		],
+		[
+			"speaker",
+			204864
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				513,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			488529,
+			null,
+			"九霄大人，有什么特别的战略吗。",
+			"九霄様は何か特別な作戦があるの？",
+			"큐쇼様은 뭔가 특별한 작전이 있는 거야?",
+			null,
+			null,
+			"Lord Kyuushou, any particular strategy.",
+			"Does Kyuushou-sama have any special operations?"
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				513,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			488530,
+			null,
+			"虽然【崩坏体】处于休眠状态，但是……",
+			"【崩壊体】は今は動かないけど……。",
+			"【붕괴체】는 지금은 움직이지 않지만…….",
+			null,
+			null,
+			"Although [Honkai Body] is dormant, ......",
+			"[Honkai body] doesn't work now, but you can find it at ......."
+		],
+		[
+			"msg",
+			488531,
+			null,
+			"上次我们逃走的是时候，看到很多由其衍生的石像。",
+			"そこから生まれてくる石像をたくさん見たよ。",
+			"거기서 생겨나는 석상을 많이 봤어.",
+			null,
+			null,
+			"The last time we escaped is when we saw many stone statues derived from it.",
+			"I saw a lot of stone statues coming out of there."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				513,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			488532,
+			null,
+			"确实，那玩意不好对付。",
+			"確かに、石像の対処法も考える必要があるな。",
+			"확실히, 석상의 처리법도 생각할 필요가 있겠군.",
+			null,
+			null,
+			"Indeed, that thing is not easy to deal with.",
+			"Sure, we need to think about how to deal with the stone statues."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			488533,
+			null,
+			"但我们不是没时间调查么。",
+			"しかし、調査する時間がなかったのでは？",
+			"하지만, 조사할 시간이 없었던 게 아닐까?",
+			null,
+			null,
+			"But don't we have no time to investigate.",
+			"But you didn't have time to investigate?"
+		],
+		[
+			"msg",
+			488534,
+			null,
+			"反正动手晚了也是死。",
+			"それに、もたもたしていたらみんな死ぬんだ。",
+			"게다가, 망설이고 있으면 모두 죽을 거야.",
+			null,
+			null,
+			"If you do it late, you'll die anyway.",
+			"Besides, if we falter, we will all die."
+		],
+		[
+			"msg",
+			488535,
+			null,
+			"那不如直接拼了。",
+			"ならばいっそのこと、直接戦ってしまったほうがいい。",
+			"그렇다면 차라리 직접 싸우는 편이 나아.",
+			null,
+			null,
+			"Might as well just spell it out then.",
+			"Then it is better to fight them directly."
+		],
+		[
+			"msg",
+			488536,
+			null,
+			"这么做，或许就能看到一线希望了。",
+			"そうすることで、かすかな希望が見えてくるかもしれない。",
+			"그렇게 함으로써, 희미한 희망이 보일지도 모르니까.",
+			null,
+			null,
+			"Do that, and there might be a silver lining.",
+			"In doing so, we may find a faint glimmer of hope."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488537,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			488538,
+			null,
+			"我确实有个计划。",
+			"実は我に計画がある。",
+			"사실 나에게 계획이 있다.",
+			null,
+			null,
+			"I do have a plan.",
+			"Actually, I have a plan."
+		],
+		[
+			"msg",
+			488539,
+			null,
+			"能拜托你们牵制住【崩坏体】周围的敌人么。",
+			"【崩壊体】の周囲の敵を抑えていてほしい。",
+			"【붕괴체】 주변의 적을 억제해줬으면 한다.",
+			null,
+			null,
+			"Can you please hold the enemies around the [Honkai].",
+			"I want you to keep the enemies around the [Honkai body] in check."
+		],
+		[
+			"msg",
+			488540,
+			null,
+			"我想……再和琪亚娜说一说话。",
+			"もう一度……キアナと話がしたい。",
+			"한 번 더...키아나와 이야기하고 싶다.",
+			null,
+			null,
+			"I would ...... like to speak to Kiana again.",
+			"I would like to talk to ...... Kiana again."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			488541,
+			null,
+			"真的能唤醒她吗。",
+			"あなたにキアナを目覚めさせることができるの？",
+			"당신이키아나를 깨울 수 있나?",
+			null,
+			null,
+			"Can you really wake her up.",
+			"Can you awaken Kiana for me?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488542,
+			null,
+			"我……不清楚。",
+			"我には……まだ分からない。",
+			"나에게는...아직 모르겠다.",
+			null,
+			null,
+			"I ...... am not sure.",
+			"I don't know ...... yet."
+		],
+		[
+			"msg",
+			488543,
+			null,
+			"说实话这次机会渺茫，我不确定能不能成功。",
+			"正直なところ、今回はチャンスも限られるし、うまくいくとは断言できない。",
+			"솔직히 말해서, 이번에는 기회도 제한적이고 성공할 거라고 단언할 수 없다.",
+			null,
+			null,
+			"To be honest the chances are slim this time and I'm not sure it will work out.",
+			"To be honest, I can't say for sure that it will work this time, as the opportunities are limited."
+		],
+		[
+			"msg",
+			488544,
+			null,
+			"越是拖延，就越有可能造出一个谁也无法打败的怪物。",
+			"遅れれば遅れるほど、誰も倒せない怪物が出来上がる可能性も高くなる。",
+			"늦으면 늦을수록, 아무도 쓰러뜨릴 수 없는 괴물이 만들어질 가능성도 높아진다.",
+			null,
+			null,
+			"The more we delay, the more likely we are to create a monster that no one can defeat.",
+			"The longer the delay, the more likely it is that a monster will be created that no one can defeat."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			488545,
+			null,
+			"我们也很想救琪亚娜。",
+			"私たちもできることならキアナを救いたい。",
+			"우리도 할 수 있다면키아나를 구하고 싶다.",
+			null,
+			null,
+			"We'd love to save Kiana, too.",
+			"We want to save Kiana if we can too."
+		],
+		[
+			"msg",
+			488546,
+			null,
+			"但如果会因此错失消灭崩坏的机会的话……我们也会毫不犹豫地下手干掉她。",
+			"しかし、そのために崩壊を根絶する機会を逸してしまうと判断した時は……躊躇なく彼女を殺す。",
+			"하지만, 그 때문에 붕괴를 근절할 기회를 놓치게 된다고 판단할 때는...망설임 없이 그녀를 죽인다.",
+			null,
+			null,
+			"But if it would result in a missed opportunity to destroy Honkai ...... we wouldn't hesitate to go ahead and finish her off.",
+			"However, when he decides that he will miss the opportunity to eradicate Honkai because of it, he kills her without ...... hesitation."
+		],
+		[
+			"msg",
+			488547,
+			null,
+			"这样可以吗。",
+			"……この方針でも問題はない？",
+			"...이 방침으로도 문제는 없나?",
+			null,
+			null,
+			"Is this okay.",
+			"...... Is there any problem with this policy?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488548,
+			null,
+			"这样就好。",
+			"それで問題ない。",
+			"그러면 문제없어.",
+			null,
+			null,
+			"That's fine.",
+			"That's not a problem."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				70,
+				1,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			488549,
+			null,
+			"那么开始准备。",
+			"わかった。そうと決まれば早速準備を始よう。",
+			"알겠어. 그렇게 정해졌으니 빨리 준비를 시작하자.",
+			null,
+			null,
+			"Then start preparing.",
+			"I understand. Once that's decided, let's get started with the preparations."
+		],
+		[
+			"msg",
+			488550,
+			null,
+			"要连夜赶路了。",
+			"徹夜になりそうね。",
+			"밤샘 작업이 될 것 같네.",
+			null,
+			null,
+			"It's going to be all night.",
+			"It's going to be an all-nighter."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488551,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204864
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				513,
+				11,
+				false
+			]
+		],
+		[
+			"msg",
+			488552,
+			null,
+			"九霄大人……",
+			"九霄様……",
+			"큐쇼様……",
+			null,
+			null,
+			"Lord Kyuushou ......",
+			"Mr. Kyuushou: ......"
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				513,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			488553,
+			null,
+			"西琳会加油的。",
+			"シーリンは応援してるよ。",
+			"시린은 응원할게.",
+			null,
+			null,
+			"Sirin will cheer.",
+			"Sirin is rooting for you."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				false
+			],
+			[
+				513,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			488554,
+			null,
+			"西琳？",
+			"シーリン？",
+			"시린?",
+			null,
+			null,
+			"Sirin？",
+			"Sirin？"
+		],
+		[
+			"speaker",
+			204864
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				true
+			],
+			[
+				513,
+				11,
+				false
+			]
+		],
+		[
+			"msg",
+			488555,
+			null,
+			"虽然不如拥有律者力量时可靠。",
+			"律者の力に頼らないと役に立たないかもしれないけど……。",
+			"율자의 힘에 의지하지 않으면 도움이 안 될지도 모르지만…….",
+			null,
+			null,
+			"Though not as reliable as when you have Herrscher power.",
+			"You may need to rely on Herrscher's help to help you. ......"
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				true
+			],
+			[
+				513,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			488556,
+			null,
+			"但西琳会全力争取机会。",
+			"でも、シーリンはみんなのために全力で戦うよ。",
+			"하지만 시린은 모두를 위해 전력으로 싸울 거야.",
+			null,
+			null,
+			"But Sirin will go all out for the opportunity.",
+			"But Sirin will fight for everyone as hard as he can."
+		],
+		[
+			"msg",
+			488557,
+			null,
+			"这样的话，九霄大人就可以去做想做的事了。",
+			"だから、九霄様は安心してやりたいことをやってほしいの。",
+			"그러니까 큐쇼님은 안심하고 하고 싶은 일을 해줬으면 해.",
+			null,
+			null,
+			"In that case, Lord Kyuushou can go and do what he wants to do.",
+			"So, I want you to do what you want to do without worry, Kyuushou-sama."
+		],
+		[
+			"msg",
+			488558,
+			null,
+			"西琳相信，九霄大人一定能救出琪亚娜，我们……也一定会迎来更好的明天。",
+			"シーリンは信じてる。九霄様がキアナお姉ちゃんを助けて……明るい未来が訪れるって。",
+			"시린은 믿어. 큐쇼 님이 키아나 언니를 구해줄 거고…… 밝은 미래가 올 거라고.",
+			null,
+			null,
+			"Sirin believes that Lord Kyuushou will be able to save Kiana, and we ...... will definitely see a better tomorrow.",
+			"Sirin believes. She believes that Kyuushou-sama will save Kiana's sister and ...... will have a bright future."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				513,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			488559,
+			null,
+			"明明就非常可靠。",
+			"心配しなくても、シーリンはすごく頼もしい。",
+			"걱정하지 마, 시린은 정말 든든해.",
+			null,
+			null,
+			"It's obviously very reliable.",
+			"Don't worry, Sirin is very reliable."
+		],
+		[
+			"msg",
+			488560,
+			null,
+			"就拜托你啦。",
+			"……頼りにしてる。",
+			"……기대하고 있을게.",
+			null,
+			null,
+			"I'm counting on you.",
+			"I rely on ......."
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				513,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			488561,
+			null,
+			"直到最后一刻为止，我都会不断做出尝试。",
+			"我は最後の瞬間まで試行錯誤を続ける。",
+			"나는 마지막 순간까지 시행착오를 계속할 거야.",
+			null,
+			null,
+			"Until the very last moment, I will keep making attempts.",
+			"I will keep trying until the last moment."
+		],
+		[
+			"msg",
+			488562,
+			null,
+			"绝对不会放弃任何一个伙伴。",
+			"それでも、絶対に仲間は見捨てない。",
+			"그래도, 절대 동료들은 버리지 않아.",
+			null,
+			null,
+			"Never give up on any partner.",
+			"Still, I would never abandon my friends."
+		],
+		[
+			"msg",
+			488563,
+			null,
+			"这或许是我最后的战斗了。",
+			"これが我の最後の戦いになるかもしれない……",
+			"이게 나의 마지막 싸움이 될지도 모르지만……",
+			null,
+			null,
+			"This may be my last fight.",
+			"This may be my last fight: ......"
+		],
+		[
+			"msg",
+			488564,
+			null,
+			"但一点都不觉得担心。",
+			"でも不思議と、なんとでもなるような気がしてる。",
+			"그런데 이상하게도, 뭐든지 해낼 수 있을 것만 같아.",
+			null,
+			null,
+			"But don't feel worried at all.",
+			"But strangely, I feel like I can handle it."
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				513,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			488565,
+			null,
+			"因为你们都在这。",
+			"みんなが居るから。",
+			"다들 함께 있으니까.",
+			null,
+			null,
+			"Because you're all here.",
+			"Because everyone is here."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				513,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			488566,
+			null,
+			"似乎意识到了什么，西琳抱住了九霄。",
+			"何かを悟ったように、シーリンは九霄を抱きしめた。",
+			"무언가를 깨달은 듯, 시린은 큐쇼를 꼭 안았다.",
+			null,
+			null,
+			"Seemingly realizing something, Sirin hugged Kyuushou.",
+			"As if realizing something, Sirin hugged Kyuushou."
+		],
+		[
+			"speaker",
+			204864
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				513,
+				11,
+				false
+			]
+		],
+		[
+			"msg",
+			488567,
+			null,
+			"九霄大人这么决定的话，西琳是不会阻拦的。",
+			"シーリンは、九霄様がそう決めたなら邪魔しないよ。",
+			"시린은, 큐쇼 님이 그렇게 결정하셨다면 방해하지 않을게.",
+			null,
+			null,
+			"Sirin wouldn't stand in the way if Lord Kyuushou decided so.",
+			"Sirin won't interfere if Master Kyuushou decides to do so."
+		],
+		[
+			"msg",
+			488568,
+			null,
+			"但请一定……不要留下遗憾。",
+			"でも……後悔はしないでね。",
+			"하지만…… 후회하지는 마.",
+			null,
+			null,
+			"But make sure ...... you don't have any regrets.",
+			"But don't ...... regret it."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				513,
+				11,
+				true
+			]
+		],
+		[
+			"msg",
+			488569,
+			null,
+			"嗯。",
+			"ああ。",
+			"아.",
+			null,
+			null,
+			"Uh-huh.",
+			"Oh."
+		],
+		[
+			"speaker",
+			204864
+		],
+		[
+			"portraits",
+			[
+				513,
+				6,
+				false
+			],
+			[
+				513,
+				11,
+				true
+			]
+		],
+		[
+			"msg",
+			488570,
+			null,
+			"该出发了。",
+			"もう時間だ。",
+			"이제 시간이야.",
+			null,
+			null,
+			"It's time to go.",
+			"It's time to go."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				513,
+				11,
+				true
+			]
+		],
+		[
+			"msg",
+			488571,
+			null,
+			"走吧。",
+			"行こう。",
+			"가자.",
+			null,
+			null,
+			"Let's go.",
+			"Let's go."
+		],
+		[
+			"portraits",
+			[
+				70,
+				1,
+				false
+			],
+			[
+				513,
+				11,
+				true
+			]
+		],
+		[
+			"msg",
+			488572,
+			null,
+			"我们去把那个笨蛋带回来！",
+			"あのバカを連れ戻しに行こう！",
+			"그 바보를 데리러 가자!",
+			null,
+			null,
+			"Let's go bring that sucker back!",
+			"Let's go bring that idiot back!"
+		]
+	],
+	"3992": [
+		[
+			"bgm",
+			87
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			488573,
+			null,
+			"我们应该赶上了才对吧。",
+			"間に合ったみたいだ。",
+			"간신히 막은 모양이군.",
+			null,
+			null,
+			"We should have caught up by now.",
+			"Looks like I made it in time."
+		],
+		[
+			"speaker",
+			204864
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				513,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			488574,
+			null,
+			"是没见过的石像。",
+			"見たことがない石像……",
+			"본 적 없는 석상인데……",
+			null,
+			null,
+			"It's unseen stone statues.",
+			"Stone statues you've never seen before: ......"
+		],
+		[
+			"msg",
+			488575,
+			null,
+			"即便在休眠，它也一直在制作出入侵这个世界的怪物。",
+			"動きは止まってるけど、化け物を生み出し続けてる……",
+			"움직임은 멈췄지만, 괴물을 계속 만들어내고 있어……",
+			null,
+			null,
+			"Even while dormant, it has been crafting monsters that invade this world.",
+			"It's stopped moving, but it continues to create monsters. ......"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				513,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			488576,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			488577,
+			null,
+			"你就这点能耐吗，琪亚娜……",
+			"まだ大丈夫だろうな……キアナ。",
+			"아직 괜찮겠지…… 키아나.",
+			null,
+			null,
+			"Is that the best you can do, Kiana? ......",
+			"I hope you're still okay. ...... Kiana."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			488578,
+			null,
+			"等一下，九霄！",
+			"危ない、九霄！",
+			"위험해, 큐쇼!",
+			null,
+			null,
+			"Wait, Kyuushou!",
+			"Watch out, Kyuushou!"
+		],
+		[
+			"speaker",
+			"33085 (Update portrait DB!!)"
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488579,
+			null,
+			"跑起来。",
+			"走って。",
+			"달려.",
+			null,
+			null,
+			"Run up.",
+			"Run."
+		],
+		[
+			"speaker",
+			"33085 (Update portrait DB!!)"
+		],
+		[
+			"msg",
+			488580,
+			null,
+			"还来得及！",
+			"まだ間に合う！",
+			"아직 늦지 않았어!",
+			null,
+			null,
+			"It's not too late!",
+			"It's not too late!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488581,
+			null,
+			"她完全没看周围。",
+			"彼女には周りが見えていない。",
+			"그녀는 주변을 전혀 보지 못하고 있어.",
+			null,
+			null,
+			"She didn't look around at all.",
+			"She can't see what's going on around her."
+		],
+		[
+			"speaker",
+			"33085 (Update portrait DB!!)"
+		],
+		[
+			"msg",
+			488582,
+			null,
+			"你还有什么想要告诉我吧。",
+			"他に何かやるべきことがあったら教えて！",
+			"다른 할 일이 있으면 알려줘!",
+			null,
+			null,
+			"There's something else you want to tell me.",
+			"Let me know if there is anything else I should do!"
+		],
+		[
+			"speaker",
+			"33085 (Update portrait DB!!)"
+		],
+		[
+			"msg",
+			488583,
+			null,
+			"那就给我撑住啊！",
+			"手伝って、九霄をサポートするよ！",
+			"도와줘, 큐쇼를 서포트할게!",
+			null,
+			null,
+			"Then hang in there!",
+			"I'll help you and support Kyuushou!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488584,
+			null,
+			"琪亚娜！",
+			"キアナ！",
+			"키아나!",
+			null,
+			null,
+			"Kiana！",
+			"Kiana！"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488585,
+			null,
+			"吼！",
+			"ゴウウゥッ！",
+			"그우우웃!",
+			null,
+			null,
+			"Roar!",
+			"Gawwww!"
+		],
+		[
+			"msg",
+			488586,
+			null,
+			"从两侧出现的崩坏生物，已经冲到了九霄身边。",
+			"突如横から現れた崩壊生物が九霄に飛び掛かった。",
+			"갑자기 옆에서 나타난 붕괴 생물이 큐쇼에게 달려들었다.",
+			null,
+			null,
+			"The Honkai creatures that appeared from both sides had rushed to Kyuushou's side.",
+			"A disintegrating creature suddenly appeared from the side and jumped on Kyuushou."
+		],
+		[
+			"msg",
+			488587,
+			null,
+			"砰！",
+			"——バンッ！",
+			"——쾅!",
+			null,
+			null,
+			"Bang!",
+			"--BANG!"
+		],
+		[
+			"speaker",
+			204864
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				513,
+				10,
+				false
+			]
+		],
+		[
+			"msg",
+			488588,
+			null,
+			"九霄大人……",
+			"九霄様……",
+			"큐쇼様……",
+			null,
+			null,
+			"Lord Kyuushou ......",
+			"Mr. Kyuushou: ......"
+		],
+		[
+			"msg",
+			488589,
+			null,
+			"冲啊！",
+			"行って！",
+			"가!",
+			null,
+			null,
+			"Punch it!",
+			"Go to!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				false
+			],
+			[
+				513,
+				10,
+				true
+			]
+		],
+		[
+			"msg",
+			488590,
+			null,
+			"西琳！？",
+			"シーリン！？",
+			"시린！？",
+			null,
+			null,
+			"Sirin！？",
+			"Sirin！？"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			488591,
+			null,
+			"要去把琪亚娜叫醒不是么。",
+			"キアナを起こしに行くんでしょう？",
+			"키아나를 깨우러 가는 거죠？",
+			null,
+			null,
+			"Going to wake Kiana up aren't we.",
+			"You're going to wake up Kiana, aren't you?"
+		],
+		[
+			"msg",
+			488592,
+			null,
+			"这里就交给我们吧。",
+			"ここは私たちに任せて！",
+			"여기는 우리에게 맡겨!",
+			null,
+			null,
+			"Leave it to us here.",
+			"Let us handle this place!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488593,
+			null,
+			"你们……",
+			"ああ……。",
+			"아아…….",
+			null,
+			null,
+			"You guys ......",
+			"Oh, ......."
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488594,
+			null,
+			"谢了！",
+			"ありがとう！",
+			"고마워!",
+			null,
+			null,
+			"Thanks!",
+			"Thank you!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			488595,
+			null,
+			"无论是谁，都有属于自己的战场。",
+			"誰にでも、それぞれの戦場がある。",
+			"누구에게나, 각자의 전장이 있다.",
+			null,
+			null,
+			"Whoever it is, there is a battlefield of their own.",
+			"Everyone has their own battlefield."
+		],
+		[
+			"speaker",
+			204864
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				true
+			],
+			[
+				513,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			488596,
+			null,
+			"崩坏，见识下我们的厉害！",
+			"崩壊に……シーリンたちの力をみせてあげる！",
+			"붕괴에……시린들의 힘을 보여줘!",
+			null,
+			null,
+			"Honkai, meet us!",
+			"Honkai to ...... show you the power of Sirin and his team!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				513,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			488597,
+			null,
+			"——！！",
+			"——！！",
+			"!!",
+			null
+		],
+		[
+			"msg",
+			488598,
+			null,
+			"把那些怪物赶出我们的家园！！",
+			"奴らをここから追い出せ！！",
+			"그들을 여기서 쫓아내!!",
+			null,
+			null,
+			"Get those monsters out of our homes!",
+			"Get them out of here!"
+		]
+	],
+	"3993": [
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488599,
+			null,
+			"琪亚娜！",
+			"キアナ！",
+			"키아나!",
+			null,
+			null,
+			"Kiana！",
+			"Kiana！"
+		],
+		[
+			"msg",
+			488600,
+			null,
+			"快醒醒！琪亚娜！",
+			"起きろ！キアナ！",
+			"일어나! 키아나!",
+			null,
+			null,
+			"Wake up! Kiana!",
+			"Get up! Kiana!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				12,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488601,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488602,
+			null,
+			"集合了大家的力量，我才能来到你面前。",
+			"みんなが力を貸してくれたおかげで、我はここまで来ることができた。",
+			"모두가 힘을 빌려줘서, 내가 여기까지 올 수 있었다.",
+			null,
+			null,
+			"Gathering the strength of all, I was able to come to you.",
+			"Thanks to everyone's help, I have made it this far."
+		],
+		[
+			"msg",
+			488603,
+			null,
+			"不允许你再睡下去了。",
+			"これ以上、寝かせておけない。",
+			"더 이상, 잠들게 둘 수 없다.",
+			null,
+			null,
+			"You're not allowed to go back to sleep.",
+			"I can't let them sleep any longer."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				12,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488604,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488605,
+			null,
+			"你竭尽全力，哪怕以这种方式挑战崩坏也渴望见到救世主的复苏。",
+			"キアナは全力で崩壊に挑んでいる。我も共に戦いに来たぞ！救世主の復活を待ち望んでいたのだろう！",
+			"키아나가 전력으로 붕괴에 맞서고 있다. 나도 함께 싸우러 왔다! 구세주의 부활을 기다리고 있었겠지!",
+			null,
+			null,
+			"You do your best to challenge Honkai even in this way longing to see the Savior revived.",
+			"Kiana is doing her best to Honkai. I have come to fight with you! They must have been waiting for the return of the Savior!"
+		],
+		[
+			"msg",
+			488606,
+			null,
+			"现在，我就在这。",
+			"今、我はここにいるぞ！",
+			"지금, 나는 여기에 있다!",
+			null,
+			null,
+			"Now, I'm right here.",
+			"I am here now!"
+		],
+		[
+			"msg",
+			488607,
+			null,
+			"即便是这样也不打算睁眼看看么？",
+			"それでも……目を覚ましてくれないのか？",
+			"그래도…… 눈을 뜨지 않는 건가?",
+			null,
+			null,
+			"And even then, you're not going to open your eyes?",
+			"Still ...... won't you wake up?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				12,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488608,
+			null,
+			"……",
+			"……。",
+			"……。",
+			null
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488609,
+			null,
+			"……",
+			"……。",
+			"……。",
+			null
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488610,
+			null,
+			"大家都渴望着英雄的到来。",
+			"誰もがヒーローの登場を待ち望んでいるはずだ。",
+			"모두가 히어로의 등장을 고대하고 있을 것이다.",
+			null,
+			null,
+			"Everyone is eager for the hero.",
+			"Everyone should be eagerly awaiting the arrival of their heroes."
+		],
+		[
+			"msg",
+			488611,
+			null,
+			"特别是在这种末日中，如果能有救世主降临，那该多好。",
+			"これほど危機的な状況こそ、救世主が現れるべきだろう。",
+			"이렇게 위기적인 상황일수록 구세주가 나타나야 할 것이다.",
+			null,
+			null,
+			"Especially in these end times, it would be nice to have a savior come down.",
+			"It is precisely in a situation as critical as this that a savior should appear."
+		],
+		[
+			"msg",
+			488612,
+			null,
+			"自己无法改变的世界，无法打败的敌人，就交给真正的英雄去处理……",
+			"自分では変えられない世界、強大な敵、本物のヒーローに任せればいいと思っていた……。",
+			"자신이 바꿀 수 없는 세계, 강대한 적, 진정한 히어로에게 맡기면 된다고 생각했었다……。",
+			null,
+			null,
+			"The world you can't change, the enemies you can't defeat, leave it to the real heroes ......",
+			"A world I couldn't change, a powerful enemy, I thought I could leave to the real heroes. ......"
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488613,
+			null,
+			"在我处于这样的状态时，你和西琳来了。",
+			"そんな中、キアナとシーリンが救いに来てくれた。",
+			"그런 와중에 키아나와 시린이 구하러 와줬다.",
+			null,
+			null,
+			"While I was in this state, you and Sirin came.",
+			"Then Kiana and Sirin came to the rescue."
+		],
+		[
+			"msg",
+			488614,
+			null,
+			"西琳是光……",
+			"シーリンは光……。",
+			"시린은 빛…….",
+			null,
+			null,
+			"Sirin is the Light ......",
+			"Sirin is light ......."
+		],
+		[
+			"msg",
+			488615,
+			null,
+			"你……",
+			"キアナは……",
+			"키아나는……",
+			null,
+			null,
+			"You ......",
+			"Kiana can be found at ......"
+		],
+		[
+			"msg",
+			488616,
+			null,
+			"你一直是我的救世主。",
+			"我の救世主だ。",
+			"나의 구세주다.",
+			null,
+			null,
+			"You've been my savior.",
+			"He is my savior."
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488617,
+			null,
+			"我可不允许你……就这么丢下一切不管！",
+			"すべてを残して去っていくなんて……我が許さない！",
+			"모든 것을 남겨둔 채 떠나다니…… 용서하지 않겠다!",
+			null,
+			null,
+			"I won t allow you ...... to just leave everything behind!",
+			"I will not allow ...... me to leave everything behind!"
+		],
+		[
+			"msg",
+			488618,
+			null,
+			"咬紧牙关了！",
+			"歯を食いしばれ！",
+			"이를 악물어라!",
+			null,
+			null,
+			"Bite the bullet!",
+			"Clench your teeth!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488619,
+			null,
+			"砰！",
+			"——ドンッ！",
+			"——쿵!",
+			null,
+			null,
+			"Bang!",
+			"--Don't!"
+		],
+		[
+			"msg",
+			488620,
+			null,
+			"——！！",
+			"——！！",
+			"——!!",
+			null
+		],
+		[
+			"bgm",
+			148
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				107,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488621,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488622,
+			null,
+			"终于睁开眼睛了。",
+			"やっと起きたか。",
+			"드디어 깨어났나.",
+			null,
+			null,
+			"Finally opened his eyes.",
+			"Finally, you're awake."
+		],
+		[
+			"msg",
+			488623,
+			null,
+			"要传达给你的话多到数都数不清。",
+			"伝えたいことは山ほどある。",
+			"전할 말이 한두 가지가 아니다.",
+			null,
+			null,
+			"There are more words to convey to you than I can count.",
+			"There is so much to tell."
+		],
+		[
+			"msg",
+			488624,
+			null,
+			"大家都在等着，我们回去吧。",
+			"帰ろう、みんな待ってるから。",
+			"가자, 모두 기다리고 있어.",
+			null,
+			null,
+			"Everyone's waiting. Let's go back.",
+			"Let's go home, we're all waiting for you."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				107,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488625,
+			null,
+			"你真的以为琪亚娜还存在于这里吗。",
+			"キアナがまだここに存在するとでも思っているのか。",
+			"키아나가 아직 여기에 존재한다고 생각하나?",
+			null,
+			null,
+			"Do you really think Kiana still exists here.",
+			"Do you think Kiana still exists here?"
+		],
+		[
+			"msg",
+			488626,
+			null,
+			"人类，你本可以在我苏醒前杀掉我。",
+			"人間、私が目覚める前に殺すことができたはずだ。",
+			"인간, 내가 깨어나기 전에 죽일 수 있었을 텐데.",
+			null,
+			null,
+			"Human, you could have killed me before I awoke.",
+			"Human, you could have killed me before I woke up."
+		],
+		[
+			"msg",
+			488627,
+			null,
+			"真是遗憾。",
+			"残念だったな。",
+			"유감이군.",
+			null,
+			null,
+			"What a shame.",
+			"Too bad."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488628,
+			null,
+			"我在跟琪亚娜说话。",
+			"我はキアナと話しているんだ。",
+			"나는 키아나와 이야기하고 있다.",
+			null,
+			null,
+			"I was talking to Kiana.",
+			"I am talking to Kiana."
+		],
+		[
+			"msg",
+			488629,
+			null,
+			"这里没你的事。",
+			"貴様に用はない。",
+			"네놈에게 할 말은 없다.",
+			null,
+			null,
+			"There's nothing for you here.",
+			"I have no use for you."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				107,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488630,
+			null,
+			"嚯……",
+			"ほう……",
+			"호오……",
+			null,
+			null,
+			"ooh ......",
+			"Law ......"
+		],
+		[
+			"msg",
+			488631,
+			null,
+			"这是你的勇气，还是莽撞呢。",
+			"これはお前の勇気か、それとも虚勢か。",
+			"이것이 네 용기인가, 아니면 허세인가.",
+			null,
+			null,
+			"Is this your courage, or is it recklessness.",
+			"Is this your courage or your bluff?"
+		],
+		[
+			"msg",
+			488632,
+			null,
+			"如果以为能像以前一样，那就大错特错了。",
+			"以前のようになると思っているのなら大間違いだ。",
+			"예전처럼 될 거라고 생각한다면 큰 오산이다.",
+			null,
+			null,
+			"It would be a mistake to think it can be like before.",
+			"If you think it will be like before, you are mistaken."
+		],
+		[
+			"msg",
+			488633,
+			null,
+			"现在我即是崩坏，是给予一切终焉之律者。",
+			"今の私は「崩壊」そのものであり、すべてを終わらせる終焉の律者だ。",
+			"지금의 나는 「붕괴」 그 자체이며, 모든 것을 끝내는 종언의 율자다.",
+			null,
+			null,
+			"Now I am the Honkai, the Herrscher who gives all the end.",
+			"Now I am the Honkai itself, the Herrscher of the End that ends all."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488634,
+			null,
+			"轰隆隆……",
+			"ゴゴゴゴゴゴゴ……",
+			"쿠구구구구구……",
+			null,
+			null,
+			"Rumble ......",
+			"Gogogogogo ......"
+		],
+		[
+			"msg",
+			488635,
+			null,
+			"大地在震动。",
+			"大地が揺れている。",
+			"대지가 흔들리고 있다.",
+			null,
+			null,
+			"The earth is shaking.",
+			"The earth is shaking."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			488636,
+			null,
+			"石像变多了，连崩坏生物也在复苏！",
+			"石像の数が増え始めた……倒したはずの崩壊生物も復活している！？",
+			"석상의 수가 늘어나기 시작했어… 쓰러뜨렸던 붕괴 생물도 부활하고 있다!?",
+			null,
+			null,
+			"The stone statues have become more numerous, and even the Honkai creatures are reviving!",
+			"The number of stone statues has started to increase ...... and Honkai creatures that were supposed to have been defeated are resurrected!"
+		],
+		[
+			"msg",
+			488637,
+			null,
+			"九霄失败了吗……",
+			"九霄は失敗したのか……。",
+			"쿄우샤는 실패한 건가…….",
+			null,
+			null,
+			"Did Kyuushou fail ......",
+			"Kyuushou has failed. ......"
+		],
+		[
+			"speaker",
+			204864
+		],
+		[
+			"portraits",
+			[
+				513,
+				11,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488638,
+			null,
+			"九霄大人……",
+			"九霄様……",
+			"큐쇼님……",
+			null,
+			null,
+			"Lord Kyuushou ......",
+			"Mr. Kyuushou: ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488639,
+			null,
+			"……",
+			"……。",
+			"……。",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				107,
+				0,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488640,
+			null,
+			"人类的救世主。",
+			"人類の救世主。",
+			"인류의 구세주",
+			null,
+			null,
+			"The savior of mankind.",
+			"Savior of mankind."
+		],
+		[
+			"msg",
+			488641,
+			null,
+			"真是难看。",
+			"醜いものだ。",
+			"추한 것.",
+			null,
+			null,
+			"It's really hard to see.",
+			"It's ugly."
+		],
+		[
+			"msg",
+			488642,
+			null,
+			"在人类最需要你的时候，居然在这种地方止步不前。",
+			"人類が最も必要としているときに、こんな場所で立ち止まるのか。",
+			"인류가 가장 필요로 할 때, 이런 곳에서 멈추는가?",
+			null,
+			null,
+			"To stop at a place like this when humanity needs you most.",
+			"Will we stop at a place like this when humanity needs us the most?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488643,
+			null,
+			"你在说什么。",
+			"何を言っている。",
+			"무슨 말을 하는 거야.",
+			null,
+			null,
+			"What are you talking about.",
+			"What are you talking about?"
+		],
+		[
+			"msg",
+			488644,
+			null,
+			"我现在可不是什么救世主。",
+			"今の我は救世主ではない。",
+			"지금의 나는 구세주가 아니다.",
+			null,
+			null,
+			"I'm no savior right now.",
+			"I am not the savior now."
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488645,
+			null,
+			"只是蓬莱寺九霄，琪亚娜的朋友。",
+			"キアナの友達の蓬莱寺九霄だ。",
+			"키아나의 친구 호라이지큐쇼야.",
+			null,
+			null,
+			"Just Houraiji Kyuushou, Kiana's friend.",
+			"This is Kyuushou Houraiji, a friend of Kiana's."
+		],
+		[
+			"msg",
+			488646,
+			null,
+			"我会来这里，只为了叫醒琪亚娜。",
+			"キアナを叩き起こすためだけにここに来た。",
+			"키아나를 깨우기 위해 여기 왔어.",
+			null,
+			null,
+			"I'll come here just to wake up Kiana.",
+			"I came here only to beat Kiana up."
+		],
+		[
+			"msg",
+			488647,
+			null,
+			"世界什么的，自然有合适的人去拯救。",
+			"世界にも、誰にでも、それを救うべき人がいる。",
+			"세상에도, 누구에게나, 구원받을 사람이 있다.",
+			null,
+			null,
+			"The world and all that, naturally, has the right people to save it.",
+			"There is someone in the world, everyone, who should save it."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				107,
+				0,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488648,
+			null,
+			"什么……",
+			"何……？",
+			"뭐……?",
+			null,
+			null,
+			"What ......",
+			"What ......?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488649,
+			null,
+			"你刚睡醒，难怪看不到。",
+			"寝起きなんだ、見えなくても仕方がない。",
+			"갓 잠에서 깨어난 참이야, 안 보여도 어쩔 수 없지.",
+			null,
+			null,
+			"You just woke up, no wonder you can't see it.",
+			"I woke up from sleep, it's no use if I can't see."
+		],
+		[
+			"msg",
+			488650,
+			null,
+			"在那里，明明有这么多的救世主在为了拯救世界而战。",
+			"ここには、世界を救うために戦っている救世主がたくさんいる。",
+			"여기엔 세상을 구하기 위해 싸우는 구세주들이 많이 있어.",
+			null,
+			null,
+			"There, obviously, are so many saviors fighting to save the world.",
+			"There are many saviors here fighting to save the world."
+		],
+		[
+			"speaker",
+			204864
+		],
+		[
+			"portraits",
+			[
+				513,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488651,
+			null,
+			"西琳相信九霄大人，所以！我不会让这些怪物过去妨碍她们的！",
+			"シーリンは九霄様を信じてる！だからこんな怪物に邪魔なんてさせない！",
+			"시린은 큐쇼님을 믿어! 그러니까 이런 괴물이 방해하게 둘 수 없어!",
+			null,
+			null,
+			"Sirin trusts Lord Kyuushou, so! I won't let these monsters go over and get in their way!",
+			"Sirin believes in Kurosawa-sama! That's why she won't let this monster get in her way!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488652,
+			null,
+			"即便不再有强大的力量，只要站到这里，她们就能战斗。",
+			"たとえ大きな力がなくても、みんな戦っている。",
+			"아무리 큰 힘이 없어도, 다들 싸우고 있어.",
+			null,
+			null,
+			"Even if they were no longer powerful, they could fight as long as they stood.",
+			"Even if there is no great power, everyone is fighting."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488653,
+			null,
+			"一只都不要放过！和它们拼了！",
+			"一匹も通すな！",
+			"한 마리도 통과시키지 마!",
+			null,
+			null,
+			"Don't spare a single one! Fight them!",
+			"Don't let any of them through!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488654,
+			null,
+			"跟力量什么的根本就没关系。",
+			"強さなんて関係ない。",
+			"강함 따위는 상관없어.",
+			null,
+			null,
+			"It has nothing to do with power or anything at all.",
+			"Strength doesn't matter."
+		],
+		[
+			"msg",
+			488655,
+			null,
+			"只要为了世界而战，大家都是救世主。",
+			"世界のために戦うのであれば、誰もが救世主だ。",
+			"세상을 위해 싸운다면, 누구나 구세주야.",
+			null,
+			null,
+			"Everyone is a savior as long as they fight for the world.",
+			"Everyone is a savior if they fight for the world."
+		],
+		[
+			"msg",
+			488656,
+			null,
+			"根本就没什么了不起……",
+			"別に特別な事じゃない……。",
+			"별로 특별한 일도 아니야…….",
+			null,
+			null,
+			"It's no big deal at all ......",
+			"It's nothing special. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				107,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488657,
+			null,
+			"不过是普通的人类。",
+			"——普通の人間。",
+			"——평범한 인간.",
+			null,
+			null,
+			"But just ordinary humans.",
+			"--ordinary human beings."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488658,
+			null,
+			"不然呢。",
+			"それに……",
+			"게다가……",
+			null,
+			null,
+			"Or else what.",
+			"It can be found at ......"
+		],
+		[
+			"msg",
+			488659,
+			null,
+			"因为这是她们——人类热爱的家。",
+			"ここは我ら人類が愛する家だから。",
+			"이곳은 우리 인류가 사랑하는 집이니까.",
+			null,
+			null,
+			"Because this is the home they - the humans - love.",
+			"Because this is the home that we, the human race, love."
+		],
+		[
+			"msg",
+			488660,
+			null,
+			"轮不到你们崩坏说三道四。",
+			"貴様ら崩壊にとやかく言われる筋合いはない。",
+			"너희 붕괴 따위가 무슨 상관이란 말인가.",
+			null,
+			null,
+			"It's not your Honkai's turn to say anything.",
+			"I have no right to be bothered by your Honkai."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488661,
+			null,
+			"崩坏所铸造的产物在不断增加，琪亚娜对它的压制也到达极限了。",
+			"崩壊によって生み出された異物は増え続け、キアナのコントロールも限界に達していた。",
+			"붕괴에 의해 생성된 이물은 계속 늘어났고 키아나의 통제도 한계에 다다랐다.",
+			null,
+			null,
+			"The product forged by Honkai was growing, and Kiana's suppression of it was reaching its limits.",
+			"The number of foreign substances created by Honkai continued to increase, and Kiana's control was reaching its limits."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				107,
+				0,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488662,
+			null,
+			"苏醒的时刻到来。",
+			"もうすぐ覚醒する。",
+			"곧 각성할 것이다.",
+			null,
+			null,
+			"The moment of awakening arrives.",
+			"It will awaken soon."
+		],
+		[
+			"msg",
+			488663,
+			null,
+			"该毁灭了，人类。",
+			"滅びの時だ、人類。",
+			"파멸의 시간이다, 인류여.",
+			null,
+			null,
+			"Time to destroy, mankind.",
+			"It is time to perish, mankind."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488664,
+			null,
+			"终究还是无法唤醒你吗，琪亚娜。",
+			"結局起こすことは出来なかったか……キアナ。",
+			"결국 깨우지 못했나……키아나.",
+			null,
+			null,
+			"Couldn't wake you up after all, Kiana.",
+			"You couldn't wake him up after all. ...... Kiana."
+		],
+		[
+			"msg",
+			488665,
+			null,
+			"那就没办法了。",
+			"それなら仕方がない。",
+			"그렇다면 어쩔 수 없지.",
+			null,
+			null,
+			"Then there's nothing to be done.",
+			"Then it can't be helped."
+		],
+		[
+			"msg",
+			488666,
+			null,
+			"如果我说这就是蓬莱寺九霄的救世之道。",
+			"これが蓬莱寺九霄の救世の道だというのなら。",
+			"이것이 호라이즌의 구세의 길이라면.",
+			null,
+			null,
+			"If I say this is the way of salvation for the Houraiji Kyuushou.",
+			"If this is the way of salvation for Houraiji Kyuushou."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"msg",
+			488667,
+			null,
+			"你会原谅我的吧。",
+			"許してほしい。",
+			"용서해 주세요.",
+			null,
+			null,
+			"You'll forgive me, won't you.",
+			"Forgive me."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				107,
+				0,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488668,
+			null,
+			"你要做什么！？",
+			"……何をするつもりだ！",
+			"...뭘 하려는 거야!",
+			null,
+			null,
+			"What are you doing!",
+			"...... what are you going to do!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488669,
+			null,
+			"——嗡！",
+			"——ハァッ！",
+			"—— 하앗!",
+			null,
+			null,
+			"-Buzz!",
+			"-- huh!"
+		],
+		[
+			"bgm",
+			134
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488670,
+			null,
+			"我可不是放任你毁灭地球的可能去冒险的。",
+			"貴様が地球を破壊しようとすることは分かっていた。そして、それを黙って見過ごすわけがない。",
+			"네가 지구를 파괴하려 한다는 건 알고 있었어. 그리고 그걸 가만히 보고만 있을 수는 없지.",
+			null,
+			null,
+			"I'm not letting the possibility of you destroying the planet go to risk.",
+			"We knew that you would try to destroy the earth. And there was no way we would just sit back and let it happen."
+		],
+		[
+			"msg",
+			488671,
+			null,
+			"在这个距离，以最大功率去使用律者力量的话。",
+			"この距離で最大出力の律者の力を使えば……",
+			"이 거리에서 최대 출력의 율자의 힘을 사용하면...",
+			null,
+			null,
+			"At this distance, if you go to use Herrscher power at maximum power.",
+			"If we use the Herrscher's power at maximum output at this distance ......"
+		],
+		[
+			"msg",
+			488672,
+			null,
+			"我们都会被卷入黑洞之中。",
+			"貴様もブラックホールに呑み込まれるはずだ。",
+			"너도 블랙홀에 삼켜질 거야.",
+			null,
+			null,
+			"We're all going to be caught in a black hole.",
+			"You, too, should be swallowed by the black hole."
+		],
+		[
+			"msg",
+			488673,
+			null,
+			"如果你是终焉世界的律者，连同黑洞本身都能击碎的话，那就来吧。",
+			"もし終焉の律者がブラックホールを粉砕できるというのなら、試してみようじゃないか！",
+			"만약 종언의 율자가 블랙홀을 분쇄할 수 있다면, 시험해보자고!",
+			null,
+			null,
+			"If you are the Herrscher of the Final World, along with the black hole itself, then come.",
+			"If Herrscher of the End can smash a black hole, let's give it a try!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				107,
+				0,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488674,
+			null,
+			"呵呵呵……",
+			"ハハハ……。",
+			"하하하....",
+			null,
+			null,
+			"Heh heh heh ......",
+			"Hahaha ......."
+		],
+		[
+			"msg",
+			488675,
+			null,
+			"明明之前还在那怕得瑟瑟发抖。",
+			"以前のお前は恐怖に震えていた。",
+			"예전의 너는 공포에 떨고 있었어.",
+			null,
+			null,
+			"Obviously, he was there earlier, shaking with fear.",
+			"Before, you were trembling with fear."
+		],
+		[
+			"msg",
+			488676,
+			null,
+			"居然敢拼上性命了么。",
+			"よく命を懸けられたものだ。",
+			"잘도 목숨을 걸었군.",
+			null,
+			null,
+			"How dare you put your life on the line.",
+			"How could they risk their lives?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488677,
+			null,
+			"现在也没有任何变化……",
+			"今も何も変わってない……。",
+			"지금도 아무것도 변하지 않았어....",
+			null,
+			null,
+			"Nothing has changed now either ......",
+			"Nothing has changed now. ......"
+		],
+		[
+			"msg",
+			488678,
+			null,
+			"我很害怕。",
+			"怖かった。",
+			"무서웠다.",
+			null,
+			null,
+			"I'm scared.",
+			"I was scared."
+		],
+		[
+			"msg",
+			488679,
+			null,
+			"但我更怕眼睁睁看着你将大家好不容易聚集起来的希望之光熄灭。",
+			"でも、それよりも、ここに集まった希望の光を消してしまうことの方がもっと怖い。",
+			"하지만 그보다, 여기에 모인 희망의 빛을 꺼버리는 게 더 무섭다.",
+			null,
+			null,
+			"But I'm more afraid of watching you extinguish the light of hope that everyone has managed to gather.",
+			"But I am more afraid of extinguishing the light of hope that has gathered here."
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488680,
+			null,
+			"在你想着如何突破黑洞之时，人类定能做好下一次准备。",
+			"貴様がブラックホールをどう突破するか考えている間に、人類はきっと次に備えるだろう。",
+			"네놈이 블랙홀을 어떻게 돌파할지 궁리하는 사이에, 인류는 분명 다음을 준비할 것이다.",
+			null,
+			null,
+			"While you're thinking about how to break out of a black hole, mankind is sure to be ready for the next one.",
+			"While you are thinking about how to break through the black hole, mankind will surely be preparing for the next one."
+		],
+		[
+			"msg",
+			488681,
+			null,
+			"无论多少次，都能将你送回黑暗之中！",
+			"その間——何度でも、闇に還し続ける！",
+			"그동안—— 몇 번이고, 어둠으로 되돌리겠다!",
+			null,
+			null,
+			"No matter how many times it sends you back into the darkness!",
+			"In the meantime - as many times as it takes, we will continue to return to the darkness!"
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488682,
+			null,
+			"这么一想，反而觉得这是最棒的。",
+			"そう考えると、この蓬莱寺九霄様の作戦は最高効率ではないか。",
+			"그렇게 생각하니, 이 호라이지큐쇼님의 작전은 최고 효율이 아닌가.",
+			null,
+			null,
+			"Thinking about it that way, instead, I think it's the best.",
+			"Considering this, this Houraiji Kukuso-sama's strategy is the most efficient."
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488683,
+			null,
+			"比起害怕，兴奋还来不及。",
+			"興奮が恐れを上回っているのを感じる……",
+			"흥분이 공포를 넘어서는 걸 느낀다……",
+			null,
+			null,
+			"More excited than scared.",
+			"Feel the excitement outweigh the fear: ......"
+		],
+		[
+			"msg",
+			488684,
+			null,
+			"就算是我，使出全部力量的话也是能做到的！",
+			"我も全力でやればできるのだ！",
+			"나도 전력으로 하면 할 수 있는 거다!",
+			null,
+			null,
+			"Even I can do it if I use all my strength!",
+			"I can do it too if I give it my all!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488685,
+			null,
+			"巨大的黑洞出现，包围着九霄与终焉律者。",
+			"巨大なブラックホールが出現し、九霄と終焉の律者を取り囲む。",
+			"거대한 블랙홀이 나타나, 큐쇼와 종언의 율자를 에워싼다.",
+			null,
+			null,
+			"A huge black hole appeared and surrounded Kyuushou and the Final Herrscher.",
+			"A huge black hole appears and surrounds Kyuushou and Herrscher of the End."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488686,
+			null,
+			"最大功率——",
+			"最大出力——",
+			"최대 출력——",
+			null,
+			null,
+			"Maximum power -",
+			"Maximum output--"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488687,
+			null,
+			"滋啦……",
+			"ツー……。",
+			"츠…….",
+			null,
+			null,
+			"Zira ......",
+			"Two. ......."
+		],
+		[
+			"msg",
+			488688,
+			null,
+			"在这一瞬间，九霄仿佛听到了另一把声音。",
+			"この瞬間、九霄は声を聞いた。",
+			"이 순간, 큐쇼는 목소리를 들었다.",
+			null,
+			null,
+			"In this instant, Kyuushou seemed to hear another voice.",
+			"At this moment, Kyuushou heard a voice."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204664
+		],
+		[
+			"portraits",
+			[
+				808,
+				0,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488689,
+			null,
+			"你并不是毫无希望。",
+			"まだ希望は残っている。",
+			"아직 희망은 남아 있다.",
+			null,
+			null,
+			"You are not hopeless.",
+			"There is still hope."
+		],
+		[
+			"msg",
+			488690,
+			null,
+			"这个力量的尽头，有接触到崩坏的本源可能性。",
+			"この力の果てに、崩壊の根源と接触する可能性が高い。",
+			"이 힘의 끝에, 붕괴의 근원과 접촉할 가능성이 높다.",
+			null,
+			null,
+			"The end of this power has the possibility of touching the origin of Honkai.",
+			"At the end of this force, it is likely to come into contact with the root of Honkai."
+		],
+		[
+			"msg",
+			488691,
+			null,
+			"那里是两个位面的交界处。",
+			"そこに2つの領域の接点があるはずだ。",
+			"거기에 두 영역의 접점이 있을 것이다.",
+			null,
+			null,
+			"That's where the two realms meet.",
+			"There must be a point of contact between the two areas."
+		],
+		[
+			"bgm",
+			133
+		],
+		[
+			"msg",
+			488692,
+			null,
+			"在那里的话——你能将眼前这个琪亚娜从崩坏中解放出来。",
+			"その場所で——キアナを崩壊から解放することができる。",
+			"그곳에서 ——키아나를 붕괴로부터 해방시킬 수 있다.",
+			null,
+			null,
+			"If you're there - you can free this Kiana in front of you from Honkai.",
+			"In its place - we can free Kiana from Honkai."
+		],
+		[
+			"msg",
+			488693,
+			null,
+			"但如果不小心的话，你自己将会永远迷失其中。",
+			"だが気をつけろ。自身がその空間を永遠に彷徨い続けるリスクを伴う。",
+			"하지만 조심해. 자신이 그 공간을 영원히 방황하게 될 위험을 동반한다.",
+			null,
+			null,
+			"But if you're not careful, you yourself will be lost in it forever.",
+			"But beware. You run the risk of wandering in that space forever."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488694,
+			null,
+			"瓦尔特？",
+			"ヴェルト？",
+			"웰트?",
+			null,
+			null,
+			"Welt？",
+			"Welt？"
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488695,
+			null,
+			"这就是你将力量留下的原因么……",
+			"これが力を残した理由なのか……。",
+			"이것이 힘을 남긴 이유인가…….",
+			null,
+			null,
+			"Is that why you left the power behind ......",
+			"Is this why you left the power. ......"
+		],
+		[
+			"msg",
+			488696,
+			null,
+			"有方法的话，就让我去尝试一下吧。",
+			"1%でも可能性があるのなら、試すしかないだろう！",
+			"1%라도 가능성이 있다면, 시도할 수밖에 없겠지!",
+			null,
+			null,
+			"Let me try it if there is a way.",
+			"If there is even a 1% chance, we will have to try!"
+		],
+		[
+			"msg",
+			488697,
+			null,
+			"反正，已经没什么好顾忌的了！",
+			"とにかく、もう心配はいらない！",
+			"어쨌든, 이제 걱정은 필요 없어!",
+			null,
+			null,
+			"Anyway, there's nothing to worry about anymore!",
+			"Anyway, no more worries!"
+		]
+	],
+	"3994": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488698,
+			null,
+			"——！！",
+			"——！！",
+			"——！！",
+			null
+		],
+		[
+			"msg",
+			488699,
+			null,
+			"蓬莱寺九霄。",
+			"蓬莱寺九霄。",
+			"호라이지큐쇼。",
+			null,
+			null,
+			"Houraiji Kyuushou.",
+			null
+		],
+		[
+			"msg",
+			488700,
+			null,
+			"你既然说自己是救世主。",
+			"あなたは何をもって救世主と名乗るのだろう。",
+			"너는 무엇을 가지고 구세주라 자칭하는 것일까.",
+			null,
+			null,
+			"Since you claim to be a savior.",
+			"What do you call yourself a savior?"
+		],
+		[
+			"msg",
+			488701,
+			null,
+			"那么，你又是凭着怎么样的理念去战斗呢。",
+			"どんな考えを持って戦いに臨むのか。",
+			"어떤 생각을 가지고 싸움에 임하는가.",
+			null,
+			null,
+			"So what philosophy do you fight with.",
+			"What thoughts do you have about the battle?"
+		],
+		[
+			"msg",
+			488702,
+			null,
+			"……",
+			"……。",
+			"……。",
+			null
+		],
+		[
+			"msg",
+			488703,
+			null,
+			"一定，是为了将希望散播出去。",
+			"きっと、みんなに希望を届けるため。",
+			"분명히, 모두에게 희망을 전하기 위해서.",
+			null,
+			null,
+			"Definitely, it's about spreading hope around.",
+			"Surely, to bring hope to everyone."
+		],
+		[
+			"msg",
+			488704,
+			null,
+			"只要能唤醒大家心中的光，那么救世主就不再是必须的。",
+			"人々の心の中にある光を呼び覚ますことができれば、救世主はもう必要ない。",
+			"사람들 마음속에 있는 빛을 깨울 수 있다면, 구세주는 더 이상 필요 없어.",
+			null,
+			null,
+			"As long as it awakens the light in everyone's heart, then the Savior is no longer necessary.",
+			"If we can awaken the light in people's hearts, we no longer need a savior."
+		],
+		[
+			"msg",
+			488705,
+			null,
+			"而这一定不是什么虚假的鼓励。",
+			"そして、これは偽りのない本心だ。",
+			"그리고 이것은 거짓 없는 진심이다.",
+			null,
+			null,
+			"And it must not be some kind of false encouragement.",
+			"And I mean this without pretense."
+		],
+		[
+			"msg",
+			488706,
+			null,
+			"是能够让人敢于向前，亦或是选择逃跑的勇气。",
+			"前に進むことも、逃げることも、選択する勇気が必要だ。",
+			"앞으로 나아가는 것도, 도망치는 것도, 선택할 용기가 필요해.",
+			null,
+			null,
+			"It is the courage that allows one to dare to move forward, or to choose to run away.",
+			"We must have the courage to choose to move forward or to run away."
+		],
+		[
+			"msg",
+			488707,
+			null,
+			"能做到这点的话，“我”也就不是必须的了。",
+			"それができれば「我」は必要ない。",
+			"그것이 가능하다면「나」는 필요 없어.",
+			null,
+			null,
+			"If you can do that, \"I\" is not necessary.",
+			"If we can do that, there is no need for \"self\"."
+		],
+		[
+			"msg",
+			488708,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			488709,
+			null,
+			"在光芒中，琪亚娜与【崩坏体】分离。",
+			"光の中、キアナは【崩壊体】から切り離される。",
+			"빛 속에서, 키아나는 【붕괴체】로부터 분리된다.",
+			null,
+			null,
+			"In the light, Kiana separated from [Honkai].",
+			"In the light, Kiana is detached from the [Honkai]."
+		],
+		[
+			"msg",
+			488710,
+			null,
+			"仅留下一具脆弱的石像，在众人的围攻下化作尘埃。",
+			"もろい石像を1体だけ残し、救世主たちの包囲網ですべてが塵と化した。",
+			"부서지기 쉬운 석상 하나만을 남기고, 구세주들의 포위망 속에서 모든 것이 먼지로 변했다.",
+			null,
+			null,
+			"Only a fragile stone statue was left behind, turning to dust under the crowd's siege.",
+			"Only one fragile stone statue remained, and all were reduced to dust by the Saviors' siege."
+		],
+		[
+			"msg",
+			488711,
+			null,
+			"这个世界恢复平静。",
+			"世界は平和を取り戻した。",
+			"세상은 평화를 되찾았다.",
+			null,
+			null,
+			"Peace is restored to this world.",
+			"The world has regained peace."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				112,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			488712,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				112,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			488713,
+			null,
+			"欢迎回来，琪亚娜。",
+			"おかえり、キアナ。",
+			"다녀왔어, 키아나.",
+			null,
+			null,
+			"Welcome back, Kiana.",
+			"Welcome back, Kiana."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				true
+			],
+			[
+				112,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			488714,
+			null,
+			"真亏你做出这么乱来的事。",
+			"こんな無茶なことするなんて思わなかった。",
+			"이런 무모한 짓을 할 줄은 몰랐어.",
+			null,
+			null,
+			"It's a shame you did something so messed up.",
+			"I never thought I would do something so reckless."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				112,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			488715,
+			null,
+			"我也不知道能这样，本来只是想争取到最后一刻，不行就把你拉到黑洞里继续说服。",
+			"我もこんなことができるなんて思わなかった。とにかくギリギリまで戦って、どうしようもなければ延々ブラックホールに引き摺り込み続けるつもりだった。",
+			"나도 내가 이런 일을 할 수 있을 줄은 몰랐어. 어쨌든 한계까지 싸우고, 어쩔 수 없으면 영원히 블랙홀으로 끌어들일 생각이었지.",
+			null,
+			null,
+			"I didn't know it could be like this, I was just going to fight until the last minute, and if it didn't work, I'd pull you into a black hole and keep convincing.",
+			"I didn't think I could do this either. I was going to fight until the very last minute, and if there was nothing I could do, I was going to keep dragging myself into the black hole."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				true
+			],
+			[
+				112,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			488716,
+			null,
+			"是笨蛋。",
+			"バカだなあ、九霄は。",
+			"바보 같아, 큐쇼는.",
+			null,
+			null,
+			"It's stupid.",
+			"You are an idiot, Kyuushou."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				8,
+				false
+			],
+			[
+				112,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			488717,
+			null,
+			"要你说……",
+			"キアナにだけは言われたくない！",
+			"키아나한테만큼은 듣고 싶지 않아!",
+			null,
+			null,
+			"If you say so ......",
+			"I don't want Kiana to be the only one to say that!"
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				112,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			488718,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			488719,
+			null,
+			"好安静。",
+			"静かだ。",
+			"조용하다.",
+			null,
+			null,
+			"So quiet.",
+			"Quiet."
+		],
+		[
+			"msg",
+			488720,
+			null,
+			"大家也都消失了。",
+			"みんないなくなった。",
+			"모두 사라졌다.",
+			null,
+			null,
+			"Everyone disappeared too.",
+			"Everyone is gone."
+		],
+		[
+			"msg",
+			488721,
+			null,
+			"我是又一次拯救世界了吗。",
+			"我はもう一度、世界を救うことができただろうか。",
+			"내가 한 번 더 세상을 구할 수 있었을까.",
+			null,
+			null,
+			"Am I saving the world again.",
+			"Could I have saved the world once again?"
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				false
+			],
+			[
+				112,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			488722,
+			null,
+			"又……",
+			"また……",
+			"또……",
+			null,
+			null,
+			"Also ......",
+			"Also ......"
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				112,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			488723,
+			null,
+			"原来，我曾经经历过这样的事。",
+			"以前にも似たような経験をしたことがある。",
+			"예전에도 비슷한 경험을 한 적이 있다.",
+			null,
+			null,
+			"Turns out, I've been through this before.",
+			"I have had similar experiences before."
+		],
+		[
+			"msg",
+			488724,
+			null,
+			"为什么会忘掉。",
+			"なぜ忘れていたのだろう。",
+			"왜 잊고 있었을까.",
+			null,
+			null,
+			"Why it's forgettable.",
+			"How could I have forgotten?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				112,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			488725,
+			null,
+			"那时候的你记得的话会沾沾自喜吧。",
+			"もし当時のことを覚えていたら、あんたはいつでも自惚れちゃうじゃない。",
+			"만약 그때 일을 기억하고 있었다면, 너는 맨날 자만하게 될 테니까.",
+			null,
+			null,
+			"You would have gloated then if you remembered.",
+			"If you remember those days, you will always be smug."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				112,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			488726,
+			null,
+			"说得也是。",
+			"そ、そんなことはない！",
+			"그, 그런 건 아니야!",
+			null,
+			null,
+			"Fair enough.",
+			"That's not true!"
+		],
+		[
+			"msg",
+			488727,
+			null,
+			"看着那些人拼尽全力战斗的样子，我才发现。",
+			"全力で戦うみんなを見て、我は気づけた。",
+			"전력을 다해 싸우는 모두를 보고, 나는 깨달을 수 있었다.",
+			null,
+			null,
+			"Watching those people fight as hard as they could, I realized.",
+			"Seeing everyone fighting with all their might made me realize that I was not alone."
+		],
+		[
+			"msg",
+			488728,
+			null,
+			"其实拯救世界，也没什么了不起的。",
+			"世界を救うのは、本当は大したことないんだって。",
+			"세상을 구하는 건, 사실 별거 아니라고.",
+			null,
+			null,
+			"Actually saving the world is no big deal.",
+			"He said that saving the world is not really a big deal."
+		],
+		[
+			"msg",
+			488729,
+			null,
+			"不过是一群人为了自己热爱的一切付出努力。",
+			"愛する全てのために、努力を惜しまない人が集まっている。",
+			"사랑하는 모든 이를 위해, 노력을 아끼지 않는 사람들이 모여 있어.",
+			null,
+			null,
+			"It's just a group of people putting in the effort for everything they love.",
+			"It is a group of people who are willing to work hard for everything they love."
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				112,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			488730,
+			null,
+			"顺便赶跑了入侵者而已。",
+			"そのついでに、崩壊を撃退しただけだ。",
+			"그 덤으로, 붕괴를 격퇴했을 뿐이야.",
+			null,
+			null,
+			"Just chased off the intruder in the meantime.",
+			"And while we were at it, we just fought off Honkai."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				112,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			488731,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				112,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			488732,
+			null,
+			"啊，在发光。",
+			"なにこれ、光ってる。",
+			"이게 뭐야, 빛나고 있어.",
+			null,
+			null,
+			"Ah, it's glowing.",
+			"What's this? It's glowing."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				112,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			488733,
+			null,
+			"那是九霄你心中的希望之光。",
+			"それは、あんたの心の中にある希望の光。",
+			"그건, 네 마음속에 있는 희망의 빛이야.",
+			null,
+			null,
+			"That is the light of hope in your heart in Kyuushou.",
+			"It's a ray of hope in your heart."
+		],
+		[
+			"msg",
+			488734,
+			null,
+			"有它在的话，你将不会在迷失前路。",
+			"これがあれば、もう道に迷うこともないでしょ。",
+			"이것만 있으면, 이제 길을 잃는 일도 없겠지.",
+			null,
+			null,
+			"You will not lose your way with it.",
+			"With this, you'll never get lost again."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				112,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			488735,
+			null,
+			"是吗。",
+			"ああ。",
+			"아아.",
+			null,
+			null,
+			"Is it.",
+			"Oh."
+		],
+		[
+			"bg",
+			"CG10341"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488736,
+			null,
+			"那听起来，现在你比我更需要它。",
+			"それなら、今の我よりもキアナに必要だ。",
+			"그렇다면, 지금의 나보다도 키아나에게 필요해.",
+			null,
+			null,
+			"Then it sounds like you need it more than I do right now.",
+			"Then Kiana needs it more than I do now."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"msg",
+			488737,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"msg",
+			488738,
+			null,
+			"拿去吧。",
+			"持っていこう。",
+			"가지고 가자.",
+			null,
+			null,
+			"Take it.",
+			"Let's take it with us."
+		],
+		[
+			"msg",
+			488739,
+			null,
+			"拯救完世界，也该来拯救你了。",
+			"世界を救ったら、今度はキアナを救おう。",
+			"세상을 구했다면, 이번엔 키아나를 구하자.",
+			null,
+			null,
+			"After saving the world, it's time to save you.",
+			"After we save the world, we will now save Kiana."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"msg",
+			488740,
+			null,
+			"顺序反了吧。",
+			"それ、順番が逆じゃない？",
+			"그거, 순서가 반대 아니야?",
+			null,
+			null,
+			"It's in reverse order.",
+			"Isn't that the other way around?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"msg",
+			488741,
+			null,
+			"你也该知道自己有多麻烦。",
+			"キアナも自分の状況がどうなっているのか、よく知っておくべきだ。",
+			"키아나도 자신의 상황이 어떻게 돌아가는지 잘 알아둬야 해.",
+			null,
+			null,
+			"And you should know how much trouble you're in.",
+			"Kiana should know exactly what is going on with her situation."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"msg",
+			488742,
+			null,
+			"但只属于我的救世主，还轮不到你来做哦。",
+			"もし、私の救世主になってくれるとしても、まだ九霄の番じゃないよ。",
+			"만약, 내 구세주가 되어준다 해도, 아직 큐쇼 차례는 아니야.",
+			null,
+			null,
+			"But it's not your turn to be the savior of only me. Oh.",
+			"Even if you were to be my savior, it's not Kyuushou's turn yet."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"msg",
+			488743,
+			null,
+			"谁管你。",
+			"誰がキアナのことを気にかけてあげられるのか。",
+			"누가 키아나를 신경 써 줄 수 있겠어.",
+			null,
+			null,
+			"Who cares.",
+			"Who can care for Kiana?"
+		],
+		[
+			"bg",
+			"black"
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488744,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488745,
+			null,
+			"我一直觉得，救世主九霄对于大家来说是必须的。",
+			"この蓬莱寺九霄様はみんなに必要とされる救世主だ。",
+			"이 호라이지 큐쇼 님은 모두에게 필요한 구세주야.",
+			null,
+			null,
+			"I've always felt that Savior Kyuushou is a must for everyone.",
+			"This Houraiji Kyuushou-sama is the savior that everyone needs."
+		],
+		[
+			"msg",
+			488746,
+			null,
+			"身为救世主的我也都消沉下去的话，那更不可能有人能够坚持下去。",
+			"救世主である我まで落ち込んでいたら、誰も耐えられないじゃないか。",
+			"구세주인 내가까지 우울해하면, 아무도 견딜 수 없잖아.",
+			null,
+			null,
+			"If I, as the savior, am depressed, it's even more unlikely that anyone will be able to keep going.",
+			"If even I, the savior of the world, were depressed, no one would be able to stand it."
+		],
+		[
+			"msg",
+			488747,
+			null,
+			"不是这样的。",
+			"そうだろう。",
+			"그렇지?",
+			null,
+			null,
+			"It's not like that.",
+			"I'm sure you're right."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488748,
+			null,
+			"稍微轻松点了？",
+			"少しは楽になった？",
+			"좀 나아졌어?",
+			null,
+			null,
+			"A little easier?",
+			"Feeling a little better?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488749,
+			null,
+			"是有点空虚了。",
+			"ああ。虚しさは残ってるけど。",
+			"아아. 허전함은 남아있지만.",
+			null,
+			null,
+			"It's a little empty.",
+			"Oh. The emptiness remains, though."
+		],
+		[
+			"msg",
+			488750,
+			null,
+			"算了。",
+			"気にする必要はない。",
+			"신경 쓸 필요 없어.",
+			null,
+			null,
+			"Forget it.",
+			"Don't worry about it."
+		],
+		[
+			"msg",
+			488751,
+			null,
+			"这里真的好安静……",
+			"ここは本当に静かだ……。",
+			"여긴 정말 조용해…….",
+			null,
+			null,
+			"It's really quiet here ......",
+			"It's really quiet here. ......"
+		],
+		[
+			"portraits",
+			[
+				70,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488752,
+			null,
+			"琪亚娜。",
+			"キアナ。",
+			"키아나.",
+			null,
+			null,
+			"Kiana。",
+			"Kiana。"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488753,
+			null,
+			"嗯？",
+			"うん？",
+			"응?",
+			null,
+			null,
+			"Hmm?",
+			"Hm?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488754,
+			null,
+			"我们会来带你回家的。",
+			"我らがお主を家に連れて帰る。",
+			"우리가 너를 집으로 데려가겠다.",
+			null,
+			null,
+			"We'll come and take you home.",
+			"We will bring our Lord home."
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488755,
+			null,
+			"不是以毫无防备的状态。",
+			"もちろん、無防備な状態ではない。",
+			"물론, 무방비 상태로는 아니다.",
+			null,
+			null,
+			"Not in a defenseless state.",
+			"Of course, it is not unprotected."
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488756,
+			null,
+			"而是带着绝对胜利的自信，来接你。",
+			"むしろ、絶対的な勝利の確信を持って、迎えに行く。",
+			"오히려, 절대적인 승리의 확신을 가지고, 맞이하러 가겠다.",
+			null,
+			null,
+			"Rather, it comes to you with the confidence of absolute victory.",
+			"Rather, we go for them with the absolute certainty of victory."
+		],
+		[
+			"msg",
+			488757,
+			null,
+			"等我们。",
+			"我らを待っていろ。",
+			"우리를 기다려라.",
+			null,
+			null,
+			"Wait for us.",
+			"Wait for us."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				6,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488758,
+			null,
+			"你们的话，一定办得到的。",
+			"うん。あんたたちならきっとできる。",
+			"응. 너희들이라면 분명 할 수 있어.",
+			null,
+			null,
+			"I'm sure you guys can do it.",
+			"Yes, you can do it. I'm sure you guys can do it."
+		]
+	],
+	"3995": [
+		[
+			"speaker",
+			204618
+		],
+		[
+			"bg",
+			"CG10283"
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488759,
+			null,
+			"唔……",
+			"ううん……",
+			"으음……",
+			null,
+			null,
+			"Well ......",
+			"Unn......"
+		],
+		[
+			"msg",
+			488760,
+			null,
+			"九霄大人从深渊的梦境中苏醒了吗！",
+			"九霄様は深淵の底から蘇ったのか！？",
+			"큐쇼님은 심연의 바닥에서 부활했나!?",
+			null,
+			null,
+			"Has Lord Kyuushou awakened from his dream of the abyss!",
+			"Did Kyuushou-sama come back from the depths of the abyss!"
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				30131,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			488761,
+			null,
+			"九霄也醒了！",
+			"九霄も目が覚めたみたいです！",
+			"큐쇼도 눈을 뜬 것 같아요!",
+			null,
+			null,
+			"Kyuushou also woke up!",
+			"Kyuushou seems to have woken up!"
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				30131,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			488762,
+			null,
+			"呜，虽然你平时总是喜欢捣乱，但一听不到你声音了还是很寂寞的。",
+			"うーん、普段から大騒ぎしているだけに、声が聞こえなくなると寂しいものですね。",
+			"음, 평소에 떠들썩하게 굴다 보니, 목소리가 들리지 않으니 쓸쓸하네요.",
+			null,
+			null,
+			"Oooh, even though you usually always like to make a mess, it's still lonely once I don't hear your voice anymore.",
+			"Hmmm...it's sad when you don't hear their voices because they are usually so fussy."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				8,
+				false
+			],
+			[
+				30131,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			488763,
+			null,
+			"有必要一醒来就说教么！？",
+			"目が覚めた直後に説教するなんて酷くない！？",
+			"막 잠에서 깨자마자 잔소리하다니 너무하지 않아!?",
+			null,
+			null,
+			"Is it necessary to wake up and preach!",
+			"It's not terrible to preach right after you wake up!"
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				30131,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			488764,
+			null,
+			"……",
+			"……。",
+			"……。",
+			null
+		],
+		[
+			"msg",
+			488765,
+			null,
+			"菲米莉丝，空间站上有可以支持我使用律者力量的区域么。",
+			"フェミリス、どこかに律者の力をサポートしてくれるエリアはないか？",
+			"페미리스, 어딘가에 율자의 힘을 지원해 줄 구역은 없나?",
+			null,
+			null,
+			"Femiris, is there an area on the space station that can support my use of Herrscher power.",
+			"Femiris, is there any area somewhere that could support the power of Herrscher?"
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				true
+			],
+			[
+				30131,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			488766,
+			null,
+			"这种地方怎么可能有啦！",
+			"そんな場所はありませんよ！？",
+			"그런 곳은 없어요!?",
+			null,
+			null,
+			"How can a place like this have a la!",
+			"There is no such place!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				false
+			],
+			[
+				30131,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			488767,
+			null,
+			"说得也是……",
+			"そうか……。",
+			"그렇구나…….",
+			null,
+			null,
+			"Fair enough ......",
+			"I see. ......."
+		],
+		[
+			"msg",
+			488768,
+			null,
+			"那关于崩坏本源的事……",
+			"崩壊の根源について……。",
+			"붕괴의 근원에 대하여……。",
+			null,
+			null,
+			"That about the Honkai Origin ......",
+			"On the Roots of Honkai. ......"
+		],
+		[
+			"msg",
+			488769,
+			null,
+			"我有在意的事情。",
+			"気になることがあるんだ。",
+			"신경 쓰이는 게 있어.",
+			null,
+			null,
+			"I have things I care about.",
+			"I'm curious about something."
+		]
+	],
+	"3996": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488770,
+			null,
+			"守护，以誓约为名。",
+			"守る。誓約の名のもとに。",
+			"지킨다. 서약의 이름으로.",
+			null,
+			null,
+			"Guardianship, by oath.",
+			"Protect. In the name of the covenant."
+		],
+		[
+			"msg",
+			488771,
+			null,
+			"我……本应保护她们才对。",
+			"あたくしは……彼女たちを守るはずだったわ。",
+			"저는…… 그녀들을 지켜야 했는데요.",
+			null,
+			null,
+			"I ...... was supposed to protect them.",
+			"I was supposed to ...... protect them."
+		],
+		[
+			"msg",
+			488772,
+			null,
+			"那是我的责任。",
+			"これはあたくしの責任よ。",
+			"이것은 제 책임입니다.",
+			null,
+			null,
+			"That's my responsibility.",
+			"This is my fault."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488773,
+			null,
+			"……",
+			"……。",
+			"……。",
+			null
+		],
+		[
+			"bg",
+			"CG10304"
+		],
+		[
+			"msg",
+			488774,
+			null,
+			"很快就到崩坏源所在的区域了。",
+			"もうすぐ崩壊の発生源とみられる場所に到着するわ。",
+			"곧 붕괴의 발생지로 보이는 장소에 도착할 거야.",
+			null,
+			null,
+			"Soon it was time to get to the area where the source of the collapse was located.",
+			"We'll soon arrive at the likely source of the collapse."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488775,
+			null,
+			"看了看四周，没有人跟过来。",
+			"周りを見渡しても、誰もついて来ていない。",
+			"주변을 둘러봐도, 아무도 따라오지 않았다.",
+			null,
+			null,
+			"Looking around, no one followed.",
+			"I looked around and no one was following me."
+		],
+		[
+			"msg",
+			488776,
+			null,
+			"这样反而松了一口气。",
+			"却ってホッとした。",
+			"오히려 안심이 됐다.",
+			null,
+			null,
+			"This was a relief instead.",
+			"I was relieved to hear that."
+		],
+		[
+			"bgm",
+			130
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488777,
+			null,
+			"好怪。",
+			"おかしいわね。",
+			"이상하네.",
+			null,
+			null,
+			"So weird.",
+			"That's funny."
+		],
+		[
+			"msg",
+			488778,
+			null,
+			"该警惕的难道不是这里面的崩坏生物吗。",
+			"本来ここで警戒すべきは、崩壊生物なのに。",
+			"여기서 경계해야 할 건 붕괴 생물인데.",
+			null,
+			null,
+			"Isn't it the crashing creatures in here that should be wary.",
+			"What should be alarming here, though, is the disintegrating organisms."
+		],
+		[
+			"msg",
+			488779,
+			null,
+			"我居然反过来警惕有自己人跟过来……",
+			"あたくしは仲間がついてくることを警戒している……。",
+			"아타쿠시는 동료들이 따라오는 걸 경계하고 있어…….",
+			null,
+			null,
+			"I'm actually on the flip side of alert for one of my own to follow me ......",
+			"I am wary of my friends following me. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488780,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488781,
+			null,
+			"变了的人……是我。",
+			"変わってるわね……あたくし。",
+			"변했네…… 아타쿠시.",
+			null,
+			null,
+			"The changed man ...... is me.",
+			"It's so strange. ...... I'm so sorry."
+		],
+		[
+			"msg",
+			488782,
+			null,
+			"已经搞不懂了。",
+			"……本当に理解できないわ。",
+			"……정말 이해할 수 없어.",
+			null,
+			null,
+			"It's already confusing.",
+			"I really don't understand ......."
+		],
+		[
+			"portraits",
+			[
+				413,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488783,
+			null,
+			"塞西莉亚，琪亚娜……",
+			"セシリア、キアナ……。",
+			"세실리아, 키아나…….",
+			null,
+			null,
+			"Cecilia, Kiana ......",
+			"Cecilia, Kiana. ......."
+		],
+		[
+			"msg",
+			488784,
+			null,
+			"天命，还有女武神，就这么存在下去真的没问题吗。",
+			"天命も、戦乙女も、このままで本当にいいのかしら。",
+			"천명도, 전처녀도, 이대로 정말 괜찮은 걸까.",
+			null,
+			null,
+			"Is it really okay for Divine Order, and Valkyries, to just exist.",
+			"I really wonder if the heavenly life and the war maidens will stay as they are."
+		]
+	],
+	"3997": [
+		[
+			"bgm",
+			130
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488785,
+			null,
+			"这里就是崩坏源区域。",
+			"ここが崩壊の発生源ね。",
+			"여기가 붕괴의 발생원이네.",
+			null,
+			null,
+			"This is the Honkai source area.",
+			"This is where Honkai originated."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488786,
+			null,
+			"咕噜噜噜噜……",
+			"グゥオオオオオォ……",
+			"그우오오오오오……",
+			null,
+			null,
+			"Guru Guru Guru ......",
+			"Guwooooooooo ......"
+		],
+		[
+			"msg",
+			488787,
+			null,
+			"在森林深处，一具如同石像的怪物在那发出不详的光。",
+			"森の奥深く、石像のような怪物が得体の知れない光を放っている。",
+			"숲 깊은 곳에, 석상 같은 괴물이 정체 모를 빛을 내뿜고 있다.",
+			null,
+			null,
+			"Deep in the forest, a monster like a stone statue was there emitting an unearthly light.",
+			"Deep in the forest, a stone statue-like monster emits an unidentifiable light."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488788,
+			null,
+			"就是那家伙吗。",
+			"あいつか。",
+			"그 녀인가.",
+			null,
+			null,
+			"Is that the guy.",
+			"That guy."
+		],
+		[
+			"msg",
+			488789,
+			null,
+			"能感觉到律者般的压迫力……不会错的。",
+			"律者のような圧迫感……間違いないわ。",
+			"율자 같은 압박감…… 틀림없어.",
+			null,
+			null,
+			"Can feel Herrscher like oppressive force ...... can not be wrong.",
+			"I bet you're as oppressive ...... as Herrscher."
+		],
+		[
+			"msg",
+			488790,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			488791,
+			null,
+			"就是为了消灭这样的敌人，才有了我们天命。",
+			"あいつらを滅ぼすために、あたくしたち天命が存在するのよ。",
+			"그 녀석들을 멸망시키기 위해, 아타쿠시 천명이 존재하는 거야.",
+			null,
+			null,
+			"It is to destroy such an enemy that we have Schicksal.",
+			"Our Schicksal exists to destroy them."
+		],
+		[
+			"msg",
+			488792,
+			null,
+			"也正是为了让更多的人类远离这样的灾祸。",
+			"災禍からより多くの人間を守るためでもあるわ。",
+			"재앙으로부터 더 많은 인간을 지키기 위해서도 있어.",
+			null,
+			null,
+			"It is also to keep more humans away from such plagues.",
+			"It's also to protect more humans from the calamity."
+		],
+		[
+			"msg",
+			488793,
+			null,
+			"女武神才开始了她们的战斗。",
+			"そうして戦乙女たちの戦いが始まった。",
+			"그렇게 전투여신들의 싸움이 시작되었다.",
+			null,
+			null,
+			"It was only then that the Valkyries began their battle.",
+			"And so the battle of the war maidens began."
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488794,
+			null,
+			"但是……",
+			"けど……。",
+			"하지만…….",
+			null,
+			null,
+			"But ......",
+			"But see ......."
+		],
+		[
+			"msg",
+			488795,
+			null,
+			"现在就先由我来替你们铺平前方的路吧。",
+			"とりあえず、あたくしが道を切り開くしかないわ。",
+			"일단, 아타쿠시가 길을 열어야겠어.",
+			null,
+			null,
+			"Now let me pave the way ahead for you first.",
+			"For now, we have to make our own way."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488796,
+			null,
+			"很意外的感觉不到恐惧。",
+			"意外にも、全くと言っていいほど恐怖を感じない。",
+			"의외로, 전혀라고 해도 좋을 만큼 공포를 느끼지 않아.",
+			null,
+			null,
+			"Quite unexpectedly no fear was felt.",
+			"Surprisingly, I feel no fear at all."
+		],
+		[
+			"msg",
+			488797,
+			null,
+			"即便感觉到可能会因此死去，也完全不害怕。",
+			"死ぬかもしれないという可能性は否定できないものの、まったく怖くない。",
+			"죽을지도 모른다는 가능성은 부정할 수 없지만, 전혀 무섭지 않아.",
+			null,
+			null,
+			"Even when it feels like you might die as a result, you're not scared at all.",
+			"Although the possibility that I might die cannot be ruled out, I am not afraid at all."
+		],
+		[
+			"msg",
+			488798,
+			null,
+			"我一定是哪里变得奇怪。",
+			"どこか変になってしまったのだろう。",
+			"뭔가 이상해져 버린 걸까.",
+			null,
+			null,
+			"I must be getting weird somewhere.",
+			"Something must have gone wrong."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488799,
+			null,
+			"就像是渴望着在战斗中死去的狂战士。",
+			"戦場で死にたがっている狂戦士のようね。",
+			"전장에서 죽고 싶어하는 광전사 같네.",
+			null,
+			null,
+			"Like a berserker eager to die in battle.",
+			"You sound like a mad warrior who wants to die on the battlefield."
+		],
+		[
+			"msg",
+			488800,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"portraits",
+			[
+				413,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488801,
+			null,
+			"不可能吧~",
+			"もうそろそろ……限界かしら……",
+			"이제 곧…… 한계인 걸까……",
+			null,
+			null,
+			"That's impossible.",
+			"I think it's time to ...... limit ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488802,
+			null,
+			"这绝非是轻松的战斗。",
+			"決して楽な戦いではなかった。",
+			"결코 쉬운 싸움이 아니었다.",
+			null,
+			null,
+			"This is by no means an easy fight.",
+			"It was by no means an easy fight."
+		],
+		[
+			"msg",
+			488803,
+			null,
+			"但我也不打算在这战死。",
+			"しかし、ここでも戦死するつもりはない。",
+			"하지만 여기서 전사할 생각은 없다.",
+			null,
+			null,
+			"But I don't intend to die in battle here either.",
+			"But we are not going to die in battle here either."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488804,
+			null,
+			"这都是为了守护塞西莉亚，守护那些女武神们。",
+			"セシリアと、戦乙女たちを守るため。",
+			"세실리아와, 전투여신들을 지키기 위해.",
+			null,
+			null,
+			"It's all about guarding Cecilia, guarding the valkyries.",
+			"To protect Cecilia and the war maidens."
+		],
+		[
+			"msg",
+			488805,
+			null,
+			"犹大的誓约，我们上吧。",
+			"誓約の十字架、まだやれるわよね。",
+			"서약의 십자가, 아직 할 수 있겠지.",
+			null,
+			null,
+			"Judas Vow, let's get on it.",
+			"Cross of Covenant, you can still do it."
+		]
+	],
+	"3998": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488806,
+			null,
+			"在犹大的攻击下，石像开始破碎。",
+			"誓約の攻撃で石像は崩れ始めた。",
+			"서약의 공격으로 석상이 무너지기 시작했다.",
+			null,
+			null,
+			"The stone statue began to break under Judas' attack.",
+			"The stone statues began to crumble under the attack of the pledge."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488807,
+			null,
+			"我……我做到了。",
+			"あたくし……やったわよ……。",
+			"아타쿠시…… 해냈어…….",
+			null,
+			null,
+			"I ...... I did.",
+			"I did ....... ......"
+		],
+		[
+			"portraits",
+			[
+				413,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488808,
+			null,
+			"赶在有人受伤前，成功解决它了！",
+			"なんとか怪我人が出る前に終わらせることができた。",
+			"간신히 부상자가 나오기 전에 끝낼 수 있었다.",
+			null,
+			null,
+			"Managed to get rid of it before anyone got hurt!",
+			"We managed to finish before anyone was injured."
+		],
+		[
+			"msg",
+			488809,
+			null,
+			"这么一来……",
+			"これで……。",
+			"이걸로…….",
+			null,
+			null,
+			"So much for ......",
+			"You can now go to ......."
+		],
+		[
+			"msg",
+			488810,
+			null,
+			"这么一来的话，圣芙蕾雅被毁的命运就……",
+			"これで、聖フレイヤの運命は……",
+			"이걸로, 성 프레이야의 운명은……",
+			null,
+			null,
+			"In that case, the fate of St. Freya's destruction is ......",
+			"Now the fate of St. Freya's is in the balance: ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488811,
+			null,
+			"不对劲。",
+			"おかしい。",
+			"이상해.",
+			null,
+			null,
+			"It's not right.",
+			"Funny."
+		],
+		[
+			"msg",
+			488812,
+			null,
+			"我原本应该在森林里。",
+			"森の中にいるはずだった。",
+			"숲 속에 있어야 했는데.",
+			null,
+			null,
+			"I was supposed to be in the forest.",
+			"They were supposed to be in the woods."
+		],
+		[
+			"msg",
+			488813,
+			null,
+			"然而，现在这里却是——",
+			"しかし今、この場所は—。",
+			"하지만 지금, 이 장소는 —.",
+			null,
+			null,
+			"And yet, here now is--",
+			"But now, this place is -."
+		],
+		[
+			"bgm",
+			130
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488814,
+			null,
+			"雪山。",
+			"雪山。",
+			"설산.",
+			null,
+			null,
+			"Snowmass.",
+			null
+		],
+		[
+			"msg",
+			488815,
+			null,
+			"为什么会变成在这样。",
+			"どうしてこんなことになっているの？",
+			"어쩌다 이렇게 된 거야?",
+			null,
+			null,
+			"Why did it turn out to be in such a way.",
+			"Why is this happening?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488816,
+			null,
+			"现实扭曲立场？崩坏其实并没有解决？",
+			"崩壊現象が続いているなら、まだ解決できていないってことかしら？",
+			"붕괴 현상이 계속되고 있다면, 아직 해결되지 않았다는 뜻인가?",
+			null,
+			null,
+			"Reality distorting positions? Honkai not actually resolved?",
+			"If the Honkai phenomenon continues, does that mean we haven't solved it yet?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488817,
+			null,
+			"而且这些崩坏生物我记得。",
+			"この崩壊生物たち、見覚えがあるわね。",
+			"이 붕괴 생물들, 익숙한데.",
+			null,
+			null,
+			"And these Honkai creatures I remember.",
+			"These Honkai creatures look familiar."
+		],
+		[
+			"msg",
+			488818,
+			null,
+			"它们是——第二次崩坏的产物。",
+			"彼らは——第二次崩壊の産物。",
+			"그들은 —— 제2차 붕괴의 산물이다.",
+			null,
+			null,
+			"They are - the product of the second Honkai.",
+			"They are - a product of the second Honkai."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488819,
+			null,
+			"此时，一个可怕的事实在我脑中浮现。",
+			"この時、脳裏に恐ろしい事実が浮かびあがってきた。",
+			"이때, 뇌리에 무서운 사실이 떠올랐다.",
+			null,
+			null,
+			"At this point, a horrible truth came to my mind.",
+			"At this point, a frightening fact emerged in my brain."
+		],
+		[
+			"msg",
+			488820,
+			null,
+			"为什么我能肯定圣芙蕾雅周围的崩坏就是杀死塞西莉亚，破坏圣芙蕾雅学园的理由。",
+			"セシリアを殺し、聖フレイヤ学園を破壊した原因が、聖フレイヤ周辺の崩壊現象だと断言できるのはなぜか。",
+			"세실리아를 죽이고, 세인트 프레야 학원을 파괴한 원인이 성 프레야 주변의 붕괴 현상이라고 단언할 수 있는 이유는 무엇인가.",
+			null,
+			null,
+			"Why I can be sure that the crumbling around Honkai is the reason for killing Cecilia and destroying St. Freya High School.",
+			"How can we be sure that the phenomenon of Honkai around St. Freya is the cause of the killing of Cecilia and the destruction of St. Freya High School?"
+		],
+		[
+			"msg",
+			488821,
+			null,
+			"明明在那遥远的记忆中，甚至有着天命的黑暗面在作祟。",
+			"遠い記憶を辿ると、天命が暗躍していた可能性も否定できない。",
+			"먼 기억을 더듬어 보면, 천명이 암약하고 있었을 가능성도 부정할 수 없다.",
+			null,
+			null,
+			"Obviously in that distant memory, there was even the dark side of Schicksal at work.",
+			"In my distant memory, I cannot deny the possibility that Schicksal was in the dark."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488822,
+			null,
+			"难道都是我的一厢情愿？",
+			"あたくしの思い過ごしなのかしら？",
+			"아타쿠시의 생각이 지나친 걸까?",
+			null,
+			null,
+			"Was it all wishful thinking on my part?",
+			"Am I imagining things?"
+		],
+		[
+			"portraits",
+			[
+				413,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488823,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			488824,
+			null,
+			"不会的，一定是崩坏想要扰乱我的神志。",
+			"あり得ないわ。崩壊があたくしの気を狂わせようとしているに違いない。",
+			"말도 안 돼. 붕괴가 아타쿠시의 정신을 흐트러뜨리려는 게 분명해.",
+			null,
+			null,
+			"No, it can't be, it must be Honkai trying to mess with my sanity.",
+			"It can't be. Honkai must be trying to drive me crazy."
+		],
+		[
+			"msg",
+			488825,
+			null,
+			"一定还有什么崩坏生物躲在这！",
+			"他にも崩壊生物が隠れているはずよ！",
+			"다른 붕괴 생물도 숨어 있을 거야!",
+			null,
+			null,
+			"There must be some more Honkai creatures hiding here!",
+			"There must be other Honkai creatures hiding in there!"
+		],
+		[
+			"msg",
+			488826,
+			null,
+			"快给我显出原形！",
+			"出てきなさい！",
+			"나와!",
+			null,
+			null,
+			"Show yourself to me!",
+			"Come out!"
+		]
+	],
+	"3999": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488827,
+			null,
+			"不断探索的过程里，脑中模糊的记忆也逐渐变得清晰。",
+			"探索を続けるうちに、曖昧な記憶が徐々に鮮明になっていく。",
+			"탐색을 계속하는 동안, 애매한 기억이 서서히 선명해져 간다.",
+			null,
+			null,
+			"The fuzzy memories in his head gradually became clearer as he kept exploring.",
+			"As the search continues, vague memories gradually become clearer."
+		],
+		[
+			"msg",
+			488828,
+			null,
+			"在那记忆中，有着无论如何都让我为止混乱的一幕。",
+			"その記憶の中に、どうしても戸惑ってしまう光景がある。",
+			"그 기억 속에, 도저히 납득이 가지 않는 광경이 있다.",
+			null,
+			null,
+			"In that memory, there is a scene that has been confusing me until now no matter what.",
+			"There is a scene in that memory that I can't help but be puzzled by."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488829,
+			null,
+			"这里是第二次崩坏的战场。",
+			"これが第二次崩壊の戦場……。",
+			"이것이 제2차 붕괴의 전장…….",
+			null,
+			null,
+			"This is the battlefield of the second Honkai.",
+			"This is the second Honkai battlefield: ......."
+		],
+		[
+			"msg",
+			488830,
+			null,
+			"而塞西莉亚……就是死在了这里。",
+			"そしてセシリアは……ここで死んだ。",
+			"그리고 세실리아는……여기서 죽었다.",
+			null,
+			null,
+			"And that's where Cecilia ...... died.",
+			"And Cecilia died here ......."
+		],
+		[
+			"portraits",
+			[
+				413,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488831,
+			null,
+			"骗人！",
+			"嘘よ！",
+			"거짓말이야!",
+			null,
+			null,
+			"Deception!",
+			"That's a lie!"
+		],
+		[
+			"msg",
+			488832,
+			null,
+			"塞西莉亚明明还活着。",
+			"セシリアはまだ生きているわ！",
+			"세실리아는 아직 살아 있어!",
+			null,
+			null,
+			"Cecilia is clearly alive.",
+			"Cecilia is still alive!"
+		],
+		[
+			"msg",
+			488833,
+			null,
+			"而且，第二次崩坏早就结束了。",
+			"それに、第二次崩壊はとっくに終わっているはずよ！",
+			"게다가, 제2차 붕괴는 벌써 끝났을 텐데!",
+			null,
+			null,
+			"Besides, the second Honkai is long over.",
+			"Besides, the second Honkai should have been over long ago!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488834,
+			null,
+			"【德丽莎，你是不是做噩梦啦？】",
+			"【もしかして、悪夢を見ていたの？】",
+			"【혹, 악몽을 꾼 거야?】",
+			null,
+			null,
+			"[Theresa, are you having a nightmare?]",
+			"[Perhaps you've been having nightmares?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488835,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			488836,
+			null,
+			"难道我真的，只是因为做了噩梦就做出了错误的决定。",
+			"あたくしは本当に……悪夢を見たせいで間違った決断を下したのかしら……。",
+			"아타쿠시는 정말…… 악몽을 꾼 탓에 잘못된 결정을 내린 걸까…….",
+			null,
+			null,
+			"Did I really, just because of a nightmare make a bad decision.",
+			"I wonder if I really made the wrong decision because of the ...... nightmare I had. ......"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				29,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488837,
+			null,
+			"这很难说，或许，那其实都是真的。",
+			"テレサちゃんの言っていることはおそらく真実じゃないかしら。",
+			"테레사 쨩이 말하는 건 아마도 진실이 아닐까.",
+			null,
+			null,
+			"It's hard to say, maybe, that's actually all true.",
+			"What Theresa is saying is probably true."
+		],
+		[
+			"bgm",
+			87
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488838,
+			null,
+			"塞西莉亚！",
+			"セシリア！",
+			"세실리아！",
+			null,
+			null,
+			"Cecilia！",
+			"Cecilia!"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				29,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488839,
+			null,
+			"我曾经就在这与第二律者战斗。",
+			"かつて私はここで「第二律者」と闘った。",
+			"한때 나는 여기서「제2의 율자」와 싸웠다.",
+			null,
+			null,
+			"This is where I once fought the Second Herrscher.",
+			"I used to fight the \"Herrscher II\" here."
+		],
+		[
+			"msg",
+			488840,
+			null,
+			"然后因为不敌，最终在崩坏裂变弹攻击下和对方同归于尽。",
+			"そして無敵故に、律者と共に崩壊核分裂ミサイルの犠牲になった。",
+			"그리고 무적이었기에, 율자와 함께 붕괴 핵분열 미사일의 희생양이 되었다.",
+			null,
+			null,
+			"Then, because he was outmatched, he ended up dying with his opponent under a Honkai fission bomb attack.",
+			"And because of his invincibility, he became a victim of the Honkai fission missile along with Herrscher."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488841,
+			null,
+			"不是这样的，裂变弹虽然发射了但塞西莉亚毫发无损。",
+			"いいえ、確かにミサイルは発射されたけれど、セシリアは無傷だった。",
+			"아니, 확실히 미사일은 발사되었지만, 세실리아는 무사했다.",
+			null,
+			null,
+			"That's not true, the fission bomb was fired but Cecilia was unharmed.",
+			"No, indeed, the missile was fired, but Cecilia was unharmed."
+		],
+		[
+			"msg",
+			488842,
+			null,
+			"这才是我知道的真相。",
+			"それがあたくしの知っている真実よ。",
+			"그것이 내가 알고 있는 진실이야.",
+			null,
+			null,
+			"That's what I know to be true.",
+			"That's the truth as I know it."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				29,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488843,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			488844,
+			null,
+			"然后这样活下来的塞西莉亚，在未来的某一天，因为反抗天命而在圣芙蕾雅死去。",
+			"生き残ったセシリアは、天命への反抗を理由に、聖フレイヤで亡くなってしまった。",
+			"살아남은 세실리아는, 천명에 대한 반항을 이유로, 성 프레이야에서 죽고 말았다.",
+			null,
+			null,
+			"Then Cecilia, who had survived in this way, died at St. Schicksal at some future date for rebelling against Schicksal.",
+			"Cecilia, who survived, died in St. Freya for her defiance of Schicksal."
+		],
+		[
+			"msg",
+			488845,
+			null,
+			"你想说的是这个吧。",
+			"と、言いたいのでしょう？",
+			"라고, 말하고 싶은 거지?",
+			null,
+			null,
+			"That's what you're trying to say.",
+			"You want to say that, don't you?"
+		],
+		[
+			"msg",
+			488846,
+			null,
+			"我都知道。",
+			"全部知っているわ。",
+			"전부 알고 있어.",
+			null,
+			null,
+			"I know all about it.",
+			"I know all about it."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488847,
+			null,
+			"！？",
+			"！？",
+			"！？",
+			null,
+			null,
+			"What's going on?",
+			null
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				29,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488848,
+			null,
+			"德丽莎。",
+			"テレサちゃん。",
+			"테레사。",
+			null,
+			null,
+			"Theresa。",
+			"Theresa."
+		],
+		[
+			"msg",
+			488849,
+			null,
+			"这两个都是真的。",
+			"どちらも真実なの。",
+			"둘 다 진실이야.",
+			null,
+			null,
+			"Both are true.",
+			"Both are true."
+		],
+		[
+			"msg",
+			488850,
+			null,
+			"对于我来说，这是不可回避的宿命。",
+			"私にとって、これは逃れられない運命よ。",
+			"나에게 있어서, 이건 피할 수 없는 운명이야.",
+			null,
+			null,
+			"For me, it's an inescapable destiny.",
+			"For me, this is a fate I cannot escape."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488851,
+			null,
+			"这、这个玩笑一点都不好玩。",
+			"そんな冗談、全く面白くないわ。",
+			"그런 농담, 전혀 재미없어.",
+			null,
+			null,
+			"This, this joke is not funny.",
+			"That joke is not funny at all."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				29,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488852,
+			null,
+			"是不是玩笑，你很快就知道了。",
+			"本当に冗談かしら。すぐにわかるわ。",
+			"정말 농담일까. 금방 알게 될 거야.",
+			null,
+			null,
+			"Whether it's a joke or not, you'll soon find out.",
+			"Are you really joking? We'll find out soon enough."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488853,
+			null,
+			"！？",
+			"！？",
+			"！？",
+			null,
+			null,
+			"What's going on?",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488854,
+			null,
+			"【不能发射裂变导弹！前线还有很多女武神在啊！】",
+			"【ミサイルは打てません！前線にはまだ大勢の戦乙女がいるのです！】",
+			"【미사일을 쏠 수 없습니다! 전선에는 아직도 많은 발키리가 있습니다!】",
+			null,
+			null,
+			"We can't launch fission missiles! There are still a lot of Valkyries on the front line!",
+			"[You can't hit missiles! There are still many war maidens on the front line!"
+		],
+		[
+			"msg",
+			488855,
+			null,
+			"【这都是……必要的牺牲？】",
+			"【これはすべて……必要な犠牲なのだろうか？】",
+			"【이 모든 것이... 필요한 희생일까?】",
+			null,
+			null,
+			"[Is this all ...... necessary sacrifice?]",
+			"[Is this all ...... a necessary sacrifice?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488856,
+			null,
+			"这是我的记忆……",
+			"これが……あたくしの記憶……。",
+			"이것이…… 제 기억…….",
+			null,
+			null,
+			"This is my memory ......",
+			"This is ...... my memory ......."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				29,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488857,
+			null,
+			"把异常的崩坏源和圣芙蕾雅的毁灭联系在一起，其根本原因还是因为你脑中本来就有这次战役的记忆。",
+			"異常な崩壊の発生源を聖フレイヤの破壊に結びつける理由は、元々この戦いの記憶が頭の中にあるからでしょう。",
+			"이상한 붕괴의 발생원을 성 프레이야의 파괴와 결부시키는 이유는, 원래 이 싸움의 기억이 머릿속에 있기 때문일 것입니다.",
+			null,
+			null,
+			"The underlying reason for linking the unusual source of Honkai to the destruction of St. Freya is still because you have the memories of this battle in your head in the first place.",
+			"The reason for tying the source of the unusual Honkai to the destruction of St. Freya is probably because the memory of this battle was originally in his mind."
+		],
+		[
+			"msg",
+			488858,
+			null,
+			"在那里，有崩坏，也有律者，更有你无法保护和救助的女武神。",
+			"そこには崩壊も、律者も存在するわ。テレサちゃんには戦乙女を守ることも救うこともできない。",
+			"거기에는 붕괴도, 율자도 존재한다. 테레사은 전여신을 지키는 것도 구하는 것도 할 수 없다.",
+			null,
+			null,
+			"There is Honkai there, and Herrscher there, and Valkyries you can't protect or rescue.",
+			"There will be Honkai there, and Herrscher there. Theresa, you cannot protect or save the War Maiden."
+		],
+		[
+			"msg",
+			488859,
+			null,
+			"要是解决这次崩坏，德丽莎也能喘一口气，得到解脱吧。",
+			"これらすべてが解消されれば、テレサちゃんは安心できるかもしれないわね。",
+			"이 모든 것이 해소된다면, 테레사은 안심할 수 있을지도 모르겠네.",
+			null,
+			null,
+			"If this Honkai is resolved, Theresa will be able to breathe a sigh of relief, I guess.",
+			"If all of these could be resolved, Theresa might be relieved."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488860,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488861,
+			null,
+			"说不定是真的。",
+			"その通り。",
+			"그래 맞아.",
+			null,
+			null,
+			"It might be true.",
+			"Exactly."
+		],
+		[
+			"msg",
+			488862,
+			null,
+			"我只是利用了这次崩坏，变相地去实现一个自我解脱。",
+			"崩壊を利用して、自己の救済をしたいだけ。",
+			"붕괴를 이용해, 자기 자신의 구원을 원할 뿐.",
+			null,
+			null,
+			"I just used the Honkai to disguise a self-unraveling.",
+			"They just want to use Honkai for their own self-salvation."
+		],
+		[
+			"msg",
+			488863,
+			null,
+			"所以才连同事件的真假都无法察觉。",
+			"だから、事件の真相まで見抜くことは不可能だった。",
+			"그래서 사건의 진상까지 간파하는 것은 불가능했다.",
+			null,
+			null,
+			"That's why it's impossible to even detect the truth of the same event.",
+			"So it was impossible to see through to the bottom of the case."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				29,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488864,
+			null,
+			"你不能去改变别人的宿命，更没必要去承担那份宿命。",
+			"人の運命を変えることはできないし、ましてやその運命を背負うことはできないの。",
+			"사람의 운명을 바꿀 수 없고, 더욱이 그 운명을 짊어질 수도 없어.",
+			null,
+			null,
+			"You can't change someone's destiny, much less take on that destiny.",
+			"You can't change someone's fate, much less take on that fate."
+		],
+		[
+			"msg",
+			488865,
+			null,
+			"不要去强迫自己了，德丽莎。",
+			"無理はしないでね、テレサちゃん。",
+			"무리하지 마, 테레사.",
+			null,
+			null,
+			"Don't go forcing yourself, Theresa.",
+			"Take it easy, Theresa."
+		],
+		[
+			"msg",
+			488866,
+			null,
+			"你现在的行为，不过是在追求自我毁灭罢了。",
+			"あなたのその行動は、いずれ身を滅ぼす事になるわよ。",
+			"네 그 행동은, 언젠가 자신을 망치게 될 거야.",
+			null,
+			null,
+			"Your current behavior is nothing more than a quest for self-destruction.",
+			"Your behavior will eventually destroy you."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488867,
+			null,
+			"我不过是想保护大家……",
+			"あたくしはみんなを守りたいだけなのに……。",
+			"저는 그저 모두를 지키고 싶을 뿐인데…….",
+			null,
+			null,
+			"I'm just trying to protect everyone ......",
+			"I just want to protect everyone. ......"
+		],
+		[
+			"msg",
+			488868,
+			null,
+			"正因为天命如此，才想给大家一个更好的环境。",
+			"天命がそうであるように、みんなに良い環境を与えてあげたいの。",
+			"천명이 그렇듯, 모두에게 좋은 환경을 만들어 주고 싶어.",
+			null,
+			null,
+			"It is precisely because Schicksal has done so that it wants to give everyone a better environment.",
+			"I want to give everyone a good environment, just as Schicksal does."
+		],
+		[
+			"msg",
+			488869,
+			null,
+			"这么想到底有什么错……",
+			"そう思って何が悪いの……？",
+			"그렇게 생각하는 게 뭐가 문제야……?",
+			null,
+			null,
+			"What's wrong with thinking so ......",
+			"What's wrong with thinking that ......?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				29,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488870,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488871,
+			null,
+			"刚才你说我脑中的记忆都是真实的对吧。",
+			"さっき、あたくしの頭の中の記憶はすべて本物だと言ったわよね？",
+			"아까, 아타시 머릿속의 기억이 전부 진짜라고 말했지?",
+			null,
+			null,
+			"Just now you said that all the memories in my head are real, right?",
+			"You said earlier that all the memories in my head are real."
+		],
+		[
+			"msg",
+			488872,
+			null,
+			"那这个……",
+			"それじゃあ……",
+			"그렇다면……",
+			null,
+			null,
+			"Then this ......",
+			"Okay then: ......"
+		],
+		[
+			"msg",
+			488873,
+			null,
+			"月光王座坠落在圣芙蕾雅，终焉的律者诞生……也是么。",
+			"月光王座が聖フレイア学園に墜落し、終焉の律者が誕生するのも事実かしら？",
+			"월광왕좌가 성 프레이아 학원에 추락하고, 종언의 율자가 탄생하는 것도 사실이야?",
+			null,
+			null,
+			"Moonlight Throne Falls on St. Freya, the Final Herrscher is Born ...... Is it too?",
+			"Is it true that the Moonlight Throne will crash into St. Freya's Academy and the Herrscher of the End will be born?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				29,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488874,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			488875,
+			null,
+			"是的话，你要赶回去吗。",
+			"もしそうだとしたら、急いで戻るのかしら。",
+			"그렇다면, 서둘러 돌아가야 하지.",
+			null,
+			null,
+			"Yes. Are you going to rush back.",
+			"If so, I wonder if they would hurry back."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488876,
+			null,
+			"当然……",
+			"当然よ……。",
+			"당연하지…….",
+			null,
+			null,
+			"Of course ......",
+			"Of course. ......."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				29,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488877,
+			null,
+			"那就对不起了。",
+			"じゃあ、ごめんなさいね。",
+			"그럼, 미안하네.",
+			null,
+			null,
+			"Then I'm sorry.",
+			"Then I'm sorry."
+		],
+		[
+			"msg",
+			488878,
+			null,
+			"我作为亡灵回到了这里，为的就算避免小德丽莎继续去伤害自己。",
+			"私は亡霊として戻ってきたの。テレサちゃんが自らを犠牲にしないように。",
+			"나는 유령으로 돌아온 거야. 테레사 쨩이 스스로를 희생하지 않도록.",
+			null,
+			null,
+			"I returned as an undead, for the sake of even avoiding Theresa Jr. from going on to harm herself.",
+			"I came back as a ghost. Theresa, so that you will not sacrifice yourself."
+		],
+		[
+			"msg",
+			488879,
+			null,
+			"你已经承受了太多了。",
+			"テレサちゃん、あなたはひとりで頑張りすぎよ。",
+			"테레사 쨩, 혼자서 너무 무리하는 거 아니야?",
+			null,
+			null,
+			"You've taken on too much already.",
+			"Theresa, you are working too hard on your own."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488880,
+			null,
+			"塞西莉亚的话，会和我回去救她们。",
+			"……本物のセシリアなら、みんなを助けるためにあたくしと一緒に行くはずよ。",
+			"……진짜 세실리아라면, 모두를 구하기 위해 저와 함께 갔을 거야.",
+			null,
+			null,
+			"Cecilia's words would be to go back with me to save them.",
+			"...... If it were the real Cecilia, she would go with me to help everyone."
+		],
+		[
+			"portraits",
+			[
+				413,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488881,
+			null,
+			"你是冒牌货……",
+			"あなたは偽者。",
+			"넌 가짜야.",
+			null,
+			null,
+			"You're an impostor ......",
+			"You are an imposter."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				29,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488882,
+			null,
+			"啊，闹脾气了……",
+			"あら、言っても聞かないのね。",
+			"어머, 말해도 듣지 않는구나.",
+			null,
+			null,
+			"Ah, a tantrum ......",
+			"Oh, you don't listen when I tell you."
+		],
+		[
+			"msg",
+			488883,
+			null,
+			"我的话也说服不了你吗。",
+			"私の言葉ではテレサちゃんを説得できないみたい。",
+			"내 말론 테레사 쨩을 설득할 수 없나 봐.",
+			null,
+			null,
+			"Can't my words convince you either.",
+			"I can't seem to convince Theresa with my words."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			488884,
+			null,
+			"快让开，不然我就要用犹大攻击了！",
+			"そこをどきなさい！ さもないと、誓約の十字架の餌食になるわよ！",
+			"비켜! 그렇지 않으면 서약의 십자가 먹이가 될 거야!",
+			null,
+			null,
+			"Get out of the way or I'm going to attack with Judas!",
+			"Get out of the way! Or you'll fall prey to the covenant cross!"
+		]
+	]
+}

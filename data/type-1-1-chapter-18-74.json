@@ -1,0 +1,4110 @@
+{
+	"67": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250562,
+			"Ouch1! This place is……",
+			"好痛…这里是……",
+			"痛ったた……ここ、どこよ？",
+			"아파라... 여기, 어디야?",
+			"Ouch! ...Where are we?",
+			null,
+			"It hurts...here is ......",
+			"Ouch. ...... Where am I?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250563,
+			"Ground floor of Hyperion. It just like a garden.",
+			"应该是战舰的下层，从结构来看好像是类似花园一样的地方。",
+			"戦艦の下層のはずです。周囲の雰囲気からして、庭園のような場所だと思われます。",
+			"전함의 하층부일 거예요. 주변 분위기로 봐서는 정원 같은 장소인 것 같습니다.",
+			"It appears to be the lower level of the battleship. Judging from the surroundings, it seems to be a garden-like area.",
+			null,
+			"It should be the lower level of the battleship, and from the structure it seems to be something like a garden.",
+			"It is supposed to be the lower level of the battleship. The surroundings suggest that it is a garden-like area."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250564,
+			"Garden? In an aircraft carrier? That's weird.",
+			"花园？为什么战舰里会有这种地方？",
+			"庭園？何で戦艦に庭園が？",
+			"정원? 왜 전함에 정원이?",
+			"A garden? Why's there a garden on a battleship?",
+			null,
+			"A garden? Why is there such a place in a battleship?",
+			"Gardens? Why is there a garden on a battleship?"
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250565,
+			"Errr! Forget about it first! How is Mei!",
+			"呃！不说这个了！芽衣学姐呢！",
+			"……って、それどころじゃなかった！芽衣先輩は！？ケガしてない？",
+			"......아니, 지금 그럴 때가 아니잖아! 메이 선배는!? 다친 데 없어?",
+			"...But that's not important! Where's Mei-senpai?! Is she okay?",
+			null,
+			"Ugh! Let's not talk about it! Where's Meiko-san!",
+			"...... wasn't even close! Where's Mei-senpai! Are you hurt?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250566,
+			"I'm fine.",
+			"唔……我没事。",
+			"え、ええ……私は大丈夫。",
+			"어, 어... 나는 괜찮아.",
+			"Y-Yeah... I'm okay.",
+			null,
+			"Well ...... I'm fine.",
+			"Yeah, yeah ...... I'm fine."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250567,
+			"Great!",
+			"太好了！",
+			"よかったぁ～！",
+			"다행이다~!",
+			"Thank <i>goodness~!</i>",
+			null,
+			"Great!",
+			"Thank goodness!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250568,
+			"But what should we do now, we are flying now, it's impossible to jump…",
+			"不过我们现在该怎么办，战舰已经升空了，要从这里逃出去已经不可能了……",
+			"でも、どうしましょう。もう離陸してしまったみたいだし、これじゃ脱出できないわね。",
+			"그런데 어쩌지. 이미 이륙해버린 것 같고, 이대로는 탈출할 수 없을 거야.",
+			"But what should we do? It seems like we've already taken off, so we won't be able to escape.",
+			null,
+			"But what do we do now, the battleship is already up in the air, to escape from here is no longer possible ......",
+			"But what should we do? It looks like they've already taken off, and this won't help us escape."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250569,
+			"I have two ideas, one is find the escape compartment, the other is trying to take control of this aircraft carrier.",
+			"布洛妮娅有两个建议，一是寻找战舰中的逃生舱进行脱离，二是侵入舰桥夺取战舰控制权。",
+			"ブローニャは、作戦をふたつ提案します。ひとつは、救命ポッドを探し出し脱出する。もうひとつは、艦橋に潜入し戦艦を武力制圧する方法です。",
+			"브로냐는 작전을 두 가지 제안합니다. 하나는 구명 포드를 찾아 탈출하는 것. 다른 하나는 함교에 잠입해 전함을 무력으로 제압하는 방법입니다.",
+			"Bronya proposes two plans. One is to find a life pod and escape. The other is to infiltrate the bridge and take control of the battleship by force.",
+			null,
+			"Bronya has two suggestions, one is to find an escape pod in the battleship to disengage, and the other is to invade the bridge to seize control of the battleship.",
+			"Bronya proposes two strategies. One is to find the life pods and escape. The other is to infiltrate the bridge and take armed control of the battleship."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250570,
+			"You… Are full of dangerous ideas.",
+			"你这家伙…一副三无的样子想的事情却这么危险。",
+			"あんた……無表情のまま、えらく危ないこと考えるわね。",
+			"너... 무표정한 채로, 굉장히 위험한 생각을 하는구나.",
+			"You... You sure think of some pretty dangerous things with that blank expression of yours.",
+			null,
+			"You guys...a trifling look to think of things but so dangerous.",
+			"You ...... think of something very dangerous with a blank expression on your face."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250571,
+			"We can get information about Kiana's father if we can take control of this place.",
+			"侵入舰桥的话是不是也可以获得琪亚娜父亲的情报。",
+			"でも艦橋に潜入出来れば、キアナちゃんのお父様の情報も分かるんじゃないかしら？",
+			"하지만 함교에 잠입할 수 있다면, 키아나의 아버지 정보도 알 수 있지 않을까?",
+			"But if we can infiltrate the bridge, couldn't we find more information on your father, Kiana-chan?",
+			null,
+			"If you invade the bridge, can you also get information about Kiana's father?",
+			"But if we can infiltrate the bridge, maybe we can find out some information about Kiana's father."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250572,
+			"Yes.",
+			"没错。",
+			"はい、分かるはずです。",
+			"네, 알 수 있을 겁니다.",
+			"Yes, you should be able to.",
+			null,
+			"That's right.",
+			"Yes, you can tell."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250573,
+			"Kiana! Let's go!",
+			"琪亚娜！那我们走吧！",
+			"だったら、キアナちゃん！行きましょうよ！",
+			"그렇다면, 키아나! 가자구!",
+			"Well then, Kiana-chan! Let's go!",
+			null,
+			"Kiana! Then let's go!",
+			"Well, then, Kiana! Let's go!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250574,
+			"Mei… Fine, let's have a try.",
+			"芽衣学姐居然也这么激进…哎~好吧，既然已经到了这一步就试试吧。",
+			"芽衣先輩まで……分かった、それなら艦橋を目指そう！",
+			"메이 선배까지…… 알겠어, 그럼 함교를 목표로 하자!",
+			"You too, Mei-senpai...? Alright, then let's head for the bridge!",
+			null,
+			"Meiko-senpai is also so radical...hey ~ well, since it has come to this point let's try.",
+			"Up to Mei Senpai ...... Okay, then let's go to the bridge of the ship!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250575,
+			"Got it, fire, Armoured Bunny.",
+			"布洛妮娅了解了，重装小兔，发射。",
+			"ブローニャ、了解しました。重装ウサギ19c——Fire！！",
+			"브로냐, 알겠어요. 중장토끼19c——Fire!!",
+			"Roger that. Armored Bunny 19C — fire!!",
+			null,
+			"Bronya understood, reloading bunnies and firing.",
+			"Bronya, got it. Heavy rabbit 19c--Fire!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250576,
+			"Bang!!!",
+			"轰隆隆！！！",
+			"ズドォオオオン——ッ！！",
+			"쓰아아아앙——!!",
+			"<i>BOOOOOOOMM!!</i>",
+			null,
+			"Rumble!!!",
+			"Zdooooooooooooooo--!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250577,
+			"Errr! What are you doing!?",
+			"呃！！你在做什么！？",
+			"ちょ、ちょっと！！何してんのよ！？",
+			"야, 야!! 뭐 하는 거야!?",
+			"H-Hey! What're you doing?!",
+			null,
+			"Ugh!!! What are you doing!",
+			"Hey, hey! What are you doing?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250578,
+			"I need to attract some enemies.",
+			"既然要侵入舰桥必须尽可能转移敌方的战力，破坏舰壁让机甲进入可以吸引一些火力。",
+			"艦橋へ侵入するには、敵の戦力を分散させる必要があります。戦艦の壁を壊して機甲を招き入れれば、少しは戦力になるはずです。",
+			"함교로 침입하려면 적의 전력을 분산시켜야 해요. 전함의 벽을 부수고 기갑을 끌어들이면, 조금은 전력이 될 거예요.",
+			"To get to the bridge, we need to split up the enemy forces. Breaking down the battleship's walls and letting in the mechas should give us some leverage.",
+			null,
+			"Since the bridge must be invaded as far as possible to divert the enemy's combat power, the destruction of the ship's walls to allow the mechs to enter can attract some firepower.",
+			"To penetrate the bridge, you need to disperse the enemy forces. Breaking down the battleship's walls and inviting in the armored forces should give you some leverage."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250579,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250580,
+			"Bang!!!",
+			"轰隆隆隆！！！",
+			"ズドォオオオン——ッ！！",
+			"쓰아아아앙——!!",
+			"<i>BOOOOOOOMM!!</i>",
+			null,
+			"Rumble Rumble!!!",
+			"Zdooooooooooooooooooo--!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250581,
+			"It's messed up!",
+			"哎……感觉已经一发不可收拾了。",
+			"あ～あ……ますます、あのおばさんを怒らせちゃいそう。",
+			"아~ 아…… 점점 그 아주머니를 화나게 할 것 같아.",
+			"Ahh... it feels like things are spiraling more and more out of control.",
+			null,
+			"Hey ...... feels like it has gone out of hand.",
+			"Ahhhh ...... more and more, I'm going to piss off that old lady."
+		]
+	],
+	"68": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251031,
+			"……",
+			"……",
+			"……",
+			"......",
+			"......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251032,
+			"Kiana, what happened? Unexpectedly you have bad mood too.",
+			"琪亚娜，怎么了？居然你也有闷闷不乐的时候。",
+			"キアナちゃん、どうしたの？　なんだか落ち込んでるみたいだけど。",
+			"키아나, 왜 그래? 무언가 풀이 죽어 있는 것 같은데.",
+			"Kiana-chan, what's wrong? You seem a bit down.",
+			null,
+			"Kiana, what's wrong? I can't believe you have a sulking moment too.",
+			"Kiana, what's wrong?　You seem kind of depressed."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251033,
+			"No, I was just thinking what if I can't find clues about my father here…",
+			"没有啦，我只是在想，如果连这里都找不到老爸的线索该怎么办。",
+			"お、落ち込んでないよ！　ただ、ここにもパパの手かがりがなかったら、どうしようって思って……",
+			"아, 안 풀 죽었어! 그냥, 여기에도 아빠의 단서가 없으면 어쩌나 싶어서...",
+			"I-I'm not feeling down! I was just wondering what I would do if I won't find any clues about my Dad here either...",
+			null,
+			"No, I was just wondering what I would do if I couldn't even find a clue to my dad here.",
+			"Oh, I'm not depressed!　I just wondered what I'd do if I didn't find another daddy's touch here: ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251034,
+			"Kiana…",
+			"琪亚娜……",
+			"キアナちゃん……",
+			"키아나……",
+			"Kiana-chan...",
+			null,
+			"Kiana ......",
+			"Kiana: ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251035,
+			"I lived with my father since I was a child, he always told me this world is dangerous, I must be stonger to overcome difficulties by myself.",
+			"我和老爸从小时候就一直在一起，老爸告诉我要在崩坏的世界中活下去就必须锻炼自己，让自己能够面对各种困难。",
+			"私、小さい頃からずっとパパと一緒だったの。パパは、崩壊した世界でも困難に立ち向かえるよう、鍛錬しないとだめって教えてくれたわ。",
+			"나는 어릴 적부터 줄곧 아빠와 함께였어. 아빠는 붕괴한 세계에서도 어려움에 맞설 수 있도록, 단련하지 않으면 안 된다고 가르쳐 주셨죠.",
+			"I've been with my dad since I was little. He taught me that even in this broken world, you have to be strong to face the challenges ahead.",
+			null,
+			"My dad and I have been together since we were kids, and he told me that I had to exercise myself to survive in a crumbling world, so that I could face all kinds of difficulties.",
+			"I have been with my dad since I was a little girl. He taught me that I had to train myself to face the challenges of a collapsed world."
+		],
+		[
+			"msg",
+			251036,
+			"I never give up even my father left me. I think it's a trial my father gave me. I will find him!",
+			"所以即使在老爸离开后的这几年，我都依然没用放弃过，我觉得这是老爸给我的试炼，只要我能独自生活并找到他，那他就能认可我的实力！",
+			"パパがいなくなってからも、私は諦めなかった。これはパパからの試練だって。一人で生きて、パパを見つけたら私を認めてくれるって、そう思ってるの。",
+			"아빠가 사라진 후에도, 나는 포기하지 않았어. 이건 아빠가 주신 시련이라고. 혼자서 살아가며, 아빠를 찾으면 나를 인정해 주실 거라고, 그렇게 믿고 있어.",
+			"Even after my dad left, I didn't give up. I thought it was a test from him. I thought that if I lived on my own and then found him, he'd accept me.",
+			null,
+			"So even in the years after Dad left, I still did not give up, I think this is Dad gave me a trial, as long as I can live alone and find him, then he will be able to recognize my strength!",
+			"Even after Dad was gone, I didn't give up. He told me that this was a test from him. He thinks that if I live on my own and find him, he will accept me."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251037,
+			"Kiana, I think your father is protecting you somewhere~",
+			"琪亚娜，我觉得一定是你想多了，你的父亲一定一直在守护着你吧。",
+			"キアナちゃん、きっとお父様は今も見守ってくれていると思うわ。",
+			"키아나, 분명 아버지께서는 지금도 지켜보고 계실 거야.",
+			"Kiana-chan, I'm sure your father is still watching over you.",
+			null,
+			"Kiana, I think you must be overthinking it. Your father must have been watching over you.",
+			"Kiana, I am sure your father is still watching over you."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251038,
+			"I think so, however, he disappeared for a long time…",
+			"我也是这么想的，不过不管怎么说这么久不出现实在是太可气了！",
+			"私もそう思う。……でも、今回は失踪期間が長いのよね、むかつく！",
+			"나도 그렇게 생각해. …… 하지만, 이번에는 실종 기간이 길잖아, 정말 짜증나!",
+			"I agree... but this time he's been gone for way too long — it's pissing me off!",
+			null,
+			"That's what I thought, but anyway it's too irritating to not show up for so long!",
+			"I agree. ...... but the length of time he's been missing this time is disgusting!"
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251039,
+			"If I can't find any information in the organization-Shicksal which he worked for… I really don't know who to find him…",
+			"如果连老爸曾经待过的天命都没有他的情报的话，我真的不知道去哪里找他了……",
+			"もし、天命にもパパの情報がなかったら、もうどこを探せばいいのか……",
+			"만약, 천명에서도 아빠의 정보가 없었다면, 이제 어디를 찾아야 할지……",
+			"If even Schicksal doesn't have any information about my dad, then where else should I look...",
+			null,
+			"If even Dad used to stay in the heavenly life without his information, I really do not know where to find him ......",
+			"If there is no information about my dad in Heavenly Life, I don't know where to look for him anymore: ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251040,
+			"What's the relationship between your father and Shicksal? Why you are always trying to avoid them?",
+			"说起来，琪亚娜的父亲和天命究竟是什么关系呢，为什么你们总是躲着他们？",
+			"キアナちゃんのお父様は、天命とどんな関係なの？　どうして天命から逃げているの？",
+			"키아나의 아버지는, 천명과 어떤 관계인 거야? 왜 천명에서 도망치고 있는 거지?",
+			"What is your father's relationship with Schicksal, Kiana-chan? Why is he running away from them?",
+			null,
+			"Speaking of which, what exactly is the relationship between Kiana's father and the Mandate of Heaven, and why are you always avoiding them?",
+			"What is Kiana's father's relationship to heavenly life?　Why are you running away from your heavenly destiny?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251041,
+			"Errr……",
+			"呃……",
+			"うっ……えっと……",
+			"으…… 음……",
+			"Ah... umm...",
+			null,
+			"Uh ......",
+			"Ugh ...... eh ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251042,
+			"Ah~ Sorry, you don't need to answer me.",
+			"啊~抱歉，如果有什么难言之隐的话不说也没事。",
+			"あっ、ごめんなさい。話しにくいことなら無理しなくていいわ。",
+			"아, 미안. 말하기 어려운 거라면 억지로 말할 필요 없어.",
+			"Ah, I'm sorry. If it's something that's difficult to talk about, you don't have to force yourself.",
+			null,
+			"Ah~ Sorry, if there are any hard feelings it's okay not to say.",
+			"Oh, I'm sorry. If it's something you don't feel comfortable talking about, don't force it."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251043,
+			"I think… maybe my dad touched too many people's ass so he is being haunted. Maybe my dad has some stories with the aunt named \"Himeko\"…",
+			"我觉得……一定是老爸在天命摸了太多人的屁股所以才被追杀的，或许刚才那个叫姬子的那个阿姨也被老爸骚扰过也说不定……",
+			"私が思うに……きっとパパは天命でお尻を触りすぎたから追われているの。もしかしたら、あの姫子っておばさんもパパからセクハラを受けてるかも……",
+			"내 생각엔…… 분명 아빠는 천명에서 엉덩이를 너무 많이 만져서 쫓기고 있는 거야. 어쩌면, 그 히메코라는 아줌마도 아빠에게 성희롱을 당하고 있을지도……",
+			"I think... I think Dad's being hunted down because he touched too many asses in Schicksal. Maybe that old lady Himeko was also sexually harassed by him...",
+			null,
+			"I think ...... must be dad touched too many people's asses in heavenly life so they were hunted, maybe the aunt called Himeko was also harassed by dad just now ......",
+			"I think ...... surely daddy is being chased because he touched too much buttocks in his heavenly life. Maybe that lady Himeko is being sexually harassed by daddy too......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251044,
+			"Ah!?",
+			"诶！？",
+			"えっ！？",
+			"엣!?",
+			"Eh?!",
+			null,
+			"Eh!",
+			"What?"
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251045,
+			"Hahaha… Your father is so funny.",
+			"啊哈哈…琪亚娜的父亲原来是这么有趣的人么。",
+			"あ、はは……面白い人なのね……",
+			"아, 하하…… 재미있는 사람이네……",
+			"Ah, haha... what an <i>interesting</i> person...",
+			null,
+			"Ahahaha... Kiana's father turned out to be such an interesting person.",
+			"Oh, haha, you're a ...... funny guy. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251046,
+			"Actually, I still can't image why my father was haunted by others…",
+			"老爸平时吊儿郎当的，我实在想不出他还有什么理由不被人追杀……既然已经和他相依为命了我就只能靠自己的力量活下去了！",
+			"パパって普段適当だし、ほかに理由が思いつかないのよね……ただパパと一緒に生きると決めた以上、どうにか今を切り抜けないと！",
+			"아빠는 평소에 대충대충이기도 하고, 다른 이유가 떠오르지 않아서…… 그냥 아빠와 함께 살기로 결심한 이상, 어떻게든 지금을 헤쳐나가야 해!",
+			"Dad is usually pretty careless, so I can't think of any other reason why... But now that I'm no longer dependent on him, I have no choice but to get through this on my own.",
+			null,
+			"Dad usually hanging around, I really can't think of any reason why he's not being hunted ...... Since I'm already dependent on him I can only live by my own power!",
+			"Dad is usually so random, and I can't think of any other reason. ...... But now that I've decided to live with him, I have to get through this time somehow!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251047,
+			"Ok, let's change a topic. We'd better find the control room first, we still have chances!",
+			"嗯…嘛，话题一下子沉重了起来呢。好啦，琪亚娜，我们先到控制室吧，一定还有希望的！",
+			"そう、ね。とりあえず艦橋に行きましょう！　手がかりがあるはずよ！",
+			"그래, 맞아. 일단 함교로 가자! 단서가 있을 거야!",
+			"I... see. Well, let's get to the bridge first! There must be some clues there!",
+			null,
+			"Well...well, the subject has suddenly become heavy. Okay, Kiana, let's go to the control room, there must be hope!",
+			"Yeah, right. Let's just go to the bridge!　There's gotta be a clue!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251048,
+			"Yes!",
+			"嗯！",
+			"うん！",
+			"응!",
+			"Yeah!",
+			null,
+			"Hm!",
+			"Yeah!"
+		]
+	],
+	"69": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250582,
+			"I was keep thinking the function of this garden?",
+			"刚才就一直在想，为什么战舰里面会有这么大的花园，这里到底有什么用？",
+			"不思議に思ってたんだけど、何で戦艦にこんな大きな庭園があるのかな？",
+			"이상하게 생각했는데, 왜 전함에 이렇게 큰 정원이 있는 걸까?",
+			"I've been wondering, why does a battleship have such a big garden on it?",
+			null,
+			"Just now have been wondering why there is such a large garden inside the battleship, what exactly is the use of this place?",
+			"I was wondering, why does a battleship have such a big garden?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250583,
+			"Maybe it's the place for rest.",
+			"也许是休息用的场所吧？",
+			"憩いの場として、作られたじゃないかしら？",
+			"휴식 공간으로 만들어진 게 아니겠어?",
+			"I wonder if it was made as a place to relax?",
+			null,
+			"Maybe it is a place for resting?",
+			"It was built as a place for relaxation, wasn't it?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250584,
+			"This is a purify system.",
+			"这是一个独立的生态系统，连通外部的风口，如果布洛妮娅猜的没错的话，可能是有着崩坏能的隔离与净化的作用。",
+			"ここは独立した生体系を形成しています。さらに外部の通気口に繋がっているようです。この庭園は、崩壊エネルギーの隔離と浄化を目的とした場所であるとブローニャは推測します。",
+			"여기는 독립된 생태계를 형성하고 있습니다. 더욱이 외부의 통기구와 연결되어 있는 것 같습니다. 이 정원은 붕괴 에너지의 격리와 정화를 목적으로 한 장소라고 브로냐는 추측합니다.",
+			"This area forms an independent biological system. It also appears to be connected to an external ventilation shaft. Bronya speculates that this garden is a place for isolating and purifying Honkai Energy.",
+			null,
+			"This is an independent ecosystem, connected to the outside wind, if Bronya guessed correctly, may have the effect of isolation and purification of the collapse energy.",
+			"This area forms an independent living system. In addition, it appears to be connected to an external vent. Bronya surmises that this garden is a place for the isolation and purification of decay energy."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250585,
+			"So… Maybe we can find normal people here.",
+			"这么说的话这艘战舰里应该除了女武神之外还有其他普通人吧，如果崩坏入侵到战舰内的确是会倒大霉呢~",
+			"この戦艦、戦乙女以外も乗組員として乗ってるんだよね？もし崩壊が艦内に漏れ出したら、たまったもんじゃないだろうね。",
+			"이 전함, 전투소녀들 말고도 승무원으로 타고 있지? 만약 붕괴가 함내로 유출된다면, 큰일 나겠네.",
+			"There are other crew members on this battleship besides Valkyries, right? If there was a Honkai leak on this ship, it'd be a disaster.",
+			null,
+			"In that case, this battleship should be in addition to the Valkyrie there are other ordinary people it, if the collapse of the invasion of the battleship will indeed be bad luck it ~",
+			"This battleship has a crew of non-battleship maidens on board, right? If the disintegration leaked out into the ship, it would be a terrible thing."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250586,
+			"Houkai is harmful to normal people…",
+			"简直就像是只对人类才会生效的病毒一般呢，到底自然是有多讨厌我们人类……",
+			"崩壊って、まるで人間のためだけに作られたウィルスみたいね。自然は、そこまで人間のことを憎んでいるってことかしら……。",
+			"붕괴란, 마치 인간만을 위해 만들어진 바이러스 같아. 자연이, 그 정도로 인간을 미워한다는 걸까.......",
+			"The Honkai seems to be a virus created just for humans. Does nature hate humans that much...",
+			null,
+			"It's almost like a virus that only works on humans, in the end how much nature hates us humans ......",
+			"Collapse sounds like a virus created just for humans. I wonder if nature hates us that much. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250587,
+			"It's not time to think about this kind of questions. We'd better consider more about ourselves~",
+			"不管怎么说，现在的崩坏就是这么不友好的情况呢…嘛~与其考虑这些还是想想我们自己怎么活下去吧~",
+			"とにかく、崩壊は人間に対して友好的じゃないのは確かだよね。って、今はこんなの放っておいて、天命から逃げ延びるのを優先しよう！",
+			"어쨌든, 붕괴는 인간에게 우호적이지 않은 건 확실하지. 그래, 지금은 이런 건 제쳐두고 천명으로부터 도망치는 게 우선이야!",
+			"Anyway, the Honkai isn't friendly to humans, that's for sure. But let's leave it at that for now and focus on escaping from Schicksal!",
+			null,
+			"Anyway, now the collapse is so unfriendly situation ... well ~ instead of thinking about these or think about how we live it ~",
+			"Anyway, collapse is not friendly to humans, that's for sure. Let's just leave this stuff alone for now and put our priority on escaping from the heavenly destiny!"
+		],
+		[
+			"msg",
+			250588,
+			"Bronya, when can we arrive there?",
+			"布洛妮娅，离舰桥还有多远？",
+			"ブローニャ、艦橋まであとどれくらい？",
+			"브로냐, 함교까지 얼마나 더 가야 해?",
+			"Bronya, how much further is it to the bridge?",
+			null,
+			"Bronya, how far is it to the bridge?",
+			"Bronya, how much further to the bridge?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250589,
+			"Before we enter the bridge, there is one more thing need to do.",
+			"通往舰桥的入口就在前面的闸门，不过从热能反应来看，那里聚集着很多女武神的部队，突入舰桥之前还需要一个小小的步骤。",
+			"艦橋へ繋がるゲートは、もうすぐそこです。ただ熱量反応からして、戦乙女の部隊が待機しているのがわかります。艦橋への突入は工夫が必要なようです。",
+			"함교로 연결되는 게이트는 곧 도착입니다. 다만 열량 반응으로 보아 전투소녀 부대가 대기 중인 게 확인됩니다. 함교로의 돌파는 방법을 강구해야 할 것 같습니다.",
+			"The gate leading to the bridge is just around the corner. However, judging from the heat detection system, there must be Valkyries' troops waiting. It seems we'll need to be creative to get to the bridge.",
+			null,
+			"The entrance to the bridge is at the front gate, but judging from the heat reaction, there are many Valkyrie troops gathered there, and a small step is needed before breaking into the bridge.",
+			"The gate leading to the bridge is almost there. However, the heat reaction indicates that a squad of war maidens is waiting for us. It seems that we need to devise a way to enter the bridge."
+		],
+		[
+			"msg",
+			250590,
+			"Armoured Bunny, special mode, turn on.",
+			"重装小兔，利剑模式开启。",
+			"重装ウサギ19c——モード：ソード起動。",
+			"중장토끼19c——모드: 소드 기동.",
+			"Armored Bunny 19C — Activate Sword Mode.",
+			null,
+			"Reloaded bunnies, sharpshooter mode open.",
+			"Heavy Rabbit 19c--Mode: Sword Activation."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250591,
+			"What do you want to do this time?!",
+			"呃，你又要干什么！",
+			"こ、今度は何する気よ！？",
+			"이, 이번엔 또 뭘 하려는 거야!?",
+			"Wh-What're you doing this time?!",
+			null,
+			"Uh, what are you doing again!",
+			"What are you going to do now?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250592,
+			"Made a new route, it's much easier to arrive bridge by using this.",
+			"寻找迂回路线，切开地板从下面的排线口进入是比较安全的路线。",
+			"迂回路を検索した結果、床を切り抜いて地下の配線口から侵入するのが、最も安全だと判断しました。",
+			"우회로를 검색한 결과, 바닥을 뚫어 지하의 배선구로 침입하는 것이 가장 안전하다고 판단했습니다.",
+			"After searching for a detour, the safest determined route inside is to cut through the floor and enter through a cable hole below.",
+			null,
+			"Looking for a detour, cutting through the floor to enter through the drainage port below is a safer route.",
+			"After searching for a detour, we determined that the safest route was to cut through the floor and enter through the wiring opening in the basement."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250593,
+			"Alright… You are so dangerous.",
+			"好吧……不得不说你这家伙还真是危险呢。",
+			"あんた……とことんバイオレンスね。",
+			"너... 아주 제대로 폭력적이구나.",
+			"You're... quite the violent one.",
+			null,
+			"Well ...... have to say you guys are really dangerous.",
+			"You ...... are so violent."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250594,
+			"I found them! Catch them!",
+			"她们在那里！快抓住她们！",
+			"いたぞッ！あそこだ、捕まえろ！！",
+			"있어! 저기다, 잡아라!!",
+			"There they are! Over there, get them!!",
+			null,
+			"There they are! Get them!",
+			"There he is! There he is! Get him!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250595,
+			"Errrr… They found us! We'd better retreat now!",
+			"呃！被发现了！我们还是先撤吧！",
+			"あちゃー、見つかっちゃった！とりあえず、ここは逃げとこう！",
+			"아차, 들켰다! 일단 여기서 도망치자!",
+			"<i>Great,</i> we've been spotted! Let's just get outta here for now!",
+			null,
+			"Ugh! We've been spotted! Let's just get out of here!",
+			"Oops, they found me! Let's get out of here for now!"
+		]
+	],
+	"70": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250596,
+			"Hoho… We are safe now.",
+			"呼呼……到这里看来比较安全呢。",
+			"ハァ、ハァ……ここまで来れば安全みたいね……。",
+			"하아, 하아...... 여기까지 오면 안전한 것 같네......",
+			"<i>Huff, huff...</i> seems we're safe now...",
+			null,
+			"Hoo hoo ...... to here seems safer yet.",
+			"Huh, huh ...... seems safe to come here ......."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250597,
+			"Emmm… Although it's a little bit far from the bridge, we have no choice.",
+			"嗯，虽然离舰桥远了一些，但是也别无选择了。",
+			"艦橋から離れてしまいましたが、ここの床からも侵入は可能なようです。",
+			"함교에서 멀어져 버렸지만, 여기 바닥으로도 침입이 가능한 것 같습니다.",
+			"We've moved away from the bridge, but it seems possible to enter from the floor here as well.",
+			null,
+			"Well, it's a little far from the bridge, but there's no choice.",
+			"I have moved away from the bridge, but it seems that entry is possible from the floor here."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250598,
+			"*Noise current*",
+			"呲啦呲啦呲啦……",
+			"——ジッ、ジジジジジジッ！",
+			"——찍, 찌지지지직!",
+			"<i>——Bzzz, bzzzzzzzzz!</i>",
+			null,
+			"Bared to the light ......",
+			"--jiggidy, jiggidy, jiggidy!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250599,
+			"How about it? Bronya, can you do this?",
+			"怎么样？布洛妮娅打通了么？",
+			"ブローニャちゃん、どう？配線口への道は開いた？",
+			"브로냐 쨩, 어때? 배선구로 가는 길은 열렸어?",
+			"Bronya-chan, how's it going? Did you get through to the cables?",
+			null,
+			"How's it going? Did Bronya get through?",
+			"How's it going, Bronya? Did you make your way to the wiring opening?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250600,
+			"This is… Why there is such a thing in aircraft carrier?",
+			"这个是…为什么战舰里会搭载这种东西。",
+			"これは……一体……？",
+			"이건...... 대체......?",
+			"This is... Why would a battleship have something like this...?",
+			null,
+			"This is...why do battleships carry such things in them.",
+			"Is this ...... one ......?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250601,
+			"What happened to Bronya?",
+			"布洛妮娅怎么了？",
+			"ブローニャ、どうかした？",
+			"브로냐, 무슨 일이야?",
+			"Bronya, what's the matter?",
+			null,
+			"What happened to Bronya?",
+			"Bronya, what's wrong?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250602,
+			"Sorry, I failed, this aircraft carrier was modified, there is something special here.",
+			"抱歉，原来的计划失败了，这艘战舰经过了某些特殊改造，原来的线路通道被移出了，底下是一个巨大的空间，似乎搭载了其他系统。",
+			"申し訳ありません、この作戦は失敗です。事前の検索結果とは異なる巨大な空間に繋がりました。どうやら、この戦艦には未知のシステムが組み込まれているようです。",
+			"죄송합니다, 이 작전은 실패입니다. 사전 검색 결과와 다른 거대한 공간으로 연결되었습니다. 어쩌면, 이 전함에는 알려지지 않은 시스템이 탑재되어 있는 것 같습니다.",
+			"Apologies, but this operation has failed. We have been led to a huge space different from the previous search results. It appears that this battleship is equipped with an unknown system.",
+			null,
+			"Sorry, the original plan failed, the battleship has undergone some special modifications, the original wiring channels have been moved out and underneath is a huge space that seems to carry other systems.",
+			"Sorry, this operation has failed. It led to a huge space different from the prior search results. It seems that this battleship has an unknown system built into it."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250603,
+			"Let me see, what's this? A sword?",
+			"让我看看……那是什么东西？剑么？",
+			"ちょっと、見せて。うん？何あれ……剣？",
+			"잠깐, 보여줘. 음? 저건 뭐지...... 검?",
+			"Hey, lemme see. Hm? Is that... a sword?",
+			null,
+			"Let me see ...... What is that thing? Is it a sword?",
+			"Let me see. Hmm? What is that ...... sword?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250604,
+			"Fusion system, the most powerful weapon of Hyperion.",
+			"融合系统，是搭配给休伯利安号的最强武器。",
+			"それは核融合システムよ。ハイペリオンが搭載する最強の武器。",
+			"그건 핵융합 시스템이야. 히페리온에 탑재된 최강의 무기.",
+			"It's a nuclear fusion system, the most powerful weapon Hyperion's got.",
+			null,
+			"The Fusion System, the most powerful weapon paired to the USS Huberian.",
+			"It's a fusion system. The most powerful weapon Hyperion has on board."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250605,
+			"What time!?",
+			"啧！你是什么时候！？",
+			"え……っ！おばさん、いつの間に！？",
+			"엣……! 아줌마, 언제 왔어!?",
+			"Ah...! Old lady, when did you get here?!",
+			null,
+			"Tsk! What time are you!",
+			"What? ......! Auntie, when did this happen!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250606,
+			"Die!",
+			"哼！给我受死吧！",
+			"あんた、またッ！いい加減、観念なさい！",
+			"너, 또야! 이제 그만, 포기해!",
+			"Hmph! Enough of this, give up already!",
+			null,
+			"Hmph! Suffer me to death!",
+			"You again! Enough, give up!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250607,
+			"Armoured bunny, fire!",
+			"重装小兔，发射。",
+			"重装ウサギ19c起動——Fire！",
+			"중장토끼19c 기동——Fire!",
+			"Armored Bunny 19C — fire!",
+			null,
+			"Reload the bunny and launch.",
+			"Heavy-duty rabbit 19c startup--Fire!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250608,
+			"Bang!!",
+			"轰！！",
+			"ズドォオオオンッ！！",
+			"쾅-!!",
+			"<i>BOOOOOMM!!</i>",
+			null,
+			"Boom!!!",
+			"Zdooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250609,
+			"How can you hit me!",
+			"怎么可能打得中我！",
+			"そんなもん、この私に当たるとでも？",
+			"그런 걸로 내게 맞출 수 있을 거 같아?",
+			"Did you really think something like that could hit me?",
+			null,
+			"How can I be hit!",
+			"Do you think you can hit me with that?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250610,
+			"Sorry, you're not my aim.",
+			"抱歉，布洛妮娅的目标也不是你。",
+			"残念ながら、ブローニャのターゲットは、あなたではありません。",
+			"안타깝게도, 브로냐의 타겟은 당신이 아니에요.",
+			"Sorry, but Bronya's target wasn't you.",
+			null,
+			"Sorry, but Bronya's target is not you either.",
+			"Unfortunately, you are not the target of Bronya."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250611,
+			"Bang!!!",
+			"轰隆隆！！！",
+			"ドンッ——ガラッ、ガシャッ！！",
+			"쿵——와장창, 쨍그랑!!",
+			"<i>Bang—— Rattle, rattle!!</i>",
+			null,
+			"Rumble!!!",
+			"Don't -- rattle, rattle!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250612,
+			"Errr, the roof!?",
+			"呃！顶部的装甲塌落了！？",
+			"なっ！天井が崩れた！？くそ、狙いは足止めか！",
+			"뭐야! 천장이 무너졌어!? 젠장, 발을 묶으려는 거군!",
+			"Wha—! The ceiling collapsed?! Shit, you were aiming to stall me!",
+			null,
+			"Ugh! The top armor has collapsed!",
+			"Nah! The ceiling collapsed! Damn, the aim is to stall!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250613,
+			"Mei, let's go, we have no other ways.",
+			"芽衣姐姐，我们走吧，现在只能从正面突入了。",
+			"芽衣姉様、行きましょう。艦橋へは正面突破しかありません。",
+			"메이 언니, 갑시다. 함교로는 정면 돌파밖에 없어요.",
+			"Let's go, Mei. The only way to get to the bridge is through the front.",
+			null,
+			"Meiko-san, let's go. Now we can only break in from the front.",
+			"Sister Mei, let's go. The only way to the bridge is through the front door."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250614,
+			"Sorry for breaking your things. Very sorry!",
+			"嗯，打坏了您的东西，真是对不起了！",
+			"えっ、ええ！ごめんなさい、あなたの艦をまた壊しちゃって……。",
+			"어, 어머! 미안해요, 당신의 함을 또 부숴버렸네요...",
+			"O-Okay! Sorry we destroyed your ship again...",
+			null,
+			"Well, I'm sorry for breaking your stuff!",
+			"Eh, yeah! Sorry, I broke your ship again. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250615,
+			"Hey!! It's a huge hole, she must be very angry……",
+			"喂喂！天花板都打出大洞了！连云都看得见了啊！感觉那个阿姨会被气死吧……",
+			"あらら～、また大穴空けちゃって……。これはおばさんも怒るわ。",
+			"아이고~ 또 큰 구멍을 냈네... 이건 아줌마도 화낼 거야.",
+			"Oh my~ We've made another giant hole... I bet that old lady's gonna be furious.",
+			null,
+			"Hey, hey! There's a big hole in the ceiling! Even the clouds can be seen! It feels like that aunt will be angry ......",
+			"Oh my gosh, another big hole in the ground. ...... This makes my aunt angry."
+		]
+	],
+	"71": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250616,
+			"What should we do now, just rush to the bridge?",
+			"我们现在该怎么办？难道就杀出一条血路，冲进舰桥指挥室？",
+			"それで、どうすんの？艦橋に続く道を守るヤツら全員、血祭りにでもしながら進むわけ？",
+			"그래서, 어떻게 할 거야? 함교로 이어지는 길을 지키는 놈들 전부, 피바다를 올리면서 나아가는 거야?",
+			"So, what're we gonna do? Slaughter everyone guarding the bridge and then go ahead?",
+			null,
+			"What do we do now? Do we just kill the way out and storm the bridge command room?",
+			"So what are you going to do? Are we going to go on and make a bloodbath of all the people guarding the path to the bridge?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250617,
+			"This is best way now.",
+			"这是目前的最佳方案了。",
+			"目下、それが最良の選択です。",
+			"현재로선 그게 최선의 선택입니다.",
+			"For now, that is the best option.",
+			null,
+			"This is the best solution available.",
+			"That is the best option at hand."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250618,
+			"You call this best?!",
+			"这是哪门子的最佳啊！",
+			"どこが最良よ！",
+			"뭐가 최선이야!",
+			"What kind of \"best option\" is that?!",
+			null,
+			"What kind of best is this!",
+			"Where is the best!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250619,
+			"Kiana! Keep moving, we have no other choice.",
+			"琪亚娜，不管怎么说都已经走到这一步了，现在只有继续前进了。",
+			"キアナちゃん、ひとまず先に進みましょう。もう後には引けないんですもの。",
+			"키아나 쨩, 일단 먼저 가자. 이미 뒤로 물러설 수 없어.",
+			"Kiana-chan, let's just keep moving forward for now. There's no turning back now.",
+			null,
+			"Kiana, no matter what has come to this point, now only to move on.",
+			"Kiana, let's move on for now. We can't back out now."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250620,
+			"Alright, let's go.",
+			"好吧，就算是为了老爹的情报，就赌一把吧！",
+			"はぁ、わかったよ。それにパパの情報のためだもん、上手くいく可能性は五分五分だけど、前進しなくちゃね！",
+			"하아, 알았어. 게다가 아빠의 정보를 위해서라도, 잘 될 가능성은 반반이지만, 앞으로 나아가야 해!",
+			"<i>Sigh,</i> fine. Even if it's just for information on my dad, we have to move forward and take this gamble!",
+			null,
+			"Well, even if it's for Pop's information, let's bet on it!",
+			"Huh, I get it. And it's for Dad's information, so we have to move forward, even though there's a 50-50 chance it will work!"
+		]
+	],
+	"72": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250621,
+			"It's so hard… Mecha girls, Valkyries…",
+			"喂喂！这又是机甲兵器又是女武神追兵的！这游戏怎么这么难啊！",
+			"もうっ、もうっ！！機甲兵器やら戦乙女やらがワラワラ湧いてきて、ちょっと無理ゲーすぎない！？",
+			"젠장, 젠장!! 기갑병기나 전투소녀나 우글우글 쏟아져 나오는데, 좀 너무 무리한 난이도 아냐!?",
+			"Oh, come <i>on!!</i> Mechas and Valkyries are popping up everywhere! Isn't this a bit too much?!",
+			null,
+			"Hey, hey! This is a mecha weapon and a Valkyrie chaser! Why is this game so difficult!",
+			"Mooooooooo! Armored weapons and battle maidens are coming out of the woodwork, and it's a little too much to take!"
+		],
+		[
+			"msg",
+			250622,
+			"Bronya! Are those Mecha girls your allies? Can you ask them stop firing!?",
+			"布洛妮娅！这些机甲不是和你一个阵营的么？就没有什么友方识别么！？",
+			"ブローニャ！機甲も一応敵ではあるけど、今はこっち陣営じゃないの！？分別なく攻撃しているような気がするけど！？",
+			"브로냐! 기갑도 일단 적이긴 하지만, 지금은 우리 편 아냐!? 분별없이 공격하는 것 같은데!?",
+			"Bronya! Aren't these mechs on your side? Don't they have any friendly fire identification?!",
+			null,
+			"Bronya! Aren't these mechs on the same side as you? Isn't there any friendly identification!",
+			"Bronya! I know the armored ones are the enemy, but they're not in our camp right now! It seems to me that they are attacking us sensibly!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250623,
+			"Sorry, they can't detect my mark now, I'm their enemies now.",
+			"抱歉，识别系统在之前的战斗中被琪亚娜损坏了，所以现在它们也是布洛妮娅的敌人。",
+			"……識別システムをキアナが戦闘中に破壊してしまったようです。この機甲兵器は、今やブローニャたちの敵です。",
+			"......식별 시스템을 키아나가 전투 중에 파괴해 버린 모양입니다. 이 기갑병기는 이제 브로냐 너희들의 적이에요.",
+			"...It appears that Kiana destroyed the identification system during the battle. These mechas are now our enemy.",
+			null,
+			"Sorry, the identification system was damaged by Kiana in the previous battle, so now they are also Bronya's enemy.",
+			"It seems that Kiana destroyed the ...... identification system during the battle. This armored weapon is now the enemy of Bronya and his team."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250624,
+			"So, it's your fault, Kiana~",
+			"所以说琪亚娜你的操作有问题啦~",
+			"キアナちゃんのせいなのね……。",
+			"키아나 때문이네…….",
+			"So it's Kiana-chan's fault...",
+			null,
+			"So Kiana you have a problem with the operation ~",
+			"It's Kiana's fault. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250625,
+			"Noooo~",
+			"这个锅我不背！",
+			"そ、そんなの知らなかったんだもん！",
+			"그, 그런 거 몰랐단 말야!",
+			"I-I didn't know that!",
+			null,
+			"I won't take the blame for this!",
+			"Well, I didn't know that!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250626,
+			"「Alert! Alert! Invaders detected!」",
+			"「警报！警报！发现入侵者位置，全舰战力集合」",
+			"「警報！警報！侵入者を発見しました！直ちに迎撃せよ！繰り返す——」",
+			"「경보! 경보! 침입자를 발견했습니다! 즉각 요격하라! 반복——」",
+			"\"Alert! Alert! Intruders detected! Intercept immediately! I repeat—\"",
+			null,
+			"\"Alert! Warning! Intruder position detected. All ships assemble.\"",
+			"Alarm! Alarm! We have an intruder! Intercept immediately! I repeat--\""
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250627,
+			"Must we do this in such a aboveboard way?",
+			"我们这不就等于告诉她们我们要入侵舰桥么，这么光明正大的样子真的好么？",
+			"こんな戦闘音ばかり響かせてたら、相手に目的地を教えているようなものよね……。もう少し、何とかならないかしら？",
+			"이런 전투 소리만 자꾸 내면, 상대방에게 목적지를 알려주는 거나 마찬가지야……. 좀 더 방법이 없을까?",
+			"If we keep fighting so blatantly, it's basically telling the enemy where we're heading... Can't we do something about it?",
+			null,
+			"We are not the same as telling them that we are going to invade the bridge, is it really good to look so open and honest?",
+			"If you keep making these battle sounds, it's like you're telling them where you're going. ...... Can't we do something about it?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250628,
+			"There is a way to weak our enemies, that is break the garden, the Houkai energy would  afftect some people.",
+			"有一个方法可以削减敌方的战力，就如布洛妮娅之前所说，这个温室花园可能是用来净化崩坏的系统，如果让崩坏能从系统中泄露出来，就能让一般人员感染崩坏损耗战力。",
+			"ひとつ、敵の戦力を削ぐ方法があります。ブローニャが先ほど言ったように、ここの庭園には崩壊を浄化するシステムがあると推測されます。そのシステムから崩壊が漏れ出せば、敵は感染し戦力が大幅に落ちるはずです。",
+			"하나, 적의 전력을 약화시킬 방법이 있습니다. 브로냐가 방금 말했듯이, 이곳 정원에는 붕괴를 정화하는 시스템이 있다고 추측됩니다. 그 시스템에서 붕괴가 누출되면, 적은 감염되어 전력이 크게 떨어질 겁니다.",
+			"There is one way to weaken the enemy's fighting power. As Bronya said earlier, Bronya believes there is a system in place to purify the Honkai in this garden. If the Honkai leaks out of that system, the enemy will become infected and their fighting power will be greatly reduced.",
+			null,
+			"There is a way to cut the enemy's battle power, as Bronya said before, this greenhouse garden may be used to purify the system of collapse, if you let the collapse can leak out of the system, you can make the general personnel infected with collapse loss of battle power.",
+			"There is one way to reduce the enemy's strength. As Bronya mentioned earlier, I assume that the gardens here have a system to purify decay. If decay leaks out of that system, the enemy will be infected and their strength will be greatly reduced."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250629,
+			"Absolutely not! We can't do this!",
+			"绝对不行！那我们不就和恶徒一样了么？我宁愿用实力和她们大战一场！",
+			"そんなの絶対にダメッ！それじゃ、まるで悪人だよ。それなら戦う方が全然マシ！！",
+			"그건 절대 안 돼! 그건 완전 악당이나 하는 짓이야. 그럴 바엔 싸우는 게 훨씬 나아!!",
+			"Hell no! That'd only make us seem like villains. It's way better to fight!!",
+			null,
+			"Absolutely not! Wouldn't we be just like the villains? I'd rather use my strength to fight them!",
+			"Absolutely not! That makes you look like a bad guy. Then it's totally better to fight!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250630,
+			"I can't understand you, we should use all ways to win.",
+			"布洛妮娅无法理解，在作战层面上最佳的方案不应该以感情色彩去否定它的实用性。",
+			"ブローニャには理解できません。感情論で作戦を語るべきではありません。",
+			"브로냐는 이해할 수 없습니다. 감정론으로 전술을 말해서는 안 됩니다.",
+			"Bronya doesn't understand. Strategies shouldn't be based on emotion.",
+			null,
+			"Bronya couldn't understand that the best solution at the operational level shouldn't be denied its practicality with emotional overtones.",
+			"Bronya does not understand. You should not talk about the operation in emotional terms."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250631,
+			"Bronya, we are human, not machines, there is something we can't do as a human being.",
+			"布洛妮娅，人的生命不是用感情去衡量的东西，而是每个人平等拥有的权利，我们不是为了杀戮而战斗的，这点请不要忘记了。",
+			"ブローニャちゃん、違うわ。命は、みんなが平等に与えられたものなの。私たちは、命を奪うために戦っているわけじゃない。守るために戦わないと。忘れないで。",
+			"브로냐, 아니야. 생명은 모두에게 평등하게 주어진 거야. 우리는 생명을 빼앗으려고 싸우는 게 아니야. 지키기 위해 싸워야 해. 잊지 말아줘.",
+			"That's not true, Bronya-chan. Life is something that is given equally to everyone. We don't fight to take lives, we fight to protect them. Don't forget that.",
+			null,
+			"Bronya, human life is not something to be measured by emotions, but a right that everyone has equally, we are not fighting to kill, please don't forget that.",
+			"Bronya, no. Life is given to all of us equally. We are not fighting to take life. We must fight to protect it. Remember."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250632,
+			"…… I got it, I need to think about this.",
+			"……明白了，布洛妮娅需要理解一下其中的寓意。",
+			"……ブローニャ、了解しました。しかし、完璧に理解するには時間が必要なようです。",
+			"……브로냐, 알겠습니다. 하지만 완벽히 이해하는 데는 시간이 필요할 것 같습니다.",
+			"... Roger that. But it seems Bronya will need some time to fully understand it.",
+			null,
+			"...... understood that Bronya needed to understand the moral of the story.",
+			"...... Bronya, I understand. However, it seems that I need time to understand it perfectly."
+		]
+	],
+	"73": [
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251049,
+			"Shicksal's aircraft carrier has found something weird, it maybe…",
+			"天命的舰船中发现了不明装置，外形上看可能是……",
+			"核融合システムのスキャンを開始します。形状および周囲の設備からして——",
+			"핵융합 시스템 스캔을 시작합니다. 형태 및 주변 설비로 미뤄볼 때 ——",
+			"Beginning scan of fusion system. Based on its shape and surrounding equipment——",
+			null,
+			"Unidentified device found in the ship of providence, the appearance of which may be ......",
+			"Start scanning for fusion systems. Given the geometry and surrounding equipment--"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251050,
+			"Bronya, what are you doing there, follow us!",
+			"布洛妮娅，你在那边干嘛呢，快跟上来！",
+			"——何してるのブローニャ！早くついて来て！",
+			"—— 뭐 하고 있어 브로냐! 빨리 따라와!",
+			"——What're you doing, Bronya?! Hurry up and follow me!",
+			null,
+			"Bronya, what are you doing over there? Come on, follow me!",
+			"--What are you doing, Bronya? Come on, follow me!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251051,
+			"I was just thinking what was the thing.",
+			"布洛妮娅只是在想刚才的那个装置，究竟是什么东西。",
+			"ブローニャは、さっきほどの核融合システムについて、詳細を調べていました。",
+			"브로냐는 방금 전의 핵융합 시스템에 대해 자세히 조사하고 있었습니다.",
+			"Bronya was examining the details of the fusion system from before.",
+			null,
+			"Bronya was just wondering what that device was that was just there.",
+			"Bronya was working out the details of the fusion system I mentioned earlier."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251052,
+			"Do you mean the sword, yes, it's too huge, I don't know who can use it…",
+			"就是那把剑么，确实有点大的离谱了呢，那种东西谁能拿得动……",
+			"それって、あの剣のこと？確かに規格外よね。あんなバカデカい剣、持てる人いるのかな……。",
+			"그거, 그 검 말이야? 확실히 규격 외네. 저런 말도 안 되게 큰 검, 들 수 있는 사람이 있을까…….",
+			"Are you talking about that sword? It certainly is out of the ordinary. I wonder if there's anyone who can even wield such a ridiculously huge sword...",
+			null,
+			"Is that the sword, indeed a little big outrageous it, that kind of thing who can hold ......",
+			"You mean that sword? It's definitely out of the norm. I wonder who can hold such a ridiculously large sword. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251053,
+			"I remember I have seen a smiliar one from animation, it's called……",
+			"或许是从战舰的侧翼伸出的呢，以前看过的动画有类似的武器，名字叫……",
+			"もしかして、戦艦の側翼から剣を出すんじゃないかしら？昔、アニメで似たようなものを見たことある気がするの！えっと、何だったかしら——",
+			"혹시 전함의 측면에서 검을 꺼내는 건 아닐까? 예전에 애니메이션에서 비슷한 걸 본 기억이 나! 음, 뭐였더라——",
+			"Maybe the swords are supposed to come out of the side wings of the battleship? I feel like I've seen something similar in an anime before! Um, what was it called——",
+			null,
+			"Perhaps from the flank of the battleship stretched out it, previously watched the animation has a similar weapon, the name is ......",
+			"Maybe they could pull swords out of the side wings of the battleship? I think I saw something like that in a cartoon once! I'm not sure what it was..."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251054,
+			"Ah~ I didn't expect you have knowledge about animation.",
+			"诶~没想到芽衣学姐居然对动画也有研究么？",
+			"——へぇ、芽衣先輩もアニメとか見るんだ～。",
+			"——허엥~ 메이 선배도 애니 보는구나~.",
+			"——Wow, so Mei-senpai watches anime too~",
+			null,
+			"Eh~ I didn't expect Meiko to have studied animation too?",
+			"--Heh, Mei-senpai also watches anime and such."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251055,
+			"Errrr! No! I only watch them when I'm too lonely…",
+			"呃！不是啦！只是一个人寂寞的时候才看到的……",
+			"た、たまたまよ！一人で寂しかった時、ちょっとだけ気になって見たの。",
+			"그, 그냥 우연이야! 혼자서 외로울 때, 잠깐 궁금해서 본 거라고.",
+			"I-It's just a coincidence! I was simply feeling lonely and was curious to see it.",
+			null,
+			"Uh! No! I just saw it when I was alone and lonely ......",
+			"It was just a coincidence! I was alone and lonely, and I just kind of took a look."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251056,
+			"Alright~ I get it.",
+			"好啦~我知道，芽衣学姐说的也有道理，用战舰来挥刀听起来的确很拉风呢~",
+			"はいはい、確かに戦艦が剣を振るうのも、ロマンがあってかっこいいよね～。",
+			"그래 그래, 확실히 전함이 칼을 휘두르는 것도, 로망이 있고 멋지지~.",
+			"Yeah, yeah, it's certainly really cool to see a battleship wielding a sword though~",
+			null,
+			"Well, I know, Meiko-san also has a point, using a battleship to swing a sword does sound very cool ~",
+			"Yes, yes, it sure is cool and romantic to have a battleship wielding a sword!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251057,
+			"Look at that blade, we can know it's not made for aircraft carrier, I think we can get more information after we check it more closer.",
+			"但是那个刀的结构，感觉并不是战舰用的装备，如果能够下到下层近距离调查的话一定可以获取更多的资料。",
+			"あの剣の造り、戦艦用の装備とは思えません。近くに行けば何か分かるかもしれませんが……。",
+			"저 칼의 구조, 전함용 장비라고는 생각할 수 없네요. 가까이 가면 뭔지 알 수 있을지도 모르지만....",
+			"Based on the construction of that sword, it doesn't seem like it's for this battleship to equip. Maybe if I was close enough, I'd be able to see something...",
+			null,
+			"But the structure of that knife, the feeling is not a warship with the equipment, if you can go down to the lower level of close investigation then you can certainly get more information.",
+			"I don't think that sword is built or equipped for battleships. If you get close enough, you might be able to find out what it is. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251058,
+			"Hey? Are you kidding me! Do you know where is us now?",
+			"喂喂！你在说笑么！你忘了我们现在的处境了么！",
+			"何をバカなこと言ってんのよ！私たちの状況分かってる！？",
+			"뭔 헛소리를 하는 거야! 우리 상황 이해하고 있어!?",
+			"Are you joking?! Do you understand our situation right now?!",
+			null,
+			"Hey, hey! Are you kidding! Have you forgotten the situation we are in!",
+			"What are you talking nonsense? Do you understand our situation!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251059,
+			"Humph, I just said I have that plan, but I didn't try to make it real, relax, Kiana!",
+			"嗯，布洛妮娅只是说有这个计划，但是并没有想要事实，琪亚娜太紧张了。",
+			"ブローニャは可能性を示唆しただけです。実行するとは言っていません。キアナこそ、何を焦っているのですか？",
+			"브로냐는 가능성을 제시했을 뿐이에요. 실행하겠다고 말한 건 아니잖아요. 키아나 쪽이 왜 그렇게 조급해하는 거죠?",
+			"Bronya only hinted at the possibility. She never said she would actually do it. What are you so paranoid about, Kiana?",
+			null,
+			"Well, Bronya just said there was this plan, but didn't want the truth, and Kiana was too nervous.",
+			"Bronya only suggested the possibility. I did not say it would be done. What is it that you are in such a hurry to do, Kiana?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251060,
+			"Well~",
+			"哼，那就好。",
+			"んなっ！",
+			"이런!",
+			"Hmph!",
+			null,
+			"Hm, that's good.",
+			"Nope!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251061,
+			"Ah! The name should be \"Zanjintou\"!",
+			"啊！对了好像是叫斩舰刀来着！",
+			"あっ！そうだ、極光斬艦刀よ！",
+			"아! 맞아, 극광참함도야!",
+			"Ah! That's right, it's Aurora Zankantou! (TN: This is a weapon in Honkai Impact: honkaiimpact3.fandom.com/wiki/Schiffschneider.)",
+			null,
+			"Ah! By the way, it seems to be called the Chopper!",
+			"Ah! Yes, it's a polar light slashing sword!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			251062,
+			"Errrr… You were still thinking about that thing.",
+			"呃……原来芽衣学姐还在想这个事情么。",
+			"芽衣先輩……もしかして、ずっと考えてたの……？",
+			"메이 선배...... 혹시, 계속 생각하고 있었어......?",
+			"Mei-senpai... have you been hung up on that this whole time...?",
+			null,
+			"Uh ...... So Meiko-senpai is still thinking about this thing?",
+			"Mei Senpai ...... maybe you've been thinking about it all along ......?"
+		]
+	],
+	"74": [
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250633,
+			"This is the bridge.",
+			"前面就是舰桥的控制室了。",
+			"あそこが艦橋です。",
+			"저기가 함교입니다.",
+			"The bridge is straight ahead.",
+			null,
+			"Up ahead is the bridge control room.",
+			"That is the bridge."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250634,
+			"Finally…",
+			"终于到了这一步了么……",
+			"やっと、ここまで来たね……。",
+			"드디어, 여기까지 왔네...",
+			"Finally, we're here...",
+			null,
+			"Has it finally come to this ......",
+			"Finally, we're here. ......"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250635,
+			"Humph! How dare you attack me in such a aboveboard way?",
+			"哼！真是无谋的家伙们，居然从正面进攻，终于放弃了小聪明想要自寻死路了么？",
+			"ハッ、どんだけ無謀なのよ。艦の中枢にわざわざ正面から乗り込んでくるなんて！それとも何？いたぶってほしいわけ？",
+			"허, 얼마나 무모한 거야. 함선의 중추에 일부러 정면으로 들어오다니! 아니면 뭐? 괴롭힘 당하고 싶다는 거?",
+			"Hah, how foolish are you? You went straight into the heart of the ship! Or what? Do you want me to beat you?",
+			null,
+			"Hmph! What tactless guys, actually attacking from the front, finally giving up on their smarts and trying to kill themselves?",
+			"Ha, how reckless they are. How dare you go all the way to the front of the ship to get into the heart of the ship! Or what? Do you want me to beat you up?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250636,
+			"So many enemies.",
+			"果然有重兵把守么。",
+			"やっぱり、いたわね。",
+			"역시, 있었네.",
+			"I knew it, she's here.",
+			null,
+			"It is true that there are heavy guards.",
+			"I knew you were there."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250637,
+			"Hyperion is powerful, it's not so easy to beat us.",
+			"这艘休伯利安可是圣芙蕾雅学园的中坚战力，可没有那么容易被突破，逆熵耍的这些花招根本不可能成功。",
+			"この戦艦——ハイペリオンは、聖フレイヤ学園の中でもトップクラスの戦力を誇るわ。そう簡単にやられはしないわよ。ネゲントロピーの下っ端どもじゃ、到底敵わないんだから諦めなさい。",
+			"이 전함 ——히페리온은, 세인트 프레야 학원에서도 탑 클래스의 전력을 자랑해. 그렇게 쉽게 당하진 않을 거야. 네겐트로피의 하찮은 졸개들론, 감히 상대도 안 되니까 포기해.",
+			"This battleship — Hyperion — is one of the most powerful battleships in St. Freyja Academy. It won't be taken down so easily. You Anti-Entropy underlings are no match for it, so give up.",
+			null,
+			"This Huberian is the backbone of St. Freya's school of warfare, not so easy to be broken through, reverse entropy play these tricks simply can not succeed.",
+			"This battleship - Hyperion - is one of the most powerful ships in St. Freya Academy. You won't be beaten so easily. The lowly men of Negentropy are no match for it, so give it up."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250638,
+			"Trust me, there must be some misunderstandings, we are not from Anti-entropy!",
+			"请相信我们的话！我们不是你说的逆熵成员，这一切都是误会！",
+			"私たちは、ネゲントロピーではありません！誤解です。信じてください！",
+			"우리는 네겐트로피가 아닙니다! 오해예요. 믿어주세요!",
+			"We are not part of Anti-Entropy! It's a misunderstanding. Please believe us!",
+			null,
+			"Please take our word for it! We are not members of Reverse Entropy as you say, this is all a misunderstanding!",
+			"We are not negentropic! It's a misunderstanding. Please believe us!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250639,
+			"I don't want to hear those things, I don't believe it.",
+			"哼，事到如今还要狡辩么？",
+			"ふんっ、まだシラばっくれる気？見苦しいわよ。",
+			"훗, 아직도 발뺌할 셈? 보기 흉하네.",
+			"Hmph, you're still playing dumb? How unsightly.",
+			null,
+			"Hmph, do you still want to be sophomoric now?",
+			"You're still trying to play dumb, aren't you? It's not looking good."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250640,
+			"We are just want to leave here, aunt!",
+			"真是不懂变通的阿姨，如果我们是逆熵的人为什么还要和这些机甲兵器作战，我们只想离开这里而已！",
+			"どんだけ話の通じない、おばさんなのよ。いい？私たちが仮にネゲントロピーだったとして、どうして機甲と戦ってるわけ？あり得ないでしょ？私たちは、ただここから出たいだけなの！",
+			"얼마나 말이 통하지 않는 아줌마야. 알겠어? 우리가 만약 네겐트로피였다면, 왜 기갑과 싸우고 있는 거야? 말이 안 되잖아? 우리는 그냥 여기서 나가고 싶을 뿐이야!",
+			"How out of touch are you with this conversation, old lady? Listen, even if we were from Anti-Entropy, why are we fighting with mechas? It's impossible, right? We just want to get out of here!",
+			null,
+			"What a fickle auntie, if we're from reverse entropy why are we fighting these mech weapons, we just want to get out of here!",
+			"How out of touch you are with the conversation, old lady. Okay? If we were negentropy, how come we're fighting armored? How is that even possible? We just want to get out of here!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250641,
+			"I have checked your background, rich girl Raiden Mei for ME Co., Ltd, little kid the Anti-entropy weapon and twhite hair girl.",
+			"你们的身份我已经有所调查。雷电芽衣，ME社的千金大小姐，与逆熵勾结甚密的雷电龙马之女。这边的小鬼应该是逆熵的新兵器吧，能够搭载那种机甲装备的人类，这也算是平民么！？",
+			"あんたらのことは調べさせてもらったわ。まずそっちの娘——雷電芽衣、あんたはネゲントロピーと通じているME社社長、雷電龍馬の娘。そして、そっちのガキはネゲントロピーの新兵器。その機甲が何よりの証拠ね。",
+			"너희들에 대해 조사해봤어. 먼저 저쪽 소녀 ——라이덴 메이, 너는 네겐트로피와 연결된 ME사 사장, 라이덴 류마의 딸. 그리고, 저쪽 꼬맹이는 네겐트로피의 신병기. 그 기갑이 가장 확실한 증거야.",
+			"I've been researching you guys. First of all, this girl — Raiden Mei, you're the daughter of Raiden Ryoma, the president of ME Corp., who has ties to Anti-Entropy. And then, that brat over there is Anti-Entropy's new experimental weapon. That mecha of hers is obvious proof.",
+			null,
+			"I have investigated your identities. Raiden Meiko, the daughter of Raiden Ryoma, the daughter of the ME Society's daughter, who is in close collusion with Counter Entropy. The kid over here must be a new weapon of Counter Entropy, right?",
+			"I've done some research on you guys. First of all, your girl--Mei Raiden, you are the daughter of Ryoma Raiden, the president of ME Corporation, who is in contact with Negentropy. And your kid is Negentropy's new weapon. Your armor is the best proof."
+		],
+		[
+			"msg",
+			250642,
+			"Although I haven't found information about the white hair girl… But your movement told me you are not good person.",
+			"至于你，白发的丫头，虽然还没有具体情报，但是你的言行已经表明了你的意图，而我要做的就是审判而已！",
+			"そして、そこの白髪のガキ。詳しい理由は分からないが、お前の言動から艦橋で何をしようとしているのかは分かった。そして、私がすべきことは、疑わしいお前らに審判を下すことだ！",
+			"그리고, 저기 백발의 꼬맹이. 자세한 이유는 모르겠지만, 네 말투에서 함교에서 무얼 하려는 건지 알겠어. 그리고, 내가 해야 할 일은 수상한 너희들에게 심판을 내리는 거다!",
+			"And you, white-haired brat. I don't know the exact reason, but I can tell from your words and actions what you're trying to do to the bridge. Now, all I have to do is to pass judgment on you suspicious bastards!",
+			null,
+			"As for you, the white-haired girl, although there is no concrete information yet, your words and actions have already shown your intentions, and all I have to do is just judge!",
+			"And that white-haired kid there. I don't know the details of why, but I know what you are trying to do on the bridge from what you say and do. And all I have to do is pass judgment on you suspicious people!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250643,
+			"Do you mean there is some relationships between ME Co., Ltd and Anti-entropy? Do you have any information about my father? What happened to her?",
+			"你是说ME社和逆熵有联系么…那你知道有关我父亲的消息么！他到底怎么了！",
+			"やっぱり、ME社とネゲントロピーは関係があるのね……じゃあ、お父様のことも知っているの？教えて！お父様は今どこにいるの！？",
+			"역시, ME사와 네겐트로피는 관계가 있는 거네... 그럼, 아버님에 대해서도 알고 있는 거야? 말해줘! 아버님은 지금 어디에 있는 거야!?",
+			"So ME Corp. and Anti-Entropy are connected after all... Then, you know something about my father? Tell me! Where is he now?!",
+			null,
+			"Are you saying that the ME Society has a connection with Counter-Entropy...and do you know anything about my father? What happened to him!",
+			"I knew there was a connection between ME and negentropy. ...... So, do you know about your father? Tell me! Where is your father now!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250644,
+			"You don't need to know this.",
+			"这种事情你不需要知道。",
+			"くくっ、演技もそこまでいくと、笑っちゃうわね。",
+			"쿡쿡, 연기도 그 정도면 웃음이 나오겠네.",
+			"You don't need to know that.",
+			null,
+			"You don't need to know about such things.",
+			"Kukk, when the acting gets to that point, it's laughable."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250645,
+			"Humph, I think we should give her a lesson, let's go, Mei!",
+			"哼！看来多说无益了，芽衣学姐，我们上吧！就让你知道我们的厉害！",
+			"こんだけ言っても信じないってんなら、もう力づくしかないよね！芽衣先輩、私たちの力を見せつけてやろうよ！",
+			"이렇게 말해도 안 믿는다면, 이젠 힘으로 밖에 없지! 메이 선배, 우리의 힘을 보여주자고!",
+			"Since you still won't believe us egen after we told you all this, then we have no choice but to resort to force! Mei-senpai, let's show her our strength!",
+			null,
+			"Hmph! I guess there's no point in talking, Meiko-san, let's go! Let's show you what we're made of!",
+			"If they don't believe me after all I've said, then I guess we'll just have to make our power stronger! Mei-senpai, let's show them our power!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250646,
+			"You can't beat me!",
+			"作为小孩子来说你们的勇气的确值得赞赏，但是你们是不可能战胜我的！",
+			"あら、ガキにしちゃ度胸があるわね。でも、私には勝てないわよ！",
+			"어머, 꼬맹이치곤 배짱이 있네. 하지만, 내게는 이길 수 없어!",
+			"Oh my, you've got guts for a little brat. But you can't beat me!",
+			null,
+			"Your courage as children is indeed commendable, but you will not be able to defeat me!",
+			"Oh, you've got some nerve for a kid. But you can't beat me!"
+		],
+		[
+			"msg",
+			250647,
+			"Fusion system, prepare for battle with Mecha girls after I beat those kids.",
+			"控制台，启动休伯利安号融合系统，等我解决掉入侵者，就将逆熵的机甲兵器一网打尽。",
+			"制御室！核融合システム——Nexusを起動せよ！この侵入者どもを一網打尽にするわよ！！",
+			"제어실! 핵융합 시스템 ——Nexus를 기동해! 이 침입자들을 일망타진할 거야!!",
+			"Control room! Activate the Nexus Fusion System! I'll round up these intruders once and for all!!",
+			null,
+			"Console, activate the Huberian fusion system, and when I take care of the intruders, I'll wipe out the inverse entropy mecha weaponry in one fell swoop.",
+			"Control Room! Activate the fusion system--Nexus! We're going to round up these intruders!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250648,
+			"Fusion system, what's …",
+			"融合系统，那到底是……",
+			"核融合システムNexus……。",
+			"핵융합 시스템 Nexus…….",
+			"Nexus Fusion System...",
+			null,
+			"Fusion Systems, that's ...... exactly",
+			"Fusion Systems Nexus. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250649,
+			"Bang!!!",
+			"轰！！！",
+			"ゴゴゴゴゴ……ッ！！",
+			"고고고고고……쓰!!",
+			"<i>RUMBLE...!</i>",
+			null,
+			"Boom!!!",
+			"Gogogogogo ......!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250650,
+			"What's this sound!?",
+			"唔！这是什么声音！",
+			"やっ！な、何っ！？",
+			"앗! 뭐, 뭐야!?",
+			"Wh—! What's that sound?!",
+			null,
+			"Well! What is that sound!",
+			"Yah! What?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250651,
+			"Although I want to show you the real power of Hyperion, but you will end here.",
+			"虽然很想让你们见识一下休伯利安的真正力量，但是很可惜，你们在这里就要倒下了。",
+			"ちっ、まだ準備には時間が掛かるか。Nexusの力を見せられなくて残念だけど、あんたたち相手に必要もないわね。",
+			"쳇, 아직 준비에는 시간이 걸리는군. Nexus의 힘을 보여줄 수 없어서 아쉽지만, 너희들 상대론 필요도 없겠네.",
+			"Tch, it'll take some time to get ready. It's a shame I couldn't show you the power of Nexus, but there's no need to against you guys.",
+			null,
+			"As much as I would like to show you the true power of Huberian, unfortunately, you are about to fall here.",
+			"Damn, it's going to take a while to get ready, too bad we won't be able to show you what Nexus can do, but we don't need to with you guys."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250652,
+			"The floor opens, does the system start?",
+			"战舰的甲板打开了，是刚才的系统启动了么？",
+			"戦艦の甲板が開いてく。さっき言っていたシステムが起動したのかしら！？",
+			"전함의 갑판이 열리고 있어. 아까 말하던 시스템이 기동된 건가!?",
+			"The deck of the battleship is opening up. Is the system activating?! (TN: Not quite sure if this translation is correct...)",
+			null,
+			"The deck of the battleship opened, was the system just activated?",
+			"The deck of the battleship opens up. I wonder if the system I mentioned earlier has been activated!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250653,
+			"High energy detected, this is nuclear power system…",
+			"战舰内部有高能量反应，这个是核动力炉的能量……",
+			"戦艦内に高エネルギー反応、これは……核動力によるエネルギーです。",
+			"전함 내부에 고에너지 반응, 이것은…… 핵동력에 의한 에너지입니다.",
+			"A high-energy reaction is occurring within the battleship, this is... nuclear-powered energy.",
+			null,
+			"There is a high energy reaction inside the battleship, this is the energy of the nuclear power furnace ......",
+			"High energy reaction in the battleship, this is ...... nuclear powered energy."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250654,
+			"Nuclear power? What's that!",
+			"核动力炉？这到底是怎么回事嘛！",
+			"核動力？もう！何かわかんないけど、起動しきる前にさっさと倒すよ！",
+			"핵 동력? 정말! 뭔지 모르겠지만, 기동 완료 전에 빨리 쓰러뜨릴 거야!",
+			"Nuclear-powered? Seriously?! I have no clue what it is, but I'll destroy it before it fully activates!",
+			null,
+			"Nuclear power furnace? What the hell is going on here!",
+			"Nuclear powered? Oh, no! I don't know what it is, but I'll take it out before it activates!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250655,
+			"Ahh… I lost to those kids.",
+			"啧……居然大意了，没想到这几个小鬼还挺难对付的。",
+			"ちっ……油断したわ。ガキの割にはやるわね。",
+			"쳇…… 방심했어. 애 주제에 잘 하는군.",
+			"Tch... I let my guard down. You're pretty good for a little brat.",
+			null,
+			"Tsk ...... actually careless, did not expect these few brats are quite difficult to deal with.",
+			"Damn ...... caught me off guard. That's a lot of work for a kid."
+		],
+		[
+			"msg",
+			250656,
+			"Is the fusion armour prepared? Although it's a little bit waste to use it, but in order to finish those in a short time.",
+			"融合装甲准备好了么，虽然对付这几个小鬼有点太浪费了，不过这一切都是为了尽快完成任务。",
+			"核融合装甲の準備はまだなの！ガキども相手にもったいないけど、さっさと片付けて、当初の任務に戻るわよ。",
+			"핵융합 장갑 준비는 아직이잖아! 꼬맹이들 상대론 아깝지만 빨리 처리하고 원래 임무로 돌아갈 거야.",
+			"My fusion armor isn't ready yet! It's a shame to be fighting these brats, but I'll just get rid of them quickly, then get back to my original mission.",
+			null,
+			"Fusion armor ready? It's a bit too wasteful to deal with these kids, but it's all about getting the job done as soon as possible.",
+			"I'm not ready for fusion armor yet! It's a waste of time dealing with those kids, but let's get this over with and get back to our original mission."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250657,
+			"Finish? Are you trying to catch Herrscher too!?",
+			"完成任务？你们也是来抓律者的么！？",
+			"任務？あんたたち、もしかして律者を捕まえに来たの！？",
+			"임무? 너희들, 혹시 율자를 잡으러 온 거야!?",
+			"Mission? Are you guys here to capture the Herrscher?!",
+			null,
+			"Complete the mission? Are you here to catch the Herrscher too!",
+			"A mission? You guys are here to catch the scribes by any chance!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250658,
+			"Herrscher? The information is real! St.Freya HS, here is Hyperion, we need help!",
+			"律者？难道说大崩坏的情报是真的么？又诞生了最新的律者…联络圣芙蕾雅学园本部请求支援，解决掉这几个逆熵的小鬼之后本舰将进入崩坏区域开始对崩坏作战。",
+			"律者？ちっ、大型崩壊の報せは本当だったのね。しかも、律者が生まれるなんて……至急、聖フレイヤ学園に応援要請を。ネゲントロピーのガキどもを始末後、本艦は崩壊区域に入り、既定の作戦を開始する。",
+			"율자? 쳇, 대형 붕괴 소식이 사실이었네. 게다가 율자가 탄생하다니…… 지금 즉시 세인트 프레야 학원에 지원 요청을. 네겐트로피의 애송이들을 처리한 후, 본함은 붕괴 지역으로 진입해 정해진 작전을 시작한다.",
+			"Herrscher? Tch, so the news of a Honkai Eruption was true. And to think that a Herrscher was born... I must immediately request support from St. Freyja Academy. After eliminating these Anti-Entropy brats, the ship will enter the Honkai-affected area and begin its planned operation.",
+			null,
+			"The Herrscher? Is it true that the information about the Great Collapse is true? The newest Ruler has been born again... Contact St. Freya's school headquarters to request support, and after finishing these kids who are against entropy, this ship will enter the collapse area and start fighting against the collapse.",
+			"The Ruler? Damn, the news of a major collapse was true. And a lawbreaker is born. ...... Request support from St. Freya's Academy as soon as possible. After the Negentropy kids are dealt with, the ship will enter the collapse zone and begin default operations."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250659,
+			"Beep beep.",
+			"滴滴——",
+			"プルルル——",
+			"부르릉",
+			"<i>Rrrrring——</i>",
+			null,
+			"Drip-",
+			"Pullulu--"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250660,
+			"This is from the… St.Freya HS?",
+			"这个是…圣芙蕾雅学园的通讯？",
+			"これは……聖フレイヤ学園から？",
+			"이건……세인트 프레야 학원에서?",
+			"This is... from St. Freyja Academy?",
+			null,
+			"Is this...the newsletter of St. Freya's Academy?",
+			"Is this from ...... St. Freya Academy?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250661,
+			"Himeko, you opened the fusion system, what happened?",
+			"姬子少校，听说你启动了休伯利安号的融合系统，到底是怎么回事？",
+			"姫子少佐、ハイペリオンの核融合システムが起動したみたいだけど、どういうことかしら？",
+			"히메코 소좌, 히페리온의 핵융합 시스템이 가동된 것 같은데, 무슨 일이야?",
+			"Major Himeko, it appears Hyperion's nuclear fusion system has been activated. What's going on?",
+			null,
+			"Major Himeko, I heard that you activated the fusion system of the USS Huberian, what is going on?",
+			"Major Himeko, it looks like Hyperion's fusion system has been activated, what does that mean?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250662,
+			"Master Theresa, there are some invaders in Hyperion, we are fight with them now.",
+			"德丽莎园长，休伯利安号遭到逆熵份子侵入，正在进行清理作战。",
+			"テレサ学園長——ハイペリオンは現在ネゲントロピーの侵入に遭い、応戦中となります。",
+			"테레사 학원장히페리온은 현재 네겐트로피의 침입을 받아 응전 중입니다.",
+			"Principal Theresa — Hyperion is currently under attack by Anti-Entropy and is fighting back.",
+			null,
+			"Director Theresa Gardener, the USS Huberian has been invaded by anti-entropy elements and is undergoing cleanup operations.",
+			"Theresa Dean--Hyperion is currently undergoing a Negentropy invasion and will be returning fire."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250663,
+			"Anti-entropy?",
+			"逆熵？",
+			"ネゲントロピー？",
+			"네겐트로피?",
+			"Anti-Entropy?",
+			null,
+			"Inverse entropy?",
+			"Negentropy?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250664,
+			"So I said I'm not from Anti-entropy! I am…",
+			"所以说我才不是逆熵的人！我可是……",
+			"だから、ネゲントロピーじゃないって！私は——",
+			"그러니까, 네겐트로피가 아니라고! 나는——",
+			"I told you, we're not from Anti-Entropy! We're——",
+			null,
+			"That's why I'm not a reverse entropy guy! I am ......",
+			"So, I'm not negentropic! I'm not--"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250665,
+			"Kiana… Are you Kiana·Kaslana!?",
+			"琪亚娜……你是琪亚娜·卡斯兰娜么！？",
+			"——まさか、キアナ？あなた、キアナ・カスラナなの！？",
+			"—— 설마, 키아나? 너, 키아나 카스라나 맞지!?",
+			"——It can't be... Kiana? Are you Kiana Kaslana?!",
+			null,
+			"Kiana ...... Are you Kiana Kaslana!",
+			"--No way, Kiana? Are you Kiana Kasrana?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250666,
+			"Errr… Yes, how do you know my name? Are you my father's enemy?",
+			"呃…没错，唔！你怎么知道我的名字！难道老爹说的仇家就是你么！",
+			"そう、だけど……どうして私の名前を？まさか、あんたがパパの敵なの！？",
+			"그래, 근데... 어떻게 내 이름을 알지? 설마, 네가 아빠의 적이야!?",
+			"Yes, but... how do you know my name? No way, are you one of Dad's enemies?!",
+			null,
+			"Uh...yes, well! How do you know my name! Could it be that the enemy Pops was talking about was you!",
+			"Yes, but ...... how do you know my name? No way, you're my dad's enemy!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250667,
+			"Siegfried… He said bad things about me again!",
+			"齐格飞那个混蛋家伙，居然又在背地里说我坏话！",
+			"ジークフリートめ！また影であたくしの悪口を言ったのね！",
+			"지크프리트 녀석! 또 그림자에서 나에 대한 험담을 했구나!",
+			"Damn you, Siegfried! You've been talking bad about me behind my back again!",
+			null,
+			"Ziegfeld, that bastard guy, is actually bad-mouthing me behind my back again!",
+			"Siegfried! You spoke ill of me again behind my back!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250668,
+			"This kid? You called her \"Master\"?!",
+			"这个小孩子，真的是园长么？",
+			"こんな小さな女の子が、学園長なんですか？",
+			"이렇게 어린 소녀가, 학원장이라고요?",
+			"Is this little girl really the school principal?",
+			null,
+			"This little kid, is he really the director of the garden?",
+			"This little girl is the head of the school?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250669,
+			"I can hear you, kids!",
+			"那里的小鬼！你说的话我可听得到哦！",
+			"そこの小娘！聞こえたわよ！？",
+			"거기 꼬마! 다 들렸어!?",
+			"Hey girl! I heard you, y'know?!",
+			null,
+			"The kid over there! I can hear what you're saying!",
+			"There, little girl! I heard you!"
+		],
+		[
+			"msg",
+			250670,
+			"Himeko, they are not members of Anti-entropy, I can prove it. However, they are not normal kids, please protect them.",
+			"姬子少校，这几个人不是逆熵的成员，我可以为她们作证。但是她们也不是普通的孩子，将她们保护起来吧。",
+			"姫子少佐、この子たちはネゲントロピーじゃないわ、あたくしが保証する。でも、普通の子でもない。保護してちょうだい。",
+			"히메코 소좌, 이 아이들은 네겐트로피가 아니야, 내가 보증할게. 하지만 평범한 아이들도 아니야. 보호해줘.",
+			"Major Himeko, these children are not part of Anti-Entropy, I assure you. But they are not normal children either. Please protect them.",
+			null,
+			"Major Himeko, these people are not members of Counter Entropy, I can testify for them. But they are not ordinary children either, protect them.",
+			"Major Himeko, these children are not negentropes, I assure you. But they are no ordinary children either. You need to protect them."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250671,
+			"…… Roger that.",
+			"……了解了。",
+			"……わかりました。",
+			"...... 알겠습니다.",
+			"...Understood.",
+			null,
+			"...... understands it.",
+			"I understand ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250672,
+			"Wait a second! How do you know my father! Do you have any information about him? Can you tell me where is he?",
+			"等等！你知道我老爹，那你有他的消息么！能告诉我他在哪里么！",
+			"ちょっと待って！パパのこと知ってるんだったら、今どこにいるのか教えてよ！",
+			"잠깐만! 아빠에 대해 알고 있다면, 지금 어디에 있는지 알려줘!",
+			"Wait a minute! If you know my dad, tell me where he is!",
+			null,
+			"Wait a minute! You know my dad, do you have any news about him? Can you tell me where he is!",
+			"Wait a minute! If you know my dad, tell me where he is now!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				413,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250673,
+			"Oh, slow down. You have same characters just as your father, if you want ot know this, just follow Himeko.",
+			"真性急呢。和你老爹一模一样，如果想知道他在哪儿的话，就和姬子少校一起来我这里吧。",
+			"そのせっかちなとこ、父親にそっくりね。あいつが今どこにいるのか知りたいなら、姫子少佐と共にあたくしのところに来なさい。",
+			"그 성급한 점은 아버지를 닮았네. 그 녀석이 지금 어디에 있는지 알고 싶다면, 히메코 소좌와 함께 내게 오렴.",
+			"You're just as impatient as your father. If you want to know where he is, let Major Himeko take you to me.",
+			null,
+			"What a sexist. Exactly like your old man. If you want to know where he is, come with Major Himeko to my place.",
+			"Your impatience is just like your father's. If you want to know where he is now, come to me with Major Himeko."
+		],
+		[
+			"msg",
+			250674,
+			"I'm waiting for you in St.Freya HS.",
+			"我在圣芙蕾雅学园等你~",
+			"聖フレイヤ学園で待っているわ。",
+			"세인트 프레야 학원에서 기다리고 있을게.",
+			"I'll be waiting for you at St. Freyja Academy.",
+			null,
+			"I'll be waiting for you at St. Freya's School~",
+			"I'll be waiting for you at St. Freya's Academy."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250675,
+			"St.Freya HS?",
+			"圣芙蕾雅学园？",
+			"聖フレイヤ学園……？",
+			"세인트 프레야 학원……？",
+			"St. Freyja Academy...?",
+			null,
+			"St. Freya's Academy?",
+			"St. Freya Academy ......?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250676,
+			"Seems we have no other choice, but we finally escape from the Houkai area……",
+			"看来我们别无选择了，但不管如何，终于逃离了崩坏区域了……",
+			"他に道はないみたいだね。とりあえず、崩壊区域からは脱出できそうだけど……まだ安心はできないかな。",
+			"다른 길은 없는 것 같네. 일단, 붕괴区域에서 탈출할 수 있을 것 같지만…… 아직 안심은 못 하겠어.",
+			"It seems there's no other way. For now, it looks like we can escape the Honkai outbreak... but we can't relax just yet.",
+			null,
+			"It seems we have no choice, but anyway, finally escaped the collapse area ......",
+			"There doesn't seem to be any other way. For now, it looks like we can get out of the collapse zone, but I don't feel safe yet ......."
+		]
+	]
+}

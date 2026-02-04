@@ -1,0 +1,527 @@
+{
+	"191": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301937,
+			"3 hours into the operation now, we are about 2 kilometers away from the target. It’s faster than I expected. Fortunately, the marks left previously are still here, so we could avoid a lot of meaningless battles.",
+			"目前行动开始3小时，离目标地点还有2公里左右，比我想象中的要快，幸亏之前的留下标记还在，避免了很多无谓的战斗。",
+			"現在、行動開始から3時間。目標地点まであと2キロほど。思っていたよりも早いわね。以前のマークが残っていてよかった、無用の戦闘を避けられたわ。",
+			"현재, 작전 시작부터 3시간. 목표 지점까지 앞으로 2킬로 정도. 생각했던 것보다 빠르네. 이전에 남겨둔 마크가 있어서 다행이야, 쓸데없는 전투를 피할 수 있었어.",
+			"3 hours into the operation now, we are about 2 kilometers away from the target. It's faster than I expected. Fortunately, the marks left previously are still here, so we could avoid a lot of meaningless battles.",
+			null,
+			"Currently 3 hours into the operation, there are still about 2 kilometers from the target location, which is faster than I thought. Fortunately, the previous markers left are still in place, avoiding a lot of unnecessary fighting.",
+			"It has now been 3 hours since the start of the action. We are about two kilometers from the target point. That's faster than I thought it would be. Good thing we still have our old marks, we could have avoided a needless battle."
+		],
+		[
+			"msg",
+			301938,
+			"Everyone, take a 15 minutes break. The car park is just in front. Keep some energy to kill the Houkai creatures there and ensure the parts are retrieved smoothly.",
+			"大家原地休息15分钟，再往前就是停车场了，留着体力消灭那里的崩坏生物，保证零件回收顺利进行。",
+			"全員その場で15分休憩。もう少し進めばスクラップ工場よ。崩壊生物を消滅させる体力を温存しておいて。全員無事に部品を回収するのよ。",
+			"전원 그 자리에서 15분 휴식. 조금 더 가면 스크랩 공장이야. 붕괴 생물을 소멸시킬 체력을 아껴둬. 전원 무사히 부품을 회수하는 거야.",
+			"We'll take a 15 minute break right here. Up ahead is the scrap yard. Save your strength for the Honkai beasts, we need to make sure everyone collects their parts safely.",
+			null,
+			"Everyone rest in place for 15 minutes, further ahead is the parking lot, save your energy to destroy the collapsed creatures there, to ensure that the parts recovery goes smoothly.",
+			"We all took a 15 minute break right there. A little further and you'll find yourself in a scrap yard. Save your strength for the disintegrating organisms. Make sure everyone collects their parts safely."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			301939,
+			"Roger that.",
+			"是。",
+			"はい。",
+			"네.",
+			null,
+			null,
+			"Yes.",
+			"Yes."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301940,
+			"......",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301941,
+			"Are you okay? You look very tired.",
+			"怎么了，看你好像一副很累的样子。",
+			"どうしたの。だいぶ疲れているみたいだけど。",
+			"왜 그래. 꽤 지친 것 같은데.",
+			"What's wrong? You look exhausted.",
+			null,
+			"What's wrong? You look like you're tired.",
+			"What's wrong? You look very tired."
+		],
+		[
+			"choice",
+			[
+				302214,
+				"I’m fine, don’t worry.",
+				"没事，不用在意我。",
+				"大丈夫、気にしないで。",
+				"괜찮아, 신경 쓰지 마.",
+				"I'm fine, don't worry."
+			],
+			[
+				302215,
+				"A bit difficult...",
+				"稍微有点吃力……",
+				"少し疲れた……。",
+				"조금 피곤해…….",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			192,
+			193
+		]
+	],
+	"192": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301942,
+			"That’s good. After so many deadly battles, you should not feel this is too tiring.",
+			"那就好，毕竟也是经历了这么多场殊死战斗的人，要是这样就叫苦也太丢人了。",
+			"ならいいわ。死と隣り合わせの戦いをたくさんくぐり抜けたんだから、これくらいで音を上げていたら笑われるわよ",
+			"그럼 됐어. 죽음과 맞닿은 싸움을 많이 겪어왔으니, 이 정도로 포기하려 들면 웃음거리가 될 거야",
+			"Alright. After experiencing enough fights in life or death situations, you shouldn't feel tired.",
+			null,
+			"That's good, after all, is also experienced so many fights to the death of people, if this will be called suffering is too embarrassing.",
+			"Well, okay, then. I've been through so many death-defying battles, they'd laugh at me if I made a sound like this."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			194
+		]
+	],
+	"193": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301943,
+			"Tsk, you can’t go far with this level of endurance.",
+			"哼，就这样的体格可难当大任。",
+			"こんなんで音を上げてたら、大きな仕事はできないわよ。",
+			"이런 식으로 포기하면, 큰일은 못 해낼 거야.",
+			"You can't do important missions if your body can't endure this much.",
+			null,
+			"Hm, such a body can not be a big job.",
+			"You can't do big jobs if you're making noise like this."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			194
+		]
+	],
+	"194": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301944,
+			"......",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301945,
+			"This expression again. Feels like she’s trapped by something and is hesitating.",
+			"又是这种表情，仿佛被什么东西困住了一般犹豫不决。",
+			"またその表情。まるで何かに縛られたかのような顔をしているわね。",
+			"또 그 표정. 마치 무언가에 묶인 듯한 얼굴을 하고 있네.",
+			"This expression again. You look as if you're hesitating.",
+			null,
+			"That look again, as if stuck in something indecisive.",
+			"Also that expression. You look as if you're tied to something."
+		],
+		[
+			"msg",
+			301946,
+			"I know what you are thinking. You want to ask me why I picked you as the leader, right?",
+			"我知道你在想什么，你一定想问我为什么要推选你做领袖吧？",
+			"あなたが何を考えているのか分かるわ。きっと、どうして私があなたをリーダーに推薦したのか聞きたいんでしょう？",
+			"네가 무슨 생각을 하는지 알겠어. 분명, 왜 내가 너를 리더로 추천했는지 묻고 싶은 거지?",
+			"I know what you're thinking. You want to ask me why I picked you as the leader, right?",
+			null,
+			"I know what you're thinking. You must be asking why I elected you as a leader, right?",
+			"I know what you're thinking. Surely you want to ask me why I recommended you as a leader?"
+		],
+		[
+			"msg",
+			301947,
+			"It’s simple, because you have something that others don’t...",
+			"原因很简单，因为你有着其他人没有的东西……",
+			"理由は簡単よ。あなたは他の人が持っていないものを持っているから……。",
+			"이유는 간단해. 너는 다른 사람들이 가지지 못한 것을 가지고 있으니까......",
+			"It's simple, because you have something that others don't...",
+			null,
+			"The reason is simple, because you have something that others do not ......",
+			"The reason is simple. Because you have something others don't. ......"
+		],
+		[
+			"msg",
+			301948,
+			"Bronya, Seele, including myself, we are shackled by our beliefs... We are afraid of our own hearts, afraid of seeing our end results. That’s why we cannot move forward.",
+			"布洛妮娅和希儿，也包括我在内，都被自己的执念所束缚…畏惧着自己的内心，畏惧着看到自己的结局，所以才总是止步不前。",
+			"ブローニャとゼーレ、そして私もだけど、みんな自分の執念に束縛されているの……自分の内心を恐れている。自分の結末を目にすることを恐れている。だから、いつも立ち止まってしまって前に進めないの。",
+			"브로냐와 제레, 그리고 나도, 모두 자신의 집념에 얽매여 있어...... 자신의 내심을 두려워하고. 자신의 결말을 목격하는 걸 두려워하지. 그래서 항상 멈춰 서서 앞으로 나아가지 못하는 거야.",
+			"Bronya, Seele, including myself, we are shackled by our beliefs... We are afraid of our own hearts, afraid of seeing our end results. That's why we cannot move forward.",
+			null,
+			"Both Bronya and Hill, and also me, are bound by their own obsessions...fearing their own hearts, fearing to see their end, and that's why they always stop.",
+			"Bronya and Seele and I, but we are all bound by our own obsessions ...... and we are afraid of our own inner selves. They are afraid to see their own consequences. That's why I always stand still and can't move forward."
+		],
+		[
+			"portraits",
+			[
+				61,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301949,
+			"......",
+			"……",
+			"……。",
+			"......",
+			null
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301950,
+			"There was another reason I didn’t ask you to join the Greymoths earlier. Do you know why they are so good at fighting?",
+			"之前没有让你加入灰蛾部队其实还有一个原因，你知道为什么灰蛾部队会有那么强的战斗力么？",
+			"以前、あなたを灰蛾部隊に入れなかった理由の1つがそれよ。どうして灰蛾部隊があんなに強いか分かる？",
+			"예전에 너를 회아 부대에 넣지 않은 이유 중 하나가 그거야. 회아 부대가 왜 그렇게 강한지 알아?",
+			"There was another reason why I didn't allow you to join the Grey Moths earlier. Do you want to know why they're so good at fighting?",
+			null,
+			"There is actually another reason why you were not allowed to join the Grey Moth unit before, do you know why the Grey Moth unit has such a strong fighting force?",
+			"That's one of the reasons I didn't put you in the ash moth unit before. Do you know why the Ash Moth Corps is so strong?"
+		],
+		[
+			"choice",
+			[
+				302216,
+				"Because they have strong hearts?",
+				"因为她们内心坚强？",
+				"彼女たちの心が強いから？",
+				"그녀들의 마음이 강해서?",
+				null
+			],
+			[
+				302217,
+				"Because they have something to protect?",
+				"因为她们有要守护的东西？",
+				"彼女たちには守るものがあるから？",
+				"그녀들에게는 지켜야 할 것이 있어서?",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			195
+		]
+	],
+	"195": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301951,
+			"Ha... Yeah, those two points are important, but they are not the main reason...",
+			"呵…没错，你说的这两点都很重要，但是这不是最主要的原因……",
+			"ふふ……そうね。あなたの言うそれもとても重要よ。でも一番重要な理由ではないわ……。",
+			"후후......그래. 네가 말한 그 점도 매우 중요하지만 가장 중요한 이유는 아니야......",
+			"Heh... Yes, both points you mentioned are important, but that's not the main reason......",
+			null,
+			"Heh...yes, both points you mentioned are important, but that's not the main reason ......",
+			"Hmmm... ...... I agree. That's very important, too, as you say. But not the most important reason. ......"
+		],
+		[
+			"msg",
+			301952,
+			"Because like me, they were all “created” to fight against Houkai. They are all weapons that exist to destroy Houkai.",
+			"因为她们和我一样都是被“制造”出来对抗崩坏的兵器，她们的存在意义就是为了消灭崩坏。",
+			"彼女たちも私と同じく崩壊に対抗するために「作られた」兵器だからよ。彼女たちの存在意義は、まさに崩壊を消滅させること。",
+			"그녀들도 나와 마찬가지로 붕괴에 맞서기 위해 「만들어진 」 무기이기 때문이야. 그녀들의 존재 의미는 바로 붕괴를 소멸시키는 거야.",
+			"They, like me, are weapons \"created\" to fight Honkai. The meaning of their existence is to eradicate it.",
+			null,
+			"Because they and I are \"made\" to fight against the collapse of the weapon, their existence is to destroy the collapse of the meaning.",
+			"They, like me, are weapons \"created\" to fight collapse. Their very raison d'etre is to extinguish collapse."
+		],
+		[
+			"msg",
+			301953,
+			"However, after the Big Houkai Outbreak, we lost our value and had no place to go back to. Our lives should have ended when this world had fallen into Houkai...",
+			"然而在大崩坏发生之后，失去了存在价值的我们已经变成了丧家之犬，我们的生命在这个世界跌落崩坏的瞬间也早就应该结束了……",
+			"そして、大崩壊が発生してから存在価値を失った私たちは、家を失くした負け犬になったの。私たちの命は、この世界が崩壊によって崩れ落ちる瞬間に終わるはずだったの……。",
+			"그리고, 대붕괴가 발생한 이후 존재 가치를 잃은 우리는 집을 잃은 패배자가 되었어. 우리의 생명은 이 세상이 붕괴로 무너지는 순간에 끝날 운명이었는데......",
+			null,
+			null,
+			"However, after the great collapse occurred, we have lost the value of existence has become a dog in the mourning, our lives in this world fell to the moment of collapse should also have ended long ago ......",
+			"And we became losers who lost our homes, who lost the value of our existence after the Great Collapse occurred. Our lives were supposed to end the moment this world collapsed due to the collapse. ......"
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301954,
+			"But we survived. We had to bear the curse of Valkyrie, but we are actually useless ashes. That’s one of the reasons I chose you...",
+			"但是我们却活了下来，背负着名为女武神的诅咒，却已经是没用的灰烬，这也是为什么我会选你的理由之一……",
+			"でも、私たちは生き残ってしまった。戦乙女という名の呪いを背負って。もう役立たずの灰燼なのに。",
+			"하지만 우리는 살아남고 말았어. 전계소녀라는 이름의 저주를 짊어지고서. 이미 쓸모없는 재인인데도.",
+			"But we survived. We carry the curse of being Valkyries, but we're worthless ashes... That's one of the reasons I chose you.",
+			null,
+			"But we survived, carrying the curse called Valkyrie, but already useless ashes, which is one of the reasons why I will choose you ......",
+			"But we survived. Carrying the curse of being a war maiden. Even though we are now useless ashes."
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			301955,
+			"Alright! Let’s go, break time is over. Prepare yourselves!",
+			"好了！走吧，休息时间结束了，准备出发！",
+			"よし！行きましょう。休憩時間は終わり。出発準備！",
+			"좋아! 갑시다. 휴식 시간은 끝. 출발 준비!",
+			"Alright! Let's go, break time is over. Prepare yourselves!",
+			null,
+			"All right! Let's go, break time is over, get ready to go!",
+			"All right! Let's go. Break time is over. Prepare to leave!"
+		],
+		[
+			"msg",
+			301956,
+			"We don’t have much time left...",
+			"留给我们的时间已经不多了……",
+			"私たちに残された時間は限られているのだから……。",
+			"우리에게 남은 시간은 한정되어 있으니까…….",
+			"We don't have much time left...",
+			null,
+			"The time left for us is running out ......",
+			"The time we have left is limited. ......"
+		]
+	]
+}

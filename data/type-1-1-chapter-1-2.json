@@ -1,0 +1,426 @@
+{
+	"1": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			30001,
+			"I stayed up all night...",
+			"在崩坏降临的前一天晚上，我彻夜未眠…",
+			"崩壊が訪れる前夜、私は一睡もできなかった……。",
+			"붕괴가 찾아오기 전날 밤, 나는 한숨도 못 잤다…….",
+			"(The night before the Honkai arrived, I couldn't sleep a wink...)",
+			"Na noite anterior ao colapso, fiquei acordado a noite toda...",
+			"The night before the collapse came, I stayed up all night...",
+			"The night before the collapse came, I didn't sleep a wink. ......"
+		],
+		[
+			"msg",
+			30002,
+			"Apocalypse arrived at Senba HS at exactly 2:07:47 PM. The chance of getting outta here alive is 0.000000001%",
+			"14:07:47，【崩坏】成功降临千羽学园。成功逃脱率 0.000000001%",
+			"時刻 14:07:47——千羽学園にて「崩壊」が発生。推定生存確率：0.000000001%。",
+			"시각 14:07:47——센바 학원에서「붕괴」가 발생. 추정 생존 확률: 0.000000001%.",
+			"Time: 14:07:47 - Honkai outbreak occuring at <tooltip entry=27>Senba Academy<tooltip/>, <tooltip entry=26>Nagazora City<tooltip/>, Honshu, Japan. Estimated Chance of Survival: 0.000000001%.",
+			"Às 14:07:47, o surto de Honkai entrou em vigor na Academia Senba. As chances estimadas de sobrevivência são de 0,000000001%",
+			"14:07:47, [Avalanche] successfully descended to Chihaya Academy. Successful escape rate 0.000000001%",
+			"Time 14:07:47 -- \"Collapse\" occurs at Senba Academy. Estimated survival probability: 0.00000000001%."
+		],
+		[
+			"msg",
+			250001,
+			"……The subscriber you dialed is busy now, please leave a message after the beep.",
+			"嘟嘟嘟……您所拨打的用户正忙，请在提示音后留言。",
+			"——留守番電話サービスにお繋ぎします。発信音の後にメッセージをどうぞ。",
+			"——자동응답 서비스로 연결됩니다. 신호음 후 메시지를 남겨주세요.",
+			"<i>Tuuu, tuuu, tuuu...</i> \"The user you are dialing is unavailable. Please leave a message after the tone.\"",
+			"\"Trrrim-trrrim ...O usuário que você ligou está ocupado, por favor deixe uma mensagem após o toque.\"",
+			"Dududududu ...... The user you have called is busy, please leave a message after the tone.",
+			"--You will be connected to an answering service. Please leave a message after the dial tone."
+		],
+		[
+			"msg",
+			250002,
+			"Beep--",
+			"哔——",
+			"ピーー",
+			"삐——",
+			"<i>BEEP——<i>",
+			"Trrrim--",
+			"Beep--",
+			"peep (sound made by a small bird)"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250003,
+			"I'm Kiana, I'm checking the Houkai now! Follow me!",
+			"我是琪亚娜，目前位于极东地区长空市内的千羽学园，我知道你一定也在跟踪这起崩坏！我想告诉你，不管你走到哪里我都会找到你的！",
+			"私よ、分かるでしょ？キアナ。私の通ってる千羽学園で「崩壊」が発生したの。あんた、今も「崩壊」を追ってるんでしょ？なら、ここにも来るよね？今度こそ見つけてやるんだから、待ってなさいっ！",
+			"나야, 알겠지? 키아나. 내 다니는 센바 학원에서 「붕괴」가 발생했어. 너 지금도 「붕괴」를 쫓고 있지? 그럼 여기도 오겠네? 이번엔 꼭 찾아내겠어, 기다리고 있을게!",
+			"Hey. It's me, Kiana. The \"Honkai\" has struck Senba Academy, the school I go to. You're still after the Honkai, right? If so, you'll be here too? Just know that I will find you this time, you'll see!",
+			"Ei. Sou eu, Kiana. Atualmente estou na Academia Senba em Nagazora, no Extremo Oriente. Eu sei que você deve estar indo atrás desse surto de Honkai. Apenas saiba que eu vou te encontrar, não importa onde você vá!",
+			"I'm Kiana, currently located at Chihaya Gakuen within the city of Nagumo in the Far East region, and I know you must be following this collapse as well! I want you to know that I will find you no matter where you go!",
+			"It's me, you know what I mean. Kiana. There's been a disintegration at my school, Senba Academy. You're still following it, aren't you? Then you'll come here too, right? I'm going to find you this time, you just wait and see!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250004,
+			"Boom!",
+			"咔！",
+			"ピッ！",
+			"피익!",
+			"<i>Beep!<i>",
+			"Bum!",
+			"Click!",
+			"Beep!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250005,
+			"…This is too suddenly. We can check it in the \"Senba High School\" first!",
+			"呼…该说的已经说完了，没想到这次的崩坏居然这么突然就发生了，不过按预期来看应该属于小型崩坏，爆发范围就锁定在这所千羽学园里吧！",
+			"……これでよし。にしても、今回の崩壊は突然だよね。この感じだと小規模なまま終わりそうけど……念のため、爆破範囲を千羽学園全体にしておこうかな。",
+			"……이제 됐어. 그래도 이번 붕괴는 갑작스럽긴. 이 분위기로는 소규모로 끝날 것 같지만…… 혹시 모르니 폭파 범위를 센바 학원 전체로 해 놓을까.",
+			"...Here we go. Still, this Honkai outbreak is so sudden. Seems like it'll remain small-scale, but... just to be safe, I'll estimate it to cover at least all of Senba Academy. (TN: Senba Academy is a huge campus, monikered the \"Academy City\" for its size.)",
+			"Esta tudo bem... De qualquer forma, eu não esperava que esse surto Acontecesse tão de repente. Deve ser um pequeno surto. Vamos supor que o alcance cobre todo-o-terreno da Academia Senba!",
+			"Phew... what should be said has been said, I did not expect the collapse to happen so suddenly, but according to the expected view should be a small collapse, the outbreak range is locked in this Chihaya school it!",
+			"...... Here we go. But still, this collapse is so sudden. From the looks of it, it's going to end up being small-scale, but ...... I think I'll set the scope of the blast to the entire Senba Academy, just to be safe."
+		],
+		[
+			"msg",
+			250006,
+			"All we need do is find the target before 「Shicksal」~",
+			"接下来只要在「天命」组织赶到前找到目标就行~这次绝对不会让你逃走了！",
+			"あとは「天命」より先にターゲットを確保するだけだね。今度こそ逃さないんだから！",
+			"이제 남은 건 「천명」보다 먼저 표적을 확보하는 것뿐이야. 이번엔 절대 놓치지 않을 거야!",
+			"All I have to do now is find the target before <tooltip entry=14>Schicksal<tooltip/> arrives. I won't let you escape this time!",
+			"Em seguida, eu só tenho que encontrar o alvo antes que 「Schicksal」 chegue - desta vez, não vou deixá-los escapar!",
+			"Next, just find the target before the \"Mandate of Heaven\" organization arrives ~ this time you will not be allowed to escape!",
+			"Now all we have to do is get the target before the \"Heaven's Own\". You won't miss it this time!"
+		],
+		[
+			"speaker",
+			204594
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250007,
+			"*Zombies roar*",
+			"吼吼吼！！",
+			"ウォオオオッ——グルルルッ！！",
+			"우오오오——그르르르!!",
+			"<i>Gwooooahh... grrrrr!!</i>",
+			"Rooaar-Grrrrrr!!",
+			"Ho ho ho ho!!!",
+			"Wooooooooo--grrrrrrrrrrrrrrrrrrrrrrrrrrr!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250008,
+			"Houkai zombies… Lucky me, I prepared weapons.",
+			"被崩坏感染的死士已经诞生了么…还好早有准备，事先把武器都准备好了。",
+			"……っ！もうゾンビが生まれたの！？武器の準備をしてきてて良かった。",
+			"…! 벌써 좀비가 태어난 거야!? 무기 준비해 와서 다행이네.",
+			"...! <tooltip entry=13>Zombies<tooltip/> have already appeared?! Good thing I brought my weapons with me.",
+			"Zumbis já nasceram!? Estou feliz por preparar minhas armas.",
+			"The death of the infected by the collapse has been born... Fortunately, I was prepared and had my weapons ready beforehand.",
+			"......! A zombie was born already! Good thing I came prepared with weapons."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250009,
+			"*Pull the bolt*",
+			"咔啦！",
+			"カチャ——ッ！",
+			"찰칵!",
+			"<i>Click-tchack!</i>",
+			"Whoosh!",
+			"Ka-la!",
+			"Click--clack!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250010,
+			"Weapons… Ammo…",
+			"武器检察完毕，弹药装配…真不知道手上这些老家伙还能撑多久。",
+			"よし、準備完了！……この武器もだいぶ古くなってきたな。いきなり壊れたりしなきゃいいけど。",
+			"좋아, 준비 완료!... 이 무기도 꽤 오래됐네. 갑자기 부서지지만 않으면 좋겠어.",
+			"Alright, I'm ready! ...Still, this weapon is getting pretty old. I hope it doesn't break on me all of a sudden.",
+			"Pronto, pronto! ...... Esta arma também está ficando velha. Espero que quebre de repente.",
+			"Weapons inspection completed, ammunition assembly...I really don't know how long these old guys on hand will last.",
+			"Okay, we're ready to go! ...... This weapon is getting very old. I hope it doesn't suddenly break."
+		],
+		[
+			"msg",
+			250011,
+			"Alright, we need to escape from this library first.",
+			"嘛~总之先按照预定计划逃离这个图书馆吧。",
+			"さて、とりあえず、この図書館から出るとしますか！",
+			"자, 일단 이 도서관에서 나가자!",
+			"Well, for now, why don't I focus on getting out of this library first?",
+			"Bem, suponha que você deixe esta biblioteca por enquanto!",
+			"Well ~ Anyway, first escape from this library according to the scheduled plan.",
+			"Well, let's get out of this library for now!"
+		]
+	],
+	"2": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250012,
+			"I can see zombies everywhere here…",
+			"果然逃离路线上都徘徊着死士的身影呢……",
+			"予想はしてたけど、やっぱりそこら中にゾンビが溢れてるわね……。",
+			"예상은 했지만, 역시 사방에 좀비가 넘쳐나네...",
+			"Sure enough, this place is filled with zombies...",
+			"Eu esperava, mas afinal os zumbis estão por toda parte...",
+			"Sure enough the escape route are hovering the figure of the dead soldiers it ......",
+			"I expected it, but I knew there would be zombies everywhere. ......"
+		],
+		[
+			"msg",
+			250013,
+			"Human effected by Houkai energy… Lost emotion and feelings, just like dead walkings, what a pity.",
+			"被崩坏感染而变异的人类…失去了感情和意识，如同行尸走肉一般，真是令人悲哀的存在。",
+			"人間が崩壊に感染しただけで、あんな自我も感情もない歩く屍になっちゃうなんて……可哀想に。",
+			"인간이 붕괴에 감염되기만 해도 저렇게 자아도 감정도 없는 걸어다니는 시체가 되어버리다니... 불쌍해.",
+			"All it takes is getting infected by the Honkai, and a person turns into a mindless, emotionless walking corpse... That’s just sad.",
+			"É uma pena que os seres humanos que se infectaram com o Honkai se tornem um cadáver ambulante sem ego e emoções.",
+			"Human beings infected by the collapse and mutated...lost their feelings and consciousness, just like the walking dead, what a sad existence.",
+			"It's ...... pitiful that a human being could be infected with decay and become such a walking corpse with no ego and no feelings."
+		],
+		[
+			"speaker",
+			204594
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250014,
+			"*Zombies roar*",
+			"吼吼吼！！",
+			"……ィギ……グォオオオッ！",
+			"……이기……그오오오오!",
+			"<i>...Grr... guoaaahhh!</i>",
+			"Blaa---ah--- Whoo---oorgh---",
+			"Ho ho ho ho!!!",
+			"......wiggy......guooooooooooo!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250015,
+			"Sorry! I won't show mercy to you, R.I.P…",
+			"抱歉，即使是这样本小姐也不会手下留情的，作为最后的补偿至少让你们安心地长眠吧……",
+			"でも……ごめんね。手加減はしてあげられないの。それに辛いでしょ？今、眠らせてあげるから——せめて、安らかに。",
+			"하지만……미안해. 살살 해줄 수는 없어. 게다가 힘들지? 지금, 재워줄게——적어도 편안하게.",
+			"But... I'm sorry. I can't go easy on you. And it must be painful for you, right? I'll let you rest now — at least in peace...",
+			"Eu sinto muito. Eu não posso ir com calma com você. É doloroso, não é? Vou colocá-lo para dormir agora, em paz.",
+			"Sorry, even so this lady will not be merciful, as a final compensation at least let you rest in peace long sleep ......",
+			"But ...... sorry. I can't go easy on you. And it's hard, isn't it? I'll let you sleep now - at least, in peace."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			250016,
+			"*Sound of firing*",
+			"呯！呯！呯！",
+			"カチャ……パァン、パァン——パァンッ！",
+			"딸깍……빵, 빵——빵악!",
+			"<i> Click... BANG, BANG, BAANG!</i>",
+			"Click- BANG- BANG- BANG!---",
+			"Ping! Bang! Bang!",
+			"Kacha ...... pang, pang--pang!"
+		]
+	]
+}

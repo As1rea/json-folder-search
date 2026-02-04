@@ -1,0 +1,1163 @@
+{
+	"21": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bg",
+			"CG10121"
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bg",
+			"CG10092"
+		],
+		[
+			"msg",
+			300202,
+			"Oh...",
+			"唔……",
+			"うっ……。",
+			"으…….",
+			"Ugh...",
+			null,
+			"Well ......",
+			"Ugh. ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300203,
+			"Seems like you've regained your consciousness. You're a survivor!",
+			"看来终于恢复意识了呢~真是命大的家伙啊！",
+			"やっと意識を取り戻したんだね～！まったく命知らずなんだから！",
+			"정신을 차렸구나~! 정말 목숨을 아끼지 않네!",
+			"You've finally regained consciousness~! What a daredevil!",
+			null,
+			"It seems that finally regained consciousness ~ really big life guy ah!",
+			"You finally regained consciousness~! You are a total daredevil!"
+		],
+		[
+			"choice",
+			[
+				300204,
+				"Am I still alive?",
+				"我还活着么…",
+				"私、生きているの……？",
+				"나... 살아있는 거야...?",
+				null
+			],
+			[
+				300205,
+				"The voice...",
+				"刚才的声音是…",
+				"さっきの声は……？",
+				"방금 목소리는...?",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			22
+		]
+	],
+	"22": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10092"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300206,
+			"Is that what you want to say?",
+			"这就是你想说的话么…",
+			"それが言いたかったことなのですか。",
+			"그게 하고 싶은 말이었습니까.",
+			"So that's what you decide to say...?",
+			null,
+			"Is that what you want to say...",
+			"Is that what you wanted to say?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			300207,
+			"Oh no...",
+			"啊~糟了……",
+			"あ～しまった……。",
+			"아~ 망했어…….",
+			"Ah~ Damnit...",
+			null,
+			"Ah~ Oh no ......",
+			"Oh shoot. ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300208,
+			"You forget that you were almost killed, don't you?",
+			"你难道不知道自己差点就丧命了么？",
+			"あと少しで命を落とすところでした。",
+			"조금만 더 있었으면 목숨을 잃을 뻔했어요.",
+			"You were almost killed.",
+			null,
+			"Don't you know you almost got killed?",
+			"I was so close to losing my life."
+		],
+		[
+			"msg",
+			300209,
+			"Didn't I tell you not to leave the base?",
+			"我不是和你说过不要离开基地么？",
+			"ブローニャは基地を離れないように言いましたよね？",
+			"브로냐는 기지를 떠나지 말라고 했죠？",
+			"I told you not to leave the base, right?",
+			null,
+			"Didn't I tell you not to leave the base?",
+			"Bronya told you not to leave the base, didn't she?"
+		],
+		[
+			"msg",
+			300210,
+			"You have no idea how important you are!",
+			"你知不知道自己的生命有多重要？",
+			"自分の命がどれだけ重要か分かっていますか？",
+			"자신의 목숨이 얼마나 중요한지 알고 있나요?",
+			"Do you even know how important your life is?",
+			null,
+			"Do you know how important your life is?",
+			"Do you realize how important your life is?"
+		],
+		[
+			"msg",
+			300211,
+			"You're completely unaware of the situation. Your life does not only belong to you. Do you know how hard we tried to get you here?",
+			"你完全没有理解自己的处境，你的生命已经不再是你一个人的东西了，你有想过我们通过了多大的努力才把你带到这里么？",
+			"あなたは自分の境遇を全く分かっていません。あなたの命は、もうあなただけのものではないんです。ゼーレたちがどれだけ頑張ってあなたをここに連れて来たのか、考えたことがありますか？",
+			"당신은 자신의 처지를 전혀 모르고 있습니다. 당신의 목숨은 이제 당신만의 것이 아닙니다. 제레들이 얼마나 힘들게 당신을 여기로 데려왔는지 생각해 본 적이 있나요?",
+			"You don't understand your situation at all. Your life is no longer yours alone. Haven't you ever thought about how hard Seele and everyone else worked to bring you here?",
+			null,
+			"You have completely failed to understand your situation, your life is no longer something that is yours alone, have you ever thought about how hard we have worked through to get you here?",
+			"You have no idea of your circumstances. Your life is not yours alone anymore. Have you ever thought about how hard Seele and the others worked to bring you here?"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			300212,
+			"Do you know that the Houkai is already...",
+			"你知道在崩坏中已经……",
+			"崩壊の中で既に……。",
+			"붕괴 속에서 이미…….",
+			"Don't you know that the Honkai is already...",
+			null,
+			"Did you know that in the collapse has been ......",
+			"Already ...... in the midst of the collapse."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			300213,
+			"No need to speak, Sister. The most important thing is that she' alive and well. Thanks to her, many of our injured fellows are still alive.",
+			"好啦~好啦~姐姐大人，现在她不是好好的么~而且据说多亏了她的努力受伤的队员才得以生还呢~",
+			"ほら～ほら～お姉ちゃん、彼女も無事なんだから！それに彼女のおかげで負傷した隊員は生還できたらしいじゃない！",
+			"자～자～ 언니, 그 애도 무사하잖아! 게다가 그 애 덕분에 부상당한 대원들이 생존할 수 있었던 것 같잖아!",
+			"Just look, Bronya~ She's safe now! Besides, I heard it's thanks to her that the injured team members were able to survive!",
+			null,
+			"Well ~ well ~ sister, now she is not well ~ and it is said that thanks to her efforts the injured team members were able to survive ~",
+			"Look~ look~ sis, she's safe too! And I heard that thanks to her, the wounded survived!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			300214,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"msg",
+			300215,
+			"How can you save others when you don't even know how to cherish your own life?",
+			"连自己的生命都不懂得珍惜的人，还怎么拯救别人……",
+			"自分の命の大切さすら分からない人がどうやって他人を救うのですか……。",
+			"자기 목숨의 소중함도 모르는 사람이 어떻게 남을 구할 수 있겠어요…….",
+			"How can someone who doesn't even understand the importance of their own life save others...",
+			null,
+			"Even their own lives do not know how to cherish people, how to save others ......",
+			"How can you save others if you don't even value your own life? ......"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300216,
+			"You are not allowed to leave this room as punishment for your disobedience. Reflect on you've done.",
+			"作为违抗命令的惩罚，今天你都不能离开这个房间，好好反省吧。",
+			"命令違反の罰として、今日はこの部屋を離れてはいけません。よく反省してください。",
+			"명령 위반에 대한 처벌로, 오늘은 이 방을 떠나면 안 됩니다. 잘 반성하세요.",
+			"As a punishment for violating orders, you're confined to this room for the rest of the day. Reflect on what you've done.",
+			null,
+			"As a punishment for disobeying orders, you can't even leave this room today, so reflect on it.",
+			"As punishment for violating the order, you are not to leave this room today. Please reflect well."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			300217,
+			"Sister really is a serious person.",
+			"姐姐大人真是严格呢~",
+			"お姉ちゃんって、本当に恐いよね。",
+			"언니는 정말 무섭네.",
+			"Big sis is really strict, isn't she?",
+			null,
+			"Sister is really strict~",
+			"Your sister is really scary, isn't she?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300218,
+			"Seele, I'll leave it to you. Tell her how to survive in this world.",
+			"希儿，后面就交给你了。告诉她应该怎样在这个世界活下去。",
+			"ゼーレ、あとは任せます。彼女にこの世界で生き延びるすべを教えてあげてください。",
+			"제레, 이제 맡길게요. 그녀에게 이 세상에서 살아남는 방법을 가르쳐 주세요.",
+			"Seele, I'll leave the rest to you. Please teach her how to survive in this world.",
+			null,
+			"Hill, I'll leave the back to you. Tell her how she should live in this world.",
+			"Seele, I'll leave the rest to you. Teach her how to survive in this world."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300219,
+			"OK, I got it. I'll make her as strong as Seele.",
+			"是是~知道啦！我一定让她变得和希儿一样强壮~",
+			"はい、はい～分かったよ！必ずゼーレみたいに強くしてみせるからね。",
+			"네, 네～ 알았어! 꼭 제레처럼 강해져 보일게.",
+			"Alrighty~ Understood! I'll definitely make her as strong as me.",
+			null,
+			"Yes, yes, I know! I'll make her as strong as Hill.",
+			"Yes, yes - I understand! I'll make you as strong as Seele, I promise."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV01_BronyaWalkaway"
+		],
+		[
+			"msg",
+			300220,
+			"Great...",
+			"嗯……",
+			"はい、お願いします。",
+			"네, 부탁드립니다.",
+			"Yes, please do.",
+			null,
+			"Well ......",
+			"Yes, please."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300221,
+			"It's finally over. Sister you still look good even when you're angry.",
+			"呼~终于结束了~生气的姐姐大人也很帅气呢！",
+			"ふぅ～やっと終わった～！ねぇ、怒ったお姉ちゃんもカッコいいと思わない？",
+			"휴～ 드디어 끝났다～! 저기, 화난 언니도 멋있다고 생각하지?",
+			"Phew~ Finally over~! Even when she's angry, big sis is still so cool!",
+			null,
+			"Phew ~ finally over ~ angry sister is also very handsome it!",
+			"Whew~ I'm finally done! Hey, don't you think it's cool to have an angry sister too?"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300222,
+			"I gotta go now. I have a lot of things to do after the battle is over.",
+			"那我也先走啦~战斗刚结束，还有很多事情要忙呢~",
+			"じゃあ、私も行くわね～。戦闘が終わったばかりで色々忙しいの。",
+			"그럼 나도 갈게~. 전투가 끝난 직후라서 여러모로 바쁜 거야.",
+			"Well, I've gotta get going~ I've got a lot of things to do now that the battle is over.",
+			null,
+			"Then I also go first ~ the battle is just over, there are many things to do busy ~",
+			"Well, I'll be going too! I just finished a battle and I'm busy with everything."
+		],
+		[
+			"msg",
+			300223,
+			"Just get some rest here. When “Confinement” is over, find me at the command center.",
+			"你在这里好好休息吧~等“禁闭”时间结束了来指挥室找我吧~",
+			"九霄はここでゆっくり休んでね。罰が終わったら指令室まで来てくれるかな。",
+			"큐쇼는 여기서 편히 쉬고 있어. 벌이 끝나면 지령실까지 와줄 수 있을까?",
+			"You should get some rest now. When your confinement is over, come find me at the command center.",
+			null,
+			"You rest well here ~ when the \"confinement\" time is over come to the command room to find me ~",
+			"Kyuushou, you can have a good rest here. When the punishment is over, will you come to the command center?"
+		]
+	],
+	"23": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10095"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300224,
+			"Sister, the clean-up work of the frontier is almost finished. Some skirmishers continue to assault the base, but they are not a threat to us.",
+			"姐姐大人~前线的清理工作已经进入尾声了，不过仍然有不少散兵游勇还在不断骚扰基地周边，但是已经构不成威胁了~",
+			"お姉ちゃん、前線の片付けがもうじき終わるよ。でも、敵の残存数はかなりのものみたい。基地の周辺でも騒ぎ続けてるし。ただ、脅威レベルそのものは下がったかな！",
+			"언니, 전선 정리가 곧 끝날 거야. 하지만 적의 잔존 수는 상당한 것 같아. 기지 주변에서도 계속 소동이 벌어지고 있지만. 그래도 위협 레벨 자체는 내려간 것 같아!",
+			"Bronya, we've almost finished clearing the frontlines. But it looks like there's a lot of enemies left. They're still making noise around the base. But at least the threat level itself has gone down!",
+			null,
+			"Sister-sama ~ the front line cleanup work has entered the end, but there are still a lot of stragglers still harassing the perimeter of the base, but no longer constitute a threat ~",
+			"Sis, we're almost done clearing the front line. But it looks like there are quite a few of them left. They're still making noise around the base. But the threat level itself has gone down!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			300225,
+			"Thank you. It's not easy to keep a low casualty rate in a tough defensive war like this.",
+			"辛苦了，如此严酷的防御战中能把战损控制在如此低的范围真是了不起呢。",
+			"ご苦労様です。これだけ厳しい防衛戦で被害をこれだけ小さく抑えられたのは本当に大したものです。",
+			"수고하셨습니다. 이렇게나 혹독한 방어전에서 피해를 이 정도로 억제한 건 정말 대단한 거예요.",
+			"Thank you for your hard work. It's great you were able to keep the damage to a minimum in such a tough defensive battle.",
+			null,
+			"It's amazing that you can keep the battle damage so low in such a harsh defensive battle.",
+			"Thank you for your efforts. It is really great that you were able to keep the damage so small in such a tough defensive battle."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			300226,
+			"Thank you, I'm flattered. I shouldn't be taking all the credits, because everyone here, especially the newbie, contributed a lot.",
+			"嘿嘿~姐姐大人过奖了，这可不是我一个人的功劳，而是大家奋战的结果，还有那个新人也做出了不少的贡献哦~",
+			"エヘヘ～お姉ちゃん褒めすぎだよ。私だけの功績じゃなくて、みんなが奮戦した結果だよ。あとあの新人もだいぶ貢献してくれたよ！",
+			"에헤헤~ 언니 칭찬 너무해. 내 혼자만의 공적이 아니고, 다들 분전한 결과야. 게다가 그 신병도 상당히 기여해줬다고!",
+			"Ehehe~ You're too kind, Bronya. It's not just because of me, it's because of everyone's hard work. And that newbie helped a lot, too!",
+			null,
+			"Hey hey ~ sister Lord praise, this is not my work alone, but the results of the battle, and the newcomer also made a lot of contributions Oh ~",
+			"Ahehe~ You praise me too much, sis. It's not just my achievement, it's the result of everyone's hard work. And that newcomer contributed a lot, too!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300227,
+			"But what she did is unacceptable. Reckless decision often causes serious consequences...",
+			"嗯…但是像她那样的做法可不能认同，独断的行为将会导致极其严重的后果……",
+			"ええ……ですが彼女のようなやり方は認められません。独断的な行動は重大な過失につながります。",
+			"예…… 하지만 그녀 같은 방식은 인정할 수 없어요. 독단적인 행동은 중대한 과실로 이어집니다.",
+			"Yes... but her actions are unacceptable. Arbitrary decisions can lead to serious consequences.",
+			null,
+			"Well ... but like her approach can not agree, arbitrary behavior will lead to extremely serious consequences ......",
+			"Yes, ......, but her way of doing things is unacceptable. Dogmatic behavior leads to gross negligence."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300228,
+			"I agree, Sister.",
+			"是是~姐姐大人说的对~",
+			"はい、はい～お姉ちゃんの言う通り。",
+			"네, 네~ 언니 말씀대로.",
+			"Yep, yep~ Right as always, Bronya.",
+			null,
+			"Yes, sister is right.",
+			"Yes, yes - your sister is right."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300229,
+			"I'm referring to you as well. Behave yourself.",
+			"我这句话也是说给你听的，你也是需要注意的对象呢。",
+			"この言葉はあなたに向けて言っているんです。あなたも注意が必要な対象ですから。",
+			"이 말은 당신을 향해 하는 말이에요. 당신도 주의가 필요한 대상이니까요.",
+			"That means you as well. She's not the only one causing trouble.",
+			null,
+			"I say this also to you, you are also the object of attention it.",
+			"These words are directed at you. Because you are also a subject that needs attention."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300230,
+			"Of course, Sister...",
+			"咕！姐姐大人最近拆台的功力越来越高了……",
+			"ぐっ！お姉ちゃん、最近言葉の破壊力がますます増しているよね……。",
+			"꿱! 언니, 최근에 말의 파괴력이 점점 더 강해지고 있는 것 같아…….",
+			"Grk! Bronya, your words have been getting more and more harsh recently...",
+			null,
+			"Goo! Sister-sama has become more and more powerful in tearing down the stage lately ......",
+			"Ggh!!! Sis, your words are becoming more and more destructive these days. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300231,
+			"Although our defended the attack this time, I believe it's just a beginning. We have to be on alert.",
+			"虽然这次的进攻成功防御了，但是我总觉得这只是开始而已，所以我们必须更加小心。",
+			"今回の攻撃は防げましたが、これは始まりにすぎないような気がします。だから、もっと気をつけなければいけません。",
+			"이번 공격은 막아냈지만, 이건 시작에 불과할 것 같은 느낌이 들어요. 그러니까 더 조심해야 해요.",
+			"Although we were able to defend against the onslaught this time, I believe this is just the beginning. We need to be on alert.",
+			null,
+			"Although this attack was successfully defended, I always feel that this is just the beginning, so we must be more careful.",
+			"We were able to prevent this attack, but I feel this is just the beginning. So we must be more careful."
+		],
+		[
+			"msg",
+			300232,
+			"Based one he last few attacks from the Houkai creatures, they have become more frequent. If I'm right, there'll be a big move coming.",
+			"从最近几次崩坏生物的袭击频率来看，它们的活动越来越频繁了。如果不是偶然的话，之后一定会有大动作。",
+			"ここ最近の崩壊生物の襲撃頻度からして、彼らの活動はますます盛んになっています。もし偶然でなければ、きっともうすぐ大きな動きがあるでしょう。",
+			"최근 붕괴 생물의 습격 빈도로 보아 그들의 활동은 점점 더 활발해지고 있습니다. 만약 우연이 아니라면, 아마도 곧 큰 움직임이 있을 겁니다.",
+			"Judging from the frequency of the Honkai Beast attacks recently, their activity seems to be getting more and more intense. If this is not a coincidence, something big is definitely coming soon.",
+			null,
+			"Judging from the frequency of the last few attacks by the collapsing creatures, they are becoming more and more active. If it's not a coincidence, there must be a big move after that.",
+			"Judging by the frequency of recent attacks by decaying organisms, they are becoming more and more active. If it is not a coincidence, there will surely be a major movement soon."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300233,
+			"What can this batch of monsters do if they can't even think? The world has been trapped in absolute silence after the calamity, there should be no target for the monsters.",
+			"那群连思考都做不到的怪物能够做什么呢？大崩坏之后世界已经陷入死寂，它们已经没有要毁灭的目标了吧？",
+			"あんな思考すらできない怪物たちに何ができるの？大崩壊後の世界は死に滅んでしまったんだから、もう滅ぼす目標もないよね？",
+			"저런 사고조차 할 수 없는 괴물들이 뭘 할 수 있다는 거야? 대붕괴 이후의 세계는 이미 죽어버렸는데, 이제 파괴할 목표도 없잖아?",
+			"What can a bunch of monsters that can't even think do? This world has been trapped in dead silence ever since the Eruption, and there's nothing left for them to destroy, right? (TN: \"Great Honkais\" are Honkai Erupthons.)",
+			null,
+			"What can the monsters who can't even think do? The world has fallen into dead silence after the Great Collapse, and they have no more targets to destroy, right?",
+			"What can be done with those monsters who can't even think? The world has been destroyed by death after the Great Collapse, so there is no goal to destroy it anymore, right?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300234,
+			"They may be targeting us... No one ever knows what the Houkai want, but if they desire to wipe out human beings, that means our existence is standing in their way.",
+			"不是还有我们在么…崩坏的目的从来都是一个未解之谜，但是如果它的目标是将人类全部毁灭的话，那我们的存在就是它继续杀戮的动力。",
+			"いえ、まだブローニャたちレジスタンスがいます。崩壊の目的はずっと謎のままですが、もしその目的が全人類の絶滅だとすれば、私たちの存在が殺戮を続ける原動力になります。",
+			"아니, 아직 브로냐님들의 레지스탕스가 있습니다. 붕괴의 목적은 계속 미스터리로 남아있지만, 만약 그 목적이 전 인류의 절멸이라면 우리의 존재가 살육을 계속하는 원동력이 될 거예요.",
+			"No, our Resistance still exists.  The ultimate goal of the Honkai remains a mystery, but if it's the extinction of humanity, our existence will be the driving force behind the continued slaughter.",
+			null,
+			"We are still here... The purpose of the collapse has never been an unsolved mystery, but if its goal is to destroy all of humanity, then our existence is the impetus for it to continue killing.",
+			"No, there is still Bronya and the rest of the resistance. The purpose of the collapse has always remained a mystery, but if that purpose is the extermination of the entire human race, our presence will be the driving force behind the continued slaughter."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300235,
+			"Those guys never go away!",
+			"哎~真是纠缠不休的家伙呢。",
+			"あぁ～ほんっとにめんどくさいヤツラ。",
+			"아~ 진짜 귀찮은 놈들.",
+			"Ahh~ Those things are such a pain.",
+			null,
+			"Hey ~ really pestering guy it.",
+			"Ahhh, they are such a pain in the ass."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300236,
+			"This time, the Houkai creature is launching a big-scale attack. I'm afraid the base is no longer safe. We have to start our follow-up plan...",
+			"这次崩坏生物的进攻规模相比往常更大了，恐怕这个基地也已经不安全了，得开始后续的计划了……",
+			"今回の崩壊生物の攻撃規模は以前よりも大きなものでした。おそらくこの基地ももはや安全ではないでしょう。次の計画に移らなければ……。",
+			"이번 붕괴 생물의 공격 규모는 이전보다 훨씬 컸습니다. 아마도 이 기지도 더 이상 안전하지 않을 겁니다. 다음 계획으로 넘어가야 해요......",
+			"The scale of the Honkai Beasts' attack this time was greater than ever before. It seems likely that this base is no longer safe. We must move onto the next plan...",
+			null,
+			"This time the scale of the attack of the collapsed creatures is greater than usual, I am afraid that this base is no longer safe, have to start the follow-up plan ......",
+			"The scale of the attack by the disintegrating organisms this time was larger than before. Perhaps this base is no longer safe. We must move on to the next plan. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV02_ControlRoomDoorOpen"
+		],
+		[
+			"msg",
+			300237,
+			"Here you are. You look so much better now. I assume the recovery is rolling well.",
+			"唔？你来啦~脸色已经好多了，看来恢复的不错呢~",
+			"あ！来たのね～顔色もよくなったし、大分回復したみたいだね！",
+			"아! 왔구나~ 안색도 좋아졌고 꽤 회복된 모양이네!",
+			"Ah!  <color=#cc66ffFF>You're</color> here~ You look much better — you seem to have recovered quite a bit!",
+			null,
+			"You're here! You're here! You look better already, you seem to be recovering well.",
+			"Ah! You're here~ You look much better, you've recovered a lot!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300238,
+			"If there's no problem, please start your training. Seele, I'll leave it to you. I'm still a bit concerned about the Houkai creatures, so I'll be digging into them and leave the base to you.",
+			"既然身体没问题了就开始训练吧。希儿，接下来交给你了。关于崩坏生物的状况我还是有点在意，准备深入调查一下，基地这边就拜托你了。",
+			"身体に問題がないのであれば訓練を始めましょう。ゼーレ、あとは任せました。崩壊生物の状況についてはもう少し注意を続けます。もっと踏み込んで調べなければいけないようです。基地のことはお願いします。",
+			"신체에 문제가 없다면 훈련을 시작합시다. 제레, 이후는 맡겼습니다. 붕괴 생물의 상황에 대해서는 좀 더 주의를 기울일게요. 더 깊이 조사해야 할 것 같습니다. 기지의 일은 부탁드립니다.",
+			"If there are no physical problems, you should begin your training. Seele, I'll leave the rest to you. I'll still be keeping a close eye on the situation with the Honkai Beasts. It seems it needs to be investigated further. I'm counting on you to take care of the base.",
+			null,
+			"Now that your body is okay, let's start training. Hier, I'll leave the rest to you. I am still a little concerned about the situation of the collapsed creatures, and I am going to investigate it in depth, so I am counting on you for the base.",
+			"If there are no physical problems, then let's start training. Seele, I've left the rest to you. I will continue to pay a little more attention to the situation with the decaying organisms. It seems that we need to investigate more in-depth. Please take care of the base."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300239,
+			"Don't worry. She'll be much stronger than you can imagine!",
+			"放心吧姐姐大人！我一定把她训练的无比强壮！",
+			"安心して、お姉ちゃん！彼女を一人前に鍛え上げてみせるよ～！",
+			"안심해, 언니! 그녀를 제대로 단련시켜 보여줄게~!",
+			"Don't worry, Bronya! I'll train her to be stronger than you can possibly imagine~!",
+			null,
+			"Don't worry, sister! I will train her to be incredibly strong!",
+			"Don't worry, sis! I'll train her up to be one~!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300240,
+			"OK.",
+			"嗯。",
+			"ええ。",
+			"네.",
+			"Okay.",
+			null,
+			"Hmm.",
+			"Yes."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV03_BronyaWalkawayBoot"
+		],
+		[
+			"msg",
+			300241,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300242,
+			"You always look good, Sister.",
+			"姐姐大人不论什么时候都是那么帅呢~",
+			"ブローニャお姉ちゃんは、なんでいつもあんなカッコいいんだろう……。",
+			"브로냐 언니는 왜 항상 그렇게 멋있는 걸까…….",
+			"Why is Bronya always so cool, no matter what time it is... (TN: seems like they made a mistake and forgot to remove the portrait)",
+			null,
+			"Sister-sama is always so handsome no matter what time it is~",
+			"Why is Bronya's sister always so cool? ......"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300243,
+			"Alright, stop holding it against her. It's true that she has a stern face, but she has a soft spot for us.",
+			"好啦，你也不要对姐姐大人有什么不满啦，虽然平时总是严肃的样子，但是她可是出了名的刀子嘴豆腐心。",
+			"あなたもお姉ちゃんに文句は言わないでね。いつもは厳しいけれど、内心はとても優しくて有名なんだから。",
+			"너도 언니에게 불만은 말하지 말아줘. 항상 엄격하지만 속마음은 매우 상냥해서 유명하니까.",
+			"You don't have to hold it against her. She may act serious, but she's notorious for being a wolf with a heart of gold. (TN: Chinese metaphor says \"knife mouthed with a heart of tofu\" so I tried my best)",
+			null,
+			"Well, you also do not have any dissatisfaction with the elder sister, although usually always serious look, but she is known as the knife mouth tofu heart.",
+			"Don't complain to your sister either. She is always strict, but inside she is very kind and famous."
+		],
+		[
+			"msg",
+			300244,
+			"She locked you up, so that you could have more rest.",
+			"之前关你禁闭其实是想让你好好休息吧~",
+			"この前、あなたを閉じ込めたのも休んでもらいたかったからなんだよ。",
+			"이전에 너를 가둔 것도 쉬게 하고 싶어서였어.",
+			"The reason she locked you up the other day was so you could have more rest.",
+			null,
+			"Before locking you up is actually to let you rest it ~",
+			"The reason I locked you up the other day was because I wanted you to rest."
+		],
+		[
+			"msg",
+			300245,
+			"Sister has left you to me, so I mustn't let her down.",
+			"不过既然姐姐大人把你交给我了，那我就不能让姐姐大人失望呢~",
+			"これから覚悟してよね～！任された以上は、お姉ちゃんをがっかりさせないようにしなきゃ。",
+			"이제부터 각오해 둬~! 맡겨진 이상은 언니를 실망시키지 않도록 해야지.",
+			"Be prepared from now on!  Now that I'm in charge, I have to make sure I don't disappoint big sis.",
+			null,
+			"But since you gave you to me, I can't let you down!",
+			"You have to be prepared from now on~! Now that I'm in charge, I have to make sure I don't disappoint my sister."
+		],
+		[
+			"msg",
+			300246,
+			"You should prepare yourself for the training. When you're ready, come find me here.",
+			"在训练之前你先去准备一下吧~如果准备好了就来我这边集合吧。",
+			"訓練の前に準備をしよっか。整ったらこっちに来てね。",
+			"훈련 전에 준비를 하자. 준비되면 이쪽으로 와줘.",
+			"Let's get ready before training. Come to me when you're ready.",
+			null,
+			"Go ahead and get ready before training ~ if you're ready, come gather on my side.",
+			"Let's get ready before the training. Come here when you're ready."
+		]
+	]
+}

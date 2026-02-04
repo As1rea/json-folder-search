@@ -1,0 +1,10239 @@
+{
+	"10299": [
+		[
+			"bgm",
+			129
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10032"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720397,
+			null,
+			"当伊瑟琳再次醒来的时候，",
+			"イザーリンが再び目を覚ますと、",
+			"이자린이 다시 눈을 뜨자,",
+			"When Yiserin woke up again,",
+			null,
+			"When Estherine woke up again.",
+			"When Estherine wakes up again,"
+		],
+		[
+			"bg",
+			"CG10330"
+		],
+		[
+			"msg",
+			720398,
+			null,
+			"她发现自己既不在飞船里，也不在空间站。",
+			"自分が宇宙船でも、宇宙ステーションでもない場所にいることに気が付いた。",
+			"자신이 우주선도, 우주 정거장도 아닌 곳에 있다는 것을 깨달았다.",
+			"She found herself neither in the ship nor on the space station.",
+			null,
+			"She found herself neither in the ship nor on the space station.",
+			"I found myself in a place that was neither a spaceship nor a space station."
+		],
+		[
+			"msg",
+			720399,
+			null,
+			"而是在地球，躺在普通的病床上，被一大群熟悉的人围着。",
+			"そこは地球だった。普通のベッドに横たわり、大勢の見知った人たちに囲まれていた。",
+			"그곳은 지구였다. 평범한 침대에 누워, 많은 아는 사람들에게 둘러싸여 있었다.",
+			"It was Earth. She was lying in an ordinary bed, surrounded by many familiar people.",
+			null,
+			"Instead, they are on Earth, lying in an ordinary hospital bed, surrounded by a large group of familiar people.",
+			"It was Earth. I was lying in an ordinary bed, surrounded by many familiar people."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30133,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			720400,
+			null,
+			"（搂抱）博士你终于醒了！",
+			"（抱きつく）博士、やっと目が覚めたんですね！",
+			"(껴안으며) 박사님, 드디어 깨어났네요!",
+			"(hugs) Doctor, you're finally awake!",
+			null,
+			"(Hugging) Doctor, you're finally awake!",
+			"(hugs) Doctor, you're finally awake!"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				30133,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720401,
+			null,
+			"这里是……",
+			"ここは……。",
+			"여기는…….",
+			"This place is...",
+			null,
+			"Here is ......",
+			"You can find it here: ......."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				true
+			],
+			[
+				30133,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			720402,
+			null,
+			"是人合联的医院。",
+			"人類契約連盟の病院です。",
+			"인류계약연맹의 병원입니다.",
+			null,
+			null,
+			"It is the hospital of the Human Federation.",
+			"The Hospital of the League of Humanity Contracting."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				true
+			],
+			[
+				35,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720403,
+			null,
+			"你是最后一个醒来的，博士。",
+			"博士は最後に目を覚ましました。",
+			"박사님은 마지막으로 눈을 떴습니다.",
+			"You're the last one to wake up, Doctor.",
+			null,
+			"You're the last one to wake up, Doc.",
+			"You woke up at the end, Doctor."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				true
+			],
+			[
+				70,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720404,
+			null,
+			"我们胜利了。",
+			"勝ったんだ。",
+			"이겼어.",
+			"We were victorious.",
+			null,
+			"We were victorious.",
+			"Winner."
+		],
+		[
+			"speaker",
+			204864
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				true
+			],
+			[
+				513,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720405,
+			null,
+			"再也不需要战斗了，对吗？",
+			"もう戦わなくていい、そうでしょ？",
+			"이제 더 이상 싸울 필요 없어, 그렇지?",
+			"No more fighting, right?",
+			null,
+			"No more fighting, right?",
+			"We don't have to fight anymore, do we?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				true
+			],
+			[
+				415,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720406,
+			null,
+			"欢迎回来。",
+			"おかえりなさい。",
+			"어서 오세요.",
+			"Welcome back.",
+			null,
+			"Welcome back.",
+			"Welcome back."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				true
+			],
+			[
+				304,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720407,
+			null,
+			"太好了……",
+			"よかったです……。",
+			"다행이에요…….",
+			null,
+			null,
+			"Great ......",
+			"Good. ......."
+		],
+		[
+			"speaker",
+			204576
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				true
+			],
+			[
+				212,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720408,
+			null,
+			"你们这些孩子真的……太乱来了。",
+			"君たちって子はまったく……無茶しすぎだ。",
+			"너희란 아이는 정말…… 무리수를 너무 많이 둔 거야.",
+			null,
+			null,
+			"You kids are really ...... too messed up.",
+			"You kids are totally ...... reckless."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				true
+			],
+			[
+				897,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			720409,
+			null,
+			"啧……活着就好。",
+			"チッ……生きていてよかった。",
+			"쳇…… 살아있어서 다행이야.",
+			"Tch. ...... glad you're alive.",
+			null,
+			"Gee ...... it's good to be alive.",
+			"Tch. ...... glad you're alive."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				4,
+				false
+			],
+			[
+				897,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720410,
+			null,
+			"（掀开被子）",
+			"（布団をどかした）",
+			"(이불을 걷어낸)",
+			null,
+			null,
+			"(Lifting the covers)",
+			"(moving the futon out of the way)"
+		],
+		[
+			"msg",
+			720411,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			"…………"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				897,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720412,
+			null,
+			"伊瑟琳惊讶于自己的身体情况——",
+			"イザーリンは自分の体の状態に驚いた——",
+			"이자린은 자신의 몸 상태에 놀랐다——",
+			"Yiserin was surprised at the condition of her body——",
+			null,
+			"Estherine was surprised at the condition of her body -",
+			"Estherine was amazed at the state of his body--and his"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			720413,
+			null,
+			"完好无损，没有任何残疾。",
+			"五体満足で、傷も一切なかった。",
+			"오체만족에 상처 하나 없었다.",
+			"Somehow not having lost any of her limbs or suffering any injuries.",
+			null,
+			"Intact and without any disability.",
+			"He was in five pieces and had no wounds at all."
+		],
+		[
+			"msg",
+			720414,
+			null,
+			"除了因为长时间的太空旅行导致的不适外，伊瑟琳的身体并没有任何异样。",
+			"長い宇宙旅行による不快感以外に、イザーリンの体にはまったく異常がなかった。",
+			"긴 우주 여행으로 인한 불쾌감 외에 이자린의 몸에는 아무런 이상이 없었다.",
+			"Other than the discomfort caused by long space travel, Yiserin's body was completely normal.",
+			null,
+			"Apart from the discomfort caused by the long space travel, there was nothing unusual about Estherine's body.",
+			"Other than the discomfort caused by long space travel, Estherine's body was completely normal."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				35,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720415,
+			null,
+			"果然，博士也和我一样掀了被子……",
+			"やっぱり、博士もニンディと同じように布団をめくりましたね……。",
+			"역시, 박사님도 닌디와 마찬가지로 이불을 뒤집어쓰고 있었군요......",
+			null,
+			null,
+			"Sure enough, the Doctor lifted the covers just like I did ......",
+			"After all, the doctor flipped the covers the same way I did. ......"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				35,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720416,
+			null,
+			"可这到底……",
+			"でも、これは一体……。",
+			"하지만, 이건 대체......",
+			null,
+			null,
+			"But this is ......",
+			"But what the heck is this ......."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				true
+			],
+			[
+				35,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720417,
+			null,
+			"你仔细回想一下，应该能想起来。",
+			"よく思い返してみてください。きっと思い出せるはずです。",
+			"잘 생각해 보세요. 분명히 기억날 거예요.",
+			null,
+			null,
+			"If you think back carefully, you should be able to remember.",
+			"Think back often. You will surely be able to remember."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720418,
+			null,
+			"伊瑟琳不断确认着自己的记忆，当时在飞船的驾驶舱——",
+			"イザーリンは自分の記憶を何度も確かめた。あのとき、宇宙船のコックピットで——",
+			"이자린은 자신의 기억을 여러 번 확인했다. 그때, 우주선의 콕핏에서——",
+			null,
+			null,
+			"Estherine kept confirming her memory of being in the cockpit of the ship -",
+			"Estherine checked his memory again and again. That time, in the cockpit of the spaceship--"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720419,
+			null,
+			"哕……",
+			"オエッ……。",
+			"으엑......",
+			null,
+			null,
+			"Retch ......",
+			"Oech. ......."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				true
+			],
+			[
+				35,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720420,
+			null,
+			"（用盆接住）就连呕吐也和我一样……",
+			"（洗面器を差し出す）吐くところまでニンディと一緒ですね……。",
+			"(세면대를 내밀며) 토할 때까지 닌디랑 똑같네요......",
+			"(holds out a washbasin) You're even vomiting just like I did.....",
+			null,
+			"(Catch it in a basin) Even vomiting is the same as me ......",
+			"(holds out a washbasin) You're with me to the point of vomiting. ......"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				false
+			],
+			[
+				35,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720421,
+			null,
+			"（发抖）（虚汗）",
+			"（震える）（冷や汗）",
+			"(떨림)(식은땀)",
+			null,
+			null,
+			"(shivering) (sweating)",
+			"(trembling) (cold sweat)"
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				true
+			],
+			[
+				30133,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			720422,
+			null,
+			"（摸摸）没事了，博士，你已经安全了。",
+			"（なでる）大丈夫ですよ、博士、もう安全ですから。",
+			"(쓰다듬음) 괜찮아요, 박사님, 이제 안전하니까.",
+			null,
+			null,
+			"(touching) It's okay, Doc, you're safe now.",
+			"(Nodding) It's okay, Doctor, you're safe now."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				30133,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720423,
+			null,
+			"所以说……当时在驾驶舱，我真差点就死了？",
+			"つまり……あの時、コックピットで私は本当に死にかけたの？",
+			"그러니까... 그때, 콕핏에서 나는 정말 죽을 뻔했던 거야?",
+			null,
+			null,
+			"So ...... was in the cockpit and I really almost died?",
+			"I mean ...... did I really almost die in the cockpit that time?"
+		],
+		[
+			"msg",
+			720424,
+			null,
+			"我们真的……胜利了？",
+			"私たち本当に……勝ったの？",
+			"우리 정말로... 이긴 거야?",
+			null,
+			null,
+			"Are we really ...... winning?",
+			"Did we really ...... win?"
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				true
+			],
+			[
+				30133,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720425,
+			null,
+			"唔……从回收回来的医疗舱来看，是的。",
+			"うーん……回収した医療カプセルからすると、そのようです。",
+			"음... 회수한 의료 캡슐로 보면, 그런 것 같습니다.",
+			null,
+			null,
+			"Well ...... judging from the recovered medical pods, yes.",
+			"Hmmm ...... from the recovered medical capsule, it seems so."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				30133,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720426,
+			null,
+			"不是梦？",
+			"夢じゃない？",
+			"꿈이 아니지?",
+			"It wasn't a dream?",
+			null,
+			"Not a dream?",
+			"Isn't it a dream?"
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				true
+			],
+			[
+				30133,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720427,
+			null,
+			"可能因为我是人工智能吧，我并不像你们一样，会对自己的记忆产生疑惑。",
+			"フェミリスが人工知能だからでしょうか。フェミリスはみなさんと違って、自分の記憶に疑問を抱いていません。",
+			"페미리스가 인공 지능이기 때문일까요? 페미리스는 여러분과 달리 자신의 기억에 의문을 품지 않고 있습니다.",
+			null,
+			null,
+			"Maybe because I'm an AI, I'm not as confused about my memories as you are.",
+			"Is it because Femiris is an artificial intelligence? Unlike you all, Femiris does not question her own memory."
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				true
+			],
+			[
+				30133,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			720428,
+			null,
+			"这是当时太空中的图像。",
+			"これは当時の宇宙空間の画像です。",
+			"이것은 당시의 우주 공간 이미지입니다.",
+			null,
+			null,
+			"This is the image from space at that time.",
+			"This is an image of space at that time."
+		],
+		[
+			"msg",
+			720429,
+			null,
+			"你们确实以很不可思议的方式，击败了意志统括者。",
+			"みなさんはたしかに不思議な方法を使い、意志の統括者を破りました。",
+			"여러분은 확실히 신기한 방법을 사용해, 의지의 통솔자를 무찔렀습니다.",
+			null,
+			null,
+			"You have indeed defeated the Willful Unifier in a very incredible way.",
+			"You have indeed used mysterious methods to defeat the Supervisor of Will."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				30133,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720430,
+			null,
+			"意志统括者……",
+			"意志の統括者……。",
+			"의지의 통솔자....",
+			null,
+			null,
+			"The Will Omnibus ......",
+			"Supervisor of Will: ......."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30133,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720431,
+			null,
+			"很陌生的名字。",
+			"聞き覚えのない名前だ。",
+			"들어본 적 없는 이름이었다.",
+			null,
+			null,
+			"Very unfamiliar name.",
+			"The name doesn't sound familiar."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			720432,
+			null,
+			"但伊瑟琳却知道那是什么……仿佛被凭空灌入了认知。",
+			"しかし、イザーリンはそれが何か分かった……まるで急に知識を注ぎ込まれたかのように。",
+			"하지만 이자린은 그것이 무엇인지 알게 되었다... 마치 갑자기 지식이 주입된 것처럼.",
+			null,
+			null,
+			"But Estherine knew what it was ...... as if cognition had been poured into it out of thin air.",
+			"But Estherine knew what it was ...... as if he had been suddenly infused with knowledge."
+		],
+		[
+			"msg",
+			720433,
+			null,
+			"随着菲米莉丝展示的图像，伊瑟琳模糊的记忆开始复苏——",
+			"フェミリスが画像を表示させていくうちに、イザーリンのぼんやりとした記憶がよみがえり始めた——",
+			"페미리스가 이미지를 표시해 나가면서, 이자린의 흐릿한 기억이 되살아나기 시작했다——",
+			null,
+			null,
+			"With the images displayed by Femiris, Estherine's vague memories began to come back -",
+			"As Femiris displayed the images, Isserlin's hazy memories began to come back to him - and he was able to see them."
+		],
+		[
+			"msg",
+			720434,
+			null,
+			"琪亚娜和芽衣用某种神奇的力量，恢复了大家受伤的躯体。之后她们像流星一样遨游宇宙，和琪亚娜还有芽衣并肩作战。",
+			"キアナと芽衣はなんらかの不思議な力を使い、皆の傷ついた体を回復させた。そして彼女たちは流星のように宇宙を駆け巡り、キアナ、芽衣とともに戦った。",
+			"키아나와 메이는 어떤 신비한 힘을 사용해 모두의 상처 입은 몸을 회복시켰다. 그리고 그들은 유성처럼 우주를 가로질러 달렸고, 키아나, 메이와 함께 싸웠다.",
+			null,
+			null,
+			"Kiana and Meiko used some kind of magical power to restore everyone's injured body. After that they traveled the universe like shooting stars, and Kiana and Meiko fought side by side.",
+			"Kiana and Mei used some mysterious power to heal everyone's injured bodies. The girls then traveled through the universe like meteors, fighting alongside Kiana and Mei."
+		],
+		[
+			"msg",
+			720435,
+			null,
+			"并看着她们离去……",
+			"そして彼女たちが去っていくのを見ていた……。",
+			"그리고 그들이 떠나는 것을 지켜보고 있었다....",
+			null,
+			null,
+			"And watch them go ......",
+			"And I watched the girls leave: ......."
+		],
+		[
+			"msg",
+			720436,
+			null,
+			"但伊瑟琳只能隐约确认，那些图像是真实发生的事情，并不能确信。她只能借此想起一系列的记忆碎片。同样的事情也发生在宁蒂、九霄和布洛妮娅身上。",
+			"しかし、イザーリンはその画像が本当に起きた出来事であるとぼんやりと確認するだけで、確信することはできなかった。彼女はあくまでもそれを使って一連の記憶の断片を思い出すことしかできなかったのだ。同様のことはニンディ、九霄、ブローニャにも起きていた。",
+			"하지만 이자린은 그 이미지가 정말로 일어난 일임을 흐릿하게 확인할 뿐, 확신할 수 없었다. 그녀는 단지 그것을 이용해 일련의 기억 조각들을 떠올릴 수 있을 뿐이었다. 비슷한 일이 닌디, 큐쇼, 브로냐에게도 일어나고 있었다.",
+			null,
+			null,
+			"But Estherine could only vaguely confirm that the images were of something that really happened, and was not sure. She could only use this to recall a series of memory fragments. The same thing happened to Ninti, Kyuushou and Bronya.",
+			"However, Isserling could only vaguely confirm that the image was indeed an event that had occurred, but she could not be certain. She could only use it to recall a series of memory fragments. The same thing had happened to Ninti, Kyuushou, and Bronya."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				30133,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720437,
+			null,
+			"对了，龙马……",
+			"そうだ、龍馬……。",
+			"그래, 료마....",
+			null,
+			null,
+			"By the way, Ryoma ......",
+			"Yes, Ryoma ......."
+		],
+		[
+			"speaker",
+			204576
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				true
+			],
+			[
+				212,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720438,
+			null,
+			"什么都别说，",
+			"何も言うな。",
+			"아무 말도 하지 마.",
+			"Don't say anything.",
+			null,
+			"Don't say anything.",
+			"Don't say anything."
+		],
+		[
+			"msg",
+			720439,
+			null,
+			"我已经知道了，芽衣她……",
+			"分かっている。芽衣は……。",
+			"알고 있어. 메이는....",
+			"I already know that Mei has.....",
+			null,
+			"I already know that Meiko her ......",
+			"I know. Mei is at ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				897,
+				3,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720440,
+			null,
+			"最后她也叫了你“爸爸”，不是吗？",
+			"彼女、最後に「お父さん」って呼んだんでしょ？",
+			"그녀, 마지막에「아빠」라고 불렀지?",
+			"She called you \"dad\" at the end, didn't she?",
+			null,
+			"She called you \"Dad\" at the end, didn't she?",
+			"She called you \"dad\" at the end, didn't she?"
+		],
+		[
+			"speaker",
+			204576
+		],
+		[
+			"portraits",
+			[
+				897,
+				3,
+				true
+			],
+			[
+				212,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720441,
+			null,
+			"是的。",
+			"ああ。",
+			"아아.",
+			"Yes.",
+			null,
+			"Yes.",
+			"Oh."
+		],
+		[
+			"msg",
+			720442,
+			null,
+			"所以……我相信她，她一定能回来。",
+			"……あいつはきっと帰ってくると信じている。",
+			"……그 녀석은 분명 돌아올 거라고 믿어.",
+			"That's why I believe... She will eventually return.",
+			null,
+			"So ...... I believe in her and she will be able to come back.",
+			"That's why I believe ...... that guy will come back."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720443,
+			null,
+			"还有一些其他的模糊记忆——",
+			"他にも曖昧な記憶がいくつかある——",
+			"그 외에도 희미한 기억이 몇 가지 더 있어——",
+			null,
+			null,
+			"There are some other vague memories -",
+			"I have a few other vague memories--"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			720444,
+			null,
+			"海滩，列车，不认识的某人，无比漫长的时间。",
+			"ビーチ、列車、知らない誰か、果てしなく長い時間。",
+			"해변, 기차, 모르는 누군가, 끝없이 긴 시간.",
+			null,
+			null,
+			"The beach, the train, someone I don't know, an unbelievably long time.",
+			"Beaches, trains, someone you don't know, endless hours."
+		],
+		[
+			"msg",
+			720445,
+			null,
+			"现实世界和灵魂世界的融合，",
+			"現実世界と魂の世界の融合……。",
+			"현실 세계와 영혼의 세계의 융합…….",
+			null,
+			null,
+			"The fusion of the real world and the world of souls.",
+			"Fusion of the real world and the world of the soul. ......"
+		],
+		[
+			"msg",
+			720446,
+			null,
+			"意味着身处其中的人会同时体验“清醒”和“梦境”两种状态。",
+			"それはその中の人が「覚醒」と「夢」の2つの状態を同時に体験することを意味している。",
+			"그것은 그 안의 사람이「각성」과「꿈」이라는 두 가지 상태를 동시에 경험한다는 것을 의미한다.",
+			null,
+			null,
+			"It means that the person in it will experience both \"waking\" and \"dreaming\" states at the same time.",
+			"It means that the person in it experiences two states at the same time: \"waking\" and \"dreaming\"."
+		],
+		[
+			"msg",
+			720447,
+			null,
+			"而“梦境”结束后，梦中的记忆自然会变得模糊不清。",
+			"そして「夢」が終わった後、夢の中の記憶はおのずと曖昧になる。",
+			"그리고「꿈」이 끝난 후, 꿈 속의 기억은 저절로 희미해진다.",
+			null,
+			null,
+			"After the \"dream\" is over, the memories of the dream will naturally become blurred.",
+			"And after the \"dream\" is over, memories in the dream naturally become vague."
+		],
+		[
+			"msg",
+			720448,
+			null,
+			"加上去月球前，极端的压力以及幻觉的影响，",
+			"さらに、月に向かうまでの極度のストレスと幻覚の影響も加わり、",
+			"게다가 달을 향해 가는 동안의 극심한 스트레스와 환각의 영향도 더해져,",
+			null,
+			null,
+			"Combined with the extreme stress before going to the moon, and the hallucinations",
+			"Add to that the effects of extreme stress and hallucinations on the way to the moon,"
+		],
+		[
+			"msg",
+			720449,
+			null,
+			"一切的一切，最终都成为了一场记不清，又忘不了的梦。",
+			"何もかもが最終的にははっきりしない、それでいて忘れられない夢となっている。",
+			"모든 것이 결국에는 뚜렷하지 않으면서도 잊을 수 없는 꿈이 되어버렸다.",
+			null,
+			null,
+			"Everything, in the end, became a dream that could not be remembered, and could not be forgotten.",
+			"Everything is ultimately unclear, yet it is an unforgettable dream."
+		],
+		[
+			"msg",
+			720450,
+			null,
+			"包括伊瑟琳在内的所有人，都不约而同地想：",
+			"イザーリンを含むすべての者が、期せずして同じことを思った。",
+			"이자린을 포함한 모든 이가, 뜻밖에도 같은 생각을 했다.",
+			null,
+			null,
+			"All of them, including Estherine, thought in unison:",
+			"All of us, including Isserling, thought the same thing, unexpectedly."
+		],
+		[
+			"msg",
+			720451,
+			null,
+			"“我们终于……解脱了？”",
+			"「私たち……ついに解放されたの？」",
+			"「우리…… 드디어 해방된 거야?」",
+			null,
+			null,
+			"\"Are we finally ...... relieved?\"",
+			"\"We're finally ...... liberated?\""
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bg",
+			"CG10279"
+		],
+		[
+			"msg",
+			720453,
+			null,
+			"之后的事情，首先是“全球崩坏战后会议”——",
+			"その後のこととしては、まず「世界崩壊戦後会議」だ——",
+			"그 후의 일로는, 먼저 「세계붕괴전후회의」가 ——",
+			null,
+			null,
+			"The first thing that happened after that was the \"Global Collapse Postwar Conference\" -",
+			"After that, the first thing to do is the \"World Collapse Postwar Conference\" -- the first of its kind."
+		],
+		[
+			"msg",
+			720454,
+			null,
+			"作为唯一从月球返回的考察队成员，伊瑟琳，九霄，宁蒂和布洛妮娅自然都要出席。",
+			"月から帰還した調査隊メンバーであるイザーリン、九霄、ニンディ、ブローニャは当然ながら出席することになった。",
+			"달에서 귀환한 조사대 멤버인 이자린, 큐쇼, 닌디, 브로냐는 당연히 참석하게 되었다.",
+			null,
+			null,
+			"As the only member of the expedition to return from the moon, Estherine, Kyuushou, Ninti and Bronya naturally all had to attend.",
+			"Estherine, Kyuushou, Ninti, and Bronya, the only members of the survey team to return from the moon, were naturally expected to attend."
+		],
+		[
+			"msg",
+			720455,
+			null,
+			"全球范围的崩坏危机，其缘起、过程和解决都充斥着大量的疑点。特别是解决的过程，过于不可思议——",
+			"世界的規模の崩壊の危機、その原因、過程、解決策について、数多くの疑問点があった。特に解決策はあまりにも不思議なものだった——",
+			"세계적 규모의 붕괴 위기, 그 원인, 과정, 해결책에 대해 수많은 의문점이 있었다. 특히 해결책은 너무나도 불가사의한 것이었다——",
+			null,
+			null,
+			"The origins, process and resolution of the worldwide collapse crisis are filled with a great deal of doubt. The process of resolution, in particular, is too unbelievable -",
+			"There were numerous questions about the crisis of collapse on a global scope, its causes, processes, and solutions. The solutions, in particular, were too mysterious--and"
+		],
+		[
+			"msg",
+			720456,
+			null,
+			"“以伊瑟琳为首的月球考察队，奇迹般地查清了崩坏意志的真相，",
+			"「イザーリン率いる月面調査隊が、崩壊の意志の真相を奇跡的に究明し」",
+			"「이자린이 이끄는 월면 조사대가, 붕괴의 의지의 진상을 기적적으로 규명하고」",
+			null,
+			null,
+			"\"The lunar expedition headed by Estherine miraculously found out the truth about the will to collapse.",
+			"A lunar expedition led by Estherine miraculously determined the true nature of the will to collapse.\""
+		],
+		[
+			"msg",
+			720457,
+			null,
+			"“将名为意志统括者的崩坏意志本源彻底消灭，",
+			"「意志の統括者と呼ばれる崩壊の意志の源を完全に消滅させ」",
+			"「의지의 통괄자라고 불리는 붕괴의 의지의 근원을 완전히 소멸시키」",
+			null,
+			null,
+			"\"The total annihilation of the source of the collapsing will called the Unifier of Wills.",
+			"\"The source of the will of disintegration, called the Supervisor of Will, has been completely annihilated.\""
+		],
+		[
+			"msg",
+			720458,
+			null,
+			"“成功阻止了世界末日。”",
+			"「世界の終わりを防ぐことに成功した」",
+			"「세계의 종말을 막는 데 성공했다」",
+			null,
+			null,
+			"\"Succeeded in stopping the end of the world.\"",
+			"\"We succeeded in preventing the end of the world.\""
+		],
+		[
+			"msg",
+			720459,
+			null,
+			"这不是电影中的虚构情节，而是被正在复苏的世界广泛传播的新闻事件。在很长的一段时间里，整个世界的目光都将聚焦在这几名少女的身上。",
+			"これは映画の架空のストーリーではなく、復興を進めている世界で広まっているニュースだ。長い間、世界中の注目がこの数名の少女たちに集まっていた。",
+			"이것은 영화의 가상 스토리가 아니라, 복구를 진행 중인 세계에 퍼져 있는 뉴스다. 오랫동안 전 세계의 관심이 이 몇 명의 소녀들에게 집중되고 있었다.",
+			null,
+			null,
+			"This is not a fictional plot in a movie, but a news event that is being widely spread by the recovering world. For a long time, the eyes of the whole world will be focused on these young girls.",
+			"This is not a fictional story from a movie, but news that is spreading around the world where recovery is underway. For a long time, the world's attention has been focused on these few girls."
+		],
+		[
+			"msg",
+			720460,
+			null,
+			"在此次危机之前，普通民众对崩坏，以及与之相关的一系列概念没有任何认知。",
+			"今回の危機が起こるまで、一般人は崩壊やそれに関する一連の概念をまったく知らなかった。",
+			"이번 위기가 일어나기 전까지, 일반인들은 붕괴나 그것과 관련된 일련의 개념을 전혀 알지 못했다.",
+			null,
+			null,
+			"Prior to this crisis, the general public had no knowledge of collapse, and the range of concepts associated with it.",
+			"Until the current crisis, the general public was completely unaware of the collapse and a series of concepts related to it."
+		],
+		[
+			"msg",
+			720461,
+			null,
+			"崩坏、律者、天命、逆熵，甚至是文明被一台机器重生……这个世界存在着大量的秘密，并且以怒涛般的速度，在整个全球崩坏事件中被披露出来。",
+			"崩壊、律者、天命、ネゲントロピー、さらには文明がある機械によって再生されたこと……この世界には数多くの秘密が存在しており、それらは全世界の崩壊事件を通じて、驚くべきスピードで次々に明らかにされていった。",
+			"붕괴, 율자, 천명, 네겐트로피, 더 나아가 문명이 어떤 기계에 의해 재생되었다는 사실…… 이 세계에는 수많은 비밀이 존재했으며, 그것들은 전 세계적 붕괴 사건을 통해 놀라운 속도로 하나둘 밝혀져 갔다.",
+			null,
+			null,
+			"Collapse, the Herrscher, the Mandate of Heaven, reverse entropy, and even civilization being reborn by a machine ...... This world holds a great deal of secrets and is being revealed with furious speed throughout the global collapse event.",
+			"Collapse, the Ruler, the Celestial, negentropy, and even the regeneration of civilization by certain machines...... There are numerous secrets in this world, which were revealed one after another at an alarming rate through the whole world's collapsing incidents."
+		],
+		[
+			"msg",
+			720462,
+			null,
+			"这些秘密颠覆了以往人类对世界的认知，引起了全球范围内广泛的讨论，同时也引发了大量的政府信任危机。",
+			"そうした秘密は、従来の世界に対する人類の認識を覆し、世界規模で議論を巻き起こした。さらに多くの政府の信頼を危機に陥れた。",
+			"그런 비밀은 기존 세계에 대한 인류의 인식을 뒤엎었고, 전 세계적으로 논란을 일으켰다. 더욱이 많은 정부의 신뢰를 위기에 빠뜨렸다.",
+			null,
+			null,
+			"These secrets have overturned previous human perceptions of the world and have caused widespread debate around the globe, as well as a massive crisis of confidence in government.",
+			"Such secrecy upended mankind's conventional perception of the world and sparked a worldwide debate. They also put the trust of many governments in jeopardy."
+		],
+		[
+			"msg",
+			720463,
+			null,
+			"因此，“全球崩坏战后会议”每两天就要举办一次，所有国家参与其中，且内容经由全域联结同步给所有人类。",
+			"そのため、「世界崩壊戦後会議」は2日ごとに開催され、すべての国が参加し、その内容は全域連結を通じて全人類に共有された。",
+			"그러므로 「세계붕괴전후회의」는 이틀마다 개최되어 모든 국가가 참여했으며, 그 내용은 전역 연결을 통해 전 인류와 공유되었다.",
+			null,
+			null,
+			"Therefore, the \"Global Post-Collapse Conference\" will be held every two days, with the participation of all countries, and the content will be synchronized to all humans via a global link.",
+			"Therefore, the \"World Collapse Postwar Conference\" was held every two days, attended by all countries, and its contents were shared with all mankind through a global consolidation."
+		],
+		[
+			"msg",
+			720464,
+			null,
+			"各国政府为了重建各自的公信力，将矛头统一指向了名为“奥托”的男人。",
+			"各国政府はそれぞれの信頼回復を図るため、「オットー」という男に一斉に矛先を向けた。",
+			"각국 정부는 각자의 신뢰 회복을 위해 「오토」라는 남자를 일제히 표적으로 삼았다.",
+			null,
+			null,
+			"In order to rebuild their credibility, the governments of all countries united to point the finger at the man named \"Otto\".",
+			"Governments, in an effort to restore their respective trust, turned en masse to a man named \"Otto\"."
+		],
+		[
+			"msg",
+			720465,
+			null,
+			"奇迹般仅剩最后一口气的奥托，从月球被救了回来。",
+			"虫の息だったオットーは、奇跡的に月から救出された。",
+			"간신히 목숨을 부지하고 있던 오토는 기적적으로 달에서 구조되었다.",
+			null,
+			null,
+			"Miraculously, Otto, who was left with his last breath, was saved from the moon.",
+			"Otto, who had been a bugbear, was miraculously rescued from the moon."
+		],
+		[
+			"msg",
+			720466,
+			null,
+			"历史该如何书写，如何改写——",
+			"歴史をどのように書き、どのように改変するべきか——",
+			"역사를 어떻게 기록하고, 어떻게 개변해야 할지——",
+			null,
+			null,
+			"How history should be written, how it should be rewritten -",
+			"How history should be written and how it should be altered--"
+		],
+		[
+			"msg",
+			720467,
+			null,
+			"仍需要相当漫长的时间进行判断。",
+			"それにはまだかなり長い時間をかけて判断する必要があるだろう。",
+			"그것에는 아직 상당히 오랜 시간을 두고 판단해야 할 것이다.",
+			null,
+			null,
+			"It will still take quite a long time to make a judgment.",
+			"That will still take quite a long time to determine."
+		],
+		[
+			"msg",
+			720468,
+			null,
+			"——两个月后，人合联总部。",
+			"——2カ月後、人類契約連盟本部。",
+			"——2개월 후, 인류계약연맹 본부.",
+			null,
+			null,
+			"--Two months later, HSU headquarters.",
+			"--Two months later, the headquarters of the Federation of Humanity Contracts."
+		],
+		[
+			"speaker",
+			432377
+		],
+		[
+			"portraits",
+			[
+				574,
+				0,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720469,
+			null,
+			"伊瑟琳博士，您刚才的演讲太好了！",
+			"イザーリン博士、先ほどのスピーチは素晴らしかったです！",
+			"이자린 박사님, 방금 연설 정말 훌륭했습니다!",
+			null,
+			null,
+			"Dr. Estherine, what a great presentation you just gave!",
+			"Dr. Estherine, your earlier speech was excellent!"
+		],
+		[
+			"msg",
+			720470,
+			null,
+			"（翻开笔记）您说“外来文明的入侵，是导致这场灾难的直接原因；但给人类带去深重悲剧的，其实是对他人、对自己痛苦的无视”，这句话我相当认同！",
+			"（ノートを開く）「外からの文明による侵略がこの災いを招いた直接原因ではあるが、他人や自分に対する痛みを無視したことによって、人類に大きな悲劇をもたらした」とおっしゃいましたね。この言葉には大いに共感します！",
+			"(노트를 열며) 「외부 문명의 침략이 이 재앙을 부른 직접적인 원인은 맞지만, 타인과 자신에 대한 고통을 외면한 탓에 인류에게 큰 비극을 초래했다」고 말씀하셨죠. 이 말씀에 크게 공감합니다!",
+			null,
+			null,
+			"（I agree with your statement that \"the invasion of foreign civilizations was the direct cause of this disaster; but what brought about the deep tragedy to mankind was the ignorance of the suffering of others and of ourselves!",
+			"(Open note) You said, \"Although the invasion by an outside civilization was the direct cause of this plague, it was their disregard for pain to others and to themselves that brought great tragedy to humanity.\" I greatly agree with these words!"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720471,
+			null,
+			"我不是个擅长演讲的人。",
+			"私はスピーチが苦手なの。",
+			"저는 연설을 잘 못하는 편이에요.",
+			null,
+			null,
+			"I'm not a good speaker.",
+			"I'm not very good at giving speeches."
+		],
+		[
+			"speaker",
+			432348
+		],
+		[
+			"portraits",
+			[
+				545,
+				0,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720472,
+			null,
+			"伊瑟琳博士，请留步。",
+			"イザーリン博士、お待ちください。",
+			"이자린 박사님, 잠시만 기다려주세요.",
+			null,
+			null,
+			"Dr. Estherine, please stay.",
+			"Dr. Estherine, please hold."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720473,
+			null,
+			"（是那个会议上问一堆问题的研究员）",
+			"（会議でたくさん質問をしてきた研究者だ）",
+			"(회의에서 질문을 많이 해온 연구원이다)",
+			null,
+			null,
+			"(The researcher who asked a bunch of questions at the conference)",
+			"(He's a researcher who has asked a lot of questions at conferences)"
+		],
+		[
+			"msg",
+			720474,
+			null,
+			"我觉得我们把一切都说清楚了，菲米莉丝也带来了足够多的影像记录。",
+			"すべてはっきり説明したと思うけど。フェミリスも十分な映像記録を提供したし。",
+			"모두 분명히 설명했다고 생각하는데. 페미리스도 충분한 영상 기록을 제공했고.",
+			null,
+			null,
+			"I think we got everything straight, and Femiris brought enough visual documentation.",
+			"I think I explained everything clearly. And Femiris provided ample video recordings."
+		],
+		[
+			"speaker",
+			432348
+		],
+		[
+			"portraits",
+			[
+				545,
+				0,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720475,
+			null,
+			"仅仅是影像，在这个时代已经无法证明什么了。",
+			"この時代、映像だけでは何も証明できませんよ。",
+			"이 시대에 영상만으로는 아무것도 증명할 수 없어요.",
+			null,
+			null,
+			"Images alone can no longer prove anything in this day and age.",
+			"In this day and age, you can't prove anything with video alone."
+		],
+		[
+			"msg",
+			720476,
+			null,
+			"而且佐证你们提供的情报，已经超出了目前科学界的能力。科学本身都必须改写了。",
+			"それに、あなたたちが提供した情報は、現在の科学界の能力を超えています。科学そのものを一から見直す必要があります。",
+			"게다가, 당신들이 제공한 정보는 현재 과학계의 능력을 뛰어넘습니다. 과학 그 자체를 처음부터 재검토해야 해요.",
+			null,
+			null,
+			"And corroborating the information you have provided is beyond the capabilities of the current scientific community. Science itself has to be rewritten.",
+			"Besides, the information you have provided is beyond the capabilities of the current scientific community. Science itself must be rewritten."
+		],
+		[
+			"msg",
+			720477,
+			null,
+			"比如说“某种存在逆转了月球的异变，将其变回了原来的样子”。",
+			"たとえば、「なんらかの存在が月の異変を逆転させ、元の状態に戻した」とか。",
+			"예를 들어, 「어떤 존재가 달의 이변을 역전시켜 원래 상태로 되돌렸다」던가.",
+			null,
+			null,
+			"For example, \"some being reversed the mutation of the moon and changed it back to its original form.",
+			"For example, \"some being reversed the lunar anomaly and restored it to its original state."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720478,
+			null,
+			"不是某种存在，是琪亚娜和芽衣，用灵魂的祈愿和回应——",
+			"なんらかの存在ではなく、キアナと芽衣が魂の祈りと返答を使ったのよ——",
+			"어떤 존재가 아니라, 키아나와 메이가 영혼의 기도와 응답을 사용한 거야——",
+			null,
+			null,
+			"Not some kind of being, but Kiana and Meiko, praying and answering with their souls -",
+			"Instead of some being, Kiana and Mei used the prayers and answers of their souls--they"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720479,
+			null,
+			"算了，博士，说多少遍他们都不信。",
+			"無駄だ、博士。何度言っても信じてもらえないって。",
+			"소용없어, 박사님. 몇 번을 말해도 믿어주지 않을 거라고.",
+			null,
+			null,
+			"Forget it, Doc, they won't believe me no matter how many times I say it.",
+			"Come on, Doc. How many times have I told you that you wouldn't believe me?"
+		],
+		[
+			"speaker",
+			432348
+		],
+		[
+			"portraits",
+			[
+				545,
+				0,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720480,
+			null,
+			"是的，即便考虑到伊瑟琳博士您本人的声望，科学界也无法凭您的一句话，认为灵魂是真实存在的事物。加上这数周，你们会议上一再强调“不能完全想起来在月球发生的事情”……",
+			"そうです。イザーリン博士ご自身の名声を考慮しても、科学界はあなたの一言だけで魂が本当に存在していると認めることはできません。しかも、この数週間、あなたたちは会議で「月での出来事を完全に思い出すことはできない」と強調していたではないですか……。",
+			"맞아요. 이자린 박사님 본인의 명성을 고려하더라도, 과학계는 당신의 말 한마디만으로 영혼이 정말로 존재한다고 인정할 수 없어요. 게다가, 지난 몇 주간 당신들은 회의에서 「달에서 일어난 일을 완전히 기억해낼 수 없다」고 강조하지 않았습니까......",
+			null,
+			null,
+			"Yes, even considering your own reputation, Dr. Estherine, the scientific community cannot believe that the soul is a real thing based on your words. Add to this the fact that for weeks you have been stressing at your meetings that you \"cannot fully recall what happened on the moon\" ......",
+			"Yes, it is. Even considering Dr. Estherine's own reputation, the scientific community cannot accept that the soul really exists based on one word from you alone. Moreover, in the past few weeks, you and your colleagues have been stressing at conferences that you cannot fully recall the events on the moon. ......"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720481,
+			null,
+			"之后我们可以详谈。",
+			"また後で詳しく話しましょう。",
+			"나중에 자세히 이야기하죠.",
+			null,
+			null,
+			"We can talk more about it afterwards.",
+			"We'll talk more about it later."
+		],
+		[
+			"msg",
+			720482,
+			null,
+			"现在我很忙，不想被打扰。",
+			"今は忙しいから邪魔されたくないの。",
+			"지금은 바빠서 방해받고 싶지 않아.",
+			null,
+			null,
+			"Right now I'm busy and don't want to be disturbed.",
+			"I'm busy right now and don't want to be disturbed."
+		],
+		[
+			"speaker",
+			432348
+		],
+		[
+			"portraits",
+			[
+				545,
+				0,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720483,
+			null,
+			"好吧，失敬了……",
+			"分かりました。失礼いたします……。",
+			"알겠습니다. 실례하겠습니다....",
+			null,
+			null,
+			"Well, excuse me ......",
+			"Understood. If you'll excuse me, I have to go to ......."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				4,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720484,
+			null,
+			"博士，九霄，快去宴席现场吧。",
+			"博士、九霄、早くパーティー会場に行きましょう。",
+			"박사님, 큐쇼, 빨리 파티 장소로 가자.",
+			null,
+			null,
+			"Doctor, Kyuushou, go to the banquet site.",
+			"Dr. Kyuushou, let's get to the party hall as soon as possible."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720485,
+			null,
+			"这次我也不想去……",
+			"今回は遠慮しておくわ……。",
+			"이번은 사양할게....",
+			null,
+			null,
+			"I don't want to go this time either ......",
+			"I don't want to go this time either. ......"
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				4,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720486,
+			null,
+			"我会安排熟人坐一桌的！辉火和爱莎也来了——",
+			"知り合い同士で同じテーブルになるように手配しました！輝火とエルサも来ますよ——",
+			"아는 사람들끼리 같은 테이블에 앉을 수 있게 준비했어! 키카와 엘사도 온다구——",
+			null,
+			null,
+			"I'll arrange a table for someone I know! Glow Fire and Aisha are coming too -",
+			"We have arranged to be at the same table with other people we know! Bright fire and Elsa will be there, too--"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720487,
+			null,
+			"正因为是熟人才……",
+			"知り合いだからこそ……。",
+			"아는 사이니까 더더욱....",
+			null,
+			null,
+			"Just because they are acquaintances ......",
+			"Because we know each other, you can visit ......."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				7,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720488,
+			null,
+			"算了，博士，我们就去吧。",
+			"ほら博士、行こう。",
+			"자 박사님, 가자.",
+			null,
+			null,
+			"Forget it, Doc, let's just go for it.",
+			"Here we go, Doc."
+		],
+		[
+			"msg",
+			720489,
+			null,
+			"总要面对的。",
+			"いずれは会わないといけないんだから。",
+			"어차피 언젠가는 만나야 할 텐데.",
+			null,
+			null,
+			"There's always something to face.",
+			"We have to meet sooner or later."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				5,
+				false
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720490,
+			null,
+			"…………",
+			"…………",
+			"........",
+			null
+		],
+		[
+			"msg",
+			720491,
+			null,
+			"倒也是……",
+			"それもそうね……。",
+			"그것도 그렇네....",
+			null,
+			null,
+			"Rather. ......",
+			"That's true too. ......"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				212,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720492,
+			null,
+			"“崩坏被消灭了”，",
+			"「崩壊が消滅した」",
+			"「붕괴가 사라졌다」",
+			null,
+			null,
+			"\"Collapse was wiped out,\"",
+			"The collapse has vanished.\""
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10315"
+		],
+		[
+			"msg",
+			720493,
+			null,
+			"这一论点并非月球事件解决后，而是最近才被提出来。",
+			"この主張は月の事件が解決した直後ではなく、近頃ようやく取り沙汰されるようになった。",
+			"이 주장은 달 사건이 해결된 직후가 아니라 최근에서야 비로소 거론되기 시작했다.",
+			null,
+			null,
+			"This argument was not made after the lunar event was resolved, but only recently.",
+			"This claim was only recently addressed, not immediately after the Moon case was resolved."
+		],
+		[
+			"msg",
+			720494,
+			null,
+			"因为直到最近，全球各地实验室采集“异化机构”才全部失效。",
+			"最近になって、世界各地の研究所に集められている「変異機構」がすべて無効化したからだ。",
+			"최근 들어 전 세계의 연구소에서 수집된 「변이 메커니즘」이 모두 무효화되었기 때문이다.",
+			null,
+			null,
+			"This is because until recently, laboratory collection \"alienation agencies\" around the world have all failed.",
+			"This is because all the \"mutation mechanisms\" that have recently been collected in laboratories around the world have been deactivated."
+		],
+		[
+			"msg",
+			720495,
+			null,
+			"在此之前，地球上不时会发生一些极小规模的崩坏事件，在全域联结的监视下根本不会造成任何伤亡。",
+			"それまで、地球では時折小規模な崩壊事件が発生していたが、全域連結の監視下では死傷者は一切出ていない。",
+			"그 전까지 지구에서는 가끔 소규모 붕괴 사건이 발생했지만, 전역 연결 감시 하에서는 사상자가 단 한 명도 없었다.",
+			null,
+			null,
+			"Prior to that, from time to time, there were some very small-scale collapses on Earth, which did not cause any casualties at all under the surveillance of the Territorial Connection.",
+			"Until then, there had been occasional small-scale collapses on Earth, but no casualties of any kind had been reported under the supervision of the entire consolidated area."
+		],
+		[
+			"msg",
+			720496,
+			null,
+			"但这些事件，还有历史的追问，并非那些曾被“崩坏”裹挟着的，仿佛已经与世界脱节的少女们真正要面对的问题。",
+			"そして、かつて「崩壊」に巻き込まれ、まるで世界との接点を失っていたかのような少女たちにとって、これらの事件や歴史の追究は、向き合わなければならない問題ではない。",
+			"그리고 과거 「붕괴」에 휘말려 마치 세계와의 접점을 상실한 듯했던 소녀들에게, 이러한 사건이나 역사의 추적은 마주해야 할 문제가 아니었다.",
+			null,
+			null,
+			"But these events, and the questions of history, are not the real problems faced by the young girls who have been held hostage by the \"crash\" and who seem to be out of touch with the world.",
+			"However, for girls who were once caught up in the \"collapse\" and seem as if they had lost touch with the world, the pursuit of these events and history is not a problem they must face."
+		],
+		[
+			"msg",
+			720497,
+			null,
+			"她们要面对的，是如何从“崩坏的世界”真正脱身。",
+			"彼女たちが真に向き合わなければならないのは、いかにして「崩壊の世界」から本当に抜け出すか。",
+			"그들이 진정으로 마주해야 할 것은 어떻게 「붕괴의 세계」에서 진정으로 벗어날 것인가.",
+			null,
+			null,
+			"What they have to face is how to really get out of the \"broken world\".",
+			"What these women really need to face is how to truly escape the \"world of collapse."
+		],
+		[
+			"msg",
+			720498,
+			null,
+			"如何从“崩坏中的生活”，回到自己的生活中。",
+			"いかにして「崩壊の中の生活」から自分の生活に戻るかだ。",
+			"어떻게 「붕괴 속의 삶」에서 자신의 삶으로 돌아올 것인가였다.",
+			null,
+			null,
+			"How to get back to your life from the \"life in collapse\".",
+			"It's how to get back to one's own life from \"life in decay.\""
+		],
+		[
+			"msg",
+			720499,
+			null,
+			"——人合联总部餐厅内。",
+			"——人類契約連盟本部食堂。",
+			"——인류 계약 연맹 본부 식당.",
+			null,
+			null,
+			"-- Inside the restaurant at the HSU headquarters.",
+			"--Headquarters cafeteria of the Federation of Humanity Contracting."
+		],
+		[
+			"speaker",
+			204791
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				876,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720500,
+			null,
+			"张嘴，啊——",
+			"輝火、口を開けて、アーン——",
+			"키카, 입 벌려, 아~——",
+			null,
+			null,
+			"Open your mouth, ah-",
+			"Open your mouth, Ahn--"
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				809,
+				3,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720501,
+			null,
+			"大家都看着啊，爱莎……好吃。",
+			"ちょっと、みんなが見てるから……ん、おいしい。",
+			"좀, 다들 보잖아... 음, 맛있어.",
+			null,
+			null,
+			"Everyone look ah, Aisha ...... delicious.",
+			"Everyone is watching you, Elsa. ...... delicious~."
+		],
+		[
+			"speaker",
+			204791
+		],
+		[
+			"portraits",
+			[
+				809,
+				3,
+				true
+			],
+			[
+				876,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720502,
+			null,
+			"可你刚过康复期，手不能随便活动！张嘴，啊——",
+			"あなたはまだリハビリ中だから、手を自由に動かせないでしょ！はい、口を開けて、アーン——",
+			"아직 재활 중이니까 손을 자유롭게 움직일 수 없지! 자, 입 벌려, 아~——",
+			null,
+			null,
+			"But you've just passed the recovery period, you can't move your hands around! Open your mouth, ahh...",
+			"But you're still in rehab, so you can't move your hands freely! Open your mouth, ah--"
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				809,
+				3,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720503,
+			null,
+			"奇迹的力量啊，把我的身体也恢复一下吧……好吃。",
+			"奇跡の力ね。私の体も回復させて欲しいものね…………あっ、これ好きかも。",
+			"기적의 힘이네. 내 몸도 회복시켜줬으면 좋겠네............ 앗, 이거 맘에 들 것 같아.",
+			null,
+			null,
+			"O power of miracle, restore my body too ...... delicious.",
+			"Miraculous power. Let my body recover too. ...... delicious."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720504,
+			null,
+			"你们似乎是第一次来人合联总部。",
+			"あなたたち、人類契約連盟の本部には初めて来たみたいね。",
+			"너희들, 인간계약연맹 본부에는 처음 온 모양이네.",
+			null,
+			null,
+			"It seems to be your first time to come to the HUF headquarters.",
+			"Looks like you guys are new to the headquarters of the League of Human Contracts."
+		],
+		[
+			"speaker",
+			204791
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				true
+			],
+			[
+				876,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720505,
+			null,
+			"德丽莎主教，您来了。",
+			"テレサ主教、いらっしゃったのですか？",
+			"테레사 주교님, 오셨습니까?",
+			null,
+			null,
+			"Bishop Teresa, you are here.",
+			"Bishop Teresa, you are here?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720506,
+			null,
+			"我不是什么主教。",
+			"あたくしは主教じゃないわ。",
+			"난 주교가 아니야.",
+			null,
+			null,
+			"I'm not some bishop.",
+			"I am not a bishop."
+		],
+		[
+			"speaker",
+			204791
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				true
+			],
+			[
+				876,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720507,
+			null,
+			"抱歉，习惯还没改回来。",
+			"申し訳ありません。癖がまだ抜けなくて。",
+			"죄송합니다. 습관이 아직 남아서요.",
+			"My apologies. I still haven't gotten rid of that habit.",
+			null,
+			"Sorry, the habit hasn't changed back.",
+			"My apologies. I'm still out of the habit."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				false
+			],
+			[
+				876,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720508,
+			null,
+			"律者核心碎片的移除手术，看起来很顺利。",
+			"律者コアの欠片の摘出手術はうまくいったようね。",
+			"율자 코어 조각 적출 수술은 잘 된 모양이네.",
+			"It looks like the surgery to remove the pieces of the Herrscher core went well.",
+			null,
+			"The surgery to remove the core fragments of the Ruler appears to have gone well.",
+			"It looks like the surgery to remove the pieces of the rite's core went well."
+		],
+		[
+			"speaker",
+			204791
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				true
+			],
+			[
+				876,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720509,
+			null,
+			"是的，而且我在考虑新家的选址，还有庆祝我们——",
+			"はい。それに新しい家の場所も考えているんです。それから私たちを祝う——",
+			"네. 그리고 새 집 장소도 생각 중이에요. 게다가 우리를 축하해주는——",
+			"Yes, I am. And we're trying to figure out where to put our new home. Then we celebrate our——",
+			null,
+			"Yes, and I'm thinking about the location of my new home, and celebrating our-",
+			"Yes, I am. And we're trying to figure out where to put our new home. Then we celebrate our--"
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				809,
+				0,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720510,
+			null,
+			"（害羞）咳咳。",
+			"（恥ずかしそうに）コホン。",
+			"(부끄러운 듯) 콜록.",
+			"(Embarrassed) Ahem.",
+			null,
+			"(Shy) Ahem.",
+			"(Embarrassed) Ohon."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720511,
+			null,
+			"（你们过于亲密了吧？）",
+			"（この子たち、仲がよすぎない？）",
+			"(이 아이들, 사이가 너무 좋지 않아?)",
+			"(Aren't you girls too close?)",
+			null,
+			"(You're too close, aren't you?)",
+			"(Aren't you guys too close?)"
+		],
+		[
+			"msg",
+			720512,
+			null,
+			"（也不是不能理解，毕竟这两人都差点没命了）",
+			"（理解できないわけじゃないけどね。この2人は死にかけたんだし）",
+			"(이해 못 하는 건 아니지만. 이 두 사람은 죽을 뻔했으니까)",
+			null,
+			null,
+			"(It is not incomprehensible, after all, these two were almost killed)",
+			"(Not that I don't understand it. I mean, these two almost died.)"
+		],
+		[
+			"portraits",
+			[
+				415,
+				2,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720513,
+			null,
+			"（可同样是差点没命的其他人——）",
+			"（でも、同じように死にかけた他の人たちは——）",
+			"(하지만, 똑같이 죽을 뻔한 다른 사람들은 ——)",
+			null,
+			null,
+			"(But also the others who almost died -)",
+			"(But others who were dying as well--)"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720514,
+			null,
+			"（低头）…………",
+			"（うつむいている）…………。",
+			"(고개를 숙인 채)………….",
+			"(head drooping )....",
+			null,
+			"(Head down) ............",
+			"(depressed) ............."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720515,
+			null,
+			"（埋头写字）…………",
+			"（うつむいて何かを書いている）…………。",
+			"(고개를 숙이고 뭔가를 적고 있는)………….",
+			"(head drooping and writing something...)",
+			null,
+			"(Bury your head in writing) ............",
+			"(He's depressed and writing something.) ............."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720516,
+			null,
+			"（发呆）…………",
+			"（ボンヤリしている）…………。",
+			"(멍하니 있는)………….",
+			"(looking absent-minded....)",
+			null,
+			"(Daze) ............",
+			"(bonkers) ............."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720517,
+			null,
+			"（面面相觑）…………",
+			"（顔を見合わせている）…………。",
+			"(서로 얼굴을 마주보는)………….",
+			null,
+			null,
+			"(Facing each other) ............",
+			"(They look at each other.) ............."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				5,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720518,
+			null,
+			"呃……",
+			"えっ……。",
+			"엣…….",
+			null,
+			null,
+			"Uh ......",
+			"What? ......."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				2,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720519,
+			null,
+			"（怎么就还是不愿谈话呢……）",
+			"（どうしてまだ話そうとしないのよ……）",
+			"(왜 아직도 말하려고 하지 않는 거야……)",
+			null,
+			null,
+			"(How come they still don't want to talk ......)",
+			"(Why haven't you tried talking yet? ......)"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720520,
+			null,
+			"每当她们坐在一起，便沉默不语，仿佛达成了某种默契。",
+			"彼女たちは一緒に座ると、いつも黙ってしまう。まるで示し合わせているかのようだ。",
+			"그녀들은 함께 앉으면 항상 침묵한다. 마치 사전에 약속이라도 한 듯이.",
+			null,
+			null,
+			"Whenever they sat together, they were silent, as if they had reached some kind of tacit agreement.",
+			"Whenever the girls sit down together, they are always silent. It's as if they are showing each other what to do."
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				809,
+				0,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720521,
+			null,
+			"倒是说句话啊。",
+			"ねぇ、何か話してよ。",
+			"저기, 뭐라도 말해 봐.",
+			null,
+			null,
+			"Say something instead.",
+			"Tell me something."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				809,
+				0,
+				true
+			],
+			[
+				19,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720522,
+			null,
+			"月球残余崩坏能的监测结果——",
+			"月の残留崩壊エネルギーの観測結果から——",
+			"달의 잔여 붕괴 에너지 관측 결과로부터 ——",
+			null,
+			null,
+			"Results of monitoring of lunar residual collapse energy -",
+			"From observations of the residual decay energy of the Moon--"
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				809,
+				0,
+				false
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720523,
+			null,
+			"除了崩坏的话题，好吗？",
+			"はぁ、崩壊以外の話に決まってるじゃない。",
+			"하아, 붕괴 말고 다른 이야기로 정해져 있잖아.",
+			null,
+			null,
+			"Except for the topic of collapse, okay?",
+			"Make it something other than a collapse topic. Okay?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720524,
+			null,
+			"沉默。",
+			"沈黙。",
+			"침묵.",
+			null,
+			null,
+			"Silence.",
+			"Silence."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				false
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720525,
+			null,
+			"（掩面哭泣）呜……希儿，杏……",
+			"（顔を覆って泣く）うぅ……ゼーレ、シン……。",
+			"(얼굴을 가리고 울음) 우우…… 제레, 신…….",
+			"(Covering her face and crying) Ahhhhh.... Seele.... Sin.....",
+			null,
+			"(Covering her face and crying) Oooh ...... Heee, apricot ......",
+			"(Covering his face and crying) Ugh ...... Seele, Sin ......."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				true
+			],
+			[
+				70,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			720526,
+			null,
+			"琪亚娜和芽衣也……",
+			"キアナと芽衣も……。",
+			"키아나와 메이도…….",
+			"Kiana and Mei also ......",
+			null,
+			"Kiana and Meiko also ......",
+			"Kiana and Mei are also available at ......."
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				809,
+				6,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			720527,
+			null,
+			"你们确实做到了很了不起的事情，但代价也很大，不是吗？不管怎么用使命啊，觉悟啊，或者别的什么乱七八糟的东西来说服自己，都改变不了你们是傻乎乎的敢死队这一事实。",
+			"たしかにあなたたちはすごいことを成し遂げたけど、代償も大きかった。そうでしょ？使命だとか、覚悟だとか、そんなしょうもない理屈で自分を納得させても、あなたたちが愚かな決死隊だったという事実は変わらないのよ。",
+			"확실히 너희들은 대단한 일을 해냈지만, 대가도 컸어. 그렇지? 사명이라던가, 각오라던가, 그런 하찮은 논리로 자신을 납득시켜도, 너희들이 어리석은 결사대였다는 사실은 변하지 않아.",
+			null,
+			null,
+			"You guys did do amazing things, but at a great cost, didn't you? No amount of convincing yourselves with mission, awareness, or whatever other nonsense will change the fact that you are silly death squads.",
+			"Yes, you guys accomplished great things, but at a great cost. Isn't that right? Convincing yourself of your mission, your resolve, and all that other nonsense doesn't change the fact that you were a foolish death squad."
+		],
+		[
+			"msg",
+			720528,
+			null,
+			"我包括我在内，在座的各位在生活上，在过去的人生上，都是彻彻底底的输家。",
+			"私も含めて、ここに座っているみんなは、過去の生活や人生において、完全なる敗者なの。",
+			"나를 포함해서, 여기 앉아 있는 모두는, 과거의 생활이나 인생에서 완전한 패자야.",
+			null,
+			null,
+			"I, including myself, everyone here is a complete and utter loser in life and in the past.",
+			"Everyone sitting here, myself included, is a total loser in life and past lives."
+		],
+		[
+			"msg",
+			720529,
+			null,
+			"但又怎么样，都结束了！已经没有我们的事情了，笨蛋们！崩坏相关的研究又不是一天两月就能取得重大突破的，你们还要生活，生活！",
+			"でも、それがどうしたっていうの？もう終わったのよ。もう私たちには関係ないの。それに、崩壊に関する研究なんて1カ月や2カ月で大きな成果をあげられるものじゃないし、あなたたちにだって人生があるでしょ、人生が！",
+			"그래서 어쩌라는 거야? 이미 끝난 일이야. 이제 우리와는 상관없는 일이라고. 게다가, 붕괴에 관한 연구 같은 건 한두 달 만에 큰 성과를 올릴 수 있는 게 아니잖아, 너희들도 인생이 있잖아, 인생이!",
+			null,
+			null,
+			"But so what, it's over! There's nothing for us anymore, fools! It's not like a major breakthrough in Crash-related research is going to happen in a day or two, you have a life to live, a life!",
+			"But what does it matter? It's over! It's not our problem anymore, you idiot! You can't do a great deal of research on collapse in a month or two. You have a life, you have a life!"
+		],
+		[
+			"msg",
+			720530,
+			null,
+			"你们还有很多时间，不像我……",
+			"あなたたちにはまだたくさん時間があるんだから。私と違って……。",
+			"너희들에게는 아직 많은 시간이 남아있어. 나와는 달리…….",
+			null,
+			null,
+			"You guys still have a lot of time, unlike me ......",
+			"You guys still have lots of time. Unlike me, ......."
+		],
+		[
+			"portraits",
+			[
+				809,
+				7,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			720531,
+			null,
+			"不像我……",
+			"私と……違って……。",
+			"나와…… 달리…….",
+			null,
+			null,
+			"Unlike me ......",
+			"Unlike me, ......."
+		],
+		[
+			"speaker",
+			204791
+		],
+		[
+			"portraits",
+			[
+				876,
+				2,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			720532,
+			null,
+			"（抱住）没事，没事……",
+			"（抱きしめながら）大丈夫、大丈夫だから……",
+			"(껴안으며) 괜찮아, 괜찮으니까...",
+			null,
+			null,
+			"(Hold on) It's okay, it's okay ......",
+			"(hugging her) It's okay, it's okay. ......"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			720533,
+			null,
+			"被Nexus系统摧残的辉火，已经不剩多少年的寿命了。",
+			"Nexusシステムで体を酷使したことで、輝火に残されている寿命はもう長くない。",
+			"Nexus 시스템으로 몸을 혹사한 탓에 키카에게 남은 수명은 이제 길지 않다.",
+			null,
+			null,
+			"Destroyed by the Nexus system, Pfeiffer doesn't have many years of life left.",
+			"Since the Nexus system has ravaged his body, the lifespan left for the bright fire is no longer long enough."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			720534,
+			null,
+			"但这一点也帮助了她，让她看清了属于自己的，生命中的重大决定。",
+			"しかし、そのことは同時に、今後の人生における重要な決断を明確にすることに役立った。",
+			"하지만 그 사실은 동시에, 앞으로의 인생에서 중요한 결단을 명확히 하는 데 도움이 되었다.",
+			null,
+			null,
+			"But it also helped her to see that she belonged, to make the big decisions in her life.",
+			"But at the same time, it also helped her to clearly see the important decisions in her own life."
+		],
+		[
+			"msg",
+			720535,
+			null,
+			"“享受生活，享受当下”，",
+			"「人生を楽しみ、今を楽しむ」",
+			"「인생을 즐기고, 지금을 즐겨라」",
+			null,
+			null,
+			"\"Enjoy life, enjoy the moment,\"",
+			"Enjoy life, enjoy the moment.\""
+		],
+		[
+			"msg",
+			720536,
+			null,
+			"仅此而已。",
+			"それだけのこと。",
+			"그뿐이야.",
+			null,
+			null,
+			"That's all.",
+			"That's all there is to it."
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			720537,
+			null,
+			"可是琪亚娜和芽衣还在另一个宇宙，阻止崩坏再次发生。",
+			"だが、キアナと芽衣先輩はまだ別の宇宙にいて、崩壊が再び発生するのを阻止しようとしている。",
+			"하지만 키아나와 메이 선배는 아직 다른 우주에 있으며, 붕괴가 다시 발생하는 걸 막으려 하고 있다.",
+			null,
+			null,
+			"But Kiana and Meiko are still in another universe to stop the collapse from happening again.",
+			"However, Kiana and Mei Senpai are still in the other universe, trying to stop the collapse from occurring again."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				3,
+				false
+			],
+			[
+				70,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			720538,
+			null,
+			"就算她们真的成了像神明一样的家伙，那也不妨碍你们走出来呀。",
+			"たとえふたりが本当に神のような存在になったとしても、それはみなさんが前向きになることを妨げるものではありません。",
+			"비록 두 사람이 진정 신과 같은 존재가 되었다 해도, 그것이 여러분이 앞으로 나아가는 걸 막을 수는 없어.",
+			null,
+			null,
+			"Even if they really become like gods, that does not prevent you from walking out ah.",
+			"Even if these girls really do turn out to be god-like guys, that doesn't prevent you from being positive."
+		],
+		[
+			"msg",
+			720539,
+			null,
+			"我也按照你们的意愿，让你们尽量不在媒体中露面了。但会议本身不可能没有媒体记录。你们没有义务出席每次会议，没有义务关注崩坏研究的每一个进展。",
+			"フェミリスはみなさんの意向にしたがい、できるだけみなさんをメディアに露出させないようにしました。しかし、会議自体はメディアの記録をなしにすることはできません。ですが、もとより会議に毎回出席する義務もなければ、崩壊研究のすべての進捗に目を向ける義務もないんです。",
+			"페미리스는 여러분의 의향에 따라 가능한 한 미디어에 노출되지 않도록 했어요. 하지만 회의 자체는 미디어 기록 없이 진행할 수 없죠. 다만 원래부터 회의에 매번 참석할 의무도, 붕괴 연구의 모든 진척 상황을 챙겨볼 의무도 없답니다.",
+			null,
+			null,
+			"I have also kept you out of the media as much as possible, as you wished. But the meetings themselves could not have gone unrecorded by the media. You are not obligated to attend every meeting and follow every development in collapse research.",
+			"Femiris has also followed your wishes and tried to keep you out of the media as much as possible. However, the meetings themselves cannot be without media recordings. You are not obligated to attend every meeting, nor are you obligated to keep track of all the progress of the collapse study."
+		],
+		[
+			"msg",
+			720540,
+			null,
+			"让你们的精神，连同肉体一起休息吧，好吗？",
+			"心と体を休ませてください。いいですね？",
+			"마음과 몸을 쉬게 하세요. 알겠죠?",
+			null,
+			null,
+			"Let your spirits, along with your physical bodies, rest, okay?",
+			"Let the spirit rest with the body. Okay?"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				30133,
+				3,
+				true
+			],
+			[
+				19,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			720541,
+			null,
+			"可是我还有研究——",
+			"でも、私にはまだ研究が——",
+			"하지만 나에게는 아직 연구가 ——",
+			null,
+			null,
+			"But I still have research-",
+			"But I still have research to--"
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				2,
+				false
+			],
+			[
+				19,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			720542,
+			null,
+			"（生气）博士！",
+			"（怒る）博士！",
+			"(화내며) 박사님!",
+			null,
+			null,
+			"(angry) Doctor!",
+			"(Angry) Doctor!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				false
+			],
+			[
+				19,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			720543,
+			null,
+			"正因为辉火和你们的关系不算很熟，才更愿意说一些真心话。你们过去的生活被崩坏影响得太深了。",
+			"輝火とあなたたちがそこまで親しくないからこそ、躊躇わずに本音をぶつけてくれているんじゃないかしら。——今までのあなたたちの人生は、崩壊に大きな影響を及ぼされたわ。",
+			"키카 씨와 당신들이 그렇게까지 친하지 않기 때문에, 망설임 없이 속마음을 털어놓고 있는 게 아닐까. —— 지금까지 당신들의 인생은, 붕괴에 큰 영향을 받았어.",
+			null,
+			null,
+			"It is because Terra Firma is not very close to you that she is more willing to say something sincere. Your past lives were too deeply affected by the collapse.",
+			"I want to be honest with you because you and Shine and Fire are not that close to each other. Your past lives were greatly affected by the collapse."
+		],
+		[
+			"msg",
+			720544,
+			null,
+			"孩子们，是时候解脱了，不是吗？",
+			"でも、そろそろ解放されるべき時よ。そうでしょう？",
+			"하지만, 이제는 해방되어야 할 때야. 그렇지?",
+			null,
+			null,
+			"Kids, it's time to unwind, isn't it?",
+			"Children, it's time to let them go. Don't you agree?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				true
+			],
+			[
+				70,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			720545,
+			null,
+			"唉……",
+			"はぁ……。",
+			"하아…….",
+			null,
+			null,
+			"Alas ......",
+			"Huh. ......."
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				0,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			720546,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			720547,
+			null,
+			"辉火，德丽莎，菲米莉丝……",
+			"輝火様、テレサ様、フェミリス……。",
+			"키카님, 테레사님, 페미리스…….",
+			null,
+			null,
+			"Pfeiffer Fire, Theresa, Femiris ......",
+			"Dear Bright Fire, Teresa, and Femiris: ......."
+		],
+		[
+			"msg",
+			720548,
+			null,
+			"你们说的对。",
+			"あなたたちの言うとおりです。",
+			"당신들이 말한 게 맞아요.",
+			null,
+			null,
+			"You guys are right.",
+			"You guys are right."
+		],
+		[
+			"msg",
+			720549,
+			null,
+			"我们能活下来，坐在这里吃饭、聊天，都是因为有她们的付出和牺牲。",
+			"私たちが生き延び、ここで食事をして、おしゃべりをすることができるのは、彼女たちの貢献と犠牲があったからです。",
+			"우리가 살아남아 여기서 식사를 하고, 수다를 떨 수 있는 건, 그녀들의 공헌과 희생이 있었기 때문이에요.",
+			null,
+			null,
+			"We are alive, sitting here eating and talking because of their dedication and sacrifice.",
+			"It is because of their contributions and sacrifices that we are able to survive and eat and chat here."
+		],
+		[
+			"msg",
+			720550,
+			null,
+			"当然也有我们自己。",
+			"もちろん私たち自身もそうです。",
+			"물론 우리 자신도 그렇고요.",
+			null,
+			null,
+			"And of course ourselves.",
+			"Of course we ourselves do."
+		],
+		[
+			"msg",
+			720551,
+			null,
+			"回报她们、也是回报我们自己的最好方式，就是好好生活。",
+			"彼女たち、そして私たち自身に報いる最善の方法は、しっかりと生きていくこと。",
+			"그녀들, 그리고 우리 자신에게 보답하는 가장 좋은 방법은 굳건히 살아가는 거예요.",
+			null,
+			null,
+			"The best way to give back to them, and to ourselves, is to live well.",
+			"The best way to reward these women, and ourselves, is to live well."
+		],
+		[
+			"msg",
+			720552,
+			null,
+			"我是这样认为的。",
+			"ニンディはそう思います。",
+			"닌디는 그렇게 생각해.",
+			null,
+			null,
+			"I do.",
+			"I agree."
+		],
+		[
+			"msg",
+			720553,
+			null,
+			"所以我决定了。",
+			"ですから、ニンディは決めました。",
+			"그래서, 닌디는 결정했어.",
+			null,
+			null,
+			"So I've decided.",
+			"So I decided."
+		],
+		[
+			"msg",
+			720554,
+			null,
+			"开学之前，我要去旅游。",
+			"学校が始まる前に、旅行に行きます。",
+			"학교 시작하기 전에, 여행을 갈 거야.",
+			null,
+			null,
+			"Before school starts, I'm going on a trip.",
+			"We will travel before school starts."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				4,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			720555,
+			null,
+			"说了那就要去做哦。",
+			"有言実行ですよ！",
+			"말한 건 꼭 실행하는 거야!",
+			null,
+			null,
+			"Said that we have to do oh.",
+			"I'm a man of my word."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				0,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			720556,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			720557,
+			null,
+			"那我也给自己放个长假吧。",
+			"じゃあ、私も長い休暇を取ろうっと。",
+			"그럼, 나도 긴 휴가를 낼래.",
+			null,
+			null,
+			"Then I'll give myself a long vacation too.",
+			"Then I'll take a long vacation too."
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			720558,
+			null,
+			"无论谁找我，我都不管，绝对不管！当没听见！这是属于我自己的时间……大概。",
+			"誰が会いに来ようと知らない。絶対に相手しないわ。聞こえないことにする！それは私に必要な時間だから……きっと。",
+			"누가 만나러 오든 상관없어. 절대 상대 안 할 거야. 못 들은 척할 거야! 그게 내게 필요한 시간이니까... 분명히.",
+			null,
+			null,
+			"No matter who comes to me, I don't care, absolutely not! When not heard! This is my own time ...... probably.",
+			"I don't know who comes to see me. I will never deal with them! I'll pretend I can't hear them! It's my own time, so ...... surely."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				4,
+				false
+			],
+			[
+				70,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			720559,
+			null,
+			"（惊喜）博士！",
+			"（驚き喜んで）博士！",
+			"(깜짝 놀라며 기뻐하며) 박사님!",
+			null,
+			null,
+			"(Surprise) Doctor!",
+			"(Surprised and pleased) Doctor!"
+		],
+		[
+			"msg",
+			720560,
+			null,
+			"九霄，布洛妮娅，你们也和西琳一样去上学吧！",
+			"九霄、ブローニャ、あなたたちもシーリンのように学校に行ってください！",
+			"큐쇼, 브로냐, 너희도 시린처럼 학교에 다녀!",
+			null,
+			null,
+			"Kyuushou, Bronya, you go to school like Celine!",
+			"Kyuushou, Bronya, you guys should also go to school like Sirin!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				30133,
+				4,
+				true
+			],
+			[
+				70,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720561,
+			null,
+			"不要。",
+			"我には必要ない。",
+			"난 필요 없어.",
+			null,
+			null,
+			"Don't.",
+			"I don't want to."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				2,
+				false
+			],
+			[
+				70,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720562,
+			null,
+			"这不是建议，是命令！博士之前就说过了，让大家去上学！",
+			"これは提案ではなく、命令です！博士が以前言ったはずです、みなさんを学校に通わせると！",
+			"이건 제안이 아니라 명령이야! 박사님이 전에 분명히 말씀하셨잖아, 너희들을 학교에 보낸다고!",
+			"This is not a suggestion, it is an order! I believe Doctor told you before that she would send you all to school!",
+			null,
+			"It's not a suggestion, it's an order! The Doctor has said it before, let everyone go to school!",
+			"This is not a suggestion, it is an order! I believe Dr. B. told you before that he would send you all to school!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				30133,
+				2,
+				true
+			],
+			[
+				70,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720563,
+			null,
+			"菲米莉丝，把知识灌进我脑子里吧。",
+			"フェミリス、知識を我の頭に注ぎ込んで。",
+			"페미리스, 지식을 내 머릿속에 주입해줘.",
+			null,
+			null,
+			"Femiris, get the knowledge into my head.",
+			"Femiris, pour knowledge into my head."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				2,
+				false
+			],
+			[
+				70,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720564,
+			null,
+			"你只是单纯地讨厌上学而已吧！",
+			"そんなこと絶対にしませんよ！九霄は学校に行きたくないだけでしょう！",
+			"그럴 리 없어! 큐쇼는 그냥 학교 가기 싫은 거잖아!",
+			null,
+			null,
+			"You simply hate school, right?",
+			"Kyuushou would simply not want to go to school!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				30133,
+				2,
+				true
+			],
+			[
+				70,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			720565,
+			null,
+			"今天开始，我就是教育之敌。",
+			"決めた。今日から教育は我の敵だ。",
+			"결정했어. 오늘부터 교육은 나의 적이다.",
+			"From this day forward, I am an enemy of education.",
+			null,
+			"Starting today, I am the enemy of education.",
+			"From this day forward, I am an enemy of education."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				2,
+				false
+			],
+			[
+				70,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			720566,
+			null,
+			"我要给西琳告状了！",
+			"そんなこと言ってていいんですか？シーリンに告げ口しますからね！",
+			"그런 말 해도 되는 거야? 시린한테 일러바칠 거야!",
+			"I'm going to tell Sirin!",
+			null,
+			"I'm going to tattle on Celine!",
+			"I'm going to tell Sirin!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				30133,
+				2,
+				true
+			],
+			[
+				70,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720567,
+			null,
+			"什么时候开学？",
+			"……フェミリス、学校はいつから始まるんだ？",
+			"......페미리스, 학교는 언제부터 시작이지?",
+			"When does school start?",
+			null,
+			"When does school start?",
+			"When does school start?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				2,
+				false
+			],
+			[
+				70,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720568,
+			null,
+			"（离席）",
+			"（席を立つ）",
+			"(자리에서 일어남)",
+			null,
+			null,
+			"(leave the table)",
+			"(GETTING OUT OF THE SEAT)"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				6,
+				false
+			],
+			[
+				70,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720569,
+			null,
+			"啊……",
+			"あっ……。",
+			"아.......",
+			null,
+			null,
+			"Ah ......",
+			"Oh, ......."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				70,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720570,
+			null,
+			"气氛一下子又冷了下来。",
+			"雰囲気が急に冷めた。",
+			"분위기가 갑자기 싸해졌어.",
+			null,
+			null,
+			"The atmosphere instantly chilled again.",
+			"The atmosphere suddenly cooled."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				3,
+				false
+			],
+			[
+				70,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720571,
+			null,
+			"再给布洛妮娅一点时间吧……",
+			"ブローニャにはもう少し時間をあげましょう……。",
+			"브로냐에게는 조금 더 시간을 줘보자......",
+			"Let's give Bronya a little more time. ......",
+			null,
+			"Give Bronya a little more time ......",
+			"Let's give Bronya a little more time. ......"
+		],
+		[
+			"speaker",
+			204791
+		],
+		[
+			"portraits",
+			[
+				30133,
+				3,
+				true
+			],
+			[
+				876,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720572,
+			null,
+			"德丽莎，你那边结束了吗？",
+			"テレサ様、そちらのお仕事は終わりましたか？",
+			"테레사님, 저쪽 일은 끝나셨나요?",
+			null,
+			null,
+			"Theresa, is it over on your end?",
+			"Dear Teresa, have you finished your work there?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				false
+			],
+			[
+				876,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720573,
+			null,
+			"还远着呢，天命部分的情报需要我和姬子进行大量的确认工作。",
+			"まだまだよ。天命の情報にはあたくしや姫子が膨大な確認作業をしなければならないものがあるの。",
+			"아직이야. 천명의 정보에는 나나 히메코가 엄청난 확인 작업을 해야 할 게 많아.",
+			null,
+			null,
+			"It is still far away, the information of the Heavenly Mandate part needs a lot of confirmation work by me and Himeko.",
+			"There is more. There is a huge amount of information on Tenmei that I and Himeko need to verify."
+		],
+		[
+			"msg",
+			720574,
+			null,
+			"（看手机）呜哇，又叫我！我得回去了！",
+			"（スマホを見る）ああ、また呼ばれてる！戻らないと！",
+			"(스마트폰을 보며) 아, 또 불렀네! 돌아가야 해!",
+			null,
+			null,
+			"(looks at phone) Woohoo, calling me again! I have to go back!",
+			"(looks at phone) Oh, they're calling me back! I have to go back!"
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				true
+			],
+			[
+				809,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720575,
+			null,
+			"不要摸鱼哦~",
+			"サボらないでよね～",
+			"빼먹지 말라니까~",
+			null,
+			null,
+			"Do not touch the fish Oh ~",
+			"Please don't slack off!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720576,
+			null,
+			"你没有资格说我！",
+			"あなたに言われる筋合いはないわ！",
+			"네가 나한테 할 말은 아니잖아!",
+			null,
+			null,
+			"You are not qualified to talk about me!",
+			"I don't need you to tell me what to do!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720577,
+			null,
+			"之前布洛妮娅一直在埋头写字。",
+			"先ほどまでブローニャは下を向きながら何かを書いていた。",
+			"방금까지 브로냐는 고개를 숙인 채 무언가를 쓰고 있었다.",
+			null,
+			null,
+			"Before that, Bronya had been burying her head in writing.",
+			"Earlier, Bronya was looking down and writing something."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			720578,
+			null,
+			"辉火把纸拿起来看了几眼，就放回了桌子上。其他人也都围过来看了看——",
+			"輝火はその紙を手に取り、チラリと見ると、すぐに机に戻した。他の人たちも周りを囲むようにして見た——",
+			"키카는 그 종이를 집어들고 흘끗 보더니, 바로 책상에 돌려놓았다. 다른 사람들도 주변을 둘러싸며 ——",
+			null,
+			null,
+			"Pfeiffer picked the paper up and looked at it for a few moments, then put it back on the table. Everyone else came around to look at it -",
+			"Teruhi picked up the paper, glanced at it, and quickly put it back on his desk. The others looked around--they, too, were surrounded--and saw it."
+		],
+		[
+			"msg",
+			720579,
+			null,
+			"不断写了又划掉，划掉又重写的，破碎的语言。",
+			"断片的な言葉を書いては消し、消しては書いていた。",
+			"조각난 단어들을 쓰고 지우고, 지우고 쓰고 있었다.",
+			null,
+			null,
+			"The broken language that is constantly written and crossed out, crossed out and rewritten.",
+			"Fragmented words were written and crossed out, erased and written."
+		],
+		[
+			"msg",
+			720580,
+			null,
+			"太空环境下极端的心理压力，不断发生的幻觉体验，被崩坏生物残忍虐杀……等等等等，都不断摧残着她们的身体和心灵。",
+			"宇宙空間での極限の精神的ストレス、絶え間なく生じる幻覚、崩壊生物による残忍な殺りく……等々、そのすべてが彼女たちの肉体と心を絶えず苦しめていた。",
+			"우주 공간에서의 극한의 정신적 스트레스, 끊임없이 일어나는 환각, 붕괴 생물에 의한 잔혹한 학살…… 등등, 그 모든 것이 그녀들의 육체와 마음을 끊임없이 괴롭히고 있었다.",
+			null,
+			null,
+			"The extreme psychological pressure of the space environment, the constant hallucinatory experience, the brutal abuse by the collapsing creatures ...... etc. etc., are constantly destroying their bodies and minds.",
+			"The extreme mental stress in space, the constant hallucinations, the brutal killing by disintegrating organisms ......, etc., all of which constantly tormented their bodies and minds."
+		],
+		[
+			"msg",
+			720581,
+			null,
+			"布洛妮娅很努力地想要想起来去月球之间的记忆，尽管那不是和希儿和杏唯一的记忆，但因为有太多创伤，布洛妮娅真的记不清楚了。",
+			"ブローニャは頑張って月での記憶を思い出そうとしていた。それはゼーレやシンとの唯一の記憶ではないが、あまりにも多くのトラウマを抱えてしまったため、ブローニャは本当に思い出せなくなってしまったのだ。",
+			"브로냐는 간신히 달에서의 기억을 떠올리려 애쓰고 있었다. 그것은 제레나 신과의 유일한 기억은 아니었지만, 너무 많은 트라우마를 안게 되어 브로냐는 정말로 기억해내지 못하고 있었던 것이다.",
+			"Bronya was trying her best to remember her memories while she was on the moon. It was not the only memory she had with Seele and Sin, but it was so much trauma that she couldn't really remember anymore.",
+			null,
+			"Bronya tried very hard to remember the memories between going to the moon, even though it wasn't the only memory with Hill and Apricot, but because there was so much trauma, Bronya couldn't really remember much.",
+			"Bronya was trying her best to remember her memories while she was on the moon. It was not the only memory she had with Seele and Shin, but it was so much trauma that Bronya really couldn't remember anymore."
+		],
+		[
+			"msg",
+			720582,
+			null,
+			"正因为对希儿和杏最后的记忆，如同梦魇一般无法全部厘清，也无法全部忘记。",
+			"ゼーレとシンとの最後の記憶はまるで悪夢のようで、すべてを鮮明化することも、完全に忘れることもできず、",
+			"제레와 신의 마지막 기억은 마치 악몽 같아서, 모든 것을 선명하게 할 수도, 완전히 잊을 수도 없으며,",
+			"Because the last memories of Seele and Sin cannot be all that vivid or completely forgotten, like a nightmare,",
+			null,
+			"It is because the last memories of Hir and Apricot are like a nightmare that cannot all be clarified and forgotten.",
+			"Because the last memories of Seele and Shin cannot be all that vivid or completely forgotten, like a nightmare,"
+		],
+		[
+			"msg",
+			720583,
+			null,
+			"布洛妮娅才做不到向前。",
+			"前に進めずにいた。",
+			"앞으로 나아가지 못하고 있었다.",
+			"She couldn't move forward.",
+			null,
+			"Bronya can't do it forward.",
+			"Bronya was unable to move forward."
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			204606
+		],
+		[
+			"bg",
+			"CG10257"
+		],
+		[
+			"portraits",
+			[
+				30536,
+				0,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720585,
+			null,
+			"（凝望天空）",
+			"（空を見つめている）",
+			"(하늘을 바라보며)",
+			null,
+			null,
+			"(gazing at the sky)",
+			"(staring skyward)"
+		],
+		[
+			"speaker",
+			433799
+		],
+		[
+			"portraits",
+			[
+				30082,
+				0,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720586,
+			null,
+			"小姑娘，这么晚了，你不回家吗？",
+			"お嬢ちゃん、こんなに遅いのに家に帰らないのか？",
+			"아가씨, 이렇게 늦게까지 집에 안 가고 뭐하니?",
+			null,
+			null,
+			"Little girl, it's so late, don't you want to go home?",
+			"Girl, why don't you go home at this late hour?"
+		],
+		[
+			"speaker",
+			204606
+		],
+		[
+			"portraits",
+			[
+				30536,
+				2,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720587,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"speaker",
+			433799
+		],
+		[
+			"portraits",
+			[
+				30082,
+				0,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720588,
+			null,
+			"看看叔叔手上的是什么？",
+			"おじさんが持っているのはなんだと思う？",
+			"아저씨가 들고 있는 게 뭔지 알아?",
+			null,
+			null,
+			"Look what is in the hands of the uncle?",
+			"What do you think your uncle has?"
+		],
+		[
+			"speaker",
+			204606
+		],
+		[
+			"portraits",
+			[
+				30536,
+				5,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720589,
+			null,
+			"（食物！）",
+			"（食べ物）",
+			"(음식)",
+			null,
+			null,
+			"(Food!)",
+			"(Food!)"
+		],
+		[
+			"speaker",
+			433799
+		],
+		[
+			"portraits",
+			[
+				30082,
+				0,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720590,
+			null,
+			"想要吧？",
+			"ほしいかい？",
+			"갖고 싶니?",
+			null,
+			null,
+			"Want it?",
+			"Want some?"
+		],
+		[
+			"msg",
+			720591,
+			null,
+			"要不要和叔叔我啊痛痛痛痛！！",
+			"よければおじさんと……あっ、イテテテ！！",
+			"좋으면 아저씨랑 같이...... 아야야야!!",
+			null,
+			null,
+			"Do you want and uncle me ah pain pain pain pain!",
+			"If you want, you and your uncle can go to ...... Oh, itte!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720592,
+			null,
+			"小迦娜轻而易举地折断了那个男人的手臂，",
+			"子どものガーナは、いとも簡単にその男の腕をへし折り、",
+			"어린 가나는 아주 쉽게 그 남자의 팔을 꺾어버렸고,",
+			null,
+			null,
+			"Little Cana broke the man's arm with ease and",
+			"The child, Ghana, snapped the man's arm with ease,"
+		],
+		[
+			"msg",
+			720593,
+			null,
+			"并夺下了他手中的章鱼烧。",
+			"男が持っていたたこ焼きを奪った。",
+			"남자가 가지고 있던 타코야키를 빼앗았다.",
+			null,
+			null,
+			"and seized the takoyaki from his hand.",
+			"He took the takoyaki that the man was holding."
+		],
+		[
+			"speaker",
+			204606
+		],
+		[
+			"portraits",
+			[
+				30536,
+				2,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720594,
+			null,
+			"只能做到这种程度吗……",
+			"この程度のことしかできないんだね……。",
+			"이 정도밖에 못 하는 거야…….",
+			null,
+			null,
+			"Is this all you can do ......",
+			"This is all you can do. ......"
+		],
+		[
+			"speaker",
+			433799
+		],
+		[
+			"portraits",
+			[
+				30082,
+				0,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720595,
+			null,
+			"（逃走）",
+			"（逃走する）",
+			"(도망치다)",
+			null,
+			null,
+			"(Escape)",
+			"(running away)"
+		],
+		[
+			"speaker",
+			204606
+		],
+		[
+			"portraits",
+			[
+				30536,
+				4,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720596,
+			null,
+			"这个身体……太不方便了，连心智都变得像小孩一样。",
+			"この体は……不便すぎる。知性まで子どもみたいになってしまうなんて。",
+			"이 몸은…… 너무 불편해. 지성까지 아이처럼 되어버리다니.",
+			null,
+			null,
+			"This body ...... is so inconvenient that even the mind becomes like a child.",
+			"This body is too ...... inconvenient. I can't believe that even my intellect is like a child."
+		],
+		[
+			"portraits",
+			[
+				30536,
+				3,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720597,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720598,
+			null,
+			"小迦娜大吃特吃。",
+			"小さなガーナは夢中で食べた。",
+			"작은 가나는 몰두해서 먹었다.",
+			null,
+			null,
+			"Little Cana gobbled it up.",
+			"The child, Ghana, gobbled it up."
+		],
+		[
+			"speaker",
+			204606
+		],
+		[
+			"portraits",
+			[
+				30536,
+				0,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720599,
+			null,
+			"（凝望天空）",
+			"（空を見つめている）",
+			"(하늘을 바라보고 있다)",
+			null,
+			null,
+			"(gazing at the sky)",
+			"(staring skyward)"
+		],
+		[
+			"msg",
+			720600,
+			null,
+			"我还在这里……",
+			"私はまだここにいるよ……。",
+			"나는 아직 여기에 있어…….",
+			null,
+			null,
+			"I'm still here ......",
+			"I'm still here: ......."
+		],
+		[
+			"msg",
+			720601,
+			null,
+			"你终究没有收下我的一切，琪亚娜……",
+			"結局、あなたは私のすべてを受け取ってくれなかったね、キアナ……。",
+			"결국, 너는 나의 모든 것을 받아주지 않았구나, 키아나…….",
+			null,
+			null,
+			"You didn't take everything from me after all, Kiana ......",
+			"After all, you didn't receive all of mine, Kiana. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720602,
+			null,
+			"月球一战后，迦娜的力量所剩无几。",
+			"月での一戦の後、ガーナの力はほとんど残っていなかった。",
+			"달에서의 전투 후, 가나의 힘은 거의 남아있지 않았다.",
+			null,
+			null,
+			"After the battle of the moon, Cana had very little power left.",
+			"After the match in June, Ghana had little strength left."
+		],
+		[
+			"msg",
+			720603,
+			null,
+			"当时，她试图将自己的一切献给了琪亚娜。她以为会因此消失，",
+			"あの時、彼女は自分のすべてをキアナに捧げようとした。そのために消えるのだと思っていた。",
+			"그때, 그녀는 자신의 모든 것을 키아나에게 바치려 했다. 그 때문에 사라질 것이라 생각했다.",
+			null,
+			null,
+			"At that time, she tried to give everything she had to Kiana. She thought she would disappear because of that.",
+			"At that moment, she wanted to give everything she had to Kiana. She thought that was why she was going to disappear."
+		],
+		[
+			"msg",
+			720604,
+			null,
+			"但结果是……变成了小孩子，被菲米莉丝带回了地球。",
+			"しかし、結果は……子どもになり、フェミリスによって地球へと連れ戻された。",
+			"하지만 결과는…… 아이가 되어, 페미리스에 의해 지구로 다시 데려와졌다.",
+			null,
+			null,
+			"But the result is that ...... became a small child and was brought back to Earth by Femiris.",
+			"However, the result was ...... a child and brought back to earth by Femiris."
+		],
+		[
+			"msg",
+			720605,
+			null,
+			"她坐在海边，凝望着夜空，等待琪亚娜从崩坏宇宙归来，",
+			"彼女は海辺に腰を下ろし、夜空を見つめながら、キアナが崩壊宇宙から帰ってくるのを待っていた。",
+			"그녀는 해변에 앉아 밤하늘을 바라보며, 키아나가 붕괴 우주에서 돌아오기를 기다리고 있었다.",
+			null,
+			null,
+			"She sat on the beach, gazing at the night sky, waiting for Kiana to return from the collapsing universe",
+			"She sat on the beach, staring at the night sky, waiting for Kiana to return from the collapsing universe."
+		],
+		[
+			"msg",
+			720606,
+			null,
+			"一天又一天——",
+			"1日、また1日と——",
+			"하루, 또 하루와 ——",
+			null,
+			null,
+			"Day after day -",
+			"One day, then another--"
+		],
+		[
+			"speaker",
+			204606
+		],
+		[
+			"portraits",
+			[
+				30536,
+				0,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720607,
+			null,
+			"我会等你回来。",
+			"待っているからね。",
+			"기다릴게.",
+			null,
+			null,
+			"I will wait for you to come back.",
+			"I'll be waiting for you."
+		],
+		[
+			"msg",
+			720608,
+			null,
+			"在这里，一直……",
+			"ここで、ずっと……。",
+			"여기서, 계속……",
+			null,
+			null,
+			"Here it has been ......",
+			"Here, all the way at ......."
+		]
+	],
+	"10300": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10279"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720609,
+			null,
+			"反人类的人体实验，损害未成年人合法权益，危害各国公共安全，政治越界，非法集资……能够安插在这个男人身上的罪名，字面意义上罄竹难书。",
+			"人道に反する人体実験、未成年の権利及び利益の侵害、各国の公共安全への危害、政治的越境行為、違法な資金調達……この男に適用できる罪名は文字通り書き尽くせないほどだった。",
+			"인도에 반하는 인체 실험, 미성년자의 권리 및 이익 침해, 각국의 공공 안전에 대한 위협, 정치적 월경 행위, 불법 자금 조달…… 이 남자에게 적용할 수 있는 죄명은 문자 그대로 다 셀 수 없을 정도였다.",
+			null,
+			null,
+			"Human experimentation against humanity, harming the legal rights of minors, endangering the public safety of countries, political transgressions, illegal fund raising ...... able to place on this man, literally countless charges.",
+			"Human experimentation against humanity, violation of the lawful rights and interests of minors, endangering the public safety of countries, political border crossing, illegal fundraising ......, the list of charges that could be applied to this man was literally too long to write."
+		],
+		[
+			"msg",
+			720610,
+			null,
+			"在搜集了大量证据，整理了大量历史文本后，对奥托·阿波卡利斯的审判正在进行。",
+			"大量の証拠収集、大量の歴史書の整理が行われた後、オットー･アポカリプスに対する裁判が行われていた。",
+			"방대한 증거 수집과 역사서 정리가 이루어진 후, 오토 아포칼립스에 대한 재판이 진행 중이었다.",
+			null,
+			null,
+			"The trial of Otto Apokalis is underway following the collection of extensive evidence and the compilation of numerous historical texts.",
+			"After a great deal of evidence had been collected and a large number of history books sorted out, the trial against Otto Apocalypse was underway."
+		],
+		[
+			"msg",
+			720611,
+			null,
+			"在审判席上，奥托仍不停地进行着他最擅长的事情，",
+			"法廷で、オットーは彼の最も得意なことを延々と続けていた。",
+			"법정에서 오토는 그가 가장 잘하는 일을 끊임없이 이어갔다.",
+			null,
+			null,
+			"At the trial table, Otto still kept going about what he does best, the",
+			"In court, Otto went on and on about what he does best."
+		],
+		[
+			"msg",
+			720612,
+			null,
+			"对审判长，对旁听席，滔滔不绝。",
+			"裁判長に対して、傍聴席に対して、滔々と語り続けた。",
+			"재판장에게, 방청석에게, 끝없이 이야기를 쏟아냈다.",
+			null,
+			null,
+			"To the presiding judge, to the gallery, gushing.",
+			"He continued to speak to the judge and to the audience in an eloquent manner."
+		],
+		[
+			"msg",
+			720613,
+			null,
+			"尽管所有人都知道，这毫无意义。",
+			"たとえ誰もが無意味だと知っていたとしても。",
+			"비록 모두가 무의미하다는 걸 알고 있었다 해도.",
+			null,
+			null,
+			"Even though everyone knows that it makes no sense.",
+			"Even if everyone knew it was pointless."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				810,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720614,
+			null,
+			"（室内）呵，愚蠢的下等人类，竟然现在还不理解天命的荣光？",
+			"（室内）フッ、愚かな下等人類の諸君、いまだに天命の栄光を理解できないのかい？",
+			"(실내) 휴, 어리석은 하등 인간 여러분, 아직도 천명의 영광을 이해하지 못하는 건가?",
+			null,
+			null,
+			"(Indoor) Heh, foolish inferior human beings who do not understand the glory of the heavenly order now?",
+			"(Indoors) Hmph, you foolish lower human beings, do you still not understand the glory of your heavenly destiny?"
+		],
+		[
+			"msg",
+			720615,
+			null,
+			"（室内）我再重申一遍，如果没有我奥托将神请来，你们又何来弑神的机会？",
+			"（室内）もう一度言おう。このオットー・アポカリプスが神を招いていなければ、君たちには神を殺す機会などなかっただろう？",
+			"(실내) 다시 한 번 말하겠다. 이 오토 아포칼립스가 신을 불러들이지 않았다면, 너희들에게 신을 죽일 기회 따위 없었을 거야?",
+			null,
+			null,
+			"(indoors) I repeat, if I, Otto, had not invited God here, how would you have had the opportunity to kill God?",
+			"(indoors) Let me say it again. If this Otto had not invited God, you would not have had the opportunity to kill Him, would you?"
+		],
+		[
+			"msg",
+			720616,
+			null,
+			"（室内）而且，用崩坏对抗崩坏的战略已经取得了无数显著的成果，如果没有天命此前的付出，人类文明根本不可能存活到今天这个时刻。",
+			"（室内）しかも、崩壊を使って崩壊と戦う戦略は数々の顕著な成果をあげてきた。無論、天命のこれまでの貢献がなければ、人類文明が今日まで存続するなど不可能だったはずだ。",
+			"(실내) 게다가, 붕괴를 이용해 붕괴와 싸우는 전략은 수많은 뛰어난 성과를 거두었어. 물론, 천명의 지금까지의 공헌이 없었다면 인류 문명이 오늘까지 존속하는 건 불가능했을 거야.",
+			null,
+			null,
+			"(Indoor) Moreover, the strategy of fighting collapse with collapse has yielded numerous remarkable results, and without the previous dedication of the Mandate of Heaven, human civilization would not have survived to this moment.",
+			"（Moreover, the strategy of using disintegration to fight disintegration has achieved a number of remarkable results. Without the past contributions of the natural order, it would have been impossible for human civilization to have survived to this day."
+		],
+		[
+			"msg",
+			720617,
+			null,
+			"（室内）拉近两个宇宙间的距离？无稽之谈。人类的迂腐研究，怎么可能和天命古老的文献库相提并论，怎么可能和我的智慧相提并论？",
+			"（室内）2つの宇宙の距離を縮める？ばかげた話だ。人類の愚かな研究が天命の古代の文献データベースと比肩し、この僕の知性と肩を並べられると思うのかい？",
+			"(실내) 두 우주의 거리를 좁힌다? 어이없는 소리야. 인간의 어리석은 연구가 천명의 고대 문헌 데이터베이스와 견줄 수 있고, 이 나의 지성과 어깨를 나란히 할 수 있다고 생각하는 거야?",
+			null,
+			null,
+			"(Indoor) Bringing two universes closer together? Nonsense. How can the pedantic research of mankind be compared to the ancient library of documents of the Divine Order, and how can it be compared to my wisdom?",
+			"(Indoor) Closing the distance between two universes? That's absurd. Do you really think that mankind's foolish research can compete with the ancient literature database of heaven's mandate, and with my intellect?"
+		],
+		[
+			"msg",
+			720618,
+			null,
+			"（室内）一些必要的牺牲本就不可避免，正因为崩坏的攻势穷凶极恶，我们才要不惜任何代价地对抗崩坏，为了生存！生存才是文明的第一要务！必须有人背负这些代价，将愚蠢的道德和法律弃之不顾！",
+			"（室内）必要な犠牲は最初から避けられなかった。崩壊の攻勢が激しくなったため、僕たちはいかなる代償も惜しまずに崩壊と戦おうとした。生き残るために。そう、生き残ることこそ、文明の第一条件だ！誰かがその代償を負わなければならない。愚かな道徳や法律など捨てるべきなんだ！",
+			"(실내) 필요한 희생은 처음부터 피할 수 없었어. 붕괴의 공세가 거세져서, 우리는 어떤 대가도 아깝지 않게 붕괴와 싸우려 했지. 살아남기 위해서. 그래, 살아남는 것이야말로 문명의 첫 번째 조건이야! 누군가는 그 대가를 치러야 해. 어리석은 도덕이나 법 따위 버려야 해!",
+			null,
+			null,
+			"(Interior) Some necessary sacrifices are inevitable, and it is because of the viciousness of the Avalanche attack that we must fight it at any cost, in order to survive! Survival is the first priority of civilization! Someone has to take these costs and leave stupid morals and laws behind!",
+			"(Indoor) Necessary sacrifices were inevitable from the beginning. As the offensive of collapse intensified, we were willing to fight it without sparing any price. To survive! Survival is the first condition of civilization! Someone must bear the price. We must throw away stupid morals and laws!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720619,
+			null,
+			"（别嘴硬了，奥托……现在不是中世纪）",
+			"（無茶苦茶な論法ね。オットー……今は中世ではないのよ）",
+			"(엉터리 논리네, 오토... 지금은 중세가 아니야)",
+			null,
+			null,
+			"(Don't talk tough, Otto ...... is not medieval now)",
+			"(Don't be strong, Otto ...... it's not the Middle Ages now)"
+		],
+		[
+			"msg",
+			720620,
+			null,
+			"（虽然崩坏能的基础研究还在起步阶段，证明不了很多事件的细节，但仅仅是罗列出来的反人类罪行，就够你受的了）",
+			"（崩壊エネルギーの基礎研究はまだ初歩的段階で、詳細を証明できない事件もたくさんあるわ。でも、列挙された人道に反する罪だけでも、あなたを罰するのに十分よ）",
+			"(붕괴 에너지 기초 연구는 아직 초보 단계라, 자세히 증명할 수 없는 사건도 많아. 하지만, 열거된 인도에 반하는 죄만으로도 너를 처벌하기엔 충분해)",
+			null,
+			null,
+			"(Although the basic research of collapse energy is still in its infancy, can not prove the details of many events, but just the list of crimes against humanity, it is enough for you to suffer)",
+			"(Basic research on decay energy is still in its rudimentary stage. There are many cases that I can't prove the details of. But the enumerated crimes against humanity alone are enough for you.)"
+		],
+		[
+			"msg",
+			720621,
+			null,
+			"（不过嘛……一个活了几百年的人类，应该不会那么容易被判处死刑吧？）",
+			"（でも……数百年も生きた人間に対して、死刑判決を下すのはそう簡単なことではないはずよね？）",
+			"(하지만... 수백 년을 살아온 인간에게 사형 판결을 내리는 건 그리 쉬운 일이 아니겠지?)",
+			null,
+			null,
+			"(But well ...... a human being who has lived for hundreds of years, should not be so easy to be sentenced to death, right?)",
+			"(But ...... it shouldn't be so easy to pass a death sentence on someone who has lived for hundreds of years, right?)"
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				810,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720622,
+			null,
+			"（室内）但总有人揪着小细节不放，企图污名化天命的丰功伟绩，污名化他伟大的领袖。人合联侵占天命的领地，屠杀天命的子民，令我越发感叹人类的愚蠢。是你们让我彻底对人类文明，对这个丑陋的世界失去了信心。",
+			"（室内）しかし、天命の偉大な功績を貶め、その偉大な指導者をおとしめようとする者が存在する。人類契約連盟が天命の領地を侵略し、天命の民を虐殺していることについて、僕はますます人間の愚かさを嘆きたくなった。僕は人類文明に対して、この醜い世界に対して完全に自信を失ってしまったのだよ。",
+			"(실내) 그러나, 천명의 위대한 공적을 폄하하고, 그 위대한 지도자를 모욕하려는 자들이 존재해. 인간 계약 연맹이 천명의 영토를 침략하고, 천명의 민족을 학살하는 것에 대해, 나는 점점 인간의 어리석음을 한탄하게 되었어. 나는 인류 문명에 대해, 이 추악한 세상에 대해 완전히 신뢰를 잃어버렸다네.",
+			null,
+			null,
+			"(Indoor) But there are always people who cling to small details and try to stigmatize the great achievements of the Mandate of Heaven and its great leader. The fact that the United Federation of Mankind has invaded the territory of the Mandate of Heaven and slaughtered the people of the Mandate of Heaven makes me sigh more and more at the stupidity of mankind. It is you who have made me lose faith in human civilization and in this ugly world.",
+			"(Indoors) But there are always those who do not overlook the details, and they seek to undermine the great achievements of the heavenly lives and their great leaders. As for the League of Human Contracts invading the territory of the Celestial Lands and slaughtering the people of the Celestial Lands, I am more and more tempted to lament the folly of mankind. Because of you, I have lost all confidence in human civilization and in this ugly world."
+		],
+		[
+			"msg",
+			720623,
+			null,
+			"（室内）它必须被改造。除了我，这一个凝聚了数百年智慧的人，还有谁能成为新世界的神？",
+			"（室内）人類文明は変革されなければならない。僕以外に、数百年の知恵を凝縮したこの僕以外に、新世界の神になれる人間など存在するだろうか？",
+			"(실내) 인류 문명은 변혁되어야 한다. 나 말고, 수백 년의 지혜를 응축한 이 나 말고, 신세계의 신이 될 수 있는 인간 따위 존재할까?",
+			null,
+			null,
+			"(indoors) It must be transformed. Who else can be the god of the new world but me, the one who has gathered centuries of wisdom?",
+			"（Human civilization must be remodeled. Who else but me, this me who has condensed hundreds of years of wisdom, can be the god of the new world?"
+		],
+		[
+			"msg",
+			720624,
+			null,
+			"（室内）现在还有机会，只要由我带领人类，我们一定可以避免崩坏卷土重来。",
+			"（室内）今ならまだチャンスはある。僕が人類を導けば、僕たちはきっと崩壊の再来を避けられるだろう。",
+			"(실내) 지금이라면 아직 기회는 있다. 내가 인류를 이끌면, 우리는 분명 붕괴의 재래를 피할 수 있을 거다.",
+			null,
+			null,
+			"(Indoor) Now there is still a chance, as long as I lead the human race, we can definitely avoid the collapse of the comeback.",
+			"(indoors) There is still a chance now. If I lead humanity, we can avoid another collapse."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				810,
+				0,
+				true
+			],
+			[
+				415,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720625,
+			null,
+			"哈欠……都不想进去了。",
+			"ふぁぁ……中に入りたくないわね。",
+			"하아... 안에 들어가고 싶지 않아.",
+			null,
+			null,
+			"Yawn ...... don't even want to go in.",
+			"Huh ...... don't want to go inside."
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				415,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720626,
+			null,
+			"德丽莎主教！",
+			"テレサ主教！",
+			"테레사 주교님!",
+			null,
+			null,
+			"Bishop Theresa!",
+			"Bishop Teresa!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				415,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720627,
+			null,
+			"（又是她们……）",
+			"（また彼女たち……）",
+			"(또 저들...)",
+			null,
+			null,
+			"(It's them again ......)",
+			"(Also theirs ......)"
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"msg",
+			720628,
+			null,
+			"我说过很多遍了，你们已经自由了。",
+			"何度も言ったでしょう。あなたたちはもう自由なのよ。",
+			"몇 번을 말했죠. 여러분은 이제 자유예요.",
+			null,
+			null,
+			"As I have said many times, you are free.",
+			"I have told you many times. You are free now."
+		],
+		[
+			"msg",
+			720629,
+			null,
+			"而且，我不是主教，我只是德丽莎。",
+			"それに、あたくしはもう主教ではないの。ただのテレサよ。",
+			"게다가, 저는 이제 주교가 아니에요. 그냥 테레사일 뿐이죠.",
+			null,
+			null,
+			"And, I'm not a bishop, I'm just Theresa.",
+			"And I'm not a bishop anymore. I'm just Teresa."
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				415,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720630,
+			null,
+			"不，在我们心中，您永远是带领女武神的主教。",
+			"いえ、私たちの心の中では、いつまでも戦乙女を率いる主教様です。",
+			"아니요, 우리 마음속에선 영원히 발키리를 이끄시는 주교님이십니다.",
+			null,
+			null,
+			"No, in our hearts, you will always be the bishop who leads the Valkyries.",
+			"No, in our hearts, he will always be the Bishop who leads the Valkyries."
+		],
+		[
+			"msg",
+			720631,
+			null,
+			"您在哪里，天命就在哪里。",
+			"天命はテレサ主教のいらっしゃる場所にあります。",
+			"천명은 테레사 주교님 계신 곳에 있습니다.",
+			"Shickisal is where Bishop Theresa is.",
+			null,
+			"Wherever You are, the Divine Order is there.",
+			"Heavenly life is where Bishop Teresa is."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				415,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720632,
+			null,
+			"…………",
+			"…………",
+			"................",
+			null
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				415,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720633,
+			null,
+			"奥托大人在里面，对不对？",
+			"オットー様は中にいらっしゃるのですよね？",
+			"오토 님은 안에 계신 거죠?",
+			null,
+			null,
+			"Lord Otto is in there, isn't he?",
+			"Master Otto is inside, isn't he?"
+		],
+		[
+			"msg",
+			720634,
+			null,
+			"请您为奥托大人求情吧！",
+			"どうかオットー様のために嘆願してください！",
+			"제발 오토 님을 위해 탄원해 주세요!",
+			null,
+			null,
+			"Please intercede for Lord Otto!",
+			"Please plead for Master Otto!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				415,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			720635,
+			null,
+			"我说过，我不会这么做。",
+			"言ったはずよ。あたくしはそんなことはしないって。",
+			"말했잖아요. 전 그런 건 안 한다고.",
+			null,
+			null,
+			"Like I said, I wouldn't do it.",
+			"I told you. I told you I would never do such a thing."
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				415,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720636,
+			null,
+			"奥托大人是对的！如果没有天命，人类文明根本没有生存下来的机会。",
+			"オットー様は正しいです！もし天命がなければ、人類文明が生き延びるチャンスなどありませんでした。",
+			"오토 님은 옳아요! 천명이 없었다면 인류 문명이 살아남을 기회 따위 없었을 거예요.",
+			"Lord Otto is right! If it were not for Shickisal, there would have been no chance for human civilization to survive.",
+			null,
+			"Lord Otto was right! Without the Mandate of Heaven, human civilization would have no chance of surviving.",
+			"Master Otto is right! If it were not for the heavenly mandate, there would have been no chance for human civilization to survive."
+		],
+		[
+			"msg",
+			720637,
+			null,
+			"他只是没有得到世人的理解，太清醒的人注定是孤独的。",
+			"オットー様は世の中の理解を得られなかっただけです。頭脳が明晰すぎる人は孤独な運命なのです。",
+			"오토 님은 세상의 이해를 받지 못했을 뿐이에요. 머리가 너무 뛰어난 사람은 고독한 운명인 법이죠.",
+			null,
+			null,
+			"He just doesn't have the world's understanding that people who are too sober are doomed to be alone.",
+			"Mr. Otto just didn't have the world's understanding. People with too much clarity of mind are doomed to be lonely."
+		],
+		[
+			"msg",
+			720638,
+			null,
+			"只要他还在……不，哪怕您回心转意，我们都可以继承奥托大人的伟大事业，重建天命，将世界引导到正确的方向上去。",
+			"オットー様がいる限り……いえ、テレサ主教が考えを変えたとしても、私たちはオットー様の偉大なる使命を引き継ぎ、天命を再建し、世界を正しい方向に導くことができます。",
+			"오토 님이 계시는 한... 아니, 테레사 주교가 마음을 바꾼다 해도, 우리는 오토 님의 위대한 사명을 이어받아 천명을 재건하고 세상을 올바른 길로 이끌 수 있어요.",
+			null,
+			null,
+			"As long as he is still ...... no, even if you return to your heart, we can inherit the great cause of Lord Otto, rebuild the providence and guide the world to the right direction.",
+			"As long as Otto is here,...... no matter if Bishop Teresa changes her mind, we can take over Otto's great mission, rebuild our heavenly mission, and lead the world in the right direction."
+		],
+		[
+			"msg",
+			720639,
+			null,
+			"我们已经离开太虚战线了，因为他们竟然要剥夺我们女武神的职位，让我们接受一般的工作。这太不可理喻了！",
+			"私たちはもう太虚戦線を離れました。彼らは私たちの戦乙女としての職を解き、普通の仕事に就かせようとしたからです。そんなのあんまりです！",
+			"우린 이미 태허 전선을 떠났어요. 그들이 우리를 전투처녀 직에서 해임하고 평범한 일자리로 보내려 했거든요. 그건 너무해요!",
+			null,
+			null,
+			"We have already left the Taishoku Front because they actually want to deprive us of our positions as Valkyries and make us accept general jobs. This is unbelievable!",
+			"We have already left the battlefield of the void. They wanted to remove us from our Valkyrie positions and put us to work in normal jobs. That's too much!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				415,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720640,
+			null,
+			"可我听说待遇还蛮不错的，神州美食很多。",
+			"でも、待遇は悪くないと聞いているわよ。神州はおいしいものも多いし。",
+			"그치만 대우는 나쁘지 않다고 들었어. 신주에는 맛있는 것도 많고.",
+			null,
+			null,
+			"But I've heard that the treatment is pretty good, and there is a lot of food in God's country.",
+			"But I hear the treatment isn't too bad. There are many delicious foods in Shenzhou."
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				415,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720641,
+			null,
+			"这不是待遇问题！我们可是女武神！而且我们还有着圣痕，是特别的人！",
+			"待遇の問題ではありません！私たちは戦乙女なんです！しかも、聖痕を持っています。特別な人間なんです！",
+			"대우 문제가 아니에요! 우리는 전투처녀라고요! 게다가 성흔까지 가지고 있는 특별한 인간들이라고요!",
+			"It's not a matter of treatment! We're Valkyries! And we have stigmata, we're special people!",
+			null,
+			"It's not a matter of treatment! We're Valkyries! And we have stigmata, we're special people!",
+			"It is not a question of treatment! We are Valkyries! And we have the sacrament. We are special people!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				415,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720642,
+			null,
+			"（扶额）…………",
+			"（額に手をあてる）…………。",
+			"(이마에 손을 대며)............",
+			null,
+			null,
+			"(Hold your forehead) ............",
+			"(puts hand on forehead) ............."
+		],
+		[
+			"msg",
+			720643,
+			null,
+			"孩子们……",
+			"あなたたち……。",
+			"너희들…….",
+			null,
+			null,
+			"Kids ......",
+			"Children. ......."
+		],
+		[
+			"msg",
+			720644,
+			null,
+			"你们也知道，圣痕现在除了给予你们一些特殊能力以外，已经没有任何作用了。",
+			"知っていると思うけど、今の聖痕はあなたたちに特殊な能力を与える以外には、なんの役にも立たないのよ。",
+			"알고 있을 거지만, 지금의 성흔은 너희들에게 특수한 능력을 주는 것 외에는 아무런 쓸모도 없어.",
+			"As you know, the stigmata are now useless except for giving you some special abilities.",
+			null,
+			"As you know, the stigmata are now useless except for giving you some special abilities.",
+			"As I'm sure you all know, the current sacraments are of no use to you except to give you special abilities."
+		],
+		[
+			"msg",
+			720645,
+			null,
+			"甚至还会带来危险，因为圣痕研究是目前如火如荼的崩坏学研究的一部分。你们现在接受着人合联的保护，不能太锋芒毕露。",
+			"それどころか危険をもたらす可能性もあるわ。聖痕研究は目下、勢い盛んな崩壊学研究の一部なの。今のあなたたちは人類契約連盟の保護を受けているのだから、目立った行動は慎むべきよ。",
+			"오히려 위험을 초래할 가능성도 있어. 성흔 연구는 현재 한창 진행 중인 붕괴학 연구의 일부야. 지금의 너희들은 인류 계약 연맹의 보호를 받고 있으니, 눈에 띄는 행동은 삼가는 게 좋아.",
+			null,
+			null,
+			"It can even be dangerous because stigmata research is part of the collapse science research that is currently in full swing. You are now under the protection of the HSU and cannot be too sharp.",
+			"On the contrary, it could pose a danger. Stigmata research is part of the booming research in disintegrative sciences at the moment. You are now under the protection of the League of Human Contracts, so don't do anything too conspicuous."
+		],
+		[
+			"msg",
+			720646,
+			null,
+			"天命对世界局势，对人类命运进行操弄的愚蠢时代，已经结束了。",
+			"天命が世界の情勢や人類の運命を操る愚かな時代は、もう終わったの。",
+			"천명이 세계의 정세나 인류의 운명을 좌우하던 어리석은 시대는 이미 끝났어.",
+			null,
+			null,
+			"The era of the folly of the Divine Order's manipulation of the world situation, of the destiny of mankind, is over.",
+			"The days of foolishness, when heavenly destiny manipulates world affairs and the destiny of mankind, are over."
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				415,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720647,
+			null,
+			"可是没有崩坏，不做女武神……",
+			"ですが、崩壊が存在せず、戦乙女ではないなら……。",
+			"하지만, 붕괴가 존재하지 않고, 발키리가 아니라면…….",
+			null,
+			null,
+			"But there is no collapse, do not do Valkyrie ......",
+			"But if the collapse does not exist and it is not Valkyrie, please contact ......."
+		],
+		[
+			"msg",
+			720648,
+			null,
+			"我们又能做什么？",
+			"私たちは何ができるのでしょうか？",
+			"우린 무엇을 할 수 있을까요?",
+			null,
+			null,
+			"And what can we do?",
+			"What can we do?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				415,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720649,
+			null,
+			"什么都能做，不是吗？比如作为军人，为你们原本所在的国家而战；作为学生，接受现代化的教育；作为社会的一份子，普通地为别人、为自己工作……",
+			"なんだってできるわ。たとえば軍人として元いた国のために戦うとか、学生として現代的な教育を受けるとか、社会の一員として他人や自分のために普通に働くとか……。",
+			"뭐든지 할 수 있어. 예를 들어 군인으로서 원래 있던 나라를 위해 싸운다든가, 학생으로서 현대적인 교육을 받는다든가, 사회의 일원으로서 타인이나 자신을 위해 평범하게 일한다든가…….",
+			null,
+			null,
+			"You can do anything, can't you? For example, as soldiers, fighting for the country you were originally in; as students, receiving a modern education; as a part of society, working for others and for yourself in general ......",
+			"You can do anything, right? For example, you can fight for the country you were in as a soldier, get a modern education as a student, or work normally for others and yourself as a member of society. ......"
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				415,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			720650,
+			null,
+			"我现在就是一名普通教师，教着普通的孩子。",
+			"あたくしは今、ただの教師として、普通の子どもたちをおしえているわ。",
+			"나는 지금, 그냥 교사로서 평범한 아이들을 가르치고 있어.",
+			"I'm just an ordinary teacher now, teaching ordinary children.",
+			null,
+			"I am now an ordinary teacher, teaching ordinary children.",
+			"I am just a teacher now, and I teach ordinary children."
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				415,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			720651,
+			null,
+			"这不就是凡人的生活吗？",
+			"それは凡人の生活ではないですか？",
+			"그건 평범한 사람들의 삶 아닌가요?",
+			"Isn't that the life of an ordinary person?",
+			null,
+			"Isn't this the life of a mortal?",
+			"Isn't that the life of an ordinary person?"
+		],
+		[
+			"msg",
+			720652,
+			null,
+			"您的意思是，我们也要做一介凡人吗？",
+			"それはつまり、私たちにも凡人になれということですか？",
+			"그 말은 즉, 우리도 평범한 사람이 되라는 건가요?",
+			"Does that mean we are supposed to be ordinary?",
+			null,
+			"Do you mean that we should also be mortals?",
+			"Does that mean we are supposed to be ordinary?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				415,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			720653,
+			null,
+			"我们本来就是凡人。",
+			"そもそもあたくしたちは凡人なのよ。",
+			"애초에 우리는 평범한 사람들이야.",
+			"We are ordinary people to begin with.",
+			null,
+			"We are inherently mortal.",
+			"We are ordinary people to begin with."
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				415,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			720654,
+			null,
+			"德丽莎主教！",
+			"テレサ主教！",
+			"테레사 주교!",
+			"Bishop Theresa!",
+			null,
+			"Bishop Theresa!",
+			"Bishop Teresa!"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				415,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			720655,
+			null,
+			"不要再叫我主教了！",
+			"もう主教と呼ばないで！",
+			"이제 주교라고 부르지 마!",
+			"Stop calling me Bishop!",
+			null,
+			"Stop calling me Bishop!",
+			"Don't call me bishop anymore!"
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				415,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720656,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				415,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			720657,
+			null,
+			"我不想听到那个称呼，",
+			"その呼び名は聞きたくないの。",
+			"그 호칭은 듣고 싶지 않아.",
+			"I don't want to hear that name.",
+			null,
+			"I don't want to hear that name.",
+			"I don't want to hear it called that."
+		],
+		[
+			"msg",
+			720658,
+			null,
+			"别再纠缠我了。",
+			"もうあたくしにつきまとわないで。",
+			"이제 나에게 들러붙지 마.",
+			null,
+			null,
+			"Stop pestering me.",
+			"Don't hang around me anymore."
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				415,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720659,
+			null,
+			"我们会证明给您看的，天命永存的荣光！",
+			"私たちが天命の永遠に続く栄光を証明してみせます！",
+			"우리가 천명의 영원히 이어질 영광을 증명해 보이겠습니다!",
+			null,
+			null,
+			"We will prove it to you, the glory of the eternal life of Heaven!",
+			"We will prove the everlasting glory of our heavenly life!"
+		],
+		[
+			"msg",
+			720660,
+			null,
+			"我们等您回来，德丽莎主教。",
+			"おかえりをお待ちしています、テレサ主教。",
+			"돌아오시길 기다리고 있을게요, 테레사 주교.",
+			null,
+			null,
+			"We will wait for your return, Bishop Theresa.",
+			"We look forward to your return, Bishop Teresa."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				415,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720661,
+			null,
+			"原本是女武神的少女们离开了。",
+			"戦乙女だった少女たちは去っていった。",
+			"전투처녀였던 소녀들은 떠나갔다.",
+			null,
+			null,
+			"The girls who were originally Valkyries left.",
+			"The girls who were Valkyries left."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				0,
+				false
+			],
+			[
+				415,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720662,
+			null,
+			"怎么都说不通……明明有更大的世界呈现在她们面前。",
+			"何を言っても納得してもらえませんね……せっかくもっと大きな世界が彼女たちの前に広がっているのに。",
+			"뭘 말해도 납득시킬 수 없네요... 더 큰 세계가 그녀들 앞에 펼쳐져 있는데 말이죠.",
+			"Nothing I can say will convince them. ...... There is a much bigger world spread out before them.",
+			null,
+			"How can it not make sense ...... obviously there is a bigger world presented to them.",
+			"Nothing I can say will convince them. ...... There is a much bigger world spread out before them."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				30133,
+				0,
+				true
+			],
+			[
+				415,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720663,
+			null,
+			"我又让她们失望了。",
+			"あたくし、また彼女たちを失望させてしまったみたいね。",
+			"아뜨쿠시, 또 그녀들을 실망시켜 버린 모양이네.",
+			null,
+			null,
+			"I let them down again.",
+			"I have disappointed them again."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				0,
+				false
+			],
+			[
+				415,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720664,
+			null,
+			"难道不是她们让你失望吗，德丽莎？",
+			"彼女たちがテレサを失望させたのではありませんか？",
+			"그녀들이 테레사를 실망시킨 것이 아닌가요?",
+			null,
+			null,
+			"Aren't they the ones who let you down, Theresa?",
+			"I think they let Teresa down, didn't they?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				30133,
+				0,
+				true
+			],
+			[
+				415,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720665,
+			null,
+			"我已经很努力地想让她们重拾生活，但她们……我不可能迎合她们的理念啊。",
+			"あたくしは、どうにかして彼女たちに人生をやり直してもらいたいと思っていた。けれど彼女たちは……あたくしは彼女たちの考えを受け入れるわけにはいかないわ。",
+			"아뜨쿠시는, 어떻게든 그녀들에게 인생을 다시 시작하게 해주고 싶다고 생각했어. 하지만 그녀들은…… 아뜨쿠시는 그녀들의 생각을 받아들일 수 없어.",
+			null,
+			null,
+			"I have tried very hard to get them back into life, but they ...... I can't possibly cater to their philosophy ah.",
+			"I had hoped to somehow give them a new lease on life. But they ...... can't just accept the idea that I am theirs."
+		],
+		[
+			"msg",
+			720666,
+			null,
+			"烦诶……",
+			"面倒ね……。",
+			"귀찮네…….",
+			null,
+			null,
+			"Boring eh ......",
+			"That's a hassle. ......"
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				0,
+				false
+			],
+			[
+				415,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720667,
+			null,
+			"她们做不了什么的，她们迟早也会改变。",
+			"彼女たちは何もできませんよ。遅かれ早かれ変わっていくでしょう。",
+			"그녀들은 아무것도 할 수 없어요. 늦든 빠르든 변해갈 거예요.",
+			null,
+			null,
+			"They can't do anything about it, and they will change sooner or later.",
+			"They can't do anything about it. Sooner or later they will change."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				30133,
+				0,
+				true
+			],
+			[
+				415,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720668,
+			null,
+			"我知道。",
+			"分かっているわ。",
+			"알고 있어.",
+			null,
+			null,
+			"I know.",
+			"I know."
+		],
+		[
+			"msg",
+			720669,
+			null,
+			"但以防万一，盯紧她们，菲米莉丝。",
+			"でも、念のため、彼女たちを見張っておいてちょうだい、フェミリス。",
+			"하지만, 혹시 모르니 그녀들을 지켜봐 줘, 페미리스.",
+			null,
+			null,
+			"But just in case, keep an eye on them, Femiris.",
+			"But keep an eye on them, just in case, Femiris."
+		],
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10330"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				415,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720670,
+			null,
+			"一年后——",
+			"1年後——",
+			"1년 후——",
+			null,
+			null,
+			"One year later -",
+			"One year later--"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				19,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720671,
+			null,
+			"这一次也移除失败了吗……",
+			"今回も摘出失敗なの……？",
+			"이번에도 적출 실패인 거야……?",
+			"The extraction failed this time too...?",
+			null,
+			"Did the removal fail this time too ......",
+			"Is this another failed extraction ......?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720672,
+			null,
+			"要不算了吧，有什么必须移除它的理由吗？",
+			"もう良いんじゃないか？それとも、どうしても取り除かないといけない理由があるとか？",
+			"이젠 괜찮지 않아? 아니면, 반드시 제거해야 할 이유라도 있다던가?",
+			"I think we've had enough of this. Is there any reason why it must be removed?",
+			null,
+			"How about forgetting it? Is there any reason why it must be removed?",
+			"I think we've had enough of this. Is there any reason why it must be removed?"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				true
+			],
+			[
+				19,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720673,
+			null,
+			"那个律者核心，终究是由异化机构将瓦尔特的圣痕转化而来的。一个人同时携带多个圣痕的后果，你不是已经经历过了吗？",
+			"その律者コアは結局のところ、異化機構によってヴェルトの聖痕を変化させたものなの。1人の人間が同時に複数の聖痕を持つことになった結果どうなるかは、あなたも経験済みでしょう？",
+			"그 율자 코어는 결국 이화 기구에 의해 웰트의 성흔을 변화시킨 거야. 한 사람이 동시에 여러 개의 성흔을 가지게 된 결과가 어떻게 되는지, 너도 경험해 봤잖아?",
+			"The Herrscher Core, after all, was transformed from Walter's stigmata by the alienation mechanism. Haven't you already experienced firsthand what happens when one person has more than one Stigmata inside them?",
+			null,
+			"That Ruler's Core, after all, was transformed from Walter's stigmata by the alienation agency. Haven't you already experienced the consequences of one person carrying multiple stigmata at the same time?",
+			"That Ruler's Core is, after all, a mutation mechanism that has altered the Veldt Stigmata, and you've seen what happens when one person has more than one Stigmata at the same time, haven't you?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720674,
+			null,
+			"可我没感觉什么异样。",
+			"だが、何も異変を感じないぞ。",
+			"하지만 아무런 이상을 느끼지 못하겠는데.",
+			"But I don't feel anything unusual.",
+			null,
+			"But I didn't feel anything different.",
+			"But I don't feel anything unusual."
+		],
+		[
+			"msg",
+			720675,
+			null,
+			"说不定移除了，反而会危害到我的身体呢。",
+			"もしかすると取り除いた方がかえって体に害をおよぼすかもしれない。",
+			"어쩌면 제거하는 게 오히려 몸에 해를 끼칠 수도 있어.",
+			"Maybe removing it will be more harmful to my body.",
+			null,
+			"Maybe removing it will harm my body instead.",
+			"Maybe removing it will be more harmful to my body."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				true
+			],
+			[
+				19,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			720676,
+			null,
+			"你想当世界上最后一个律者？",
+			"あなた、世界で最後の律者になりたいの？",
+			"너, 세계에서 마지막 율자가 되고 싶어?",
+			"You want to be the last Herrscher in the world?",
+			null,
+			"You want to be the last Herrscher in the world?",
+			"You want to be the last scribe in the world?"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				70,
+				2,
+				false
+			],
+			[
+				19,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720677,
+			null,
+			"没什么不好吧？而且很酷，虽然学校的同学因为这一点，有点怕我。",
+			"別に悪いことじゃないだろう。それにカッコいいし。学校のクラスメートたちには、そのせいで少し怖がられているけど。",
+			"별로 나쁜 건 아니잖아. 게다가 멋지기도 하고. 학교 친구들은 그 때문에 좀 무서워하지만.",
+			"There's nothing wrong with that, right? Besides, it's cool. My classmates are all a little scared of me because of it.",
+			null,
+			"Nothing wrong with that, right? And it's cool, although my schoolmates are a little afraid of me because of that.",
+			"Not that there's anything wrong with that, right? Besides, it's cool. My classmates at school are a little scared of me because of it."
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				4,
+				false
+			],
+			[
+				19,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720678,
+			null,
+			"那个！紧急来电！啊不，也不紧急……",
+			"あの！緊急の電話です！あっ、いえ、緊急でもありませんが……。",
+			"저기! 긴급 전화입니다! 아, 아니, 긴급은 아니지만....",
+			null,
+			null,
+			"That one! Urgent call! Ah no, it's not urgent either ......",
+			"Um! This is an urgent call! Oh, no, it's not urgent. ......"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				30133,
+				4,
+				true
+			],
+			[
+				19,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			720679,
+			null,
+			"什么事？",
+			"どうしたの？",
+			"무슨 일이야?",
+			null,
+			null,
+			"What is it?",
+			"What's wrong?"
+		],
+		[
+			"speaker",
+			291899
+		],
+		[
+			"portraits",
+			[
+				30133,
+				4,
+				false
+			],
+			[
+				19,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			720680,
+			null,
+			"是布洛妮娅……",
+			"ブローニャです……。",
+			"브로냐입니다....",
+			null,
+			null,
+			"It's Bronya ......",
+			"This is Bronya. ......."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				30133,
+				4,
+				true
+			],
+			[
+				19,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			720681,
+			null,
+			"布洛妮娅？！",
+			"ブローニャ！？",
+			"브로냐!?",
+			null,
+			null,
+			"Bronya?",
+			"Bronya!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720682,
+			null,
+			"这是布洛妮娅这一年来，第一次主动和其他人联系。",
+			"それはブローニャが1年ぶりに自分から他人に連絡を取ったものだった。",
+			"그것은 브로냐가 1년 만에 스스로 다른 사람에게 연락을 취한 것이었다.",
+			null,
+			null,
+			"This is the first time in a year that Bronya has initiated contact with anyone else.",
+			"It was the first time in a year that Bronya had contacted a stranger on her own."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			720683,
+			null,
+			"作为某种意义上的英雄人物，从月球回来的四人有权获得人合联一定程度上的特殊照顾。布洛妮娅的请求是在可可利亚孤儿院的旧址，新建一所孤儿院。",
+			"月から帰還した4人は、ある意味、英雄的人物として人類契約連盟から一定程度の特別な配慮を受ける権利があった。ブローニャの要望は、カカリア孤児院のあった場所に新たな孤児院を建てることだった。",
+			"달에서 귀환한 4인은 어떤 의미에서 영웅적인 인물로서 인류계약연맹으로부터 일정 정도의 특별한 배려를 받을 권리가 있었다. 브로냐의 요청은, 쿠쿠리아 고아원이 있던 장소에 새로운 고아원을 짓는 것이었다.",
+			null,
+			null,
+			"As heroic figures in a sense, the four who returned from the moon were entitled to a certain degree of special care from the HSU. Bronya's request was for a new orphanage to be built on the site of the old Cocoria Orphanage.",
+			"The four who returned from the moon were entitled to a certain degree of special consideration from the League of Human Contracts, as heroic figures in a sense. Bronya's request was to build a new orphanage on the site where the Kakaria Orphanage had been located."
+		],
+		[
+			"msg",
+			720684,
+			null,
+			"作为公共机构，布洛妮娅并不拥有孤儿院的所有权和经营权。这里只是她的新家，她像姐姐一样，照顾着因为全球崩坏流离失所的儿童，一边接受教育，一边打理孤儿院。",
+			"公的な施設のため、ブローニャは孤児院の所有権や経営権を有しておらず、そこは彼女の新しい家にすぎない。ブローニャは全世界の崩壊のせいで家を失った子どもたちを、彼女たちの姉のように世話し、教育を受けながら孤児院の管理をしていた。",
+			"공적인 시설인 만큼, 브로냐는 고아원의 소유권이나 경영권을 갖고 있지 않았으며, 그곳은 그녀의 새로운 집에 불과했다. 브로냐는 전 세계의 붕괴 때문에 집을 잃은 아이들을, 그들의 언니처럼 돌보며 교육을 시키면서 고아원을 관리하고 있었다.",
+			null,
+			null,
+			"As a public institution, Bronya does not own or operate the orphanage. It is just her new home, and like a sister, she takes care of the children displaced by the global collapse, getting an education while taking care of the orphanage.",
+			"As a public institution, Bronya had no ownership or management rights to the orphanage. It was merely her new home. She cared for the children who had lost their homes due to the collapse of the whole world, as if they were her sisters, and managed the orphanage while they received their education."
+		],
+		[
+			"msg",
+			720685,
+			null,
+			"为了求证布洛妮娅所说的事情，伊瑟琳前往了西伯利亚。",
+			"ブローニャの言っていたことを確かめるため、イザーリンはシベリアに向かった。",
+			"브로냐가 말한 것을 확인하기 위해, 이자린은 시베리아로 향했다.",
+			null,
+			null,
+			"In order to seek confirmation of what Bronya said, Estherine traveled to Siberia.",
+			"To confirm what Bronya had said, Estherine went to Siberia."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"bg",
+			"CG10430"
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bgm",
+			132
+		],
+		[
+			"speaker",
+			204669
+		],
+		[
+			"portraits",
+			[
+				813,
+				0,
+				false
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720687,
+			null,
+			"啊，是电视上的大姐姐！",
+			"あっ、テレビに出てたお姉ちゃん！",
+			"앗, TV에 나왔던 언니!",
+			null,
+			null,
+			"Ah, it's the big sister on TV!",
+			"Oh, my sister on TV!"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				2,
+				false
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720688,
+			null,
+			"大姐姐，大……",
+			"お、お姉ちゃん……。",
+			"어, 언니......",
+			null,
+			null,
+			"Big sister, big ......",
+			"Oh, sis. ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720689,
+			null,
+			"伊瑟琳经常被当成小孩子。",
+			"イザーリンはよく子ども扱いされる。",
+			"이자린은 자주 아이 취급을 받는다.",
+			null,
+			null,
+			"Estherine is often treated like a child.",
+			"Estherine is often treated as a child."
+		],
+		[
+			"speaker",
+			204668
+		],
+		[
+			"portraits",
+			[
+				812,
+				0,
+				false
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720690,
+			null,
+			"你就是那个“海藻头”吗？",
+			"あんたがあの「ワカメ頭」なの？",
+			"너가 그 「와카메 머리」야?",
+			"Are you the \"seaweed head\"?",
+			null,
+			"Are you the \"seaweed head\"?",
+			"Are you that \"wakame-head\"?"
+		],
+		[
+			"speaker",
+			432373
+		],
+		[
+			"portraits",
+			[
+				570,
+				0,
+				false
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720691,
+			null,
+			"孩子，收下这些零食吧。",
+			"お嬢ちゃん、お菓子をどうぞ。",
+			"아가씨, 과자 드세요.",
+			null,
+			null,
+			"Kid, take these snacks.",
+			"Here's some candy for you, little girl."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				3,
+				false
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720692,
+			null,
+			"呃，谢谢……真热情啊。",
+			"えっ、どうも……本当に親切ね。",
+			"엣, 고마워...... 정말 친절하네.",
+			null,
+			null,
+			"Uh, thanks ...... is really enthusiastic.",
+			"Eh, thanks ...... that's really kind of you."
+		],
+		[
+			"portraits",
+			[
+				19,
+				2,
+				false
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720693,
+			null,
+			"你怎么知道我叫“海藻头”？",
+			"どうして私が「ワカメ頭」だと知っているの？",
+			"왜 내가 「와카메 머리」인 걸 아는 거야?",
+			"How do you know my name is \"seaweed head\"?",
+			null,
+			"How do you know my name is \"seaweed head\"?",
+			"How did you know I was a \"wakame-head\"?"
+		],
+		[
+			"speaker",
+			204668
+		],
+		[
+			"portraits",
+			[
+				812,
+				0,
+				false
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720694,
+			null,
+			"是布洛妮娅姐姐告诉我们的。她说她有个妹妹，叫杏……",
+			"ブローニャお姉ちゃんが教えてくれたんだよ。お姉ちゃんには妹がいたんだって。名前はシン……。",
+			"브로냐 언니가 알려줬어. 언니에게는 여동생이 있었대. 이름은 신…….",
+			"Bronya told me. She told me that she had a sister. Her name was Sin .......",
+			null,
+			"It was Sister Bronya who told us. She said she has a sister named Apricot ......",
+			"Bronya's sister told me. She told me that she had a sister. Her name is Sin ......."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720695,
+			null,
+			"回房间里去，不要打扰伊瑟琳博士布置仪器。",
+			"部屋に戻ってください。イザーリン博士の装置設置の邪魔をしてはいけません。",
+			"방으로 돌아가세요. 이자린 박사의 장치 설치를 방해하면 안 됩니다.",
+			null,
+			null,
+			"Go back to your room and don't disturb Dr. Estherine setting up the apparatus.",
+			"Please return to your room. Do not interfere with Dr. Estherine's installation of the device."
+		],
+		[
+			"speaker",
+			204668
+		],
+		[
+			"portraits",
+			[
+				812,
+				0,
+				false
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720696,
+			null,
+			"是——",
+			"はーい。",
+			"네~.",
+			null,
+			null,
+			"Yes--",
+			"Yes--"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720697,
+			null,
+			"抱歉，博士，他们太吵闹了。",
+			"すみません、博士。彼らはとてもやんちゃで。",
+			"죄송해요, 박사님. 아이들이 너무 말썽을 피워서.",
+			null,
+			null,
+			"Sorry, Doc, they're too noisy.",
+			"I am sorry, Doctor. They are so naughty."
+		],
+		[
+			"msg",
+			720698,
+			null,
+			"随便找个地方坐吧。",
+			"適当に場所を探して座りましょう。",
+			"적당히 자리를 찾아 앉읍시다.",
+			null,
+			null,
+			"Sit anywhere you like.",
+			"Find a suitable place to sit."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				19,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720699,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			720700,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				19,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720701,
+			null,
+			"“睡梦中，有些孩子感觉到房间里有两个人，",
+			"「夢の中で、部屋の中に2人の人物がいることを感じ取る子どもたちがいる」",
+			"「꿈속에서 방 안에 두 사람이 있는 것을 느끼는 아이들이 있다」",
+			null,
+			null,
+			"\"In their sleep, some children feel that there are two people in the room.",
+			"'Some children perceive in their dreams that there are two figures in the room.'"
+		],
+		[
+			"msg",
+			720702,
+			null,
+			"“一清醒四处看，却什么人都没有。”",
+			"「目を覚まして周囲を見ると、誰もいなかった」",
+			"「눈을 뜨고 주변을 보니 아무도 없었다」",
+			null,
+			null,
+			"\"Once you look around sober, but there's no one there.\"",
+			"When I woke up and looked around, nobody was there.\""
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720703,
+			null,
+			"就连最近被收养的，没有见过希儿和杏照片的孩子，也看到了“幽灵”，",
+			"最近引き取って、ゼーレやシンの写真を見たことがない子どもも「幽霊」を見たのです。",
+			"최근에 맡아져 제레나 신의 사진을 본 적 없는 아이도 「유령」을 봤대.",
+			"Even children who were recently adopted and have never seen pictures of Seele or Sin have seen \"ghosts\".",
+			null,
+			"Even the recently adopted children, who had not seen pictures of Hsieh and Apricot, saw the \"ghosts\".",
+			"Even children who had recently taken over and had never seen pictures of Seele or Shin saw \"ghosts\"."
+		],
+		[
+			"msg",
+			720704,
+			null,
+			"而且描述的样貌……和照片里很像。",
+			"しかも、説明された姿が……写真とよく似ていました。",
+			"게다가 설명된 모습이…… 사진과 많이 닮았어요.",
+			"Moreover, the figures they describe... look very similar to the photos.",
+			null,
+			"And the description of the likeness ...... is very similar to that in the photo.",
+			"Moreover, the described figure looked very similar to the ...... photo."
+		],
+		[
+			"msg",
+			720705,
+			null,
+			"连我自己也感觉到，房子里偶尔会多出其他人的气息。",
+			"ブローニャですらも感じるのです。時折、部屋の中に他の人の気配がすると。",
+			"브로냐조차도 느낍니다. 가끔, 방 안에 다른 사람의 기척이 느껴져요.",
+			null,
+			null,
+			"Even I myself feel that there is occasionally the scent of other people in the house.",
+			"Even Bronya can sense it. Occasionally, she said, she feels the presence of other people in the room."
+		],
+		[
+			"msg",
+			720706,
+			null,
+			"她们还活着吗？",
+			"彼女たちはまだ生きているのでしょうか？",
+			"그들은 아직 살아있을까요?",
+			null,
+			null,
+			"Are they still alive?",
+			"Are these women still alive?"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				true
+			],
+			[
+				19,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			720707,
+			null,
+			"呃……仪器没有检测出什么东西出来。",
+			"えっと……装置は特に何も検出していないわね。",
+			"음…… 장치는 특별히 아무것도 감지하지 못했어.",
+			null,
+			null,
+			"Uh ...... instruments did not detect anything out.",
+			"Well, the ...... device hasn't detected anything in particular."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				19,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720708,
+			null,
+			"不用顾虑我的心情，你想说什么就说什么，博士。",
+			"ブローニャの気持ちを気にする必要はありません。言いたいことがあれば言ってください、博士。",
+			"브로냐의 기분을 신경 쓸 필요 없어요. 하고 싶은 말이 있다면 말하세요, 박사님.",
+			null,
+			null,
+			"Don't worry about my mood, you can say whatever you want to say, Doctor.",
+			"You don't have to worry about how Bronya feels. If you have something to say, say it, Doctor."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				true
+			],
+			[
+				19,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720709,
+			null,
+			"…………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			720710,
+			null,
+			"（毕竟也过去一年多了……）",
+			"（何しろ1年以上も経ってるから……）",
+			"(어쨌든 1년 이상 지났으니까……)",
+			null,
+			null,
+			"(After all, more than a year has passed too ......)",
+			"(After all, it's been over a year. ......)"
+		],
+		[
+			"msg",
+			720711,
+			null,
+			"据我们对月球的事后调查情况来看，她们怎么都不可能活下来。",
+			"私たちが月に対して行った事後調査の結果からして、彼女たちが生き延びるのは不可能よ。",
+			"우리가 달에 대해 진행한 사후 조사 결과로는, 그들이 살아남는 건 불가능해.",
+			"Based on the results of our post-mortem investigation of the moon, it is impossible for them to survive.",
+			null,
+			"According to our post-mortem investigation of the moon, there is no way they could have survived.",
+			"Based on the results of our post-mortem investigation of the moon, it is impossible for them to survive."
+		],
+		[
+			"msg",
+			720712,
+			null,
+			"但量子物体的许多机制，至今仍是未解之谜。更别说量子属性的生物了。",
+			"でも、量子物体のメカニズムの多くはいまだに謎が解明されていないわ。量子属性の生物はなおのことね。",
+			"하지만 양자 물체의 메커니즘 대부분은 아직도 수수께끼로 남아있어. 양자 속성을 가진 생물은 더욱 그렇고.",
+			"But many of the mechanisms of quantum objects are still a mystery. Even more so for organisms with quantum attributes.",
+			null,
+			"However, many mechanisms of quantum objects are still unsolved mysteries. Not to mention the quantum properties of living things.",
+			"But many of the mechanisms of quantum objects are still a mystery. Even more so for organisms with quantum attributes."
+		],
+		[
+			"msg",
+			720713,
+			null,
+			"我们从来没见过量子生物如何死亡。",
+			"私たちは量子生物がどうやって死ぬのか見たことがないの。",
+			"우리는 양자 생물이 어떻게 죽는지 본 적이 없어.",
+			"We have never seen how quantum organisms die.",
+			null,
+			"We have never seen how quantum organisms die.",
+			"We have never seen how quantum organisms die."
+		],
+		[
+			"msg",
+			720714,
+			null,
+			"对于这样的生物，死亡的形式可能和我们不一样。毕竟物质本身是不灭的，构成她们的物质本身不可能消失，但这些物质的概率云范围有多大，我们也不得而知。",
+			"そのような生物にとって、死の形式は私たちと異なっているのかもしれないわね。物質自体は不滅のものであり、彼女たちを構成する物質自体が消えることなんてありえないから。でも、それらの物質の電子雲の範囲がどれくらいの広さなのか、知るよしもないわ。",
+			"그런 생물에게는 죽음의 형태가 우리와 다를지도 모르겠네. 물질 자체는 불멸의 것이며, 그녀들을 구성하는 물질 자체가 사라질 리 없으니까. 하지만 그 물질들의 전자 구름 범위가 어느 정도 넓은지 알 길이 없어.",
+			null,
+			null,
+			"For such creatures, the form of death may not be the same as ours. After all, matter itself is indestructible, and the substances that make up them cannot disappear per se, but how large the range of probability clouds of these substances is, we do not know.",
+			"For such creatures, perhaps their form of death is different from ours. Because matter itself is immortal, and the substances that make up these women could never disappear themselves. But we have no way of knowing how extensive the electron cloud of those substances is."
+		],
+		[
+			"msg",
+			720715,
+			null,
+			"以下只是我的猜测，我不对其正确性负任何责任——",
+			"この先はあくまでも私の推測だから、正確性については責任を負えないわよ——",
+			"이 다음은 어디까지나 나의 추측이니, 정확성에 대해서는 책임을 질 수 없어——",
+			null,
+			null,
+			"The following are just my guesses and I take no responsibility for their correctness -",
+			"I can't be held responsible for the accuracy of what follows, as it's just my guess--"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720716,
+			null,
+			"伊瑟琳再次拿出那颗量子子弹。",
+			"イザーリンは再びあの量子銃弾を取り出した。",
+			"이자린은 다시 그 양자 탄환을 꺼냈다.",
+			null,
+			null,
+			"Estherine took out that quantum bullet again.",
+			"Estherine took out that quantum bullet again."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				true
+			],
+			[
+				19,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720717,
+			null,
+			"量子生物死亡后，结果可能和这颗子弹正相反。",
+			"量子生物が死んだ後の結果は、この銃弾と正反対になるのかもしれない。",
+			"양자 생물이 죽은 후의 결과는 이 탄환과 정반대가 될지 모른다.",
+			null,
+			null,
+			"When the quantum creature dies, the result may be just the opposite of this bullet.",
+			"The result after the quantum organism dies may be the exact opposite of this bullet."
+		],
+		[
+			"msg",
+			720718,
+			null,
+			"当不存在观察者的时候，她们“有一定概率”坍缩。当存在观察者时，她们“有一定概率”变回概率云。",
+			"観察者が存在しない場合、彼女たちは「一定確率」で収束する。観察者が存在する場合、彼女たちは「一定確率」で電子雲に戻る。",
+			"관찰자가 존재하지 않을 경우, 그녀들은 「일정 확률」로 수렴한다. 관찰자가 존재할 경우, 그녀들은 「일정 확률」로 전자 구름으로 돌아간다.",
+			null,
+			null,
+			"When there is no observer, they collapse \"with some probability\". When there is an observer, they have a \"certain probability\" of turning back into a probability cloud.",
+			"If no observer is present, they converge with \"constant probability\". If an observer is present, they return to the electron cloud with a \"fixed probability\"."
+		],
+		[
+			"msg",
+			720719,
+			null,
+			"前者是“活着”，后者是“死亡”。",
+			"前者は「生きている」こととなり、後者は「死んでいる」ことになる。",
+			"전자는 「살아있음」을 의미하고, 후자는 「죽음」을 의미하게 돼.",
+			null,
+			null,
+			"The former is \"living\" and the latter is \"dying\".",
+			"The former will be \"alive\" and the latter will be \"dead\"."
+		],
+		[
+			"msg",
+			720720,
+			null,
+			"后者的概率远大于前者。",
+			"後者の確率は前者よりもはるかに高いわ。",
+			"후자의 확률은 전자보다 훨씬 높아.",
+			null,
+			null,
+			"The probability of the latter is much greater than that of the former.",
+			"The odds of the latter are much higher than the former."
+		],
+		[
+			"msg",
+			720721,
+			null,
+			"观察本身就是一个认知的过程，但随着时间流逝，你对她们的认知——也就是记忆，只会越来越淡。",
+			"観察自体が認識のプロセスだけれど、時間が経過するにつれて、あなたの彼女たちに対する認識——つまり、記憶は徐々に薄れていくだけ。",
+			"관찰 자체가 인식의 과정이지만, 시간이 지날수록 네가 그녀들에 대해 가진 인식——즉, 기억은 점점 희미해질 뿐이야.",
+			"Observation itself is a process of recognition, but as time passes, your perception of these women - that is, your memory of them - will only gradually fade.",
+			null,
+			"Observation itself is a process of perception, but as time passes, your perception of them - that is, your memory - will only grow fainter.",
+			"Observation itself is a process of recognition, but as time passes, your perception of these women - that is, your memory of them - will only gradually fade."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720722,
+			null,
+			"因为时间会冲淡一切。",
+			"時間はあらゆるものを薄めるから。",
+			"시간은 모든 것을 희미하게 만들거든.",
+			null,
+			null,
+			"Because time will wash everything away.",
+			"Because time dilutes everything."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720723,
+			null,
+			"前者的概率为零吗？",
+			"前者の確率はゼロでしょうか？",
+			"전자의 확률은 제로일까?",
+			null,
+			null,
+			"Is the probability of the former zero?",
+			"Is there a zero probability of the former?"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				true
+			],
+			[
+				19,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720724,
+			null,
+			"理论上，无限趋近于零。",
+			"理論上は限りなくゼロに近いわね。",
+			"이론상으로는 무한히 제로에 가깝겠죠.",
+			null,
+			null,
+			"Theoretically, the infinite convergence to zero.",
+			"That's as close to zero as you can theoretically get."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720725,
+			null,
+			"所以……我回忆起她们的一瞬间，她们就会消失……",
+			"つまり……ブローニャが彼女たちを思い出した瞬間、彼女たちは消えてしまう……。",
+			"즉......브로냐가 그들을 기억해낸 순간, 그들은 사라져버리는 거군요.......",
+			"In other words... The moment I remember them... They'll disappear.",
+			null,
+			"So ...... the moment I recall them, they disappear ......",
+			"In other words, the moment ...... Bronya remembers them, they disappear. ......"
+		],
+		[
+			"msg",
+			720726,
+			null,
+			"只有我，甚至是世界完全忘记了她们……",
+			"ブローニャが、さらには世界が完全に彼女たちのことを忘れた時……。",
+			"브로냐가, 나아가 세계가 완전히 그들을 잊어버렸을 때.......",
+			null,
+			null,
+			"Only I, or even the world, completely forgot about them ......",
+			"Bronya, and even the world, completely forgot about them. ......"
+		],
+		[
+			"msg",
+			720727,
+			null,
+			"她们才会存在？",
+			"初めて彼女たちは存在するのでしょうか？",
+			"비로소 그들은 존재하게 되는 걸까요?",
+			null,
+			null,
+			"They are the only ones who exist?",
+			"Do they exist for the first time?"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				true
+			],
+			[
+				19,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720728,
+			null,
+			"我说了，这只是我的猜测。我不对其正确性负任何责任。",
+			"言ったでしょう。あくまでも私の推測よ。正確性については一切責任を負えないわ。",
+			"말했잖아요. 어디까지나 나의 추측일 뿐이에요. 정확성에 대해서는 일체 책임질 수 없어요.",
+			null,
+			null,
+			"As I said, this is just my guess. I take no responsibility for its correctness.",
+			"I told you. It's just my guess. I cannot be held responsible for its accuracy."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720729,
+			null,
+			"…………",
+			"…………",
+			"........",
+			null
+		],
+		[
+			"bgm",
+			129
+		],
+		[
+			"msg",
+			720730,
+			null,
+			"足够了。",
+			"十分です。",
+			"충분해요.",
+			null,
+			null,
+			"It's enough.",
+			"Sufficient."
+		],
+		[
+			"msg",
+			720731,
+			null,
+			"对我来说，这是一个恰达好处的离别。",
+			"ブローニャにとって、ちょうどいい別れでしょう。",
+			"브로냐에게는, 딱 맞는 이별이겠죠.",
+			"For me, it will be a fitting farewell.",
+			null,
+			"For me, it was a fitting parting.",
+			"For Bronya, it will be just the right goodbye."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				true
+			],
+			[
+				19,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720732,
+			null,
+			"你不想将她们找回来？",
+			"彼女たちを連れ戻したくないの？",
+			"그들을 데려오고 싶지 않은 거야?",
+			"Don't you want to bring those girls back?",
+			null,
+			"You don't want to get them back?",
+			"Don't you want to bring those girls back?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720733,
+			null,
+			"（摇头）",
+			"（首を横に振る）",
+			"(고개를 저으며)",
+			"(shakes head)",
+			null,
+			"(shaking head)",
+			"(shakes head)"
+		],
+		[
+			"msg",
+			720734,
+			null,
+			"我怎么可能忘记她们。",
+			"ブローニャが妹たちのことを忘れられるはずありません。",
+			"브로냐가 동생들을 잊을 수 있을 리 없어요.",
+			null,
+			null,
+			"How could I forget them.",
+			"How could Bronya forget these women?"
+		],
+		[
+			"msg",
+			720735,
+			null,
+			"但是……即便我不愿意前进，",
+			"ですが……ブローニャが前に進みたくなくても……。",
+			"하지만... 브로냐가 앞으로 나아가고 싶지 않아도...",
+			null,
+			null,
+			"But ...... even if I'm not willing to move forward",
+			"But even if ...... Bronya doesn't want to move forward, he can still ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720736,
+			null,
+			"孩子们躲在角落，观察着他们的布洛妮娅姐姐——",
+			"子どもたちは隅に隠れ、彼らのお姉ちゃんを見つめている——",
+			"아이들은 구석에 숨어, 그들의 언니를 바라보고 있다——",
+			null,
+			null,
+			"The children hid in a corner and watched their sister Bronya -",
+			"The children hide in the corner and observe their Bronya sister--their Bronya sister."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				false
+			],
+			[
+				19,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720737,
+			null,
+			"为了别人，我也必须前进。",
+			"みんなのために、ブローニャも前に進まなくてはなりません。",
+			"모두를 위해, 브로냐도 앞으로 나아가야 합니다.",
+			null,
+			null,
+			"For the sake of others, I must also move forward.",
+			"For the sake of others, Bronya must also move forward."
+		],
+		[
+			"msg",
+			720738,
+			null,
+			"话说，是我的错觉吗？",
+			"ところで、ブローニャの錯覚でしょうか？",
+			"그런데, 브로냐의 착각일까요?",
+			null,
+			null,
+			"That said, is it just me?",
+			"By the way, is it an illusion of Bronya?"
+		],
+		[
+			"msg",
+			720739,
+			null,
+			"博士是不是长高了？",
+			"博士、背が伸びたのではありませんか？",
+			"박사님, 키가 커진 거 아니에요?",
+			null,
+			null,
+			"Has the doctor grown taller?",
+			"Hasn't Dr. Huang grown taller?"
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				304,
+				0,
+				true
+			],
+			[
+				19,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720740,
+			null,
+			"真，真的吗？快给我量量！",
+			"ほ、本当？早く計って！",
+			"헉, 정말? 빨리 재 봐!",
+			null,
+			null,
+			"Really, really? Measure me!",
+			"Oh, really? Quick, measure it!"
+		],
+		[
+			"speaker",
+			204668
+		],
+		[
+			"portraits",
+			[
+				812,
+				0,
+				false
+			],
+			[
+				19,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720741,
+			null,
+			"（探头）这里可以吗，“海藻头”？",
+			"（頭を突き出しながら）「ワカメ頭」、ここでいいの？",
+			"(머리를 내밀며)「미역머리」, 여기 괜찮아?",
+			null,
+			null,
+			"(Probe) Is it okay here, \"seaweed head\"?",
+			"(while sticking his head out) \"Wakame-head\", are you sure this is the right place?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				19,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720742,
+			null,
+			"木制的柱子上，刻着一道又一道的横槽，记录着这个陌生孩子的身高变化。",
+			"木の柱には横向きの溝が1本ずつ刻まれている。この見知らぬ子どもの身長の変化を記録してあるのだ。",
+			"나무 기둥에는 가로로 홈이 하나씩 새겨져 있다. 이 낯선 아이의 키 변화를 기록해 둔 것이다.",
+			null,
+			null,
+			"The wooden pillars, carved with one horizontal groove after another, record the change in height of this strange child.",
+			"One horizontal groove is carved into each wooden post. It records the change in height of this strange child."
+		],
+		[
+			"speaker",
+			204607
+		],
+		[
+			"portraits",
+			[
+				19,
+				2,
+				false
+			],
+			[
+				19,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720743,
+			null,
+			"真是的，我比你高多了，怎么量嘛。",
+			"まったく。私の方があなたよりずっと背が高いのに、どうやって計るのよ。",
+			"정말. 내가 당신보다 훨씬 키가 큰데, 어떻게 재겠어요.",
+			null,
+			null,
+			"Really, I am much taller than you, how to measure well.",
+			"I am much taller than you. I'm much taller than you, how do you measure up?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				19,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720744,
+			null,
+			"过去镌刻的痕迹，似乎一旦留下，就再也不可能消失。",
+			"過去に刻まれた痕跡は、一度残ると二度と消えないのだろう。",
+			"과거에 새겨진 흔적은 한번 남으면 다시는 지워지지 않는 걸까.",
+			null,
+			null,
+			"The traces engraved in the past seem to be impossible to disappear once left.",
+			"The traces carved in the past, once left behind, never seemed to disappear again."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			720745,
+			null,
+			"但是，时间会永远向前，永不倒退。",
+			"しかし、時間は常に前に進み、決して後戻りすることはない。",
+			"하지만 시간은 언제나 앞으로만 흘러, 결코 되돌아오지 않는다.",
+			null,
+			null,
+			"However, time will always move forward and never go backwards.",
+			"But time always moves forward, never backward."
+		],
+		[
+			"msg",
+			720746,
+			null,
+			"没有任何事物是永恒的。",
+			"永遠のものなどないのだ。",
+			"영원한 것은 없는 법이야.",
+			null,
+			null,
+			"Nothing lasts forever.",
+			"Nothing is eternal."
+		]
+	],
+	"10301": [
+		[
+			"bgm",
+			70
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10386"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720747,
+			null,
+			"太虚实验室内，数个小拉炮响起，",
+			"太虚実験室の中で、クラッカーが何発か打ち鳴らされた。",
+			"태허 실험실 안에서, 크래커 몇 발이 터져 올랐다.",
+			null,
+			null,
+			"Inside the Taixu laboratory, several small pulling guns went off and",
+			"A few small fireworks were set off in the Taisho laboratory."
+		],
+		[
+			"msg",
+			720748,
+			null,
+			"彩带和纸屑挂满了托托莉的衣服和轮椅。",
+			"トトリの服と車椅子はリボンと紙吹雪でいっぱいになった。",
+			"토토리의 옷과 휠체어는 리본과 종이 폭죽으로 가득해졌다.",
+			null,
+			null,
+			"Ribbons and confetti hung all over Totori's clothes and wheelchair.",
+			"Totori's clothes and wheelchair were filled with ribbons and confetti."
+		],
+		[
+			"msg",
+			720749,
+			null,
+			"似乎是一种小小的炫耀，她就以这样略显滑稽的姿态，遥控着轮椅逛来逛去。",
+			"少し見せびらかすかのように、彼女はその滑稽に見える姿のまま車椅子を運転してあちこちまわっていた。",
+			"약간 과시하듯, 그녀는 그 우스꽝스러워 보이는 모습 그대로 휠체어를 몰고 여기저기 돌아다녔다.",
+			null,
+			null,
+			"In what seemed like a small show-off, she wandered around with this slightly comical gesture, remotely controlling her wheelchair.",
+			"As if to show off a little, she drove her wheelchair around in her ridiculous looking form."
+		],
+		[
+			"speaker",
+			204961
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30438,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720750,
+			null,
+			"哦，是符华仙人，",
+			"あっ、フカ仙人。",
+			"아, 후카 선인.",
+			null,
+			null,
+			"Oh, it's the Immortal Fuhua.",
+			"Ah, the Hookah Hermit."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30438,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720751,
+			null,
+			"还有司徒。你们也来了。",
+			"それに司徒お姉ちゃん。あなたたちも来てくれたの。",
+			"그리고 사도 언니. 너희들도 와 줬구나.",
+			null,
+			null,
+			"And Szeto. You guys are here too.",
+			"And the priests. You guys came too."
+		],
+		[
+			"speaker",
+			432798
+		],
+		[
+			"portraits",
+			[
+				481,
+				2,
+				false
+			],
+			[
+				30438,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720752,
+			null,
+			"怎么可能不来，再怎么忙也得来看望你。",
+			"もちろん、来ないわけにいかないだろう。どんなに忙しくてもお前の見舞いには来ないとな。あと、お姉ちゃんじゃない。",
+			"물론, 안 올 수 없지. 아무리 바빠도 네 문병은 와야지. 그리고 언니 아니야.",
+			null,
+			null,
+			"How can you not come, how busy you have to come to visit you.",
+			"You can't not come. No matter how busy I am, I have to come visit you."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				217,
+				3,
+				false
+			],
+			[
+				30438,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720753,
+			null,
+			"恭喜你康复。",
+			"回復おめでとうございます。",
+			"회복 축하해.",
+			null,
+			null,
+			"Congratulations on your recovery.",
+			"Congratulations on your recovery."
+		],
+		[
+			"speaker",
+			432798
+		],
+		[
+			"portraits",
+			[
+				481,
+				5,
+				false
+			],
+			[
+				30438,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720754,
+			null,
+			"应该很快就能恢复行走能力了吧？",
+			"きっとすぐに歩行能力を取り戻せるだろう？",
+			"분명 곧 걷는 능력을 되찾을 수 있을 거야?",
+			null,
+			null,
+			"You should be able to regain your ability to walk soon, right?",
+			"Surely he will regain his walking ability soon?"
+		],
+		[
+			"speaker",
+			204961
+		],
+		[
+			"portraits",
+			[
+				481,
+				5,
+				true
+			],
+			[
+				30438,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720755,
+			null,
+			"嗯。",
+			"ええ。",
+			"응.",
+			null,
+			null,
+			"Hmm.",
+			"Yes."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30438,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			204961
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30438,
+				11,
+				false
+			]
+		],
+		[
+			"msg",
+			720757,
+			null,
+			"也就是说……当时温蒂之所以能恢复成普通人类，",
+			"つまり……あのとき、ウェンディが普通の人間に戻れたのは、",
+			"즉…… 그때, 웬디가 평범한 인간으로 돌아올 수 있었던 건,",
+			null,
+			null,
+			"That is to say ...... the reason why Wendy was able to revert to an ordinary human at that time.",
+			"I mean, ...... that time Wendy was able to return to being a normal human being,"
+		],
+		[
+			"msg",
+			720758,
+			null,
+			"是因为“祈愿”得到了“回应”？",
+			"「祈り」が「返答」を得られたから？",
+			"「기도」가 「응답」을 얻었기 때문?",
+			null,
+			null,
+			"Is it because the \"prayer\" was \"answered\"?",
+			"You mean because \"prayer\" got \"answered\"?"
+		],
+		[
+			"speaker",
+			432798
+		],
+		[
+			"portraits",
+			[
+				481,
+				4,
+				false
+			],
+			[
+				30438,
+				11,
+				true
+			]
+		],
+		[
+			"msg",
+			720759,
+			null,
+			"没有任何证据能证明这一点就是了。",
+			"そのことを証明できる証拠は何もない。",
+			"그것을 증명할 수 있는 증거는 아무것도 없어.",
+			null,
+			null,
+			"There is no evidence to prove this is all.",
+			"There is no evidence to prove this."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				217,
+				4,
+				false
+			],
+			[
+				30438,
+				11,
+				true
+			]
+		],
+		[
+			"msg",
+			720760,
+			null,
+			"可能这就是“无形之太虚”，或者你们所说的，现实扭曲力场的真相吧。",
+			"それこそが「無形の大虚」、またはあなたたちの言う現実歪曲フィールドの真相なのかもしれません。",
+			"그것이 바로 「무형의 대허공」, 또는 당신들이 말하는 현실 왜곡 필드의 진상일지도 모릅니다.",
+			null,
+			null,
+			"Maybe this is the truth of the \"invisible void\", or what you call the reality distortion force field.",
+			"That may be the truth of the \"intangible great void\" or reality distortion field as you call it."
+		],
+		[
+			"speaker",
+			432798
+		],
+		[
+			"portraits",
+			[
+				481,
+				4,
+				false
+			],
+			[
+				30438,
+				11,
+				true
+			]
+		],
+		[
+			"msg",
+			720761,
+			null,
+			"不，那并非无形。",
+			"いえ、それは無形ではありません。",
+			"아니, 그것은 무형이 아닙니다.",
+			null,
+			null,
+			"No, that is not invisible.",
+			"No, it is not intangible."
+		],
+		[
+			"msg",
+			720762,
+			null,
+			"而是实实在在的事物。",
+			"うそ偽りないものです。",
+			"거짓 없는 진실입니다.",
+			null,
+			null,
+			"Rather, they are real things.",
+			"It is not a lie."
+		],
+		[
+			"speaker",
+			204961
+		],
+		[
+			"portraits",
+			[
+				481,
+				4,
+				true
+			],
+			[
+				30438,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720763,
+			null,
+			"温蒂……",
+			"ウェンディ……。",
+			"웬디…….",
+			null,
+			null,
+			"Wendy ......",
+			"Wendy. ......."
+		],
+		[
+			"msg",
+			720764,
+			null,
+			"是它们……是世界本身，回应了我们的愿望啊……",
+			"それが……世界自体が、私たちの願いに応じてくれたの……。",
+			"그것이…… 세계 자체가, 우리의 소원에 응해준 거야…….",
+			null,
+			null,
+			"It is they ...... are the world itself, responding to our wishes ah ......",
+			"They are the ...... world itself, which has responded to our wishes ......."
+		],
+		[
+			"speaker",
+			432798
+		],
+		[
+			"portraits",
+			[
+				481,
+				0,
+				false
+			],
+			[
+				30438,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			720765,
+			null,
+			"怎么样，仙人阁下，",
+			"仙人殿、いかがですかな？",
+			"선인전, 어떠신가요?",
+			null,
+			null,
+			"How about it, Your Excellency the Immortal.",
+			"How do you like it, Mister Hermit?"
+		],
+		[
+			"msg",
+			720766,
+			null,
+			"在太虚战线的生活能适应吗？",
+			"太虚戦線での暮らしには適応できますか？",
+			"태허 전선에서의 생활에는 적응하실 수 있나요?",
+			null,
+			null,
+			"Can you adapt to life on the Taixu front?",
+			"Can I adapt to life on the Taisho front?"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				481,
+				0,
+				true
+			],
+			[
+				217,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			720767,
+			null,
+			"唉……",
+			"はぁ……。",
+			"하아…….",
+			null,
+			null,
+			"Alas ......",
+			"Huh. ......."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			720768,
+			null,
+			"当时的符华是太虚战线仅存的有效战力，通过防守反击，歼灭了靠近太虚战线的数个意志联体，保护了太虚战线。",
+			"当時のフカは太虚戦線に残された数少ない戦力であり、防御や反撃を通じて太虚戦線に接近するいくつもの意志結合を撃破し、太虚戦線を守ったのだ。",
+			"당시 후카는 태허 전선에 남겨진 몇 안 되는 전력이며, 방어나 반격을 통해 태허 전선에 접근하는 여러 의지결합을 격파하고, 태허 전선을 지켰다.",
+			null,
+			null,
+			"At that time, Fuhua was the only effective battle force left in the Taixu front, and protected the Taixu front by counterattacking defensively and annihilating several will coalitions close to the Taixu front.",
+			"At that time, Huka was one of the few forces left on the Taisho front, and through defense and counterattack, it defeated several will-o'-the-wisp alliances approaching the Taisho front and defended the Taisho front."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			720769,
+			null,
+			"之后没多久，整个崩坏危机就随着月球的变化而解决了。",
+			"それからほどなくして、月の変化とともに崩壊の危機そのものが解決された。",
+			"그 후 얼마 지나지 않아, 달의 변화와 함께 붕괴의 위기 그 자체가 해결되었다.",
+			null,
+			null,
+			"It didn't take long after that for the whole collapse crisis to be resolved with the moon change.",
+			"Not long after that, with the change of the moon, the collapse crisis itself was resolved."
+		],
+		[
+			"msg",
+			720770,
+			null,
+			"之后，太虚战线迎来了紧锣密鼓的重建工作，",
+			"その後、太虚戦線はとても忙しい再建活動を始めた。",
+			"이후 태허 전선은 매우 바쁜 재건 활동을 시작했다.",
+			null,
+			null,
+			"After that, the Taixu front ushered in the intensive reconstruction work of",
+			"The Taizhou Front then began a very busy rebuilding effort."
+		],
+		[
+			"msg",
+			720771,
+			null,
+			"这令符华感到无所适从：",
+			"これにはフカもどうしていいのか分からなくなってしまった。",
+			"이에는 후카도 어떻게 해야 할지 몰라 당황해 버렸다.",
+			null,
+			null,
+			"This caused Fuhua to feel at a loss:",
+			"Huka was not sure what to do at this."
+		],
+		[
+			"msg",
+			720772,
+			null,
+			"她不懂现代工业，不懂工程技术，",
+			"彼女は、現代の工業や土木技術についてはさっぱり分からなかった。",
+			"그녀는 현대의 공업이나 토목 기술에 대해서는 전혀 알지 못했다.",
+			null,
+			null,
+			"She doesn't know modern industry, she doesn't know engineering.",
+			"She had no idea about modern industry or civil engineering."
+		],
+		[
+			"msg",
+			720773,
+			null,
+			"虽然还有点文学造诣，但也跟不上潮流了。",
+			"文学的な造詣は多少あるものの、時代の流れについていけなくなっていた。",
+			"문학적인 조예는 다소 있지만, 시대의 흐름을 따라가지 못하고 있었다.",
+			null,
+			null,
+			"Although there is still some literary attainment, but also can not keep up with the trend.",
+			"Although he had some literary knowledge, he was no longer able to keep up with the times."
+		],
+		[
+			"speaker",
+			432798
+		],
+		[
+			"portraits",
+			[
+				481,
+				0,
+				false
+			],
+			[
+				217,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			720774,
+			null,
+			"每次提到这个话题，仙人就愁眉苦脸的呢。",
+			"この話題になると、仙人殿はいつも憂うつそうな表情を浮かべますな。",
+			"이 이야기가 나오면, 선인전은 언제나 우울해 보이는 표정을 지으시네요.",
+			null,
+			null,
+			"Every time this topic is mentioned, the immortal is sad face it.",
+			"Whenever this topic comes up, you always seem to have a melancholy expression on your face, hermit-dono."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				481,
+				0,
+				true
+			],
+			[
+				217,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			720775,
+			null,
+			"即便是搬运重物，能代替仙人的……这种叫机器的事物，也有很多很多。",
+			"重いものを運ぶことすらも、仙人に取って代われる……機械と呼ばれるものもたくさん存在しています。",
+			"무거운 물건을 나르는 일조차도, 선인을 대신할 수 있는... 기계라고 불리는 것들도 많이 존재하고 있습니다.",
+			null,
+			null,
+			"Even if it is to carry heavy objects, can replace the immortal ...... such things called machines, there are many, many.",
+			"There are many things called ...... machines that can replace hermits, even carrying heavy objects."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				481,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720776,
+			null,
+			"而且，符华的身体机能随着她的活动，正在每况愈下。",
+			"さらに、フカの身体機能は彼女の活動に伴って、ますます悪化していた。",
+			"게다가 후카의 신체 기능은 그녀의 활동에 따라 점점 더 악화되고 있었다.",
+			null,
+			null,
+			"Moreover, Fuhua's physical function is deteriorating with her activities.",
+			"In addition, Huka's physical functions were deteriorating more and more with her activities."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				481,
+				0,
+				true
+			],
+			[
+				217,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			720777,
+			null,
+			"我感觉这具身体正在老化。",
+			"この体が老化しているのを感じます。",
+			"이 몸이 노화되고 있는 걸 느낍니다.",
+			null,
+			null,
+			"I feel like this body is aging.",
+			"I feel this body is aging."
+		],
+		[
+			"msg",
+			720778,
+			null,
+			"数百年前的那场大战，原本耗尽了我的元气……",
+			"数百年前の大戦で、私の気を使い果たしてしまいましたから……。",
+			"수백 년 전의 대전에서, 제 기를 다 써버렸기 때문에...",
+			null,
+			null,
+			"The great battle hundreds of years ago originally depleted my energy ......",
+			"Because I ran out of my chi in the Great War hundreds of years ago. ......"
+		],
+		[
+			"speaker",
+			204961
+		],
+		[
+			"portraits",
+			[
+				30438,
+				4,
+				false
+			],
+			[
+				217,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			720779,
+			null,
+			"我们会找出解决办法的。",
+			"私たちが解決策を見つけるよ。",
+			"우리가 해결책을 찾을 거야.",
+			null,
+			null,
+			"We'll find a solution.",
+			"We'll find a solution."
+		],
+		[
+			"msg",
+			720780,
+			null,
+			"在此之前，只要回到实验室沉睡，寿命就可以延长。",
+			"それまでは、実験室に戻って眠るだけで寿命を延ばせるはず。",
+			"그때까지는, 실험실로 돌아가 잠들기만 해도 수명을 늘릴 수 있을 거야.",
+			null,
+			null,
+			"Until then, life span can be extended by simply returning to the lab and slumbering.",
+			"Until then, you can extend your lifespan by simply going back to your lab and sleeping."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30438,
+				4,
+				true
+			],
+			[
+				217,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			720781,
+			null,
+			"（摇头）",
+			"（首を横に振る）",
+			"(고개를 저으며)",
+			null,
+			null,
+			"(shaking head)",
+			"(shakes head)"
+		],
+		[
+			"portraits",
+			[
+				30438,
+				4,
+				true
+			],
+			[
+				217,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			720782,
+			null,
+			"这一沉睡，又要多少个百年呢？",
+			"その眠りは何百年続くのでしょうか？",
+			"그 잠은 몇 백 년이나 계속될까요?",
+			null,
+			null,
+			"How many centuries will this slumber take?",
+			"How many hundreds of years will that sleep last?"
+		],
+		[
+			"msg",
+			720783,
+			null,
+			"万物有始有终，即便是仙人，也没有永恒的寿命。",
+			"万物には始まりと終わりがあります。仙人であっても、永遠の寿命はありません。",
+			"만물에는 시작과 끝이 있습니다. 선인이라 해도, 영원한 수명은 없습니다.",
+			null,
+			null,
+			"Everything has a beginning and an end, and even immortals do not have an eternal life span.",
+			"All things have a beginning and an end. Even a hermit does not have an eternal life span."
+		],
+		[
+			"msg",
+			720784,
+			null,
+			"我有我自己的想法。",
+			"私には私の考えがあります。",
+			"나에게는 나의 생각이 있습니다.",
+			null,
+			null,
+			"I have my own ideas.",
+			"I have my own ideas."
+		],
+		[
+			"speaker",
+			432798
+		],
+		[
+			"portraits",
+			[
+				481,
+				2,
+				false
+			],
+			[
+				217,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			720785,
+			null,
+			"您终于决定了吗？",
+			"ついに決めたのですか？",
+			"결심을 하셨군요?",
+			null,
+			null,
+			"Have you finally decided?",
+			"Have you finally decided?"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				481,
+				2,
+				true
+			],
+			[
+				217,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			720786,
+			null,
+			"我所处的时代，我所熟悉的人们，都已经离我而去了。",
+			"私のいた時代、私の知っていた人たちは皆、私のもとからいなくなりました。",
+			"제가 있던 시대, 제가 알던 사람들은 모두 제 곁을 떠났습니다.",
+			null,
+			null,
+			"The times I lived in, the people I knew, have all left me.",
+			"In the time I was there, everyone I knew was gone from me."
+		],
+		[
+			"msg",
+			720787,
+			null,
+			"这个时代对我来说，虽然无所适从，",
+			"この時代は私にとって戸惑いの連続ではありますが、",
+			"이 시대는 저에게 혼란의 연속이지만,",
+			null,
+			null,
+			"This era for me, though at a loss for words.",
+			"This period is a perplexing one for me,"
+		],
+		[
+			"portraits",
+			[
+				481,
+				2,
+				true
+			],
+			[
+				217,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			720788,
+			null,
+			"但也无比新鲜。",
+			"非常に新鮮です。",
+			"매우 새롭습니다.",
+			null,
+			null,
+			"But it's also incredibly fresh.",
+			"Very fresh."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			720789,
+			null,
+			"“以守护天下苍生为己任。”",
+			"「世界中の人々を守ることを自分の役目としている」",
+			"「전 세계 사람들을 지키는 것을 자신의 역할로 삼고 있는」",
+			null,
+			null,
+			"\"To guard the people of the world as their mission.\"",
+			"I make it my mission to protect people all over the world.\""
+		],
+		[
+			"msg",
+			720790,
+			null,
+			"此话并非只意味着，必须去践行某种宏伟巨大之业，",
+			"この言葉は、何か壮大な使命を果たさなければならないという意味だけではない。",
+			"이 말은 무언가 웅대한 사명을 이루어야 한다는 의미만은 아니다.",
+			null,
+			null,
+			"This does not mean only that one must practice something grand and huge.",
+			"The term does not only mean that some grand mission must be accomplished."
+		],
+		[
+			"msg",
+			720791,
+			null,
+			"也可以是平凡生活的一部分。",
+			"平凡な生活の一部でも構わないのだ。",
+			"평범한 삶의 일부라도 괜찮다.",
+			null,
+			null,
+			"It can also be a part of ordinary life.",
+			"It can be part of an ordinary life."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			720792,
+			null,
+			"听说这个时代的交通很便利。",
+			"この時代の交通はとても便利だと聞きました。",
+			"이 시대의 교통은 매우 편리하다고 들었습니다.",
+			null,
+			null,
+			"I heard that transportation is convenient in this era.",
+			"I heard that transportation in this period was very convenient."
+		],
+		[
+			"msg",
+			720793,
+			null,
+			"崩坏的阴影已然消散，我想寻找符合这个时代的，可以让我继续发光发热的地方。这比沉睡要有价值得多。",
+			"崩壊の影が消えた今、この時代に私が必要とされる場所を探したいと思います。それは眠るよりもずっと価値があります。",
+			"붕괴의 그림자가 사라진 지금, 이 시대에 제가 필요한 곳을 찾고 싶습니다. 그것은 잠자는 것보다 훨씬 가치 있습니다.",
+			null,
+			null,
+			"The shadow of collapse has dissipated, and I want to find what fits the times and allows me to continue to shine. This is much more valuable than slumber.",
+			"Now that the shadow of collapse is gone, I would like to find a place where I can continue to shine in these times. It is worth much more than sleeping."
+		],
+		[
+			"msg",
+			720794,
+			null,
+			"是你们，特别是托托莉你，让我明白了这一点。",
+			"あなた方が、トトリが、そのことを私に教えてくれました。",
+			"당신들이, 토토리가, 그 사실을 제게 가르쳐 주었습니다.",
+			null,
+			null,
+			"It was you guys, especially you, Tortori, who made me understand this.",
+			"You people, especially Totori, have made that clear to me."
+		],
+		[
+			"speaker",
+			204961
+		],
+		[
+			"portraits",
+			[
+				30438,
+				2,
+				false
+			],
+			[
+				217,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720795,
+			null,
+			"仙人阁下……",
+			"仙人……。",
+			"선인…….",
+			null,
+			null,
+			"His Excellency the Immortal ......",
+			"Hermit Lord. ......."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30438,
+				2,
+				true
+			],
+			[
+				217,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			720796,
+			null,
+			"像过去那样云游四海，才是最适合我的生活方式。",
+			"昔のように各地を旅して回ることこそ、私に最も適した生活です。",
+			"예전처럼 각지를 여행하는 것이 바로 나에게 가장 적합한 생활입니다.",
+			null,
+			null,
+			"Traveling around the world like I did in the past is the best way for me to live.",
+			"Traveling around as I did in the past is the life I am best suited for."
+		],
+		[
+			"speaker",
+			432798
+		],
+		[
+			"portraits",
+			[
+				481,
+				2,
+				false
+			],
+			[
+				217,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720797,
+			null,
+			"既然您都这么说了，我们当然尊重您的想法。",
+			"あなたがそうおっしゃるのであれば、もちろんあなたの意見を尊重しましょう。",
+			"당신이 그렇게 말씀하신다면 물론 당신의 의견을 존중하겠습니다.",
+			null,
+			null,
+			"Since you have said so, we certainly respect your idea.",
+			"If you say so, then of course we respect your opinion."
+		],
+		[
+			"portraits",
+			[
+				481,
+				5,
+				false
+			],
+			[
+				217,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720798,
+			null,
+			"需要为您准备行李吗？",
+			"荷物の準備をしましょうか？",
+			"짐을 준비할까요?",
+			null,
+			null,
+			"Do I need to prepare your luggage?",
+			"Shall I prepare your luggage?"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				481,
+				5,
+				true
+			],
+			[
+				217,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			720799,
+			null,
+			"免了。",
+			"結構です。",
+			"괜찮습니다.",
+			null,
+			null,
+			"Waived.",
+			"No, thank you."
+		],
+		[
+			"msg",
+			720800,
+			null,
+			"都是些负担罢了。",
+			"負担にしかなりませんから。",
+			"부담만 될 뿐이니까요.",
+			null,
+			null,
+			"It's all just a burden.",
+			"It's just a burden."
+		],
+		[
+			"speaker",
+			204961
+		],
+		[
+			"portraits",
+			[
+				30438,
+				2,
+				false
+			],
+			[
+				217,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720801,
+			null,
+			"记得常回来看看，仙人阁下。",
+			"時々は帰ってきてくださいね、仙人様。",
+			"가끔씩은 돌아와 주세요, 선인님.",
+			null,
+			null,
+			"Remember to come back and visit often, Lord Immortal.",
+			"Come back from time to time, hermit."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30438,
+				2,
+				true
+			],
+			[
+				217,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			720802,
+			null,
+			"从现在开始，我既不是仙人，也不是什么阁下。",
+			"いいえ、今から私は仙人でもなければ、仙人様でもありません。",
+			"아니요, 지금부터 나는 선인도, 선인님도 아닙니다.",
+			null,
+			null,
+			"From now on, I am neither an immortal nor any Your Excellency.",
+			"From now on I am neither a hermit nor a hermit-sama."
+		],
+		[
+			"msg",
+			720803,
+			null,
+			"我是一名神州大地的普通人。",
+			"私は神州の大地の一般人です。",
+			"나는 신주의 대지의 평범한 사람입니다.",
+			null,
+			null,
+			"I am an ordinary person in the land of God.",
+			"I am an ordinary person from the land of Shenzhou."
+		],
+		[
+			"msg",
+			720804,
+			null,
+			"叫我符华就好。",
+			"フカと呼んでください。",
+			"후카라고 불러 주세요.",
+			null,
+			null,
+			"Just call me Fuhua.",
+			"Call me Huka."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10384"
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"msg",
+			720807,
+			null,
+			"在无数神州子民的注视之下——",
+			"無数の神州の民が注目する中——",
+			"무수한 신주의 민중이 주목하는 가운데——",
+			null,
+			null,
+			"Under the gaze of countless sons and daughters of God -",
+			"With countless people of Shenzhou watching--"
+		],
+		[
+			"msg",
+			720808,
+			null,
+			"符华朝着日落的方向走去。",
+			"フカは日が沈む方角へと向かっていった。",
+			"후카는 해가 지는 방향으로 향해 갔다.",
+			null,
+			null,
+			"Fuhua walked in the direction of the sunset.",
+			"Huka headed in the direction of the setting sun."
+		],
+		[
+			"msg",
+			720809,
+			null,
+			"那火红色的身影，渐渐淹没在了群山之间，淹没在了逐渐复苏的大地。",
+			"その赤く染まった姿は徐々に山々の中に呑み込まれ、復興を遂げる大地の中に消えていった。",
+			"그 붉게 물든 모습은 점점 산들 속에 삼켜져, 부흥을 이룬 대지 속으로 사라져갔다.",
+			null,
+			null,
+			"The fiery red figure, gradually submerged between the mountains, submerged in the gradual recovery of the earth.",
+			"The reddened figure was gradually swallowed up by the mountains and disappeared into the reconstructed land."
+		],
+		[
+			"msg",
+			720810,
+			null,
+			"放下了对抗崩坏之职责的她，并非选择了永别，",
+			"崩壊との戦いという役目を終えた彼女は、永遠の別れを選ぶのではなく、",
+			"붕괴와의 전쟁이라는 임무를 마친 그녀는, 영원한 이별을 선택하지 않고,",
+			null,
+			null,
+			"She who has laid down her duty to fight against the collapse is not choosing to say goodbye forever.",
+			"Having completed her role of fighting the collapse, she does not choose to say goodbye forever,"
+		],
+		[
+			"msg",
+			720811,
+			null,
+			"只是选择回到她熟悉、而又陌生的世界去罢了。",
+			"彼女になじみがあり、それでいて見知らぬ世界に戻ることを選択した。",
+			"그녀에게 익숙하면서도 낯선 세계로 돌아가는 길을 택했다.",
+			null,
+			null,
+			"It's just a choice to go back to her familiar, yet unfamiliar world.",
+			"It was familiar to her, and yet she simply chose to return to a strange world."
+		],
+		[
+			"bg",
+			"CG10257"
+		],
+		[
+			"msg",
+			720812,
+			null,
+			"在地球的另一边，一处装潢优雅的酒吧内——",
+			"地球の裏側、上品な装飾が施されたバーの中——",
+			"지구 반대편, 우아한 장식이 된 바 안쪽——",
+			null,
+			null,
+			"On the other side of the world, in an elegantly decorated bar -",
+			"On the other side of the world, in a tastefully decorated bar--"
+		],
+		[
+			"bgm",
+			47
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				217,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720813,
+			null,
+			"（左边吧台）您的特调，请用。",
+			"（左側のバーテンダー）特製カクテルよ。どうぞ。",
+			"(왼쪽 바텐더) 특제 칵테일이에요. 자, 드세요.",
+			null,
+			null,
+			"(Left bar) Your special blend, please use.",
+			"(Bartender on left) I made a special cocktail for you. Here you go."
+		],
+		[
+			"speaker",
+			320454
+		],
+		[
+			"portraits",
+			[
+				30360,
+				0,
+				false
+			],
+			[
+				217,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720814,
+			null,
+			"姬子姐，听我说嘛，我的前男友又……",
+			"姫子さん、聞いてよ。私の元カレがまた……。",
+			"히메코 씨, 들어봐. 내 전 남친이 또...",
+			null,
+			null,
+			"Sister Kiko, listen to me, my ex-boyfriend again ......",
+			"Himeko, listen to me. My ex-boyfriend is also ......."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				217,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			720815,
+			null,
+			"那种男人不要也罢，今晚我陪你喝！",
+			"そんな男いらないわ。今夜は私が付き合ってあげる！",
+			"그런 남자 필요 없어. 오늘 밤은 내가 같이 있어 줄게!",
+			null,
+			null,
+			"Do not want that kind of man, I will drink with you tonight!",
+			"I don't want that guy. I'll keep you company tonight!"
+		],
+		[
+			"speaker",
+			204927
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				true
+			],
+			[
+				754,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720816,
+			null,
+			"（右边吧台）这是您的咖啡，请慢用。",
+			"（右側のバーテンダー）コーヒーです。どうぞ。",
+			"(오른쪽 바텐더) 커피입니다. 드세요.",
+			null,
+			null,
+			"(Bar on the right) Here's your coffee, please enjoy.",
+			"(Bartender on the right) Coffee. Here you go."
+		],
+		[
+			"speaker",
+			320641
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				true
+			],
+			[
+				30447,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720817,
+			null,
+			"只有丽塔小姐能抚慰加班社畜的心了，呜呜……",
+			"残業する社畜の心を慰めてくれるのはリタさんだけだよ。うう……。",
+			"잔업하는 회사원의 마음을 위로해 주는 건 리타씨 뿐이야. 우우…….",
+			null,
+			null,
+			"Only Miss Rita can soothe the heart of overtime social animals, oooh ......",
+			"Only Rita can comfort the hearts of the company employees who work overtime. Ugh. ......"
+		],
+		[
+			"speaker",
+			204927
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				true
+			],
+			[
+				754,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720818,
+			null,
+			"没事的，这位客人，您已经很努力了。",
+			"大丈夫ですよ。お客様は十分頑張っていらっしゃいますから。",
+			"괜찮아요. 고객님은 충분히 열심히 하고 계시니까.",
+			null,
+			null,
+			"It's okay, this guest, you've worked very hard.",
+			"Don't worry, the customers are doing well enough."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				false
+			],
+			[
+				754,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720819,
+			null,
+			"（进店）呃……你们这反差究竟是怎么回事？",
+			"（店に入る）えっ……あなたたち、これは一体どういうことなの？",
+			"(가게에 들어가며) 어…… 너희들, 이건 대체 무슨 상황이야?",
+			null,
+			null,
+			"(Enter the store) Uh ...... What is this contrast you guys?",
+			"(Entering the store) What ...... you guys, what the heck is that gap all about?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				754,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720820,
+			null,
+			"（灌酒）就是啊！",
+			"（酒を注ぐ）まったく！",
+			"(술을 따르며) 정말!",
+			null,
+			null,
+			"(Pouring wine) That's right!",
+			"(Pouring sake) Not at all!"
+		],
+		[
+			"speaker",
+			204927
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				true
+			],
+			[
+				754,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720821,
+			null,
+			"知心大姐姐属性也很受男性欢迎，别灰心，姬子小姐。",
+			"気心の知れたお姉さん属性も男性受けはいいですよ。諦めないでください、姫子様。",
+			"마음이 잘 통하는 누나 속성도 남자들에게 인기 좋아요. 포기하지 마세요, 히메코様.",
+			null,
+			null,
+			"Don't be discouraged, Himeko-san, as the big sister attribute is also very popular with men.",
+			"The attribute of a good-natured older sister is also well received by men. Don't give up, Himeko-sama."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				754,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720822,
+			null,
+			"只会谄媚服从的女人，才是最容易被抛弃的那个，丽塔！",
+			"言いなりになる女こそ一番捨てられやすいのよ、リタ！",
+			"말대로만 하는 여자가 가장 쉽게 버려지는 거야, 리타!",
+			null,
+			null,
+			"The woman who only fawns and obeys is the one most likely to be abandoned, Rita!",
+			"Women who do as they are told are the ones most likely to be discarded, Rita!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				0,
+				false
+			],
+			[
+				754,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720823,
+			null,
+			"（坐在中间）你们这火药味又是怎么回事……",
+			"（中央に座りながら）この火花が散っている感じは一体どういうことなの……。",
+			"(가운데에 앉아서) 이 불꽃이 튀는 느낌은 대체 무슨 상황이지…….",
+			null,
+			null,
+			"(sitting in the middle) What's with this fireworks smell you guys have ......",
+			"(Sitting in the center) What is this sparking feeling ...... about?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				754,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720824,
+			null,
+			"（拉住）不要靠近她，小妹妹，那是个坏女人！",
+			"（引っ張る）その女に近づいちゃダメ、お嬢ちゃん。そいつは悪い女なの！",
+			"(잡아당기며) 그 여자에게 가까이 가면 안 돼, 아가씨. 그 녀석은 나쁜 여자야!",
+			null,
+			null,
+			"(pulling back) Don't go near her, little sister, that's a bad woman!",
+			"(Pulling) Stay away from her, girl. She's a bad girl!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				true
+			],
+			[
+				415,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720825,
+			null,
+			"虽然你叫我小妹妹我很开心，可我是德丽莎啊！",
+			"お嬢ちゃんって呼んでくれるのはうれしいけど、あたくしはテレサよ！",
+			"아가씨라고 불러주는 건 기쁘지만, 나는 테레사야!",
+			null,
+			null,
+			"Although I'm happy that you call me little sister, I'm Theresa!",
+			"It's nice of you to call me \"little girl,\" but I'm Teresa!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				415,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720826,
+			null,
+			"（醉态）德丽莎……",
+			"（酔っぱらって）テレサ……。",
+			"(취한 상태로) 테레사…….",
+			null,
+			null,
+			"(Drunkenness) Theresa ......",
+			"(Drunkenly) Teresa ......."
+		],
+		[
+			"msg",
+			720827,
+			null,
+			"（醉态）德丽莎小妹妹！",
+			"（酔っぱらって）テレサお嬢ちゃん！",
+			"(취한 채로) 테레사 아가씨!",
+			null,
+			null,
+			"(Drunkenness) Little sister Theresa!",
+			"(Drunkenly) Teresa, sweetheart!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				true
+			],
+			[
+				415,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720828,
+			null,
+			"再叫一次！",
+			"えっ……もう1回呼んで！",
+			"엣…… 한 번 더 불러줘!",
+			null,
+			null,
+			"Call again!",
+			"Call me again!"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				415,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720829,
+			null,
+			"客人离开后，德丽莎向姬子交代了此行的目的——",
+			"客が帰った後、テレサは姫子に今回の旅の目的を話した——",
+			"손님이 떠난 후, 테레사는 히메코에게 이번 여행의 목적을 말했다——",
+			null,
+			null,
+			"After the guests left, Theresa explained to Himeko the purpose of the trip -",
+			"After the guests left, Teresa told Himeko about the purpose of this trip -- to"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				415,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720830,
+			null,
+			"我没什么目的啦，只不过聊些旧事罢了。",
+			"特に目的なんてないわ。ただ昔話がしたかっただけ。",
+			"특별한 목적 같은 건 없어. 그냥 옛날 이야기를 하고 싶었을 뿐.",
+			null,
+			null,
+			"I don't have a purpose, just talking about old stuff.",
+			"I don't really have a purpose. I just wanted to talk about the old days."
+		],
+		[
+			"bgm",
+			129
+		],
+		[
+			"msg",
+			720831,
+			null,
+			"你还记得黛尔塔吗？",
+			"デルタのことを覚えてる？",
+			"델타 기억나?",
+			null,
+			null,
+			"Do you remember Delta?",
+			"Remember Delta?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				415,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720832,
+			null,
+			"当然记得，为什么事到如今……",
+			"もちろん。どうして今さら……。",
+			"물론이지. 왜 갑자기 지금 와서…….",
+			null,
+			null,
+			"Of course I remember, why things have come to ......",
+			"Of course. Why now? ......."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				true
+			],
+			[
+				415,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720833,
+			null,
+			"不是什么大事啦，别那么严肃。",
+			"大したことじゃないの。そんな真剣な顔しないで。",
+			"대단한 일도 아니야. 그렇게 진지한 표정 짓지 말아줘.",
+			null,
+			null,
+			"It's not a big deal, don't be so serious.",
+			"It's no big deal. Don't look so serious."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				415,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720834,
+			null,
+			"在全球崩坏危机期间，黛尔塔完全没有苏醒。",
+			"世界崩壊の危機の間、デルタはまったく目覚めなかった。",
+			"세계 붕괴의 위기 동안, 델타는 전혀 깨어나지 않았어.",
+			null,
+			null,
+			"During the Global Collapse Crisis, Delta did not awaken at all.",
+			"During the crisis of world collapse, Delta did not wake up at all."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			720835,
+			null,
+			"直到事后人合联整理天命资产，才发现了在天命人工岛完全静默的黛尔塔——",
+			"危機の後、人類契約連盟が天命の資産を整理する中で、初めて天命の人工島で完全に沈黙を続けるデルタが発見された——",
+			"위기가 지난 후, 인간 계약 연맹이 천명의 자산을 정리하는 과정에서, 처음으로 천명의 인공섬에서 완전히 침묵을 지키고 있는 델타가 발견되었다——",
+			null,
+			null,
+			"It was not until afterwards that the United Federation of Humanity sorted out the assets of Heaven's Mandate and discovered Delta, which was completely silent on the artificial island of Heaven's Mandate -",
+			"In the aftermath of the crisis, as the Human Contracting Alliance sorted through the assets of Tenmei, for the first time a delta was discovered on the man-made island of Tenmei that remained completely silent -- the delta."
+		],
+		[
+			"msg",
+			720836,
+			null,
+			"不会活动，没有战斗意志，",
+			"活動することもなく、戦闘の意志もない。",
+			"활동하지도 않고, 전투의 의지도 없이.",
+			null,
+			null,
+			"Will not move, no will to fight.",
+			"No activity, no will to fight."
+		],
+		[
+			"msg",
+			720837,
+			null,
+			"就连来自辉煌盟约号的激活信号，也没能令她苏醒。",
+			"輝きの盟約から送られたアクティベート信号ですら、彼女を目覚めさせることはできなかった。",
+			"빛의 맹약에서 보낸 활성화 신호조차 그녀를 깨울 수 없었다.",
+			null,
+			null,
+			"Even the activation signal from the Brilliant Covenant failed to revive her.",
+			"Not even the activation signal sent by the Pact of Brilliance could wake her up."
+		],
+		[
+			"msg",
+			720838,
+			null,
+			"仿佛一件物品。",
+			"まるで物であるかのように。",
+			"마치 물건인 양.",
+			null,
+			null,
+			"As if it were an object.",
+			"As if it were a thing."
+		],
+		[
+			"msg",
+			720839,
+			null,
+			"因为所有的异化机构都失去了活性，黛尔塔也停止进化了，甚至因为崩坏能的断供，开始渐渐衰老。即便如此，她还是会对微弱的崩坏能变化产生反应。",
+			"すべての異化機構が無効になったため、デルタも進化を停止し、さらには崩壊エネルギーの供給が断たれたため、徐々に老化を始めた。それでも、彼女はまだ微弱な崩壊エネルギーの変化に対して反応している。",
+			"모든 이화 기구가 무효화되면서 델타도 진화를 멈추고, 더 나아가 붕괴 에너지 공급이 끊기자 서서히 노화하기 시작했다. 그럼에도 그녀는 아직 미약한 붕괴 에너지 변화에 반응하고 있다.",
+			null,
+			null,
+			"Because all the alienation bodies had lost their activity, Delta also stopped evolving and even began to gradually age because of the disruption of the supply of disintegration energy. Even so, she still reacts to the weak changes of disintegration energy.",
+			"Since all mutation mechanisms were disabled, Delta also stopped evolving and, moreover, began to age slowly because her supply of decay energy was cut off. Yet she is still responsive to the faintest changes in decay energy."
+		],
+		[
+			"msg",
+			720840,
+			null,
+			"目前的她，只相当于一个精密的崩坏危机检测器。",
+			"現在の彼女は、精密な崩壊危機検出器にすぎない。",
+			"현재의 그녀는 정밀한 붕괴 위기 감지기에 불과하다.",
+			null,
+			null,
+			"At present, she is only equivalent to a sophisticated collapse crisis detector.",
+			"Today she is little more than a precision collapse crisis detector."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				415,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720841,
+			null,
+			"经历过太虚战线的战斗，再结合那些去了月球的孩子们的描述，",
+			"太虚戦線の戦闘、そして月に行った子たちの話を組み合わせて考えると、",
+			"태허 전선의 전투, 그리고 달에 갔던 아이들의 이야기를 종합해 보면,",
+			null,
+			null,
+			"Having experienced the battles on the Taihoku front, combined with the descriptions of the children who had gone to the moon",
+			"The combination of the battle of the Taisho front and the story of the children who went to the moon is a good idea,"
+		],
+		[
+			"msg",
+			720842,
+			null,
+			"意志统括者可以控制律者，为己所用，",
+			"意志の統括者は律者を制御し、自分のために使える。",
+			"의지의 통솔자는 율자를 제어해 자신의 뜻대로 쓸 수 있다.",
+			null,
+			null,
+			"The one who has the will can control the law and use it for himself.",
+			"The Supervisor of the Will controls the Ruler and can use him for his own good."
+		],
+		[
+			"msg",
+			720843,
+			null,
+			"但这种控制并非不可反抗。",
+			"ただし、その制御は抵抗できないものではないようね。",
+			"다만 그 제어는 저항할 수 없는 건 아닌 모양이네.",
+			null,
+			null,
+			"But this control is not irresistible.",
+			"However, that control doesn't seem irresistible."
+		],
+		[
+			"msg",
+			720844,
+			null,
+			"我有一个猜测——",
+			"そこで推測したの——",
+			"그래서 추측한 거——",
+			null,
+			null,
+			"I have a guess -",
+			"So I guessed--"
+		],
+		[
+			"msg",
+			720845,
+			null,
+			"黛尔塔生前，是一名无比坚定的女武神战士。",
+			"生前のデルタは、非常に意志の固い戦乙女だった。",
+			"생전의 델타는 매우 의지가 강한 발키리였다.",
+			null,
+			null,
+			"During her lifetime, Delta was an incredibly determined Valkyrie warrior.",
+			"In life, Delta was a very strong-willed Valkyrie."
+		],
+		[
+			"msg",
+			720846,
+			null,
+			"她做出了属于自己的反抗。",
+			"彼女は彼女なりに抵抗したのよ。",
+			"그녀는 그녀 나름대로 저항했던 거야.",
+			null,
+			null,
+			"She made a rebellion of her own.",
+			"She resisted in her own way."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				415,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720847,
+			null,
+			"在没有崩坏的现在，她一定也解脱了。",
+			"崩壊がなくなった今、彼女もきっと解放されたでしょうね。",
+			"붕괴가 사라진 지금, 그녀도 분명 해방되었겠죠.",
+			null,
+			null,
+			"In the present without the collapse, she must have been relieved as well.",
+			"Now that the collapse is gone, I'm sure she is liberated."
+		],
+		[
+			"msg",
+			720848,
+			null,
+			"你可以安息了，黛尔塔……",
+			"安らかに眠って、デルタ……。",
+			"편히 쉬어요, 델타……",
+			null,
+			null,
+			"You can rest in peace, Delta ......",
+			"Rest in peace, Delta ......."
+		],
+		[
+			"msg",
+			720849,
+			null,
+			"不过我很意外，我以为你再也不关注“崩坏”相关的事情了。",
+			"でも意外ね。あなたはもう「崩壊」に関係することに関心を持たないと思っていたわ。",
+			"하지만 의외네요. 당신은 이미 「붕괴」와 관련된 일엔 관심이 없을 줄 알았는데.",
+			null,
+			null,
+			"I'm surprised, though, I thought you weren't paying attention to Crash-related things anymore.",
+			"But I'm surprised. I would have thought you would no longer be interested in anything having to do with \"disintegration.\""
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				true
+			],
+			[
+				415,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			720850,
+			null,
+			"可能这就是爱操心的人吧。",
+			"心配性なのかもしれないわね。",
+			"걱정이 많은 성격인가 보네요.",
+			null,
+			null,
+			"Maybe this is the one who loves to worry.",
+			"Maybe I'm just a worrier."
+		],
+		[
+			"msg",
+			720851,
+			null,
+			"就算崩坏不存在了，崩坏能还是存在。",
+			"崩壊は存在しなくなっても、崩壊エネルギーはまだ存在している。",
+			"붕괴는 사라졌지만, 붕괴 에너지는 여전히 존재해요.",
+			null,
+			null,
+			"Even if the collapse does not exist anymore, the collapse energy still exists.",
+			"The collapse may have ceased to exist, but the collapse energy still exists."
+		],
+		[
+			"msg",
+			720852,
+			null,
+			"不论有多少争议，对这种能源进行开发和利用，肯定是未来的大趋势。",
+			"どれだけの論争が起ころうと、このエネルギーの開発と利用は、きっと将来の大きな趨勢となるはずよ。",
+			"얼마나 많은 논쟁이 일어나든, 이 에너지의 개발과 이용은 분명 미래의 큰 흐름이 될 거예요.",
+			null,
+			null,
+			"Regardless of the controversy, the development and utilization of this energy source is certainly a major trend for the future.",
+			"Regardless of the controversy, the development and use of this energy is sure to be a major trend in the future."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				415,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			720853,
+			null,
+			"那也是很久以后的事情了。",
+			"それでもずいぶん先のことでしょう。",
+			"그래도 아직 한참 먼 일이겠죠.",
+			null,
+			null,
+			"That was also a long time ago.",
+			"Even so, it will be a long way off."
+		],
+		[
+			"msg",
+			720854,
+			null,
+			"现在我们要享受生活，再来一杯！",
+			"今は人生を楽しまないとね。マスター、もう1杯！",
+			"지금은 인생을 즐겨야 해요. 마스터, 한 잔 더!",
+			null,
+			null,
+			"Now let's enjoy life and have another drink!",
+			"Now I have to enjoy life. One more drink!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				415,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"msg",
+			720856,
+			null,
+			"崩坏被消灭，这个世界变得更好了？",
+			"崩壊が消滅し、この世界はよくなった？",
+			"붕괴가 사라지고, 이 세상은 나아졌나?",
+			null,
+			null,
+			"Avalanche was wiped out and the world became a better place?",
+			"Collapse has disappeared and this world is better off?"
+		],
+		[
+			"msg",
+			720857,
+			null,
+			"至少，这个世界摆脱了被毁灭的危机，",
+			"少なくとも、この世界は滅亡の危機から抜け出せた。",
+			"적어도 이 세계는 멸망의 위기에서 벗어났어.",
+			null,
+			null,
+			"At least, the world is free from the crisis of being destroyed.",
+			"At least this world is out of the danger of extinction."
+		],
+		[
+			"msg",
+			720858,
+			null,
+			"名为“过去”的命运已被超越。",
+			"「過去」という運命を乗り越えた。",
+			"「과거」라는 운명을 극복했다.",
+			null,
+			null,
+			"The fate called \"past\" has been transcended.",
+			"He overcame the fate of \"the past.\""
+		],
+		[
+			"msg",
+			720859,
+			null,
+			"然后，“我们终究要回到生活中去”，",
+			"そして、「最終的には自分の人生に戻らなければならない」",
+			"그리고, 「결국에는 자신의 인생으로 돌아가야 했다」",
+			null,
+			null,
+			"Then, \"we have to go back to life eventually,\"",
+			"And, \"I have to eventually get back to my life.\""
+		],
+		[
+			"msg",
+			720860,
+			null,
+			"因此少女们踏上各自的归途。",
+			"そのため、少女たちはそれぞれの帰路に就いた。",
+			"그래서 소녀들은 각자의 귀로에 올랐다.",
+			null,
+			null,
+			"So the girls set out on their respective journeys.",
+			"Therefore, the girls made their own way home."
+		],
+		[
+			"msg",
+			720861,
+			null,
+			"在途中，在未来，依然会有各种各样的经历和体验，",
+			"その過程や未来においても、まださまざまな経験や体験が待ち受けているだろう。",
+			"그 과정이나 미래에서도 여전히 다양한 경험과 체험이 기다리고 있을 것이다.",
+			null,
+			null,
+			"On the way, in the future, there will still be a variety of experiences and experiences.",
+			"Along the way and in the future, there will still be many experiences and experiences awaiting us."
+		],
+		[
+			"msg",
+			720862,
+			null,
+			"有的愉快，有的不愉快，",
+			"楽しいものもあれば、不愉快なものもある。",
+			"즐거운 것도 있고, 불쾌한 것도 있다.",
+			null,
+			null,
+			"Some pleasant, some unpleasant.",
+			"Some are pleasant, some are unpleasant."
+		],
+		[
+			"msg",
+			720863,
+			null,
+			"这就是所谓的“常态”。",
+			"それが「普通」というものだ。",
+			"그것이 「평범」이라는 것이다.",
+			null,
+			null,
+			"This is the so-called \"normal\".",
+			"That is what we call the \"normal state of affairs."
+		],
+		[
+			"msg",
+			720864,
+			null,
+			"但没关系，",
+			"でも大丈夫。",
+			"하지만 괜찮아.",
+			null,
+			null,
+			"But it's okay.",
+			"But it's okay."
+		],
+		[
+			"msg",
+			720865,
+			null,
+			"并非所有事情，都必须一个人独自面对。",
+			"すべてのことに対して1人で向き合う必要はない。",
+			"모든 일에 혼자 맞설 필요는 없다.",
+			null,
+			null,
+			"Not everything has to be faced by one person alone.",
+			"There is no need to face everything alone."
+		],
+		[
+			"msg",
+			720866,
+			null,
+			"因为普遍的联系存在，",
+			"普遍的なつながりが存在しているから、",
+			"보편적인 연결이 존재하기 때문에,",
+			null,
+			null,
+			"Because of the existence of universal connections, the",
+			"Because a universal connection exists,"
+		],
+		[
+			"msg",
+			720867,
+			null,
+			"每个人都是这个广阔世界的一部分。",
+			"誰もがこの広大な世界の一部になっている。",
+			"누구나 이 광활한 세계의 일부가 되어 있다.",
+			null,
+			null,
+			"Everyone is a part of this vast world.",
+			"Everyone is part of this vast world."
+		],
+		[
+			"msg",
+			720868,
+			null,
+			"一些故事已经落下帷幕，",
+			"いくつかの物語は幕を下ろした。",
+			"어떤 이야기는 막을 내렸다.",
+			null,
+			null,
+			"Some stories have come down to the curtain of",
+			"Some stories have come to an end."
+		],
+		[
+			"msg",
+			720869,
+			null,
+			"而另一些故事即将启程。",
+			"しかし、別の物語が始まろうとしている。",
+			"하지만 또 다른 이야기가 시작되려 한다.",
+			null,
+			null,
+			"And some other stories are about to depart.",
+			"But another story is about to begin."
+		],
+		[
+			"msg",
+			720870,
+			null,
+			"即便知道不存在永恒——",
+			"永遠は存在しないと分かっていても——",
+			"영원은 존재하지 않는다는 걸 알면서도——",
+			null,
+			null,
+			"Even knowing that there is no eternity -",
+			"Even though we know that eternity doesn't exist--"
+		],
+		[
+			"msg",
+			720871,
+			null,
+			"仍愿每个人都能找到属于自己的，灵魂永远安宁的地方。",
+			"誰もが自分だけの、魂が永遠に安らげる場所を見つけられることを祈っている。",
+			"모두가 자신만의, 영혼이 영원히 안식할 수 있는 장소를 찾을 수 있기를 바라고 있다.",
+			null,
+			null,
+			"May each person find his or her own, eternal peace of soul.",
+			"I pray that everyone can find their own, unique place where their souls can rest forever."
+		],
+		[
+			"msg",
+			720872,
+			null,
+			"再见，崩坏。",
+			"さようなら、崩壊。",
+			"안녕, 붕괴.",
+			null,
+			null,
+			"Goodbye, Crash.",
+			"Goodbye, collapse."
+		],
+		[
+			"bg",
+			"R15ED"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		]
+	]
+}

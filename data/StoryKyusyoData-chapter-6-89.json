@@ -1,0 +1,525 @@
+{
+	"1347": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308412,
+			"Woo…it's still not the end……",
+			"呜…还没到出口么……",
+			"うぅっ……出口はまだなの……？",
+			"우으…… 출구는 아직인 거야……?",
+			"Ugh ...... is there an exit yet ......?",
+			null,
+			"Oooh...haven't reached the exit yet? ......",
+			"Ugh ...... is there an exit yet ......?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"msg",
+			308413,
+			"Hey! Faster!",
+			"喂！别磨磨蹭蹭的！",
+			"おいっ！グズグズするな！",
+			"야! 빨리 안 와!",
+			"Hey! Stop your whining!",
+			null,
+			"Hey! Don't dawdle!",
+			"Hey! Stop your whining!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			308414,
+			"Ah…ok, let's get faster.",
+			"哎…真是不省心的家伙，我们也加快脚步吧。",
+			"はぁ、油断ならないやつなんだから。急ごう。",
+			"하아, 방심할 수 없는 녀석이니까. 서둘러.",
+			"Ah, fine, fine... Let's hurry up...",
+			null,
+			"Hey ... really unconscious guys, let's also speed up the pace.",
+			"Huh, he's a tricky one. Let's hurry up."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			308415,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			308416,
+			"Woo…so bright…are we back to Nagazora?",
+			"唔…好耀眼…我们是回到长空市了么？",
+			"っ……眩しい……長空市に戻ってきたの？",
+			"…… 눈부셔…… 장공시로 돌아온 거야?",
+			null,
+			null,
+			"Well...how dazzling...are we back in Long Sky City?",
+			"I'm ...... dazzled...... back to the long sky city?"
+		],
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10178"
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308417,
+			"Woo…here it's……St. Freya HS!?",
+			"唔…这里是……圣芙蕾雅学园！？",
+			"えっと……ここって……まさか聖フレイヤ学園！？",
+			"어…… 여긴…… 설마 세인트 프레야 학원！？",
+			"Let's see...... This place is...... St. Freya Academy!?",
+			null,
+			"Well...this is ...... St. Freya's Academy!",
+			"Let's see, ...... this place is ...... no way St. Freya Academy!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308418,
+			"Isn't it the place we fight with Schicsial…why we are here?",
+			"这不是之前和天命干架的那个地方么…怎么会跑到这里来了？",
+			"この前、天命と戦ったところじゃんか……何でここに通じてんだ？",
+			"이전에 천명과 싸웠던 곳이잖아…… 왜 여기로 연결된 거야？",
+			"Isn't this the place where we fought with Schicksal the other day? How'd it end up here?",
+			null,
+			"Isn't this the same place where we had a fight with Heavenly Fate before...how did it end up here?",
+			"You just fought a heavenly life the other day. ...... How did you get through here?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308419,
+			"The fault links to the sea hundreds miles from the Fast East area…incredible.",
+			"没想到空间的断层居然链接到了极东地区数百公里外的海面上…实在是太不可思议了。",
+			"あの空間断層が、極東エリアから数百キロも離れた地点に繋がってるなんて……不思議ね。",
+			"저 공간 단층이 극동 지역에서 수백 킬로미터나 떨어진 지점에 연결되어 있다니…… 신기하네.",
+			null,
+			null,
+			"I didn't expect the fault in space to be linked to the sea hundreds of kilometers away in the Far East...it was incredible.",
+			"It's ...... strange that that spatial fault is connected to a point hundreds of kilometers away from the Far East area."
+		],
+		[
+			"msg",
+			308420,
+			"Bronya said before…the final war with Herrscher was here five years ago…so this is the battlefield.",
+			"布洛妮娅之前说过…五年前大崩坏时与律者的最后一战是在圣芙蕾雅学园打响的…也就是说这里就是当时的战场么。",
+			"5年前、律者との最後の戦いは聖フレイヤ学園で起きたってブローニャが言ってたわ……つまり、ここがその戦場。",
+			"5년 전, 율자와의 마지막 전투는 세인트 프레야 학원에서 일어났다고 브로냐가 말했어…… 즉, 여기가 그 전장.",
+			"Bronya told me that the last battle with the Herrschers happened at St. Freya's Academy five years ago... This must be that place.",
+			null,
+			"The last battle with the Herrscher during the Great Collapse five years ago was fought at St. Freya's Academy...that means this was the battlefield at that time?",
+			"Five years ago, Bronya told me that the last battle with the scribes happened at St. Freya's Academy. ...... I mean, this is the battlefield."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308421,
+			"No wonder it's all messy…hey! Seaweed head! Is the thing you look for here?",
+			"难怪到处都破破烂烂的…喂！海藻头！你要找的东西真的在这里么？",
+			"どうりでボロボロだな……なぁ、ワカメ頭！探し物って、本当にここにあるのか？",
+			"그래서 망가져 있구나…… 야, 와카메 머리！ 찾는 물건이 정말 여기에 있는 거야？",
+			"No wonder this place looks like a wreck...... Hey, Seaweed head! Is what you're looking for really here?",
+			null,
+			"No wonder it's in tatters everywhere... Hey! Seaweed head! Is it true that what you're looking for is here?",
+			"No wonder you're a wreck. ...... Hey, wakame-head! Is what you're looking for really here?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308422,
+			"It must be…the Honkai energy is very thick here, only Herrscher core can release such strong Honkai energy.",
+			"不会错的…这里的崩坏能浓度很高，也就只有律者核心可以散发出这么强烈的崩坏能了。",
+			"間違いないわ……ここの崩壊エネルギーの濃度、かなり高いもの。ここまで強烈な崩壊エネルギーを出せるのは、律者コアくらいよ。",
+			"틀림없어…… 여기의 붕괴 에너지 농도, 상당히 높아. 여기까지 강렬한 붕괴 에너지를 낼 수 있는 건 율자 코어 정도밖에 없어.",
+			null,
+			null,
+			"There is no mistake...the concentration of disintegration energy here is very high, and only the Ruler Core can give off such strong disintegration energy.",
+			"There's no doubt about it. ...... The concentration of decay energy here, is quite high. Only a ritotron core can produce such intense decay energy."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				67,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308423,
+			"Well, it's easy to say, the place is huge, how can we find such a small Herrscher core!",
+			"切，你说的轻巧，这地方这么大， 律者核心那么点大的东西哪有那么容易找到！",
+			"チッ、そう言うのは簡単だけどよぉ、律者コアをこんな広い場所から探し出すなんて、簡単じゃないぞ？",
+			"쳇, 그렇게 말하는 건 쉽지만 말야, 율자 코어를 이렇게 넓은 곳에서 찾아내는 건 쉽지 않다고！",
+			null,
+			null,
+			"Cut, you say lightly, this place is so big, the Herrscher core so big things which are so easy to find!",
+			"It's easy for you to say, but it's not so easy to find the core of the law in such a big place, is it?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				67,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308424,
+			"Don't worry, if this is constructed as same as before…then you must be very familiar with where the Herrscher core is……",
+			"不用着急，如果这里的一切也是依照历史的格局构建的话…那么律者核心所在的位置一定是你最熟悉不过的东西了……",
+			"焦る必要はないわ。ここもこの世界の歴史通りに構築されているなら、律者コアは、きっとあなたもよく知ってる場所にあるはず。",
+			"서둘 필요 없어. 여기도 이 세계의 역사대로 구축되어 있다면, 율자 코어는 분명 네가 잘 아는 장소에 있을 거야.",
+			null,
+			null,
+			"No need to rush, if everything here is also built in accordance with the historical pattern ... then the location of the Ruler's core must be something you are most familiar with ......",
+			"No need to rush. If this place is also built according to the history of this world, the Ruler's Core must be in a place you know very well."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				67,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308425,
+			"How familiar! Make it clear!",
+			"什么熟不熟悉的！能不能说明白一些！",
+			"あぁん？どこだよ、それ！もっとわかりやすく言えって！！",
+			"아앙? 어딘데, 그거! 더 알아듣기 쉽게 말하라고！！",
+			null,
+			null,
+			"What is familiar or unfamiliar! Can you say something clearer!",
+			"Uh-huh? Where's that? You're supposed to be more specific!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				67,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308426,
+			"It shouldn't be that difficult…wait! There! Sin! Look at the church!",
+			"如果是在这个学园中的话应该不是那么难找…有了！就在那边！杏！快看前面的大教堂！",
+			"この学園内にあるなら、そう難しくないってこと……ほら、あそこ！シン、目の前にある大聖堂を見てみなさい！",
+			"이 학원 안에 있다면 그렇게 어렵지 않다는 거…… 자, 저기！ 신, 눈앞에 있는 대성당을 봐봐！",
+			null,
+			null,
+			"If it's in this school it shouldn't be that hard to find...there it is! It's right over there! Apricot! Look at the cathedral up ahead!",
+			"If it's in this academy, it means it's not so hard to find ...... Look, there it is! Shin, look at the cathedral right in front of you!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				67,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			308427,
+			"What is shining……",
+			"什么东西一惊一乍的……",
+			"なんだなんだ？何があるってんだよ……。",
+			"뭐야 뭐야? 뭐가 있다는 거야…….",
+			null,
+			null,
+			"What a shock ......",
+			"What the hell is that? What the hell is that? ......."
+		],
+		[
+			"bg",
+			"CG10175"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308428,
+			"Eh! This is! Moonlight Throne!? Why it's here!",
+			"呃！这个是！月光王座！？为什么会在这里！",
+			"はぁっ！？これって月光王座じゃんか！何でこんなところに！？",
+			"하아!? 이게 월광왕좌잖아! 왜 이런 곳에!?",
+			"Huh! This is the Moonlight Throne! Why is it here!",
+			null,
+			"Ugh! This one is! The Moonlight Throne! Why is it here!",
+			"Huh! This is the Moonlight Throne! Why is it here!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			308429,
+			"Right…Bronya is right, there is a big fight between Schicsial and Anti-Entropy, and the Moonlight Therone fell in the school…like this.",
+			"果然…布洛妮娅说的没错，看来这座圣芙蕾雅学园中的确发生过一场天命与逆熵的大战，在这场战斗中月光王座坠落在了学园中…变成了我们现在看到的样子。",
+			"やっぱりね……ブローニャの言った通り、この聖フレイヤ学園では確かに天命とネゲントロピーの戦いがあったんだわ。あの戦闘で月光王座は学園に墜落して……そして、今、私たちの目の前にある通りの状態になった。",
+			"역시……브로냐가 말한 대로, 이 세인트 프레야 학원에서는 확실히 천명과 네겐트로피의 싸움이 있었던 거야. 그 전투에서 월광왕좌는 학원에 추락해서…… 그리고 지금, 우리 눈앞에 있는 이런 상태가 된 거네.",
+			null,
+			null,
+			"Sure enough...Bronya was right, it seems that a great battle between the Mandate of Heaven and the reverse entropy did take place in this St. Freya's school, in which the Moonlight Throne fell in the school...and became what we see now.",
+			"I knew it,...... Bronya was right, there was indeed a battle between the Heavenly Life and the Negentropy here at St. Freya's Academy. The Moonlight Throne crashed into the school in that battle,...... and it is now as we see it."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"msg",
+			308430,
+			"So the Herrscher core is inside of it!",
+			"这么说的话律者核心就在月光王座中么！",
+			"っていうことは、律者コアはあの月光王座の中にあんのか？",
+			"그 말은 즉, 율자 코어는 저 월광왕좌 안에 있는 거냐?",
+			null,
+			null,
+			"So the Ruler's core is in the Moonlight Throne?",
+			"Does that mean that the Riten Core is in that Moonlight Throne?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			308431,
+			"Yes…more precisely, it's the engine of Moonlight Throne, the energy of this ship is from Herrscher core.",
+			"没错…准确的说是月光王座的动力炉，因为这艘船的动力来源就是律者核心。",
+			"そうね……正確に言うと、月光王座の動力炉にあるはずよ。あの船の動力が律者コアだからね。",
+			"그래…… 정확히 말하자면, 월광왕좌의 동력로에 있을 거야. 저 배의 동력이 율자 코어니까 말이지.",
+			null,
+			null,
+			"That's right...the power furnace of the Moonlight Throne to be exact, because the source of power for this ship is the Ruler Core.",
+			"Yes, ...... to be exact, it should be in the power reactor of the Moonlight Throne. That ship is powered by the Riten Core."
+		],
+		[
+			"msg",
+			308432,
+			"Let's go, we still need to walk for a while to that church, and we need to prepare, based on the high level of Honkai energy here, there must be lots of Honkai creatures……",
+			"走吧，从这里走到那个大教堂也有很长一段距离，我们需要做好万全的准备，以这个空间的崩坏能浓度来说，一定寄宿着强大的崩坏生物……",
+			"行こう。ここから大聖堂まで結構距離があるわ、万全な準備をしないと。この空間の崩壊エネルギー濃度からして、きっと強力な崩壊生物もいるわ……。",
+			"가자. 여기서 대성당까지 꽤 거리가 있어, 만반의 준비를 해야 해. 이 공간의 붕괴 에너지 농도로 봐선, 분명 강력한 붕괴 생물도 있을 거야......",
+			null,
+			null,
+			"Let's go, from here to that cathedral is also a long distance, we need to be prepared for anything, with the concentration of disintegration energy in this space, must be boarded with powerful disintegration creatures ......",
+			"Let's go. It's a long way from here to the cathedral, we need to be prepared. The concentration of disintegrating energy in this space must mean that there are some powerful disintegrating organisms. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"msg",
+			308433,
+			"Why, are you afraid?",
+			"怎么，害怕了么？",
+			"ん～？何だ、怖いのか？",
+			"응~? 뭐야, 무서운 거야?",
+			null,
+			null,
+			"What, are you afraid?",
+			"Hmm? What, are you scared?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			308434,
+			"Of course…but, we must not flinch.",
+			"害怕是当然的…但是，不能在这里退缩。",
+			"怖いのは当たり前よ……でも、ここで逃げるなんてできないから。",
+			"무서운 건 당연하지...... 하지만 여기서 도망칠 순 없으니까.",
+			null,
+			null,
+			"Scared, sure...but, can't back down here.",
+			"It's normal to be scared ...... but you can't just run away here."
+		]
+	]
+}

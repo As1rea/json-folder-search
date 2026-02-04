@@ -1,0 +1,1344 @@
+{
+	"1080": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305664,
+			"Hey, Seele. Hve you seen the kids?",
+			"喂！希儿！你有看到那些小鬼么！？",
+			"ゼーレ！ゼーレ！ガキたち見なかった！？",
+			"제레! 제레! 애들 못 봤어!?",
+			null,
+			null,
+			"Hey! Hill! Did you see those kids!",
+			"Seele! Seele! Have you seen the kids!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305665,
+			"Kids? You mean the children in the base?",
+			"小鬼？是指基地里的那些孩子么？",
+			"ガキ？基地内の子供たちのこと？",
+			"애들?? 기지 내 아이들 말이야?",
+			null,
+			null,
+			"Kids? Do you mean the kids at the base?",
+			"The kids? You mean the kids on the base?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305666,
+			"Who else? The caretaker said some kids went missing this morning. I searched the base, but I couldn't find them.",
+			"那还能有别人么！看护所的人说早上有几个孩子失踪了，我在基地里找了好几遍了但是都没有看到！",
+			"他にいないだろ！託児所の人が、朝から数人の子供が失踪したって言うんだ。基地の中を何度も探したけど、いなくて！",
+			"다른 데 있을 리가 없잖아! 맡아봐 주는 사람이 아침부터 몇 명의 아이들이 실종됐다고 하더라고. 기지 안을 여러 번 찾아봤지만 없어!",
+			null,
+			null,
+			"Then there can be others! The caretaker said a few kids were missing this morning, and I searched the base several times but didn't see any!",
+			"You can't find anyone else! The day care people tell me that a few kids have gone missing since this morning. I've searched the whole base a dozen times, but they're gone!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305667,
+			"It'd be bad if they went outside of the base. They shouldn't be far, let's go find them.",
+			"如果跑到基地外面就糟糕了…走吧！孩子们应该走不远，我们赶紧追上去！",
+			"基地の外に行っていたらまずいわね……探しに行きましょう！子供たちの足なら、そう遠くへは行っていないはず。急げば追いつくわ！",
+			"기지 밖으로 나갔다면 곤란해지겠지... 찾으러 가자! 아이들의 발로는 그렇게 멀리 가지 않았을 거야. 서두르면 따라잡을 수 있을 거야!",
+			null,
+			null,
+			"It would be bad if they ran outside the base... Let's go! The kids shouldn't be far away, let's hurry up and catch up!",
+			"It's not good if they've been outside the base. ...... Let's go find them! With the kids' feet, they can't have gone very far. If we hurry, we can catch up!"
+		]
+	],
+	"1081": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305668,
+			"It's a vast area outside of the base. We need a clear direction. Ask the patrol team.",
+			"基地外的区域很大，我们得确定明确的方向才行，找巡逻的队员问一下吧。",
+			"外のエリアは広すぎるわ。まずは明確な方向を特定しないと。パトロールの隊員に聞いてみましょう。",
+			"밖의 구역은 너무 넓어. 먼저 명확한 방향을 특정하지 않으면. 파트로울 대원들에게 물어보자.",
+			null,
+			null,
+			"The area outside the base is large, we have to determine a clear direction to do so, find the patrol members and ask.",
+			"The area out there is too big. We need to identify a clear direction first. Let's ask the patrolmen."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305669,
+			"Hey, tell where the kids are!",
+			"喂！告诉我！孩子们去哪了！！",
+			"なぁ！子どもたちがどこに行ったか見てないか！？",
+			"야! 애들이 어디로 갔는지 못 봤어!?",
+			null,
+			null,
+			"Hey! Tell me! Where did the kids go!!!",
+			"Hey! Have you seen where the children went!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			305670,
+			"Well...",
+			"呃…那个…",
+			"い、いきなりどうしたの！？",
+			"갑, 갑자기 왜 그래!?",
+			null,
+			null,
+			"Uh...that...",
+			"What's going on all of a sudden?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305671,
+			"Calm down. Let me do the talking. I'm sorry, have you seen the children from the base getting out of here?",
+			"你冷静一下！让我来吧…抱歉，请问有没有看到基地里的孩子从这里出去。",
+			"落ち着きなさいよ！私が聞くわ……ごめんね。基地内の子供がここから出て行くのを見なかった？",
+			"진정하라고! 내가 물어볼게... 미안해. 기지 내의 아이들이 여기서 나가는 걸 못 봤어?",
+			null,
+			null,
+			"You calm down! Let me do it...Excuse me, have you seen any of the kids on the base go out of here.",
+			"Calm down! I'll ask. ...... Sorry. Did you see any of the kids on the base leave here?"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			305672,
+			"I guess I've seen some kids...",
+			"孩子们么…这么说的话之前似乎看到过有小孩子的身影……",
+			"子供たちねぇ……そう言えば小さな子の姿を見たような……。",
+			"아이들 말이야... 그렇다고 하니 작은 아이의 모습을 본 것 같은....",
+			null,
+			null,
+			"Children? ... so it seems to have seen the figure of a small child before ......",
+			"Kids hey ...... I think I saw a little kid when I said so ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305673,
+			"What! Why didn't you stop them?",
+			"你这个OO！！为什么不阻止他们！",
+			"この……！どうして止めなかったんだ！",
+			"이런...! 왜 말리지 않았어!",
+			null,
+			null,
+			"You OO!!! Why don't you stop them!",
+			"This ......! Why didn't you stop it!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			305674,
+			"I was on patrol, but I didn't see any kids, so I thought it was a mistake.",
+			"我当时有调查过，但是没发现孩子们，所以以为是看错了……",
+			"すぐ追いかけたけど、子供たちはいなかったのよ。だから見間違えたのかと思って……。",
+			"바로 쫓아갔지만, 아이들은 없었어. 그래서 잘못 본 건가 생각하고....",
+			null,
+			null,
+			"I had a survey at the time, but did not find the children, so I thought I was looking at the wrong ......",
+			"I followed them right away, but the kids weren't there. So I thought I must have looked in the wrong place. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305675,
+			"OK. Can you tell me where they went?",
+			"好了，能告诉我孩子们往哪个方向去的么。",
+			"分かった。子供たちがどっちの方へ行ったか教えてもらえない？",
+			"알겠어. 아이들이 어느 쪽으로 갔는지 알려줄 수 없어?",
+			null,
+			null,
+			"Okay, can you tell me which way the kids went.",
+			"Okay, I understand. Can you tell me which way the kids went?"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			305676,
+			"Sure.",
+			"嗯，没问题。",
+			"うん、いいわよ。",
+			"응, 좋아.",
+			null,
+			null,
+			"Well, no problem.",
+			"Yeah, okay."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305677,
+			"It's towards to theme park. I got it, let's go.",
+			"这个是游乐园的方向么……明白了，我们走，赶紧追上去！",
+			"これって遊園地の方向じゃないの……分かった、行きましょう、早く追いかけなきゃ！",
+			"이쪽은 놀이공원 방향이 아니잖아…… 알았어, 가자, 빨리 쫓아가야 해!",
+			null,
+			null,
+			"Is this the direction of the amusement park ...... understand, let's go, hurry up and catch up!",
+			"This isn't the direction of the amusement park ...... okay, let's go, we need to catch up fast!"
+		]
+	],
+	"1082": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305678,
+			"They don't seem to be here.",
+			"一路上似乎没有发现孩子们的影子呢。",
+			"ここまでの道中、子供の姿は見かけなかったわね。",
+			"여기까지 오는 길에 아이들은 보이지 않았어.",
+			null,
+			null,
+			"There seems to be no sign of the children along the way yet.",
+			"I didn't see any children on the way here."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305679,
+			"Could it be...",
+			"难道……",
+			"まさか……。",
+			"설마…….",
+			null,
+			null,
+			"Is ......",
+			"No way. ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305680,
+			"Don't think too much. There are some children's footprints at the park entrance. They must've entered the theme park.",
+			"不要多想，刚才游乐园的入口的确有孩子们的脚印，一定进到了游乐园里面。",
+			"変なこと考えないの。さっき遊園地の入口に子供たちの足跡があったわ。きっと遊園地の中にいるのよ。",
+			"이상한 생각 하지 마. 아까 놀이공원 입구에 아이들 발자국이 있었어. 분명 놀이공원 안에 있을 거야.",
+			null,
+			null,
+			"Do not think much, just now the entrance to the amusement park does have children's footprints, must have entered the amusement park inside.",
+			"Don't get any ideas. I just saw the footprints of children at the entrance of the amusement park. They must be inside the amusement park."
+		],
+		[
+			"msg",
+			305681,
+			"We should split up. That's more efficient.",
+			"我们分头找吧，这样的效率高一些。",
+			"私たち手分けして探しましょう。その方が効率がいいわ。",
+			"우리 나눠서 찾아보자. 그 편이 효율적이야.",
+			null,
+			null,
+			"Let's split up the search, it's more efficient.",
+			"Let's split up and look for them. It's more efficient."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305682,
+			"Seele, lend me your knife. If the Houkai creatures try to hurt the kids, I'll tear them apart!",
+			"希儿，把你的刀借我一下…如果那些崩坏生物敢动那些孩子，我一定把它们剁成粉！",
+			"ゼーレ、武器をひとつ貸してくれ……崩壊生物が子供たちに手出ししようってんなら、八つ裂きにしてやる！",
+			"제레, 무기를 하나 빌려줘……붕괴 생물이 아이들에게 손대려 들면, 여덟 조각 내버릴 거야!",
+			null,
+			null,
+			"Hill, lend me your knife...if those crashing creatures dare to touch those children, I will chop them into powder!",
+			"Seele, lend me one of your weapons ...... If any disintegrating creature tries to mess with my children, I'll tear them to pieces!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305683,
+			"Remember, we're not here to fight. Just find the kids.",
+			"……好吧，不过记住不要恋战，找到孩子们优先。",
+			"……分かった。でも戦うことより子供を探すことが優先なの忘れないでね。",
+			"……알겠어. 하지만 싸우는 것보다 아이를 찾는 게 우선인 거 잊지 말아요.",
+			null,
+			null,
+			"...... Okay, but remember not to get attached and find the kids first.",
+			"...... understand. But remember, the priority is to find the child, not to fight."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305684,
+			"And I'm not here to be lectured.",
+			"用不着你教我！",
+			"言われなくても分かってる！",
+			"말하지 않아도 알아!",
+			null,
+			null,
+			"I don't need you to teach me!",
+			"You don't have to tell me!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305685,
+			"What an impulsive girl. I'll stay with her. She seems a bit unstable, which is worrying.",
+			"哎…那个家伙就是容易冲动。我去追她，她现在的状态我有些放心不下。",
+			"もう……あいつすぐカッとなるんだから。あいつを追いかけましょう。今の状態じゃ安心して放っておけないわ。",
+			"정말…… 저 녀석 금방 화를 내니까. 저 녀석을 쫓아가자. 지금 상태론 안심하고 내버려 둘 수 없어.",
+			null,
+			null,
+			"Hey...that guy is just easy to be impulsive. I went after her, her current state I am a little relieved.",
+			"He's already on ...... He's so quick to lose his temper. Let's go after him. We can't leave him in peace in his current state."
+		],
+		[
+			"msg",
+			305686,
+			"Let's split up. If you find the children, inform me with a signal bomb.",
+			"我们分开行动吧，如果发现了孩子们就用信号弹联系，拜托你了。",
+			"手分けして動きましょう。もし子供たちを見つけたら信号弾で連絡する。頼んだわよ。",
+			"나눠서 움직이자꾸나. 만약 아이들을 발견하면 신호탄으로 연락해. 부탁이야.",
+			null,
+			null,
+			"Let's split up and use flares to contact the kids if we spot them, please.",
+			"Let's split up and move. If we find the kids, we'll call with a signal flare. I'm counting on you."
+		]
+	],
+	"1083": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305687,
+			"They are not here. Did they go to the castle?",
+			"这边也没有那些孩子的身影呢…难道是去了城堡里么？",
+			"こっちも子供の姿はないわね……まさか城の中？",
+			"이쪽에도 아이들 모습이 없네…… 설마 성 안에?",
+			null,
+			null,
+			"There is no sign of the children here...did they go to the castle?",
+			"No sign of the kids over here either. ...... You don't think they're in the castle?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305688,
+			"Let's get into the castle!",
+			"那我们赶紧去城堡里面！",
+			"なっ！はやく城の中を探そう！",
+			"쳇! 빨리 성 안을 찾아보자!",
+			null,
+			null,
+			"Then let's hurry inside the castle!",
+			"No! Let's get out of here and search the castle!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305689,
+			"Wait! It's dangerous there, we need to be prepared.",
+			"等一下！城堡里面太危险了！我们得准备好再进去！",
+			"待って！城の中はとても危険よ！準備をしてからじゃないと！",
+			"잠깐! 성 안은 매우 위험해! 준비를 하고 나서야지!",
+			null,
+			null,
+			"Wait a minute! It's too dangerous inside the castle! We have to be ready before we go in!",
+			"Wait! It's very dangerous in the castle! We have to be ready!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305690,
+			"The kids can't wait!",
+			"等你准备好就去给那些孩子们收尸吧！",
+			"準備なんか待ってたら、あの子たちの死体を回収することになるかもしれないんだぞ！",
+			"준비 따위 기다리고 있으면, 애들 시체를 수거하게 될지도 모른다고!",
+			null,
+			null,
+			"When you're ready, go collect the bodies of those kids!",
+			"If we wait to get ready, we might have to retrieve the bodies of those kids!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305691,
+			"Calm down.",
+			"你冷静点！",
+			"落ち着いてよ！",
+			"진정해!",
+			null,
+			null,
+			"You calm down!",
+			"Calm down!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305692,
+			"How can't I? They wouldn't have gone missing had I paid more attention.",
+			"冷静你个OO！如果我早点注意到的话就不会发生这种事情了！",
+			"何が落ち着けだ！もっと早く注意していればこんなことにならなかったのに！",
+			"뭐가 진정이야! 좀 더 일찍 주의했으면 이런 일이 안 생겼을 텐데!",
+			null,
+			null,
+			"Calm your OO! If I had noticed earlier this would not have happened!",
+			"What's the matter with you, calm down! If you had paid attention earlier, none of this would have happened!"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305693,
+			"No, it's because I gave them toys and told them about the theme park.",
+			"都是因为我给了他们玩具，告诉了他们游乐园里的事情，他们才会偷偷跑出来的！",
+			"全て……私がオモチャをあげたせいだ。あの子たちに遊園地のことを話したから、コッソリ抜け出しちゃったんだ！",
+			"모두…… 내가 장난감을 준 탓이야. 애들한테 놀이공원 이야기를 했으니까, 슬쩍 빠져나가 버린 거야!",
+			null,
+			null,
+			"It's all because I gave them toys and told them what was going on in the amusement park that they snuck out!",
+			"All because of ...... I gave them toys. I told those kids about the amusement park and they snuck out!"
+		],
+		[
+			"msg",
+			305694,
+			"It's all my fault.",
+			"这一切都是我的错！",
+			"全部、私のせいだ！！",
+			"전부, 내 탓이야!!",
+			null,
+			null,
+			"It's all my fault!",
+			"It's all my fault!!!!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				7,
+				false
+			],
+			[
+				55,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305695,
+			"Emesa...",
+			"埃米沙……",
+			"エミザ……。",
+			"에미자…….",
+			null,
+			null,
+			"Emesa ......",
+			"Emesa. ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				7,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305696,
+			"Whiz!",
+			"咻！",
+			"ピューッ！",
+			"휘유유욧!",
+			null,
+			null,
+			"Phew!",
+			"Pew!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305697,
+			"Signal bomb! They found the kids!",
+			"是信号弹！看来孩子们找到了！快跟我来！",
+			"信号弾！子供たちが見つかったようね！私と来て！",
+			"신호탄! 아이들이 발견된 모양이네! 나와 함께 가자!",
+			null,
+			null,
+			"It's a flare! Looks like the boys found it! Come on, follow me!",
+			"Signal flare! Looks like they found the kids! Come with me!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305698,
+			"Huh?",
+			"呃…诶！？",
+			"あ……え！？",
+			"아……에!?",
+			null,
+			null,
+			"Uh...eh!",
+			"Oh, ...... eh!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305699,
+			"Thank god they are not hurt. Thank you for saving them.",
+			"呼…这次总算是有惊无险，能找到孩子们真是多亏了你，干的不错哦~",
+			"ふぅ……今回はハラハラしたけど、子供たちが見つかったのはあなたのおかげよ。よくやったじゃない！",
+			"후우…… 이번에는 아슬아슬했지만, 아이들이 발견된 건 당신 덕분이야. 잘했어!",
+			null,
+			null,
+			"Phew...this time is finally a scare, can find the children really thanks to you, good job oh ~",
+			"Phew ...... I was on edge this time, but you did a great job finding the kids. You did great!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305700,
+			"I'll never let this happen again!",
+			"真是的那些小鬼居然瞒着我偷偷出去，下次要是再发生这种事我可饶不了他们！",
+			"本当にあのガキども、隠れてこっそり抜け出すなんて。今度やったらタダじゃおかん！",
+			"정말 저 꼬맹이들, 숨어서 슬쩍 빠져나오다니. 다음에 또 그러면 가만두지 않을 거야!",
+			null,
+			null,
+			"Really those kids actually sneak out without me, next time if this happens again I will not forgive them!",
+			"I can't believe those kids, sneaking out of hiding. If they do it again, they'll get away with it!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305701,
+			"You just made some of them cry. Can't you chill out a bit?",
+			"好啦，你刚才都骂哭了好几个孩子了，还没有消气么？",
+			"もういいじゃない。今さっき泣くほど叱ったのに、まだ気が済まないの？",
+			"이제 됐잖아. 방금 막 울 정도로 야단쳤는데, 아직도 속이 안 풀리는 거야?",
+			null,
+			null,
+			"Come on, you just scolded several children and cried, still not angry?",
+			"That's enough. I scolded you so hard that you cried just now, and you still don't feel better?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305702,
+			"They should know the consequences!",
+			"就应该让他们知道后果的严重才行！",
+			"あいつらには事の重大さを分からせなきゃダメだ！",
+			"저 녀석들에게는 일의 중대함을 깨우쳐줘야 해!",
+			null,
+			null,
+			"They should be made to know the seriousness of the consequences!",
+			"They need to see the gravity of the situation!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305703,
+			"There's no use blaming them. We have to let them know how dangerous the world is. But it's quite impressive that they could make their way to the theme park. I guarantee that they will be great warriors in the future.",
+			"一味地责怪也没有用啦，得让他们知道外面的危险才行。不过那些小鬼也挺能干的，居然能靠自己的力量走到游乐园，以后一定是不错的战士~",
+			"頭ごなしに怒ってもしょうがないでしょ。外がどれだけ危険か分からせてあげなきゃ。それにしても、あのちびっ子たちなかなかやるわね。自分たちの力だけで遊園地まで行くなんて。きっと立派な戦士になれるわよ～！",
+			"머리부터 발끝까지 화내봤자 소용없잖아. 밖이 얼마나 위험한지 깨닫게 해줘야지. 그렇긴 해도, 저 꼬마들 꽤 잘하는걸. 자기들 힘만으로 유원지까지 가다니. 분명 훌륭한 전사가 될 수 있을 거야~!",
+			null,
+			null,
+			"It's no use blaming them, they need to know the dangers outside. But those kids are also quite capable, can actually rely on their own strength to walk to the amusement park, the future must be a good warrior ~",
+			"You can't just get mad at him over his head. You have to let them know how dangerous it is out there. By the way, those little kids are pretty good, aren't they? They made it to the amusement park all by themselves. I'm sure they will become great warriors!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305704,
+			"You always look on the bright side.",
+			"这种时候你居然还有心情开完笑！",
+			"はぁ……こんな時に冗談言ってる余裕があるなんて。",
+			"하아…… 이런 때에 농따먹을 여유가 있다니.",
+			null,
+			null,
+			"At this time you are still in the mood to finish laughing!",
+			"Huh. ...... I can't believe I can afford to joke around at a time like this."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305705,
+			"Oh, I'm sorry.",
+			"啊哈哈，抱歉~抱歉~",
+			"アハハ、ごめん～ごめん～。",
+			"아하하, 미안~ 미안~.",
+			null,
+			null,
+			"Ahaha, sorry ~ sorry ~",
+			"Hahaha, sorry - sorry!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305706,
+			"But, anyway, thank you. I have to admit that if it wasn't for you...",
+			"不过…今天谢谢你们，要不是你们……",
+			"でも……今日はありがとう。あんたらがいなかったら……。",
+			"하지만…… 오늘은 고마워. 너희들이 없었더라면…….",
+			null,
+			null,
+			"But...thank you for today, if not for you ......",
+			"But thanks for ...... today. If it weren't for you guys, I wouldn't have ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				55,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305707,
+			"Then?",
+			"哦嚯嚯~要不是我们会怎么样呢？",
+			"ん～？私たちがいなかったら何ですって？",
+			"음~? 우리들이 없었으면 뭐라고요?",
+			null,
+			null,
+			"Oh ooh ooh ~ what would have happened if we hadn't?",
+			"Hmm? What would you say if we weren't here?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305708,
+			"Nothing! We could find them on our own if you were not here today!",
+			"没！没怎么样！没有你们我自己也能找到他们！少得意了！",
+			"な！何でもない！あんたらがいなくても、あの子たちは探せたって言おうとしただけ！",
+			"아니! 아무것도 아냐! 너희들이 없어도 그 아이들은 찾을 수 있었다고 말하려던 것뿐이야!",
+			null,
+			null,
+			"Nothing! Nothing! I can find them myself without you! Don't get cocky!",
+			"Nothing! It's nothing! I'm just trying to tell you that we could have found those kids without you!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305709,
+			"She ran away! Such an ungrateful person!",
+			"啊…跑掉了，果然是不老实的家伙。",
+			"あ……逃げた。やっぱり素直じゃないんだから。",
+			"아…… 도망갔네. 역시 솔직하지 못한 거니까.",
+			null,
+			null,
+			"Ah...ran away, really dishonest guy.",
+			"Ah ...... ran away. I knew you weren't being honest."
+		]
+	],
+	"1084": [
+		[
+			"bgm",
+			11
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305710,
+			"I got a picture of a blonde girl. Half of it is ripped off.",
+			"捡到了一张金发女孩的照片，有一半被撕掉了……",
+			"金髪の女の子の写真を拾った。片側半分は破られている——",
+			"금발 소녀 사진을 주웠어. 한쪽 절반은 찢겨져 있는——",
+			null,
+			null,
+			"Found a photo of a blonde girl with half of it torn off ......",
+			"I picked up a picture of a blonde girl. One half of one side is torn--"
+		]
+	]
+}

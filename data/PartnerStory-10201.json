@@ -1,0 +1,3929 @@
+{
+	"1001": [
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140946,
+			"Humm,on this book, \"On the full moon night, read this incantation in the old castle to summon Fenrir…\"",
+			"嗯，这本书上写着，要召唤芬里尔，需要在满月之夜，荒弃的古堡，吟诵这段咒语……",
+			"うん、この本によれば、フェンリルを召喚するには、満月の夜に、荒れ果てた古城で、この呪文を唱え……",
+			"음, 이 책에 따르면 펜리르를 소환하려면 보름달 밤에, 황폐한 고성에서 이 주문을 외워...",
+			"Alright, according to this book, to summon Fenrir, you need to chant this spell on a full moon night in a ruined old castle..."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140947,
+			"Bang--",
+			"轰——",
+			"ウォォ——ン",
+			"우오——온",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140948,
+			"*Cough*……Ahhh, appears! A girl with wolf's ears!",
+			"咳咳……呜哇，出现了！是有着狼耳朵的女孩诶！",
+			"ゲホゲホ……うわ、現れた！狼の耳をつけた女の子！",
+			"엣헴엣헴... 와, 나타났다! 늑대 귀를 한 소녀!",
+			"<i>Cough, cough...</i> Whoa, a girl with wolf ears suddenly appeared!"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140949,
+			"Who is calling me?",
+			"把我召唤出来的人就是你么，人类？",
+			"あたしを召喚したのはあんたなの、人間？",
+			"나를 소환한 게 너야, 인간?",
+			"Was it you who summoned me, human?"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140950,
+			"Hello~ My name is Kiana. Are you Fenrir? I thought it was just a joke…",
+			"那个，你好，我叫琪亚娜。请问你就是芬里尔吗？我看这本书上写着召唤的方法，诶，还想着大概是骗人的，就不抱希望地试一试，从圣芙蕾雅学园走了快两天才找到这个古堡，没想到……",
+			"あ、はじめまして、私はキアナ。あなたがフェンリルなの？この本に召喚方法が書いてあったから、どうせ子供騙しだろうって、期待せずに試してみたの。聖フレイヤ学園から2日歩いてやっとこの古城を見つけて……",
+			"아, 처음 뵙겠습니다, 저는 키아나예요. 당신이 펜리르인 거예요? 이 책에 소환 방법이 써있길래, 어차피 어린이 장난감이겠지 싶어 기대도 안 하고 시도해봤어요. 세인트 프레야 학원에서 이틀 걸어서 겨우 이 고성을 찾아서...",
+			"Ah, nice to meet you, I'm Kiana. Are you Fenrir? The summoning method was written in this book, so I gave it a try without expecting anything, thinking it would just be for fun. Then after walking for two days from St. Freyja Academy, I finally found this old castle..."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140951,
+			"Stop! Yes, I'm Fenrir! You are noisy!",
+			"啊啊，烦死了！芬里尔，就是我了。一醒来就在别人耳边喋喋不休，把你锯了哦！",
+			"ああもう、お黙り！フェンリルはあたしよ。目を覚ますなり耳元でぺちゃくちゃとうるさいわね。切るわよ！",
+			"아아, 됐어, 닥쳐! 펜릴은 내 거야. 깨어나자마자 귀엣말로 재잘대서 짜증나. 베어버릴 거야!",
+			"Oh, just shut up! I'm Fenrir. You're so noisy, chattering in my ear as soon as I wake up. I'm leaving!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140952,
+			"Errr, sorry, take your saw back…",
+			"呃，抱歉，请别拿那么恐怖的锯子对着我……",
+			"わ、ごめんなさい、そんな物騒なチェーンソー、こっちに向けないで……",
+			"앗, 미안해, 그런 위험한 체인소우, 이쪽으로 들이대지 마...",
+			"Wah, I'm sorry, please don't point that terrifying chainsaw at me..."
+		],
+		[
+			"msg",
+			140953,
+			"Humm, it's hard to stay with you.",
+			"呼，感觉不是很好相处呢。",
+			"ふー、付き合いにくい感じ。",
+			"후우, 사귀기 힘들어 보이는 분위기.",
+			"<i>Sigh,</i> seems this one is hard to get along with."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140954,
+			"Humph, you summoned me, so, thank you.",
+			"哼，毕竟是你召唤了我，姑且就道声谢吧。",
+			"フン、とにかく召喚されたんだから、ひとまずお礼を言わないとね。",
+			"흥, 어쨌든 소환된 거니까, 일단 감사 인사는 해야지.",
+			"Hmph, at any rate, I was summoned, so I should at least thank you."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140955,
+			"Nevermind,haha~ I think we will be friends.",
+			"没事的啦，嘿嘿~那么今后就请多指教啦~",
+			"どういたしまして～。じゃ、これからもどうぞよろしく～",
+			"별말씀을~. 자, 앞으로도 잘 부탁해~",
+			"It's okay, hehe~ Then, it's nice to meet you~"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140956,
+			"Friends? What are you talking about? You just summoned me, I don't trust you at all.",
+			"请多指教？哈，你说什么傻话？给我搞清楚，你只是召唤了我，我可没有信任你，也没打算和你一起。那么就此别过~",
+			"どうぞよろしく？ハ、何バカ言ってんの？はっきりさせとくけど、あんたにはただ召喚されただけで、信用なんかしてないからね。もちろん一緒に何かする気もないわ。じゃ、さよなら～",
+			"잘 부탁해? 하, 무슨 헛소리야? 확실히 말해두는데, 너는 그냥 소환당한 것뿐이야, 믿는 거 아니거든. 물론 함께 뭘 할 생각도 없고. 자, 안녕~",
+			"Nice to meet me? Hah, what nonsense are you talking about? Let me be clear, I was only summoned by you, I don't trust you at all. Obviously, I have no intention of doing anything with you. Well, goodbye~"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140957,
+			"Hum? Wait, Fenrir!",
+			"咦？等等，芬里尔！",
+			"え？ちょっと待って、フェンリル！",
+			"엣? 잠깐만, 펜릴!",
+			"Huh? Hey, wait, Fenrir!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140958,
+			"Dong- -",
+			"咚——",
+			"ドスン——",
+			"쿵——",
+			null
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140959,
+			"Hum…",
+			"唔……",
+			"う……",
+			"으...",
+			"Uh..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140960,
+			"She fell down? What a strange girl…",
+			"怎么走着走着自己跌倒了，真是奇怪的家伙……",
+			"なに一人で転んでんの？本当に変な奴……",
+			"뭐야 혼자 넘어져? 진짜 이상한 녀석...",
+			"Why'd you just fall over all of a sudden? What a weirdo..."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140961,
+			"*Sound from stomach*",
+			"咕~~~",
+			"グゥ～～",
+			"꾸르륵~",
+			"<i>Guu~~</i>"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140962,
+			"Are you hungry?",
+			"切，一直都没吃东西饿得连路都走不动了么，真是没用。",
+			"チッ、ずっと何も食べてなかったから腹が減りすぎて歩くこともできないなんて。",
+			"쳇, 계속 아무것도 먹지 않아서 너무 배가 고파서 걷지도 못하다니.",
+			"Tch, I haven't eaten anything in ages... I'm so hungry I can't even walk."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140963,
+			"Stop it…",
+			"我说，你……",
+			"あの、あなた……",
+			"저기, 당신......",
+			"Uh, you..."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140964,
+			"Hu, hu…",
+			"呼，呼……",
+			"フー、フー……",
+			"후, 후......",
+			"<i>Zzzzzz...</i>"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140965,
+			"What? She's asleep? Well, I think we will stay over night here…",
+			"什么嘛，已经昏睡过去了吗？算了，今天就在这古堡过夜吧。真是的……明明是和睡美人的两人之夜，却一点都香艳不起来！",
+			"何？もう気を失っちゃったの？まあいっか、今日はこの古城で夜を明かそう。まったく……眠れる美女と二人きりの夜だってのに、ちっとも色気がない！",
+			"뭐? 벌써 기절해 버린 거야? 뭐 어쩔 수 없지, 오늘은 이 고성에서 밤을 새우자. 참나...... 잠든 미녀와 단둘이 있는 밤인데, 전혀 색기라곤 없잖아!",
+			"What? Fallen asleep already? Oh well, I guess I'll spend the night in this old castle. Seriously... Even though I'm spending the night alone with Sleeping Beauty, there's nothing sexy about it!"
+		]
+	],
+	"1003": [
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140987,
+			"Humm…",
+			"唔嗯……",
+			"ううん……",
+			"으음……",
+			"Umm..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140988,
+			"Good morning, Finri…",
+			"啊，醒了吗？早上好，芬里……",
+			"あ、目が覚めた？おはよう、フェンリ……",
+			"아, 깨어났어? 좋은 아침, 펜릴...",
+			"Ah, you're awake? Good morning, Fenri..."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140989,
+			"Don't come too close to me…",
+			"请，请不要靠过来！",
+			"お、お願い、こっちにこないで下さい！",
+			"제, 제발 이쪽으로 오지 마세요!",
+			"P-Please, don't come over here!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140990,
+			"Is that you, Finrir?",
+			"咦，你是，芬里尔吧？",
+			"え？あなた、フェンリルでしょ？",
+			"어? 너 펜릴 맞지?",
+			"Huh? Is that you, Fenrir?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140991,
+			"Don't, don't harm me…",
+			"不要，请不要伤害我……",
+			"やめて、どうか傷つけないで……",
+			"그만해요, 제발 다치게 하지 말아주세요……",
+			"Stop it, please don't hurt me..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140992,
+			"What? I won't harm you. Are you really Finrir?",
+			"什么嘛，我不会伤害你的啊。而且，你是芬里尔吗？",
+			"どうしたの？危害なんか加えないわよ。で、フェンリルだよね？",
+			"왜 그래? 해칠 생각 없어. 그런데 펜릴 맞지?",
+			"What's wrong? I won't harm you. So, you're Fenrir, right?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140993,
+			"Ye, yes…",
+			"是，是的。",
+			"は、はい。",
+			"네, 네.",
+			"Y-Yeah."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140994,
+			"Look the same… But I feel you are totally different compare to you in night.",
+			"嗯，仔细看的话确实是同一个人，但总感觉看起来完全不一样。昨天晚上的芬里尔有戴着这样的头带和围巾吗？那对狼耳朵呢，被遮掉了吗？",
+			"うん、やっぱり同一人物よね。でも全然違うみたいな気がする。昨晩フェンリルはこんなヘアバンドとマフラーをつけてたっけ？あの狼の耳は？隠しているの？",
+			"역시 같은 사람이네. 하지만 완전히 다른 사람 같은 느낌이야. 어젯밤에 펜릴이 이런 헤어밴드와 머플러를 하고 있었나? 그 늑대 귀는 어디 갔어? 숨기고 있는 거야?",
+			"Yep, seems she's the same person after all. But you seem completely different. Were you wearing this headband and scarf last night, Fenrir? And what about your wolf ears? Are you hiding them?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140995,
+			"Don't look at me like this…",
+			"呜……请不要这样看着我……",
+			"う……そんな目で私を見ないでください……",
+			"으… 그런 눈으로 쳐다보지 말아주세요……",
+			"Ah... please, don't look at me like that..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140996,
+			"Yeah, the way you talk is also different.",
+			"还有啊，这个语气也完全不一样。我记得应该是更加凶残的那种，“嗷呜”的，“吼啊”的那种感觉的。",
+			"それに、口調が完全に違うよね。確かもっと乱暴な口調だったはず。「ガオー」とか「ウオー」って感じの。",
+			"게다가 말투도 완전히 다르잖아. 분명 더 거친 말투였을 텐데. 「컹」이라든가 「우와」 같은 느낌의.",
+			"Also, the way you're speaking is completely different. I'm sure you used a more violent tone before. Something like \"Grrr,\" or \"Awoo.\""
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140997,
+			"Sorry…",
+			"对不起……",
+			"ご、ごめんなさい……",
+			"죄, 죄송해요……",
+			"I-I'm sorry..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140998,
+			"You don't need to say sorry, who are you? Finrir, or you are just look like her?",
+			"不用道歉啦，所以说你到底是谁，是芬里尔，还是其他和她很像的人？",
+			"いや謝ることはないけど。それであなたは一体誰なの？フェンリルなの、それともそっくりな別人なの？",
+			"아니, 미안할 필요 없어. 그런데 넌 대체 누구야? 펜릴이야, 아니면 닮은 다른 사람이야?",
+			"No need to apologize. So who exactly are you? Are you Fenrir, or just a lookalike?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140999,
+			"You, won't harm me, right?",
+			"你，不会伤害我吗……？",
+			"あの、危害を加えないでくれますか……？",
+			"저기, 해치지 말아주실 수 있나요……?",
+			"Um, could you please not harm me...?"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141000,
+			"Relax, I won't do that.",
+			"放心吧，我没有要伤害你的理由啊。",
+			"安心して、危害を加える理由なんかないし。",
+			"안심해, 해칠 이유도 없으니까.",
+			"Don't worry, there's no reason to harm you."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141001,
+			"I'm Finrir. I think you have seen me in the night.",
+			"我，我就是芬里尔。我想你看到的，大概是晚上的我吧。",
+			"わ、私はフェンリルです。たぶんあなたが会ったのは、夜の私だと思います。",
+			"아, 저는 펜릴이에요. 아마 당신이 만난 건, 밤의 저일 거예요.",
+			"I-I'm Fenrir. I think the one you met was me at night."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141002,
+			"You, in the night?",
+			"晚上的你？",
+			"夜のあなた？",
+			"밤의 당신?",
+			"You at night?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141003,
+			"Yes… Me in the night and me in the daytime are different.",
+			"嗯……晚上的我，和白天的我，虽然是一个人，但是完全不一样……",
+			"はい……夜の私と、昼の私は、同じ人なのですが、全くの別人なのです……",
+			"네... 밤의 저와 낮의 저는, 같은 사람이지만, 완전히 다른 사람이에요...",
+			"Yes... I am completely different at night and I am completely different during the day, even though I am the same person..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141004,
+			"Different… Do you mean double personality?",
+			"不一样……是说双重人格吗？",
+			"別人……っていうと、二重人格なの？",
+			"다른 사람... 그러면 이중 인격인 거야?",
+			"Completely different, but the same... do you mean you have a split personality?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141005,
+			"(Finrir nods her head)",
+			"（点头）",
+			"（うなずく）",
+			"(끄덕임)",
+			"(Nods)"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141006,
+			"Okay, got it… Fine, I will introduce myself again, I'm Kiana.",
+			"这样啊……好吧，我接受了~重新自我介绍，我叫琪亚娜。",
+			"そうなんだ……なるほど、よく分かったわ。改めて自己紹介するわね、私はキアナ。",
+			"그렇구나... 알겠어. 다시 자기소개할게, 나는 키아나야.",
+			"Is that so... I see, I understand. Let me introduce myself again. I'm Kiana."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141007,
+			"Nice to meet you! Kiaaa! Ouch… I bit my tongue again…",
+			"你，你好！琪亚亚！唔……咬，咬到舌头了……",
+			"は、初めまして！キアア！う……し、舌噛んじゃった……",
+			"아, 처음 뵙겠습니다! 키아아! 으... 혀, 혀를 깨물었어요...",
+			"N-Nice to meet you! Kiaya! Uh... I-I bit my tongue..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141008,
+			"It's Kiana… Don't be too nervous. Alright, let's go~",
+			"是琪亚娜啦……明明不用那么紧张的。好了，我们走吧~",
+			"キアナよ……そんなに緊張しなくていいから。じゃ、行きましょ～",
+			"키아나야... 그렇게 긴장하지 않아도 돼. 자, 가자~",
+			"It's Kiana... there's no need to be so nervous. Then, Let's go~"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141009,
+			"Ai? Kiaaa, where are we going?",
+			"咦，琪亚亚要，要把我带去哪里？",
+			"えっ、キアアはわ、私をどこに連れていくつもりですか？",
+			"엣, 키아아는 저, 저를 어디로 데려가려는 거예요?",
+			"Ah, Kiaya, w-where are you taking me?"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141010,
+			"…… Don't be afraid, I said I won't harm you. I remember you were too hungry last night. No matter you have double personality or not, you have the same body, right?",
+			"……不用害怕啦，我说过的吧，不会伤害你的。而且，我记得昨天晚上你是饿昏过去了吧。不管是不是双重人格，身体总是同一个吧~",
+			"……怖がらなくていいから。言ったでしょ、危害は加えないって。たしか、昨晩のあなたお腹が空きすぎて気を失ったのよ。二重人格でも、体は同じはずだもんね～",
+			"... 무서워하지 않아도 돼. 말했잖아, 해를 끼치지 않는다고. 분명, 어젯밤의 당신 배가 너무 고파서 기절했잖아. 이중 인격이라도, 몸은 같을 테니까~",
+			"...There's no need to be scared. I told you I won't harm you. I remember you were so hungry last night that you fainted. Even if you have a split personality, your body should be the same, right?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141011,
+			"*Sound from stomach*",
+			"咕~~~",
+			"グウウ～～",
+			"꼬르륵~",
+			"<i>Guuuu~~</i>"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141012,
+			"Hummm…",
+			"呜呜……",
+			"あ……",
+			"아……",
+			"Ah..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141013,
+			"Don't be shy, come on, let's go to find something to eat first.",
+			"别害羞了，来，我们走吧，总之先去附近的地方找些吃的再说。",
+			"恥ずかしがらなくていいから。ほら、行きましょ。とにかくこの近くで何か食べるものを探しましょ。",
+			"부끄러워하지 않아도 돼. 자, 가자. 어쨌든 이 근처에서 뭐라도 먹을 걸 찾아보자.",
+			"Don't be shy. C'mon, let's go. Let's find something to eat nearby."
+		]
+	],
+	"1004": [
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141014,
+			"I'm full, how about you, Finrir?",
+			"吃饱了吃饱了~芬里尔呢？",
+			"あ～お腹いっぱい～。フェンリルは？",
+			"아~ 배불러~ 펜리르는?",
+			"Ah~ I'm stuffed~ How 'bout you, Fenrir?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141015,
+			"Yeah… Thank you, Kiana, I'm full.",
+			"嗯……谢谢琪亚娜，我吃饱了。",
+			"ええ……ありがとうキアナ、お腹いっぱいです。",
+			"네…… 고마워 키아나, 배불러요.",
+			"Mm-hmm... thanks, Kiana, I'm full."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141016,
+			"Let's go then~",
+			"那我们就走吧~",
+			"それじゃあ行きましょうか～",
+			"그럼 이제 가자~",
+			"Shall we get going then~?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141017,
+			"Where are we going?",
+			"要去，哪里？",
+			"行くって、どこへです？",
+			"간다고요, 어디로요?",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141018,
+			"I came from St. Freya HS, I need to go back now~",
+			"为了召唤芬里尔，我可是从圣芙蕾雅学园一路来到的这里，现在总得回去吧~",
+			"私、フェンリルを召喚するために、聖フレイヤ学園からここまでやって来たのよ。だから帰らなきゃ。",
+			"나, 펜리르를 소환하기 위해 세인트 프레야 학원에서 여기까지 왔거든. 그러니까 돌아가야 해.",
+			"I came all the way here from St. Freyja Academy to summon you, Fenrir, so I have to go back."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141019,
+			"St. Freya HS, is that your home?",
+			"圣芙蕾雅学园，是琪亚娜在的地方吗？",
+			"聖フレイヤ学園っていうのは、キアナが暮らしているところですか？",
+			"세인트 프레야 학원이라는 건, 키아나가 살고 있는 곳인가요?",
+			"Is St. Freyja Academy where you live, Kiana?"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141020,
+			"Yes. What's your decision? You seems not like to stay with me in the night.",
+			"嗯，是的。不过芬里尔的话要怎样？昨天晚上的你，似乎不太愿意和我一起的样子。",
+			"ええ、そうよ。でもフェンリルはどうしたらいいかな？昨晩のあなたは、私と一緒にいたくないみたいだったけど。",
+			"응, 그래. 근데 펜리르는 어쩌지? 어젯밤의 너는 나랑 함께 있고 싶지 않은 것 같았는데.",
+			"Yep, that's right. But will you do? You didn't seem like you wanted to come with me last night."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141021,
+			"…Sorry… However, I don't know what should I do…",
+			"呜呜……对不起……但是，我也不知道要怎么办……如果是晚上的我就好了，她的话，一定知道该怎么办吧……",
+			"ご……ごめんなさい……。でも、私もどうしたらいいか分かりません……夜の私なら良かったのに。彼女ならどうするべきか分かるのに……",
+			"미...미안해요... 하지만 저도 어떻게 해야 할지 모르겠어요... 밤의 나라면 좋았을 텐데. 그녀라면 어떻게 해야 할지 알 텐데...",
+			"I... I'm sorry... But I don't know what to do either... I wish it was nighttime. I know she would know what to do..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141022,
+			"Don't worry~ If you haven't decided yet, you still can go with me.",
+			"嘛，没事的~不知道要去哪里的话，就先和我一起走怎么样？",
+			"ま、いいじゃない～。どこに行けばいいか分からないのなら、とりあえず一緒に行きましょ。",
+			"뭐, 괜찮지~ 어디로 가야 할지 모르겠다면, 일단 같이 가자.",
+			"Well, that's okay~ If you don't know where to go, then let's go together."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141023,
+			"Really? Maybe I can't help you…",
+			"咦，真的可以吗？但是我……可能没什么用……",
+			"え、本当にいいんですか？でも私……何の役にも立たないし……",
+			"에, 정말 괜찮나요? 하지만 저... 아무런 도움도 되지 못하는데...",
+			"Ah, are you sure? But I'm... no use for anything..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141024,
+			"Nevermind~ You can go to St. Freya HS with me. During this period, you can think about your Future.",
+			"没关系~那就先和我一起回圣芙蕾雅学园吧，今后要怎么做，这种事情路上慢慢想就是了~",
+			"構わないわよ～、とりあえず一緒に聖フレイヤ学園に戻りましょ。今後どうするかは、道々ゆっくり考えたらいいわ。",
+			"상관없어~ 일단 같이 세인트 프레야 학원으로 돌아가자. 앞으로 어떻게 할지는 길을 가면서 천천히 생각해도 돼.",
+			"It's okay~ Let's head back to St. Freyja Academy together for now. We can think about what to do next along the way."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141025,
+			"Kiana, thank you…",
+			"琪亚娜，谢谢……",
+			"キアナ、ありがとう……",
+			"키아나, 고마워...",
+			"Thanks, Kiana..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141026,
+			"I have a question about the double personality. Would it be a big problem for you? If you don't want to answer me, just ignore me.",
+			"话说回来，我能问问吗，双重人格，对你而言是怎样的呢？是麻烦的负担吗？啊，你不想说的话我不会强迫你哦~",
+			"ところで、聞いていい？二重人格って、どんな感じなの？面倒だとか重荷になるとか？あ、言いたくなければ無理しなくていいんだけど。",
+			"그런데, 물어봐도 될까? 이중 인격이라니, 어떤 느낌이야? 번거롭거나 부담이 되거나? 아, 말하기 싫으면 억지로 말할 필요 없어.",
+			"By the way, can I ask you something? What's it like having a split personality? Is it a hassle or a burden or what? Oh, you don't have to force yourself to say it if you don't want to."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141027,
+			"No… Not at all…",
+			"不……不是的……",
+			"い……いいえ……",
+			"아...아니요...",
+			"N-...Not at all..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141028,
+			"Errr?",
+			"那是？",
+			"というと？",
+			"그럼?",
+			"Then what?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141029,
+			"Actually, I'm very envy her…",
+			"其实我，一直很羡慕晚上的她……",
+			"実を言うと、ずっと羨ましいなって思ってるんです……",
+			"사실을 말하자면, 늘 부럽다고 생각했어요...",
+			"To tell you the truth, I've always been jealous of her..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141030,
+			"Envy? Why?",
+			"羡慕，为什么？",
+			"羨ましいって、どうして？",
+			"부럽다고? 왜?",
+			"Why are you jealous?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141031,
+			"Because, I can do nithing in the daytime… However, she can do anything in the night.",
+			"因为，白天的我，什么都做不到……但是，晚上的她，虽然脾气不太好，却强势又果断，就算遇上再麻烦的问题，都能轻松解决的吧。",
+			"だって、昼間の私は、何やってもダメで……でも夜の私は、少し短気だけど、強くて決断力があって、問題に直面しても、楽々解決できるし……",
+			"왜냐면, 낮의 나는 뭘 해도 안 되고…… 하지만 밤의 나는 조금 성급하지만 강하고 결단력이 있어서, 문제에 직면해도 쉽게 해결할 수 있고……",
+			"Because, during the day, I'm no good at anything... but at night, although I'm a little short-tempered, I'm strong and decisive, and even when faced with a problem, I can solve it with ease..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141032,
+			"So, you want to be a person just like her?",
+			"这么说，你想要成为晚上的那个她吗？",
+			"というと、夜のあの彼女になりたいの？",
+			"그러니까, 밤의 그녀가 되고 싶은 거야?",
+			"So, you want to be the you at night?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141033,
+			"No, I'm not.",
+			"不是的……我并不是想要成为她。",
+			"いいえ……彼女になりたいわけじゃないんですけど。",
+			"아니요…… 그녀가 되고 싶은 건 아니에요.",
+			"No... I don't want to be her."
+		],
+		[
+			"msg",
+			141034,
+			"But… I really want to have her merits.",
+			"只是……我，我向往着那样的她。哪怕是一部分也好，想要能像她一样……",
+			"でも……私、ああいう彼女に憧れてるんです。どこか一部でもいいから、彼女のようになれたらなあって……",
+			"하지만…… 저, 그런 그녀를 동경해요. 어느 한 부분이라도 좋으니까, 그녀처럼 될 수 있다면……",
+			"But... I admire her. I wish I could be like her, even if it's just a small part of me..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141035,
+			"I see…",
+			"这样啊……",
+			"そうなんだ……",
+			"그렇구나……",
+			"Is that so..."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141036,
+			"Ah! Sorry, I should talk about those things… I can never be her…",
+			"啊！对不起，让你听了我任性的话……我的话，果然还是做不到的吧……嘿嘿……",
+			"あ！ごめんなさい、こんな勝手な話をして……私なんて、何もできないから……えへ……",
+			"아! 미안해요, 이런 제멋대로인 이야기를 해서…… 저 같은 건, 아무것도 못 하니까…… 에헤……",
+			"Ah! I'm sorry for talking about something so selfish... I can't do anything about it... eheh..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141037,
+			"No, everyone is trying to become better. You can do more if you have more power.",
+			"没有这样的事哦，芬里尔~每个人都会这样想的吧，追寻更强大的自己，想着如果能变强的话，或许就能挽回什么，拯救什么了。所以，完全没有问题的哦~",
+			"そんなことないよ、フェンリル。誰でもそんなふうに思って、強くなろうって努力するものよ。強くなれば、何かを取り戻せるかもしれない、何かを救えるかもしれないって考えるの。だから、全然問題ないわよ～",
+			"그런 말 하지 마, 펜릴. 누구나 그렇게 생각하고 강해지려고 노력하는 거야. 강해지면 뭔가를 되찾을 수 있을지도 모르고, 뭔가를 구할 수 있을지도 모른다고 생각하는 거지. 그러니까, 전혀 문제없어~",
+			"That's not true, Fenrir. Everyone thinks like that, striving to become stronger. They think that if they become stronger, they might be able to get something back, or save something. So, it's alright~"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141038,
+			"Thank you… Kiana.",
+			"谢谢，谢谢你……琪亚娜。",
+			"あ、ありがとう……キアナ。",
+			"아, 고마워…… 키아나.",
+			"Th-Thanks... Kiana."
+		]
+	],
+	"1005": [
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141039,
+			"It's already dusk, we will arrive St. Freya HS in one day. Are you tired, Finrir?",
+			"已经傍晚了啊，还有一天就能回到圣芙蕾雅学园了。还走得动吗，芬里尔？",
+			"もう夕方ね。聖フレイヤ学園に帰るにはあと1日かかるなあ。まだ歩ける？フェンリル。",
+			"벌써 저녁이네. 세인트 프레야 학원에 돌아가려면 하루 더 걸리는구나. 아직 걸을 수 있어? 펜릴.",
+			"It's already dusk. It'll take another day to get back to St. Freyja Academy. Can you still walk, Fenrir?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141040,
+			"No, I'm fine… Sorry, Kiana…",
+			"嗯，我没事的……不过对不起，琪亚娜……",
+			"ええ、私は大丈夫です……でもごめんなさい、キアナ……",
+			"네, 저는 괜찮아요…… 하지만 미안해요, 키아나……",
+			"Mm-hmm, I'm fine... but I'm sorry, Kiana..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141041,
+			"What happened?",
+			"怎么了？",
+			"どうしたの？",
+			"무슨 일이야?",
+			"What's the matter?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141042,
+			"I can't stay with you anymore… It's evening now, it's her time.",
+			"我不能再陪你了……到晚上了。现在，是她的时间了……",
+			"もう一緒にはいられません……夜になったら、彼女の時間……",
+			"더는 함께 있을 수 없어요... 밤이 되면, 그녀의 시간이......",
+			"We can't be together anymore... When night comes, it's her time..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141043,
+			"Ah! Do you mean the personality in night? Ah, although I know what's the point, I still feel it's a big problem.",
+			"啊！你是说晚上的那个人格吗。唉，虽然已经知道是怎么回事，果然还是会感到头痛啊。",
+			"あ、夜のあの人格のことね。ふう、事情は分かったけど、やっぱりちょっと頭痛いわね。",
+			"아, 밤의 그 인격 말이지. 휴, 사정은 알겠지만, 역시 좀 머리 아프네.",
+			"Ah, you mean your night persona. Whew, I understand the situation, but it's still giving me a bit of a headache."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141044,
+			"Ha, are you talking about my bad, Kiana? Sorry, I heard it.",
+			"哈，你是在说我坏话吗，琪亚娜？还真是不好意思，被我听到了哦~",
+			"ハッ、今あたしの悪口を言ったわね、キアナ？聞こえちゃったよ～",
+			"허, 지금 내 욕했지, 키아나? 다 들렸어~",
+			"Hah, did you just say something bad about me, Kiana? I heard you~"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141045,
+			"Oh, it's you now.",
+			"噫！已经变成那个人了吗！",
+			"わ！もうあの人に変わってる！",
+			"와! 벌써 그 사람으로 변했어!",
+			"Whoa! You've already transformed!"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141046,
+			"yeah, don't be afraid, you give me food when I'm hungry, I won't do anything to you.",
+			"别那么大呼小叫，你是胆小的兔子吗？安心吧，好歹你在我快饿死的时候给了我饭吃，我现在不会对你怎么样。",
+			"そんな大声出さないの、憶病なウサギみたいに。安心なさい、餓死しそうなときに食べさせてくれたあんたを、今さらどうこうする気はないから。",
+			"그렇게 큰 소리 내지 마, 겁 많은 토끼처럼. 안심해, 굶어 죽을 때 먹여준 너를, 지금 와서 어떻게 할 생각은 없으니까.",
+			"Don't shout like some timid rabbit. Don't worry, you fed me when I was starving, so I have no intention of doing anything to you now."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141047,
+			"Errr? You remember the thing happened in the daytime?",
+			"咦，你记得白天的事情吗？",
+			"あれ、昼間に起きたことを覚えてるの？",
+			"어라, 낮에 일어난 일 기억하고 있어?",
+			"Oh, you remember what happened in daytime?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141048,
+			"Yes.",
+			"当然了，想想就知道吧，不然不是很麻烦么？",
+			"もちろん。考えればすぐ分かるわ。そうじゃなきゃ、面倒よね？",
+			"물론이지. 생각해보면 금방 알 수 있어. 그렇지 않으면, 귀찮잖아?",
+			"Of course. It's kinda obvious if you think about it. It'd be a pain otherwise, right?"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141049,
+			"So… you know the feeling of \"you\" in the daytime too?",
+			"这样啊……那么，白天的你，向往现在的你的心情，你也知道吗？",
+			"そうなんだ……じゃあ、昼間のあなたが、今のあなたに憧れていることも、知ってるの？",
+			"그래...... 그럼, 낮의 네가 지금의 너를 동경하고 있다는 것도 알고 있는 거야?",
+			"Is that so... Then you know that your daytime self admires your current self?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141050,
+			"Yes. She is too weak.",
+			"啊啊，是啊，一直都知道啊。切，那种软弱无能的声音，就算我不想听，也会自己进到耳朵里啊。",
+			"ああ、もちろん、ずっと知ってるわ。あの軟弱で無能な声、こっちが聞きたくなくても、勝手に耳に入ってくるんだから。",
+			"아, 물론, 줄곧 알고 있었어. 그 나약하고 무능한 목소리, 이쪽이 듣고 싶지 않아도, 저절로 귀에 들어오니까.",
+			"Mm-hmm, obviously. I've always known. I keep hearing that weak, incompetent voice in my ears, even when I don't wanna."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141051,
+			"So, you…",
+			"这样的话，你……",
+			"それなら、あなたが……",
+			"그렇다면, 네가……",
+			"Then, that means you..."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141052,
+			"Ah? What do you want to say, Kiana?",
+			"啊？你想说什么，琪亚娜？",
+			"あ？どうしろっていうの、キアナ？",
+			"어? 어떻게 하라는 거야, 키아나?",
+			"Ah? What is it, Kiana?"
+		],
+		[
+			"msg",
+			141053,
+			"Don't fool me. Only she can decide her personality, I can't help her.",
+			"别让我把你当傻子。性格这种事情只能靠自己啊，我也没办法的吧。",
+			"性格なんてものは自分次第よ。あたしだってどうしようもないわ。",
+			"성격 같은 건 자신에게 달려 있어. 나도 어쩔 수 없거든.",
+			"Personality is something you have to determine yourself. I can't help her."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141054,
+			"Indeed.",
+			"确实……",
+			"確かに……",
+			"확실히……",
+			"But surely..."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141055,
+			"Also, I haven't asked her for anything…",
+			"而且向往什么的，我也没要求她那种事啊……",
+			"それに憧れだの何だの、別にこっちが頼んだわけじゃないし……",
+			"게다가 동경이라니 뭐라니, 우리가 부탁한 것도 아니고……",
+			"Besides, it's not like I asked for her to admire me or anything..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141056,
+			"Finrir, what?",
+			"咦，芬里尔，你说什么？",
+			"えっ、フェンリル、何て言ったの？",
+			"엇, 펜릴, 뭐라고 했어?",
+			"Uh, Fenrir, what are you saying?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141057,
+			"Stop it! I don't want to talk anymore! I can feel enemies' smell.",
+			"烦死了！这个话题就到此为止！而且现在也没时间闲扯了吧。我可是已经闻到了哦，空气中有不安分的气味~",
+			"うるさいわね！この話はここまでよ！それに無駄話しているヒマもないわ。風に乗って不穏な匂いが漂ってくるよ～",
+			"시끄럽네! 이 이야기는 여기까지야! 게다가 잡담할 시간도 없어. 바람을 타고 불안한 냄새가 느껴져~",
+			"Shut up! Enough of this! And I don't have time for pointless chatter. There's an ominous smell floating on the wind~"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141058,
+			"What… Ah! Zombies!",
+			"什么……啊！是死士！",
+			"何を……あ！ゾンビ！",
+			"뭐가…… 아! 좀비!",
+			"What's... Ah! Zombies!"
+		]
+	],
+	"1006": [
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141059,
+			"Why here are so many zombies!",
+			"可恶，为什么这种地方会有死士，这下可麻烦了。",
+			"くっ、なんでこんなところにゾンビがいるのよ。厄介ね。",
+			"쳇, 왜 이런 곳에 좀비가 있는 거야. 귀찮게.",
+			"Damn, why are there zombies here? How troublesome."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141060,
+			"Haha, just stay there, Kiana. I will handle this!",
+			"呵呵，就在一边看好吧，琪亚娜。我来把这些家伙送下地狱！",
+			"クク、そばで見てなさい、キアナ。こんな奴らあたしが地獄に落としてやるから！",
+			"쿡, 곁에서 지켜�라, 키아나. 이런 놈들 내가 지옥으로 떨어뜨려 주마!",
+			"Kuku, stand by and watch, Kiana. I'll send these guys to hell!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141061,
+			"What! Wait a second, Finrir! I can…",
+			"什么？等等，芬里尔！我也……",
+			"何ですって？待って、フェンリル！私も……",
+			"뭐라고? 잠깐, 펜릴! 나도……",
+			"What? Wait, Fenrir! I can..."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141062,
+			"Don't come, otherwise, I will take you as my enemy too.",
+			"用不着，这就当报答你白天的恩情了。可别让我重复哦。还有，你要是加入的话，我可连你一起砍了！",
+			"必要ないわ。昼間の恩を返すだけよ。何度も言わせないで。それに、あんたも混じったら、間違って切っちゃうかもしれないわ！",
+			"필요 없어. 낮에 받은 은혜를 갚는 거야. 여러 번 말하게 하지 마. 게다가, 네가 끼어들면 실수로 베어버릴지도 모른다고!",
+			"No need. I'm just returning the favor from yesterday. Don't make me repeat myself. Besides, if you join in, I might accidentally cut you up!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141063,
+			"You… Hey, be careful!",
+			"这家伙……喂，小心背后啊！",
+			"あんたね……ちょっと、背後に気をつけて！",
+			"너 참…… 잠깐, 뒤를 조심해!",
+			"You... Hey, behind you!"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141064,
+			"Hahaha! I like this feeling!",
+			"哈哈哈，锯子切进肉的感觉真——是让人陶醉啊！",
+			"アハハハ、チェーンソーで肉を切り刻む感覚、ほーんとにうっとりするわ！",
+			"아하하하, 체인소우로 고기를 썰어대는 느낌, 정-말로 황홀하네!",
+			"Ahahaha, the feeling of cutting flesh with a chainsaw is sooo satisfying!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141065,
+			"Is she crazy? Seems she can't hear me.",
+			"这家伙是战斗狂吗，完全不听人说话啊。",
+			"こいつ戦闘狂なの？人の話を全く聞いてないわ。",
+			"이 녀석 전투광이야? 사람 말을 전혀 안 듣네.",
+			"Is this girl a berserker? She never listens to what I'm saying."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141066,
+			"Can you smell the blood in the air, Kiana?",
+			"嗅到了吗琪亚娜，这空气里鲜血的味道啊，甜美地要窒息了呢！",
+			"分かる、キアナ？辺りに漂う血の匂い。芳しくて息が詰まりそう！",
+			"알겠어, 키아나? 주변에 퍼있는 피 냄새. 향긋해서 숨이 막힐 것 같아!",
+			"You see, Kiana? The smell of blood is in the air. It's so fragrant it's suffocating!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141067,
+			"Ahh…",
+			"还真是……不敢恭维的趣味呢……",
+			"まったく……悪趣味よね……",
+			"정말…… 취향이 독특하네……",
+			"Seriously... what questionable taste..."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141068,
+			"Blood, I need more blood.",
+			"血，给我更多的血，混蛋们！",
+			"血を、もっと血をよこしなさい！",
+			"피를, 더 많은 피를 내놓으라고!",
+			"Blood, more blood, you bastards!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141069,
+			"*Roar of zombies*",
+			"吼吼——",
+			"ガウウウ——",
+			"그르르르——",
+			"Graaahh——"
+		],
+		[
+			"msg",
+			141070,
+			"Kakaka--",
+			"咔咔咔——",
+			"キュイーーーン",
+			"끼이이이익",
+			"<i>Vrrrrrrrmmm——</i>"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141071,
+			"Hu… It's so boring.",
+			"呼……切，好无聊啊你们这些垃圾，就只有这点程度么？",
+			"チッ……つまらないわ、このクズども、この程度で終わりなの？",
+			"쳇…… 지루하네, 이 쓰레기들, 이 정도로 끝이야?",
+			"Tch... boooring, is this all these scum got?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141072,
+			"Pingping--",
+			"砰砰——",
+			"パンパン——",
+			"빵빵——",
+			"<i>Bang, bang——</i>"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141073,
+			"What? I told you don't help me! Do you want to be harmed by my saw?",
+			"什么？我不是说了不要你插手么！想被锯成肉块吗，琪亚娜？",
+			"何？手出ししないでって言ったわよね？ミンチになりたいの、キアナ？",
+			"뭐? 간섭하지 말라고 했잖아? 갈기갈기 찢어지고 싶어, 키아나?",
+			"What? I told you not to mess with me. Do you wanna be minced, Kiana?"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141074,
+			"Stop it! Watch yourself, you bled a lot too! How can I just stand there?",
+			"别逞强了！我说啊，你不是也已经遍体鳞伤了吗？这样的情况，怎么可能悠闲地看下去啊！",
+			"強がらないでよ。言っとくけどね、あんたもう体中傷だらけじゃないの！こんな状況で、のんきに眺めてろっていうの？！",
+			"허세 부리지 마. 말해두는데, 너 이미 몸 구석구석 상처투성이잖아! 이런 상황에서 태연히 구경이나 하라는 거야?!",
+			"Quit acting tough. I'm telling you, you're already covered in wounds! Are you expecting me to just sit back and watch in a situation like this?!"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141075,
+			"Seems you can't know my art of battle~",
+			"切，看来你是真的不懂别人的战斗美学呢~",
+			"チッ、まったく戦闘美学の分からない人ね～",
+			"쳇, 정말 전투 미학을 이해 못하는 사람이네~",
+			"Tch, you have no understanding of the aesthetics of battle at all~"
+		],
+		[
+			"msg",
+			141076,
+			"The best thing is the smell of enemies' blood and my blood.",
+			"敌人的鲜血和自己鲜血交织在一起的味道，在我看来可是最棒了啊！",
+			"敵の血と自分の血が入り交じる匂いこそ、最高なのよ！",
+			"적의 피와 내 피가 뒤섞인 냄새야말로 최고야!",
+			"The smell of your own blood mixing with the enemy's is the best!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141077,
+			"…Okay, let's beat them first.",
+			"真是受不了你……总之先把死士解决吧！",
+			"まったくあきれちゃう……とにかく先にゾンビを始末しましょ！",
+			"정말 어이없어... 어쨌든 먼저 좀비부터 처리하자!",
+			"This is so ridiculous... Anyway, let's get rid of the zombies first!"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141078,
+			"Hehe, I will kill them all!",
+			"呵呵，强行加入我的战斗，就努力别被我的锯子抓到吧！只要进入这个战场的就都是我獠牙的猎物！",
+			"クク、強引にあたしの戦いに割り込んでくるなら、このチェーンソーにせいぜい気をつけなさいよ！戦場に入ったからには皆あたしの獲物だからね！",
+			"쿡, 억지로 내 싸움에 끼어들 거라면 이 체인소우 조심해! 전장에 들어온 순간 모두 내 사냥감이니까!",
+			"Kuku, if you try and force your way into my fight, at least be careful of my chainsaw! Once you enter the battlefield, you risk being my prey!"
+		]
+	],
+	"1007": [
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141079,
+			"*Gasp* We have already fight for a whole night, there are still endless zombies.",
+			"呼，呼……可恶，明明已经杀了一晚上，死士却完全没有减少的迹象。",
+			"フー、フー……くそ、一晩中殺したのに、ゾンビの数はいっこうに減らないじゃない。",
+			"후, 후... 젠장, 밤새 죽였는데 좀비 수는 전혀 줄지 않잖아.",
+			"<i>Huff, huff...</i> dammit, I've been killing all night, but the number of zombies isn't decreasing at all."
+		],
+		[
+			"msg",
+			141080,
+			"Hold on, Finrir! They will become weaker when the daytime is coming!",
+			"再坚持一下，芬里尔！很快天就要亮了，白天死士的力量会减弱！",
+			"もうちょっと頑張って、フェンリル！まもなく夜が明けるわ。昼間はゾンビの力も弱くなるから！",
+			"조금만 더 버텨, 펜릴! 곧 새벽이 올 거야. 낮에는 좀비의 힘도 약해지니까!",
+			"Hold on a bit longer, Fenrir! Dawn will come soon. Zombies are weaker during the day! (TN: I wonder if this is still canon)"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10202,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141081,
+			"Hey, daytime is not my time!",
+			"啧，琪亚娜你有健忘症么？白天可不是我的时间。",
+			"チッ、キアナは健忘症なの？昼間はあたしの時間じゃないのよ。",
+			"쳇, 키아나는 건망증이야? 낮 시간은 내 시간이 아니라고.",
+			"Tch, do you have amnesia, Kiana? Daytime is not my time."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141082,
+			"Oh, yes, Finrir in daytime is…",
+			"糟了，想起来了，白天的芬里尔是！",
+			"しまった、そうだった！昼間のフェンリルは……！",
+			"젠장, 그랬지! 낮의 펜릴은...!",
+			"Dammit, that's right! Fenrir in the daytime...!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				false
+			],
+			[
+				10202,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141083,
+			"*Roar of zombies*",
+			"吼吼——",
+			"グオオオ——",
+			"으르렁——",
+			"Groooaahhh——"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141084,
+			"Ah! No, please don't harm me…",
+			"呀！不要，请不要伤害我……好可怕……",
+			"いやー！ど、どうか傷つけないでください……恐いよう……",
+			"아냐! 제, 제발 다치게 하지 마세요... 무서워요...",
+			"Nooo! Please don't hurt me... so scary..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141085,
+			"Oh, it's you… I will protect you! Finrir!",
+			"已经变成白天的芬里尔了吗……看来现在只能靠自己了！到我身后去，芬里尔！",
+			"もう昼間のフェンリルに変わってる……この先は自分の力でやるしかなさそうね！私の後ろに隠れて、フェンリル！",
+			"이미 낮의 펜릴로 변했군... 이제부터는 자신의 힘으로 해내는 수밖에 없겠네! 내 뒤에 숨어 있어, 펜릴!",
+			"You've already transformed into daytime Fenrir... Looks like I'll have to do this on my own from now on! Hide behind me, Fenrir!"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141086,
+			"But you got hurt too… I still can't do anything… No!!!",
+			"但是琪亚娜你也受伤了……我，我还是什么都做不到吗……不要……",
+			"でもキアナだって怪我をしてます……わ、わたしやっぱり何もできない……のかしら……",
+			"하지만 키아나도 부상을 입었는데... 나, 나 역시 아무것도 못 하는 건가......",
+			"But you're injured too, Kiana... I-I guess there's nothing... I can do after all..."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				10000,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141087,
+			"Pingping--",
+			"砰砰——",
+			"パンパン——",
+			"탕탕——",
+			"<i>Bang, bang——</i>"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141088,
+			"So, you should remember what she said in the night! Only you can decide your personality!",
+			"芬里尔应该记得的吧，晚上的她说过的话！“性格这种事情只能靠自己”，那个她是这么说的！",
+			"フェンリルも覚えてるでしょ、夜の彼女が言った言葉を！「性格なんてものは自分次第」だって、そう言ってたわよ！",
+			"펜릴도 기억하고 있지, 밤의 그녀가 말했던 것을! 「성격 같은 건 자신에게 달려있다」라고, 그렇게 말했잖아!",
+			"You remember, right, Fenrir? What she said at night! \"Your personality is up to you,\" she said!"
+		],
+		[
+			"msg",
+			141089,
+			"So, Finrir, if you really want to have some changes, only yourself can do that.",
+			"所以，芬里尔，如果你真的想要改变，想要像你向往的那个她一样坚强，那就只有靠自己迈出这一步！",
+			"だから、フェンリル、本当に変わりたいなら、憧れの彼女みたいに強くなりたいなら、自分の力で一歩前に進み出すしかないのよ！",
+			"그러니까, 펜릴, 진짜로 변하고 싶다면, 동경하는 그녀처럼 강해지고 싶다면, 자신의 힘으로 한 걸음 앞으로 나아가는 수밖에 없는 거야!",
+			"So, Fenrir, if you really want to change, if you want to become as strong as the girl you admire, you have no choice but to take a step forward with your own strength!"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141090,
+			"Kiana…",
+			"琪亚娜……",
+			"キアナ……",
+			"키아나......",
+			null
+		],
+		[
+			"msg",
+			141091,
+			"I… want to change myself… I want to fight with Kiana just like her…",
+			"我……我想要改变……想要像她一样能在琪亚娜身边一起战斗……",
+			"わ……わたし変わりたい……彼女みたいに、キアナのそばで一緒に戦いたい……",
+			"나... 나는 변하고 싶어... 그녀처럼, 키아나 곁에서 함께 싸우고 싶어...",
+			"I... I want to change... I want to fight alongside you, Kiana, just like her..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141092,
+			"Stand up, Finrir!",
+			"那就站起来，芬里尔！哪怕隐藏起双耳，你也依然是狼吧！那就像一条饿狼一样嚎叫，把猎物撕碎啊！",
+			"じゃあ立って、フェンリル！たとえ耳を隠してたって、あなたは狼なのよ！だったら餓えた狼のように吼えて、獲物を引き裂くのよ！",
+			"그럼 일어나, 펜릴! 귀를 숨기고 있을지라도, 넌 늑대야! 그렇다면 굶주린 늑대처럼 울부짖어, 먹이를 찢어버려!",
+			"So stand up, Fenrir! You are a wolf, even if you hide your ears! So howl like the ravenous wolf you are and tear your prey to shreds!"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141093,
+			"Kiana… I won't be your burden… I want to fight for you!",
+			"琪亚娜……我，我不要再成为没用的累赘了……我要和琪亚娜一起战斗！",
+			"キアナ……わ、わたしもう足手まといになりたくない……キアナと一緒に戦いたい！",
+			"키아나... 나, 나 더 이상 발목 잡히고 싶지 않아... 키아나와 함께 싸우고 싶어!",
+			"Kiana... I-I don't want to be a burden anymore... I want to fight alongside you!"
+		],
+		[
+			"msg",
+			141094,
+			"*Roar of Finrir*",
+			"呜嗷嗷嗷嗷嗷嗷嗷~~~",
+			"ウォオオオオン～！！！",
+			"우오오오온~!!!",
+			"Awoooooo~!!!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141095,
+			"…",
+			"居然真的嚎叫啊……",
+			"本当に吼えちゃった……",
+			"진짜로 울부짖었어...",
+			"She actually howled..."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141096,
+			"Kiana, give me some time, I need to do some preparation.",
+			"琪亚娜，请给我一点时间，我要解下我的围巾。",
+			"キアナ､少し時間をください。マフラーを外しますから。",
+			"키아나, 잠시 시간을 줘. 목도리를 풀 거야.",
+			"Kiana, please give me a moment. I need to take off my scarf."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141097,
+			"Are you taking off your scarf?",
+			"围巾？这种时候还在意形象吗？",
+			"マフラー？こんなときに格好にこだわるの？",
+			"목도리? 이런 때에 옷차림에 신경 쓸 거야?",
+			"Your scarf? Why are you trying to look good at a time like this?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141098,
+			"Yes… This scarf is made for locking me… I can't control my power in the night…",
+			"不是的……这围巾，其实是束缚我的锁链……以前，我因为夜晚狂暴的样子，被人们认为是灾难的象征。所以人们用世界上六种罕见的事物，锻造了这名为Glephir的魔链，将我的力量束缚起来……",
+			"違うの……このマフラーは私を束縛している枷なんです……昔、夜の私の狂暴な姿を見た人たちが、災いをもたらすと恐れて、世にも珍しい6種類の材料を集めて、このグレイプニルという魔法の枷を作ったんです。それで私の力を束縛して……",
+			"아니야... 이 목도리는 나를 억압하는 족쇄야... 예전에, 밤의 나의 난폭한 모습을 본 사람들이 재앙을 불러온다고 두려워하여, 세상에도 희귀한 6가지 재료를 모아 이 그레이프니르라는 마법의 족쇄를 만들었어. 그래서 나의 힘을 억압하고...",
+			"No... my scarf is a shackle that is binding me... Long ago, people who saw my violent side at night feared that it would bring misfortune, so they gathered six rare materials and created these magical shackles called Gleipnir. They are binding my powers with them... (TN: CN misspelled Gleipnir to be \"Glephir\"...)"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141099,
+			"Ahhh… I see…",
+			"只因为晚上的芬里尔看起来可怕，就把你当做是灾难……还真是过分的人啊！",
+			"ただ夜のフェンリルが恐ろしく見えたからって、災いをもたらすと決めつけるなんて……ちょっとひどすぎよね！",
+			"그냥 밤의 펜릴이 무서워 보인다고 해서, 재앙을 불러온다고 단정짓다니... 좀 너무한 거 아니야!",
+			"Just because Fenrir looks scary at night... it's a bit harsh to assume she'll bring disaster!"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141100,
+			"I will use this power to protect Kiana!!",
+			"只是用于破坏的力量，是没法解开这锁链的……但是现在，如果这力量是为了保护琪亚娜的话……我想，可以做到！嘿呀！",
+			"ただ破壊しようと思っても、力任せじゃこの枷はとれないんです……でも今なら、この力をキアナを守るために使うのなら……きっとできるはず！えいっ！",
+			"그냥 부수려고 해도, 힘으로는 이 족쇄를 벗을 수 없어... 하지만 지금이라면, 이 힘을 키아나를 지키기 위해 쓴다면... 분명 할 수 있을 거야! 에잇!",
+			"Even if I wished to destroy them, I couldn't remove these shackles with just brute force... But if I use this power now to protect you, Kiana... I'm sure I can do it!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141101,
+			"*Chain breaks*",
+			"解开了！",
+			"はずれた！",
+			"빗나갔어!",
+			"You did it!"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141102,
+			"Thank you, Kiana, I will fight for you!",
+			"真的解开了！谢谢你，琪亚娜！我……请让我和你一起战斗！嘿啊！",
+			"本当にとれた！ありがとう、キアナ！わ、私も一緒に戦わせてください！やあっ！",
+			"정말로 잡았어! 고마워, 키아나! 와, 나도 함께 싸우게 해줘! 얏!",
+			"I really got it! Thank you, Kiana! I-I want to fight with you!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			141103,
+			"So quick, just like a wolf!",
+			"好快……简直就像一头野狼一样！",
+			"早っ……本当に野生の狼みたい！",
+			"빨라... 정말 야생 늑대 같아!",
+			"So fast... just like a wild wolf!"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			141104,
+			"Die!",
+			"请，请都为了琪亚娜去死吧！",
+			"ど、どうか、キアナのために死んでください！",
+			"부, 부디 키아나를 위해 죽어주세요!",
+			"P-Please, die for Kiana!"
+		]
+	],
+	"1002": [
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140966,
+			"What time is it now? Did I fall asleep… I remember I was killing zombies with Finrir…",
+			"嗯~~呼啊……现在是什么时候了……记得之前和芬里尔一起打败了死士，然后我也睡着了吗？",
+			"う～～ん、ふわぁ……今何時だろう……フェンリルと一緒にゾンビを倒したことは覚えてるけど、それから私も眠っちゃったのかな？",
+			"으~~음, 휴아...... 지금 몇 시지...... 펜릴과 함께 좀비를 무찔렀던 건 기억나는데, 그 뒤로 나도 잠들어 버린 걸까?",
+			"Mmm, <i>yawn</i>... I wonder what time it is now... I remember fighting zombies with Fenrir, but did I fall asleep after that?"
+		],
+		[
+			"msg",
+			140967,
+			"Oh, Finrir! Where is she now?",
+			"对了，芬里尔！她在哪里？",
+			"そうだ、フェンリル！どこに行ったの？",
+			"아참, 펜릴! 어디 갔어?",
+			"That's right, Fenrir! Where is she?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140968,
+			"Please, please bring me far away! Kiaaa! Ouch, I just bit my tongue…",
+			"请，请让我和你一起走！琪亚亚！呜……又，又咬到舌头了……",
+			"お、お願い、一緒に行かせて！キアア！ま……また舌噛んじゃった……",
+			"제, 제발, 같이 가게 해줘! 키야아! 막...... 또 혀 깨물어 버렸어......",
+			"P-Please, let me go with you! Kiaya! I... I bit my tongue again..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140969,
+			"Is there Finrir? What is she doing there? Let's go to see…",
+			"那边树下的是芬里尔吗？她这是在做什么……过去看看吧~",
+			"あの木の下にいるの、フェンリルかな？何してるんだろう……行ってみようっと。",
+			"저기 나무 아래에 있는 거, 펜릴일까? 뭘 하고 있을까...... 가보자.",
+			"Is that Fenrir under that tree? I wonder what she's doing... I should go and check it out."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140970,
+			"Do, do it one more time!",
+			"再，再来一次！好，加油！",
+			"も、もう一度！よし、頑張る！",
+			"다, 다시 한번! 좋아, 힘내자!",
+			"O-One more time! Okay, I'll do my best!"
+		],
+		[
+			"msg",
+			140971,
+			"Please bring me far away! Kiaaa! Still not working…",
+			"请，请让我和你一起走！琪亚亚！呜……果然还是不行吗……",
+			"お、お願い、一緒に行かせて！キアア！う……やっぱりダメだわ……",
+			"어, 어쩌면, 같이 가게 해줘! 키아아! 윽…… 역시 안 되겠네……",
+			"P-Please, let me go with you! Kiaya! Uh... I guess it's impossible after all..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140972,
+			"Go with me? Fine, but my name is not Kiaaa, it's Kiana~",
+			"和我一起走吗？可以哦~不过我的名字可不是什么琪亚亚，是琪亚娜啦~",
+			"私と一緒に？いいわよ～でも私の名前は「キアア」じゃなくて、「キアナ」よ～",
+			"나랑 같이? 좋아~ 하지만 내 이름은 「키아아」가 아니라, 「키아나」야~",
+			"Go with me? Sure~ But my name isn't \"Kiaya,\" it's \"Kiana\"~"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140973,
+			"Seriously? Great,haha~ Ah! Ki,Kiana!",
+			"真的吗？太好了呢，嘿嘿……咦？诶！琪，琪亚娜！",
+			"ほんと？良かったあ……って、あれ？やだ、キ、キアナ！",
+			"정말? 다행이다…… 라고, 어라? 아니, 키, 키아나!",
+			"Really? That's a relief... wait, what? Oh, K-Kiana!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140974,
+			"Sorry, I saw you were talking to yourself…",
+			"不好意思呢~听到了你在这里自言自语，就过来看看。",
+			"失礼～あなたの独り言が聞こえたから、見に来たの。",
+			"실례~ 네 혼잣말이 들려서, 보러 왔어.",
+			"Excuse me~ I heard you talking to yourself so I came to see."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140975,
+			"Wuu… Sorry…",
+			"呜呜……对不起……",
+			"うう……ごめんなさい……",
+			"우우…… 미안해……",
+			"Ahh... I'm sorry..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140976,
+			"You don't need to say sorry… However, Finrir, do you really want to go with me? Is that \"her\" opinion or yours?",
+			"不是什么需要道歉的事啦……不过，芬里尔，你已经想清楚了要和我一起走吗？这是夜晚的她的意志，还是你自己的想法？",
+			"いや謝らなくていいから……でもフェンリル、私と一緒に行くってよく考えたの？これは夜の彼女の意志なの？それともあなた自身の考え？",
+			"아니 사과할 필요 없어…… 하지만 펜릴, 나랑 같이 간다고 잘 생각한 거야? 이건 밤의 그녀의 의지야? 아니면 네 자신의 생각?",
+			"No, there's no need to apologize... But Fenrir, have you really thought about going with me? Is this Night's will? Or is it your own?"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140977,
+			"No… It's mine, I really want to stay with you. Please let me go with you, Kiana!",
+			"不是的……是我，是我确实想要和琪亚娜一起。所以……请让我和你一起走，琪亚娜！",
+			"彼女じゃないわ……私よ、間違いなく私がキアナと一緒にいたいの。だから……一緒に行かせて、キアナ！",
+			"그녀가 아니야…… 나야, 분명히 내가 키아나와 함께 있고 싶어. 그러니까…… 같이 가게 해줘, 키아나!",
+			"It's not her... it's me, I definitely want to be with you, Kiana. So... let me come with you, Kiana!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140978,
+			"Alright! You made it~ Finrir, you are strong now.",
+			"好的！你做到了呢~芬里尔，你变坚强了。",
+			"いいわよ！やったね～フェンリル、強くなったじゃない。",
+			"좋아! 잘 됐네~ 펜릴, 강해졌구나.",
+			"That's great! Good job, Fenrir~ You've gotten stronger."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140979,
+			"Strong? Hahaha. Can I really go with you, actually I'm not as strong as \"her\" in the night.",
+			"坚强吗？呼嘿嘿……太好了。不过，真的可以吗……我没有晚上的她那样强大，可能还是帮不上琪亚娜……",
+			"強くなった？えへ……良かった。でも、本当にいいのかな……私は夜の彼女みたいに強くないし、たぶんキアナのこと助けられない……",
+			"강해졌어? 에헤…… 다행이야. 하지만, 정말 괜찮을까…… 나는 밤의 그녀처럼 강하지도 않고, 아마 키아나를 도울 수 없을 거야……",
+			"I've gotten stronger? Eheh... that's good. But are you sure? I'm not as strong as Night, and I probably won't be able to help you, Kiana..."
+		],
+		[
+			"msg",
+			140980,
+			"She can protect you… But I can't…",
+			"如果是她的话，就能成为琪亚娜的力量，不会让琪亚娜遇到危险吧……但是我……",
+			"彼女だったら、キアナの力になれるし、キアナを危険な目に遭わせないと思う……でも私は……",
+			"그녀라면, 키아나의 힘이 되어주고, 키아나를 위험한 일에 빠지지 않게 할 거야…… 하지만 나는……",
+			"She would be able to help you and keep you out of danger... but I'm..."
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140981,
+			"Nevermind, Finrir. You did very well in the last battle.",
+			"没事的，芬里尔。之前的战斗中你已经做得很好了。",
+			"大丈夫よ、フェンリル。さっきの戦闘でもよく戦ってたじゃない。",
+			"괜찮아, 펜릴. 아까 전투에서도 잘 싸우고 있었잖아.",
+			"It's okay, Fenrir. You fought well in the last battle."
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140982,
+			"Kiana…",
+			"琪亚娜……",
+			"キアナ……",
+			"키아나……",
+			null
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140983,
+			"Don't worry~ I will help you when you meet difficulties, just try to do your best.",
+			"不用担心~遇到困难的话我也会帮助你的，你只要努力做好自己能做的事。",
+			"心配しないで～困ったことがあったら、私も助けるから。あなたは自分ができることを一生懸命やっていればいいのよ。",
+			"걱정하지 마~ 어려운 일이 있으면 나도 도와줄 테니까. 너는 네가 할 수 있는 일을 열심히 하면 돼.",
+			"Don't worry, if you have any problems, I will help you. All you have to do is do your best."
+		],
+		[
+			"msg",
+			140984,
+			"Trust me, you will become much stronger, Finrir!",
+			"相信我，芬里尔，你一定能改变，你一定能更加坚强的！",
+			"私を信じて、フェンリル。きっと変われるわ。きっともっと強くなれる！",
+			"나를 믿어, 펜릴. 분명 변할 수 있어. 분명 더 강해질 거야!",
+			"Trust me, Fenrir. You can change. You can become even stronger!"
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				true
+			],
+			[
+				10201,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			140985,
+			"Kiana… I trust you! I will try my best!",
+			"琪亚娜……我，我相信琪亚娜！我会努力的！",
+			"キアナ……わ、私、キアナを信じる！わたし頑張る！",
+			"키아나…… 나, 나 키아나를 믿어! 나 열심히 할게!",
+			"Kiana... I-I trust you! I'll do my best!"
+		],
+		[
+			"speaker",
+			204345
+		],
+		[
+			"portraits",
+			[
+				1001,
+				0,
+				false
+			],
+			[
+				10201,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			140986,
+			"Yeah! Let's do it together, Finrir!",
+			"嗯！那就和我一起出发吧，芬里尔！",
+			"うん！じゃあ一緒に、出発しましょ、フェンリル！",
+			"응! 그럼 함께 출발하자, 펜릴!",
+			"Alrighty! Then let's set off together, Fenrir!"
+		]
+	]
+}

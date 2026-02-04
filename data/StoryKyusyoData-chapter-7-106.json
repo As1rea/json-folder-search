@@ -1,0 +1,2395 @@
+{
+	"212": [
+		[
+			"speaker",
+			204616
+		],
+		[
+			"bg",
+			"CG10148"
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302306,
+			null,
+			"第二反应炉即将到达临界点！反应指数已经超过预计指标！",
+			"第2原子炉が間もなく臨界点に達します！反応指数は既に予測指標を越えています！",
+			"제2 원자로가 곧 임계점에 도달합니다! 반응 지수는 이미 예측 지표를 넘어섰습니다!",
+			null,
+			null,
+			"The second reactor is about to reach criticality! The reaction index has exceeded the projected indicators!",
+			"The second reactor will soon reach criticality! The reaction index has already exceeded the predictive index!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			302307,
+			null,
+			"别管它！开启第三、第四反应炉作为缓冲，把律者核心的崩坏能疏导到过去！",
+			"構うことないわ！#n第3、第4原子炉を緩衝ポイントとして開放して、律者コアの崩壊エネルギーを流し込むのよ！",
+			"신경 쓰지 마!#n제3, 제4 원자로를 완충 포인트로 개방해서, 율자 코어의 붕괴 에너지를 흘려넣는 거야!",
+			null,
+			null,
+			"Leave it alone! Turn on the third and fourth reactors as a buffer to channel the Honkai energy from the Herrscher core into the past!",
+			"It doesn't matter! Open up the 3rd and 4th reactors as buffer points and let the Honkai energy of the Herrscher core flow in!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				false
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			302308,
+			null,
+			"不行！短时间内的导入能量太过庞大了！这样下去整个动力炉都会损坏的！",
+			"ダメです！短時間であまりに膨大なエネルギー量を注入しすぎです！#nこのままでは動力炉全体が壊れてしまいます！",
+			"안 돼요! 짧은 시간에 너무 방대한 에너지를 주입했어요!#n이대로라면 동력로 전체가 파괴되어 버릴 거예요!",
+			"No way! The amount of energy introduced in a short period of time is too much! If this continues, the whole power furnace will be damaged!",
+			null,
+			"No way! It's too much imported energy in a short period of time! The entire power furnace will be damaged if we keep this up!",
+			"No, it's not working! You are injecting too much energy in too short a time! The entire power reactor will break down if we don't do something about it!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302309,
+			null,
+			"可恶…没有时间做保守测试了！别管那些数值！只要保持出力稳定即可！",
+			"くっ……保守テストに時間を掛ける暇なんてないのに！そんな数値は無視よ、無視！出力の安定を維持できればいい……！",
+			"쳇... 보수 테스트에 시간을 낭비할 여유가 없는데! 그런 수치는 무시하라고, 무시! 출력 안정만 유지할 수 있으면 돼...!",
+			"Damn it, ...... I don't have time for maintenance testing! Forget the numbers, just keep the output stable!",
+			null,
+			"Damn...no time for conservative testing! Never mind the values! Just keep the power out steady!",
+			"Damn ...... I don't have time to spend on maintenance testing! Ignore those numbers, ignore them! Just keep the output stable. ......"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302310,
+			null,
+			"明白…第三第四号反应炉开启，核心能量传输中……",
+			"分かりました……第3、第4号原子炉開放、コアエネルギー伝送中——",
+			"알겠습니다...... 제3, 제4호 원자로 개방, 코어 에너지 전송 중——",
+			null,
+			null,
+			"Understood...Third and fourth reactors open, core energy transfer in progress ......",
+			"Understood. ...... Reactors 3 and 4 open, core energy transmission in progress--"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302311,
+			null,
+			"嗡嗡嗡——！！",
+			"ブゥォォォン——！！",
+			"부우우웅——!!",
+			null,
+			null,
+			"Buzzing-!",
+			"Boooo--!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302312,
+			null,
+			"一定要成功啊……",
+			"何としてでも、成功してちょうだいよ……。",
+			"무슨 일이 있어도, 성공해 줘.......",
+			null,
+			null,
+			"It's got to work ......",
+			"Whatever you do, make sure you succeed. ......"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302313,
+			null,
+			"三号四号反应炉数值达到临界点！指标仍在上升！但是已经到达动力炉启动条件！",
+			"3号、4号原子炉の数値が臨界点に達しました！指数はなおも上昇中！#nですが、既に動力炉の起動条件に達しました！",
+			"3호, 4호 원자로의 수치가 임계점에 도달했습니다! 지수는 여전히 상승 중!#n하지만 이미 동력로의 기동 조건에 도달했습니다!",
+			null,
+			null,
+			"Reactor 3 and 4 values reach critical point! Indicators are still rising! But power furnace start-up conditions have been reached!",
+			"The numbers for Reactors #3 and #4 have reached a critical point! The index is still rising! The power reactors have already reached their start-up conditions!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				true
+			],
+			[
+				54,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			302314,
+			null,
+			"启动动力炉！",
+			"動力炉、起動ッ！",
+			"동력로, 기동!!",
+			null,
+			null,
+			"Start the power furnace!",
+			"Power reactor startup!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				6,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV08_ExplosionWhileDream"
+		],
+		[
+			"msg",
+			302315,
+			null,
+			"轰隆隆隆隆！！！！",
+			"ゴォォオオオン！！！！",
+			"고오오온!!!!",
+			null,
+			null,
+			"Rumble Rumble Rumble ！！！！",
+			"Goooooooooooooong ！！！！"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302316,
+			null,
+			"咕！这个震动……动力炉怎么样了！",
+			"ぐっ！この振動は……ど、動力炉は！？",
+			"윽! 이 진동은...... 뭐, 동력로는!?",
+			null,
+			null,
+			"Coo! How's this vibrating ...... power furnace coming along!",
+			"Ggh! This vibration is ...... and the power reactor!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302317,
+			null,
+			"咳咳！数值记录中…反应炉运作正常！我们成功了！反应炉开始工作了！",
+			"ゴホッ、ゴホッ！数値記録中……原子炉は正常に作動！やりました！原子炉が稼働し始めました！",
+			"콜록, 콜록! 수치 기록 중...... 원자로는 정상 작동! 해냈어! 원자로가 가동되기 시작했어요!",
+			null,
+			null,
+			"Ahem! Values are being recorded...the reactor is functioning normally! We did it! The reactor is working!",
+			"Gosh, Gosh! Numerical values are being recorded. ...... Reactor is working normally! We did it! The reactor has started to operate!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV21_WarningAlertTunnelB"
+		],
+		[
+			"msg",
+			302318,
+			null,
+			"「滴滴滴——警报！警报！核心动力炉高度负载！请立刻关闭！」",
+			"「ピピピ——警告！警告！コア動力炉の負荷が許容量を突破！ただちにシャットダウンしてください！」",
+			"「삐빅——경고! 경고! 코어 동력로의 부하가 허용량을 돌파! 즉시 셧다운하세요!」",
+			null,
+			null,
+			"\"Drip, drip, drip - Alarm! Alert! Core power furnace highly loaded! Please shut down immediately!\"",
+			"Bleepy--warning! Warning! The load on the core power reactor has exceeded the allowable capacity! Shut it down immediately!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302319,
+			null,
+			"呃！动力炉的机械结构已经到极限了！我们得立即停止测试！",
+			"──ッ！動力炉の機械構造が限界に達しました！ただちにテストを中止しないと危険です！",
+			"──악! 동력로의 기계 구조가 한계에 도달했습니다! 즉시 테스트를 중지하지 않으면 위험합니다!",
+			null,
+			null,
+			"Uh! The mechanics of the power furnace have reached their limits! We have to stop the test immediately!",
+			"─ ─ ─ ..! The mechanical structure of the power reactor has reached its limit! We must stop the test immediately or it will be dangerous!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302320,
+			null,
+			"快！关闭动力炉！",
+			"は、早く！動力炉のシャットダウンを！",
+			"하, 빨리! 동력로 셧다운을!",
+			null,
+			null,
+			"Quickly! Shut down the power furnace!",
+			"Ha, come on! Shut down the power reactor!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302321,
+			null,
+			"嗡——————！",
+			"——ゥゥゥゥン……！",
+			"——우우우웅......!",
+			null,
+			null,
+			"Buzz ------!",
+			"--Wooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo ......!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302322,
+			null,
+			"动力炉…已关闭……",
+			"動力炉……シャットダウンしました……。",
+			"동력로...... 셧다운했습니다.......",
+			null,
+			null,
+			"Power Furnace...Closed ......",
+			"Power reactor ...... shut down ......."
+		],
+		[
+			"bgm",
+			66
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			302323,
+			null,
+			"呼…真是吓死我了，要是死在自己研发的作品下面，可是太丢人了……",
+			"ふぅ……びっくりした。自分で開発した機械のせいで死んでたら、恥ずかしいったらありゃしないわ……。",
+			"후...... 깜짝 놀랐어. 내가 개발한 기계 때문에 죽었으면, 창피하다고 해도 어쩌겠어.......",
+			null,
+			null,
+			"Whew...that really scared me, it would be a shame to die under the work I developed ......",
+			"Whew ...... I was surprised. I would be so embarrassed if I died because of a machine I developed. ......"
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302324,
+			null,
+			"虽然这次测试也没有成功，但至少我们已经成功点燃了动力炉…这些实验数据将会是最宝贵的成果，只要在这个基础上再接再厉的话……",
+			"今回のテストも成功しなかったけれど、少なくとも動力炉の点火には成功したわ……この実験データは何より貴重な成果よ。これをもとにして、もっと頑張れば……。",
+			"이번 테스트도 성공하지 못했지만, 적어도 동력로 점화에는 성공했어...... 이 실험 데이터는 무엇보다 귀중한 성과야. 이를 바탕으로 더 노력하면.......",
+			null,
+			null,
+			"Although this test was also unsuccessful, at least we've managed to ignite the power furnace...this experimental data will be the most valuable result, if only we can build on it ......",
+			"This test was not successful either, but at least we succeeded in igniting the power reactor. ...... This experimental data is the most valuable achievement of all. We can build on this and do more. ......"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302325,
+			null,
+			"伊瑟琳！你们没事吧！刚才的震动是怎么回事！？",
+			"イザーリン！大丈夫！？さっきの揺れは何事なの！？",
+			"이자린! 괜찮아!? 방금 흔들린 건 무슨 일이야!?",
+			null,
+			null,
+			"Estherine! You guys are okay! What was that vibration just now!",
+			"Estherine! Are you okay! What was that tremor just now!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302326,
+			null,
+			"呜…你们怎么来了。",
+			"うっ……あなたたち、どうしてここに？",
+			"윽...... 당신들, 왜 여기에?",
+			null,
+			null,
+			"Woo...what are you guys doing here.",
+			"Ugh ...... how are you guys here?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302327,
+			null,
+			"ME社周边的轨道已经清理修复完毕了，所以过来看看这边的情况。",
+			"ME社周辺のレール上にあった瓦礫の片付けと、その修復が完了しました。それでこちらの様子を見に来たのです。",
+			"ME사 주변 레일 위에 있던 잔해 치우기와 수리가 완료되었습니다. 그래서 여기 상황을 보러 왔습니다.",
+			null,
+			null,
+			"The tracks around the M.E. Corporation have been cleaned up and repaired, so I came over to see what's going on over here.",
+			"We have completed the cleanup of the debris on the rails around M.E. Corporation and its restoration. So we came to see how things are going here."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302328,
+			null,
+			"这样啊…辛苦你们了，关于休伯利安的情况我们待会换个地方讲吧。正好实验刚刚结束，我们也需要总结一下结果，你们正好也休息一下。",
+			"そうだったのね……ご苦労様。#nハイペリオンの状況については、場所を変えて話しましょう。ちょうど実験が終わったばかりなの。私たちは結果をまとめなくちゃいけないから、あなたたちも少し休んでいて。",
+			"그랬구나…… 수고했어.#n히페리온의 상황에 대해서는 장소를 옮겨서 이야기하자. 방금 실험이 끝났거든. 우리는 결과를 정리해야 하니까, 너희들도 좀 쉬고 있어.",
+			null,
+			null,
+			"In that case...after working hard for you guys, let's talk about Hyperion's situation in a different place later. It just so happens that the experiment has just ended, and we need to summarize the results, so you guys should take a break.",
+			"I see that you did. ...... Thanks for your efforts. Let's talk about the Hyperion situation in a different location. We just finished the experiment. We need to wrap up the results, so you guys can get some rest."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302329,
+			null,
+			"明白了，那我们去指挥室等你。",
+			"分かりました。では、ブローニャたちは指令室で待っています。",
+			"알겠습니다. 그러면, 브로냐들은 지령실에서 기다리고 있겠습니다.",
+			null,
+			null,
+			"Understood. Then we'll meet you in the command room.",
+			"I understand. Bronya and her team will be waiting in the control room."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302330,
+			null,
+			"好的……",
+			"ええ、そうしてちょうだい。",
+			"응, 그렇게 해줘.",
+			null,
+			null,
+			"Good ......",
+			"Yes, please do."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10149"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302332,
+			null,
+			"布洛妮娅…休伯利安号真的可以再次起飞么？",
+			"ブローニャ……ハイペリオン号は本当にまた飛べるの？",
+			"브로냐……히페리온호는 정말 다시 날 수 있을까?",
+			"Bronya...can the Hyperion really take off again?",
+			null,
+			"Bronya...can the Hyperion really take off again?",
+			"Bronya...... can the Hyperion really fly again?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302333,
+			null,
+			"伊瑟琳一定会做到的，休伯利安号是我们最后的筹码，所以她们一定会全力以赴。",
+			"イザーリンならきっとできるはずです。ハイペリオン号は我々の切り札ですから、彼女たちもきっと全力で何とかしてくれるはずです。",
+			"이자린이라면 분명히 할 수 있을 거예요. 히페리온호는 우리의 비장의 카드니까, 그들도 분명 전력을 다해 어떻게든 해줄 거예요.",
+			null,
+			null,
+			"Estherine will do it. The Hyperion is our last bargaining chip, so they'll be all over it.",
+			"I am sure Estherine can do it. The Hyperion is our trump card, and I am sure they will do everything in their power to make it work."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302334,
+			null,
+			"没错…我想姬子队长也一定也很想看到休伯利安再次起飞的样子，希望她能够保佑我们。",
+			"そうよ……姫子もきっとハイペリオンがまた飛ぶ姿を見たかったでしょうね。彼女が私たちを守ってくれるよう祈りましょう。",
+			"그래……히메코도 분명 히페리온이 다시 날아가는 모습을 보고 싶었을 거야. 그녀가 우리를 지켜주길 빌자.",
+			null,
+			null,
+			"And yes...I'm sure Captain Himeko would love to see Hyperion take off again as well, and I hope she blesses us.",
+			"Yes ...... I am sure Himeko would have loved to see Hyperion flying again. Let us pray that she will protect us."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302335,
+			null,
+			"嗯……",
+			"はい……。",
+			"네…….",
+			null,
+			null,
+			"Hmmm ......",
+			"Yes. ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302336,
+			null,
+			"各位久等了…动力炉测试结果已经出来了。",
+			"みんな、お待たせ……動力炉のテスト結果が出たわ。",
+			"다들, 오래 기다리게 했어……동력로 테스트 결과가 나왔어.",
+			"Sorry to keep everyone waiting... I've got the results from the generator.",
+			null,
+			"Long time waiting folks...the power furnace test results are in.",
+			"Hey guys, here you go: ...... I got the test results from the power reactor."
+		],
+		[
+			"msg",
+			302337,
+			null,
+			"首先有好消息和坏消息，你们要先听哪个？",
+			"まず、いい知らせと悪い知らせがあるんだけど、どっちから聞く？",
+			"먼저, 좋은 소식과 나쁜 소식이 있는데, 어느 쪽부터 들을래?",
+			null,
+			null,
+			"First there's good news and bad news. Which one do you want to hear first?",
+			"First, I have good news and bad news, which would you like to hear first?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302338,
+			null,
+			"一上来就是这种模式么，先听坏消息吧，反正现在这个情况再坏能坏到哪里去呢。",
+			"いきなり、その聞き方ですか。#nでは、悪い知らせから聞きましょう。どうせ、今の状況がこれ以上悪くなることはありませんからね。",
+			"갑자기 그런 식으로 물어보시네요.#n에서는 나쁜 소식부터 말씀드릴게요. 어차피 지금 상황이 이보다 더 나빠질 순 없을 테니까요.",
+			null,
+			null,
+			"Once up is this pattern? Listen to the bad news first, anyway, now this situation can be as bad as how bad it can be.",
+			"Is that the way you want to hear it out of the blue? Well, let's start with the bad news. The situation can't get any worse anyway."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302339,
+			null,
+			"好吧…你说的也对，坏消息的确也没有那么糟糕。",
+			"それもそうね、あなたの言う通り……。悪い知らせは確かにそこまでひどいものではないわ。",
+			"그럴 수도 있겠네, 당신 말이 맞아... 나쁜 소식은 확실히 그 정도까지 심각하지는 않아.",
+			null,
+			null,
+			"Well...you're right, the bad news really isn't that bad.",
+			"That's true, too, and you're right: ....... The bad news certainly isn't that bad."
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302340,
+			null,
+			"从现在的测试数据来看，由于受到材料的限制，动力炉即使在正常运作的状态下也仅仅只能维持四小时左右…而且目前动力炉的出力很不稳定，实际运用中可能时间更短，更别说……",
+			"現在のテストデータによると、資材が限られているせいで動力炉が正常に作動したとしても、せいぜい4時間くらいしか維持できないことがわかったわ……。#nただそれも計算上にすぎない……動力炉の出力は不安定で、実際に稼働させたら時間はもっと短くなるかもしれない。#nましてや……。",
+			"현재 테스트 데이터에 따르면, 자재가 제한되어 있어서 동력로가 정상 작동한다 해도 최대 4시간 정도밖에 유지되지 못할 거라고 판단됐어...#n다만 이건 계산상 그런 거지... 동력로 출력이 불안정해서 실제 가동하면 시간이 더 단축될 수도 있어.#n게다가...",
+			null,
+			null,
+			"From the current test data, due to the limitations of the material, the Power Furnace can only last for about four hours even under normal operation...and the current power output of the Power Furnace is very unstable, and it may be even shorter in actual use, not to mention ......",
+			"Current test data shows that even if the power reactor were to operate properly due to limited materials, it would only last about four hours at most. ...... But that's just a calculation. ...... The power reactor's output is unstable, and the time could be much shorter if it were actually running. More importantly,......."
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302341,
+			null,
+			"更别说还要与崩坏生物作战么……",
+			"ましてや崩壊生物とも戦うことを考えると……。",
+			"게다가 붕괴 생물과도 싸워야 한다는 점을 고려하면...",
+			"Not to mention having to fight Honkai creatures? ......",
+			null,
+			"Not to mention having to fight Honkai creatures? ......",
+			"And to think that we also fight Honkai creatures. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302342,
+			null,
+			"没错，现在的休伯利安号一旦起飞就将是一个空中的棺木，这是一张有去无回的单程票，如果在空中失去动力的话，我们几乎没有生还的可能。",
+			"その通り。今のハイペリオン号は飛び立ったが最後、空飛ぶ棺桶になるわ。これは完全なる片道切符なの。もし空中で動力を失えば、私たちが生還できる可能性はゼロに等しい。",
+			"그래. 지금의 히페리온호는 이륙하는 순간 하늘을 나는 관이 될 거야. 이건 완전한 편도 티켓이지. 만약 공중에서 동력을 잃으면 우리가 생존할 가능성은 제로에 가까워.",
+			"That's right. The Hyperion will be a flying coffin the minute it takes off. It's a one way ticket. And if we lose power while we're in the air, there's no chance we'd survive.",
+			null,
+			"That's right, the Hyperion will now be an airborne coffin once it takes off, a one-way ticket with no return, with little chance of us surviving if we lose power in the air.",
+			"That's right. The Hyperion will be a flying coffin the minute it takes off. It's a total one-way ticket. If we lose power in the air, our chances of survival are zero."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302343,
+			null,
+			"单程就已经足够了…如果不能阻止律者的话这都没有意义。",
+			"片道切符で十分です……律者を止めることができなければ、それすらも意味がなくなってしまいますから。",
+			"편도 티켓으로 충분해요... 율자를 막지 못하면 그 조차도 의미가 없어질 테니까요.",
+			"A one way ticket is enough. If we can't stop the Herrscher... Everything will have been for nothing.",
+			null,
+			"One way would have been enough...none of this makes sense if you can't stop the Herrscher.",
+			"A one-way ticket is enough, because if we can't stop Herrscher ......, even that will be meaningless."
+		],
+		[
+			"msg",
+			302344,
+			null,
+			"让孩子们和伤员留在基地吧，这样即使我们牺牲了，至少人类的火种也还保存着。",
+			"子供たちと負傷者は基地に残しましょう。これでブローニャたちが犠牲になったとしても、人類の火種を残すことができます。",
+			"아이들과 부상자들은 기지에 남겨둡시다. 이렇게 하면 브로냐들이 희생되더라도 인류의 불씨는 남길 수 있을 거예요.",
+			null,
+			null,
+			"Let the children and the wounded stay at the base, so that even if we die, at least the fire of humanity is still preserved.",
+			"Leave the children and wounded at the base. This way, even if Bronya and the others are sacrificed, we can still leave a spark of humanity."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302345,
+			null,
+			"嗯……",
+			"うん……。",
+			"응...",
+			null,
+			null,
+			"Hmmm ......",
+			"Yeah. ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302346,
+			null,
+			"坏消息就是这个吧，那么好消息呢？",
+			"悪い知らせはわかりました。では、いい知らせは？",
+			"나쁜 소식은 알겠어요. 그럼 좋은 소식은?",
+			null,
+			null,
+			"That's the bad news, right? What about the good news?",
+			"I understand the bad news. So what's the good news?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			302347,
+			null,
+			"不，坏消息不止有一个…在这两天对于死斑的观测来看，崩坏能的已经达到了大崩坏的量级…",
+			"いえ、悪い知らせは1つだけじゃないの……。#nここ数日の死斑の観測状況を見るに、崩壊エネルギーが既に大崩壊のレベルに達していると推測されるわ……。",
+			"아니, 나쁜 소식은 하나뿐이 아니었어...#n최근 며칠간 사반의 관측 상황을 보면, 붕괴 에너지가 이미 대붕괴 수준에 도달한 것으로 추정돼...",
+			null,
+			null,
+			"No, there's more than one piece of bad news...in the past two days of observation of the Dead Spot, the Crash Energy's have reached the magnitude of the Honkai...",
+			"No, there is more than one piece of bad news: ....... Based on the observations of dead spots over the past few days, I'm guessing that the Honkai energy has already reached the level of a major Honkai. ......"
+		],
+		[
+			"msg",
+			302348,
+			null,
+			"离最后的爆发恐怕只有不到12小时的时间了，我们必须立即行动才行。",
+			"恐らく、最後の爆発まで12時間もないでしょうね。今すぐ行動しないと間に合わない。",
+			"아마도, 최후의 폭발까지 12시간도 남지 않았을 거예요. 지금 당장 행동하지 않으면 늦을 거예요.",
+			null,
+			null,
+			"I'm afraid we have less than 12 hours before the final outbreak, and we need to act now in order to do so.",
+			"Probably less than 12 hours until the last explosion. If we don't act now, we won't make it in time."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			302350,
+			null,
+			"是么……",
+			"そうですか……。",
+			"그렇습니까…….",
+			null,
+			null,
+			"Yes? ......",
+			"I see. ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302351,
+			null,
+			"但好消息是，我们找到了如何稳定动力炉的方法，已经保证了出击的安全性，只要你一声令下，休伯利安号现在就可以出发。",
+			"でも、いい知らせはね、動力炉を安定させる方法を見つけたから、出撃しても安全は確保できるわよ。#nあなたが命令を下せば、ハイペリオン号は今にでも出撃可能よ。",
+			"하지만, 좋은 소식이 있어요. 동력로를 안정시키는 방법을 찾았으니, 출격해도 안전은 확보할 수 있어요.#n당신이 명령을 내리면, 히페리온호는 지금이라도 출격 가능해요.",
+			"But the good news is that I've found a way to stabilize the generator enough for us to launch. We can take off whenever you give the command.",
+			null,
+			"But the good news is that we've found out how to stabilize the power furnaces, have secured the strike, and the Hyperion is ready to go now at your command.",
+			"But the good news is, I've found a way to stabilize the power reactor so it's safe to launch. If you give the order, the Hyperion can launch any day now."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				3,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302352,
+			null,
+			"啊…那就没有什么好犹豫的了！",
+			"そうなのですね……！では、何も迷う必要はありません。",
+			"그런 거였군요……! 그렇다면, 무엇도 망설일 필요가 없습니다.",
+			null,
+			null,
+			"Ah...there's no hesitation then!",
+			"That's right. ......! Then there is no need to hesitate about anything."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10173"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302353,
+			null,
+			"",
+			null,
+			null,
+			null
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302354,
+			null,
+			"休伯利安号系统检测结束！未发现异常！动力炉启动！开始导入崩坏能！",
+			"ハイペリオン号システムテスト終了！異常なし！動力炉起動！崩壊エネルギー注入開始！",
+			"히페리온호 시스템 테스트 종료! 이상 없음! 동력로 기동! 붕괴 에너지 주입 시작!",
+			null,
+			null,
+			"The Hyperion's system testing is complete! No anomalies detected! Furnace activated! Beginning to import Honkai energy!",
+			"System test on the Hyperion completed! No abnormalities! Power reactor activated! Honkai energy injection commencing!"
+		],
+		[
+			"msg",
+			302355,
+			null,
+			"前方轨道检查完毕！通行顺畅！随时可以进发！",
+			"前方レールの検査完了！通行に支障なし！いつでも出撃できますッ！",
+			"전방 레일 검사 완료! 통행에 지장 없음! 언제든 출격할 수 있습니다!",
+			null,
+			null,
+			"Track check ahead complete! Passage is smooth! Ready to move in!",
+			"Front rail inspection complete! No obstruction to traffic! Ready to go out anytime!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				56,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302356,
+			null,
+			"布洛妮娅，为了保证动力炉的出力稳定，我们打算采用常规滑行的手段进行升空，需要一段较长的助跑来缓慢增加出力从而使战舰达到决断速度。",
+			"ブローニャ、動力炉の出力を安定させるために、従来の滑走方式で離陸しようと思うの。#nそれと出力を徐々に高めて戦艦を離陸決心速度に持っていくために、長めの助走が必要になるわね。",
+			"브로냐, 동력로의 출력을 안정시키기 위해 기존의 활주 방식으로 이륙하려고 생각해. 그리고 출력을 점차 높여 전함을 이륙 결정 속도로 유도하기 위해 긴 활주 거리가 필요할 거야.",
+			null,
+			null,
+			"Bronya, in order to keep the power out of the power furnaces stable, we intend to use a conventional glide for liftoff, requiring a long boost to slowly increase the power out and thus bring the battleship up to decisive speed.",
+			"Bronya, I'm going to try to take off using the conventional glide method to stabilize the power reactor output. I'll also need a longer run-up to gradually increase the power output and bring the battleship up to takeoff speed."
+		],
+		[
+			"msg",
+			302357,
+			null,
+			"助跑的距离预计需要20公里，也就是说我们得穿过大半个长空市的危险区域才行，而且这个过程中也无法使用主炮，只能靠你们了。",
+			"助走の距離は20キロ必要になると見積もっているわ。#nつまり、私たちは長空市の危険エリアのほとんどを突っ切らなくてはいけないってこと。しかも、その途中で主砲は使えないから、あなたたちだけが頼りなの。",
+			"활주 거리는 20킬로미터 정도 소요될 것으로 예상해.#n즉 우리는 장공시 위험지역 대부분을 가로질러야 한다는 뜻이야. 게다가 그 과정에서 주포를 사용할 수 없으니 오직 너희들만이 유일한 희망이야.",
+			null,
+			null,
+			"The distance of the boost is expected to take 20 kilometers, which means we'll have to cross half of the danger zone of Long Hollow City to get there, and we won't be able to use our main guns in the process, so we'll have to rely on you guys.",
+			"I estimate that we will need to cover a distance of 20 kilometers. That means we will have to plow through most of the dangerous areas of Changku City. And since we can't use our main gun along the way, you are the only ones we can rely on."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				60,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302358,
+			null,
+			"我明白了，全员注意！在休伯利安升空之前全力保护战舰！",
+			"分かりました——総員注目！ハイペリオンが離陸するまで全力で戦艦を保護してください！",
+			"알겠습니다 전원 주목! 히페리온이 이륙할 때까지 전함을 사수하라!",
+			null,
+			null,
+			"I understand. All hands on deck! All hands on deck to protect the battleship until Hyperion lifts off!",
+			"Understood -- Attention all hands! Protect the battleship at all costs until Hyperion takes off!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				66,
+				0,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302359,
+			null,
+			"遵命！绝对誓死保卫休伯利安！",
+			"了解！死んでも絶対にハイペリオンを守るわ！",
+			"알겠어! 죽어도 절대히페리온을 지킬 거야!",
+			null,
+			null,
+			"Yes, sir! Defend Hyperion to the death!",
+			"Copy that! I will absolutely protect Hyperion, even if it kills me!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				66,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302360,
+			null,
+			"很好。",
+			"お願いします。",
+			"부탁드립니다.",
+			null,
+			null,
+			"That's good.",
+			"Please."
+		],
+		[
+			"bgm",
+			54
+		],
+		[
+			"portraits",
+			[
+				66,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302361,
+			null,
+			"各位！我们在地上匍匐了太久，也该抬头仰望天空了！",
+			"皆さん！我々は地表であまりにも長い間、這いつくばってきました。今こそ、大空を見上げる時です！",
+			"여러분! 우리는 지상에서 너무나 오랫동안 기어다녔습니다. 이제야, 하늘을 올려다볼 때입니다!",
+			null,
+			null,
+			"Gentlemen! We've been prostrate on the ground for too long, and it's time to look up to the sky!",
+			"Ladies and gentlemen! We have been crawling on the surface of the earth for far too long. Now is the time to look up to the sky!"
+		],
+		[
+			"msg",
+			302362,
+			null,
+			"这是最后的战斗了！逐火之蛾！向着希望的光芒展翅高飞！",
+			"これが最後の戦いです！#n火を追う蛾よ！希望の光に向かって高く羽ばたくのです！",
+			"이것이 마지막 전투입니다!#n불을 좇는 나방들이여! 희망의 빛을 향해 높이 날아오르는 것입니다!",
+			null,
+			null,
+			"This is the final battle! Moth by fire! Spread your wings towards the light of hope!",
+			"This is the last battle! O moth that chases fire! Flap your wings high toward the light of hope!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302363,
+			null,
+			"休伯利安号出击！",
+			"ハイペリオン号、出撃——ッ！",
+			"히페리온호, 출격——!",
+			null,
+			null,
+			"The Hyperion strikes!",
+			"The Hyperion, launch--!"
+		]
+	],
+	"213": [
+		[
+			"bgm",
+			54
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10201"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV13_MosterRoar"
+		],
+		[
+			"msg",
+			302364,
+			null,
+			"吼吼吼！！",
+			"ウォォォォォ——ッ！！",
+			"우오오오——!!",
+			null,
+			null,
+			"Ho ho ho ho!",
+			"Woow--!"
+		],
+		[
+			"msg",
+			302365,
+			null,
+			"哒哒哒！！",
+			"ダダダッ……！",
+			"다다다닥……!",
+			null,
+			null,
+			"Da-da-da-da!",
+			"Dadda dadda. ......"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302366,
+			null,
+			"报告！左舷发现大量崩坏生物接近！请求支援！",
+			"報告します！左舷に大量の崩壊生物が接近中！至急、応援を求めます！",
+			"보고합니다! 좌현에 대량의붕괴 생물이 접근 중! 지금 즉시, 지원을 요청합니다!",
+			null,
+			null,
+			"Report! A large number of Honkai creatures have been sighted approaching on the port side! Requesting backup!",
+			"Report! Large number of Honkai organisms approaching port side! Request immediate assistance!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302367,
+			null,
+			"放心吧！就让九霄大人为你们开辟崭新的航路！",
+			"安心するがいいっ！この九霄様が、新しい航路を切り開いてやろう！",
+			"안심하라! 이큐쇼님이, 새로운 항로를 개척해 주실 거야!",
+			"Rest assured! The great and mighty Kyuushou shall open up a new route for you!",
+			null,
+			"Rest assured! Let Lord Kyuushou open up a brand new course for you!",
+			"Rest assured! I, Kyuushou-sama, will open up a new route for you!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				58,
+				2,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302368,
+			null,
+			"援护九霄！所有人集中火力！不要让崩坏生物靠近舰身！",
+			"総員、九霄を援護してください！！#n全員の火力を集中！崩壊生物を艦に近づけてはいけません！",
+			"전원,큐쇼를 엄호해 주십시오!!#n전원의 화력을 집중!붕괴 생물을 함선에 접근시켜서는 안 됩니다!",
+			null,
+			null,
+			"Aid Kyuushou! All hands, concentrate your fire! Don't let the Honkai creatures get close to the ship!",
+			"All hands, cover Kyuushou! Concentrate all firepower! Do not allow Honkai organisms to approach the ship!"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				58,
+				2,
+				true
+			],
+			[
+				62,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			302369,
+			null,
+			"交给我吧！",
+			"あたくしに任せて！",
+			"나에게 맡겨!",
+			null,
+			null,
+			"Leave it to me!",
+			"I'll take care of it!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302370,
+			null,
+			"轰隆！！！",
+			"ドォオオオンッ！！！",
+			"두어어어언!!!",
+			null,
+			null,
+			"Boom!!!",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				62,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			302371,
+			null,
+			"各位！动力炉已经达到临界点！战舰即将开始最后阶段的加速！我们要准备升空了！",
+			"みんな！動力炉が臨界点に達したわ！戦艦は間もなく最後の加速段階に入る！離陸の準備をして！",
+			"여러분! 동력로가 임계점에 도달했어요! 전함은 곧 마지막 가속 단계에 들어갈 거예요! 이륙 준비를 하세요!",
+			null,
+			null,
+			"Gentlemen! The power furnaces have reached critical mass! The battleship is about to begin the final phase of acceleration! We're preparing for liftoff!",
+			"Guys! The power reactors have reached critical mass! The battleship will soon enter its final acceleration phase! Prepare for takeoff!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302372,
+			null,
+			"全都趴下！抓紧舰桥上的防护栏！注意别被惯性甩飞！",
+			"全員、体勢を低くしてください！艦橋のフェンスにつかまって、慣性で振り落とされないよう気をつけてください！",
+			"전원, 몸을 낮추세요! 함교의 난간을 잡고, 관성으로 떨어지지 않도록 조심하세요!",
+			null,
+			null,
+			"Everybody down! Grab the guardrails on the bridge! Don't let the inertia throw you off!",
+			"Everyone, please keep your stances low! Hold on to the bridge fence and be careful not to be swept off by inertia!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302373,
+			null,
+			"动力炉限制解除！最大出力！休伯利安开始升空！",
+			"動力炉のリミットを解除！最大出力！ハイペリオン、離陸開始！",
+			"동력로의 리미트를 해제! 최대 출력! 히페리온, 이륙 시작!",
+			null,
+			null,
+			"Power furnace restrictions lifted! Maximum power out! Hyperion beginning liftoff!",
+			"Power reactor limit released! Maximum power! Hyperion, start takeoff!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302374,
+			null,
+			"轰隆——————！！！！",
+			"ゴォォォーーーーッ！！！！",
+			"고오오오오오!!!!",
+			null,
+			null,
+			"Rumble ------ ！！！！",
+			"Gooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo ！！！！"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				8,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302375,
+			null,
+			"呜哇哇哇！！",
+			"わわ……っ！",
+			"와아……!",
+			null,
+			null,
+			"Woo woo woo woo!",
+			"Wow. ......!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10196"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302376,
+			null,
+			"飞起来了……我们飞起来了！",
+			"飛んだ……ついに飛んだ！",
+			"날았다…… 결국 날았어!",
+			null,
+			null,
+			"Fly up ...... we fly up!",
+			"It flew ...... finally!"
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"msg",
+			302377,
+			null,
+			"动力炉出力稳定！休伯利安号成功起飞！",
+			"動力炉出力安定！ハイペリオン号、離陸成功！",
+			"동력로 출력 안정! 히페리온 호, 이륙 성공!",
+			null,
+			null,
+			"The power furnace is producing steady power! The Hyperion has successfully taken off!",
+			"Power reactor output stabilized! The Hyperion has successfully taken off!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			302378,
+			null,
+			"太好了…总算是没有出什么问题……",
+			"よ、よかった……とりあえず何も問題がなくて……。",
+			"다, 다행이야…… 일단 아무 문제도 없어서…….",
+			null,
+			null,
+			"Great...finally nothing went wrong ......",
+			"Yo, thank goodness ...... for now, nothing is wrong with ......."
+		],
+		[
+			"speaker",
+			204616
+		],
+		[
+			"msg",
+			302379,
+			null,
+			"目前高度1200米，水平推进器开启，战舰仰角回正！开始匀速爬升！",
+			"現在、高度1200メートル、水平推進器作動、戦艦の仰角戻ります！等速上昇開始！",
+			"현재, 고도 1200미터, 수평 추진기 작동, 전함의 앙각 복귀! 등속 상승 시작!",
+			null,
+			null,
+			"Current altitude 1,200 meters. Horizontal thrusters on. Battleship elevation corrected! Begin even climb!",
+			"Altitude now 1200 meters, horizontal propulsion activated, battleship elevation returning! Begin constant velocity ascent!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10201"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			302380,
+			null,
+			"很好…布洛妮娅！你们没事吧！",
+			"よし……ブローニャ！あなたたちは大丈夫！？",
+			"좋아……브로냐! 너희들은 괜찮아!?",
+			null,
+			null,
+			"Great...Bronya! You guys are okay!",
+			"Okay, ...... Bronya! You guys are doing fine!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302381,
+			null,
+			"我没事！不知道其他人怎么样…空中的乱流很强，需要进一步确认！",
+			"ブローニャは大丈夫です！#n他の人たちは……どうなったのか分かりません……乱気流がヒドいので、すぐに確認する必要があります！",
+			"브로냐는 괜찮아요!#n다른 사람들은……어떻게 된 건지 모르겠어요……난기류가 심하니 바로 확인해야 합니다!",
+			"I'm fine! I don't know what happened to the others ...... I need to check on them soon because the turbulence is awful!",
+			null,
+			"I'm fine! Not sure about the others...the turbulence in the air is strong and needs further confirmation!",
+			"Bronya is fine! I don't know what happened to the others ...... I need to check them soon because the turbulence is terrible!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				8,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302382,
+			null,
+			"呜呜呜————",
+			"うぐ、あぁッ————！",
+			"으윽, 아악————!",
+			null,
+			null,
+			"Woohoo ----",
+			"Ugh, ahhh. ----"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				58,
+				8,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302383,
+			null,
+			"九霄你怎么样？没事吧！",
+			"九霄、どうしたのですか？大丈夫ですかッ！？",
+			"큐쇼, 무슨 일이에요? 괜찮아요!?",
+			"Kyuushou, how are you? Are you okay?",
+			null,
+			"Kyuushou, how are you? Are you okay?",
+			"Kyuushou, what's wrong? Are you all right!"
+		],
+		[
+			"speaker",
+			204618
+		],
+		[
+			"portraits",
+			[
+				58,
+				8,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			302384,
+			null,
+			"没事…对救世主来说这都是小场…",
+			"だ、大丈夫……救世主にとって、これしきのこと大したことで——",
+			"다, 괜찮아……구세주에게는 이런 건 별거 아니라고——",
+			"I'm fine.... I think... For the Savior, this is no big deal...",
+			null,
+			"It's okay...it's all a small field for the Savior...",
+			"No, it's okay. ...... For the Saviors, this is no big deal..."
+		],
+		[
+			"msg",
+			302385,
+			null,
+			"呕！！！！",
+			"うぷ……ッ！！！！#n——オ˝ロ˝ロ˝ロ˝ロ˝ッ！！！",
+			"우웩……크으!!!!#n——오˝로˝로˝로˝로˝오!!!!",
+			"Upp.....!!!! (Vomit sounds)",
+			null,
+			"Vomit ！！！！",
+			"Upp......ッ！！！！ "
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				58,
+				8,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			302386,
+			null,
+			"看来没什么问题…其他人呢？",
+			"どうやら、大丈夫なようですね……他の人は？",
+			"아무래도 괜찮은 것 같네요……다른 사람들은?",
+			"Well, I guess there isn't anything seriously wrong.... How's everyone else?",
+			null,
+			"Nothing seems to be wrong...where are the others?",
+			"Apparently, it's okay. ...... Anyone else?"
+		],
+		[
+			"speaker",
+			204622
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				false
+			],
+			[
+				60,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			302387,
+			null,
+			"这种小场面只是热身而已~",
+			"こんなのただの準備運動よ～！",
+			"이런 건 그냥 준비 운동이야~!",
+			"This is just a warm-up exercise!",
+			null,
+			"This little scene is just a warm-up.",
+			"This is just a preparation exercise!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302388,
+			null,
+			"报告！灰蛾小队全员健在！不用担心我们！",
+			"報告します！灰蛾小隊は全員無事です！私たちの心配は不要です！",
+			"보고합니다! 회아 소대는 전원 무사합니다! 우리 걱정은 필요 없어요!",
+			null,
+			null,
+			"Report! Gray Moth Squad is alive and well! Don't worry about us!",
+			"Report! The entire ash moth platoon is safe! There is no need for us to worry!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				62,
+				1,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			302389,
+			null,
+			"呼…看来是度过了第一个难关了。",
+			"ふぅ……どうやら最初の難関は乗り切ったようですね。",
+			"후우…… 어떻게든 첫 번째 난관은 넘긴 모양이네요.",
+			null,
+			null,
+			"Whew...looks like it's over the first hurdle.",
+			"Whew ...... Looks like you got through the first hurdle."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				60,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			302390,
+			null,
+			"布洛妮娅，战舰已经顺利起飞，我们现在正在向那座巨塔航行！那座塔的高度之前目视预估下应该已经达到了平流层，以目前的爬升航速来说还有20分钟左右我们就可以抵达塔顶。",
+			"ブローニャ、戦艦は無事に離陸したわ。現在はあの巨塔に向かって航行中。#n以前、目視した見積りでは、あの塔の高さは成層圏まで達しているはずだわ。今の上昇速度からして、あと20分ほどで塔の頂上に辿り着けるはずよ。",
+			"브로냐, 전함은 무사히 이륙했어. 현재는 저 거대한 탑을 향해 항해 중이야.#n이전에 육안으로 추정했을 때, 그 탑의 높이는 성층권까지 닿았을 거야. 지금 상승 속도로는 앞으로 20분 정도면 탑의 꼭대기에 도달할 수 있을 거야.",
+			null,
+			null,
+			"Bronya, the battleship has taken off without incident and we are now heading for the giant tower! The tower's altitude should have reached the stratosphere by visual estimation, and at the current rate of climb we'll reach the top in about 20 minutes.",
+			"Bronya, the battleship has taken off without incident. It is now sailing towards that giant tower. According to previous visual estimates, the tower should reach stratospheric height. At our current rate of ascent, we should reach the top of the tower in about 20 minutes."
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				60,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			302391,
+			null,
+			"不过随着高度的爬升空中的崩坏能密度将会越来越高，届时将会发生什么谁也无法预料……",
+			"でも、高度が上昇するにつれて、空中の崩壊エネルギーの密度も高くなっていく。到着する頃には何が起こるか、誰にも予想できないわ……。",
+			"하지만 고도가 상승할수록 공중의 붕괴 에너지 밀도도 높아지고 있어. 도착할 때쯤엔 무슨 일이 일어날지 아무도 예측할 수 없어……",
+			null,
+			null,
+			"But as the altitude climbs the density of Honkai energy in the air will get higher and higher, what will happen then is anyone's guess ......",
+			"But as the altitude increases, so does the density of Honkai energy in the air. No one can predict what will happen by the time we arrive. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			302392,
+			null,
+			"没错…接下来才是真正的战斗……",
+			"その通りです……ここからが本当の戦いです……。",
+			"그렇습니다…… 여기서부터가 진짜 전투입니다……",
+			"That's right. ...... This is where the real battle begins. ......",
+			null,
+			"Yep...the real battle is next ......",
+			"That's right. ...... This is where the real battle begins. ......"
+		],
+		[
+			"msg",
+			302393,
+			null,
+			"所有人原地休息一下，保存体力准备后续战斗。",
+			"全員、この場で少し休みましょう。体力を温存して、これからの戦いに備えるのです。",
+			"전원, 이곳에서 잠시 휴식하도록 해. 체력을 비축해서 앞으로 다가올 전투에 대비하는 거야.",
+			null,
+			null,
+			"Everyone rests in place to conserve their strength for the follow-up battle.",
+			"Let's all take a short rest here. Save your strength and prepare for the battle ahead."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			302394,
+			null,
+			"明白！",
+			"了解しました！",
+			"알겠습니다!",
+			"Understood!",
+			null,
+			"Understand!",
+			"Understood!"
+		]
+	]
+}

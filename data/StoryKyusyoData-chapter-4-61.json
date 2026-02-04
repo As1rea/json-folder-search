@@ -1,0 +1,1152 @@
+{
+	"1208": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306695,
+			"We found the markings. Based on previous information, the area in front is highly dangerous. Send someone to explore the activities of Houkai creatures in front, the rest of you can investigate the surrounding terrain with me. If anyone sees anything suspicious, report immediately.",
+			"找到标示了，按之前的探查情报来看前方为高危区域。派人到前面探查一下崩坏生物的活动情况，其他人和我调查一下附近的地形与情况，如果有异常立刻报告。",
+			"印を見つけたわ。以前の探査情報によれば、この先は高危険エリアよ。まずは、偵察兵を出して崩壊生物の活動状況を調べましょう。その他の者は私と付近の地形と状況を調査。異常があれば直ちに報告。",
+			"흔적을 발견했어. 이전 탐사 정보에 따르면 이 앞은 고위험 지역이야. 먼저 정찰병을 보내 붕괴생물의 활동 상황을 조사하자. 나머지 인원은 나와 함께 주변 지형과 상황을 정찰해. 이상 있으면 즉시 보고해.",
+			null,
+			null,
+			"We found the marker, and according to the previous scouting information, the front is a high-risk area. Send someone to the front to check the activity of the collapse creatures, others and I investigate the nearby terrain and conditions, if there are abnormalities immediately report.",
+			"I found a marker. According to previous exploration information, this is a high risk area. First, let's send out scouts to investigate the activity of the decaying organisms. The rest of you will join me in surveying the terrain and conditions in the area. If you find anything unusual, report it immediately."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306696,
+			"Roger that.",
+			"是。",
+			"はッ！",
+			"하앗!",
+			null,
+			null,
+			"Yes.",
+			"Ha!"
+		],
+		[
+			"choice",
+			[
+				306978,
+				"So cautious.",
+				"真是非常谨慎呢。",
+				"本当に慎重なのね。",
+				"정말 신중하네.",
+				null
+			],
+			[
+				306979,
+				"Are the markings on the map wrong?",
+				"地图上的标示错误了么？",
+				"地図の印が間違っていたの？",
+				"지도 표시가 틀렸던 거야?",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1209
+		]
+	],
+	"1209": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306697,
+			"From what we saw on the way, the distribution of Houkai creatures is different from what we had previously. The Greymoths will not have any support. If we don’t stay cautious, we will never live to this day.",
+			"从刚才路程上来看，崩坏生物的分部已经和之前的标示有些不同了，灰蛾部队的行动是得不到任何支援的，如果我们不谨慎一些的话是活不到现在的。",
+			"さっきの道中、崩壊生物の分布が以前の記録と少し違っていたのよね。灰蛾部隊は任務の性質上、いつも支援を受けられない状況だったから、こんな風に印や記録を残して注意深く行動をしていたのよ。",
+			"아까 이동하던 중 붕괴생물 분포가 이전 기록과 조금 달랐어. 회나비 부대는 임무 특성상 항상 지원을 받지 못하는 상황이었으니까, 이렇게 흔적이나 기록을 남기며 신중하게 행동했던 거야.",
+			null,
+			null,
+			"From the distance just now, the division of the collapsed creatures has been marked a little different from the previous, the gray moth troops are not receiving any support for their actions, and we will not survive this if we are not a little more cautious.",
+			"Earlier on the road, the distribution of the decaying organisms was a little different than previously recorded. The ash-moth unit, by the nature of their mission, was not always supported, so they were very careful to mark and record their actions in this way."
+		],
+		[
+			"msg",
+			306698,
+			"There should be some signs we set around here. This area is located in the suburban area of Nagazora, which we seldom visited. If the previous signs are still around, they will be very helpful to our advancement.",
+			"这个附近应该还有我们设置的标示，这个区域位于长空市的近郊我们极少涉足，如果之前的标示还在的话会给我们的前进提供不少帮助。",
+			"ここは長空市の近郊で、私たちもほとんど足を踏み入れたことがなくてね。確かこの付近にも印を残したはずだから、残っていればだいぶ助かるんだけど。",
+			"여긴 장공시 근교라 우리도 거의 발을 들인 적이 없어. 분명 이 근처에도 표식을 남겼을 텐데, 남아있으면 큰 도움이 될 거야.",
+			null,
+			null,
+			"This area is located in the suburbs of Long Sky City and we rarely venture into it, so if the previous marker is still there, it will help us move forward.",
+			"This is on the outskirts of Changkuu City, and we've barely set foot in the area. I'm pretty sure we left a marker in this neighborhood, so it would help a lot if it was still there."
+		],
+		[
+			"msg",
+			306699,
+			"Take a copy of the map too. It contains notes on all marked points. The red route is the safe route we scouted last time, and the high-risk area is colored black. Other areas have not been explored so try to stay away as much as possible.",
+			"这个地图也给你一份，标记点的信息都有备注，红色的线路是我们上次探查过的安全线路，黑色的区域为高危地段，其他都是尚未探查过的区域，尽量不要去。",
+			"この地図を1部あげるわ。各ポイントには全て注記があるから目を通しておいて。赤いルートは前回の探査で通った安全なルート。黒いエリアは高危険エリア、その他は全て未探査エリアよ。できるだけ行かないように。",
+			"이 지도 1부 줄게. 각 포인트에는 모두 주기가 되어 있으니 꼭 확인해. 빨간 루트는 지난 탐사 때 사용한 안전 경로야. 검은색 영역은 고위험 지역, 그 외는 모두 미탐사 지역이니까 가능한 한 가지 말도록.",
+			null,
+			null,
+			"This map also gives you a copy, the information of the marked points are noted, the red line is the safe line we have scouted last time, the black area is the high risk section, the other are not yet scouted area, try not to go.",
+			"I'll give you one copy of this map. All of the points are annotated, so please look over them. The red route is the safe route taken in the previous exploration. The black areas are high risk areas and all other areas are unexplored. Stay out of them if at all possible."
+		],
+		[
+			"msg",
+			306700,
+			"So if we can use the map as a guide to design the approximate routes, then use the signs to confirm relatively safe and detailed routes, we can avoid a lot of battles.",
+			"所以用地图确定大致线路，再于实际行进时依靠标记确定相对安全的细节路径的话，我们就能避开不少战斗了。",
+			"最初に地図で大まかなルートを決めて、移動中に細かなルートを選択していけば最小限の戦闘で進めるわ。",
+			"먼저 지도로 대략적인 경로를 정하고 이동 중에 세부 루트를 선택하면 최소한의 전투로 진행할 수 있을 거야.",
+			null,
+			null,
+			"So use the map to determine the general route, and then in the actual travel to rely on the marker to determine the details of the relatively safe path, we can avoid a lot of fighting.",
+			"We can proceed with a minimum of fighting if we first determine the general route on the map and then choose detailed routes as we move along."
+		],
+		[
+			"msg",
+			306701,
+			"But remember, there is no guaranteed easy way in this world. Houkai creatures are walking dead with no souls, they have no movement patterns. So if we have a special situation and need to open up a new route, we will need to place new signs on it.",
+			"但记住在这个世界可没有一条路能用到死，崩坏生物只是没有灵魂的行尸走肉，它们的活动没有规律，所以万一出现了什么特殊情况，需要开辟新的道路，那时候也得需要在新的道路上放置路标。",
+			"でも、覚えておいて。この世界に絶対の安全はないわ。崩壊生物は魂のない歩く屍よ。奴らの活動に規則性はないから、何かあったら臨機応変に道を変えるの。そして新しいルートを選択したら、そこに印を残しておいて。",
+			"하지만 기억해둬. 이 세상에 절대적인 안전은 없어. 붕괴생물은 영혼 없는 걸어다니는 시체들이야. 놈들의 활동에 규칙성은 없으니까 문제 생기면 즉각적으로 경로를 변경해. 그리고 새 경로를 선택하면 반드시 그 자리에 표식을 남겨둬.",
+			null,
+			null,
+			"But remember in this world can not have a road to death, the collapsed creatures are just soulless walking corpses, their activities are not regular, so in case of any special circumstances, the need to open up a new road, then you also have to need to place road signs on the new road.",
+			"But remember. Nothing in this world is absolutely safe. Disintegrating organisms are the walking dead without souls. There is no regularity to their activities, so if something goes wrong, change your path as needed. And when you choose a new route, leave a mark on it."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306702,
+			"The Houkai creature activities in the front have changed. The safe route is cut off. We anticipate about 20 of them.",
+			"报告，前方的崩坏生物活动发生变化，安全线路被截断了，数量初步估计为20左右。",
+			"報告します。前方に分布する崩壊生物に活動の変化があります。安全なルートは使えません。数はざっと見積もって20前後です。",
+			"보고합니다. 전방에 분포한 붕괴생물의 활동 변화가 있습니다. 안전 경로 사용 불가능. 대략 20기 전후로 추정됩니다.",
+			null,
+			null,
+			"Reported a change in the activity of the collapsing creatures ahead and the safe line was cut off, the number was initially estimated to be around 20.",
+			"Report. There is a change in activity in the decaying organisms distributed in the foreground. Safe routes are not available. The number is roughly estimated at around 20."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306703,
+			"Got it, assemble the team and gather the surrounding information. We need to find a new way.",
+			"明白了，召集队员集合，综合下周围的情报，我们要寻找新的道路了。",
+			"分かったわ。隊員を集めて。周辺情報を統合させて、新しい道を探しましょう。",
+			"알겠어. 대원들을 소집해. 주변 정보를 종합해서 새로운 경로를 찾아보자.",
+			null,
+			null,
+			"Understood, call the team to gather and synthesize the intelligence around us, we have to find a new path.",
+			"Okay, okay. Gather the troops. Let's consolidate the peripheral information and find a new path."
+		]
+	],
+	"1210": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306704,
+			"This diagram shows the distribution of Houkai creatures at the moment. We have a few routes to choose from, so we must pick a best one from them.",
+			"这是目前崩坏生物的分部图，我们现在能够选择道路有这几条，所以我们得从中选择一条最合适的前进。",
+			"これは今の崩壊生物の分布図よ。私たちが今選べる道はココとココと……うん、何本かあるわね。この中から進むのに最適な道を選びましょう。",
+			"이건 현재 붕괴생물 분포도야. 우리가 선택할 수 있는 경로는 여기와 여기 그리고... 음, 몇 갈래 있네. 이 중에서 진행하기에 최적의 경로를 선택하자.",
+			null,
+			null,
+			"This is the current division map of the collapsed creatures, we are now able to choose the road has these few, so we have to choose the most suitable one from it to move forward.",
+			"Here's a map of the distribution of decay organisms right now. There are several paths we can choose from right now: here, here, and ...... Yeah, there are a few. Let's choose the best path to take."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306705,
+			"Based on the information so far, this route has the least Houkai creature activities. Only single digit number of them from the investigation just now.",
+			"从目前的情报来看，这条路上的崩坏生物活动最少，刚才探查时数量在个位数。",
+			"現在の情報からして、この道の崩壊生物の活動がもっとも少ないです。先ほどの偵察時には1桁でした。",
+			"현재 정보로는, 이 길의 붕괴 생물 활동이 가장 적습니다. 아까 정찰 때는 한 자릿수였습니다.",
+			null,
+			null,
+			"From the current information, this road has the least activity of collapsing creatures, the number was in single digits when scouting just now.",
+			"Based on current information, there is the least amount of decay organism activity on this road. It was in single digits during the earlier reconnaissance."
+		],
+		[
+			"choice",
+			[
+				306980,
+				"At this quantity, we should be able to eliminate them easily.",
+				"这个数量的话应该能轻松消灭。",
+				"その数なら簡単に倒せる。",
+				"그 수라면 쉽게 쓰러뜨릴 수 있어.",
+				null
+			],
+			[
+				306981,
+				"Do we need to investigate further?",
+				"需要在探查看看么？",
+				"私も偵察に行こうか？",
+				"나도 정찰 가볼까?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1211,
+			1212
+		]
+	],
+	"1211": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306706,
+			"No, we can’t initiate a fight. If the battle attracts more Houkai creatures, we will be in greater trouble.",
+			"不行，我们不能主动发起战斗，如果因为战斗的声音引来更多的崩坏生物反而会更麻烦。",
+			"ダメよ。こっちからは戦いを仕掛けられないわ。戦いの音でさらに多くの崩壊生物を引き付けてしまったら面倒でしょ。",
+			"안 돼. 우리 쪽에서 싸움을 걸 수 없어. 전투 소리로 더 많은 붕괴 생물을 끌어들여 버리면 골치 아프잖아.",
+			null,
+			null,
+			"No, we can not initiate a battle, if the sound of battle attracts more collapsed creatures instead will be more trouble.",
+			"No, you can't. We can't start a fight. It would be troublesome if the sound of fighting attracts more disintegrating organisms."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1213
+		]
+	],
+	"1212": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306707,
+			"...We have limited time and can’t afford to have more investigation. We must get there as soon as possible.",
+			"……我们的时间紧迫，没有时间做太多的侦查，必须尽快到达目的地。",
+			"……私たちには時間がないわ。何度も偵察している時間もないし、できるだけ早く目的地に着かなくては。",
+			"……우리에게는 시간이 없어. 여러 번 정찰할 시간도 없고, 가능한 한 빨리 목적지에 도착해야 해.",
+			null,
+			null,
+			"...... We are pressed for time and do not have time to do much reconnaissance, we must reach our destination as soon as possible.",
+			"......We don't have much time. We don't have time for multiple scouts, we have to get to our destination as quickly as possible."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1213
+		]
+	],
+	"1213": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306708,
+			"Then let’s take this way. Everyone, check your equipment and set your weapon safety switch up. Do not fire without my order. Use cold weapon to fight in emergency and reduce unnecessary noise.",
+			"那就这条线路吧，所有人检查装备，把武器的保险上好，没有我的命令不要擅自开火，紧急时刻使用冷兵器进行作战，减少不必要的噪音。",
+			"よし、このルートにしましょう。全員装備を確認。武器の安全装置をかけて。私の命令がない限り、勝手に撃たないこと。緊急時には白兵戦用武器を使用して、不要な騒音を減らすこと。",
+			"좋아, 이 루트로 하자. 전원 장비 확인. 무기 안전 장치를 걸어. 내 명령이 없는 한 함부로 쏘지 말 것. 긴급 시에는 백병전용 무기를 사용해서 불필요한 소음을 줄이는 거야.",
+			null,
+			null,
+			"Then this line, everyone check the equipment, put the weapon's safety on, do not fire without my orders, use cold weapons for combat in emergencies, and reduce unnecessary noise.",
+			"Okay, let's take this route. Make sure everyone is equipped. Put your weapon safety on. Do not fire without permission unless I give the order. In the event of an emergency, use your white weapons to reduce unnecessary noise."
+		],
+		[
+			"msg",
+			306709,
+			"If you hear me, go. Watch your steps, don’t fall.",
+			"听明白的话就出发吧，注意脚下，可别摔着。",
+			"分かったなら、出発よ。転ばないように足下に注意して。",
+			"알겠으면, 출발이야. 넘어지지 않도록 발밑에 주의하고.",
+			null,
+			null,
+			"If you understand, let's go, watch your step, don't fall.",
+			"If you understand, let's go. Watch your step so you don't fall."
+		]
+	],
+	"1214": [
+		[
+			"speaker",
+			204621
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306710,
+			"Everyone, keep the formation. We have almost passed this area. Arriving at the next marked location soon.",
+			"全员保持队形，已经快通过这个区域了，马上到下一个标记点。",
+			"全員隊形を維持。エリアを通過したわ。もうじき次のポイントよ。",
+			"전원 대형을 유지. 에어리어를 통과했어. 곧 다음 포인트야.",
+			null,
+			null,
+			"The whole team keeps in formation, has almost passed this area, immediately to the next marker point.",
+			"All maintain formation. We're through the area. We're almost to the next point."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306711,
+			"Roar--",
+			"吼吼吼——",
+			"グルルル——",
+			"그르릉——",
+			null,
+			null,
+			"Ho-ho-ho-ho",
+			"Grrr--"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306712,
+			"Stop! There’s something in front. Give me the telescopes.",
+			"停！前面有动静，给我望远镜。",
+			"ストップ！前方に動きが。望遠鏡をちょうだい。",
+			"스톱! 전방에 움직임이. 망원경 줘.",
+			null,
+			null,
+			"Stop! There's movement up ahead. Give me binoculars.",
+			"STOP! Movement ahead. Give me the telescope."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306713,
+			"......",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306714,
+			"There are lots of Houkai creatures in front. Approximate distance is 200. Looks like this will not be an easy way.",
+			"前方200左右有大量崩坏生物活动，看来这条路没有这么容易通过了。",
+			"前方約200の距離に大量の崩壊生物が活動しているわ。どうやらこの道もそう簡単に通れそうにはないわね。",
+			"전방 약 200 거리에 대량의 붕괴 생물이 활동 중이야. 어쩌면 이 길도 그렇게 쉽게 통과할 수 없을 것 같네.",
+			null,
+			null,
+			"There is a large number of collapse creature activity about 200 ahead, it seems that this path is not so easy to pass.",
+			"There's a lot of decaying organism activity about 200 yards in front of us. Apparently, this road isn't going to be so easy to navigate either."
+		],
+		[
+			"msg",
+			306715,
+			"If we return now, a lot of time will be wasted. We must find a solution...",
+			"如果现在返回去的话会浪费很多时间，得想想办法……",
+			"今から引き返すとなると、かなりの時間を浪費してしまうわ。良い方法を考えないと……。",
+			"지금부터 되돌아가면 상당한 시간을 낭비하게 돼. 좋은 방법을 생각하지 않으면…….",
+			null,
+			null,
+			"If you go back now it will waste a lot of time, have to think of a way ......",
+			"If we turn back now, we'll be wasting a lot of time. We need to figure out a better way. ......"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306716,
+			"Captain Himeko, look. There are Greymoth badges in front.",
+			"姬子队长你看，前面的有灰蛾部队的袖章。",
+			"姫子隊長、見てください。前方に灰蛾部隊の腕章が。",
+			"히메코 대장, 보세요. 전방에 회아 부대의 완장이.",
+			null,
+			null,
+			"Captain Himeko look, the one in front has the armband of the Grey Moth unit.",
+			"Captain Himeko, look. The armband of the Ash Moth Unit in front."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306717,
+			"Let’s go and take a look!",
+			"走，我们去看看！",
+			"行くわよ。見に行きましょう！",
+			"갈 거야. 보러 가자구요!",
+			null,
+			null,
+			"Come on, let's go check it out!",
+			"Let's go. Let's go see!"
+		],
+		[
+			"msg",
+			306718,
+			"There are no markings of this sign on the map... Could it be from team members separated from us in previous battle with Houkai creatures?",
+			"这个记号在地图上没有标示…难道是之前在崩坏生物的战斗中走散的队员留下的么？",
+			"この記号は地図に表記されていないわ……まさか、以前の崩壊生物との戦いではぐれた隊員が残したのかしら？",
+			"이 기호는 지도에 표기되어 있지 않아…… 설마, 이전의 붕괴 생물과의 전투에서 흩어진 대원이 남긴 걸까?",
+			null,
+			null,
+			"This mark is not marked on the map...could it be left by a team member who got separated during the battle of the collapsing creatures?",
+			"This symbol is not marked on the map: ...... I don't think it was left behind by a straggler from a previous battle with a disintegrating organism?"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306719,
+			"It’s been a year since we explored this place last time. Could they be still alive...",
+			"我们上次探查这里已经是1年前的事情了，难道她们还活着么……",
+			"前回、ここを偵察したのは1年前のことです。まさか、彼女たちがまだ生きているのでしょうか……。",
+			"지난번에 여기를 정찰한 건 1년 전이에요. 설마, 그들이 아직 살아있을까요…….",
+			null,
+			null,
+			"The last time we explored this place was 1 year ago, are they still alive ......",
+			"The last time I scouted this place was a year ago. I don't believe they are still alive. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306720,
+			"Under the badge, there seems to be something underneath the stone... Could it be!",
+			"袖章下面的石块下好像有东西…难道是！",
+			"腕章の下……石の下に何かあるみたい……まさか！",
+			"완장 아래…… 돌 아래에 뭔가 있는 것 같아…… 설마!",
+			null,
+			null,
+			"There seems to be something under the stone under the armband... could it be!",
+			"Under the armband...... there seems to be something under the stone...... no way!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306721,
+			"Clack!",
+			"喀拉。",
+			"ゴロ——",
+			"고로——",
+			null,
+			null,
+			"Kara.",
+			"Goro--"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306722,
+			"It’s a map... The information markings have been updated. It records a new route that may get us around the Houkai creatures in front... Did they leave this message to us?",
+			"是地图……上面的信息标记被更新了，这里记录了一条新的道路，似乎可以绕过前面的崩坏生物…是她们留给我们的讯息么。",
+			"地図……しかも情報が更新されている。ここに新しい道が記録されているわ。前方の崩壊生物を迂回できるみたい……彼女たちが私たちに残した情報かしら。",
+			"지도…… 게다가 정보가 갱신되어 있어. 여기에 새로운 길이 기록되어 있네. 전방의 붕괴 생물을 우회할 수 있을 것 같아…… 그들이 우리에게 남긴 정보일까?",
+			null,
+			null,
+			"It's the information marker on the map ...... was updated, and a new path was recorded here that seems to bypass the collapsing creatures ahead...is that the message they left us?",
+			"Map ...... and the information has been updated. There is a new path recorded here. It looks like we can bypass the disintegrating organisms up ahead. ...... I wonder if this is the information they left us."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306723,
+			"Captain Himeko! They must be around here!",
+			"姬子队长 ！她们一定在附近！",
+			"姫子隊長！彼女たちはきっとまだ近くにいます！",
+			"히메코 대장! 그들은 분명 아직 가까이에 있어요!",
+			null,
+			null,
+			"Captain Himeko! They must be around!",
+			"Captain Himeko! They are surely still around!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306724,
+			"Keep your voice down! We have more important mission now. Update the route, we must leave this area as soon as possible.",
+			"小声点！现在还有更重要的任务要做，更新路线，我们得尽快离开这个地区。",
+			"静かに！今は任務が優先よ。ルートを更新して、できるだけ早くここから離れましょう。",
+			"조용히! 지금은 임무가 우선이야. 루트를 갱신하고, 가능한 한 빨리 여기서 떠나자구.",
+			null,
+			null,
+			"Keep your voice down! There are more important tasks to do now, update the route, we need to leave the area as soon as possible.",
+			"Quiet! Our priority right now is the mission. Let's update our route and get out of here as soon as possible."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306725,
+			"But!",
+			"可是！",
+			"し、しかしッ！",
+			"시, 하지만!",
+			null,
+			null,
+			"But!",
+			"But, but!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306726,
+			"Obey my order!",
+			"服从命令！",
+			"命令に従いなさい！",
+			"명령에 따르세요!",
+			null,
+			null,
+			"Obey orders!",
+			"Obey my orders!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306727,
+			"Roger...",
+			"是……",
+			"はい……。",
+			"네…….",
+			null,
+			null,
+			"Yes ......",
+			"Yes. ......."
+		]
+	],
+	"1215": [
+		[
+			"speaker",
+			204662
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306728,
+			"The next marked point is just in front. We have crossed the area.",
+			"下一个标记点就在前面，我们已经穿过刚才的区域了。",
+			"次のポイントはこの先です。先ほどのエリアは抜けました。",
+			"다음 포인트는 이 앞입니다. 아까의 에어리어는 벗어났습니다.",
+			null,
+			null,
+			"The next marker is just ahead and we've crossed the area we were just in.",
+			"The next point is just ahead. We are out of the area we just left."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306729,
+			"Thanks to that map, we have found a new way. This should get us to the target location in time. Let’s take a short break and keep moving.",
+			"多亏了那张地图我们才找到了新的出路，这样应该能在预定时间内达到目的地，我们稍作休息继续前进。",
+			"あの地図のおかげで新しいルートを見つけられたわね。これで予定時間内に目的地に辿り着けるわ。少し休憩を挟んで、進みましょう。",
+			"저 지도 덕분에 새로운 루트를 찾을 수 있었네. 이제 예정 시간 내에 목적지에 도착할 수 있어. 잠시 휴식을 취하고, 진행하자.",
+			null,
+			null,
+			"Thanks to that map we found a new way out, so we should be able to reach our destination within the scheduled time, and we took a short break to continue on.",
+			"Thanks to that map, you've found a new route. Now we can get to our destination on time. Let's take a short break and keep going."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306730,
+			"......",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306731,
+			"I know you want to find them. Alright... If you can’t concentrate in the mission, then go and find them.",
+			"我知道你们想去找她们，好吧…既然无法专心执行任务，那就去吧。",
+			"彼女たちを探しに行きたいのは分かるわ。いいわ……任務に集中できないなら、行きなさい。",
+			"그녀들을 찾으러 가고 싶은 건 알아. 좋아…… 임무에 집중할 수 없다면, 가.",
+			null,
+			null,
+			"I know you guys want to go to them, well...since you can't concentrate on the mission, go ahead.",
+			"I know you want to go find these girls. Okay ...... if you can't focus on your mission, go."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306732,
+			"No... I believe they are still alive, because they are also members of the Greymoth. Please let us continue with this mission!",
+			"不…我相信她们还活着，因为她们也是灰蛾部队的成员，请让我们继续执行任务吧！",
+			"いえ……彼女たちはまだ生きていると信じています。なぜなら彼女たちも灰蛾部隊の隊員だからです。このまま任務を続行させてください！",
+			"아니요…… 그녀들은 아직 살아있다고 믿습니다. 왜냐하면 그녀들도 회아 부대의 대원이기 때문입니다. 이대로 임무를 계속 진행시켜 주세요!",
+			null,
+			null,
+			"No...I believe they are still alive because they are also members of the Grey Moth unit...please let us continue our mission!",
+			"No. I believe ...... that these women are still alive. Because they are also members of the Ash Moth Unit. Let the mission continue!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				61,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306733,
+			"That’s good.",
+			"那就好。",
+			"ならいいわ。",
+			"그럼 좋아.",
+			null,
+			null,
+			"That's fine.",
+			"Then fine."
+		],
+		[
+			"msg",
+			306734,
+			"...Leave the new map here. They will find the way home, as long as the signs of Greymoth is around.",
+			"……把新的地图留在这里吧，只要有灰蛾的路标在，她们一定会找到回家的路。",
+			"……新しい地図をここに残しておきましょう。灰蛾部隊のマークさえあれば、彼女たちもきっと家に帰る道を見つけられるでしょう。",
+			"……새로운 지도를 여기에 남겨두자. 회아 부대의 마크만 있다면, 그녀들도 분명 집에 돌아갈 길을 찾을 수 있을 거야.",
+			null,
+			null,
+			"...... Leave the new map here, as long as the Grey Moth signposts are there, they will surely find their way home.",
+			"Leave your new map here: ....... As long as you have the markings of the Ash Moth Unit, these girls will surely find their way home."
+		],
+		[
+			"portraits",
+			[
+				61,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306735,
+			"Let’s go, we still have a long way.",
+			"出发吧，后面还有很长的路要走。",
+			"出発よ。この先はまだ長いわよ。",
+			"출발이야. 이 앞으로 아직 길어.",
+			null,
+			null,
+			"Let's go, there's still a long way to go behind us.",
+			"Let's go. We have a long way to go."
+		]
+	]
+}

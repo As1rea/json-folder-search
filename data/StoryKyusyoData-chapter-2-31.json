@@ -1,0 +1,2478 @@
+{
+	"1110": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10097"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305919,
+			"What about the follow-up plan, Yssring?",
+			"伊瑟琳，怎么样了，后面的计划有进展了么？",
+			"イザーリン、どう？その後の計画は進展あった？",
+			"이자린, 어때? 그 뒤 계획은 진전 있었어?",
+			null,
+			null,
+			"Estherine, how's it going, any progress on the back plan?",
+			"Estherine, how's it going? Any progress on the plan since then?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305920,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305921,
+			"What are you doing?",
+			"你在干什么？",
+			"何しているの？",
+			"뭐 하고 있는 거야?",
+			null,
+			null,
+			"What are you doing?",
+			"What are you doing?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305922,
+			"Experiment.",
+			"实验。",
+			"実験。",
+			"실험.",
+			null,
+			null,
+			"Experiment.",
+			"Experiment."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305923,
+			"By staring at the bugs? I don't really understand.",
+			"盯着虫子看也能叫实验么？不是很懂你们搞科研的。",
+			"虫を見つめているのも実験って呼べるの？あなたたちの科学研究って分からないわ。",
+			"벌레를 쳐다보는 것도 실험이라고 부를 수 있어? 너희들 과학 연구는 이해가 안 가.",
+			null,
+			null,
+			"Can you call staring at a bug an experiment? I don't know much about your research.",
+			"Can you call staring at bugs an experiment? I don't understand your scientific research."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305924,
+			"I'm testing the larvae's emotional system. If they secrete the transmitting substances based on their emotions, we can work around with that.",
+			"我在测试这些幼虫的情感模式，如果说它们释放的信息素是根据情感发生变化的话那么我们就可以利用这一点。",
+			"この幼虫の感情モデルをテストしているの。もし彼らの放つフェロモンが感情によって変化するなら、私たちはそれを利用できる。",
+			"이 유충의 감정 모델을 테스트 중이야. 만약 그들이 내뿜는 페로몬이 감정에 따라 변한다면, 우리는 그것을 이용할 수 있어.",
+			null,
+			null,
+			"I'm testing the emotional patterns of these larvae, and if the pheromones they release are changing based on emotion then we can take advantage of that.",
+			"We are testing an emotional model of these larvae. If the pheromones they release change with emotion, we can exploit that."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305925,
+			"The Houkai creatures have feelings? Are you kidding me?",
+			"崩坏生物也会有情感么？开什么玩笑。",
+			"崩壊生物に感情があるの？冗談でしょ。",
+			"붕괴 생물에게 감정이 있다고? 농담이지.",
+			null,
+			null,
+			"Do collapsed creatures have emotions? Are you kidding me.",
+			"Disintegrating organisms have feelings? You must be joking."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305926,
+			"If they have emotions...",
+			"是啊…如果有情感的话……",
+			"そうよね……もし感情があったら……。",
+			"그러게…… 만약 감정이 있다면…….",
+			null,
+			null,
+			"Yeah...if there is emotion ......",
+			"Yes, ...... if you have feelings ......."
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305927,
+			"Seele, I have a follow-up plan. Release the bugs.",
+			"希儿，关于后面的计划我已经有方案了，我们把这些幼虫放了吧。",
+			"ゼーレ、これからの計画はもう考えがあるの。この幼虫を解放するわ。",
+			"제레, 앞으로의 계획은 이미 생각해 뒀어. 이 유충을 해방할 거야.",
+			null,
+			null,
+			"Hill, I already have a plan about the back, let's release these larvae.",
+			"Seele, I already have an idea of what I'm going to do. I'm going to let this larva go."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305928,
+			"What? They're not easy to catch!",
+			"啥？这可是我好不容易抓到的！",
+			"何ですって！？苦労して捕まえたのに！",
+			"뭐라고요!? 고생해서 잡았는데!",
+			null,
+			null,
+			"What? I had a hard time catching this!",
+			"What did you say? I had to go through all that trouble to get him!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305929,
+			"No. I want to use them as baits, luring the queen out.",
+			"不，我是说用它们做诱饵，引出幕后的虫后。",
+			"違う、彼らをエサに黒幕のクイーンビーをおびき寄せるの。",
+			"아니, 그들을 미끼로 흑막의 퀸비를 유인하는 거야.",
+			null,
+			null,
+			"No, I mean use them as bait to lure out the bug queen behind the curtain.",
+			"No, we use them as bait to lure the mastermind Queen Bee."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305930,
+			"Didn't we do that before? I was covered in slime for nothing!",
+			"这个计划以前不是实施过了么？你别忘了之前是谁满身粘液潜伏了一晚上！",
+			"その計画って、以前にもやらなかった？誰かが体中を粘液まみれにして一晩中待ち伏せしていたことを忘れないでよ！",
+			"그 계획, 전에도 하지 않았어? 누군가가 온몸을 점액으로 뒤덮고 밤새 매복했던 걸 잊지 말아요!",
+			null,
+			null,
+			"Hasn't this plan been carried out before? Don't you forget who was lurking all night covered in slime before!",
+			"Hasn't that plan been done before? Don't forget that someone had to ambush us all night long with mucus all over our bodies!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305931,
+			"Those cocoon were fake. They can't release any transmitting substance. If they depend on the substances to find the way home, we need living larvae for my plan.",
+			"之前的虫卵只是伪造品，并没有散发信息素的能力，如果它们是依靠信息素来判断回家的路的话，只有活体才有能完成。",
+			"以前の卵は偽物だったし、フェロモンを放つ能力もなかった。もし、フェロモンで帰る道を判断しているなら、生きた個体じゃなきゃダメ。",
+			"이전의 알은 가짜였고, 페로몬을 방출하는 능력도 없었어. 만약 페로몬으로 돌아갈 길을 판단한다면 살아있는 개체가 아니면 안 돼.",
+			null,
+			null,
+			"The previous eggs were just forgeries and did not have the ability to emit pheromones. If they were relying on pheromones to determine the way home, only a living body would have been able to accomplish that.",
+			"Previously the eggs were fake and had no ability to release pheromones. If they are using pheromones to determine their way home, they must be live individuals."
+		],
+		[
+			"msg",
+			305932,
+			"I'll also join this mission, but you have to protect me.",
+			"放心吧，这次的任务我也会参加的，不过你们一定要保护好我的安全。",
+			"安心して。今回の任務には私も参加する。……私の安全は必ず守ってもらうけど。",
+			"안심해. 이번 임무엔 나도 참여할 거야. ...내 안전은 반드시 지켜줘야 하지만.",
+			null,
+			null,
+			"Don't worry, I will also participate in this mission, but you must protect my safety.",
+			"Rest assured. I will be part of this mission. ...... will make sure you keep me safe."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305933,
+			"Yssring...",
+			"伊瑟琳……",
+			"イザーリン……。",
+			"이자린…….",
+			null,
+			null,
+			"Estherine ......",
+			"Estherine. ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305934,
+			"What's wrong?",
+			"怎么了？",
+			"何？",
+			"뭐?",
+			null,
+			null,
+			"What's going on?",
+			"What?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305935,
+			"What's wrong with you?",
+			"你今天没发烧吧？",
+			"今日は熱でもあるの？",
+			"오늘 열이라도 있는 거야?",
+			null,
+			null,
+			"You don't have a fever today, do you?",
+			"Do you have a fever today?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305936,
+			"Nothing.",
+			"……没有。",
+			"……ないわよ。",
+			"……없어.",
+			null,
+			null,
+			"...... is not available.",
+			"I don't have ......."
+		]
+	],
+	"1111": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305937,
+			"We lost the trace of the substances here. Bring out the larvae. If they sense the change in the transmitting substances, they will take us to their den.",
+			"之前信息素中断的地方就是这里吧，把幼虫放出来吧，如果它们接收到信息素的变化应该会采取后面的措施带我们去它们的巢穴。",
+			"以前、フェロモンが切れた場所はここね。幼虫を放ちましょう。彼らがフェロモンの変化を感じ取れば、きっと何かをして私たちを巣に導いてくれる。",
+			"이전에 페로몬이 끊긴 장소는 여기네. 유충을 놓아줄게요. 녀석들이 페로몬 변화를 감지하면 분명 무언가 행동으로 보여주며 우리를 둥지로 안내해줄 거예요.",
+			null,
+			null,
+			"The previous pheromone interruption is here, right? Let the larvae out, if they receive the pheromone change should take the latter measure to take us to their nest.",
+			"So this is where the pheromone ran out before. Let's release the larvae. If they sense the change in pheromone, they will surely do something to lead us to the nest."
+		],
+		[
+			"msg",
+			305938,
+			"We should hide ourselves. If anything happens, don't fight. We stay and watch.",
+			"我们先隐藏起来，如果一会有情况不要急于攻击，先观察一下再说。",
+			"私たちは隠れておいて、何かあれば攻撃を。急がずにまずは観察。",
+			"우린 숨어있다가 이상이 생기면 공격하는 걸로. 서두르지 말고 일단 관찰부터.",
+			null,
+			null,
+			"We hide first, if there is a situation in a moment do not rush to attack, observe first.",
+			"We stay hidden, and if anything goes wrong, attack. Don't rush, observe first."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305939,
+			"OK. Let's see.",
+			"好的，那就试试看吧。",
+			"分かったわ。やってみましょう。",
+			"알았어. 한번 해보자.",
+			null,
+			null,
+			"Okay, let's give it a try then.",
+			"All right, I'll do it. Let's do it."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH02_EV04_WormFly"
+		],
+		[
+			"msg",
+			305940,
+			"*Loud Buzzing Sound*",
+			"嗡嗡嗡……",
+			"ブーン、ブーン、ブーン……。",
+			"윙윙, 윙윙, 윙윙.......",
+			null,
+			null,
+			"Buzz ......",
+			"Boom, boom, boom. ......"
+		],
+		[
+			"soundEffect1",
+			"DLC_CH02_EV04_WormFly"
+		],
+		[
+			"msg",
+			305941,
+			"*Loud Buzzing Sound*",
+			"嗡嗡嗡……",
+			"ブーン、ブーン、ブーン……。",
+			"윙윙, 윙윙, 윙윙.......",
+			null,
+			null,
+			"Buzz ......",
+			"Boom, boom, boom. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305942,
+			"There's something in the sky. It's the queen!",
+			"你们看！天上有动静！那个是虫后！",
+			"見て！何か飛んでる！あれクイーンビーだよ！",
+			"저기 봐! 뭔가 날아다니잖아! 저거 퀸 비야!",
+			null,
+			null,
+			"Look! There's movement in the sky! That's the queen bug!",
+			"Look! There's something flying! That's a Queen Bee!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305943,
+			"Hush.",
+			"嘘…小声点。",
+			"シッ……静かに。",
+			"쉿...... 조용히.",
+			null,
+			null,
+			"Shh...keep it down.",
+			"Shhhh ...... quietly."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH02_EV04_WormFly"
+		],
+		[
+			"msg",
+			305944,
+			"*Loud Buzzing Sound*",
+			"嗡嗡嗡……",
+			"ブーン、ブーン、ブーン……。",
+			"윙윙, 윙윙, 윙윙.......",
+			null,
+			null,
+			"Buzz ......",
+			"Boom, boom, boom. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305945,
+			"The larvae keep dancing around the queen. It looks like a reunion of joy.",
+			"幼虫们在虫后身边飞舞，莫非是在表现团聚的喜悦么。",
+			"幼虫たちがクイーンビーの周りを飛んでる。再会できた喜びを表現してるみたい……。",
+			"유충들이 퀸 비 주변을 맴돌고 있어. 재회의 기쁨을 표현하는 것 같아......",
+			null,
+			null,
+			"The larvae fluttered around the queen, showing the joy of reunion.",
+			"Larvae are flying around the queen bee. They seem to be expressing their joy at being reunited. ......"
+		],
+		[
+			"msg",
+			305946,
+			"Do they really have emotions?",
+			"难道崩坏生物真的拥有感情么……",
+			"まさか崩壊生物には本当に感情があるの……。",
+			"설마 붕괴 생물에게 진짜 감정이 있다니......",
+			null,
+			null,
+			"Does the collapsed creature really have feelings ......",
+			"I don't believe that disintegrating organisms really have feelings. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305947,
+			"Yssring, the queen is taking the larvae away. Shouldn't we follow them?",
+			"喂！伊瑟琳，虫后带着幼虫快飞走了！我们真的不追上去么？",
+			"ちょっと！イザーリン、クイーンビーが幼虫を連れて飛んで行っちゃうよ！追いかけないの？",
+			"잠깐! 이자린, 퀸 비가 유충을 데리고 날아가 버렸어! 쫓아가지 않을 거야?",
+			null,
+			null,
+			"Hey! Estherine, the queen is flying away with the larvae! Are we sure we don't want to go after them?",
+			"Hey, hey, hey! Estherine, the queen bee is flying away with the larvae! Aren't you going after them?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305948,
+			"Yes, let's go.",
+			"嗯，走吧。",
+			"……行こう。",
+			"......가자.",
+			null,
+			null,
+			"Well, let's go.",
+			"Let's go to ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10099"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305949,
+			"Why do they come back to the castle? I thought they moved their den!",
+			"可恶！怎么回到了城堡里！不是说虫子们的巢穴转移了么？",
+			"もう！どうして城に戻るのよ！虫たちの巣は移動したんじゃないの？",
+			"정말! 왜 성으로 돌아가는 거야! 벌레들의 둥지는 이동했을 텐데!",
+			null,
+			null,
+			"Damn! Why are we back in the castle? Didn't they say the bugs' lair had moved?",
+			"Oh, my God! Why are you going back to the castle! Didn't you move the nest of worms?"
+		],
+		[
+			"msg",
+			305950,
+			"And there are lots of Houkai creatures.",
+			"而且这么多崩坏生物是怎么回事啊！！",
+			"しかも、何でこんなにたくさん崩壊生物がいるのよ！！",
+			"게다가, 왜 이렇게 많이 붕괴 생물이 있는 거야!!",
+			null,
+			null,
+			"And what's with all the crashing creatures!",
+			"And why are there so many disintegrating organisms!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305951,
+			"Seele, get rid of these bugs! I'm going to die!",
+			"呜哇！希儿！快把这些虫子赶走！要死了！要死了！",
+			"うわっと！ゼ、ゼーレ！早くこの虫どうにかして！死ぬ……死ぬ……。",
+			"악! 제레! 빨리 이 벌레 좀 처리해! 죽어...... 죽어......",
+			null,
+			null,
+			"Whoo-hoo! Shire! Get rid of those bugs! It's dying! It's dying!",
+			"Whoa! Ze, Seele! Quick, do something about this bug! Die ...... die ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305952,
+			"Shut up! How can we kill all these bugs?",
+			"不要吵啦！这么多虫子哪这么容易消灭啊！",
+			"騒がないでよ！こんなにたくさん虫がいたら倒すのも大変なのよ！",
+			"소란 피우지 마! 이렇게 많은 벌레들이 있으면 쓰러뜨리는 것도 힘들다고!",
+			null,
+			null,
+			"Stop it! So many bugs are not so easy to eliminate!",
+			"Don't make a fuss! It's hard to beat them when there are so many of them!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305953,
+			"We might be ambushed!",
+			"呜…我觉得我们可能被埋伏了！",
+			"う……私たち待ち伏せされてたのかもしれない！",
+			"어...... 우리가 매복당했을지도 몰라!",
+			null,
+			null,
+			"Oooh...I think we might have been ambushed!",
+			"U...... we could have been ambushed!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305954,
+			"Ambush?",
+			"埋伏？",
+			"待ち伏せ？",
+			"매복?",
+			null,
+			null,
+			"Ambush?",
+			"Ambush?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305955,
+			"I guess the Houkai creatures found out our plans, and they took us here and surrounded us.",
+			"没错…我们的计划被崩坏生物发现了，他们是故意将我们引到这个包围网中的！",
+			"そうよ……私たちの計画が崩壊生物に知られて、彼らがわざと私たちをこの包囲網の中におびき寄せたのよ！",
+			"그래...... 우리 계획이 붕괴 생물에게 들켜서, 그들이 일부러 우리를 이 포위망 안으로 유인한 거야!",
+			null,
+			null,
+			"That's right...our plan has been discovered by the Avalanche creatures, and they are deliberately drawing us into this encircling net!",
+			"Yes, ...... our plans became known to the disintegrating organisms and they deliberately lured us into this siege!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305956,
+			"They are not supposed to be intelligent!",
+			"怎么可能！崩坏生物哪有这么高的智能！",
+			"ありえないよ！崩壊生物にそんな知能があるわけないでしょ！",
+			"말도 안 돼! 붕괴 생물에게 그런 지능이 있을 리 없잖아!",
+			null,
+			null,
+			"How is it possible! Avalanche creatures don't have such high intelligence!",
+			"That's impossible! How could a disintegrating organism have that kind of intelligence!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305957,
+			"I thought so too, we were wrong. I thought that we could defeat them by knowing their structures. How foolish I was!",
+			"很遗憾！我之前也是这么认为的…所以才会大意，觉得只要掌握了它们的规律就能克敌制胜…但是事实上愚蠢的是我们而已！",
+			"私も前までそう思ってた……だから油断して、彼らの秩序を理解さえすれば勝てると考えてた……けど事実は真逆。愚かだったのは私たちだったみたい！",
+			"나도 예전엔 그렇게 생각했어…… 그래서 방심하고, 그들의 질서를 이해하기만 하면 이길 수 있다고 생각했었지…… 하지만 사실은 정반대. 어리석었던 건 우리였던 것 같아!",
+			null,
+			null,
+			"It's a shame! I thought the same thing before...that's why I was careless and thought that if I mastered them I could overcome the enemy...but in fact it was just us who were stupid!",
+			"I used to think that too...... so I let my guard down and thought we could win as long as we understood their order...... but the fact is the exact opposite. Looks like it was us who were stupid!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305958,
+			"We should get out of here! I don't want to die in this place.",
+			"总之现在先想办法冲出去吧！留在这里只会被被动等死而已！",
+			"とにかく、まずはどうにかして突破しないと！ここに留まってたら死ぬだけだわ！",
+			"어쨌든, 먼저 어떻게든 돌파하지 않으면! 여기에 머물고 있으면 죽을 뿐이야!",
+			null,
+			null,
+			"Anyway, let's find a way to rush out now! Stay here will only be passive waiting for death!",
+			"Anyway, we have to get through somehow first! If we stay here, we'll just die!"
+		],
+		[
+			"msg",
+			305959,
+			"Yssring, keep up!",
+			"伊瑟琳！跟上我！不要掉队！",
+			"イザーリン！ついて来て！はぐれないでよ！",
+			"이자린! 따라와! 떨어지지 말라고!",
+			null,
+			null,
+			"Estherine! Stay with me! Don't fall behind!",
+			"Estherine! Follow me! Don't get separated!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305960,
+			"Slow down!",
+			"呃…好的，你走慢点！",
+			"え……分かった。ちゃんと私のこと見ててね？ゆっくり行ってよ！",
+			"어…… 알았어. 제대로 내 모습 보고 있어? 천천히 가라고!",
+			null,
+			null,
+			"Uh...okay, you walk slowly!",
+			"Eh ...... I get it. Make sure you watch me, okay? Go slowly!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305961,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305962,
+			"I can see the way out now! Yssring, hang in there.",
+			"出口就在前面了！伊瑟琳！再加把劲！",
+			"出口は前方ね！イザーリン！もう少し頑張って！",
+			"출구는 앞쪽이야! 이자린! 조금 더 힘내!",
+			null,
+			null,
+			"The exit is just up ahead! Estherine! Harder!",
+			"The exit is up ahead! Estherine! Hang on a little longer!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305963,
+			"I... I will.",
+			"呼呼！我…会再努力一下的……",
+			"ふう、ふう！私……もう少し頑張るわ……。",
+			"후, 후! 나…… 조금 더 버틸 수 있을 거야…….",
+			null,
+			null,
+			"Whew! I...will try a little harder ......",
+			"Phew, phew! I ...... will try a little harder ......."
+		],
+		[
+			"speaker",
+			204611
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				51,
+				0,
+				false
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH02_EV04_WormFly"
+		],
+		[
+			"msg",
+			305964,
+			"*Loud Buzzing Sound*",
+			"嗡嗡嗡！",
+			"ブーン、ブーン、ブーン！",
+			"부우우, 부우우, 부우우!",
+			null,
+			null,
+			"Buzz off!",
+			"Boom, boom, boom!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				51,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305965,
+			"Is it the queen?",
+			"呃！这个是…虫后！？",
+			"え！これは……クイーンビー！？",
+			"엇! 이건…… 퀸 비!?",
+			null,
+			null,
+			"Ugh! This is...the Bug Queen!",
+			"Eh! This is ...... Queen Bee!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305966,
+			"How can it be?",
+			"这…这可怎么办……",
+			"そ、そんな、どうして……。",
+			"저, 저런…… 어떻게…….",
+			null,
+			null,
+			"This...this is what to do ......",
+			"Oh, no, why ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305967,
+			"Yssring, we'll cover you! Rush back to the base and tell Sister to send reinforcements!",
+			"伊瑟琳！我们给你制造机会，你看准时机冲过去！回基地告诉姐姐大人派援兵过来！",
+			"イザーリン！私たちがチャンスを作るから、あなたはそれに乗じて抜け出して！基地に戻ってお姉ちゃんに援軍を派遣するように伝えて！",
+			"이자린! 우리가 기회를 만들 테니, 넌 그 틈을 타서 탈출해! 기지로 돌아가서 언니에게 원군을 보내 달라고 전해!",
+			null,
+			null,
+			"Estherine! We'll create an opportunity for you, you see the right moment to rush through! Go back to the base and tell your sister to send reinforcements!",
+			"Estherine! We'll make our chances, you get out of it! Tell your sister to send reinforcements back to base!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305968,
+			"But...",
+			"可！可是……",
+			"で、でも……！",
+			"그, 하지만……!",
+			null,
+			null,
+			"But! But ......",
+			"And, but ......!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305969,
+			"Go! You can do nothing here!",
+			"逃跑不是你最擅长的么！不要犹豫了！你在这里也只会碍手碍脚！",
+			"逃げるのは一番得意でしょ！ウジウジしないで！あなたがここにいても足手まといだわ！",
+			"도망치는 건 제일 잘하지 않아! 우물쭈물하지 마! 네가 여기 있으면 발목만 잡힐 거야!",
+			null,
+			null,
+			"Isn't running away what you do best! Don't hesitate! You'll only get in the way here!",
+			"You're the best at running away! Stop your whining! You're only holding me back if you stay here!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305970,
+			"I see...",
+			"好吧…我明白了……",
+			"うん……分かった……。",
+			"응…… 알았어…….",
+			null,
+			null,
+			"Ok...I get it ......",
+			"Yeah ...... okay ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305971,
+			"Here I come!",
+			"那我上了！",
+			"いくわよ！",
+			"간다!",
+			null,
+			null,
+			"Then I'm on!",
+			"Let's go!"
+		],
+		[
+			"speaker",
+			204611
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				51,
+				0,
+				false
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH02_EV04_WormFly"
+		],
+		[
+			"msg",
+			305972,
+			"*Loud Buzzing Sound*",
+			"嗡嗡嗡！！",
+			"ブーン、ブーン、ブーン！！",
+			"부우우우, 부우우우, 부우우우!!",
+			null,
+			null,
+			"Huzzah!!!",
+			"Boom, boom, boom!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				51,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305973,
+			"Now! Run!",
+			"就是现在！快走！",
+			"今よ！早く！",
+			"지금이야! 빨리!",
+			null,
+			null,
+			"Right now! Move it!",
+			"Now! Now!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305974,
+			"Yes!",
+			"好，好的！",
+			"わ、分かった！",
+			"알, 알겠어!",
+			null,
+			null,
+			"Good, good!",
+			"Wow, okay!"
+		],
+		[
+			"msg",
+			305975,
+			"Hang in there! I'll get Bronya as soon as possible!",
+			"你们坚持住！我一定会最快带布洛妮娅过来的！",
+			"あなたたち、持ちこたえてよ！すぐにブローニャを連れてくるから！",
+			"너희들, 버티고 있어! 금방 브로냐를 데려올 테니까!",
+			null,
+			null,
+			"You guys hang in there! I'll bring Bronya here as soon as I can!",
+			"You guys, hold on! I'll get Bronya right away!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305976,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			305977,
+			"Now, we should have a good fight!",
+			"碍事的家伙终于走了…现在该我们大干一场了！",
+			"邪魔者はやっと行ったわね……これからは私たちの大立ち回りの時間！",
+			"방해물은 드디어 사라졌네... 이제부터 우리의 대활극 시간이야!",
+			null,
+			null,
+			"The guy who was in the way is finally gone...now it's time for us to do something big!",
+			"The interloper has finally gone ...... Now it's time for our big stand up!"
+		]
+	],
+	"1112": [
+		[
+			"bgm",
+			72
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305978,
+			"We almost killed all the bugs. This big one is the last!",
+			"周围的崩坏生物解决的差不多了…看来只剩下这只大虫子了！",
+			"周囲の崩壊生物は大体片付いたわ……あとはこのデッカイやつだけね！",
+			"주변 붕괴 생물들은 대부분 처리했어... 이제 이 덩치 큰 녀석만 남았네!",
+			null,
+			null,
+			"The surrounding avalanche creatures are almost solved... it seems that only this big bug is left!",
+			"I've got most of the disintegrating organisms around the perimeter taken care of. ...... All that's left is this big-ass one!"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305979,
+			"Do you think you can take it down?",
+			"怎么样，有信心战胜它么？",
+			"どう？勝つ自信ある？",
+			"어때? 이길 자신 있어?",
+			null,
+			null,
+			"How about it? Are you confident you can beat it?",
+			"How are you doing? Are you sure you can win?"
+		],
+		[
+			"choice",
+			[
+				305980,
+				"No problem at all.",
+				"没问题。",
+				"大丈夫！",
+				"괜찮아!",
+				null
+			],
+			[
+				305981,
+				"I'll do my best.",
+				"我会尽力的。",
+				"最善を尽くす！",
+				"최선을 다할게!",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1113
+		]
+	],
+	"1113": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305982,
+			"We'll be dead if it comes to us. Yssring always gives us trouble!",
+			"哼，如果不战胜它我们可就死定了…果然不应该接受伊瑟琳的委托，每次都是这种麻烦的事情。",
+			"フンッ、もし勝てなかったら私たちおしまいね……やっぱりイザーリンの依頼なんか受けるべきじゃなかったのよ。いつもこんな面倒なことばっかりなんだから。",
+			"흥, 만약 이기지 못하면 우리 끝이야…… 역시 이자린의 의뢰なんか 받을 게 아니었어. 항상 이런 귀찮은 일ばっかり이니까.",
+			null,
+			null,
+			"Hm, if we don't defeat it we're dead... I really shouldn't accept Estherine's commission, every time it's this kind of trouble.",
+			"If we don't win, we're done. ...... I knew I shouldn't have taken Estherineg's request. It's always such a hassle."
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305983,
+			"Show them what we got!",
+			"那我们上吧！让它知道我们的厉害！",
+			"じゃあ、いきましょう！私たちのすごさを思い知らせてやるのよ！",
+			"자, 가자! 우리의 실력을 제대로 보여주자고!",
+			null,
+			null,
+			"Then let's go! Let's show it what we're made of!",
+			"Then let's go! Let's remind them how awesome we are!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305984,
+			"Bang!",
+			"砰！",
+			"バンッ！",
+			"쾅!",
+			null,
+			null,
+			"Bang!",
+			"Bang!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305985,
+			"The gunshot...",
+			"唔！这个枪声是……",
+			"あ！この銃声は……。",
+			"앗! 이 총성은......",
+			null,
+			null,
+			"Well! This gunshot is ......",
+			"Ah! This shot was fired at ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305986,
+			"Seele, we're here!",
+			"希儿！我来帮你们了！",
+			"ゼーレ！助けに来ました！",
+			"제레! 구하러 왔어요!",
+			null,
+			null,
+			"Hill! I'm here to help you!",
+			"Seele! I'm here to help!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305987,
+			"Sister!",
+			"姐姐大人！",
+			"お姉ちゃん！",
+			"언니!",
+			null,
+			null,
+			"Sister-sama!",
+			"Sis!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				54,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305988,
+			"Sorry, we're late.",
+			"呼呼…抱歉，来晚了……",
+			"ふぅ、ふぅ……ごめん、遅くなった……。",
+			"후, 후… 미안, 늦었어….",
+			null,
+			null,
+			"Whew...sorry for being late ......",
+			"Phew, phew. ...... sorry, I'm late. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305989,
+			"Yssring, you're useful for the first time.",
+			"伊瑟琳，第一次觉得你还是有点用的嘛~",
+			"イザーリン、初めてあなたが役に立ったと思ったわ～！",
+			"이자린, 네가 처음으로 도움이 됐다고 생각했어~!",
+			null,
+			null,
+			"Estherine, the first time I think you still have some use ~",
+			"Estherine, for the first time I thought you were helpful~!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305990,
+			"Thanks...",
+			"感谢……",
+			"……どういたしまして。",
+			"……천만에요.",
+			null,
+			null,
+			"Thanks to ......",
+			"You are welcome at ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305991,
+			"The tide is turned! Here we come!",
+			"看来局势逆转了呢！该我们反击了！",
+			"どうやら形勢逆転ね！反撃するわよ！",
+			"어쨌든 형세 역전이네! 반격할 거야!",
+			null,
+			null,
+			"Looks like the tide has turned! It's our turn to fight back!",
+			"Looks like the tables are turned! Let's fight back!"
+		]
+	],
+	"1114": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10099"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH02_EV04_WormFly"
+		],
+		[
+			"msg",
+			305992,
+			"*Loud Buzzing Sound*",
+			"嗡嗡嗡……",
+			"ブーン、ブーン、ブーン……。",
+			"부운, 부운, 부운….",
+			null,
+			null,
+			"Buzz ......",
+			"Boom, boom, boom. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305993,
+			"Did we win?",
+			"赢了么……",
+			"勝ったのかしら……。",
+			"이긴 걸까….",
+			null,
+			null,
+			"Did you win ......",
+			"I wonder if they won. ......"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305994,
+			"We've fought before, but I don't have the edge.",
+			"虽然是第二次交手，但还是相当棘手的对手呢。",
+			"相手をするのは2回目ですが、相当手ごわい相手ですね。",
+			"상대하는 건 두 번째지만, 상당히 힘든 상대네요.",
+			null,
+			null,
+			"Although it was the second time we met, it was still a rather tricky opponent.",
+			"This is the second time I have played against him, and he is quite a formidable opponent."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305995,
+			"But we made through. Although we didn't find the den, we killed almost every Houkai creatures in this area.",
+			"不过总算是突围了…这个区域的崩坏生物也消灭的差不多了，不过到最后还是没有找到它们的巢穴。",
+			"でも囲みは突破できたよ……このエリアの崩壊生物もほとんど倒したし。でも、結局彼らの巣は見つけられなかったね……。",
+			"하지만 포위망은 돌파했어… 이 구역의 붕괴 생물도 거의 쓰러뜨렸고. 하지만 결국 그들의 둥지는 찾지 못했네….",
+			null,
+			null,
+			"But finally broke out... The avalanche creatures in this area were also almost wiped out, but in the end, their nests were not found.",
+			"But we did get through the enclosure. ...... We also took down most of the decaying creatures in the area. But we didn't find their nest in the end. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305996,
+			"There should be no problem. I just fear that the bugs will strike back.",
+			"应该没有问题了，这次它们恐怕是倾巢出动了……",
+			"それなら大丈夫よ。おそらく今回の一件、巣から総出でやって来てるから……。",
+			"그렇다면 괜찮아. 아마 이번 일은 둥지에서 총출동해서 오고 있는 거니까….",
+			null,
+			null,
+			"There should be no problem, this time they are afraid that the nest is out ......",
+			"Then you'll be fine. We're probably coming all the way from the nest for this one. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305997,
+			"Why's that?",
+			"你怎么知道？",
+			"どうして分かるの？",
+			"어떻게 알았어?",
+			null,
+			null,
+			"How do you know?",
+			"How do you know?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305998,
+			"The queen is the leader of the clan. The Houkai creatures will risk everything to protect the queen.",
+			"虫后是整个族群的首领，以这群崩坏生物的习性它们一定会誓死保护虫后，就像保护自己的母亲一样……",
+			"クイーンビーは種族全体の首領。この崩壊生物の習性上、彼らは死んでもクイーンビーを守るはず。自分の母親を守るのと同じように……。",
+			"퀸 비는 종족 전체의 수령. 이 붕괴 생물의 습성상, 그들은 죽어도 퀸 비를 지킬 거야. 자신의 어머니를 지키는 것과 마찬가지로…….",
+			null,
+			null,
+			"The queen is the leader of the whole group, with the habit of this group of collapsed creatures they will definitely protect the queen to the death, just like protecting their mother ......",
+			"Queen Bee is the head of the entire tribe. Due to the habits of this disintegrating creature, they should protect Queen Bee even in death. Just as they would protect their own mothers. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305999,
+			"What do you mean?",
+			"你的意思是？",
+			"つまり？",
+			"즉?",
+			null,
+			null,
+			"What do you mean?",
+			"In other words?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306000,
+			"If there reinforcements didn't come in time, we would have all died.",
+			"嗯，如果没有援军的话就表示它们已经全部战死在自己的女王的身边了。",
+			"うん、援軍が来ないということは、すべて女王の周りで死んだってことよ。",
+			"응, 원군이 오지 않는다는 건, 모두 여왕 주변에서 죽었다는 거야.",
+			null,
+			null,
+			"Well, if there are no reinforcements it means that they have all died in battle at the side of their queen.",
+			"Yeah, the lack of reinforcements means they all died around the queen."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306001,
+			"So did we win? Yeah!",
+			"这么说的话我们终于战胜了这些崩坏生物了么！太好了！",
+			"ということは、私たちやっとこの崩壊生物に勝ったのね！よかった！",
+			"그 말은, 우리가 드디어 이 붕괴 생물에게 이긴 거네! 좋았어!",
+			null,
+			null,
+			"So we've finally defeated the crashing creatures! Great!",
+			"So we finally beat this disintegrating creature! Thank God!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306002,
+			"No, not yet. As long as there are eggs in the den, a new queen will be hatched.",
+			"并没有…只要它们的巢穴里还有剩下的虫卵，当那些虫卵孵化的时候一定会诞生新的虫后。",
+			"ただ、そうとも言い切れない……彼らの巣にはまだ卵が残されてる。その卵が孵化した時、新しいクイーンビーが生まれるはず。",
+			"하지만, 그렇게 단정할 수 없어…… 그들의 둥지에는 아직 알이 남아있어. 그 알이 부화할 때, 새로운 퀸 비가 태어날 거야.",
+			null,
+			null,
+			"Not really...as long as there are eggs left in their nests, when those eggs hatch a new queen will surely be born.",
+			"But that's not entirely true. ...... There is still an egg left in their nest. When those eggs hatch, there should be a new queen bee."
+		],
+		[
+			"msg",
+			306003,
+			"They are just like us. If there's a hope, they will keep on surviving.",
+			"它们也像我们一样，只要有生存下来的希望就一定会有新的力量诞生，带领着族群继续繁衍下去。",
+			"彼らも私たちと同じように、生き延びる希望さえあれば必ず新しい力を生み出す。種族を導いて、繁殖を続けていく。",
+			"그들도 우리와 마찬가지로, 살아남을 희망만 있다면 반드시 새로운 힘을 만들어내. 종족을 이끌고, 번식을 계속해 나갈 거야.",
+			null,
+			null,
+			"They are also like us, as long as there is hope to survive there will be a new force born to lead the community to continue to reproduce.",
+			"They, like us, will always create new forces if only there is hope for survival. They will lead their tribe and continue to reproduce."
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306004,
+			"They are just like humans. They have thoughts and feelings, empathy and the desire of living...",
+			"存在着思想与感情，完整的族群意识，还有对生存的渴望，就和人类一样……",
+			"思想と感情、完璧な種族意識が存在し、生存に対する渇望もある。人類と同じように……。",
+			"사상과 감정, 완벽한 종족 의식이 존재하고, 생존에 대한 갈망도 있어. 인류와 마찬가지로…….",
+			null,
+			null,
+			"The existence of thoughts and feelings, a complete sense of community, and the desire to survive, just like humans ......",
+			"There are thoughts and feelings, a perfect species consciousness, and a thirst for survival. Just like the human race. ......"
+		],
+		[
+			"msg",
+			306005,
+			"If the Houkai tends to expedite the evolution on Earth, then what we're doing is against the nature. If humans are doomed to perish, we are the one to blame...",
+			"如果崩坏的目的就是促进地球生物的进化，那么我们现在的所作所为就是在和自然的法则对抗。倘若人类是必须毁灭的命运的话，我们现在做的事情就是错误的……",
+			"崩壊の目的が地球生物の進化を促進することなら、私たちのやっていることは自然の法則に抗うことなのかも。もし人類が滅ぶ運命だとすれば、私たちの今していることは間違い……。",
+			"붕괴의 목적이 지구 생물의 진화를 촉진하는 것이라면, 우리가 하고 있는 일은 자연의 법칙에 맞서는 것일지도 몰라. 만약 인류가 멸망할 운명이라면, 우리가 지금 하고 있는 일은 틀렸어…….",
+			null,
+			null,
+			"If the purpose of the collapse is to promote the evolution of life on earth, then what we are doing now is fighting against the laws of nature. If humanity is the fate that must be destroyed, what we are doing now is wrong ......",
+			"If the purpose of the collapse is to promote the evolution of earth organisms, then maybe what we are doing is defying the laws of nature. If humanity is doomed to perish, then what we are doing now is wrong. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			306006,
+			"What are you muttering, Yssring?",
+			"伊瑟琳，你又在嘟囔什么呢？",
+			"イザーリン、また何をつぶやいているの？",
+			"이자린, 또 무얼 중얼거리고 있는 거야?",
+			null,
+			null,
+			"Estherine, what are you mumbling about again?",
+			"Estherine, what are you mumbling about again?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306007,
+			"Don't think too much. We only need to survive. It's our instinct.",
+			"不要多想，我们现在只要考虑怎么活下来就行了，这是作为生命的本能，没有对错。",
+			"考えすぎる必要はありません。今、私たちはどうやって生き延びるかを考えるだけでいいんです。これは生命の本能であり、正しいも間違いもありません。",
+			"너무 깊게 생각할 필요 없어요. 지금은 그냥 어떻게 살아남을지 고민하면 돼요. 이건 생명의 본능이지, 옳고 그름의 문제가 아니에요.",
+			null,
+			null,
+			"Do not think much, we now just need to consider how to survive on the line, this is as the instinct of life, there is no right or wrong.",
+			"There is no need to overthink. All we have to do now is think about how to survive. This is the instinct of life, there is no right or wrong."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			306008,
+			"You're right. Why should we be afraid of those creatures? Forget about what I said. It's just a random thought of a researcher.",
+			"……嗯，你说的对，谁让我们是这么怕死的生物呢，把刚才的话忘了吧，只是一个研究者无聊的杂想罢了。",
+			"……うん、その通りね。私たちはこんなに死ぬのが恐い生き物なんだもん。今の話は忘れて。一介の研究者のつまらない空想にすぎない。",
+			"......응, 맞아. 우린 이렇게나 죽는 게 무서운 생물이니까. 지금 이야기는 잊어버려. 한 연구원의 하찮은 공상에 불과하니까.",
+			null,
+			null,
+			"...... Well, you're right, who made us such fearful creatures, forget what you just said, it's just a researcher's boring miscellaneous thoughts.",
+			"......Yeah, you're right. We are such horrible creatures to die. Forget what I just said. It's just a boring fantasy of a researcher."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306009,
+			"Well, the threat of Houkai bugs has come to an end. Yet we still have a lot of preparation work.",
+			"嗯，虫形崩坏生物的威胁也算告一段落了，后面还有很多要准备的东西。",
+			"はい、虫型崩壊生物の脅威も一段落しましたし、これからも準備しなければいけないことがたくさんあります。",
+			"네, 곤충형 붕괴 생물의 위협도 일단락되었으니, 앞으로 준비해야 할 일이 많습니다.",
+			null,
+			null,
+			"Well, the threat of insectoid disintegrating creatures is over, and there is still a lot of preparation to be done later.",
+			"Yes, the threat of insectoid disintegrating organisms has subsided, and there is much more to prepare for in the future."
+		],
+		[
+			"msg",
+			306010,
+			"Thank you everyone. Go get some rest now.",
+			"今天辛苦各位了，回去好好休息吧。",
+			"みなさん、今日はお疲れ様でした。帰ってゆっくり休んでください。",
+			"여러분, 오늘 수고 많으셨습니다. 돌아가서 푹 쉬세요.",
+			null,
+			null,
+			"It's been a hard day for all of you, go back and get some rest.",
+			"Thank you all for your hard work today. Please go home and have a good rest."
+		]
+	]
+}

@@ -1,0 +1,4990 @@
+{
+	"10053": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714546,
+			null,
+			"“神落之日”后，侵蚀体的灾难结束，而黑死病的效力也大大减弱。被世人视为拯救者的奥托决定重建天命教会。",
+			"「神落の日」の後、侵食体の災いは終息し、ペストの脅威も大幅に弱まった。世界の人々から救世主とされたオットーは天命教会の再建を決めた。",
+			"「신락의 날」 이후, 침식체의 재앙은 종식되었고 페스트의 위협도 크게 약해졌다. 세계 사람들에게 구세주로 여겨진 오토는 천명교회의 재건을 결심했다.",
+			null,
+			null,
+			"After the \"Day of the Fall of God\", the disaster of the encroaching body ended, and the effectiveness of the Black Death was greatly diminished. Otto, who was regarded as the savior of the world, decided to rebuild the Church of the Divine Fate.",
+			"After the \"Day of the Fall of the Gods,\" the plague of eroding bodies came to an end and the threat of the plague was greatly weakened. Otto, who was regarded as a savior by the people of the world, decided to rebuild the Church of Heavenly Life."
+		],
+		[
+			"msg",
+			714547,
+			null,
+			"都城重立，行宫重造，元老团也回到了教会之中，成为奥托的助力。",
+			"天命都市を再興し、宮殿が再建された。元老団も教会に戻り、オットーを支えた。",
+			"천명 도시를 재건하고 궁전이 다시 세워졌다. 원로단도 교회로 돌아와 오토를 지원했다.",
+			null,
+			null,
+			"The capital city was re-established, the palace was rebuilt, and the senate returned to the church as a help to Otto.",
+			"The Celestial City was rebuilt and the palace was rebuilt. The senators also returned to the church and supported Otto."
+		],
+		[
+			"msg",
+			714548,
+			null,
+			"不过，“天启骑士团”却成了一个历史名词，取而代之的是直属于主教的军事集团，受奥托直属控制。",
+			"しかし、「天啓騎士団」は歴史に刻まれた。代わりに主教直属の軍事集団が創設され、オットーの直轄部隊となった。",
+			"하지만 「천기 기사단」은 역사에 기록으로만 남게 되었다. 대신 주교 직속의 군사 집단이 창설되어 오토의 직할 부대가 되었다.",
+			null,
+			null,
+			"However, the \"Knights of the Apocalypse\" became a historical term and was replaced by a military group directly under the control of the bishop and under the direct control of Otto.",
+			"However, the \"Knights of the Order of Heavenly Enlightenment\" were consigned to history. Instead, a military group under the direct control of the bishop was created, and it became Otto's direct command."
+		],
+		[
+			"msg",
+			714549,
+			null,
+			"数十年后，“神落之日”也成为了藏在天命教会密库深处的历史文件，对于世间绝大部分人来说，侵蚀体、渊面意志……都是他们从未听过的东西。",
+			"数十年後、「神落の日」も天命教会の秘密資料庫の奥に封印される歴史文書の一部となり、世界の大多数の人々にとって、侵食体や淵面の意志は……いずれも聞いたこともないものとなった。",
+			"수십 년 후, 「신락의 날」도 천명교회 비밀 자료고의 깊은 곳에 봉인된 역사 문서의 일부가 되었고, 세계 대다수 사람들에게 침식체나 연면의 의지는... 모두 들어본 적 없는 것이 되어버렸다.",
+			null,
+			null,
+			"Decades later, the \"Day of the Fall of God\" has also become a historical document hidden in the depths of the secret vault of the Church of the Divine Order, for the vast majority of people in the world, the erosion of the body, the abyssal will ...... is something they have never heard of.",
+			"Decades later, \"The Day of the Fall of God\" also became part of the historical documents sealed in the back of the secret archives of the Church of Heavenly Father, and for the majority of the world's population, the will of the eroding body or the abyssal plane was unheard of ...... either."
+		],
+		[
+			"msg",
+			714550,
+			null,
+			"几百年以后，就在历史的正篇中，渊面意志降临所带来的灾难，变成了黑死病蔓延的结果。",
+			"数百年後、歴史書では、淵面の意志の降臨によってもたらされた災いは、ペストの流行によるものとされた。",
+			"수백 년 후, 역사서에서는 연면의 의지의 강림으로 인한 재앙이 페스트 유행으로 인한 것이라고 기록되었다.",
+			null,
+			null,
+			"Hundreds of years later, right in the middle of the history proper, the disaster brought about by the coming of the Abyssal Will turned out to be the result of the spread of the Black Death.",
+			"Hundreds of years later, history books attributed the plagues brought about by the descent of the abyssal will to an epidemic of plague."
+		],
+		[
+			"msg",
+			714551,
+			null,
+			"而奥托从渊面意志手中拯救世人的映像，也变作了“天命教会利用自己先进的医疗技术阻断了黑死病传播”的记载。",
+			"そして、オットーが淵面の意志から世界の人々を救ったという話も、「天命教会が先進的な医療技術を駆使してペストの流行を防いだ」という記載に変わっていった。",
+			"그리고 오토가 연면의 의지로부터 세계 사람들을 구했다는 이야기도, 「천명교회가 첨단 의료 기술을 활용해 페스트 유행을 막았다」는 기록으로 바뀌어 갔다.",
+			null,
+			null,
+			"The image of Otto saving the world from the will of the abyssal side has been changed into the account that \"the Church of the Divine Order used its advanced medical technology to stop the spread of the Black Death\".",
+			"And the story of Otto's saving the world's people from the will of the abyssal plane was also changed to a description of how the Church of Heavenly Life used advanced medical technology to prevent the plague epidemic."
+		],
+		[
+			"msg",
+			714552,
+			null,
+			"至于卡莲死亡的原因，也从献祭自己的灵魂，对渊面意志发出了最后一击变成了为拯救他人死在了崩坏兽的手下。",
+			"カレンの死の理由についても、魂を捧げて淵面の意志に最後の一撃を放ったというものから、「人々を救うために崩壊獣の手にかかって死んだ」と書き換えられた。",
+			"카렌의 죽음에 대한 이유도, 영혼을 바쳐 연면의 의지에 마지막 일격을 가했다는 것에서 「사람들을 구하기 위해 붕괴수에게 죽임을 당했다」고 기록이 바뀌었다.",
+			null,
+			null,
+			"As for the reason for Karin's death, it also changed from sacrificing her soul and delivering the final blow to the will of the abyssal plane to dying under the Avalanche Beast to save others.",
+			"The reason for Karen's death was also rewritten from \"she died at the hands of a Honkai Beast to save people\" to \"she died at the hands of a Honkai Beast to save people\" from the one that she gave her soul and struck the final blow to the will of the abyssal plane."
+		],
+		[
+			"msg",
+			714553,
+			null,
+			"历史的记录，就这样被扭曲变形。",
+			"歴史の記録は、こうして歪められていった。",
+			"역사의 기록은 이렇게 왜곡되어 갔다.",
+			null,
+			null,
+			"The record of history is thus twisted and distorted.",
+			"The historical record was thus distorted."
+		],
+		[
+			"msg",
+			714554,
+			null,
+			"但就在数百年以前，此后的故事还未出现之时。",
+			"しかし、数百年前、次なる物語が始まる前のこと。",
+			"그러나 수백 년 전, 다음 이야기가 시작되기 전의 일이었다.",
+			null,
+			null,
+			"But just a few hundred years ago, before the stories of the hereafter had emerged.",
+			"But hundreds of years ago, before the next story began."
+		],
+		[
+			"bgm",
+			129
+		],
+		[
+			"msg",
+			714555,
+			null,
+			"“神落之日”数月以后，天命都城。",
+			"「神落の日」から数カ月後の天命都市——",
+			"「신의 추락의 날」로부터 몇 달 후의 천명 도시——",
+			null,
+			null,
+			"A few months after the \"Day of the Fall of God\", the capital city of the Heavenly Order.",
+			"A few months after \"The Day of the Fall of God,\" the Heavenly City--"
+		],
+		[
+			"bg",
+			"CG10285"
+		],
+		[
+			"msg",
+			714556,
+			null,
+			"山脚下的人们正在热火朝天地重建城市，而就在山边的行宫中——",
+			"山の麓の人々は、街の再建に熱意を燃やしていた。一方、山沿いにある宮殿では——",
+			"산기슭의 사람들은 도시 재건에 열의를 불태우고 있었다. 한편, 산자락에 있는 궁전에서는——",
+			null,
+			null,
+			"The people at the foot of the mountain are feverishly rebuilding the city, and in the palace just at the edge of the mountain -",
+			"The people at the foot of the mountain were eager to rebuild their city. Meanwhile, in the palaces along the mountain--"
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714557,
+			null,
+			"符华殿下，确定要回去吗？",
+			"フカ殿、本当に帰るのかい？",
+			"후카님, 정말 돌아가시는 건가요?",
+			null,
+			null,
+			"Your Highness Fuhua, are you sure you want to go back?",
+			"Mister Huka, are you really leaving?"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714558,
+			null,
+			"击溃了渊面意志，如今欧陆之上崩坏近乎绝迹，我已经没有留在这里的理由。",
+			"淵面の意志を倒し、欧州の崩壊がほぼ根絶された今、私がここにとどまる理由はありません。",
+			"연면의 의지를 쓰러뜨리고 유럽의 붕괴가 거의 근절된 지금, 제가 여기에 머무를 이유는 없습니다.",
+			null,
+			null,
+			"Defeated the will of the abyssal surface, and now the collapse above Europa is nearly extinct, I have no reason to stay here.",
+			"Now that the will of the abyssal plane has been defeated and the collapse of Europe has been nearly eradicated, there is no reason for me to remain here."
+		],
+		[
+			"msg",
+			714559,
+			null,
+			"而且，我的身体也已陷入崩裂。虽然当日侥幸未死，但也需要回归太虚山长眠。",
+			"それに、私の体も崩れかけています。あの時は運良く死なずにすみましたが、太虚山に戻って長い眠りにつく必要があります。",
+			"게다가, 제 몸도 무너지기 시작했어요. 그때는 운 좋게 죽지 않았지만, 태허산으로 돌아가 긴 잠에 들 필요가 있습니다.",
+			null,
+			null,
+			"Moreover, my body had fallen into disintegration. Although I was lucky not to die that day, I need to return to Taixu Mountain for a long sleep.",
+			"Besides, my body is on the verge of collapse. I was lucky not to die that time, but I need to return to Mount Taihuoshan for a long sleep."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714560,
+			null,
+			"不知道符华殿下这次需要多久的修养？",
+			"そうか。今回はどれくらい休む必要があるんだい？",
+			"그렇군요. 이번에는 얼마나 쉬어야 하죠?",
+			null,
+			null,
+			"I wonder how long His Highness Fuhua will need to recuperate this time?",
+			"Okay. How much rest do you need this time?"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714561,
+			null,
+			"……恐怕至少都要数百年吧。",
+			"……少なくとも数百年でしょう。",
+			"......적어도 수백 년은 될 겁니다.",
+			null,
+			null,
+			"...... I'm afraid they all take at least a few hundred years.",
+			"...... It will be at least a few hundred years."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714562,
+			null,
+			"数百年么……我在此祝符华殿下一路顺风吧。",
+			"数百年か……フカ殿の道中の無事を祈っているよ。",
+			"수백 년이라...... 후카님의 여행이 무사하길 빌겠습니다.",
+			null,
+			null,
+			"Hundreds of years? ...... I would like to wish Your Highness Fuhua a good trip.",
+			"I wish you a few hundred years or ...... Huka-dono safe travels on your way."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714563,
+			null,
+			"符华轻轻颔首以应。",
+			"フカは小さくうなずいた。",
+			"후카는 작게 고개를 끄덕였다.",
+			null,
+			null,
+			"Fuhua nodded gently in response.",
+			"Huka gave a small nod."
+		],
+		[
+			"msg",
+			714564,
+			null,
+			"两人并肩看向前方，而就在这时，符华忽然发问。",
+			"二人並びながら前を向いた。ちょうどその時、フカが尋ねた。",
+			"두 사람은 나란히 앞을 바라보았다. 바로 그때, 후카가 물었다.",
+			null,
+			null,
+			"The two looked ahead side by side, and just then, Fuhua suddenly asked a question.",
+			"They looked forward as they lined up. Just then, Huka asked."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714565,
+			null,
+			"奥托殿下……我听说，天命教会似乎又重集元老团了？",
+			"……天命教会がまた元老団を集めていると聞きましたが？",
+			"......천명 교회가 다시 원로단을 소집하고 있다고 들었는데?",
+			null,
+			null,
+			"Your Highness Otto ...... I heard that the Church of Divine Order seems to have regrouped the Senate again?",
+			"I heard that ...... Tenmei Church is gathering the seneschals again?"
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714566,
+			null,
+			"没错。",
+			"ああ。",
+			"아.",
+			null,
+			null,
+			"That's right.",
+			"Oh."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714567,
+			null,
+			"我曾听卡莲提过，元老团庸蠹无行，奥托殿下早就属意废除。为何如今却要重新聚集他们？",
+			"かつてカレンさんから、元老団は愚かで品行が悪く、オットー殿は前から廃止するつもりだったと聞いていました。どうして今になってまた彼らを集めるのですか？",
+			"예전에 카렌 씨에게서, 원로단은 어리석고 품행이 나쁘며 오토 님은 전부터 폐지할 생각이었다고 들었습니다. 왜 지금 다시 그들을 모으는 건가요?",
+			null,
+			null,
+			"I have heard Karin mention that the Senate is a mediocre and incompetent group, and that His Highness Otto has long wanted to abolish it. Why do you want to gather them again now?",
+			"Ms. Karen once told me that the seniors were stupid and undignified and that Lord Otto had been planning to abolish them for some time. Why are you bringing them together again now?"
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714568,
+			null,
+			"……那只是过去的我一厢情愿罢了。",
+			"……それは、以前の僕の独りよがりな考えにすぎなかったんだ。",
+			"......그건, 이전의 나의 독단적인 생각에 불과했어.",
+			null,
+			null,
+			"...... That was just wishful thinking on my part in the past.",
+			"...... That was just my earlier, self-serving idea."
+		],
+		[
+			"msg",
+			714569,
+			null,
+			"任何组织都需要有光有影，一味追逐光明的组织只会自我灭亡。",
+			"どんな組織にも光と影が必要だ。光だけを追い求める組織は自滅するだけさ。",
+			"어떤 조직에도 빛과 그림자가 필요해. 빛만을 좇는 조직은 자멸할 뿐이야.",
+			null,
+			null,
+			"Any organization needs to have light and shadow, and an organization that chases light will only self-destruct.",
+			"Every organization needs light and shadow. An organization that pursues only light will only destroy itself."
+		],
+		[
+			"msg",
+			714570,
+			null,
+			"虽然元老团们昏庸禄蠹，但他们的存在可以缓和教会内部的压力，可以帮助我更好地控制权力……以此来对抗将来可能出现的崩坏。",
+			"元老団は愚かだが、彼らの存在は教会内部の圧力を和らげ、僕が権力をコントロールするのに役立つ……それによって、将来出現する可能性のある崩壊に立ち向かえるからね。",
+			"원로단은 어리석지만, 그들의 존재는 교회 내부의 압력을 완화시키고 내가 권력을 통제하는 데 도움이 돼...... 그것으로 인해, 미래에 나타날 가능성이 있는 붕괴에 맞설 수 있으니까.",
+			null,
+			null,
+			"Although the senate is faint Locus, their presence can ease the pressure within the church and can help me to better control power ...... as a way to combat possible future collapse.",
+			"The senates are stupid, but their presence relieves pressure within the church and helps me control power ...... so that I can confront any collapse that may emerge in the future."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714571,
+			null,
+			"原来如此。",
+			"なるほど。",
+			"그렇군요.",
+			null,
+			null,
+			"So that's it.",
+			"I see."
+		],
+		[
+			"msg",
+			714572,
+			null,
+			"这种世俗之事我终究还是不能理解，姑且还是不置喙好了。",
+			"そのような世俗のことは、やはり私には理解できません。何も言わない方がいいでしょう。",
+			"그런 속세의 일들은, 역시 나에게는 이해할 수 없습니다. 아무 말도 하지 않는 게 좋겠지요.",
+			null,
+			null,
+			"This kind of worldly things I still can't understand after all, let's not comment on it.",
+			"Such worldly matters are still incomprehensible to me. It is better not to say anything."
+		],
+		[
+			"msg",
+			714573,
+			null,
+			"不过，奥托殿下，我听士兵们说你在踏入天命都城以前，便道出了“渊面意志”和“侵蚀体”的名字，据说那是《原典》之中的记载么？",
+			"ですが、オットー殿。兵士たちから、あなたは天命都市に入る前に「淵面の意志」や「侵食体」の名前を口にし、それは『原典』の中に記されていたと聞きました。",
+			"하지만, 오토 님. 병사들에게서, 당신이 천명 도시에 들어가기 전에 「연면의 의지」나 「침식체」의 이름을 언급했고, 그것은 『원전』에 기록되어 있었다고 들었습니다.",
+			null,
+			null,
+			"However, Your Highness Otto, I heard from the soldiers that you named the \"Abyssal Will\" and the \"Eroding Body\" before you entered the Heavenly Capital, is that said to be from the \"Original Canon\"?",
+			"But, Mister Otto. I heard from the soldiers that you mentioned the names of the \"will of the abyssal plane\" and the \"erosion body\" before entering the Celestial City, and that they were mentioned in the \"original texts\"."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714574,
+			null,
+			"是的。",
+			"そうだね。",
+			"그렇군.",
+			null,
+			null,
+			"Yes.",
+			"Yes, it is."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714575,
+			null,
+			"……不过，为何奥托殿下能够判断得如此精确呢？我也看了贵教的《原典》，其中名姓不下千万，为什么殿下会赋予祂这个名字？",
+			"……しかし、オットー殿はどうやってそれほど正確に判断したのでしょうか？私も天命教会の『原典』を読みましたが、その中には数千万もの名前が出てきました。どうして得体の知れないやつらにその名前を付けたのですか？",
+			"……하지만 오토 님은 어떻게 그렇게 정확히 판단하셨나요? 저도 천명교회의 『원전』을 읽어봤지만, 그 안에는 수천만 개의 이름이 나왔어요. 어떻게 정체를 알 수 없는 놈들에게 그 이름을 붙인 거죠?",
+			null,
+			null,
+			"...... However, why is Your Highness Otto able to judge so accurately? I have also read your Church's Original Canon, which contains no less than ten million names, so why did Your Highness give Him this name?",
+			"...... But how did Mister Otto determine it so accurately? I too have read the \"original\" book of the Church of Heaven's Mission, and there are tens of millions of names in it. How did you come up with those names for these unidentifiable ones?"
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714576,
+			null,
+			"……那或许是直觉吧。",
+			"……たぶん直感だろうね。",
+			"……아마 직감이겠지.",
+			null,
+			null,
+			"...... That's probably intuition.",
+			"...... probably just a gut feeling."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				true
+			],
+			[
+				217,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			714577,
+			null,
+			"……我明白了。",
+			"……分かりました。",
+			"……알겠습니다.",
+			null,
+			null,
+			"...... I get it.",
+			"I understand ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			714578,
+			null,
+			"明白再也无法从奥托这里获得更多的答案，符华有些蹒跚的启步，准备向神州行去。",
+			"オットーからこれ以上の情報を得られないと悟り、フカはよろめきながら歩き出し、神州に出発しようとした。",
+			"오토에게서 더 이상 정보를 얻을 수 없다는 것을 깨달은 후카는 비틀거리며 걸음을 내딛고, 신주로 출발하려 했다.",
+			null,
+			null,
+			"Understanding that he could no longer get any more answers from Otto, Fuhua set off with some hobbled steps, ready to march towards Shenzhou.",
+			"Realizing that he could get no more information from Otto, Huka staggered out and was about to depart for Shenzhou."
+		],
+		[
+			"msg",
+			714579,
+			null,
+			"但就在行去之前，还有最后一件事。",
+			"しかし、出発する前に、もうひとつ聞きたいことがあった。",
+			"하지만 출발하기 전에, 한 가지 더 묻고 싶은 것이 있었다.",
+			null,
+			null,
+			"But just before the line goes, there's one last thing.",
+			"But before I left, I had one more question."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714580,
+			null,
+			"奥托殿下，请问北辰芽衣现在何处？",
+			"オットー殿、北辰芽衣は今どこにいるのですか？",
+			"오토 님, 북진 메이는 지금 어디에 있나요?",
+			null,
+			null,
+			"Your Highness Otto, may I ask where Meiko Kitatsu is now?",
+			"Mister Otto, where is Mei Beijin now?"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714581,
+			null,
+			"……她在前往东方的渡口等你。",
+			"……彼女は東洋に向かう港で君を待っているよ。",
+			"……그녀는 동양으로 향하는 항구에서 너를 기다리고 있을 거야.",
+			null,
+			null,
+			"...... She is waiting for you at the ferry to the East.",
+			"...... She's waiting for you at the port to the Orient."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714582,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			714583,
+			null,
+			"看着符华离去的背影，奥托的眼神渐渐起了变化。",
+			"フカの後ろ姿を見送りながら、オットーの目つきが徐々に変化していった。",
+			"후카의 뒷모습을 바라보며, 오토의 눈빛이 점점 변해갔다.",
+			null,
+			null,
+			"Looking at Fuhua's departing back, Otto's eyes gradually changed.",
+			"Otto's eyes gradually changed as he looked away from Huka's back."
+		],
+		[
+			"msg",
+			714584,
+			null,
+			"冰冷而复杂，宛如沉默的坚冰。",
+			"それは静かな氷のように冷たく、複雑だった。",
+			"그것은 고요한 얼음처럼 차갑고 복잡했다.",
+			null,
+			null,
+			"Cold and complex, like silent ice.",
+			"It was as cold and complex as quiet ice."
+		],
+		[
+			"msg",
+			714585,
+			null,
+			"他看向远方，正在修建的都城已露出宏伟的轮廓。",
+			"彼は遠くを見つめた。建設中の天命都市の大きな輪郭が現われている。",
+			"그는 멀리를 바라보았다. 건설 중인 천명 도시의 큰 윤곽이 드러나고 있었다.",
+			null,
+			null,
+			"He looked into the distance where the capital city under construction had revealed its magnificent outline.",
+			"He stared into the distance. A large outline of a heavenly city under construction appeared."
+		],
+		[
+			"msg",
+			714586,
+			null,
+			"凝视着天命都城，奥托的脑海中渐渐泛起了回忆，那是他绝对无法忘怀的经历",
+			"天命都市を見つめるオットーの脳裏に、徐々に記憶が浮かび上がってきた。それは絶対に忘れられない出来事だった。",
+			"천명 도시를 바라보는 오토의 머릿속에, 서서히 기억이 떠올랐다. 그것은 절대 잊을 수 없는 사건이었다.",
+			null,
+			null,
+			"Gazing at the heavenly capital, Otto's mind gradually flooded with memories of an experience that he absolutely could not forget",
+			"As Otto stared at the Heavenly City, a memory gradually surfaced in his mind. It was an event he would never forget."
+		],
+		[
+			"msg",
+			714587,
+			null,
+			"那一天，当渊面意志横空出世之时，没有人知道，奥托那时到底看到了什么。",
+			"あの日……淵面の意志が突如現われた時、オットーが何を見たか知る者はいない。",
+			"그날…… 연면의 의지가 갑자기 나타났을 때, 오토가 무엇을 봤는지 아는 이는 아무도 없었다.",
+			null,
+			null,
+			"That day, when the will of the abyssal surface came out of nowhere, no one knew what Otto had actually seen at that time.",
+			"No one knows what Otto saw that day when the will of the ...... abyssal plane suddenly appeared."
+		],
+		[
+			"msg",
+			714588,
+			null,
+			"——身周的士兵和元老们纷纷变为侵蚀体，而自己的父亲也沦入崩坏之中。但面对如此险境，奥托却难以言语，更难以行动。",
+			"——周囲の兵士や元老たちは次々と侵食体になり、自分の父親も崩壊の中へと堕ちていった。しかし、このような危機を前にして、オットーは話すことも、行動することもできなかった。",
+			"——주변의 병사들과 원로들은 하나둘씩 침식체가 되어, 자신의 아버지도 붕괴 속으로 떨어져갔다. 그러나 이런 위기 앞에서도, 오토는 말할 수도, 행동할 수도 없었다.",
+			null,
+			null,
+			"-- The soldiers and senators around him have turned into eroded bodies, and his own father has fallen into disintegration. But in the face of such a dangerous situation, Otto could hardly speak, and even more difficult to act.",
+			"-The surrounding soldiers and ex-elders became one eroding body after another, and his own father also fell into decay. But in the face of such a crisis, Otto could neither speak nor act."
+		],
+		[
+			"msg",
+			714589,
+			null,
+			"因为，就在他的眼前，出现了一片无法形容的瑰丽景象。",
+			"なぜなら、彼の目の前に、形容できない美しい光景が現われたからだ。",
+			"왜냐하면, 그의 눈앞에 형용할 수 없이 아름다운 광경이 펼쳐졌기 때문이다.",
+			null,
+			null,
+			"Because, right in front of his eyes, an indescribably magnificent sight appeared.",
+			"Because an indescribably beautiful sight appeared before his eyes."
+		],
+		[
+			"bgm",
+			92
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"bg",
+			"CG10427"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714590,
+			null,
+			"啊……",
+			"あぁ……。",
+			"아…….",
+			null,
+			null,
+			"Ah ......",
+			"Oh, ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			714591,
+			null,
+			"宛如宇宙的波涛在眼前起伏。",
+			"それは宇宙の波のように目の前で起伏していた。",
+			"그것은 우주의 파도처럼 눈앞에서 출렁이고 있었다.",
+			null,
+			null,
+			"It is like the waves of the universe ebbing and flowing before our eyes.",
+			"It undulated before my eyes like a cosmic wave."
+		],
+		[
+			"msg",
+			714592,
+			null,
+			"每一个光点都代表一种象征性的未来。",
+			"どの光も象徴的な未来を表していた。",
+			"각각의 빛은 상징적인 미래를 나타내고 있었다.",
+			null,
+			null,
+			"Each point of light represents a symbolic future.",
+			"Each light represented a symbolic future."
+		],
+		[
+			"msg",
+			714593,
+			null,
+			"光在眼前浮现，又在眼前倏灭，一次生灭，就是一次经历。",
+			"光は目の前に現われ、目の前で消えた。1回の出現と消滅がひとつの経験を表していた。",
+			"빛은 눈앞에 나타났다가, 눈앞에서 사라졌다. 한 번의 출현과 소멸이 하나의 경험을 나타내고 있었다.",
+			null,
+			null,
+			"Light emerges before the eyes, and extinguishes abruptly before the eyes, a birth and death, is an experience.",
+			"The light appeared and disappeared before my eyes; one appearance and disappearance represented a single experience."
+		],
+		[
+			"msg",
+			714594,
+			null,
+			"一种仿佛自己亲身体验过的经历。",
+			"まるで自ら体験した出来事のようだった。",
+			"마치 직접 경험한 사건인 것 같았다.",
+			null,
+			null,
+			"An experience as if you had experienced it yourself.",
+			"It was as if he had experienced the event himself."
+		],
+		[
+			"msg",
+			714595,
+			null,
+			"第一次，奥托被主教行宫中的侵蚀体们围攻，死在了行宫中。",
+			"1回目、オットーは大主教の宮殿の中で侵食体に包囲され、宮殿で死んだ。",
+			"1회차, 오토는 대주교의 궁전 안에서 침식체에게 포위당해 궁전에서 죽었다.",
+			null,
+			null,
+			"For the first time, Otto was besieged by the eroding bodies in the bishop's palace and died in the palace.",
+			"The first time, Otto was surrounded by an invasive body in the archbishop's palace and died in the palace."
+		],
+		[
+			"msg",
+			714596,
+			null,
+			"意识一昏，一醒，再睁开眼，奥托发现自己又回到了行宫里，一开始的时候。",
+			"意識が薄れた後、再び目覚めたオットーは、自分がまた宮殿に居て、時間が巻き戻っていることに気が付いた。",
+			"의식이 흐려진 후, 다시 깨어난 오토는 자신이 또다시 궁전에 있고 시간이 되감겨 있음을 깨달았다.",
+			null,
+			null,
+			"Once his consciousness faded, he woke up, and opened his eyes again, Otto found himself back in the palace, at the beginning.",
+			"When Otto awoke again after his consciousness faded, he found himself in the palace again and time was rewinding."
+		],
+		[
+			"msg",
+			714597,
+			null,
+			"这一次他小心避过了行宫中侵蚀体的进攻，成功逃出，但就在行宫外侵蚀体的海洋里再度殒命。",
+			"今度は侵食体の攻撃を慎重に避け、宮殿からの脱出に成功した。しかし、宮殿の外に押し寄せていた侵食体の中で再び命を落とした。",
+			"이번에는 침식체의 공격을 조심스럽게 피해 궁전에서 탈출하는 데 성공했다. 하지만 궁전 밖에 밀려오던 침식체 속에서 다시 목숨을 잃었다.",
+			null,
+			null,
+			"This time he carefully avoided the attack of the eroded bodies in the palace and managed to escape, but perished again just outside the palace in a sea of eroded bodies.",
+			"This time, he carefully avoided the attack of the invasive body and succeeded in escaping from the palace. However, he lost his life again amidst the encroaching bodies that were rushing out of the palace."
+		],
+		[
+			"msg",
+			714598,
+			null,
+			"第三次，奥托熟练了不少，离开行宫以后召集士兵，成功组成了防线，最终依旧不敌侵蚀体……",
+			"3回目、慣れてきたオットーは、宮殿を出た後、兵士を集めて防衛線を築いた。しかし、それでも侵食体に敵わなかった……。",
+			"3회차, 익숙해진 오토는 궁전을 나온 후 병사들을 모아 방어선을 구축했다. 하지만 여전히 침식체를 당해내지 못했다......",
+			null,
+			null,
+			"The third time, Otto skilled a lot, after leaving the palace gathered soldiers, successfully formed a line of defense, and ultimately still defeated the erosion body ......",
+			"For the third time, Otto, getting used to it, gathered his soldiers and built a line of defense after leaving the palace. However, he was still no match for the invading body. ......"
+		],
+		[
+			"msg",
+			714599,
+			null,
+			"第五次，奥托纠集起来的防线成功捱到了卡莲到来，却在遭遇到艾恩梅德的天启骑士团时，与其发生冲突，最终全员殒命 ……",
+			"5回目、オットーが集めた防衛線はカレンの到着までなんとか持ち堪えたものの、アインメドの率いる天啓騎士団と遭遇して争いが起こり、全員命を落とした……。",
+			"5회차, 오토가 구축한 방어선은 카렌이 도착할 때까지 간신히 버텼으나, 아인메드가 이끄는 천기 기사단과 마주쳐 싸움이 벌어졌고 모두 목숨을 잃었다......",
+			null,
+			null,
+			"For the fifth time, Otto's assembled defense line successfully endured until the arrival of Karin, but when they encountered the Knights of the Apocalypse of Ayn Mede, they clashed with them and eventually all of them perished ......",
+			"For the fifth time, the line of defense gathered by Otto managed to hold out until Karen's arrival, but when they encountered the Knights of the Enlightenment led by Einmed, a conflict broke out and they all lost their lives. ......"
+		],
+		[
+			"msg",
+			714600,
+			null,
+			"第十一次，奥托成功带领着天启骑士们进入天命都城，但却受到了渊面意志的精神影响，奥托死在了幻境之中，也得知了“渊面意志”和“侵蚀体”的名字……",
+			"11回目、オットーは、天啓騎士たちを率いて天命都市に入るが、淵面の意志の精神攻撃を受け、幻の中で死んだ。そこで、「淵面の意志」と「侵食体」の名前を知る……。",
+			"11회차, 오토는 천기 기사들을 이끌고 천명 도시에 들어갔지만, 연면의 의지의 정신 공격을 받아 환상 속에서 죽었다. 그곳에서 「연면의 의지」와 「침식체」의 이름을 알게 되었다......",
+			null,
+			null,
+			"The eleventh time, Otto successfully led the Knights of the Apocalypse into the Heavenly Capital, but was affected by the spirit of the will of the Abyss, Otto died in the illusion, but also learned the name of the \"will of the Abyss\" and \"erosion body\" ... ...",
+			"For the eleventh time, Otto led the Knights of the Enlightenment into the Heavenly City, but died in a phantom after a mental attack by the Will of the Abyssal Plane. There, he learned the names of the Abyssal Will and the Eroding Body. ......"
+		],
+		[
+			"msg",
+			714601,
+			null,
+			"第十九次，奥托不断地磨练自己的精神意志，终于能勉强捱过渊面意志的精神冲击，但在突围过程中倒下……",
+			"19回目、オットーは自分の精神と意志を磨き続け、ついに淵面の意志の精神攻撃を乗り越える。しかし、包囲を突破できず命を落とした……。",
+			"19회차, 오토는 자신의 정신과 의지를 계속 갈고닦아 마침내 연면의 의지의 정신 공격을 극복했다. 하지만 포위망을 뚫지 못하고 목숨을 잃었다......",
+			null,
+			null,
+			"For the nineteenth time, Otto kept honing his spiritual will and finally was able to barely survive the spiritual onslaught of the abyssal will, but collapsed during the breakout ......",
+			"For the 19th time, Otto continued to refine his spirit and will and finally overcame the mental attack of the abyssal will. However, he was unable to break through the siege and lost his life. ......"
+		],
+		[
+			"msg",
+			714602,
+			null,
+			"第二十七次，奥托已经能在短时间内摆脱渊面意志的精神冲击，同时在城中战斗的过程中也试验出了炮台的功用，但因为消耗时间太长，依然被侵蚀体围攻致死……",
+			"27回目、オットーはすでに淵面の意志の精神攻撃から短時間で抜け出せるようになり、街中の戦闘で砲台の実用性を試すことができた。しかし、時間がかかりすぎたため、やはり侵食体に包囲されて死んでしまった……。",
+			"27회차, 오토는 이미 연면의 의지의 정신 공격에서 짧은 시간 안에 벗어날 수 있게 되었고, 도시 전역의 전투에서 포대의 실용성을 시험할 수 있었다. 하지만 시간이 너무 오래 걸린 탓에 결국 침식체에게 포위당해 죽고 말았다......",
+			null,
+			null,
+			"The twenty-seventh time, Otto has been able to get rid of the spiritual impact of the abyssal will in a short period of time, while also tested the utility of the turret in the course of the battle in the city, but because of the consumption of too much time, still surrounded by the erosion body to death ......",
+			"At the 27th session, Otto was already able to get out of the mental attack of the abyssal will in a short time and was able to test the practicality of the turret in a battle in the city. However, it took too long and he was still surrounded by the eroding body and died. ......"
+		],
+		[
+			"msg",
+			714603,
+			null,
+			"第一百一十二次，奥托已能无视渊面意志精神冲击的影响，但在最后看着卡莲死在了自己面前，献祭了自己灵魂的她成功造成了对渊面意志的伤害，世界得以拯救，但奥托依然不甘……",
+			"112回目、オットーの精神は淵面の意志の精神攻撃を無視できるほどに磨きあげられていた。そして、カレンが自らの魂を捧げた結果、淵面の意志の弱点を見出すことに成功し、世界は救われた。しかし、オットーはカレンの死を受け入れることが出来なかった……。",
+			"112회차, 오토의 정신은 연면의 의지의 정신 공격을 무시할 수 있을 정도로 단련되어 있었다. 그리고 카렌이 자신의 영혼을 바친 결과, 연면의 의지의 약점을 찾아내는 데 성공해 세계는 구원받았다. 하지만 오토는 카렌의 죽음을 받아들일 수 없었다......",
+			null,
+			null,
+			"For the hundred and twelfth time, Otto has been able to ignore the effects of the spiritual impact of the abyssal will, but at the end watched Caline die in front of her, sacrificing her soul she managed to cause damage to the abyssal will, the world was saved, but Otto is still not willing ......",
+			"For the 112th time, Otto's spirit had been honed to the point that he could ignore the mental attacks of the will of the abyssal plane. And as a result of Karen's dedication of her own soul, she succeeded in finding the weakness of the will of the abyssal plane, and the world was saved. However, Otto could not accept Karen's death. ......"
+		],
+		[
+			"msg",
+			714604,
+			null,
+			"第一百三十五次，卡莲死在了献祭之中，世界得以拯救，奥托依然不甘……",
+			"135回目、カレンが犠牲となり、世界は救われた。しかし、オットーはカレンの死を受け入れることが出来なかった……。",
+			"135회째, 카렌이 희생되며 세계는 구원받았다. 하지만 오토는 카렌의 죽음을 받아들일 수 없었다…….",
+			null,
+			null,
+			"For the 135th time, Carine died in the sacrifice, the world was saved, and Otto remained resigned ......",
+			"For the 135th time, Karen was sacrificed and the world was saved. But Otto could not accept Karen's death. ......"
+		],
+		[
+			"msg",
+			714605,
+			null,
+			"第一百九十五次，卡莲死在了献祭之中，世界得以拯救，奥托依然不甘……",
+			"195回目、カレンが犠牲となり、世界は救われた。しかし、オットーはカレンの死を受け入れることが出来なかった……。",
+			"195회째, 카렌이 희생되며 세계는 구원받았다. 하지만 오토는 카렌의 죽음을 받아들일 수 없었다…….",
+			null,
+			null,
+			"One hundred and ninety-five times, Karin died in the sacrifice, the world was saved, Otto is still reluctant ......",
+			"For the 195th time, Karen was sacrificed and the world was saved. But Otto could not accept Karen's death. ......"
+		],
+		[
+			"msg",
+			714606,
+			null,
+			"第二百零五次，奥托不再前往天命都城，想要带领卡莲逃离，但卡莲拒绝了这一请求，而是和佐菲亚等人前往天命都城。不过没有奥托的指导，她们依然毫无作用地死在了天命都城中，世界毁灭……",
+			"205回目、オットーはもう天命都市に向かわず、カレンを連れて逃げようとするが、カレンはその申し出を断り、ソフィアたちと天命都市に向かった。しかし、オットーの導きがなかったため、彼女たちは天命都市でなす術もなく死に、世界は滅びた……。",
+			"205회째, 오토는 더 이상 천명 도시로 향하지 않고 카렌을 데려 도망치려 했지만, 카렌은 그 제안을 거절하고 소피아 일행과 천명 도시로 향했다. 그러나 오토의 인도가 없었기 때문에, 그들은 천명 도시에서 무력하게 죽음을 맞이했고 세계는 멸망했다…….",
+			null,
+			null,
+			"For the two hundred and fifth time, Otto stopped going to the Heavenly Fate Capitol and wanted to lead Kareem to escape, but Kareem refused the request and instead went to the Heavenly Fate Capitol with Zofia and the others. Without Otto's guidance, however, they still died uselessly in the Celestial Fate Capitol, and the world was destroyed ......",
+			"For the 205th time, Otto was no longer headed for the Heavenly City and tried to escape with Karen, but she refused his offer and headed for the Heavenly City with Sophia and the others. However, without Otto's guidance, the girls died helplessly in the Heavenly City and the world perished. ......"
+		],
+		[
+			"msg",
+			714607,
+			null,
+			"第二百九十次，第三百次，第四百次……奥托始终无法找到解救卡莲的办法，每一个世界，无论他想要怎么避免，都只有一个选择。",
+			"290回目、300回目、400回目……オットーは最後までカレンを救う方法を見つけられなかった。どの世界でも、彼がどんな行動を取っても、選択肢はひとつしかなかった。",
+			"290회째, 300회째, 400회째…… 오토는 끝까지 카렌을 구할 방법을 찾지 못했다. 어떤 세계에서도, 그가 어떤 행동을 취하든, 선택지는 단 하나뿐이었다.",
+			null,
+			null,
+			"Two hundred and ninety times, three hundred times, four hundred ...... Otto was never able to find a way to free Kareem, and in each world, no matter how he wanted to avoid it, there was only one option.",
+			"For the 290th, 300th, and 400th time,...... Otto could not find a way to save Karen until the very end. In every world, no matter what action he took, there was only one option."
+		],
+		[
+			"msg",
+			714608,
+			null,
+			"——牺牲卡莲，拯救世界。",
+			"——カレンを犠牲にして世界を救う。",
+			"——카렌을 희생해 세계를 구한다.",
+			null,
+			null,
+			"--Sacrifice Karin and save the world.",
+			"--Save the world at the expense of Karen."
+		],
+		[
+			"msg",
+			714609,
+			null,
+			"只有依靠她的牺牲，才能拯救这个濒临破灭的世界。",
+			"彼女の犠牲がなければ、この破滅に瀕した世界を救うことはできなかった。",
+			"그녀의 희생 없이는 이 멸망 직전의 세계를 구할 수 없었다.",
+			null,
+			null,
+			"Only by relying on her sacrifice can we save the world that is on the verge of ruin.",
+			"Without her sacrifice, we could not have saved this world on the brink of ruin."
+		],
+		[
+			"msg",
+			714610,
+			null,
+			"看着卡莲成百上千次的牺牲，看着她灵魂一次又一次的消失。",
+			"カレンが犠牲になる姿を数百回と見た。そのたびに彼女の魂が消えるのを目の当たりにしていた。",
+			"카렌이 희생되는 모습을 수백 번이나 보았다. 매번 그녀의 영혼이 사라지는 것을 목격했다.",
+			null,
+			null,
+			"Watching Carine sacrifice hundreds of times, watching her soul disappear over and over again.",
+			"I saw Karen sacrificed hundreds of times. Each time I watched her soul disappear."
+		],
+		[
+			"msg",
+			714611,
+			null,
+			"奥托的心中，渐渐产生了变化。",
+			"オットーの中で徐々に変化が生じていった。",
+			"오토 안에서 점차 변화가 일어나기 시작했다.",
+			null,
+			null,
+			"In Otto's mind, a change gradually arose.",
+			"A gradual change took place within Otto."
+		],
+		[
+			"msg",
+			714612,
+			null,
+			"哪怕告知自己，这不过是天上意志的拷问方式。",
+			"これが天上の意志による拷問にすぎないと自分に言い聞かせても。",
+			"이것이 천상의 의지에 의한 고문에 불과하다고 스스로에게 말해도.",
+			null,
+			null,
+			"Even if it informs itself that this is just a way to torture the will of heaven.",
+			"Even if you tell yourself that this is nothing more than torture by the will of heaven."
+		],
+		[
+			"msg",
+			714613,
+			null,
+			"哪怕清楚认知，这与茵克蕾辛常用的手法如出一辙。",
+			"これがインクレッシンの常套手段とまったく同じだと分かっていても。",
+			"이것이 인크레신의 흔한 수법과 완전히 같다는 걸 알면서도.",
+			null,
+			null,
+			"Which clearly perceives that this is the same technique commonly used by Incressine.",
+			"Even though we know that this is exactly the same as what the Inkressin always do."
+		],
+		[
+			"msg",
+			714614,
+			null,
+			"她说得越真实，自己越是动摇陷于其中，最终万劫不复。",
+			"彼女が真実を語れば語るほど、自分はそれに揺さぶられ、やがて元には戻れなくなる。",
+			"그녀가 진실을 말하면 말할수록, 나는 그에 흔들렸고, 이제는 원래대로 돌아갈 수 없게 되었다.",
+			null,
+			null,
+			"The more truthful she is, the more she is shaken and trapped in it, and eventually all hell breaks loose.",
+			"The more she tells the truth, the more I am swayed by it, and eventually I cannot go back to the way things were."
+		],
+		[
+			"msg",
+			714615,
+			null,
+			"真真假假无法判断，甚至那些对方口中的“可能性”，那些被迫看到的景象，其实都不属于自己。",
+			"真偽の判断がつかなかった。さらには相手の言う「可能性」、無理やり見せられた光景、そのいずれも自分のものではなかった。",
+			"진위를 가릴 수 없었다. 더욱이 상대가 말하는 「가능성」, 억지로 보여준 광경, 그 어느 것도 내 것이 아니었다.",
+			null,
+			null,
+			"It is impossible to judge what is true and what is false, and even those \"possibilities\" in the other side's mouth, those forced to see the scene, in fact, do not belong to themselves.",
+			"I could not determine what was true or false. Furthermore, none of the \"possibilities\" that the other party mentioned, or the scenes that were forcibly shown to me, were my own."
+		],
+		[
+			"msg",
+			714616,
+			null,
+			"但那种感觉……",
+			"その感覚は……。",
+			"그 감각은…….",
+			null,
+			null,
+			"But that feeling ......",
+			"You can get a sense of it at ......."
+		],
+		[
+			"msg",
+			714617,
+			null,
+			"……是叫虚无么？",
+			"……虚無というものなのだろうか？",
+			"……허무라는 것일까?",
+			null,
+			null,
+			"Is ...... called nothingness?",
+			"Is it called ...... emptiness?"
+		],
+		[
+			"msg",
+			714618,
+			null,
+			"无论如何，也无法得以拯救。",
+			"いずれにせよ、救えないのだ。",
+			"어쨌든, 구할 수 없는 것이다.",
+			null,
+			null,
+			"In any case, it could not be saved.",
+			"In any case, they cannot be saved."
+		],
+		[
+			"msg",
+			714619,
+			null,
+			"就像是这个世界的重生必须建立在她的死亡之上一样。",
+			"この世界の再生は、彼女の犠牲がなければ成し得ないのだろうか？",
+			"이 세계의 재생은, 그녀의 희생 없이는 이룰 수 없는 것일까?",
+			null,
+			null,
+			"It is as if the rebirth of this world must be based on her death.",
+			"Can the rebirth of this world be accomplished without her sacrifice?"
+		],
+		[
+			"msg",
+			714620,
+			null,
+			"如此残酷的世界，还有什么值得拯救的价值么？",
+			"この残酷な世界に、まだ救うに値する価値などあるのだろうか？",
+			"이 잔혹한 세계에, 아직 구할 가치가 있는 것이라도 있을까?",
+			null,
+			null,
+			"In such a cruel world, is there any value worth saving?",
+			"Is there anything in this cruel world still worth saving?"
+		],
+		[
+			"msg",
+			714621,
+			null,
+			"紫色的光芒就像是想要拷问他的内心一样，照见了奥托心中深沉的黑暗。",
+			"紫色の光がオットーの心を問い詰めるかのように、彼の心の奥にある闇を照らした。",
+			"보랏빛 빛이 오토의 마음을 추궁하듯, 그의 마음 깊은 어둠을 비추었다.",
+			null,
+			null,
+			"The purple glow shone as if it wanted to torture his heart, illuminating the deep darkness in Otto's mind.",
+			"A purple light illuminated the darkness deep within Otto's mind, as if to question him."
+		],
+		[
+			"msg",
+			714622,
+			null,
+			"——那是眼睛。",
+			"——それは目だった。",
+			"——그것은 눈이었다.",
+			null,
+			null,
+			"--That's the eye.",
+			"--It was the eyes."
+		],
+		[
+			"msg",
+			714623,
+			null,
+			"——亦是虚空。",
+			"——そして虚空でもあった。",
+			"——그리고 허공이기도 했다.",
+			null,
+			null,
+			"--Also the void.",
+			"-- and a void."
+		],
+		[
+			"msg",
+			714624,
+			null,
+			"成百上千次精神的轮回，最终只会导向一种救赎的结局。",
+			"数百回もの精神の輪廻は、最終的にひとつの救済の結末に収束した。",
+			"수백 번에 걸친 정신의 윤회는, 결국 하나의 구원의 결말로 수렴되었다.",
+			null,
+			null,
+			"Hundreds of spiritual reincarnations will only lead to a redemptive end.",
+			"Hundreds of spiritual reincarnations eventually converged on a single redemptive ending."
+		],
+		[
+			"msg",
+			714625,
+			null,
+			"然后……",
+			"そして……。",
+			"그리고…….",
+			null,
+			null,
+			"Then ......",
+			"And ......."
+		],
+		[
+			"msg",
+			714626,
+			null,
+			"在不断挣扎之中，奥托看到了完全不同的景象。",
+			"もがき続ける中で、オットーはまったく異なる光景を見た。",
+			"몸부림치던 중에, 오토는 전혀 다른 광경을 목격했다.",
+			null,
+			null,
+			"In the midst of the constant struggle, Otto saw a completely different picture.",
+			"As he continued to struggle, Otto saw a very different scene."
+		],
+		[
+			"msg",
+			714627,
+			null,
+			"比先前任何一次都要真实，甚至能够认定就是自己所经历人生般的景象。",
+			"それまでよりもはるかにリアルで、自分が経験してきた人生だと思えるような光景だった。",
+			"그전보다 훨씬 더 리얼하고, 자신이 경험해온 인생이라고 생각될 만한 광경이었다.",
+			null,
+			null,
+			"It was more real than any other time before, and I was even able to identify it as a life-like scene I had experienced.",
+			"The scene was much more real than it had been before, and it seemed like the life I had experienced."
+		],
+		[
+			"msg",
+			714628,
+			null,
+			"方寸之地，灾祸不断。",
+			"小さな土地で災いが続いている。",
+			"작은 땅에서 재앙이 계속되고 있다.",
+			null,
+			null,
+			"The square inch is a constant source of calamity.",
+			"The disaster continues in a small area of land."
+		],
+		[
+			"msg",
+			714629,
+			null,
+			"崩坏天降，世界也再度面临着灭亡。",
+			"崩壊が降臨し、世界も再び滅亡に瀕する。",
+			"붕괴가 강림하고, 세계도 다시 멸망에 직면한다.",
+			null,
+			null,
+			"The collapse of the sky, and the world is once again facing the end of the world.",
+			"Collapse descends, and the world is once again on the brink of destruction."
+		],
+		[
+			"msg",
+			714630,
+			null,
+			"而自己，则被一名身穿白衣的女士……",
+			"しかし、白い服をまとった女性に——",
+			"하지만, 흰 옷을 입은 여성에게 ——",
+			null,
+			null,
+			"And himself, by a lady dressed in white ......",
+			"But to a woman clad in white--"
+		],
+		[
+			"msg",
+			714631,
+			null,
+			"赋予了阿波卡利斯家的使命。",
+			"アポカリプス家の使命を与えられた。",
+			"아포칼립스 가문의 사명을 부여받았다.",
+			null,
+			null,
+			"The mission given to the Apokalis family.",
+			"He was given a mission by the Apocalypse family."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"msg",
+			714632,
+			null,
+			"阿波卡利斯家圣痕……",
+			"アポカリプス家の聖痕……。",
+			"아포칼립스 가문의 성흔…….",
+			null,
+			null,
+			"Apokalis Family Stigmata ......",
+			"Stigmata of the Apocalypse family. ......."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"msg",
+			714633,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10285"
+		],
+		[
+			"msg",
+			714634,
+			null,
+			"回过神来，只发现自己身处行宫中。",
+			"我に返ると、宮殿の中にいた。",
+			"정신을 차려보니 궁전 안에 있었다.",
+			null,
+			null,
+			"When I came back to my senses, I only found myself in the middle of a palace.",
+			"When I came to myself, I was in the palace."
+		],
+		[
+			"msg",
+			714635,
+			null,
+			"摆脱了脑海中的回忆，从所谓平行宇宙的幻像中脱离，奥托轻轻叹了口气。",
+			"記憶の残滓を振り払い、いわゆる平行世界の幻想から抜け出したオットーは小さくため息をついた。",
+			"기억의 잔재를 떨쳐내고 이른바 평행세계의 환상에서 벗어난 오토는 작게 한숨을 내쉬었다.",
+			null,
+			null,
+			"Free from the memories in his mind and detached from the illusion of the so-called parallel universe, Otto sighed softly.",
+			"Shaking off the remnants of his memory and emerging from the illusion of the so-called parallel universe, Otto let out a small sigh."
+		],
+		[
+			"msg",
+			714636,
+			null,
+			"当初在那道光芒中所经历的上千次的轮回，不仅锻炼了他的精神，也在一次又一次的死亡中磨练了他的手腕。",
+			"あの光の中で経験した千回以上もの輪廻は、彼の精神を鍛えただけでなく、死ぬたびに彼の能力を磨きあげていった。",
+			"그 빛 속에서 경험한 천 번 이상의 윤회는 그의 정신을 단련할 뿐만 아니라, 죽을 때마다 그의 능력을 연마해 갔다.",
+			null,
+			null,
+			"The thousands of reincarnations he experienced in that light at the beginning not only tempered his spirit, but also sharpened his wrist in death after death.",
+			"The thousand or more reincarnations he experienced in that light not only forged his spirit, but also refined his abilities with each death."
+		],
+		[
+			"msg",
+			714637,
+			null,
+			"更何况，在那些“轮回”中，甚至有着关于这个世界的唯一真相。",
+			"さらに、その「輪廻」の中には、この世界におけるひとつの真実に関するものもあった。",
+			"게다가 그 「윤회」 속에는 이 세계에 관한 하나의 진실도 포함되어 있었다.",
+			null,
+			null,
+			"What's more, in those \"reincarnations\", there is even the only truth about the world.",
+			"Moreover, some of the \"reincarnations\" were related to a single truth in this world."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				519,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714638,
+			null,
+			"这个世界，存在着真正的“轮回”。",
+			"この世界には、本物の「輪廻」が存在している。",
+			"이 세계에는 진짜 「윤회」가 존재한다.",
+			null,
+			null,
+			"In this world, there is a real \"reincarnation\".",
+			"There is a real \"samsara\" in this world."
+		],
+		[
+			"msg",
+			714639,
+			null,
+			"经由遥远年代前某人之手，仅靠一台圣痕终端实现的……所谓的轮回。",
+			"遠い昔、何者かの手によって、たった1台の聖痕端末で実現した……いわゆる輪廻。",
+			"아주 오래전, 누군가의 손에 의해 단 한 대의 성흔 단말로 구현된... 이른바 윤회.",
+			null,
+			null,
+			"The so-called reincarnation of ...... realized by the hand of someone in the distant past with only one stigma terminal.",
+			"In the distant past, someone made it happen with just one stigmatic terminal ...... so-called reincarnation."
+		],
+		[
+			"msg",
+			714640,
+			null,
+			"那些写在阿波卡利斯家训中的东西，根本就是从那时起就刻印在了我们潜意识之中的律令。",
+			"アポカリプス家の家訓が記されたそれは、そのときから僕たちの潜在意識に刻まれた掟のようなものだ。",
+			"아포칼립스 가의 가훈이 기록된 그것은 그때부터 우리의 잠재의식에 새겨진 규율 같은 것이었다.",
+			null,
+			null,
+			"Those things written in the Apocalyptic family motto are simply laws that have been engraved in our subconscious since then.",
+			"The Apocalypse family precepts are written on it, like a code that has been engraved in our subconscious since that time."
+		],
+		[
+			"msg",
+			714641,
+			null,
+			"呵呵……呵呵呵……",
+			"フフ……フフフ……。",
+			"후후…… 후후후…….",
+			null,
+			null,
+			"Oh ...... huh huh ......",
+			"ff ...... ff ......."
+		],
+		[
+			"msg",
+			714642,
+			null,
+			"什么圣女……什么拯救天下的关键……",
+			"何が聖女だ……何が世界を救う鍵だ……。",
+			"무슨 성녀라니…… 무슨 세계를 구하는 열쇠라니…….",
+			null,
+			null,
+			"What the Virgin ...... what the key to saving the world ......",
+			"What a saint ...... what a key to saving the world ......."
+		],
+		[
+			"msg",
+			714643,
+			null,
+			"寻找圣女，根本就只是为了维护那个不知何时会坏掉的终端，能让这样的轮回不断下去罢了。",
+			"聖女をさがすのは、そのいつ壊れるとも分からない端末を維持し、輪廻を途切れることなく続けるためでしかない。",
+			"성녀를 찾는 건 그 언제 부서질지 모를 단말을 유지하고, 윤회가 끊어지지 않게 이어가기 위한 것뿐이야.",
+			null,
+			null,
+			"The search for the Holy Virgin is simply to maintain the terminal that will break down at some point and can keep such a cycle going.",
+			"The search for the saint is only to maintain the device, which may break at any moment, and to keep samsara going uninterruptedly."
+		],
+		[
+			"msg",
+			714644,
+			null,
+			"那我们，又该以什么样的方式……在属于我们的时代去打败那个以意志为名的敌人？",
+			"では、僕らはどんな方法で……僕たちの時代に、あの「意志」と名乗る敵を倒せばいいのか？",
+			"그렇다면 우리는 어떤 방법으로...... 우리 시대에, 그 「의지」라 자칭하는 적을 쓰러뜨려야 할까?",
+			null,
+			null,
+			"And in what way should we, ...... in our own time, defeat the enemy whose will is the name of the game?",
+			"So, in what way do we ...... defeat that enemy who calls himself \"Will\" in our time?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714645,
+			null,
+			"时至今日，他已能心平气和地看待那些过去令他义愤填膺的事情，用冰冷的审思判断未来的方向。",
+			"今、オットーは過去に自分を憤慨させた事柄を落ち着いて見つめることができ、冷静な思考で未来の方向性を判断できた。",
+			"이제 오토는 과거에 자신을 분노케 했던 일들을 차분히 바라볼 수 있게 되었고, 냉철한 사고로 미래의 방향성을 판단할 수 있었다.",
+			null,
+			null,
+			"To this day, he is able to look at the events of the past with equanimity and righteous anger, and judge the direction of the future with a cold, critical mind.",
+			"Now Otto could calmly look at the matters that had upset him in the past, and with calm thought he could determine his future direction."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				519,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714646,
+			null,
+			"一切都在天平的两端。",
+			"すべては天秤の両側にある。",
+			"모든 것은 천칭의 양쪽에 놓여 있다.",
+			null,
+			null,
+			"Everything is on both ends of the scale.",
+			"Everything is on both sides of the balance."
+		],
+		[
+			"msg",
+			714647,
+			null,
+			"一切只是衡量的结果。",
+			"すべては比較の結果でしかない。",
+			"모든 것은 비교의 결과일 뿐이다.",
+			null,
+			null,
+			"Everything is just measured.",
+			"Everything is only the result of comparison."
+		],
+		[
+			"msg",
+			714648,
+			null,
+			"……艾恩梅德，你所期望的世界将在我的手中实现。但是在这个世界里，你将成为不合时宜的存在。",
+			"……アインメド、君の望む世界は僕の手で実現する。しかし、その世界では、君は時代にそぐわない存在となる。",
+			"......아인메드, 네가 바라는 세상은 내 손으로 이루어질 것이다. 하지만 그 세상에서 너는 시대에 맞지 않는 존재가 될 거야.",
+			null,
+			null,
+			"...... Ayn Med, the world you desire will come to pass in my hands. But in this world, you will become an anachronism.",
+			"...... Ein Med, the world you want will come true by my hand. But in that world, you will be out of step with the times."
+		],
+		[
+			"msg",
+			714649,
+			null,
+			"因为，你的野心是比元老院的贪婪更大的妨碍。",
+			"なぜなら、君の野心は元老院の貪欲さよりも大きな妨げとなるからね。",
+			"왜냐하면 네 야망은 원로원의 탐욕보다도 더 큰 방해물이 될 테니까.",
+			null,
+			null,
+			"For, your ambition is a greater hindrance than the greed of the Senate.",
+			"Because your ambition is a greater hindrance than the greed of the Senate."
+		],
+		[
+			"msg",
+			714650,
+			null,
+			"还有……卡莲……",
+			"それから……カレン……。",
+			"그리고......카렌.......",
+			null,
+			null,
+			"And ...... Carine ......",
+			"Then go to ...... Karen ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714651,
+			null,
+			"奥托遥望高天，就像是在寻找着卡莲灵魂留下的些许踪迹。",
+			"オットーは空を見上げた。まるでカレンの魂が残した痕跡を探しているかのようだった。",
+			"오토는 하늘을 올려다보았다. 마치 카렌의 영혼이 남긴 흔적을 찾고 있는 것처럼.",
+			null,
+			null,
+			"Otto looked high into the sky, as if searching for some trace left by Karin's soul.",
+			"Otto looked up at the sky. It was as if he was searching for traces left by Karen's soul."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				519,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714652,
+			null,
+			"……终有一天，我会找到那个能拯救你的可能性。",
+			"……いつの日か必ず、君を救える可能性を見つけ出してみせる。",
+			"......언젠가 반드시, 너를 구할 가능성을 찾아내 보이겠어.",
+			null,
+			null,
+			"...... One day, I will find that possibility that will save you.",
+			"...... I will surely find a possibility to save you one day."
+		],
+		[
+			"msg",
+			714653,
+			null,
+			"……在，遥远的未来。",
+			"……遠い未来でね。",
+			"......먼 미래에 말이야.",
+			null,
+			null,
+			"...... in the, distant future.",
+			"...... in the distant future."
+		]
+	],
+	"10054": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10260"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714654,
+			null,
+			"欧陆渡口。",
+			"欧州大陸の港。",
+			"유럽 대륙의 항구.",
+			null,
+			null,
+			"Europa Ferry.",
+			"Ports of continental Europe."
+		],
+		[
+			"msg",
+			714655,
+			null,
+			"预备远行的巨船已经放下舷梯，北辰芽衣站在巨船一角百无聊赖地张望着，就像是等待着某个人。",
+			"長旅をする巨大な船がはしごを下ろしていた。北辰芽衣はその船の一角に立って退屈そうにあたりを見渡している。まるで誰かを待っているようだ。",
+			"장거리 여행을 하는 거대한 배가 사다리를 내리고 있었다. 북진메이는 그 배의 한켠에 서서 지루한 듯 주변을 둘러보고 있다. 마치 누군가를 기다리는 것 같다.",
+			null,
+			null,
+			"The giant ship ready for the long journey had already lowered the gangway, and Beichen Meizi was standing in a corner of the giant ship looking bored, as if waiting for someone.",
+			"A huge ship was lowering its ladder for a long journey. Mei Beijin was standing at one corner of the ship, looking around boredly. It was as if she was waiting for someone."
+		],
+		[
+			"msg",
+			714656,
+			null,
+			"就在“神落之日”以后，北辰芽衣体内的崩坏也彻底平息了下去。",
+			"「神落の日」以降、北辰芽衣の体内の崩壊も完全に鎮まった。",
+			"「신락의 날」 이후, 북진메이의 체내의 붕괴도 완전히 잠잠해졌다.",
+			null,
+			null,
+			"Just after the \"Day of the Fall of God\", the collapse in Meiko Kitatsu's body completely subsided.",
+			"Since \"the day of the divine fall,\" the disintegration of Mei Kitachen's body has also been completely quelled."
+		],
+		[
+			"bgm",
+			129
+		],
+		[
+			"msg",
+			714657,
+			null,
+			"——毕竟，连鱼线的源头都已经被斩断，扔下去的吊钩自然也就只能沉入水底了。",
+			"——そもそも、釣り糸の根元が断ち切られたようなもので、投げられた釣り針は自然と水の底に沈むしかないのだ。",
+			"——애초에, 낚시줄의 뿌리가 끊어진 것과 같은 것으로, 던져진 낚싯바늘은 자연스레 물 밑바닥으로 가라앉을 수밖에 없는 것이다.",
+			null,
+			null,
+			"--After all, even the source of the line has been cut off, and the hook thrown down will naturally have to sink to the bottom of the water.",
+			"-In the first place, it is as if the base of the fishing line has been severed, and the thrown hook can only sink naturally to the bottom of the water."
+		],
+		[
+			"msg",
+			714658,
+			null,
+			"只不过，身躯还保持着被崩坏异化后的姿态，然而因为崩坏的消退，北辰芽衣也无法发挥出之前的力量了。",
+			"しかし、体は崩壊に取りつかれた後の姿を保っているが、崩壊の消失に伴い、以前のような力を出せなくなった。",
+			"하지만, 몸은 붕괴에 사로잡힌 이후의 모습을 유지하고 있으나, 붕괴의 소멸에 따라 이전과 같은 힘을 발휘할 수 없게 되었다.",
+			null,
+			null,
+			"Only, the body still maintains the posture after being disintegrated and alienated, however, because the disintegration has faded, Meiko Kitatsu is also unable to exert the power she had before.",
+			"However, although his body retains the appearance it had after he became obsessed with the disintegration, with the disappearance of the disintegration, he is no longer able to exert the same power as before."
+		],
+		[
+			"msg",
+			714659,
+			null,
+			"现在的她，仿佛又回到了当初刚刚踏上欧陆土地的时候。",
+			"今の彼女は、欧州大陸にやって来たばかりの頃に戻ったみたいだ。",
+			"지금의 그녀는, 유럽 대륙에 막 도착했을 때로 돌아간 것 같다.",
+			null,
+			null,
+			"Now she seems to be back to the time when she just set foot on the land of Europe.",
+			"Now she seems to be back to the days when she first arrived on the European continent."
+		],
+		[
+			"msg",
+			714660,
+			null,
+			"但，这一路上经历的事情……",
+			"しかし、それまでに経験したことは……。",
+			"하지만, 그동안 경험한 것은…….",
+			null,
+			null,
+			"But, the things experienced along the way ......",
+			"However, what I had experienced before that is available at ......."
+		],
+		[
+			"speaker",
+			204566
+		],
+		[
+			"portraits",
+			[
+				30189,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714661,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714662,
+			null,
+			"当那个人的身影映入眼眶时，北辰芽衣顿时从沉重的思绪中抽离了出来。",
+			"その人の姿が目に入った時、北辰芽衣はすぐさま重苦しい考えを振り払った。",
+			"그 사람의 모습이 눈에 들어왔을 때, 북진메이는 재빨리 무거운 생각을 떨쳐냈다.",
+			null,
+			null,
+			"When the figure of that person was reflected in his eyes, Beichen Meizi was instantly pulled out of his heavy thoughts.",
+			"When the person's figure came into view, Mei Beijin immediately shook off her heavy thoughts."
+		],
+		[
+			"speaker",
+			204566
+		],
+		[
+			"portraits",
+			[
+				30189,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714663,
+			null,
+			"嘿……嘿，仙人阁下，这里！",
+			"あっ……仙人殿、こちらです！",
+			"아…… 선인님, 이쪽입니다!",
+			null,
+			null,
+			"Hey ...... Hey, Lord Immortal, here!",
+			"Oh, ...... hermit, this way!"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30189,
+				2,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714664,
+			null,
+			"……北辰芽衣。",
+			"……北辰芽衣。",
+			"……북진메이.",
+			null,
+			null,
+			"...... North Star Meiko.",
+			null
+		],
+		[
+			"speaker",
+			204566
+		],
+		[
+			"portraits",
+			[
+				30189,
+				1,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714665,
+			null,
+			"怎么回事，仙人阁下……你身上的气息为何这么微弱？",
+			"どうしたんですか、仙人殿……そなたの気配はどうしてそんなに弱まっているのですか？",
+			"무슨 일이십니까, 선인님...... 그대의 기운이 어찌 이리도 약해져 있소?",
+			null,
+			null,
+			"What's going on, His Excellency the Immortal ...... Why is the breath so faint on you?",
+			"What's the matter, hermit-dono...... why is your presence so weak?"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30189,
+				1,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714666,
+			null,
+			"在和渊面意志的那一战里，我受了重伤，现在光是站立就要消耗颇多气力。",
+			"淵面の意志との戦いで重傷を負い、今は立っているだけでも多くの気力を消耗してしまうのです。",
+			"연면의 의지와의 전투에서 중상을 입어, 지금은 서 있는 것만으로도 많은 기력을 소모하게 되네.",
+			null,
+			null,
+			"In the battle with the abyssal will, I was seriously injured, and now I have to exert a lot of energy just to stand up.",
+			"He was seriously injured in a battle against the will of the abyssal plane, and now even just standing up drains a lot of his energy."
+		],
+		[
+			"msg",
+			714667,
+			null,
+			"不过，看到你现在身上的崩坏气息已经完全被根除，我就放心了。",
+			"ですが、あなたの体から崩壊の気配が完全に消えていて安心しました。",
+			"하지만, 당신의 몸에서 붕괴의 기운이 완전히 사라져 안심했소.",
+			null,
+			null,
+			"However, I am relieved to see that the aura of disintegration has now been completely eradicated from your body.",
+			"However, I am relieved to see that the signs of decay have completely disappeared from your body."
+		],
+		[
+			"speaker",
+			204566
+		],
+		[
+			"portraits",
+			[
+				30189,
+				4,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714668,
+			null,
+			"这样么……仙人阁下，你要不要和我一起回东瀛，在我那里养伤？",
+			"そうでしたか……仙人殿、拙者と一緒に極東へ戻り、そこで療養しませぬか？",
+			"그러셨군...... 선인님, 졸자와 함께 극동으로 돌아가서 그곳에서 요양하시지 않겠소?",
+			null,
+			null,
+			"Do you want to go back to the East with me to recover from your injuries at my place?",
+			"Is that so? ...... hermit, why don't you come back to the Far East with me and recuperate there?"
+		],
+		[
+			"portraits",
+			[
+				30189,
+				2,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714669,
+			null,
+			"虽然我当初横行霸道，但也偷偷留下过几两碎银，就算没办法筑城建池，给咱们置办一处别馆也是轻轻松松啦！",
+			"拙者は身勝手なことをしていましたが、こっそり銭を残しておきました。街や城を築くことはできなくとも、拙者たちの家くらい用意できます。",
+			"졸자가 제멋대로인 짓을 했지만, 몰래 돈을 남겨두었소. 거리나 성을 쌓을 수는 없어도, 졸자들의 집 정도는 마련할 수 있소.",
+			null,
+			null,
+			"Although I was rampant, but also secretly left a few taels of silver, even if you can not build a city and a pond, to buy us a house is also easy!",
+			"I was selfish, but I secretly left some coins. Even if I cannot build a city or a castle, I can at least provide a home for us."
+		],
+		[
+			"msg",
+			714670,
+			null,
+			"哈哈，让我想想，东瀛有哪些风景秀美的地方适合调养……唔，骏河、甲贺、或者是江户、要不干脆去平安京叫那群老小子把宫殿让出来吧……",
+			"ハハハ、極東には景色の美しい場所がたくさんあります。療養に適しているのはどこだったか……駿河、甲賀、あるいは江戸、もしくは平安京に行って、ネズミどもを宮中から追い出してしまえば……。",
+			"하하하, 극동에는 경치가 아름다운 곳이 많소. 요양하기에 적합한 곳이 어디였더라...... 스루가, 코가, 혹은 에도, 또는 헤이안쿄로 가서 쥐새끼들을 궁중에서 쫓아내버리면......",
+			null,
+			null,
+			"Haha, let me think, what are the beautiful scenery of the East Japan is suitable for recuperation ...... Well, Suruga, Koga, or Edo, or simply go to Heian Jing to ask the old boys to give up the palace ......",
+			"Hahaha, there are many scenic places in the Far East. Where was the best place to recuperate ...... if we could go to Suruga, Koga, or Edo, or even Heian-kyo, and drive the rats out of the palace ......."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30189,
+				2,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714671,
+			null,
+			"北辰芽衣……北辰芽衣——北辰芽衣！",
+			"北辰芽衣……北辰芽衣！",
+			"북진메이...... 북진메이!",
+			null,
+			null,
+			"Meiko Kitatsu ...... Meiko Kitatsu - Meiko Kitatsu!",
+			"Mei Kitachen. ...... Mei Kitachen!"
+		],
+		[
+			"speaker",
+			204566
+		],
+		[
+			"portraits",
+			[
+				30189,
+				4,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714672,
+			null,
+			"啊，仙人阁下，怎么说，难道平安京也不合你的口味么？",
+			"あっ、仙人殿、どうしました？まさか平安京も趣味に合いませんか？",
+			"아, 선인님, 무슨 일이오? 설마 헤이안쿄도 취향에 맞지 않소?",
+			null,
+			null,
+			"Ah, Sennin-sama, how do you say, is Heian-kyo not to your liking either?",
+			"Oh, Hermit, what's the matter? Don't tell me that Heian-kyo is not to your taste?"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30189,
+				4,
+				true
+			],
+			[
+				217,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			714673,
+			null,
+			"……北辰芽衣，我不能和你一起回东瀛。",
+			"……北辰芽衣、私はあなたと一緒に極東へ行くわけにはいきません。",
+			"......북진메이, 나는 너와 함께 극동으로 갈 수 없네.",
+			null,
+			null,
+			"...... North Star Meiko, I can't go back to the East with you.",
+			"...... Beijin Mei, I cannot go to the Far East with you."
+		],
+		[
+			"portraits",
+			[
+				30189,
+				4,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714674,
+			null,
+			"我身上的伤势，只有在太虚山才能养好……而且这一次重伤，至少要沉睡数百年。",
+			"私の体の傷は太虚山でしか癒やせません……それに今回は重傷です。少なくとも数百年は眠らなければならないでしょう。",
+			"내 몸의 상처는 태허산에서만 치료할 수 있어요... 게다가 이번에는 중상입니다. 적어도 수백 년은 잠들어야 할 거예요.",
+			null,
+			null,
+			"The injuries on my body, only in the Taixu Mountain can get well ...... and this time seriously injured, at least to sleep for hundreds of years.",
+			"The wounds in my body can only be healed in Mount Taihuoshan ...... and this time they are serious. I will have to sleep for at least several hundred years."
+		],
+		[
+			"msg",
+			714675,
+			null,
+			"……所以我来到这里，其实是跟你道别的。",
+			"……ですから、私がここに来たのは、あなたにお別れを言うためなのです。",
+			"......그래서, 제가 여기 온 건 당신에게 작별 인사를 하기 위해서예요.",
+			null,
+			null,
+			"...... So I came here to actually say goodbye to you.",
+			"...... So the reason I am here is to say goodbye to you."
+		],
+		[
+			"speaker",
+			204566
+		],
+		[
+			"portraits",
+			[
+				30189,
+				4,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714676,
+			null,
+			"道别……",
+			"お別れ……。",
+			"작별......",
+			null,
+			null,
+			"Say goodbye to ......",
+			"Farewell ......."
+		],
+		[
+			"msg",
+			714677,
+			null,
+			"明明都一起打败了最大的敌人，却还是要分别……我还从没在哪个话本里看过这么气人的故事呢！",
+			"最大の敵を共に倒したのにお別れだなどと……こんな腹立たしい話は物語でも読んだことはありませぬ！",
+			"최대의 적을 함께 쓰러뜨렸는데 작별이라니... 이런 억장이 터지는 이야기는 소설에서도 읽은 적이 없소!",
+			null,
+			null,
+			"Obviously all together to defeat the greatest enemy, but still have to be separated ...... I have never read such an exasperating story in any storybook!",
+			"I have never read such an infuriating story ...... as this one, where we have defeated our greatest enemy together and now we have to say goodbye!"
+		],
+		[
+			"msg",
+			714678,
+			null,
+			"仙人、仙人阁下……",
+			"仙人、仙人殿……。",
+			"선인, 선인님......",
+			null,
+			null,
+			"Immortal, His Excellency the Immortal ......",
+			"Hermit, Hermit Lord. ......"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30189,
+				4,
+				true
+			],
+			[
+				217,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			714679,
+			null,
+			"……",
+			"……",
+			"......",
+			null
+		],
+		[
+			"speaker",
+			204566
+		],
+		[
+			"portraits",
+			[
+				30189,
+				1,
+				false
+			],
+			[
+				217,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			714680,
+			null,
+			"你真的要离开么……",
+			"本当に行ってしまうのですか……。",
+			"정말로 가시는 거예요......",
+			null,
+			null,
+			"Do you really want to leave ......",
+			"Are you really going to go to ......?"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30189,
+				1,
+				true
+			],
+			[
+				217,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			714681,
+			null,
+			"……今天，应该就是我们最后的相会了。",
+			"……私たちが会うのは今日が最後になるでしょう。",
+			"......우리가 만나는 건 오늘이 마지막이 될 거예요.",
+			null,
+			null,
+			"...... Today, it should be our last meeting.",
+			"......Today will be the last time we meet."
+		],
+		[
+			"speaker",
+			204566
+		],
+		[
+			"portraits",
+			[
+				30189,
+				1,
+				false
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714682,
+			null,
+			"……",
+			"……",
+			"......",
+			null
+		],
+		[
+			"msg",
+			714683,
+			null,
+			"好吧，我明白了。",
+			"そうですか、分かりました。",
+			"그렇군요, 알겠습니다.",
+			null,
+			null,
+			"Okay, I get it.",
+			"Okay, I understand."
+		],
+		[
+			"portraits",
+			[
+				30189,
+				2,
+				false
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714684,
+			null,
+			"哈哈，仙人阁下，你是仙人，我是武士，咱们就算是离别也不能露出那种小女儿的情态。",
+			"ハハハ、仙人殿、あなたは仙人で、拙者は武士です。たとえ別れるにしても、少女のような感情をあらわにしてはいけませぬ。",
+			"하하하, 선인님, 당신은 선인이고, 저는 무사입니다. 비록 헤어지더라도, 소녀 같은 감정을 드러내서는 안 됩니다.",
+			null,
+			null,
+			"Haha, Your Excellency, you are an immortal and I am a samurai, we can't show that kind of little daughter's mood even if we are parting.",
+			"Hahaha, hermit-dono, you are a hermit and I am a samurai. Even if we part ways, you must not show your feelings like a little girl."
+		],
+		[
+			"msg",
+			714685,
+			null,
+			"放心吧，我可是北辰芽衣……是就算被无数次打倒也能再次站起的武人！",
+			"安心してください。拙者は北辰芽衣……何度倒されても起き上がる武士です！",
+			"안심하세요. 저는 북진메이... 몇 번 쓰러져도 일어나는 무사입니다!",
+			null,
+			null,
+			"Don't worry, I am Meiko Kitatsu ...... is a martial artist who can get up again even after being knocked down countless times!",
+			"Rest assured, I am a warrior who will get up no matter how many times I am knocked down! I am Hokushin Mei ...... a samurai who gets up no matter how many times I am knocked down!"
+		],
+		[
+			"msg",
+			714686,
+			null,
+			"所以，仙人阁下放心地离开吧！",
+			"ですから、仙人殿は安心して行ってください！",
+			"그러니, 선인님은 안심하고 가십시오!",
+			null,
+			null,
+			"So, Your Excellency the Immortal leave with confidence!",
+			"Therefore, please go with peace of mind, hermit-dono!"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30189,
+				2,
+				true
+			],
+			[
+				217,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			714687,
+			null,
+			"……山高水长，一路珍重。",
+			"……山高く水長し。どうかお元気で。",
+			"...... 산은 높고 물은 길다. 부디 건강하십시오.",
+			null,
+			null,
+			"...... mountains are high and the journey is precious.",
+			"......Mountains are high and water is long. Please be well."
+		],
+		[
+			"msg",
+			714688,
+			null,
+			"北辰芽衣，再见。",
+			"さようなら。北辰芽衣。",
+			"안녕히. 북진메이.",
+			null,
+			null,
+			"See you later, Meiko Kitatsu.",
+			"Good-bye. Beijin Mei."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714689,
+			null,
+			"就像是为这场离别添一个注脚一样，巨船开始划破水波，向远处的海域行去。",
+			"この別れに注釈を加えるかのように、巨大な船が波を切って遠くの海へと進んでいった。",
+			"이 이별에 주석을 달듯, 거대한 배가 파도를 가르며 먼 바다로 나아갔다.",
+			null,
+			null,
+			"As if to add a footnote to this parting, the huge ship began to cut through the water waves, heading for the distant sea.",
+			"As if to annotate this farewell, a huge ship cut through the waves into the distant sea."
+		],
+		[
+			"msg",
+			714690,
+			null,
+			"而符华的身影也被抛离在了地面上，越来越远，最终变成了岸上的一个小点，直到消失不见。",
+			"そしてフカの姿は港に取り残され、徐々に遠ざかっていき、やがて岸辺の小さな点となり、見えなくなった。",
+			"그리고 후카의 모습은 항구에 남겨진 채, 점점 멀어져, 결국 해변의 작은 점이 되어 보이지 않게 되었다.",
+			null,
+			null,
+			"And Fuhua's figure was thrown off the ground, further and further away, eventually becoming a small dot on the shore until it disappeared.",
+			"And Huka's figure was left behind in the harbor, gradually moving away and eventually becoming a small dot on the shore, out of sight."
+		],
+		[
+			"msg",
+			714691,
+			null,
+			"于是——巨船之上，也传来了一阵由小变大，终于情难自抑的喊声。",
+			"そして——船からも声が聞こえてきた。最初は小さかったが、徐々に大きくなり、やがて感情を抑えきれない叫びへと変わった。",
+			"그리고 —— 배에서도 목소리가 들려왔다. 처음에는 작았지만, 점점 커지더니, 결국 감정을 억제할 수 없는 외침으로 변했다.",
+			null,
+			null,
+			"So - on top of the giant ship, also came a shout from small to large, and finally can not restrain the emotion.",
+			"And then - the voices came from the boat as well. Small at first, they gradually grew louder and eventually turned into uncontrollable cries of emotion."
+		],
+		[
+			"speaker",
+			204566
+		],
+		[
+			"portraits",
+			[
+				30189,
+				4,
+				false
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714692,
+			null,
+			"仙人阁下……",
+			"仙人殿……。",
+			"선인님.......",
+			null,
+			null,
+			"His Excellency the Immortal ......",
+			"Hermit Lord. ......."
+		],
+		[
+			"msg",
+			714693,
+			null,
+			"……呜，仙人阁下！",
+			"……うぅ、仙人殿！",
+			"...... 우, 선인님!",
+			null,
+			null,
+			"...... Whoo, Lord Immortal!",
+			"...... Ugh, Mister Hermit!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714694,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10257"
+		],
+		[
+			"msg",
+			714695,
+			null,
+			"夜深人静，巨船仍在海面上平稳地行进。",
+			"夜が更けて静かになり、船はなおも海を順調に進んでいた。",
+			"밤이 깊어 조용해지고, 배는 여전히 바다를 순조롭게 나아가고 있었다.",
+			null,
+			null,
+			"Late at night, the giant ship was still moving smoothly on the sea.",
+			"As night fell and it became quiet, the ship was still moving smoothly through the sea."
+		],
+		[
+			"msg",
+			714696,
+			null,
+			"就在自己的厢房里，北辰芽衣看着灯烛，想起了这一路行来，在欧陆上的经历。",
+			"北辰芽衣は自分の船室で、ろうそくを眺めながら、この旅の間に欧州で経験したことを思い返していた。",
+			"북진메이는 자신의 선실에서, 촛불을 바라보며, 이 여행 동안 유럽에서 경험한 일들을 되새기고 있었다.",
+			null,
+			null,
+			"Just in his own compartment, North Star Meizi looked at the lamp and candle and remembered the journey on the continent.",
+			"In her cabin, Mei Hokushin looked at the candles and reflected on what she had experienced in Europe during this trip."
+		],
+		[
+			"speaker",
+			204566
+		],
+		[
+			"portraits",
+			[
+				30189,
+				4,
+				false
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714697,
+			null,
+			"仙人阁下……卡莲……奥托……",
+			"仙人殿……カレン殿……オットー……",
+			"선인님……카렌님……오토……",
+			null,
+			null,
+			"Senjou ...... Karin ...... Otto ......",
+			"Hermit Lord ...... Karen ...... Otto ......"
+		],
+		[
+			"msg",
+			714698,
+			null,
+			"……还有天命教会里的那些人……佐菲亚、莱薇、艾恩梅德、茵克蕾辛……",
+			"……天命教会……ソフィア、レヴィ、アインメド、インクレッシン……。",
+			"……천명교회……소피아, 레비, 아인메드, 인크레신…….",
+			null,
+			null,
+			"...... and those in the Church of the Divine Order ...... Zofia, Levi, Ayn Med, Incressin ......",
+			"...... Church of Heavenly Life. ...... Sophia, Levy, Einmed, and Inkressin. ......"
+		],
+		[
+			"msg",
+			714699,
+			null,
+			"……以及阿尼拉……",
+			"……そして、アニラ……。",
+			"……그리고, 아니라…….",
+			null,
+			null,
+			"...... and Anila ......",
+			"...... and Anila ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714700,
+			null,
+			"不知为何，心中涌现出了一股深深的寂寞。",
+			"なぜか心の中に深い寂しさがこみ上げてきた。",
+			"왠지 마음 속에 깊은 외로움이 밀려왔다.",
+			null,
+			null,
+			"For some reason, a deep loneliness welled up in my heart.",
+			"For some reason, a deep loneliness welled up in my heart."
+		],
+		[
+			"msg",
+			714701,
+			null,
+			"北辰芽衣剪断了烛芯，起身来到巨船的甲板上。夜晚的海船上，海风宛如月色般清寂。",
+			"北辰芽衣はろうそくの芯を切り、船の甲板にやって来た。夜の船では、海風が月のように肌寒く静かだった。",
+			"북진메이는 촛불의 심지를 자르고, 배의 갑판으로 나왔다. 밤의 배에서는, 바닷바람이 달처럼 차갑고 고요했다.",
+			null,
+			null,
+			"Beichen Meizi cut the candle wick and got up to the deck of the huge ship. On the sea ship at night, the sea breeze was as clear and silent as the moon.",
+			"Mei Hokushin cut the candle wick and came to the deck of the ship. On the ship at night, the sea breeze was as chilly and quiet as the moon."
+		],
+		[
+			"msg",
+			714702,
+			null,
+			"就在这时，北辰芽衣耳畔好像听到了某个孩子嬉闹的声音，但就在她心中一惊，想要找到那个声音的源头时，那个声音已经消失无踪，只剩下泠泠的海风微漾。",
+			"ちょうどその時、北辰芽衣は子どもの遊ぶ声が聞こえたような気がした。しかし、驚いて声のした場所を探そうとした時には、その声はすでに消え、ただ冷たい海風しか残っていなかった。",
+			"바로 그때, 북진메이는 아이들이 노는 소리가 들린 것 같았다. 하지만, 놀라 소리가 난 곳을 찾으려 했을 때는, 그 소리는 이미 사라지고, 오직 차가운 바닷바람만이 남아있었다.",
+			null,
+			null,
+			"At this time, the North Star Meizi ear seems to hear the sound of a child playing, but just when her heart startled, want to find the source of that sound, the sound has disappeared without a trace, leaving only the cold sea breeze slightly rippling.",
+			"Just then, Mei Beichen thought she heard a child playing. However, by the time she was startled and tried to find where the voice had come from, it had already disappeared, leaving only a cold sea breeze."
+		],
+		[
+			"msg",
+			714703,
+			null,
+			"北辰芽衣忽然有种强烈的倾诉欲望。",
+			"北辰芽衣は、ふと誰かに打ち明けたいと強く思った。",
+			"북진메이는, 문득 누군가에게 털어놓고 싶다는 강한 욕망을 느꼈다.",
+			null,
+			null,
+			"Meiko Kitatsu suddenly had a strong desire to confide in her.",
+			"Mei Hokutatsu suddenly felt a strong desire to confide in someone."
+		],
+		[
+			"msg",
+			714704,
+			null,
+			"想把自己经历的这一切都说给某个人听。",
+			"自分が経験したすべてを誰かに話したくなった。",
+			"내가 경험한 모든 것을 누군가에게 말하고 싶어졌다.",
+			null,
+			null,
+			"Trying to tell someone about all this that I have experienced.",
+			"I wanted to tell someone about everything I had experienced."
+		],
+		[
+			"msg",
+			714705,
+			null,
+			"自己的疯狂、自己的前进、自己的崩溃、自己的重生……更重要的，还有带给自己这些变化的那些人，那些发生在自己和他们之间的故事。",
+			"自分の狂気、前進、破綻、生まれ変わり……そして何より、自分と彼らの間に起きた出来事を。",
+			"나의 광기, 전진, 파탄, 환생…… 그리고 무엇보다, 나와 그들 사이에 일어난 사건을.",
+			null,
+			null,
+			"Their own madness, their own advance, their own collapse, their own rebirth ...... more importantly, and those who brought them these changes, those stories that happened between themselves and them.",
+			"My own insanity, progress, bankruptcy, reincarnation ...... and most of all, what happened between me and them."
+		],
+		[
+			"speaker",
+			204566
+		],
+		[
+			"portraits",
+			[
+				30189,
+				4,
+				false
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714706,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"portraits",
+			[
+				30189,
+				2,
+				false
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714707,
+			null,
+			"等到回去以后，回到东瀛，就找个传人把我的北辰一刀流都教授给他吧。",
+			"極東に戻ったら後継者を見つけ、拙者の北辰一刀流を伝授しよう。",
+			"극동으로 돌아가면 후계자를 찾아, 이 몸의 북진일도류를 전수하리라.",
+			null,
+			null,
+			"When we go back, back to the East, find an heir to teach him all my North Star Ichiban Ryu.",
+			"When I return to the Far East, I will find a successor and teach him my Hokushin Itto style."
+		],
+		[
+			"msg",
+			714708,
+			null,
+			"而且还要让他知道，老师我当初所经历的那些事情——",
+			"そして、その者に拙者が経験したことをすべて伝えよう——",
+			"그리고, 그 자에게 이 몸이 경험한 것을 모두 전하리라——",
+			null,
+			null,
+			"And also to let him know that the things that the teacher I went through in the first place -",
+			"And I will tell him all that I have experienced--"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714709,
+			null,
+			"看着天上皎洁的明月，北辰芽衣就像是放下了什么心事一样，轻松地笑了。",
+			"北辰芽衣は空に浮かぶ明るい月を見ながら、悩みがなくなったかのように気楽に笑っていた。",
+			"북진 메이는 하늘에 떠 있는 밝은 달을 바라보며, 고민이 없어진 듯 태연히 웃고 있었다.",
+			null,
+			null,
+			"Looking at the bright moon in the sky, Beichen Meizi smiled easily as if she had put down something on her mind.",
+			"Mei Beijin was looking at the bright moon in the sky and smiling comfortably as if her worries were gone."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"msg",
+			714710,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10422"
+		],
+		[
+			"msg",
+			714711,
+			null,
+			"从欧陆返回东方的道路上。",
+			"欧州から東洋に帰る道中。",
+			"유럽에서 동양으로 돌아오는 길.",
+			null,
+			null,
+			"On the way back to the East from the continent.",
+			"On the way back to the Orient from Europe."
+		],
+		[
+			"msg",
+			714712,
+			null,
+			"一群难民堵住了符华。",
+			"難民の集団がフカの行く手をふさいでいた。",
+			"난민의 무리가 후카의 앞길을 막고 있었다.",
+			null,
+			null,
+			"A group of refugees blocked Fuhua.",
+			"A group of refugees blocked Huka's path."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				217,
+				1,
+				false
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714713,
+			null,
+			"诸位是……",
+			"皆さんは……。",
+			"여러분은…….",
+			null,
+			null,
+			"All of you are ......",
+			"You can all visit ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714714,
+			null,
+			"虽然身受重伤，但符华敏锐的感知力仍在，她清楚地探知到，眼前这些难民绝非凶暴之人，不过身上却带着些许凝而不散的崩坏气息。",
+			"フカは重傷を負っていたが、鋭い感知能力は健在で、目の前の難民たちが決して凶暴な者ではないことは分かっていた。しかし、彼らには凝縮したまま消えていない崩壊の気配が少し残っていた。",
+			"후카는 중상을 입었지만, 날카로운 감지 능력은 여전했고, 눈앞의 난민들이 결코 흉폭한 자들이 아니라는 것을 알고 있었다. 하지만 그들에는 농축된 채 사라지지 않은 붕괴의 기운이 조금 남아 있었다.",
+			null,
+			null,
+			"Although seriously injured, but Fuhua's keen perception is still there, she clearly detects that these refugees in front of her are by no means ferocious and violent people, but they carry some condensed but not dissipated aura of disintegration.",
+			"Huka was seriously wounded, but his keen sensing abilities were still intact, and he knew that the refugees in front of him were by no means ferocious. However, they had a slight hint of decay that had condensed and not disappeared."
+		],
+		[
+			"msg",
+			714715,
+			null,
+			"难民们相互看了一眼。",
+			"難民たちは互いに顔を見合わせた。",
+			"난민들은 서로 얼굴을 마주보았다.",
+			null,
+			null,
+			"The refugees looked at each other.",
+			"The refugees looked at each other."
+		],
+		[
+			"speaker",
+			714808
+		],
+		[
+			"portraits",
+			[
+				30534,
+				0,
+				false
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714716,
+			null,
+			"来自东方的仙人，请问您是要返回故土神州吗？",
+			"東洋の仙人様、故郷の神州に戻られるのですか？",
+			"동양의 선생님, 고향인 신주로 돌아가시는 건가요?",
+			null,
+			null,
+			"Immortal from the East, are you returning to your homeland, God's Own Country?",
+			"Dear Oriental Hermit, are you going back to your hometown of Shinshu?"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30534,
+				0,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714717,
+			null,
+			"没错。",
+			"そうです。",
+			"그렇습니다.",
+			null,
+			null,
+			"That's right.",
+			"Yes."
+		],
+		[
+			"speaker",
+			714808
+		],
+		[
+			"portraits",
+			[
+				30534,
+				0,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714718,
+			null,
+			"既然如此，不知能否捎上我们一程？",
+			"それなら、ついでに私たちを連れていってくれませんか？",
+			"그렇다면, 우리도 함께 데려가 주실 수 없을까요?",
+			null,
+			null,
+			"In that case, I wonder if you can give us a ride?",
+			"Then, by the way, will you take us with you?"
+		],
+		[
+			"msg",
+			714719,
+			null,
+			"我们本来都是些普通的村民，但因为黑死病的爆发被天启骑士团抓进了实验室。",
+			"私たちはただの村人でしたが、ペストが流行したせいで、天啓騎士団に捕まり、研究所に連れていかれたのです。",
+			"우리는 그저 마을 사람들이었지만, 페스트가 유행하는 바람에 천계 기사단에게 잡혀 연구소로 끌려갔습니다.",
+			null,
+			null,
+			"We were all ordinary villagers, but because of the outbreak of the Black Death were captured by the Knights of the Apocalypse into the laboratory.",
+			"We were just villagers, but because of the plague epidemic, we were captured by the Knights of the Revelation and taken to the institute."
+		],
+		[
+			"msg",
+			714720,
+			null,
+			"……虽然后面反而侥幸因此躲过一劫，而且“神落之日”以后身上的黑死病也消退了，但这片大陆实在太危险，我们又在之前的灾难里死掉了大部分亲人，所以……",
+			"……その後は、幸いにして難を逃れましたし、「神落の日」の後はペストも消えました。しかし、この大陸はあまりに危険です。私たちはあの災いで家族のほとんどを失いました。ですから……。",
+			"……그 후, 다행히 재난을 피할 수 있었고, 「신의 추락의 날」 이후로는 페스트도 사라졌습니다. 하지만 이 대륙은 너무 위험합니다. 우리는 그 재앙으로 가족 대부분을 잃었습니다. 그래서…….",
+			null,
+			null,
+			"...... Although the back of the fluke therefore escaped a disaster, and the \"day of the fall of God\" after the body of the Black Death also subsided, but this continent is too dangerous, and we died in the previous disaster most of our relatives, so ......",
+			"...... Then, fortunately, we escaped the difficulties and the plague disappeared after the \"Day of the Fall of God\". But this continent is too dangerous. We lost most of our families in that plague. So please visit ......."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30534,
+				0,
+				true
+			],
+			[
+				217,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714721,
+			null,
+			"……原来如此。",
+			"……なるほど。",
+			"……그렇군요.",
+			null,
+			null,
+			"...... turned out to be so.",
+			"...... I see."
+		],
+		[
+			"msg",
+			714722,
+			null,
+			"不过，我现如今身受重伤，恐怕不能护各位周全。",
+			"ですが、今の私は重傷を負っています。皆さんをしっかり守るのは難しいでしょう。",
+			"하지만 지금의 저는 중상을 입었습니다. 여러분을 제대로 보호하기는 어려울 겁니다.",
+			null,
+			null,
+			"However, I am now seriously injured and I am afraid I cannot protect you all.",
+			"But now I am seriously injured. It will be difficult to protect you all well."
+		],
+		[
+			"msg",
+			714723,
+			null,
+			"而且大家何必一定要跟随我呢？通往神州的路线欧陆也有，哪怕路途艰险，但若是请天命庇护的话，应该……",
+			"それに、どうして私についてくるのですか？欧州大陸には神州へのルートもあります。道中が危険でも、天命の庇護をもとめれば、きっと……。",
+			"게다가, 왜 저를 따라오시려는 건가요? 유럽 대륙에는 신주로 가는 길도 있습니다. 길이 위험하더라도 천명의 보호를 구한다면, 분명…….",
+			null,
+			null,
+			"And why do people have to follow me? The route to the divine state Europa also has, even if the road is difficult and dangerous, but if you ask the heavenly fate to shelter, should ......",
+			"Besides, why are you following me? There are routes to Shenzhou on the European continent. Even if the road is dangerous, I am sure that if you seek the shelter of heaven's mandate, you will find it at ......."
+		],
+		[
+			"speaker",
+			714808
+		],
+		[
+			"portraits",
+			[
+				30534,
+				0,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714724,
+			null,
+			"——不、不！",
+			"——いえ、それは違います！",
+			"——아니, 그건 틀렸어!",
+			null,
+			null,
+			"--No, no!",
+			"-- No, that is not true!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714725,
+			null,
+			"难民情绪激动地打断了符华的话。",
+			"難民は感情的な声でフカの言葉を遮った。",
+			"난민은 감정적인 목소리로 후카의 말을 끊었다.",
+			null,
+			null,
+			"The refugee interrupted Fuhua's words with emotion.",
+			"The refugee interrupted Huka with an emotional voice."
+		],
+		[
+			"speaker",
+			714808
+		],
+		[
+			"portraits",
+			[
+				30534,
+				0,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714726,
+			null,
+			"“神落之日”时我们都清醒着，都看见是仙人您击败了神明，拯救了整个世界。",
+			"「神落の日」に、私たちは目を覚ましており、仙人様が神を倒し、世界を救ったところを見ていました。",
+			"「신락의 날」에, 우리는 깨어 있었고, 선인님께서 신을 쓰러뜨리고 세상을 구하는 걸 봤어요.",
+			null,
+			null,
+			"\"We were all awake on the Day of the Fall of God, and we all saw that you, the Immortal, defeated the gods and saved the whole world.",
+			"On the Day of the Fall of the Gods, we were awake and watched as the Hermit Master defeated the Gods and saved the world."
+		],
+		[
+			"msg",
+			714727,
+			null,
+			"但后来天命却发动宣传机器，宣称这是他们的功劳！",
+			"しかしその後、天命は宣伝装置を動かし、あれは自分たちの功績だと主張しています！",
+			"하지만 그 후, 천명은 선전 장치를 가동해 그건 자신들의 공적이라고 주장하고 있어요!",
+			null,
+			null,
+			"But then the Mandate of Heaven unleashed its propaganda machine and claimed it was their doing!",
+			"But then Tenmei moved the publicity apparatus and claimed that that was their achievement!"
+		],
+		[
+			"msg",
+			714728,
+			null,
+			"更别说再之前他们还将我们当成人体试验的工具——这么无耻的教会，怎么能让我们信任！",
+			"ましてや、それ以前に彼らは私たちを人体実験の道具にしていたのです——そんな恥知らずの教会、信用できるはずがありません！",
+			"게다가, 그 전에 그들은 우리를 인체실험 도구로 삼았단 말이에요——그런 뻔뻔한 교회, 믿을 수 있을 리가 없잖아요!",
+			null,
+			null,
+			"Not to mention the fact that before that they used us as instruments for human experimentation - how can we trust such a shameless church!",
+			"And before that, they were using us as tools for human experimentation - such a shameless church, how can we trust them?"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				217,
+				2,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714729,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714730,
+			null,
+			"符华沉默了片刻。",
+			"フカはしばらく黙り込んだ",
+			"후카는 잠시 침묵했다",
+			null,
+			null,
+			"Fuhua was silent for a moment.",
+			"Huka went silent for a while."
+		],
+		[
+			"msg",
+			714731,
+			null,
+			"将击败渊面意志的功劳算在奥托和天命头上，并不是奥托的自作主张，符华对此也表示认可。",
+			"深淵の意志を倒した手柄はオットーや天命のものとなったが、それはオットーの独断ではない。フカも認めていた。",
+			"심연의 의지를 쓰러뜨린 공적은 오토나 천명의 것이 되었지만, 그것은 오토의 독단이 아니었다. 후카도 인정하고 있었다.",
+			null,
+			null,
+			"Pressing the credit of defeating the will of the abyssal surface on Otto's and Heavenly Fate's head was not Otto's self-interest, and Fuhua approved of it.",
+			"It was not Otto's or Tenmei's decision to take credit for defeating the will of the abyssal plane, and Huka approved of this."
+		],
+		[
+			"msg",
+			714732,
+			null,
+			"对她来说，世俗的名声并无意义，而且她不想介入人类的历史，因此“天命拯救世人”对她来说也是最好的结果。",
+			"彼女にとって、世俗の名声は意味のないものだ。しかも、人類の歴史には介入したくないので、「天命が世界の人々を救った」とするのは、彼女としても、最も望ましい結末だった。",
+			"그녀에게 세속적인 명성은 의미 없는 것이었다. 게다가, 인류의 역사에 개입하고 싶지 않았기에, 「천명이 세계 사람들을 구했다」는 것은 그녀로서도 가장 바람직한 결말이었다.",
+			null,
+			null,
+			"For her, worldly fame was meaningless, and she did not want to interfere with human history, so \"the mandate to save the world\" was the best outcome for her.",
+			"For her, worldly fame is meaningless. Moreover, since she does not want to intervene in the history of mankind, it was the most desirable outcome for her to say that her \"natural destiny saved the people of the world."
+		],
+		[
+			"msg",
+			714733,
+			null,
+			"但如今难民们也因为不知内幕，对天命离心离德……",
+			"しかし、難民たちは内情を知らないため、天命に対して不信感を抱いている……。",
+			"하지만 난민들은 내정을 모르기 때문에, 천명에 대해 불신을 품고 있었다…….",
+			null,
+			null,
+			"But now the refugees are also centrifugal to the Mandate of Heaven because they don't know the inside story ......",
+			"However, the refugees do not know the inner workings and are distrustful of the natural order. ......"
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				217,
+				2,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714734,
+			null,
+			"（这是我的责任。）",
+			"（これは私の責任です）",
+			"(이것은 나의 책임입니다)",
+			null,
+			null,
+			"(This is my responsibility.)",
+			"(This is my fault)"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714735,
+			null,
+			"符华下定了决心，对难民们抱拳一礼。",
+			"フカは決心して、難民たちに抱拳礼をした。",
+			"후카는 결심하고, 난민들에게 포권례를 올렸다.",
+			null,
+			null,
+			"Fuhua made up his mind and gave a fist salute to the refugees.",
+			"Huka made up his mind and gave the refugees a hug-and-fist bow."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				217,
+				1,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714736,
+			null,
+			"既然诸位信任我，那么此去神州之路，我便会竭尽全力，护各位平安。",
+			"皆さんが私を信じてくださるなら、この神州への道中、全力で皆さんの無事をお守りいたしましょう。",
+			"여러분이 저를 믿어주신다면, 이 신주로 가는 길목에서 전력으로 여러분의 무사함을 지켜드리겠습니다.",
+			null,
+			null,
+			"Since you all trust me, I will do my best to protect you safely on the road to God's Country.",
+			"If you all believe in me, I will do my best to protect your safety on this journey to Shenzhou."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714737,
+			null,
+			"“好诶！”",
+			"「やった！」",
+			"「해냈다!」",
+			null,
+			null,
+			"\"Good eh!\"",
+			"Yes!\""
+		],
+		[
+			"msg",
+			714738,
+			null,
+			"“我们有符华仙人保护了！”",
+			"「フカ仙人が守ってくださるぞ！」",
+			"「후카 선인이 지켜주신다!」",
+			null,
+			null,
+			"\"We're protected by the Fuhua Immortal!\"",
+			"The Huka Hermit will protect you!\""
+		],
+		[
+			"msg",
+			714739,
+			null,
+			"难民们狂喜，所有人团团聚来，他们大都衣衫褴褛，遍体鳞伤，但眼中却充满了对未来的希望。",
+			"難民たちは大喜びし、集まってきた。彼らのほとんどはボロボロの身なりで、全身傷だらけだったが、その目には未来に対する希望が満ちていた。",
+			"난민들은 크게 기뻐하며 모여들었다. 그들 대부분은 남루한 차림에 전신이 상처투성이였지만, 그들의 눈에는 미래에 대한 희망이 가득 차 있었다.",
+			null,
+			null,
+			"The refugees were ecstatic and all came together in groups, most of them in rags and bruises, but with hope for the future in their eyes.",
+			"The refugees were overjoyed and gathered around. Most of them were ragged and covered in scars, but their eyes were filled with hope for the future."
+		],
+		[
+			"msg",
+			714740,
+			null,
+			"而就在充满希望的人群之中，一缕熟悉的气息飘了过来，令符华身形一滞。",
+			"そして、希望に満ちた人々の中から、よく知る気配が漂ってきて、フカは固まった。",
+			"그리고 희망으로 가득 찬 사람들 사이에서, 익숙한 기운이 느껴지며 후카는 굳어버렸다.",
+			null,
+			null,
+			"And right in the middle of the hopeful crowd, a familiar wisp of air drifted over, causing Fuhua's body to stall.",
+			"Then a familiar feeling drifted up from the hopeful crowd, and Huka froze."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				217,
+				1,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714741,
+			null,
+			"这是……",
+			"これは……。",
+			"이건.......",
+			null,
+			null,
+			"This is ......",
+			"This can be found at ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714742,
+			null,
+			"符华以现在的身躯所能爆发出的最高的速度冲到了那缕气息之前——那是个正被一位女性抱在胸前的婴儿。",
+			"フカは自分の体が今出せる限界の速度でその気配の場所に駆け寄った——そこには女性の胸に抱かれた赤ん坊がいた。",
+			"후카는 자신의 몸이 낼 수 있는 최고 속도로 그 기운이 느껴지는 곳으로 달려갔다——거기에는 여성의 품에 안겨있는 갓난아이가 있었다.",
+			null,
+			null,
+			"Fuhua rushed to the breath with the highest speed that his body could burst out now - it was a baby that was being held by a woman on her chest.",
+			"Huka rushed to the location of the sign at the maximum speed his body could now produce - there was a baby in a woman's arms."
+		],
+		[
+			"msg",
+			714743,
+			null,
+			"哪怕是在如此吵闹的环境中，婴儿也还是甜美地安睡着，额头的火红印记在她的小小身躯之上熠熠生辉。",
+			"このような騒がしい場所でも、その赤ん坊はぐっすりと眠っていた。その額には炎のような印があり、小さな体の中で輝いていた。",
+			"이렇게 시끄러운 곳에서도 그 갓난아이는 깊게 잠들어 있었다. 그 이마에는 불꽃 같은 문양이 새겨져 있었고, 작은 몸 안에서 빛나고 있었다.",
+			null,
+			null,
+			"Even in such a noisy environment, the baby still sleeps sweetly and peacefully, with the fiery red mark on her forehead glowing above her tiny body.",
+			"Even in such a noisy place, the baby slept soundly. On its forehead was a mark like a flame, glowing inside its tiny body."
+		],
+		[
+			"msg",
+			714744,
+			null,
+			"符华凝视着那个孩子。",
+			"フカはその子どもを見つめた。",
+			"후카는 그 아이를 바라보았다.",
+			null,
+			null,
+			"Fuhua gazed at the child.",
+			"Huka looked at the child."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				217,
+				1,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714745,
+			null,
+			"请问，这个孩子从何而来……",
+			"あの、この子はどこから来たのですか……。",
+			"저, 이 아이는 어디에서 온 거죠…….",
+			null,
+			null,
+			"Please, where did this child come from ......",
+			"Um, where did this girl come from: ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714746,
+			null,
+			"女人看着她，怯生生地道。",
+			"女性はフカを見つめ、びくびくしながら答えた。",
+			"여성은 후카를 바라보며, 떨리는 목소리로 대답했다.",
+			null,
+			null,
+			"The woman looked at her and said timidly.",
+			"The woman looked at Huka and replied with trepidation."
+		],
+		[
+			"speaker",
+			320614
+		],
+		[
+			"portraits",
+			[
+				30288,
+				0,
+				false
+			],
+			[
+				217,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714747,
+			null,
+			"仙、仙人……这孩子叫瑞莉亚，也是从实验室里出来的。",
+			"せ、仙人様……この子の名前はレイリアです。同じように研究所から出てきたんです。",
+			"선, 선인님…… 이 아이 이름은 레이리아예요. 저와 같이 연구소에서 나온 거예요.",
+			null,
+			null,
+			"Immortal, Immortal ...... This child is called Rilia, also from the laboratory.",
+			"Se, hermit-sama ...... this girl's name is Leylia. We came out of the lab in the same way."
+		],
+		[
+			"msg",
+			714748,
+			null,
+			"她全家都死光了，就剩下自己还活着。然后实验室里的那个女人，就把之前收集到一些不知从哪里得来的羽毛植入了她的身体里。",
+			"この子の家族は全員亡くなり、この子だけが生き延びました。そして、研究所のある女性が、どこかで集めてきた羽根をこの子の体に埋め込んだんです。",
+			"이 아이 가족은 모두 죽고, 이 아이만 살아남았어요. 그리고 연구소에 있던 어떤 여자가 어딘가에서 주워온 깃털을 이 아이 몸에 심어버렸죠.",
+			null,
+			null,
+			"Her whole family was dead, leaving herself alive. Then the woman in the lab, she collected some feathers from somewhere and implanted them into her body.",
+			"All of this child's family members died, and only this child survived. Then, one of the women at the institute implanted a feather into this child's body that she had collected from somewhere."
+		],
+		[
+			"msg",
+			714749,
+			null,
+			"虽然成功了，但瑞莉亚现在也变得很喜欢睡觉，而且额头上还出现了这个红色的印记……",
+			"成功はしたのですが、レイリアはすごくよく眠るようになってしまいました。しかも、額にはこの赤い印が現われて……。",
+			"성공은 했지만, 레이리아는 너무 자주 잠들게 되었어요. 게다가 이마에는 이 빨간 문양이 나타나고…….",
+			null,
+			null,
+			"Although successful, Relya now also became very fond of sleep, and this red mark on the forehead ......",
+			"We were successful, but Leylia started sleeping very well. Moreover, this red mark appeared on her forehead and ......."
+		],
+		[
+			"speaker",
+			204736
+		],
+		[
+			"portraits",
+			[
+				30288,
+				0,
+				true
+			],
+			[
+				217,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			714750,
+			null,
+			"……原来如此。",
+			"……そうでしたか。",
+			"……그랬군요.",
+			null,
+			null,
+			"...... turned out to be so.",
+			"...... I didn't know that."
+		],
+		[
+			"msg",
+			714751,
+			null,
+			"瑞莉亚么。",
+			"レイリアですか。",
+			"레이리아인가.",
+			null,
+			null,
+			"Is Relya.",
+			"Is it Leiria?"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				217,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714752,
+			null,
+			"凝视着婴儿额头上的火红印记，符华伫立许久，不发一语。",
+			"赤ん坊の額にある炎の印を見つめながら、フカはしばらく黙って立っていた。",
+			"아기의 이마에 있는 불꽃 문양을 바라보며, 후카는 한동안 말없이 서 있었다.",
+			null,
+			null,
+			"Staring at the fiery red mark on the baby's forehead, Fuhua stood for a long time, without saying a word.",
+			"Huka stood silently for a moment, staring at the mark of fire on the baby's forehead."
+		]
+	],
+	"10055": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714753,
+			null,
+			"距离那一日，已过去多久了呢？",
+			"あの日からどれくらい過ぎたのだろうか？",
+			"그날부터 얼마나 지났을까?",
+			null,
+			null,
+			"How long has it been since that day?",
+			"How long has it been since that day?"
+		],
+		[
+			"msg",
+			714754,
+			null,
+			"几天？几个月？亦或是几年？",
+			"数日？数カ月？それとも数年？",
+			"며칠? 몇 달? 아니면 몇 년?",
+			null,
+			null,
+			"How many days? A few months? Or years?",
+			"Days? Months? Or years?"
+		],
+		[
+			"bgm",
+			66
+		],
+		[
+			"msg",
+			714755,
+			null,
+			"……艾恩梅德已经不记得了。",
+			"……アインメドは覚えていなかった。",
+			"……아인메드는 기억하지 못했다.",
+			null,
+			null,
+			"...... Ehrenmaid no longer remembers.",
+			"...... Einmed did not remember."
+		],
+		[
+			"msg",
+			714756,
+			null,
+			"她为数不多知道的，便是自渊面意志消散以后，自己那具从接近被完全侵蚀的状态中恢复原形，但却失去了大部分力量的身体。",
+			"彼女が知っていることは少なく、そのひとつは、淵面の意志が消えた後、完全に侵食されそうになっていた自分の体が元の姿に戻ったものの、力のほとんどを失ってしまったことだ。",
+			"그녀가 아는 것은 많지 않았고, 그 중 하나는 연면의 의지가 사라진 후 완전히 침식당할 뻔했던 자신의 몸이 원래 모습으로 돌아왔지만, 대부분의 힘을 잃어버렸다는 것이었다.",
+			null,
+			null,
+			"One of the few things she knows is that her body, which had recovered from its near-complete erosion but lost most of its power since the will of the abyssal face had dissipated.",
+			"What she knows is little, and one of the few things she does know is that after the will of the abyssal plane disappeared, she lost most of her power, although her body, which was about to be completely eroded, returned to its original form."
+		],
+		[
+			"msg",
+			714757,
+			null,
+			"——以及随后便面临着整个天命教会通缉，在被追击的过程中重伤垂死，被一个小山村的村民收留的窘态。",
+			"——そして、その後は天命教会から指名手配され、追われる中で重傷を負い、野垂れ死にそうになっているところを、山の小さな村の村人に救われた。",
+			"——그리고, 그 후에는 천명교회에서 지명수배되어 쫓기던 중 중상을 입고, 길가에서 죽어가던 차에 산속 작은 마을 주민들에게 구출당했다.",
+			null,
+			null,
+			"-- and the subsequent dilemma of being wanted by the entire Church of Divine Order, dying of serious injuries while being chased, and being taken in by villagers from a small mountain village.",
+			"--and then, wanted by the Church of Heavenly Life, he was severely wounded in the pursuit and was about to die in the field when he was saved by a villager in a small mountain village."
+		],
+		[
+			"msg",
+			714758,
+			null,
+			"……事到如今，无论鹫翼贵族之名，还是曾经令人闻风丧胆的“天启死亡”的威风都已荡然无存。",
+			"……今では鷲翼の公爵の名も、かつては人々を震え上がらせた「死の騎士」の威厳も存在しない。",
+			"……이제는 독수리 날개의 공작이라는 이름도, 한때 사람들을 떨게 했던 「죽음의 기사」의 위엄도 존재하지 않았다.",
+			null,
+			null,
+			"...... now, whether the name of the vulture-winged nobility, or the once fearsome \"apocalyptic death\" of the mighty are gone.",
+			"...... Now neither the name of the eagle-winged duke nor the dignity of the \"knight of death\" who once made people tremble, exist."
+		],
+		[
+			"msg",
+			714759,
+			null,
+			"留存于世的，只剩下这样一具孱弱的身体，还有空负艾恩梅德之称的这个女人。",
+			"残っているのは、この弱り切った体と、アインメドという名前を背負っている女性だけだ。",
+			"남은 것은 이렇게 약해진 몸과, 아인메드라는 이름을 지닌 여자뿐이었다.",
+			null,
+			null,
+			"What remains in the world is only such a weak body, and the empty name of the woman Ayn Med.",
+			"All that remains is this weakened body and the woman who bears the name Einmed."
+		],
+		[
+			"speaker",
+			205379
+		],
+		[
+			"bg",
+			"CG10299"
+		],
+		[
+			"portraits",
+			[
+				30181,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714760,
+			null,
+			"呵呵……",
+			"フフ……。",
+			"훗…….",
+			null,
+			null,
+			"Oh ......",
+			"Huf. ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714761,
+			null,
+			"忍不住笑了起来。",
+			"思わず笑いがこみ上げてきた。",
+			"문득 웃음이 치밀어 올랐다.",
+			null,
+			null,
+			"Couldn't help but laugh.",
+			"I couldn't help but burst out laughing."
+		],
+		[
+			"msg",
+			714762,
+			null,
+			"无法不笑，无法不感到滑稽。",
+			"笑わずにはいられなかった。滑稽に思わずにはいられなかった。",
+			"웃지 않을 수 없었다. 우스꽝스럽게 느껴지지 않을 수 없었다.",
+			null,
+			null,
+			"It is impossible not to laugh and feel funny.",
+			"I couldn't help but laugh. I couldn't help but think it was hilarious."
+		],
+		[
+			"msg",
+			714763,
+			null,
+			"当你艰难前行，为了自己的宏愿披荆斩棘——一场从天而降的灾难将一切都搅得七零八碎，无论何等谋划全部破灭之时，你如何能不感到绝望？",
+			"苦労しながら前に進み、志のために困難を克服している時、天から降ってきた災いがすべてを台無しにし、あらゆる計画がすべてぶち壊されたとしたら、絶望を感じずにいられるだろうか？",
+			"고생하며 앞으로 나아가고, 뜻을 위해 어려움을 극복하던 중, 하늘에서 떨어진 재앙이 모든 것을 망쳐버리고, 모든 계획이 산산조각났다면, 절망을 느끼지 않을 수 있을까?",
+			null,
+			null,
+			"When you struggle to move forward, for their own ambitions to cut through the thorns - a disaster from the sky will be stirred up everything, no matter what the plan all destroyed, how can you not feel despair?",
+			"If, while struggling to move forward and overcome difficulties for the sake of your aspirations, a calamity fell from the heavens and ruined everything and all your plans, would you be able to avoid feeling despair?"
+		],
+		[
+			"msg",
+			714764,
+			null,
+			"当你本以为灾难已经结束，正应改天换地，大展宏图——自己所选定的人却背叛了自己的信任，所有愿景落空的时候，你又如何能不感到可笑？",
+			"災いが終わり、世の中を変えようと大きな志を抱いたとき、自分の選んだ人が信頼を裏切り、あらゆる展望が無に帰したとしたら、滑稽に思わずにいられるだろうか？",
+			"재앙이 끝나고 세상을 바꾸려는 큰 뜻을 품었을 때, 자신이 선택한 사람이 신뢰를 배신하고 모든 전망이 무너져버렸다면, 우스꽝스럽게 느끼지 않을 수 있을까?",
+			null,
+			null,
+			"How can you not feel funny when you thought the disaster was over and you were supposed to change the world and make a big difference - and the person you chose betrayed your trust and all your visions came to naught?",
+			"When the calamity is over and you have great aspirations to change the world, would you not find it comical if your chosen one betrayed your trust and all your prospects came to nothing?"
+		],
+		[
+			"speaker",
+			205379
+		],
+		[
+			"portraits",
+			[
+				30181,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714765,
+			null,
+			"呵呵……",
+			"フフ……。",
+			"흐…….",
+			null,
+			null,
+			"Oh ......",
+			"Huf. ......."
+		],
+		[
+			"msg",
+			714766,
+			null,
+			"哈哈……",
+			"ハハ……。",
+			"하하…….",
+			null,
+			null,
+			"Haha ......",
+			"Haha. ......."
+		],
+		[
+			"msg",
+			714767,
+			null,
+			"哈哈哈哈……",
+			"ハハハハ……。",
+			"하하하하…….",
+			null,
+			null,
+			"Hahahahaha ......",
+			"Hahahaha ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714768,
+			null,
+			"而就在大笑之时，一个靠在旁边的怯生生的身影走了过来，她的手中端着一碗草药。",
+			"笑っていると、横から怯えたような人影が近づいて来た。よく見ると彼女は薬草の入った器を持っていた。",
+			"웃고 있자니, 옆에서 겁에 질린 듯한 사람 그림자가 다가왔다. 자세히 보니 그녀는 약초가 담긴 그릇을 들고 있었다.",
+			null,
+			null,
+			"And just as the laughter was going on, a timid figure leaning to the side came over, a bowl of herbs in her hand.",
+			"As I was laughing, a frightened-looking figure approached from the side. Upon closer inspection, I saw that she was holding a bowl of medicinal herbs."
+		],
+		[
+			"speaker",
+			711888
+		],
+		[
+			"portraits",
+			[
+				30525,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714769,
+			null,
+			"姐姐……你的身体还没有调养好……这碗草药给你……",
+			"お姉ちゃん……体がまだ治ってないから……この薬草をあげる……。",
+			"언니…… 몸이 아직 다 낫지 않았으니까…… 이 약초 줄게…….",
+			null,
+			null,
+			"Sister ...... your body is not yet well-tuned ...... this bowl of herbs for you ......",
+			"Sis,...... since your body is still healing,...... I will give you this herb,......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			714770,
+			null,
+			"就是这个小女孩，救下了滚落山崖的她。据艾恩梅德所知道的情报，她和自己的母亲在这片荒原上相依为命，艰难求存。",
+			"崖から落ちたアインメドを救ったのは少女だった。アインメドの知る限りでは、彼女はこの荒野で母親と協力し合って必死に生きているようだ。",
+			"절벽에서 떨어진 아인메드를 구한 것은 소녀였다. 아인메드가 아는 한, 그녀는 이 황야에서 어머니와 협력하며 필사적으로 살아가고 있는 모양이었다.",
+			null,
+			null,
+			"It was this little girl who saved her from tumbling down the cliff. According to the information known to Ayn Med, she and her mother were dependent on each other in this wilderness, struggling to survive.",
+			"It was a girl who saved Einmed from falling off a cliff. As far as Einmed knows, she is struggling to survive in this wilderness in cooperation with her mother."
+		],
+		[
+			"speaker",
+			205379
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30181,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714771,
+			null,
+			"咕……咳咳……",
+			"ぐっ……ゲホッ、ゲホッ……。",
+			"윽…… 커헉, 커헉…….",
+			null,
+			null,
+			"Goo ...... cough ......",
+			"Gghh...... gee, gee, gee ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30181,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714772,
+			null,
+			"喝下滚烫的草药之后，艾恩梅德感觉身体好了不少。",
+			"沸騰した飲み薬を飲んだアインメドは、体がとても楽になった。",
+			"끓인 약을 마신 아인메드는 몸이 한결 가벼워진 것을 느꼈다.",
+			null,
+			null,
+			"After drinking the boiling hot herbs, Ayn Med felt much better.",
+			"After taking the boiled drink, Einmed felt so much better."
+		],
+		[
+			"speaker",
+			205379
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30181,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714773,
+			null,
+			"谢谢你了……如果不是你的话，或许我现在已经曝尸荒野了吧。",
+			"ありがとうございました……あなたがいなければ、私は今頃、荒野で野垂れ死んでいたことでしょう。",
+			"감사합니다…… 당신이 아니었다면 저는 지금쯤 황야에서 비명횡사했을 거예요.",
+			null,
+			null,
+			"Thank you ...... If it wasn't for you, maybe I would have been exposed to the wilderness by now.",
+			"Thank you very much. ...... Without you, I would have died in the wilderness by now."
+		],
+		[
+			"speaker",
+			711888
+		],
+		[
+			"portraits",
+			[
+				30525,
+				1,
+				false
+			],
+			[
+				30181,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714774,
+			null,
+			"没、没什么……妈妈教导过我，要做一个好人，嘻嘻！",
+			"ど、どういたしまして……お母さんから、いい人になりなさいって教えられているからね。エヘヘ！",
+			"아, 아니에요... 엄마가 좋은 사람이 되라고 가르쳐 주셔서요. 에헤헤!",
+			null,
+			null,
+			"No, nothing ...... mom taught me to be a good person, hehehe!",
+			"Do, you're welcome. ...... My mom taught me to be a good person, you know. Ahem!"
+		],
+		[
+			"speaker",
+			205379
+		],
+		[
+			"portraits",
+			[
+				30525,
+				1,
+				true
+			],
+			[
+				30181,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			714775,
+			null,
+			"好人么……",
+			"いい人、ですか……。",
+			"좋은 사람, 이라...",
+			null,
+			null,
+			"Good people? ......",
+			"Are you a good person, or ......."
+		],
+		[
+			"msg",
+			714776,
+			null,
+			"这个世界上，好与坏是怎样，谁又能说清楚呢……",
+			"(この世界で何がよくて何が悪いかなんて、誰に分かるのでしょうか……。)",
+			"(이 세상에서 무엇이 좋고 무엇이 나쁜지, 누가 알 수 있을까요...)",
+			null,
+			null,
+			"This world, good and bad is how, who can say it clearly ......",
+			"(Who knows what is good and what is bad in this world? .......)"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30181,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			714777,
+			null,
+			"一声叹息。",
+			"ため息をついた。",
+			"한숨을 내쉬었다.",
+			null,
+			null,
+			"A sigh of relief.",
+			"I sighed."
+		],
+		[
+			"msg",
+			714778,
+			null,
+			"忽然，艾恩梅德注意到女孩亮晶晶的眼神正好奇地看着自己。",
+			"突然、アインメドは少女がキラキラした眼差しで自分を不思議そうに見ていることに気が付いた。",
+			"갑자기 아인메드는 소녀가 반짝이는 눈빛으로 자신을 의아해하며 바라보고 있음을 깨달았다.",
+			null,
+			null,
+			"Suddenly, Ehrenmed noticed the girl's bright eyes looking at him curiously.",
+			"Suddenly, Einmed noticed that the girl was looking at him curiously with sparkling eyes."
+		],
+		[
+			"msg",
+			714779,
+			null,
+			"她的双眼灵动而活跃，看起来应该颇为聪颖。",
+			"彼女の両目は生き生きとして躍動感がある。見るからに賢そうだ。",
+			"그녀의 두 눈은 생기 넘치고 활력이 가득했다. 보기만 해도 영리해 보였다.",
+			null,
+			null,
+			"Her eyes are soulful and active, and she should look quite intelligent.",
+			"Her eyes are lively and dynamic. She looks smart."
+		],
+		[
+			"msg",
+			714780,
+			null,
+			"艾恩梅德心中一动。",
+			"アインメドの心にある考えが芽生えた。",
+			"아인메드 마음속에 한 가지 생각이 피어올랐다.",
+			null,
+			null,
+			"Ayn Mede's heart fluttered.",
+			"A thought occurred to Einmed's mind."
+		],
+		[
+			"speaker",
+			205379
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30181,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714781,
+			null,
+			"孩子……你救了我，你想要什么样的回报么？",
+			"お嬢さん……私の命を助けてくれましたが、どのような見返りをお望みですか？",
+			"아가씨... 제 목숨을 구해주셨는데, 어떤 보상을 원하시나요?",
+			null,
+			null,
+			"Kid ...... you saved me, what kind of return do you want?",
+			"Miss ...... you saved my life, what would you like in return?"
+		],
+		[
+			"speaker",
+			711888
+		],
+		[
+			"portraits",
+			[
+				30525,
+				0,
+				false
+			],
+			[
+				30181,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714782,
+			null,
+			"回报？我、我不知道，只要能和妈妈有一座不大不小的房子，每个月不用为税务而发愁，除了野菜和黑面包以外，可以多吃一点肉……那我就满足了！",
+			"見返り？わ、分からないよ。お母さんと一緒にお家に住めて、毎月お金に悩まなくて良くて、お野菜や黒パン以外にちょっとお肉も食べられれば……それで満足だよ！",
+			"보상? 음, 모르겠어요. 엄마랑 같이 집에서 살 수 있고, 매달 돈 걱정 없이 지낼 수 있고, 야채나 검은 빵 말고 약간의 고기도 먹을 수 있다면... 그걸로 충분해요!",
+			null,
+			null,
+			"Payback? I, I don't know, as long as I can have a house with my mom that's not too big or small, don't have to worry about taxes every month, and can eat a little more meat in addition to wild vegetables and black bread ...... then I'll be satisfied!",
+			"Quid pro quo? Wow, I don't know. If I can live in a house with my mom, not have to worry about money every month, and eat a little meat besides vegetables and black bread,...... then I'm happy!"
+		],
+		[
+			"speaker",
+			205379
+		],
+		[
+			"portraits",
+			[
+				30525,
+				0,
+				true
+			],
+			[
+				30181,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714783,
+			null,
+			"那么……孩子，你去成为贵族吧。",
+			"では……お嬢さん、貴族になるのです。",
+			"그렇다면... 아가씨, 귀족이 되십시오.",
+			null,
+			null,
+			"So ...... kid, you go become a nobleman.",
+			"Then ...... young lady, you will be an aristocrat."
+		],
+		[
+			"speaker",
+			711888
+		],
+		[
+			"portraits",
+			[
+				30525,
+				0,
+				false
+			],
+			[
+				30181,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714784,
+			null,
+			"成为贵族，就可以有房子，不用担心税务，还能吃肉了么？",
+			"貴族になれば、お家に住めて、お金の心配がいらなくて、お肉も食べられるの？",
+			"귀족이 되면, 큰 집에서 살 수 있고, 돈 걱정 없이, 고기도 먹을 수 있는 거야?",
+			null,
+			null,
+			"By becoming a nobleman, you can have a house, not worry about taxes, and eat meat?",
+			"If you become an aristocrat, you can live in a house, you don't have to worry about money, and you can eat meat?"
+		],
+		[
+			"speaker",
+			205379
+		],
+		[
+			"portraits",
+			[
+				30525,
+				0,
+				true
+			],
+			[
+				30181,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714785,
+			null,
+			"不仅如此呢……而且还能拥有权力。",
+			"それだけではありません……さらに権力も手に入ります。",
+			"그뿐만이 아닙니다... 더 나아가 권력도 손에 넣을 수 있습니다.",
+			null,
+			null,
+			"Not only that yet ...... but you can also have power.",
+			"Not only that, ...... you get even more power."
+		],
+		[
+			"speaker",
+			711888
+		],
+		[
+			"portraits",
+			[
+				30525,
+				0,
+				false
+			],
+			[
+				30181,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714786,
+			null,
+			"权……力？那是什么？",
+			"権……力？それは何？",
+			"권...력? 그게 뭐야?",
+			null,
+			null,
+			"Right ...... power? What's that?",
+			"Rights ...... power? What is it?"
+		],
+		[
+			"speaker",
+			205379
+		],
+		[
+			"portraits",
+			[
+				30525,
+				0,
+				true
+			],
+			[
+				30181,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714787,
+			null,
+			"那是这个世界上最美妙，也最为难得的事物。",
+			"それは世界で最も素晴らしく、最も得がたいものです。",
+			"그것은 세상에서 가장 훌륭하고, 가장 얻기 어려운 것입니다.",
+			null,
+			null,
+			"That is the most wonderful and the most rare thing in this world.",
+			"It is the finest and most unearned thing in the world."
+		],
+		[
+			"msg",
+			714788,
+			null,
+			"只要有了它，你就能做到你想做的任何事情。",
+			"それさえあれば、やりたいことはなんでもできます。",
+			"그것만 있으면, 하고 싶은 건 뭐든지 할 수 있어요.",
+			null,
+			null,
+			"With it, you can do anything you want to do.",
+			"As long as you have that, you can do whatever you want."
+		],
+		[
+			"msg",
+			714789,
+			null,
+			"怎么样，孩子，你要为获得权力而努力么？",
+			"お嬢さん、どうですか？権力を手に入れるために頑張ってみませんか？",
+			"아가씨, 어떠세요? 권력을 얻기 위해 노력해 보지 않겠습니까?",
+			null,
+			null,
+			"How about it, kid, are you going to work hard to gain power?",
+			"How about you, young lady? Would you like to work hard to gain power?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30181,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714790,
+			null,
+			"艾恩梅德将手伸到了小女孩面前，静静地等待着她将自己的手放上来。",
+			"アインメドは少女の前に手を伸ばし、彼女が自分の手を重ねるのを静かに待った。",
+			"아인메드는 소녀 앞으로 손을 내밀며, 그녀가 자신의 손을 포개기를 조용히 기다렸다.",
+			null,
+			null,
+			"Ayn Mede put her hand out in front of the little girl and waited quietly for her to put her hand up.",
+			"Einmed extended his hand in front of the girl and waited quietly for her to lay hers on top of his."
+		],
+		[
+			"speaker",
+			711888
+		],
+		[
+			"portraits",
+			[
+				30525,
+				0,
+				false
+			],
+			[
+				30181,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714791,
+			null,
+			"我……",
+			"私は……。",
+			"나는.....",
+			null,
+			null,
+			"I ......",
+			"I am ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30181,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714792,
+			null,
+			"良久，小女孩的眼中闪烁着希求的光，轻轻地拉住了艾恩梅德的手。",
+			"しばらくして、少女の目の中に切望するような光が宿り、彼女はそっとアインメドの手を握った。",
+			"잠시 후, 소녀의 눈에는 갈망하는 빛이 깃들었고, 그녀는 살며시 아인메드의 손을 잡았다.",
+			null,
+			null,
+			"After a long time, the little girl's eyes shone with a pleading light, and she gently took Ayn Med's hand.",
+			"After a moment, a longing light dwelled in the girl's eyes, and she gently took Einmed's hand."
+		],
+		[
+			"msg",
+			714793,
+			null,
+			"那是欲求。",
+			"それは欲求だった。",
+			"그것은 욕망이었다.",
+			null,
+			null,
+			"That's lust.",
+			"It was desire."
+		],
+		[
+			"msg",
+			714794,
+			null,
+			"也是懵懂的野心。",
+			"ぼんやりとした野心でもあった。",
+			"희미한 야망이기도 했다.",
+			null,
+			null,
+			"It is also haphazardly ambitious.",
+			"It was also a vague ambition."
+		],
+		[
+			"msg",
+			714795,
+			null,
+			"艾恩梅德在她的耳边低吟道。",
+			"アインメドは彼女の耳元でささやいた。",
+			"아인메드가 그녀의 귀속에 속삭였다.",
+			null,
+			null,
+			"Ehrenmaid whispered in her ear.",
+			"Einmed whispered in her ear."
+		],
+		[
+			"speaker",
+			205379
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30181,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			714796,
+			null,
+			"孩子，放心吧……你所想得到的一切，都将会实现。",
+			"お嬢さん、安心してください……あなたの望むことはすべてかないますよ。",
+			"아가씨, 안심하세요... 당신이 바라는 것은 모두 이루어질 거예요.",
+			null,
+			null,
+			"Child, rest assured that ...... everything you want will come true.",
+			"Rest assured, young lady, ...... you will get everything you want."
+		],
+		[
+			"msg",
+			714797,
+			null,
+			"而且遇到了我，命运将会给你更多。",
+			"そして、私と出会ったことで、運命はあなたにもっと多くのものを与えるでしょう。",
+			"그리고, 나와 만남으로써 운명은 당신에게 더 많은 것을 줄 것입니다.",
+			null,
+			null,
+			"And having met me, fate will give you more.",
+			"And now that you have met me, fate will give you more."
+		],
+		[
+			"msg",
+			714798,
+			null,
+			"华服、美食、勋位、豪宅、他人的敬畏、强大的力量……你将从这片荒凉的原野走向世界，成为世人的焦点，并开创出一个巨大的家族。",
+			"華やかな服、ごちそう、名誉、屋敷、他人からの尊敬、強大な力……あなたはこの荒涼とした原野から世界へと羽ばたき、世界の注目の的となり、大きな一族を築くのです。",
+			"화려한 옷, 맛있는 음식, 명예, 저택, 타인의 존경, 강대한 힘... 당신은 이 황량한 들판에서 세계로 날아올라, 세계의 주목을 받으며, 큰 가문을 이룰 것입니다.",
+			null,
+			null,
+			"Fancy clothes, food, honors, mansions, the awe of others, great power ...... you will go from this wild wilderness to the world, become the focus of the world, and create a huge family.",
+			"Gorgeous clothes, feasts, honors, mansions, respect from others, and mighty power ...... you will spread your wings from this desolate wilderness to the world, become the center of the world's attention, and build a large family."
+		],
+		[
+			"speaker",
+			711888
+		],
+		[
+			"portraits",
+			[
+				30525,
+				0,
+				false
+			],
+			[
+				30181,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			714799,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			714800,
+			null,
+			"那姐姐，你想要什么呢……",
+			"じゃあ、お姉ちゃんは何を望むの……。",
+			"그럼, 언니는 무엇을 바라?",
+			null,
+			null,
+			"So sister, what do you want ......",
+			"So what do you want, sister? ......"
+		],
+		[
+			"speaker",
+			205379
+		],
+		[
+			"portraits",
+			[
+				30525,
+				0,
+				true
+			],
+			[
+				30181,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			714801,
+			null,
+			"我想要……",
+			"私が望むのは……。",
+			"내가 바라는 것은....",
+			null,
+			null,
+			"I want ......",
+			"I would like to see ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30181,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714802,
+			null,
+			"艾恩梅德稍微停顿了一下，她感到自己的胸膛中似乎有一团地狱的烈焰在燃烧。",
+			"アインメドは言葉を止めた。彼女は自分の胸の中に地獄のような炎が燃えているのを感じた。",
+			"아인메드는 말을 멈췄다. 그녀는 자신의 가슴 속에 지옥 같은 불길이 타오르는 것을 느꼈다.",
+			null,
+			null,
+			"Ayn Mede paused slightly as she felt what seemed to be an inferno of fire burning in her chest.",
+			"Einmed stopped speaking. She felt a hellish fire burning in her chest."
+		],
+		[
+			"msg",
+			714803,
+			null,
+			"她的脑海中出现了许多人的模样，他们有的想要杀死自己，有的被自己杀死，有的骤入高位，有的落入低谷。",
+			"彼女の頭の中に大勢の人の姿が浮かんだ。その中には、自分を殺そうとした者、自分に殺された者、高い地位に就いた者、没落した者などがいた。",
+			"그녀의 머릿속에 많은 사람들의 모습이 떠올랐다. 그 중에는 자신을 죽이려 했던 자, 자신이 죽인 자, 높은 지위에 오른 자, 몰락한 자 등이 있었다.",
+			null,
+			null,
+			"Many people appeared in her mind, some of them tried to kill themselves, some were killed by themselves, some plunged into high places, some fell into low places.",
+			"The images of many people came to her mind. Among them were those who had tried to kill her, those who had been killed by her, those who had attained high positions, and those who had fallen."
+		],
+		[
+			"msg",
+			714804,
+			null,
+			"而最终，这一张张脸庞都重合到了一起，变成了一个人的模样。",
+			"そして最後に、それらの顔が重なり合い、一人の姿になった。",
+			"그리고 마지막으로, 그 얼굴들이 겹쳐지며 한 사람의 모습이 되었다.",
+			null,
+			null,
+			"And eventually, the faces all reunited to take the form of a single person.",
+			"Finally, those faces overlapped to form a single figure."
+		],
+		[
+			"msg",
+			714805,
+			null,
+			"——那便是，奥托。",
+			"——それはオットーだった。",
+			"——그건 오토였다.",
+			null,
+			null,
+			"--That is, Otto.",
+			"-it was Otto."
+		],
+		[
+			"msg",
+			714806,
+			null,
+			"于是，艾恩梅德轻轻地对小女孩说道。",
+			"そして、アインメドは少女に小さな声で言った。",
+			"그리고 아인메드는 소녀에게 작은 목소리로 말했다.",
+			null,
+			null,
+			"So, Ayn Med gently said to the little girl.",
+			"Then Einmed said in a small voice to the girl."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			205379
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30181,
+				3,
+				false
+			],
+			[
+				30181,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			714807,
+			null,
+			"……复仇。",
+			"……復讐です。",
+			"……복수입니다.",
+			null,
+			null,
+			"...... revenge.",
+			"...... revenge."
+		]
+	]
+}

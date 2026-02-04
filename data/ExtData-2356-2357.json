@@ -1,0 +1,192 @@
+{
+	"2356": [
+		[
+			"speaker",
+			204589
+		],
+		[
+			"portraits",
+			[
+				924,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			441798,
+			"Tira... TIra... TIra... SCR5001 Si/FL...System loading...ELLA is Started!",
+			"呲啦·····呲啦·····编号SCR5001 Si/FL…系统载入中…ELLA···启动完毕！",
+			"ピーガー……ピーガー……コードSCR5001 Si/FL…システムロード中…ELLA…起動完了！",
+			"피거... 피거... 코드 SCR5001 Si/FL... 시스템 로드 중... ELLA... 기동 완료!",
+			null
+		],
+		[
+			"msg",
+			441799,
+			"After the identification of the target security level is completed, open the permission of the highest level and switch to the personality system.",
+			"识别目标安全等级完毕，开放最高等级权限，切换至人格系统。",
+			"目標セキュリティレベルの識別完了。最高レベルの権限を解放、人格システムに切り替えます。",
+			"목표 보안 레벨 식별 완료. 최고 레벨 권한 해제, 인격 시스템으로 전환합니다.",
+			null
+		],
+		[
+			"msg",
+			441800,
+			"Distinguished guest, please tell me what you come for.",
+			"尊贵的客人，请告诉我您的来意。",
+			"ようこそいらっしゃいました。どのような御用でしょうか？",
+			"어서 오세요. 무슨 일로 오셨나요?",
+			null
+		],
+		[
+			"msg",
+			441801,
+			"Character Voting......? Please wait a moment, the words are being resolved.",
+			"自机票选........？请稍等，词汇正在解析中。",
+			"マイキャラ投票……？お待ちください。語彙の解析中です。",
+			"마이캐 투표...? 잠시만요. 어휘 분석 중입니다.",
+			null
+		],
+		[
+			"msg",
+			441802,
+			"......",
+			"......",
+			"......",
+			"......",
+			null
+		],
+		[
+			"msg",
+			441803,
+			"...",
+			"...",
+			"...",
+			"...",
+			null
+		],
+		[
+			"msg",
+			441804,
+			"The parsing is complete and the terminal understands the meaning, but it still needs final confirmation based on the calculus you need.",
+			"解析完毕，终端已理解含义，但基于您所需要的演算，仍需要进行最终确认。",
+			"解析完了、端末は含意を理解しました。しかし、あなたが必要とする演算には最終確認が必要です。",
+			"해석 완료, 단말은 함의를 이해했습니다. 그러나 당신이 필요로 하는 연산에는 최종 확인이 필요합니다.",
+			null
+		],
+		[
+			"msg",
+			441805,
+			"Do you include Ella among the 5 objects you have selected from the ticket?",
+			"请问您所描述自机票选的5名对象中，是否包含艾拉？",
+			"あなたの述べたマイキャラ投票の5名の対象の中にELLAも含まれているのでしょうか？",
+			"당신이 언급한 마이캐릭터 투표의 5명 대상 중 ELLA도 포함되어 있나요?",
+			null
+		],
+		[
+			"msg",
+			441806,
+			"...",
+			"...",
+			"…",
+			"…",
+			null
+		],
+		[
+			"msg",
+			441807,
+			"I understand. If this is what you expect from the terminal, I will fully cooperate.",
+			"明白，如果这是您对终端的期望，我会全力配合。",
+			"承知しました。それが本端末に望むことなのでしたら、全力で協力いたします。",
+			"알겠습니다. 그것이 본 단말에 바라는 것이라면, 전력으로 협력하겠습니다.",
+			null
+		],
+		[
+			"msg",
+			441808,
+			"In addition, about what you asked About Ella's feelings.",
+			"此外，关于您所询问艾拉的感受。",
+			"また、お尋ねになられたELLAの実感についてお答えします。",
+			"또한, 질문하신 ELLA의 실감(實感)에 대해 답변드립니다.",
+			null
+		],
+		[
+			"msg",
+			441809,
+			"Although Ella is a self-regulating terminal AI with a certain personality, she is unable to empathize with human feelings due to the different nature of her life form.",
+			"艾拉虽然为自律型终端AI，具有一定的人格，但因生命形态的本质不同，无法对人类的感情感同身受。",
+			"ELLAは自律型端末AIとして、一定の人格を備えています。しかしながら、生命形態の本質が異なっているため、人類の感情を自分のものとして感じることはできません。",
+			"ELLA는 자율형 단말기 AI로서, 일정한 인격을 갖추고 있습니다. 그러나 생명 형태의 본질이 다르기 때문에, 인류의 감정을 자신의 것으로 느낄 수는 없습니다.",
+			null
+		],
+		[
+			"msg",
+			441810,
+			"But......",
+			"不过......",
+			"ただ……",
+			"다만……",
+			null
+		],
+		[
+			"msg",
+			441811,
+			"My calculations seemed to work better knowing that I was supported by such a large number of humans.The burden of gravity on sensory functions is also slightly reduced.",
+			"在得知被如此数量的人类支持着的时候，我的运算似乎运作的更为顺畅，万有引力对于感官机能造成的负担也有轻微减少。",
+			"これほど多くの人類に応援されると分かり、私の演算もよりスムーズに機能するようになったようです。感覚器官の機能に与える万有引力の負担もやや減少されました。",
+			"이렇게 많은 인류의 응원을 받는다는 것을 알게 되니, 제 연산도 더욱글하게 기능하는 것 같습니다. 감각 기관의 기능에 미치는 만유인력의 부담도 다소 감소되었습니다.",
+			null
+		],
+		[
+			"msg",
+			441812,
+			"Beyond that, I can't really describe the other changes. But for the most part, what I've been experiencing, I've been analogizing.",
+			"除此之外，我实在难以描述其他的变化。但大致来说，我所感受到的这些，经过数据类比得出结论。",
+			"それだけではないのですが、他の変化をどうしても描写できません。ですが、私が感じているこれらのものは、データの類比から大まかな結論が導き出せます。",
+			"그뿐만이 아닌데, 다른 변화를 도저히 묘사할 수 없습니다. 하지만 제가 느끼고 있는 이러한 것들은 데이터의 유비로부터 대략적인 결론을 이끌어낼 수 있습니다.",
+			null
+		],
+		[
+			"msg",
+			441813,
+			"It should be infinitely similar to what humans experience as \"happy\".",
+			"应该无限近似人类所感受“快乐”的情况。",
+			"きっと人類が「喜び」を感じる状況に限りなく近いはずです。",
+			"분명 인류가 「기쁨」을 느끼는 상황에 한없이 가까울 것입니다.",
+			null
+		],
+		[
+			"msg",
+			441814,
+			"So, ready to import the vote data, variables in........",
+			"那么，准备导入票选数据，变量引入中........",
+			"それでは、投票データのインポートを準備します。変数をインポート中……",
+			"자, 투표 데이터 가져오기를 준비합니다. 변수를 가져오는 중……",
+			null
+		],
+		[
+			"msg",
+			441815,
+			"Import finished, data analysis finished.",
+			"导入完毕，数据解析完毕。",
+			"インポート完了。データ解析が完了しました。",
+			"가져오기 완료. 데이터 분석이 완료되었습니다.",
+			null
+		],
+		[
+			"msg",
+			441816,
+			"For Ella, the probability of winning in this self-selected ticket is——",
+			"对象艾拉，在本次自机票选中胜出的概率是——",
+			"対象ELLAが今回のマイキャラ投票で勝利する確率は——",
+			"대상 ELLA가 이번 마이캐릭터 투표에서 승리할 확률은——",
+			null
+		]
+	]
+}

@@ -1,0 +1,5462 @@
+{
+	"110": [
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252289,
+			"Everyone, you have been in St. Freya HS for a while. After all the training and missions, you should have become familiar with the battle of Valkyria.",
+			"各位，你们来到圣芙蕾雅学园已经有一段时间了，在经过不断的训练和任务的磨练，你们应该也已经渐渐地熟悉了女武神的战斗了。",
+			"みんな、聖フレイヤ学園に来てだいぶ経つけど、どう？今までの訓練と任務で、戦乙女の戦い方がだんだんわかってきたんじゃない？",
+			"여러분, 세인트 프레야 학원에 온 지 꽤 됐는데 어때? 지금까지의 훈련과 임무로 발키리의 싸움 방식이 점점 이해되기 시작했지?",
+			"It's been a while since you all came to St. Freyja Academy, how is it going? With all the training and missions you've done so far, you're starting to understand how a Valkyrie fights, right?",
+			null,
+			"Gentlemen, you've been here at St. Freya High School for some time now, and you should have gradually familiarized yourselves with Valkyrie combat after the constant training and quests you've been put through.",
+			"How is everyone doing at St. Freya High School now that you've been here for quite some time? With all the training and missions you've been through, you're starting to understand how to fight as a warrior maiden, aren't you?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252290,
+			"Thanks to Captain Himeko’s teaching, we have grown very fast.",
+			"多亏了姬子队长的教导，我们才能成长的这么快。",
+			"はい、少しずつですが感覚を掴めてきました。こんなに早く成長できたのも姫子先生のご指導のおかげです。",
+			"네, 조금씩이지만 감각을 잡아가고 있어요. 이렇게 빨리 성장할 수 있었던 건 히메코 선생님의 지도 덕분입니다.",
+			"Yes, little by little, I'm getting the hang of it. It's thanks to Himeko-sensei's guidance that I was able to improve so quickly.",
+			null,
+			"Thanks to Captain Himeko's teachings, we've grown up so fast.",
+			"Yes, I am gradually getting a feel for it. It is thanks to Himeko-sensei's guidance that I was able to grow so quickly."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252291,
+			"Haha~ For the chosen one, Kyushou-sama, this trial is nothing~",
+			"哼哼~对于天选之人九霄大人来说这种考验简直不值一提~",
+			"フフン♪選ばれし者である九霄様にとって、この程度の試練はものの数にも入らん。",
+			"훗♪ 선택받은 자인 큐쇼 님께선 이런 정도의 시험은 애들 장난도 아니지.",
+			"Hmhm♪ For the chosen one, Kyuushou-sama, a trial of this magnitude is nothing.",
+			null,
+			"Hmph~ To the Chosen One, Lord Kyuushou, this kind of test is nothing to write home about~",
+			"For the chosen one, Kyuso-sama, this level of ordeal is nothing."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252292,
+			"I am a formal Valkyrie already! Why do I still have to go through all these trainings! Training everyday, I’m suffocating!",
+			"为什么我一个堂堂的正统女武神还要接受这么多新手教学啊！每天都是训练训练的，这是要憋死我么！",
+			"……なんで元々戦乙女である私まで、こんな新兵みたいな訓練を受けなきゃならないのよ！毎日、訓練訓練って退屈でしょうがないわ！",
+			"......왜 원래 발키리인 내가 이런 신병 같은 훈련을 받아야 하는 거야! 매일 훈련 훈련이라니 지루해서 죽겠어!",
+			"…Why do I, an official Valkyrie, have to go through this training like some kind of recruit?! Training, training, training <i>every day</i> is so boring!",
+			null,
+			"Why do I, a proper Valkyrie, have to undergo so much novice instruction? Every day is training training training, is this going to suffocate me!",
+			"...... Why do I, a former war maiden, have to go through this kind of training like a new recruit? I'm bored every day with the training exercises!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252293,
+			"Kiana, this training consists of mostly team operations. Your individual abilities are great, but you still need to improve on teamwork.",
+			"琪亚娜，这次的训练大多都是团队行动，虽然你的个人能力很出众，但是在团队合作上面还需要更多的提高。",
+			"はぁ……いい？これまで行ってきた訓練のほとんどはチームワークを向上させるものなの。キアナ個人の能力がズバ抜けていても、チームで協力することを覚えないとこの前みたいに苦戦するわよ。",
+			"하아...... 알겠어? 지금까지 해온 훈련 대부분은 팀워크를 향상시키기 위한 거야. 키아나 개인의 능력이 뛰어나더라도 팀으로 협력하는 법을 배우지 않으면 이전처럼 고전할 거야.",
+			"<i>Sigh...</i> Listen, okay? Most of the training we've done so far has been to improve teamwork. Even if you're an exceptional individual, you'll still struggle like before if you don't learn to work together as a team.",
+			null,
+			"Kiana, most of the training this time is teamwork, and although your individual abilities are outstanding, you need to improve more on teamwork.",
+			"Huh ...... ok? Most of the training we've been doing is to improve teamwork. Even if Kiana's individual abilities are off the charts, if she doesn't learn to work as a team, she'll struggle like she did the last time."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252294,
+			"You're right! But could you please get rid of this delusional one! How can someone like this become a Valkyrie!",
+			"你说的对！但是能不能麻烦把这个挑染呆毛中二病给去掉！为什么这样的人也能成为女武神啊！",
+			"ぐっ、その通りだけど！でもさ、このアホ毛ハイライトの中二病は追い出してくれない？どうして、こんな奴まで戦乙女を目指せるのよ！",
+			"윽, 그렇긴 하지만! 하지만 이 바보 머리카락 하이라이트 중2병은 쫓아내줄 수 없어? 왜 이런 녀석까지 발키리를 목표로 할 수 있는 거야!",
+			"Grk, I guess that's true! But can't you just get rid of this chuunibyou with this clip-on ahoge? How can someone like this even aim to be a Valkyrie?!",
+			null,
+			"You're right! But could you please get rid of this pick and dye dorky hair middle child! Why can someone like that be a Valkyrie?",
+			"Ggh, you're right, though! But hey, can't you get rid of this douche-hair highlighted midget? How can even this guy aspire to be a war maiden?"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252295,
+			"Kyushou had been through the 3rd Houkai, and she survived through the high-concentration Houkai in Nagazora. That’s enough proof for her Valkyrie adaptability.",
+			"九霄经历了第三次崩坏，能够从长空市高浓度的崩坏中生存下来就足够证明她女武神的适应性了。",
+			"九霄は、第三次崩壊で長空市を覆った濃い崩壊の中でも生き延びられた。戦乙女としての適性は充分に証明されているわ。",
+			"큐쇼는 제3차 붕괴에서 창궁시를 덮친 강력한 붕괴 속에서도 살아남았어. 발키리로서의 적성은 충분히 입증된 거야.",
+			"Kyuushou was able to survive the high Honkai concentration that covered Nagazora City during the Third Eruption. This proves her suitability to be a Valkyrie.",
+			null,
+			"Honkai had experienced the Third Avalanche, and being able to survive the high concentration of Avalanche in Long Hollow City was proof enough of her Valkyrie's adaptability.",
+			"Kyuushou was able to survive the thick Honkai that covered the city of Changkuo during the Third Honkai. Her aptitude as a war maiden has been amply proven."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252296,
+			"That is the power of Kyushou-sama, I have inherited power from ancient times, and fighting evil is my destiny~",
+			"这就是九霄大人的实力，从上古传承下来的力量已经注定了我将与罪恶战斗的宿命了~",
+			"これが九霄様の実力よ！ふふんっ、古より受け継がれた力は、悪と戦うべく定められた宿命だったのだ！！",
+			"이것이 큐쇼님의 실력이야! 후흥, 옛날부터 이어받은 힘은 악과 싸우기 위해 정해진 숙명이었던 거다!!",
+			"This is the true power of Kyuushou-sama! Hmhm, my power was inherited from ancient times in order to fulfill my destiny of fighting evil!!",
+			null,
+			"This is the strength of Lord Kyuushou, the power that has been passed down from the ancient times has already doomed me to a destiny where I will be fighting sin~",
+			"This is the power of Kurosawa-sama! The power passed down from the ancient times was destined to fight evil!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252297,
+			"Tsk! Shut it! If you talk about power, Mei is the best because she is a Herrscher! You should just stay away!",
+			"啧！少得意！论到实力身为律者的芽衣学姐才最有发言权！你这种神棍选手还是洗洗睡吧！",
+			"フン、いい気にならないの！実力なら、律者である芽衣先輩の方が断然上なんだから！エセ霊能者みたいなヤツは黙ってなさい！",
+			"흥, 잘난 척하지 마! 실력이라면 율자인 메이 선배가 훨씬 위다구! 가짜 영능자 같은 녀석은 입 다물고 있어!",
+			"Hmph, don't kid yourself! In terms of ability, Mei-senpai, a literal Herrscher, is far superior! So shut it, you fake psychic!",
+			null,
+			"Tsk! Don't be so proud! When it comes to strength, Herrscher Mei has the most to say! You're just a good idea to go to sleep!",
+			"Don't get carried away! Herrscher is definitely a better psychic than you! Shut up, you fake psychic!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252298,
+			"A Herrscher, am I really qualified to be a Valkyrie...",
+			"律者么，我真的有资格成为女武神么……",
+			"……律者、私は本当に戦乙女になる資格があるのかしら……。",
+			"......율자, 나 정말 발키리가 될 자격이 있을까......",
+			"...As a Herrscher, am I really qualified to be a Valkyrie...?",
+			null,
+			"Herrscher? Do I really qualify as a Valkyrie? ......",
+			"...... Herrscher, I wonder if I am really qualified to be a War Maiden. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252299,
+			"Ah! Um... Sorry, Senior Mei, I don’t mean it…",
+			"啊！那个…抱歉芽衣学姐，我没有那个意思……",
+			"はっ！いやその……芽衣先輩ごめんなさい、そういうつもりで言ったんじゃ……。",
+			"앗! 아니 그... 메이 선배 미안, 그런 뜻으로 말한 건 아닌데......",
+			"Ah! Um... sorry, Mei-Senpai, I didn't mean it that way...",
+			null,
+			"Ah! That...I'm sorry Mei-san, I didn't mean it like that ......",
+			"Ha! No, that ...... Mei senpai sorry, I didn't mean it that way ......."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252300,
+			"Mei, don’t worry. The Principal had kept you in St. Freya HS, that means you are the same as all students here, you are one of us.",
+			"芽衣，你不用担心，学园长既然把你留在了圣芙蕾雅学园，就表示你和这里的学员一样，都是我们的同伴。",
+			"芽衣、心配いらないわ。学園長があなたを聖フレイヤ学園に残したということは、ここの生徒たちと同じ私たちの仲間という意味よ。安心なさい。",
+			"메이, 걱정하지 마. 학원장이 너를 세인트 프레야 학원에 남겼다는 건, 여기 학생들과 같은 우리의 동료라는 뜻이야. 안심해.",
+			"There's no need to worry, Mei. The fact that the principal let you stay at St. Freyja Academy means you're one of us, just like all the students here. Don't worry.",
+			null,
+			"Mei, you don't have to worry, since the Headmaster left you at St. Freya High School, it means that you're as much our companion as the students here.",
+			"Mei, don't worry. The fact that the headmaster left you at St. Freya High School means that you are one of us, just like the students here. Don't worry."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252301,
+			"Yeah… Thank you, Ms. Himeko.",
+			"嗯…谢谢你，姬子老师。",
+			"ええ……ありがとうございます、姫子先生。",
+			"네... 감사합니다, 히메코 선생님.",
+			"Alright... Thank you, Himeko-sensei.",
+			null,
+			"Well...thank you, Himeko-sensei.",
+			"Yes, ...... Thank you, Dr. Himeko."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252302,
+			"Alright, I will talk about the training today.",
+			"好了，那我来讲下今天的训练的内容吧。",
+			"よし！じゃあ、今日の訓練内容を説明するわ。",
+			"좋아! 그럼 오늘의 훈련 내용을 설명할게.",
+			"Okay! Then let me explain today's training.",
+			null,
+			"Okay, so let me tell you about today's training.",
+			"All right! Okay, let me explain today's training."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252303,
+			"Uh! So we are still training after all!",
+			"呃！搞了半天还是要训练么！",
+			"ええ～！さんざんやって、また訓練なの～！？",
+			"에에~! 벌써 지칠 대로 지쳤는데, 또 훈련이야~!?",
+			"Huhhh~?! After all that training, we have to do it againnn~?!",
+			null,
+			"Uh-huh! Is it still training after all this time!",
+			"What? After all we've done, we're going to train again!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252304,
+			"Yeah, the training today will be different. We will have it in this cathedral.",
+			"嗯，今天的训练与往日的不同，将在这个大教堂中进行。",
+			"いいから、聞きなさい。今日の訓練はこれまでとは違うわよ。この大聖堂の中でやるの。",
+			"됐고, 잘 들어. 오늘 훈련은 지금까지와는 달라. 이 대성당 안에서 하는 거야.",
+			"Just listen. Today's training will be different. It will be inside the Cathedral.",
+			null,
+			"Well, today's training will be different from the usual and will take place in this cathedral.",
+			"Just listen to me. Today's training will be different. We're going to do it right here in the cathedral."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252305,
+			"Is it another Lost Maiden trick from Theresa?",
+			"难道又是德丽莎热衷的那个假扮柔弱迷路修女的套路么？",
+			"まさか……また、あのテレサお得意の迷子の修道女じゃないでしょうね！？",
+			"설마…… 또, 그 테레사 선배 특기인 길 잃은 수녀 놀이는 아니겠지!?",
+			"No way... Another one of Theresa's \"posing as a lost nun\" tricks again?!",
+			null,
+			"Is this another one of those posing-as-a-soft-lost-nun routines that Theresa is so keen on?",
+			"I don't think ...... is that Theresa's favorite lost nun again!"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252306,
+			"Eh! We already experienced it on the ship! The same trick will not work twice on a Savior like me!",
+			"诶！之前我们在飞船上已经体验过了一次了！同样的招式对救世主是不会起作用的！",
+			"ええー！こないだ戦艦でも同じことやったのに！救世主に同じ技は通用しないぞ！",
+			"에에에! 지난번에 전함에서도 똑같은 거 했잖아! 구세주에게 같은 기술은 통하지 않는다고!",
+			"Ahhh! She did the same thing on the battleship the other day! The same technique won't work on the Savior!",
+			null,
+			"Eh! We've already experienced this once before on the airship! The same move won't work on the Savior!",
+			"Ew! I did the same thing on a battleship the other day! The same technique won't work on the Saviors!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252307,
+			"Don’t worry, Theresa is not in the Far East at the moment. You will find out more after you enter the cathedral.",
+			"放心吧，德丽莎大人现在不在极东，等你们进入大教堂后就知道了。",
+			"ああ、大丈夫。テレサ先輩は極東にいないから。大聖堂に入ったら分かるわよ。",
+			"아아, 괜찮아. 테레사 선배는 극동에 없으니까. 대성당에 들어가면 알 거야.",
+			"Oh, it's okay. Lady Theresa isn't in the Far East right now. You'll understand once you enter the Cathedral.",
+			null,
+			"Don't worry, Lord Theresa is not in the Far East at the moment, as you will see when you enter the Cathedral.",
+			"Oh, it's okay. Theresa senior is not in the Far East. You'll find out when you get into the cathedral."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252308,
+			"So mysterious... Fine, I’m a regular visitor of the cathedral, that challenge is nothing for me. You better approve our leaves after it’s all over~",
+			"神神秘秘的…好吧，我也算是大教堂的常客了，那种挑战轻轻松松就能搞定了，要是结束了你可要批准我们的假期哦~",
+			"あくまで詳細は秘密ってわけね……いいわ、私だって大聖堂の常連だし、こんな訓練楽勝よ。終わったら、今度こそ休みをちょうだいよね。",
+			"어디까지나 자세한 건 비밀이라는 거네…… 좋아, 나도 대성당 단골이니, 이런 훈련 식은 죽 먹기야. 끝나면, 이번엔 진짜로 휴가 줘.",
+			"So the details are a secret... That's fine, I'm a regular at the Cathedral too, so this kind of training will be a piece of cake. Once it's over, I'll finally get some rest.",
+			null,
+			"Mysterious...well, I'm kind of a regular at the cathedral, that kind of challenge is a breeze, and if it's over you'll have to authorize our vacation~",
+			"So the details are a secret. ...... Okay, I'm a regular at the Cathedral, too, and this training is a piece of cake. When you're done, you can give me a break this time."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252309,
+			"Alright~ But you have to clear it first.",
+			"好吧~那也得等你们通过了再说。",
+			"いいわ、合格できたら考えましょう。",
+			"좋아, 합격하면 생각해 볼게.",
+			"Well, how about you think about that once you pass.",
+			null,
+			"Well~ that will have to wait until you guys are through.",
+			"Okay, we'll think about it when we pass."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252310,
+			"Hm~ Let’s go!",
+			"哼~我们走！",
+			"よしっ、行くわよ！",
+			"좋아, 간다!",
+			"Okay, let's go!",
+			null,
+			"Let's go!",
+			"Okay, here we go!"
+		]
+	],
+	"111": [
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252311,
+			"Oh, oh, oh, OH!!!! This is a place worthy for a Savior! I can feel the summon of the Gods in this holy church! Kiana! Let's go! There must be a huge secret hidden inside!",
+			"噢噢噢噢！！！！这才是符合救世主身份的地方！从这神圣的教堂中我感受到了来自在众神的召唤！琪亚娜！我们快走！里面一定隐藏着巨大的秘密！",
+			"ほおおおぉ！！！こここそ、まさに救世主にふさわしい場所！神々がこの大聖堂の奥へと導く声が聞こえる。キアナ、早く行こ！きっと、この中には古の謎が秘められてる！",
+			"호오오오!!! 여기가 바로 구세주에게 어울리는 장소! 신들이 이 대성당 깊은 곳으로 이끄는 목소리가 들려. 키아나, 빨리 가자! 분명, 이 안에는 고대의 비밀이 숨겨져 있을 거야!",
+			"Ohhhhh!!! This is truly a place fit for the Savior! I hear the voices of the gods guiding me deeper into this cathedral. Kiana, let's hurry! There must be an ancient mystery hidden within!",
+			null,
+			"Oooooooooooh ！！！！ This is what befits a savior! From this sacred church I feel the call from the gods! Kiana! Let's get out of here! There must be a great secret hidden inside!",
+			"Ho oh! This is exactly the right place for a savior! I can hear the gods leading us deeper into this cathedral. Kiana, go quickly! Surely there are ancient mysteries hidden within!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252312,
+			"It's a magnificent place indeed~",
+			"的确是个气派的地方呢~",
+			"確かに……本当に神様がいてもおかしくなさそうな場所ね。",
+			"확실히…… 정말 신님이 계셔도 이상하지 않을 만한 곳이네.",
+			"It certainly wouldn't be strange if a god really existed in this grand place.",
+			null,
+			"It's really a grand place, isn't it?",
+			"It sure looks like ...... could really be a place where God could be."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252313,
+			"Well, Kyushou, stop imagining weird things. Do not be deceived by the looks here, this is a place for Valkyrie trial, and I had a lot of painful memories here...",
+			"好啦，九霄你不要擅自妄想一些奇怪的东西了，千万不要被这里的外表欺骗了，这里是考核女武神的地方，我在这里可是留下了很多痛苦的回忆……",
+			"はいはい、九霄は妙な妄想を広げないの。それと外観に騙されないようにね。ここは戦乙女を試す場所なの。私は何度ここで苦汁を舐めさせられたことか……。",
+			"알았어 알았어, 큐쇼는 이상한 망상은 그만 퍼뜨리고. 그리고 외관에 속지 않도록 해. 여기는 전투처녀를 시험하는 장소야. 나도 여기서 몇 번이나 쓴 맛을 봤는지…….",
+			"Yeah, yeah, Kyuushou, don't let your delusions trick you. And don't be fooled by appearances. This is a place to test Valkyries. I've had so many bitter experiences here...",
+			null,
+			"Well, Kyuushou you do not take the liberty to think of something strange, do not be deceived by the appearance of this place, this is the place where the test of the Valkyries is conducted, I have left a lot of painful memories here ......",
+			"Yes, yes, Kyuushou does not spread strange fantasies. And don't be fooled by the appearance. This is a place to test the war maidens. I can't tell you how many times I've been made to lick the bitter pillows here. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252314,
+			"Is it so dangerous in here?",
+			"这里面这么危险的么？",
+			"この中、そんなに危険なの？",
+			"이 안에 그렇게 위험한 거야?",
+			"Is it really that dangerous in there?",
+			null,
+			"Is it that dangerous in here?",
+			"Is it really that dangerous in here?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252315,
+			"Well… When Theresa was around, she screwed me badly. I don’t know what new tricks she has this time, but don’t worry. I know this place well, so just follow me and you will be fine~",
+			"嘛…之前德丽莎在的时候可是把我给坑惨了，这次不知道又会有什么新套路，不过你们放心，这里我琪亚娜再熟悉不过了，只要跟着我就不会有危险啦~",
+			"まあ……前にテレサに騙されてね……今度はどんな罠をしかけてくることやら。でも安心して、ここのことは熟知してるから。私についてくれば何も危険はないわよ！",
+			"뭐... 전에 테레사에게 속아서 말이지... 이번엔 또 어떤 함정을 놓을지. 하지만 안심해, 여긴 내가 잘 알고 있으니까. 날 따라오면 아무런 위험도 없어!",
+			"Well... Theresa did trick me last time... I wonder what kind of trap she set for me this time. But don't worry, I know this place inside and out. If you follow me, you won't be in any danger!",
+			null,
+			"Well... Theresa had me in trouble when she was here, so I don't know what new tricks she's going to come up with this time, but don't worry, I'm more than familiar with this place, Kiana, so as long as you follow me, you won't be in any danger~!",
+			"Well, Theresa fooled me before ...... I wonder what kind of trap she's going to play on me this time. But don't worry, I know this place well. Follow me and you won't be in any danger!"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252316,
+			"Kiana, it’s good to be confident, but if you are too confident, you will stumble~",
+			"琪亚娜，自信是好事，可是太过自信可是要被自己绊倒的哦~",
+			"……キアナ、自信を持つのはいいことだけど、度が過ぎると足元をすくわれるわよ。",
+			"......키아나, 자신감을 가지는 건 좋지만 지나치면 발 밑을 잡히는 법이야.",
+			"...Kiana, it's good to have confidence, but too much of it can trip you up.",
+			null,
+			"Kiana, it's good to be confident, but if you're too confident, you'll trip over yourself!",
+			"...... Kiana, it's good to be confident, but too much and you'll lose your footing."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252317,
+			"Um… This voice! Mom!",
+			"呃……这个声音是！老妈！",
+			"え……この声は……ママ！？",
+			"엣... 이 목소리는... 엄마!?",
+			"Ah... this voice is... Mom?!",
+			null,
+			"Uh ...... the voice is! Mom!",
+			"Eh ...... this voice is ...... mama!"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252318,
+			"Mom? Kiana, you have a mom!? That’s not what the prophecy told me!",
+			"老妈？琪亚娜你居然有妈妈么！？这和预言书记录的内容不相符啊！",
+			"ママ？えっ、キアナにお母さんがいたの！？それじゃあ、予言書に書かれていた内容と違う……。",
+			"엄마? 어, 키아나에게 어머니가 있었어!? 그럼 예언서에 쓰여있던 내용과 다른데......",
+			"Mom? What? So you have a mother, Kiana?! That goes against what was written in the prophecy... (TN: Obligatory Reverse:1999 reference here.)",
+			null,
+			"Mom? Kiana, do you have a mom? This doesn't match what the prophecy book recorded!",
+			"Mom? What, Kiana had a mom! Well then, that's not what the prophecy book said. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252319,
+			"What do you mean! I will hit you, for real!",
+			"你这什么意思！小心我真的打你哦！",
+			"どういう意味よ、本気でどつくわよ！",
+			"무슨 뜻이야, 진짜로 때릴 거야!",
+			"The heck are you <i>talking</i> about? I'm gonna punch you!",
+			null,
+			"What do you mean? Be careful I'll really hit you!",
+			"What do you mean, I'm going to seriously scare you!"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252320,
+			"Hello~ I am Cecilia, the Principal of St. Freya HS, and mother of Kiana. Thank you for taking care of my stupid daughter.",
+			"你们好~我叫塞西莉亚，是圣芙蕾雅学园的学园长，也是琪亚娜的妈妈，感谢你们一直照顾我家的笨女儿。",
+			"どうも皆さん。聖フレイヤ学園の学園長、セシリアよ。キアナの母親でもあるけど。いつもうちのバカ娘がお世話になってるわね。",
+			"안녕하세요 여러분. 세인트 프레야 학원의 학원장, 세실리아야. 키아나의 어머니이기도 하지. 항상 우리 바보 딸이 신세 지고 있네.",
+			"Hello, everyone. I'm Cecilia Schariac, principal of St. Freyja Academy. I'm also Kiana's mother. Thank you for taking care of my idiot daughter.",
+			null,
+			"Hello guys~ My name is Cecilia, I'm the Headmaster of St. Freya High School and Kiana's mom, thank you for always taking care of my family's stupid daughter.",
+			"Hello everyone. I'm Cecilia, headmistress of St. Freya High School. I'm also Kiana's mother. My daughter is always taking care of you."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252321,
+			"Mom! You just said I’m stupid in front of others, again!",
+			"老妈！你又在别人面前说我笨了！",
+			"ママ！また人前でバカ娘って！",
+			"엄마! 또 사람들 앞에서 바보 딸이라니!",
+			"Mom! You're calling me an idiot in public again!",
+			null,
+			"Mom! You're calling me stupid in front of the others again!",
+			"Mom! Calling me a stupid girl in public again!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252322,
+			"*Laughs*~",
+			"噗~",
+			"くすっ……。",
+			"푸핫......",
+			"Pfft...",
+			null,
+			"Psst~",
+			"Dusk. ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252323,
+			"Mei… Why are you laughing, Senior Mei!",
+			"芽…芽衣学姐你笑什么啦！",
+			"め……芽衣先輩、何笑ってるの！",
+			"어... 메이 선배, 왜 웃는 거야!",
+			"M-...Mei-senpai, what're you laughing at?!",
+			null,
+			"Mei...Mei-senpai what are you laughing at!",
+			"Mei...... Mei senpai, what are you smiling at?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252324,
+			"Nothing, I just don’t often see Kiana like this.",
+			"没什么，只是难得看见琪亚娜撒娇的样子呢。",
+			"何でも。ただキアナちゃんの雰囲気がいつもと違って、珍しいなと思って。",
+			"뭐든. 그냥 키아나 쨩 분위기가 평소랑 달라서, 흔치 않다 싶어서.",
+			"Nothing. It's just rare to see you acting cute, Kiana-chan.",
+			null,
+			"Nothing, it's just that it's rare to see Kiana pouting.",
+			"Anything. I just thought Kiana's mood was different and unusual."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252325,
+			"Pr… Principal… So Kiana is from a noble family…",
+			"学…学园长…这么说琪亚娜居然还是名门之后么……",
+			"が……学園長……ということは、キアナはやっぱり名門の出ってこと……。",
+			"그... 학원장... 이라는 건, 키아나는 역시 명문 집안 출신이란 거...",
+			"She... She's the principal... So Kiana comes from a prestigious family after all...",
+			null,
+			"Hok...school director...so Kiana is actually still a descendant of a famous family? ......",
+			"is the ...... headmaster of the school ......, which means that Kiana is from a prestigious family after all ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252326,
+			"Hm? Kyushou, what are you muttering about?",
+			"嗯？九霄你在嘀咕什么呢？",
+			"ん？九霄は何ぶつぶつ言ってんの？",
+			"음? 큐쇼 뭐라고 중얼중얼하는 거야?",
+			"Hmm? Kyuushou, what are you muttering about?",
+			null,
+			"Hmm? What are you muttering about, Kyuushou?",
+			"Hmm? What is Kyuushou mumbling about?"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				4,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252327,
+			"Don’t, don’t be over confident! The Sav, Savior will not bow to your privileges!",
+			"别！别得意！救！救世主是不会被权利压到的！",
+			"い、いい気にならないでよ！きゅ、救世主は権力に屈したりしないんだから！",
+			"기, 기분 좋아하지 마! 구, 구세주는 권력에 굴복하거나 하지 않는다고!",
+			"D-Don't get too cocky! Th-The Savior won't bow down to any power!",
+			null,
+			"Don't! Don't get cocky! Salvation! The Savior will not be crushed by power!",
+			"Don't get carried away! Kyu, the Messiah will not bow down to power!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252328,
+			"Huh?",
+			"哈？",
+			"はぁ？",
+			"하아?",
+			"Hah?",
+			null,
+			"Huh?",
+			"Huh?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252329,
+			"Hehe~ Interesting kids~ Don’t be nervous, I am just your examiner for this trial~",
+			"呵呵~真是一些有趣的孩子呢~不用紧张，我只是这次测试的审核者~",
+			"ふふふ、ほんと面白い娘たちね。ほら、そんなに緊張しないで。今回の試験監督をするだけだから。",
+			"후후후, 정말 재미있는 애들이다. 자, 그렇게 긴장하지 말아요. 이번 시험 감독만 할 테니까.",
+			"Fufufu, you girls are really funny. Now, don't be so nervous. I'm only going to be the supervisor for this exam.",
+			null,
+			"Oh~ What some funny kids~ Don't be nervous, I'm just the reviewer of this test~",
+			"Hmmm, they are really interesting girls. Come on, don't be so nervous. I'm just going to supervise this exam."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252330,
+			"I’m not nervous, I think the Principal is very friendly and nice. Feels like you can calm me down.",
+			"不会，我觉得学园长是个很亲切的人呢，有种让人安心的感觉。",
+			"緊張だなんて……学園長様は親しみやすい雰囲気で何だか安心します。",
+			"긴장이라니... 학원장님은 친근한 분위기라 왠지 안심이 됩니다.",
+			"I'm not nervous at all... You have such a friendly demeanor that puts me at ease, Principal-sama.",
+			null,
+			"No, I think the Headmaster of the Academy is a very kind person. There's something reassuring about him.",
+			"I can't believe I'm nervous. ...... The principal is friendly and somewhat reassuring."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252331,
+			"Aha~Well, don’t call me“Principal”then~",
+			"啊啦~既然这样的话也不要叫“学园长大人”了哦~",
+			"あら～それなら「学園長様」なんて呼ばなくていいのよ。",
+			"아라~ 그럼 「학원장님」이라고 부르지 않아도 돼요.",
+			"Oh my~ Then you don't have to call me \"Principal-sama\".",
+			null,
+			"Well, in that case, don't call me \"Senior.\"",
+			"Oh - then you don't have to call me \"principal."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252332,
+			"But you are still...",
+			"但是您毕竟是……",
+			"いえ、そうは言っても……。",
+			"아니, 그래도...",
+			"No, even if you say that...",
+			null,
+			"But you are after all ......",
+			"No, that said, please visit ......."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252333,
+			"Hehe~ Nothing, I’m just joking~ Well, let’s start the trial, all the best~",
+			"呵呵~没事，我开玩笑的~那么开始测试吧，祝你们顺利~",
+			"ふふふ、いいの、冗談よ。じゃあ、試験を始めましょうか。応援してるわ、頑張ってね！",
+			"후후후, 괜찮아요, 농담이에요. 자, 시험을 시작할까요. 응원할게요, 화이팅!",
+			"Fufufu, it's okay, I was just kidding. Now, let's begin the exam. I'm rooting for you, so do your best!",
+			null,
+			"Oh, it's okay. I'm just kidding. So let's start the test. Good luck.",
+			"Hmmm, no, I'm just kidding. Well, let's start the test, shall we? I'm rooting for you, good luck!"
+		]
+	],
+	"112": [
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252334,
+			"Kiana’s mom is really nice.",
+			"琪亚娜的妈妈真的很温柔呢~",
+			"キアナちゃんのお母さんって、優しい人ね。",
+			"키아나 씨 어머니는 정말 상냥하시네요.",
+			"Kiana-chan, your mother is such a sweet lady.",
+			null,
+			"Kiana's mom is really gentle~",
+			"Kiana, your mother is such a sweet person."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252335,
+			"Hehe~ Mom is very nice, but sometimes she does something stupid like a kid, and sometimes she can be very scary…",
+			"嘿嘿~老妈的确很温柔啦，但有时候也会像小孩子一样干些蠢事，当然也有很可怕的时候……",
+			"えへへ～、でも時々子どもみたいにバカなことするし、怖いときもあるんだよ。",
+			"에헤헤~ 하지만 가끔은 어린아이처럼 바보 같은 짓도 하고 무서울 때도 있어요.",
+			"Ehehe~ But sometimes she does silly things, acting like a child, and sometimes she scares me.",
+			null,
+			"Hehehe~Mom is indeed very gentle, but sometimes she does stupid things like a child, and of course there are scary moments too ......",
+			"Ehehe~ But sometimes I do stupid things like a child, and sometimes I'm scared."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252336,
+			"Yeah, that’s admirable.",
+			"嗯，真是令人羡慕呢。",
+			"そう……本当に羨ましいわ。",
+			"그래... 정말 부럽네요.",
+			"I see... I'm really jealous.",
+			null,
+			"Well, that's enviable.",
+			"So ...... really jealous."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252337,
+			"Ah! No! I’m not showing off! Senior Mei, don’t be sad!",
+			"啊！不！我不是在炫耀啦！芽衣学姐，不要难过！",
+			"あ！べっ別に、自慢してるわけじゃ！芽衣先輩、そんなツラそうな顔しないで！",
+			"아! 별, 별로 자랑하는 건 아니라고요!#n메이 선배, 그렇게 슬픈 표정 짓지 마세요!",
+			"Ah! I'm not bragging or anything! Mei-senpai, don't look so upset!",
+			null,
+			"Ahh! No, I'm not showing off! I'm not showing off! Mei, don't be sad!",
+			"I'm not bragging! I'm not bragging! Mei, don't look so sad!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252338,
+			"I’m not, dont worry, Kiana. After all these, just standing here will make me happy already.",
+			"没有啦，琪亚娜你别瞎操心了，经历了这么多事情，我觉得现在能在这里已经很幸福了。",
+			"大丈夫よ、キアナちゃんもそんなに気を使わないで。いろいろあったけど……私は今ここにいられるだけでも幸せなんだから。",
+			"괜찮아요, 키아나 씨도 그렇게 신경 쓰지 마세요.#n여러 가지 있었지만... 저는 지금 여기에 있을 수 있는 것만으로도 행복하니까요.",
+			"It's okay, Kiana-chan, don't worry too much. A lot has happened... but I'm happy just to be here now.",
+			null,
+			"No, Kiana, don't worry about it, after everything I've been through, I think I'm happy to be here now.",
+			"It's okay, Kiana, you don't have to worry so much. I've been through a lot ...... and I'm happy just to be here now."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252339,
+			"Rest assured, Senior Mei~ We will live in this school for a long time, I’m sure more happy things will happen~",
+			"芽衣学姐你就放心吧~以后我们会在这个学园里生活很久呢，一定还会有更多快乐的事情发生的~",
+			"芽衣先輩……安心して！これからこの学園で、もっともっと楽しいことが起こるわ！ぜったい！！",
+			"메이 선배... 안심하세요! 앞으로 이 학원에서 훨씬 더 즐거운 일들이 생길 거예요! 절대로!!",
+			"Mei-senpai... don't worry! From now on, even more fun things will happen at this school! I'm sure of it!!",
+			null,
+			"Don't worry Mei-san~ We'll be living in this school for a long time to come, and there's bound to be a lot more fun to be had!",
+			"Mei Senpai ...... don't worry! More fun things are going to happen at this school from now on! I'm sure of it!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252340,
+			"Yeah, thank you, Kiana.",
+			"嗯，谢谢你，琪亚娜。",
+			"うん、ありがとう、キアナちゃん。",
+			"응, 고마워, 키아나 씨.",
+			"Yeah, thank you, Kiana-chan.",
+			null,
+			"Well, thank you, Kiana.",
+			"Yes, thank you, Kiana."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252341,
+			"And if it’s Senior Mei... I don’t mind if we stay together forever…",
+			"而且如果是芽衣学姐的话…永远在一起也不是不行……",
+			"それに芽衣先輩が良ければ……ずっと一緒にいても……。",
+			"그리고 메이 선배가 괜찮으시다면... 계속 함께 있어도...",
+			"And if Mei-senpai is okay with it... we can be together forever...",
+			null,
+			"And if it's Mei-senpai...it's not impossible to be together forever ......",
+			"And if Mei Senpai-senpai is okay with it, we can stay together ...... all the time."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252342,
+			"Ki! Kiana!",
+			"琪！琪亚娜！",
+			"キ、キアナ！",
+			"키, 키아나!",
+			"K-Kiana!",
+			null,
+			"Ki! Kiana!",
+			"Ki, Kiana!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252343,
+			"Ah!! You’re so noisy! Try to read the situation!!",
+			"啊！！吵死啦！你这家伙给我看下气氛啊！！",
+			"ああもう、うるさいわね！ちょっとは空気読みなさいよ！！",
+			"아아真是, 시끄럽네요! 좀 분위기 좀 파악하라고요!!",
+			"Ahh, seriously? Will you be quiet?! Try to read the room a little!!",
+			null,
+			"Ah! Shut up! You guys show me the atmosphere!",
+			"Oh, God, shut up! Read the air a little bit!"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252344,
+			"Kiana! That! What’s inside that crystal! Is it some sealed ancient devil! Or some God’s soul transformed into crystal!",
+			"琪亚娜！那！那个水晶里面的是什么东西！难道是被封印的远古魔神么！还是转化为晶石的诸神之魂！",
+			"キアナ、あ、あの水晶の中に何かいる！もしかしたら封印された太古の魔獣かも！それか結晶化した神の魂！？",
+			"키아나, 아, 저 수정 안에 뭔가 있어! 혹시 봉인된 태고의 마수일지도! 아니면 결정화된 신의 영혼!?",
+			"Kiana, th-there's something in that crystal! Maybe it's a sealed ancient demonic beast! Or maybe it's the crystallized soul of a god?!",
+			null,
+			"Kiana! That! What's inside that crystal! Is it a sealed ancient demon god! Or the souls of the gods transformed into crystals!",
+			"Kiana, oh, there is something in that crystal! Maybe it's a sealed, ancient magical beast! Or maybe it's the soul of a crystallized god!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252345,
+			"Hey! Don’t touch it! It’s a Houkai Beast inside!",
+			"喂！不要随便乱碰！那里面可是崩坏兽啊！",
+			"ちょっと、むやみに触らないの！中にいるのは崩壊獣なのよ！",
+			"잠깐, 함부로 만지지 마! 안에 있는 건 붕괴수야!",
+			"Hey, don't touch it! There's a Honkai Beast inside!",
+			null,
+			"Hey! Don't touch it! That's a Honkai beast in there!",
+			"Hey, don't touch it! It's a Honkai beast in there!"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252346,
+			"A Houkai Beast? Is that some sort of ancient beast!",
+			"崩坏兽？那是什么远古魔兽么！",
+			"崩壊獣？それってどういう太古の魔獣？",
+			"붕괴수? 그게 무슨 태고의 마수야?",
+			"Honkai Beast? What kind of ancient demonic beast is that?",
+			null,
+			"Honkai beast? Is that some ancient beast!",
+			"Honkai? What kind of prehistoric hexenbiest is that?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252347,
+			"Houkai Beasts are like zombies, they are monsters born from Houkai infection, but Houkai Beasts have greater power and are bigger threats for Valkyria.",
+			"崩坏兽是和死士一样的存在，由崩坏能感染而诞生的怪物，但是崩坏兽的力量更强，对女武神的威胁也更大。",
+			"崩壊獣はゾンビと同じ存在よ、崩壊エネルギーに汚染されて生まれた怪物。ただ崩壊獣の方が強いから、戦乙女にとってはより脅威的な存在ね。",
+			"붕괴수는 좀비와 같은 존재야, 붕괴 에너지에 오염되어 태어난 괴물. 다만 붕괴수가 더 강해서, 발키리에게는 더 위협적인 존재지.",
+			"Honkai Beasts are the same as zombies, monsters born from being contaminated by Honkai Energy. However, since Honkai Beasts are stronger, they pose a greater threat to Valkyries.",
+			null,
+			"The Wrecking Beasts are the same kind of existence as the Reapers, monsters born from Honkai energy infections, but the Wrecking Beasts are more powerful and a greater threat to the Valkyries.",
+			"Honkai are the same as zombies, monsters born from the pollution of Honkai energy. Honkai are more threatening to war maidens because they are stronger."
+		],
+		[
+			"msg",
+			252348,
+			"The Houkai Beast sealed here is for Valkyrie education purpose. It’s a valuable teaching material.",
+			"封锁在这里的崩坏兽是专门用来给女武神进行测试用的，是宝贵的教学素材。",
+			"ここに封じられている崩壊獣は、戦乙女試験に使われる貴重な教材ってわけ。",
+			"여기에 봉인된 붕괴수는, 발키리 시험에 쓰이는 귀중한 교재란 말이야.",
+			"The Honkai Beast sealed here is a valuable teaching material used in the Valkyrie exams.",
+			null,
+			"The Honkai beasts that are blocked off here are used exclusively for testing purposes for the Valkyries, and are valuable teaching fodder.",
+			"The Honkai beast enclosed here is a valuable teaching material used for the War Maiden examination."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252349,
+			"But Ms. Himeko said Houkai Beasts can only survive under Houkai environment, why is it in this cathedral?",
+			"可是姬子老师说崩坏兽不是只能在崩坏环境下生存么，为什么会在这个教堂里面？",
+			"でも、崩壊の環境下でしか崩壊獣は生きられないって、姫子先生言ってなかった？どうして、この大聖堂の中にいられるの？",
+			"근데, 붕괴 환경에서만 붕괴수가 살 수 있다고 히메코 선생님이 말씀하시지 않았어? 어떻게 이 대성당 안에 있을 수 있는 거야?",
+			"But didn't Himeko-sensei say that Honkai Beasts can only survive in a Honkai-filled environment? How could they be inside the Cathedral?",
+			null,
+			"But didn't Himeko-sensei say that Crash Beasts could only survive in a Honkai environment, so why was it inside this church?",
+			"But didn't Dr. Himeko say that Honkai beasts can only live in an environment of Honkai? How can they stay in this cathedral?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252350,
+			"You may not have realized, but we are in a Houkai environment right now. This cathedral can store and seal Houkai Energy, so we can train without worrying about the Houkai influence on the outside world.",
+			"也许你们没有发觉，但是我们现在所处的正是崩坏环境哦。这个教堂有着储存和封锁崩坏能的功能，这样就可以在崩坏不影响外界的情况下进行训练了。",
+			"さすが芽衣先輩、よく気づいたね！実はこの大聖堂には崩壊エネルギーを蓄えておける機能があってね、ここ一帯に充満してるの。だから、戦乙女が本番さながらの訓練をするにはもってこいの場所ってわけ。",
+			"역시 메이 선배, 잘 눈치챘네! 사실 이 대성당에는 붕괴 에너지를 저장해 둘 수 있는 기능이 있어서, 이 일대에 가득 차 있거든. 그래서, 발키리가 실제와 같은 훈련을 하기에는 더할 나위 없는 장소란 말이지.",
+			"As expected of Mei-senpai, you noticed something! The Cathedral actually has the ability to store Honkai Energy, and it's filling the entire area. That's why it's the perfect place for the Valkyries to train for the real thing.",
+			null,
+			"Maybe you guys didn't realize it, but the very Honkai environment we're in right now oh. This church has the function of storing and blocking Honkai energy so that you can train without Honkai affecting the outside world.",
+			"As expected of Mei-senpai-senpai, you noticed it very well! Actually, this cathedral has a function to store Honkai energy, and it fills the whole area. That's why it's the perfect place for the War Maidens to train for the real thing."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252351,
+			"Hmmm~ So this is the monster farming location! Once I finish this trial, the soul of Kyushou-sama will become complete!",
+			"哼哼哼~这就是传说中的刷怪练级点么！只要经过了这里的历练，九霄大人的魂之力就能在这里成为完全体！",
+			"ふふ～ん、ゲームに例えるなら経験値の稼ぎポイントってことか！ここで鍛錬を積めば、九霄様のソウルパワーも完全体に……ふひひ。",
+			"후훙~, 게임에 비유하자면 경험치 벌이 포인트란 거네! 여기에서 단련을 쌓으면, 큐쇼님의 소울 파워도 완전체에…… 후히히.",
+			"Hmhm~ Comparing it to a game, it's like earning EXP! If we train here, Kyuushou-sama's Soul Power will also be at its full potential... hee hee hee.",
+			null,
+			"Hmhmhmhm~ Is this the legendary brush and practice spot! As long as they go through the practicing here, Lord Kyuushou's Soul Power will be able to become fully formed here!",
+			"Hmmm...if we compare it to a game, it's an experience earning point! If you train here, Kyuushou-sama's soul power will be fully ...... hihi."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252352,
+			"Hey! Kyushou! Stop! Don’t run around!",
+			"喂！九霄！你给我站住！别乱跑啊！",
+			"ちょっと、九霄！ストップ！むやみに走り回らないの！",
+			"잠깐, 큐쇼! 스톱! 함부로 뛰어다니지 마!",
+			"Hey, Kyuushou! Stop! Don't run around aimlessly!",
+			null,
+			"Hello! Kyuushou! Stop right there! Don't run around!",
+			"Hey, Kyuushou! Stop! Don't run around unnecessarily!"
+		]
+	],
+	"113": [
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252353,
+			"Kiana! Kiana! Am I getting stronger now!",
+			"琪亚娜！琪亚娜！我现在变强了么！",
+			"えいっえいっ……キアナ！どうどう？パワーアップしてる！？",
+			"에잇 에잇…… 키아나! 어때? 파워업했어!?",
+			"Hehehehe... Kiana! How is it? Am I powering up?!",
+			null,
+			"Kiana! Kiana! Am I stronger now!",
+			"Yeah, yeah, yeah. ...... Kiana! How's it going? It's powering up!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252354,
+			"You... Did Theresa send you here just to cause me trouble…",
+			"你这家伙…该不会是德丽莎派来玩我的吧……",
+			"あんたね、いい加減落ち着きなさいよ！……まさか！私をおちょくるためにテレサが派遣したなんてオチないわよね。",
+			"너 말이야, 좀 진정해!…… 설마! 나를 놀리려고 테레사가 보낸 거라니 그런 결말은 아니겠지.",
+			"Hey, you need to calm down already! ...It can't be! There's no way Theresa sent you here just to make a fool of me, right?",
+			null,
+			"You guys...you couldn't have been sent by Theresa to play me ......",
+			"You, you need to calm down! ...... No way! Theresa didn't send you to make fun of me, did she?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252355,
+			"The Houkai Creatures here are stronger than those outside... A real Valkyrie will face battles more brutal than this…",
+			"这里的崩坏生物比外面的还要厉害呢…真正的女武神要面对比这个更加严酷的战斗么……",
+			"ここの崩壊生物、外のよりも強い……けど、戦乙女になったらこんなもんじゃないのよね。これから、もっと厳しい戦いが待っているのかしら……。",
+			"여기의 붕괴 생물, 밖에 있는 것보다 강하네…… 하지만 전투처녀가 되면 이 정도는 아니야. 앞으로 더 힘든 싸움이 기다리고 있는 걸까…….",
+			"The Honkai Beasts here are stronger than those outside... but there's even more coming once I become a Valkyrie. I wonder if even tougher battles await me from now on...",
+			null,
+			"What about the Honkai creatures here that are even more powerful than the ones outside...will the real Valkyries have to face even harsher battles than this one ......",
+			"Honkai creatures here, stronger than outside ......, but not like this when it comes to war maidens. I wonder if there will be more tough battles ahead ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252356,
+			"Right, combat like this is just a cup of tea to real Valkyria... And compared to the best, S-class Valkyria, this battle is nothing.",
+			"没错，这样的战斗对于真正的女武神来说是家常便饭…而且与最强的S级女武神面临的战斗来比，这种只是小儿科罢了。",
+			"うん、このくらいの戦闘は戦乙女にとって日常茶飯事だね。しかも、最強のS級戦乙女が直面する戦いに比べたら、こんなの子ども騙しみたいなものかな。",
+			"응, 이 정도 전투는 전투처녀에게는 일상다반사야. 게다가, 최강의 S급 전투처녀가 마주하는 싸움에 비하면 이건 애들 장난 같은 거지.",
+			"Yeah, battles like this are pretty much everyday occurrences for Valkyries. And compared to the battles the strongest S-rank Valkyries face, this is like child's play.",
+			null,
+			"That's right, fights like this were commonplace for true Valkyries...and compared to the battles faced by the strongest S-Class Valkyries, this kind of was just child's play.",
+			"Yes, this level of battle is an everyday occurrence for a battle maiden. Moreover, compared to the battles that the strongest S-class war maidens face, this is like a child's play."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252357,
+			"S-class Valkyria… The textbook said there are only five such Valkyria in the Shicksal. I wonder what they are like.",
+			"S级女武神…课本上说这样的女武神在天命只有五个人，到底是什么样的存在呢。",
+			"S級戦乙女……テキストには天命組織に5人しかいないって書いてあったけど、一体どんな存在なのかしら。",
+			"S급 전투처녀…… 텍스트에는 천명 조직에 5명밖에 없다고 써 있었는데, 대체 어떤 존재들일까.",
+			"S-rank Valkyries... The textbooks say there has only ever been five of them in Schicksal, so I wonder what kind of beings they must be.",
+			null,
+			"S-class Valkyries...the textbook said that there were only five such Valkyries in Schicksal, so what kind of existence is it.",
+			"The S Class War Maidens ...... text says there are only 5 in the Schicksal organization, but I wonder what they are."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252358,
+			"You have just met one of them, Senior Mei. Mom is one of the S-class Valkyria, and she’s the earliest S-class Valkyrie of the Shicksal.",
+			"芽衣学姐刚刚就见到了哦，老妈是S级女武神之一，也是天命最早的S级女武神。",
+			"芽衣先輩もさっき会ったでしょ、ママがS級戦乙女の一人だよ。天命で最初に任命されたS級戦乙女でもあるの。",
+			"메이 선배도 방금 만났잖아, 엄마가 S급 전투처녀 중 한 명이야. 천명에서 처음으로 임명된 S급 전투처녀이기도 하지.",
+			"You just met one earlier, Mei-senpai. My mom is one of the S-rank Valkyries. She's also the first S-rank to ever be appointed by Schicksal.",
+			null,
+			"Mei-senpai just met Oh, mom is one of the S-ranked Valkyries, and the earliest S-ranked Valkyries in Schicksal.",
+			"Mei-senpai, you met her a while ago, and your mom is one of the S-class War Maidens. She is also the first S-class War Maiden appointed by Schicksal."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252359,
+			"Ah! I didn’t know the Principal was so powerful!",
+			"啊！学园长大人居然是这么厉害的人么！",
+			"ええ！？学園長様って、そんなすごい人だったの！",
+			"에엑!? 학원장님께서, 그렇게 대단한 분이셨다고!?",
+			"Ehh?! The headmaster is that powerful?!",
+			null,
+			"Ah! Is the senior of the academy actually such a powerful person!",
+			"What? The headmaster was such an amazing person!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252360,
+			"Yeah… That’s also my end goal, becoming a strong S-class Valkyrie, just like Mom!",
+			"嗯…那也是我最终的目标，成为像老妈一样强大的S级女武神！",
+			"うん……ママのように強いS級戦乙女になるっていうのも、私の最終目標でもあるんだ。",
+			"응…… 엄마처럼 강한 S급 전투처녀가 되는 게, 나의 최종 목표이기도 해.",
+			"Yep... Becoming a strong S-rank Valkyrie like Mom is my ultimate goal, too.",
+			null,
+			"Well...that's also my ultimate goal, to become a powerful S-ranked Valkyrie like my old mom!",
+			"Yeah ...... becoming a strong S-class war maiden like my mom is also my ultimate goal."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252361,
+			"So, Kiana, what class are you now?",
+			"那琪亚娜你现在是几级呢？",
+			"へぇ～……じゃあ、キアナは今何級？",
+			"헤~…… 그럼, 키아나는 지금 몇 글이야?",
+			"Wow~ ...So what level are you now, Kiana?",
+			null,
+			"So, Kiana, what level are you at now?",
+			"Heh... ...... So what grade is Kiana in now?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252362,
+			"Ouch! B…B-class…",
+			"咕！B…B级……",
+			"ぐっ！び……B級よ……。",
+			"윽! 비…… B급이야…….",
+			"Gah! B-...B-rank...",
+			null,
+			"Goo! B...B Grade ......",
+			"Ggh! I'm a B ...... class B ......."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252363,
+			"Hoho~ So you are only at B-class~",
+			"嚯嚯~原来只有B级么~",
+			"ぷ～くすくす、なーんだまだB級なの～？",
+			"푸흐흐, 뭐야~ 아직 B급이야~?",
+			"Pfft~ So you're still B-rank, huh~?",
+			null,
+			"Ooh, ooh, ooh. So it's only B grade?",
+			"P~sshhhh, nah, it's still class B~?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252364,
+			"Stop laughing! I will catch up soon! It’s just a matter of time before I become a S-class Valkyrie!",
+			"笑什么笑！再过不久我马上就能追上去的！S级女武神只是时间问题！",
+			"な、何笑ってんのよ！すぐに追いついてやるわ、S級戦乙女になるのも時間の問題なんだから！",
+			"뭐, 뭐 웃고 있는 거야! 금방 따라잡아 주겠어, S급 전처녀가 되는 건 시간문제라고!",
+			"Wh-What are you laughing at?! I'll catch up in no time; it's only a matter of time before I become an S-rank Valkyrie!",
+			null,
+			"What are you laughing at? It's only a matter of time before I catch up with the S-class Valkyries!",
+			"Hey, what are you laughing at? I'll catch up with you soon, it's only a matter of time before you become an S-class war maiden!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				202,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252365,
+			"Kiana’s already very good. We are just Valkyria interns now.",
+			"琪亚娜已经很厉害了，我们现在只是实习女武神呢。",
+			"キアナちゃんは十分すごいわ。私と九霄ちゃんは戦乙女の実習生にすぎないもの。",
+			"키아나 쨩은 충분히 대단해. 나와 큐쇼 쨩은 전처녀 실습생에 불과하지만.",
+			"You're already really good, Kiana-chan. Kyuushou-chan and I are merely trainee Valkyries.",
+			null,
+			"Kiana is already great, we're just trainee Valkyries now.",
+			"Kiana, you are amazing enough. Kyuushou and I are just interns at the War Maiden."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252366,
+			"Yeah! Look at you, Kyushou, who knows if you can actually become a Valkyrie or not!",
+			"就是！九霄这个样子能不能顺利成为女武神都不一定呢！",
+			"そうそう！九霄なんか、ちゃんと戦乙女になれるかどうかも分かんないのよ！",
+			"그래 그래! 큐쇼 따위, 제대로 전처녀가 될 수 있을지도 모르는 거야!",
+			"That's right! Who knows if Kyuushou can even pass the Valkyrie test or not!",
+			null,
+			"That's right! It's not certain if Kyuushou can successfully become a female Valkyrie in this condition!",
+			"Oh, yeah! Kyuushou, I don't even know if I can become a warrior maiden!"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252367,
+			"Hmph~ Kyushou-sama is not interested in this kind of rankings~ I am the Savior above everything, the chosen one will not need others’ recognition. Everything exists for the Savior, and the Valkyria will eventually fight for me!",
+			"哼哼~九霄大人对于这种排名没有兴趣~我可是超越一切的救世主，天选之人从来不需要别人的认可，所有的一切都是为了救世而存在，女武神最终也将为我而战！",
+			"フフン～九霄様はそんなランクに興味などない。なぜなら全てを超越する救世主だから！天に選ばれし者が人に認められる必要などなし！我の存在＝平和！戦乙女は、九宵様を守るため戦ってるといっても過言ではない！",
+			"흐흥~ 큐쇼 님은 그런 랭크엔 관심 없어. 왜냐하면 모든 것을 초월한 구세주이기 때문! 하늘이 선택한 자가 사람에게 인정받을 필요 없음! 나의 존재=평화! 전처녀들은, 큐쇼 님을 지키기 위해 싸우고 있다고 해도 과언이 아님!",
+			"Hmhm~ Kyuushou-sama has no interest in such ranks. That's because I am the Savior who transcends everything! Those chosen by heaven have no need to be recognized by humans! My existence equals peace! In fact, it wouldn't be an exaggeration to say that the Valkyries are actually fighting to protect me!",
+			null,
+			"Hmph~ Lord Kyuushou has no interest in this kind of ranking~ I'm the savior who surpasses everything, the Chosen One never needs the approval of others, all is for the sake of saving the world, and the Valkyries will eventually fight for me!",
+			"Hmph~Kyuushou-sama is not interested in such ranks. Because he is the savior who transcends everything! The heavenly chosen one has no need to be recognized by others! My existence = peace! It is no exaggeration to say that the War Maiden is fighting to protect Kyusyo-sama!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252368,
+			"Fight your *@#!",
+			"战你个头啊！",
+			"……何、訳わかんないこと言ってんのよ！ほらっ！",
+			"......뭐, 뭔 소리를 하는 거야! 자아!",
+			"Fight for you? In your dreams!",
+			null,
+			"War your ass!",
+			"...... What are you talking about? See?"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252369,
+			"Ki! Kiana stop! It hurts!",
+			"琪！琪亚娜住手！疼疼疼！",
+			"キ、キアナやめて！いたたた！",
+			"키, 키아나 그만! 아야야!",
+			"K-Kiana, stop! Ow ow ow!",
+			null,
+			"Ki! Kiana stop it! Ouch, ouch, ouch!",
+			"Kiana, Kiana, stop! Ouch!"
+		]
+	],
+	"114": [
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252370,
+			"Ala~ You have finally arrived. A bit earlier than I expected~",
+			"啊啦~你们终于到达了么，比我想象的快一些呢~",
+			"あら、とうとう来たのね。思っていたより早かったわ。",
+			"어머, 드디어 왔구나. 생각보다 빨랐어.",
+			"Oh, you're finally here. You're much earlier than I expected.",
+			null,
+			"So, you guys finally made it. It's faster than I thought.",
+			"Oh, it's finally here. It's sooner than I thought it would be."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252371,
+			"*Breathes*… Are we finally at the end…",
+			"呼…终于到终点了么……",
+			"ママ！？ということは……ここが終点？",
+			"엄마!? 그렇다는 건......여기가 종점?",
+			"Mom?! So... this is the end?",
+			null,
+			"Whew...is it finally the end of the line ......",
+			"Mom! So does that mean ...... is the end of the line here?"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252372,
+			"Hehe~ This trial is too easy for Kyushou-sama~",
+			"哼哼~这种考验对于九霄大人来说实在太简单了~",
+			"ふふん、この程度の試練、九霄様にとっては赤子の手を捻るも同然！",
+			"흐흥, 이 정도 시험, 큐쇼 님에게는 애들 장난도 아니야!",
+			"Hmhm, a test of this magnitude is as easy as stealing candy from a baby for Kyuushou-sama!",
+			null,
+			"Hmph~ This kind of test is too easy for Lord Kyuushou~",
+			"This level of ordeal is as good as twisting a baby's hand for Kyuso-sama!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252373,
+			"You are just muttering some spells that no one can understand!",
+			"你这家伙明明只是在一边念一些听不懂的咒语而已吧！！",
+			"あんたは隅っこで訳の分からない呪文を唱えてただけじゃない！！",
+			"너는 구석에서 이해할 수 없는 주문이나 외우고 있지 않았어?!",
+			"You were just chanting some incomprehensible spells in the corner this whole time!!",
+			null,
+			"You guys are obviously just chanting some unintelligible incantations on the side, right!",
+			"You weren't just sitting in the corner chanting incomprehensible incantations!"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				4,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252374,
+			"Wah! I have been fighting too!",
+			"哇！我也有好好战斗好么！",
+			"な、なな……わ、わた、我だってちゃんと戦ってましたー！何を見ていたんだキアナは！まったくもう！！",
+			"나, 나나... 나, 나도 열심히 싸웠다고! 뭘 본 거야 키아나는! 정말이지!!",
+			"W-W-Wha... I-I was fighting properly too! What were <i>you</i> doing, looking at me? Seriously!!",
+			null,
+			"I fought a good fight too! I had a good fight, too!",
+			"Hey, hey, ......, I was fighting too! What was Kiana looking at? Oh my God!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252375,
+			"Hey! Stop messing around! Sorry… Ms. Principal, they…",
+			"喂！你们别闹了！对不起…学园长大人，她们……",
+			"ちょっと、ケンカはやめて！すみません、学園長様……ほら二人とも！",
+			"잠깐, 싸움은 그만해! 죄송해요, 학원장님... 자, 둘 다!",
+			"Hey, enough fighting! I'm sorry, Lady Principal... Come on, you two! (TN: I dropped using \"-sama\" here because it kinda sounded ridiculous saying \"Principal-sama\" lol.)",
+			null,
+			"Hello! You guys stop it! I'm sorry...school grown-ups, they ......",
+			"Hey, stop fighting! I'm sorry, Mr. Dean. ...... Look, you two!"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252376,
+			"Never mind, just let them have fun. Kiana had been taking Valkyrie training with her father since young, and she never had many friends of the same age. I’m very happy for her to make good friends like you~",
+			"没关系，就让她们闹吧。琪亚娜从小就一直跟着她父亲进行女武神的训练，没有什么同龄朋友，她能够交到你们这样的好朋友身为母亲我真心为她感到高兴~",
+			"いいのよ、好きにさせておいて……キアナはね、幼い頃からずっと父親について戦乙女の訓練をしてきたから、同じ年頃の友達がいなかったのよ。あなたたちのような良いお友達ができて、母親としては心から嬉しいわ。",
+			"괜찮아, 마음대로 하게 둬... 키아나는 어릴 때부터 아버지를 따라 발키리 훈련을 해왔으니까, 같은 또래의 친구가 없었단다. 너희들 같은 좋은 친구를 만나서 어머니로서는 정말 기쁘구나.",
+			"It's fine, let them do as they like... You see, Kiana has been training to be a Valkyrie under her father since she was little, so she didn't have any friends her own age. As her mother, I'm truly happy that she has good friends like you two.",
+			null,
+			"It's okay, let them have their fun. Kiana has been training with her father as a Valkyrie since she was a child and has no friends of her own age, so as a mother I'm really happy for her that she's able to make good friends like you guys!",
+			"It's okay, let them do what they want. ...... Kiana, you know, I've been training as a war maiden with my father ever since I was a little girl, so I never had any friends my own age. As a mother, I am so glad she has good friends like you guys."
+		],
+		[
+			"msg",
+			252377,
+			"So no matter what happens, please don’t blame her... It’s all the destiny one has to bear, for being born in the Shicksal.",
+			"所以不管发生什么，请你们不要怪她…这一切都是出生于天命所要背负的命运。",
+			"だから……何が起きても、どうかあの娘を責めないであげて。全ては天命組織に生まれてしまったがための宿命なの。",
+			"그러니까... 무슨 일이 있어도, 부디 그 아이를 탓하지 말아줘. 모든 건 천명 조직에 태어난 탓의 숙명이야.",
+			"So... whatever happens, please don't blame her. It's part of her fate, being born into Schicksal.",
+			null,
+			"So whatever happens, please don't blame her...it's all part of the destiny born into Schicksal to carry.",
+			"So ...... whatever happens, please don't blame that girl. It's all her destiny because she was born into a Schicksal organization."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252378,
+			"Ms. Principal...",
+			"学园长大人……",
+			"学園長様……。",
+			"학원장님...",
+			"Lady Principal...",
+			null,
+			"Gakuen Grownups ......",
+			"Dear Dean ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252379,
+			"Mom~ Mom~ Is this trial over? How was our result~",
+			"老妈~老妈~这次的测试结束了吧！所以我们的考核结果如何呢~",
+			"ママ、今回のテストは終わったんでしょ。結果はどうだった？",
+			"엄마, 이번 시험은 끝난 거잖아. 결과는 어땠어?",
+			"Mom, the test is over now, right? How's the results?",
+			null,
+			"Mom~ Mom~ This test is over, right? So how did our test go?",
+			"Mom, you finished this test. What were your results?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252380,
+			"Hmm? Did I say the trial was over?",
+			"嗯？我有说过测试结束了么~",
+			"あら？テストが終わったなんて言ったかしら？",
+			"어머? 시험이 끝났다고 말했니?",
+			"Oh? Did I ever say the test was over?",
+			null,
+			"Huh? Did I say the test was over?",
+			"Oh? Did I mention that the test is over?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252381,
+			"Ouch! Mom... Do you mean…",
+			"呃！老妈…你的意思是……",
+			"え？！ママ……それって……。",
+			"엣?! 엄마... 그건...",
+			"Huh?! Mom... you mean...",
+			null,
+			"Uh! Mom...you mean ......",
+			"What? Mom ...... that's ......."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252382,
+			"Kiana, I said~ You need to call me Principal in the school. So, the last trial will be conducted by myself, the Principal of St. Freya HS~",
+			"琪亚娜，我说过了吧~在学园里可是要叫我学园长的哦，那么最后的测试就有我圣芙蕾雅学园学园长来考核吧~",
+			"キアナ、言ってるでしょ、学園内では学園長って呼びなさいって。最後のテストは、この聖フレイヤ学園の学園長直々の試練よ！",
+			"키아나, 말했잖아, 학원 안에서는 학원장이라고 부르라고. 마지막 시험은, 이 세인트 프레야 학원의 학원장 직속 시련이야!",
+			"Kiana, I told you to call me Principal while at school. The final test will be a direct challenge from the principal of St. Frejya Academy!",
+			null,
+			"Kiana, I've told you before, you have to call me the Headmaster of the school, so let me, the Headmaster of St. Freya High School, take the final test!",
+			"Kiana, I'm telling you, you must call me the headmaster in the school. The final test will be given by the headmaster of St. Freya High School!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252383,
+			"Wait! Wait a minute! Mom, you're kidding me, right!",
+			"等！等等！老妈你是开玩笑的吧！",
+			"ま、待って！ママ、冗談でしょ？！",
+			"잠, 잠깐! 엄마, 농담이지?!",
+			"W-Wait! Mom, are you kidding?!",
+			null,
+			"Wait! Wait, wait, wait, wait! Mom, you're kidding!",
+			"Well, wait! Mom, are you kidding me?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252384,
+			"Are you ready? If you don’t take it seriously, you will get hurt~",
+			"准备好了么，不认真一点的话可是会受伤的哦~",
+			"準備はいい？真剣にやらないと怪我するわよ！！",
+			"준비는 됐어? 진심으로 안 하면 다칠 거야!!",
+			"Are you ready? Take this seriously or you'll get hurt!!",
+			null,
+			"Are you ready? If you don't take it seriously, you'll get hurt.",
+			"Are you ready? You'll get hurt if you don't take it seriously!"
+		]
+	],
+	"115": [
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252385,
+			"Kiana, you still need more training~ This is not even a warm-up for me~",
+			"琪亚娜，你还需要多训练啊~这样的战斗连热身都算不上呢~",
+			"キアナ、まだまだ訓練が必要ね。この程度の戦いじゃ、ウォーミングアップにもならないわ。",
+			"키아나, 아직도 훈련이 필요해. 이 정도 전투론 워밍업도 안 된다고.",
+			"You still need to train hard, Kiana. This fight isn't even a warm-up.",
+			null,
+			"Kiana, you still need to train more~ Fighting like this isn't even a warm up~",
+			"Kiana, you still need to train. A fight like this isn't even a warm-up."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252386,
+			"She’s so powerful... This is the power of a S-class Valkyrie…",
+			"好厉害…这就是S级女武神的实力么……",
+			"強い……これがS級戦乙女の実力なの……？",
+			"강해... 이게 S급 전처녀의 실력이야...?",
+			"So strong... So this the power of an S-rank Valkyrie...?",
+			null,
+			"Amazing...is this the strength of an S-class Valkyrie ......",
+			"Is this what a strong ...... S-class war maiden is capable of ......?"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252387,
+			"She is so strong, way better than Kiana, she’s the kind of teammate for a Savior...",
+			"太强大了，简直比琪亚娜强到不知道哪里去，这种才是适合做救世主大人的队友的人啊……",
+			"ま、まったく歯が立たない……キアナなんか比べ物にならない。はっ、もしやこのお方が救世主の真のパーティーメンバー！？",
+			"막, 막상 손도 못 대겠어... 키아나 따윈 비교도 안 되네. 헉, 설마 이 분이 구세주의 진정한 파티 멤버!?",
+			"Sh-She's so powerful... Even Kiana is no match for her. Hah, could it be that this woman is actually a party member of the Savior?",
+			null,
+			"It's too strong, it's simply stronger than Kiana to nowhere, this kind of is the one who's suitable to be Savior-sama's teammate ah ......",
+			"Well, there is no comparison to the utterly toothless ...... Kiana. Ha, if this is the true party member of the Messiah!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252388,
+			"You... Sabotaged me before the battle, did not help during the battle and took everything for granted. You want my mom to be your teammate? No way!",
+			"你这个家伙……战斗前坑我，战斗时不出力，战斗后还忘恩负义，就你这种人还想让老妈成为队友？想得美！",
+			"あんたね……戦闘前は自信満々、戦闘中は私の背に隠れて、戦闘後はその恩を忘れるなんて。ママが九霄みたいな奴のパーティーに加わるわけないでしょ！",
+			"너란 애... 전투 전엔 자신만만, 전투 중엔 내 등 뒤에 숨고, 전투 후엔 그 은혜를 잊다니. 엄마가 큐쇼 같은 놈의 파티에 들어갈 리 없잖아!",
+			"You...! You were so confident before the battle, but hid behind my back when it actually started, and now you dare to forget all about it after the battle? There's no way Mom would join a party with someone like Kyuushou!",
+			null,
+			"You this guy ...... pit me before the fight, not contribute during the fight, and ungrateful after the fight, just people like you still want to make mom a teammate? I'm not sure if you want to make mom a teammate, but I'm not sure if you want to!",
+			"You ...... are so confident before the battle, hiding behind my back during the battle, and forgetting the favor you owe me after the battle. I don't think my mom would join the party of a guy like Kyuushou!"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252389,
+			"The teammate of the Savior~ Sounds interesting, and feels like I can participate in a lot of battles, I may think about it~",
+			"救世主大人的队友~听上去很有趣的样子，而且能经历很多战斗的样子，有点兴趣呢~",
+			"救世主様のパーティーメンバーか……ふふ、面白そうね！いろんな戦いを経験できそうだし。ちょっと興味あるかも。",
+			"구세주님의 파티 멤버라... 훗, 재밌겠네! 다양한 전투를 경험할 수 있을 것 같고. 좀 관심이 가네.",
+			"A party member of the Savior... Fufu, that sounds fun! I'd probably get to experience a wide variety of battles. I might a little interested.",
+			null,
+			"Savior-sama's teammate~ Sounds interesting and a bit interested to go through a lot of battles~",
+			"A member of the Savior's party. ...... Hmmm, sounds interesting! I'm sure we'll get to experience a lot of different battles. I might be interested."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252390,
+			"Mom, you can’t be serious!",
+			"老妈你不是认真的吧！",
+			"マ、ママっ！？",
+			"엄, 엄마!?",
+			"M-Mom?! You can't be serious!",
+			null,
+			"Mom you can't be serious!",
+			"Ma, Ma!"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252391,
+			"While I do want to make a decision, but unfortunately I am the Principal, and leader of the Kaslana family, so I will let me daughter be the teammate of the Savior for now~",
+			"虽然很想就这么决定了，可惜我身为学园长，还有家主的使命，所以救世主的队友还是先交给我的女儿吧~",
+			"でも、そうしたいのは山々だけど、残念ながら学園長としての立場と、家長の使命があるの。だから、救世主様の仲間は娘に任せるわ。",
+			"하지만, 그러고 싶은 건 산더미지만, 아쉽게도 학원장으로서의 입장과 가주의 사명이 있어. 그래서, 구세주님의 동료는 딸에게 맡길게.",
+			"However, as much as I would love to, unfortunately I have to fulfill my duties as the school principal and head of the family. Therefore, I will leave the Savior's companionship to my daughter.",
+			null,
+			"As much as I'd like to decide just like that, unfortunately I have a mission as the head of the school and the head of the family, so it's better to leave the savior's teammates to my daughter first~",
+			"But as much as I would like to, unfortunately I have my position as head of the school and my mission as patriarch. So I'll leave the Savior's companionship to my daughter."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252392,
+			"Such a pity, alright, I will just have to compromise. Well, training and nurturing is a necessary part, afterall!",
+			"真是可惜，没办法，暂时先将就着吧，毕竟养成也是不可或缺的一环呢！",
+			"……残念。キアナで我慢しよう。まっ、パーティーメンバーの育成も必要不可欠な要素だし。",
+			"...아쉽네. 키아나로 참아야지. 뭐, 파티 멤버 육성도 필수 불가결한 요소니까.",
+			"...Too bad. Seems I'll have to settle for Kiana. Well, training party members is also an essential element.",
+			null,
+			"It's a shame, but I can't help it, I'll take it as it is for now, after all, nurturing is an integral part of it!",
+			"Too bad ....... Let's hold out for Kiana. Well, training party members is an essential part of the process."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252393,
+			"Kiana, you have to hold it! Mom is still around, it's not the time to get rid of her...",
+			"琪亚娜，你要忍住！老妈还在身边，还不是了结她的时候……",
+			"……た、耐えるのよ、キアナ。ママがまだそばにいるから、今は殺るときじゃない……。",
+			"...참, 참아야 해, 키아나. 엄마가 아곁에 있으니까, 지금은 죽일 때가 아니야....",
+			"...H-Hang in there, Kiana. Mom is still here, so now is not the time to kill...",
+			null,
+			"Kiana, you have to hold back! Mom's still around, it's not time to finish her off ......",
+			"......Take it, Kiana. Now is not the time to kill, because your mama is still around. ......"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				104,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252394,
+			"Anyway, congratulations for passing my little test. You have defended my attack for quite a long time. While your teamwork still has a lot to improve, you are already a qualified Valkyria squad~",
+			"不过还是要恭喜你们通过了我的小测试呢，能在我的攻击下支撑这么久，虽然合作上还有着许多不足，但是你们已经是一个合格的女武神小队了~",
+			"さて、私のテストは合格よ。おめでとう！S級戦乙女の攻撃を受けてここまで耐えられたんだもの。協力という点ではまだまだだけど、戦乙女小隊としては問題ないわ。",
+			"자, 내 테스트는 합격이야. 축하해! S급 전투처녀의 공격을 받고 여기까지 견뎌냈잖아. 협력이라는 점에서는 아직 부족하지만, 전투처녀 소대로는 문제없어.",
+			"Now then, you passed my test. Congratulations! You managed to withstand the attacks of an S-rank Valkyrie for this long. You still have a long way to go in terms of cooperation, but that's no problem as a Valkyrie Squad.",
+			null,
+			"Still, congratulations on passing my little test... you've been able to hold up under my attacks for so long... although there are still many shortcomings in your cooperation, you're already a qualified Valkyrie squad~",
+			"Well, I've passed my test. Congratulations! You were able to withstand so much under the attack of an S-class battle damsel. You're not quite there yet in terms of cooperation, but as a battle damsel platoon, you'll do just fine."
+		],
+		[
+			"msg",
+			252395,
+			"The Herrscher Core in Mei’s body is not showing any turbulence, and Kyushou didn’t cause any trouble either~",
+			"而且芽衣体内的律者核心也没有出现波动，九霄也没有在战斗中添麻烦呢~",
+			"それに芽衣の体内にある律者のコアも不安定にならなかったし、九霄も戦闘中に迷惑をかけてなかったしね。",
+			"게다가 메이 몸속에 있는 율자의 코어도 불안정해지지 않았고, 큐쇼도 전투 중에 방해가 되지 않았으니.",
+			"Plus, the Herrscher Core inside Mei's body didn't become unstable, and Kyuushou didn't cause any trouble during the battle.",
+			null,
+			"Also, the Herrscher core inside Mei didn't fluctuate, and Kyuushou didn't cause any trouble during the battle either~",
+			"And the Herrscher core in Mei's body didn't become unstable, and Kyuushou didn't bother him during the battle."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252396,
+			"Of course, that is all expected for the Savior!",
+			"这个结果对于救世主来说是理所当然的！",
+			"まあ、この結果は救世主として当然！",
+			"뭐, 이 결과는 구세주로서 당연하지!",
+			"Well, this outcome is only natural for the Savior!",
+			null,
+			"This result was taken for granted for the Savior!",
+			"Well, this result is deserved as a savior!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252397,
+			"So this is just a test?",
+			"原来这只是一个测试么？",
+			"ありがとうございます。でも、テストにしては命の危機を感じましたけど……。",
+			"감사합니다. 하지만, 테스트치고는 목숨의 위기를 느꼈는데요...",
+			"Thank you. But it felt like it was a life-threatening test...",
+			null,
+			"So this is just a test?",
+			"Thank you very much. But I felt my life was in danger for the test, though. ......"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252398,
+			"Why would I fight you otherwise. I don’t really like this kind of bullying, you know~",
+			"要不然我也没有必要和你们战斗，这种欺负人的事情我也很为难呢~",
+			"そうでもしないと本気になれないでしょ？私だってツラかったのよ。",
+			"그 정도는 해야 진심을 낼 수 있지 않겠어? 나도 힘들었단 말야.",
+			"But you wouldn't get serious if I didn't go that far, right? It was tough for me too, you know.",
+			null,
+			"Otherwise, I don't have to fight you guys, I'm having a hard time with this kind of bullying~",
+			"You can't be serious about it if you don't, can you? It was hard for me, too."
+		],
+		[
+			"msg",
+			252399,
+			"But since you have already passed the trial, you are qualified to become Valkyria... It’s time to let you know something, Kyushou and Mei in particular.",
+			"不过既然你们已经通过了测试，就代表着你们已经有了成为女武神的资格了…那么有一些事情也应该让你们知道了，特别是九霄和芽衣。",
+			"テストに合格したということは、戦乙女になる資格があるということ。そこで、あなたたちに知っておいてもらいたいことがあるの。とくに九霄と芽衣に。",
+			"테스트에 합격했다는 건, 전투처녀가 될 자격이 있다는 거야. 그래서, 너희들에게 알아둬야 할 게 있어. 특히 큐쇼와 메이에게.",
+			"Passing this test means you are now qualified to become Valkyries. Now then, there's something I want you all to know. Especially Kyuushou and Mei.",
+			null,
+			"But since you've already passed the test, it means that you're already qualified to become Valkyries...so there are a few things that you should be made aware of, especially Kyuushou and Mei.",
+			"Passing the test means you are eligible to become a War Maiden. So, there is something I want you all to know. Especially to Kyuushou and Mei."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252400,
+			"Me? Are you saying...",
+			"我？难道是在说……",
+			"私たちにですか？何でしょう……？",
+			"저희에게요? 무엇인가요...?",
+			"Especially us? What could it be...?",
+			null,
+			"Me? Could it be talking about ......",
+			"Is it for us? What is it ......?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252401,
+			"Follow me, I will tell you everything slowly.",
+			"先跟我来吧，我会慢慢把一切告诉你们的。",
+			"とりあえず二人ともついてきて。これから全てを話すから。",
+			"일단 둘 다 따라와. 이제부터 모든 것을 말해줄 테니까.",
+			"Anyway, come with me, you two. I'll explain everything.",
+			null,
+			"Come with me first. I'll tell you everything slowly.",
+			"For now, follow me, both of you. I'll tell you everything from now on."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252402,
+			"Mom, where are you taking them?",
+			"老妈你要带她们去哪里？",
+			"ママ、どこに行くの？",
+			"엄마, 어디 가는 거야?",
+			"Where are you taking them, Mom?",
+			null,
+			"Where are you taking them, Mom?",
+			"Mom, where are you going?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252403,
+			"I’m going to show them the history of Valkyria and St. Freya HS. You are probably not interested in this kind of boring stuff~",
+			"带她们了解女武神和圣芙蕾雅学园的历史，这种枯燥的事情你也没兴趣吧~",
+			"ちょっと戦乙女と聖フレイヤ学園の歴史を教えにね。こういうつまらない話、キアナは興味ないでしょ？",
+			"잠시 전투처녀와 세인트 프레야 학원의 역사를 가르쳐 주려고. 이런 지루한 이야기, 키아나는 관심 없지?",
+			"I'm going to teach them a bit about the history of Valkyries and St. Frejya Academy. I'm sure you're not interested in such boring stories, right, Kiana?",
+			null,
+			"Taking them through the history of the Valkyries and St. Freya High School, you're not interested in such a boring thing, are you~?",
+			"I'm here to give you a little history lesson on the War Maiden and St. Freya High School. Kiana is not interested in this kind of boring stuff, right?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252404,
+			"You’re right, but…",
+			"话是这么说……",
+			"まぁ、そうだけど……。",
+			"뭐, 그렇지만...",
+			"Well, yeah, but...",
+			null,
+			"That said ......",
+			"Well, yes, it is. ......."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252405,
+			"Alright~ Go to find Siegfried, they will go back to you after we’re done here~",
+			"好啦~你先去齐格飞那里吧，等这边结束了她们会来找你的~",
+			"なら、先にジークフリートのところに行ってなさい。終わったら呼びに行くから。",
+			"그럼, 먼저 지크프리트 씨에게 가보렴. 끝나면 부르러 갈게.",
+			"Well then, you go find Siegfried. I'll call you when I'm done.",
+			null,
+			"Okay, you go to Siegfried's. They'll come to you when it's over.",
+			"Then go to Siegfried's first. I'll call you when I'm done."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252406,
+			"Dad? Being sneaky again... Alright~ I understand, I will leave it up to you, Mom~",
+			"老爸么？又鬼鬼祟祟的…好吧~我知道了，那后面就交给老妈你啦~",
+			"パパのところ？うん、わかった。芽衣先輩と九霄のことよろしくね。",
+			"아빠한테? 응, 알았어. 메이 선배와 큐쇼 일 잘 부탁해.",
+			"Dad? Alright, got it. Take good care of Mei-senpai and Kyuushou, alright?",
+			null,
+			"Dad? Sneaky again... Okay, I get it. I'll leave the rest to you, Mom.",
+			"At Dad's? Yeah, okay. Take care of Mei-senpai and Kyuushou, okay?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252407,
+			"Alright, go.",
+			"嗯，去吧。",
+			"ええ……またね。",
+			"응... 또 봐.",
+			"Mm-hmm... See you later.",
+			null,
+			"Well, go for it.",
+			"Yeah, see you at ......."
+		]
+	],
+	"116": [
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252408,
+			"Ms. Principal, where are we going now?",
+			"学园长大人，我们后面要去哪呢？",
+			"学園長様、これからどこに行くんですか？",
+			"학원장님, 이제 어디로 가시나요?",
+			"Lady Principal, where are we going now?",
+			null,
+			"Where are we going back there, Mr. Gakuen-senpai?",
+			"Where are you going to go now, Dean?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252409,
+			"Still calling me Ms. Principal...",
+			"还叫我学园长大人么……",
+			"ふふ、まだ学園長様って呼ぶのね。",
+			"후후, 아직 학원장님이라고 부르네.",
+			"Fufu, you're still calling me \"Lady Principal\", huh...",
+			null,
+			"Do you still call me a senior? ......",
+			"Hmmm, you still call me the headmaster, don't you?"
+		],
+		[
+			"msg",
+			252410,
+			"Well, where should I start... Alright, you should already have some understanding of the Shicksal, right?",
+			"嗯，让我想想首先该从哪说起呢……对了，天命组织的内容你们应该已经有一些了解了吧？",
+			"そうね、まずどこから話し始めましょうか……そうだわ、天命組織のこと、少しは知ってるわよね？",
+			"그러네, 먼저 어디부터 이야기를 시작할까... 그래, 천명 조직에 대해 조금은 알고 있지?",
+			"Now then, where should I start...? Right, you already have an idea of what Schicksal is, don't you?",
+			null,
+			"Hmm, let me think about where to start first ...... By the way, you guys should already have some idea of what the Schicksal organization is about, right?",
+			"Well, where should we start talking about ...... Oh yeah, you know a little bit about the Schicksal organization, don't you?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252411,
+			"Yeah, I’ve learned something in Himeko’s class.",
+			"嗯，在姬子老师的课堂上已经了解过一些知识了。",
+			"はい、姫子先生の授業で習いました。",
+			"네, 히메코 선생님 수업에서 배웠습니다.",
+			"Yes, we learned about it in Himeko-sensei's class.",
+			null,
+			"Well, I've already learned something about it in Himeko-sensei's class.",
+			"Yes, I learned it in Himeko-sensei's class."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252412,
+			"The Shicksal is an ancient organization. It was founded in about 7th century. We have always been undercover in this world, and our ultimate goal is to fight against, and eliminate Houkai.",
+			"天命组织是一个非常古老的组织，大约在公元7世纪的时候便已经诞生，我们一直潜伏在世俗之下，将对抗崩坏和消灭崩坏作为组织的最终目标。",
+			"天命組織はとても古い組織なの。紀元7世紀頃にはもう誕生していてね。ずっと俗世間から離れ、崩壊に抵抗し消滅させることを目標に活動してきたわ。",
+			"천명 조직은 아주 오래된 조직이야. 기원 7세기 경에 이미 탄생했고. 줄곧 속세와 떨어져, 붕괴에 저항하며 소멸시키는 것을 목표로 활동해왔어.",
+			"Schicksal is a very old organization. It was founded as early as the 7th century AD. It has always kept itself separate from the mundane world, working to resist the Honkai and ultimately getting rid of it for good.",
+			null,
+			"Schicksal is a very old organization that was born around the 7th century A.D. We have been lurking beneath the mundane, with the fight against the Crash and the destruction of Honkai as the ultimate goal of the organization.",
+			"The Schicksal organization is very old. It was born around the 7th century A.D. It has always been separated from the mundane world and has worked to resist Honkai and to extinguish it."
+		],
+		[
+			"msg",
+			252413,
+			"Because announcing the fact on “Houkai” may cause instability in this world, we have also censored this concept from being spread around. This may sound harsh, but I hope you can understand~",
+			"由于“崩坏”的事实公布可能影响世界的稳定，所以我们也在暗中控制着这个概念的传播，这种控制的手段虽然有些强硬，但希望你们能够理解呢~",
+			"「崩壊」の事実が広まれば世界規模で恐怖が伝搬する。恐怖という感情はそれ単体で脅威だから……私たちはこの事実が広まるのを抑えてきたの。強引な情報統制もしてきたけど、そこは理解してほしいわ……。",
+			"「붕괴」의 사실이 널리 알려지면 세계 규모로 공포가 퍼질 거야. 공포라는 감정은 그 자체로 위협이니까... 우리는 이 사실이 퍼지는 것을 막아왔어. 강압적인 정보 통제도 했지만, 그 부분은 이해해주길 바라...",
+			"If the truth about the \"Honkai\" were to spread, fear would propagate on a global scale. The emotion of fear is a threat in of itself, so we have been suppressing the spreading of this truth. Due to this, we've also been forcefully controlling information, but I hope you understand this...",
+			null,
+			"Because the announcement of Honkai may affect the stability of the world, we are also secretly controlling the spread of this concept, although the means of control is a bit strong, but I hope you can understand it~!",
+			"Once the word gets out about the Honkai, fear will propagate on a global scale. The emotion of fear is a threat on its own, so ...... we've suppressed the spread of this fact. We've also been forceful in controlling information, but you have to understand that. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252414,
+			"Yeah, before this, I never thought the world was already facing such a great crisis...",
+			"的确在这之前我根本就没想过世界已经面临着这么大的危机……",
+			"確かに……世界がこんな重大な危機に直面しているなんて、これまで考えたこともなかったです。",
+			"확실히... 세계가 이런 중대한 위기에 직면하고 있다니, 지금까지 생각해 본 적도 없었어요.",
+			"I certainly never thought the world was... facing such a serious crisis.",
+			null,
+			"Indeed before this I hadn't even considered that the world was already in such a crisis ......",
+			"I certainly had never thought before that the ...... world was facing such a grave crisis."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252415,
+			"Yes, to fight the Houkai, the Shicksal will send many warriors in missions around the world to clear Houkai, eliminate their threat, and protect the world. And you are about to become these warriors, we call them Valkyria.",
+			"没错，为了对抗崩坏，天命会派遣大量的战士在世界各地执行清理崩坏的任务来消灭崩坏的威胁，从而保证世界的安定，而你们将要成为的就是名为女武神的战士。",
+			"それが普通の人の認識なの。そして、崩壊に抵抗するため天命は大勢の戦士を世界各地に派遣したわ。崩壊を始末しては脅威を取り除き、世界の均衡を保ってきたの。これが、あなたたちのなろうとしている戦乙女よ。",
+			"그게 일반 사람들의 인식이야. 그리고 붕괴에 저항하기 위해 천명은 대전의 전사들을 세계 각지에 파견했어. 붕괴를 처리하고 위협을 제거하며, 세계의 균형을 유지해왔지. 이게, 너희들이 되려는 전투무녀야.",
+			"That's how ordinary people perceive it. And so, in order to resist the Honkai, Schicksal sent many warriors to all parts of the world, eliminating the Honkai and other threats, maintaining the balance of the world. These are the Valkyries you are striving to become.",
+			null,
+			"That's right, in order to fight Schicksal, Honkai sends a large number of warriors around the world on a mission to clean up Schicksal and eliminate the threat of Schicksal, thus ensuring the stability of the world, and you are going to be the warriors called Valkyries.",
+			"That's how people usually perceive it. Schicksal has sent many warriors around the world to resist Honkai. Honkai has been eliminated, the threat has been removed, and the balance of the world has been maintained. This is the War Maiden you are about to become."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252416,
+			"Hehe~ It’s the Savior’s duty to fight against this evil power hidden in the dark~ Even if I don’t become a Valkyrie, I will still keep fighting according to the God’s guidance~",
+			"哼哼~对抗这种隐藏在黑暗中的邪恶力量就是救世主的职责~即使不成为女武神我也会按照神的指示战斗下去的~",
+			"ふふん、そういう闇に潜む邪悪な力に抵抗するのも救世主たる者の務め！たとえ戦乙女への道が開かれてなくとも、神の啓示に従って戦っていただろう！！",
+			"훗, 그런 어둠에 숨은 사악한 힘에 저항하는 것도 구세주다운 자의 의무! 설령 전투무녀의 길이 열려있지 않더라도, 신의 계시에 따라 싸우고 있었을 거야!!",
+			"Hmhm, it's the Savior's duty to resist such evil forces lurking in the darkness! Even if the path to becoming a Valkyrie hadn't been opened to me, I still would've fought according to God's revelation!!",
+			null,
+			"Hmph~ Fighting against this evil force hidden in the darkness is the duty of a savior~ Even if I don't become a Valkyrie I'll still fight according to God's instructions~",
+			"It is the duty of a savior to resist such evil forces lurking in the darkness! Even if the path to the War Maiden had not been opened to us, we would have followed God's revelation and fought!"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252417,
+			"Kyoshou, do you know why you have survived from Houkai, and not transformed into a zombie?",
+			"九霄，你知道自己为什么能在崩坏中活下来而没有变成死士么？",
+			"ふふ、頼もしいわね。じゃあ、どうして自分が崩壊の中でも生き延びられて、ゾンビにならなかったんだと九霄は思う？",
+			"훗, 믿음직스럽네. 그럼, 어떻게 네가 붕괴 속에서도 살아남을 수 있었고, 좀비가 되지 않았는지 큐쇼는 생각해?",
+			"Fufu, that's encouraging. So, Kyuushou, how do you think you survived the Honkai and didn't turn into a zombie?",
+			null,
+			"Kyuushou, do you know why you survived the Honkai without becoming a dead man?",
+			"Hmmm, that's encouraging. So, how does Kyuushou think he survived the Honkai and didn't turn into a zombie?"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252418,
+			"Of course it's because I am the Chosen one~",
+			"当然是因为本大人是天选之人啦~",
+			"それはもちろん、この九霄様が天に選ばれし者だから！",
+			"그건 물론, 이 큐쇼님이 하늘에 선택받은 자이기 때문이지!",
+			"Obviously because I, Kyuushou-sama, am the chosen one by heaven!",
+			null,
+			"Of course it's because I'm the Chosen One!",
+			"That is, of course, because this Kyuso-sama is the heavenly chosen one!"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252419,
+			"Hehe~ Well, you are not wrong. Not everyone can become a Valkyrie, only girls with great Houkai adaptability can become one. So it’s kinda like the chosen one.",
+			"呵呵~你这样的想法也不是不对。并不是所有的人都能成为女武神，只有拥有强大崩坏适应性的少女才能够具备女武神的资质，说是天选之人也没有错。",
+			"んー、そういう考え方も間違いではないわね。誰でも戦乙女になれるわけじゃない。強い崩壊適応性を持った少女だけが、戦乙女になれる素質があるの。だから、選ばれし者っていうのも、ある意味正しい表現ね。",
+			"음, 그런 생각도 틀리진 않았어. 누구나 전투무녀가 될 수 있는 건 아니야. 강한 붕괴 적응성을 가진 소녀만이 전투무녀가 될 자질이 있는 거야. 그래서, 선택받은 자라는 것도 어떤 의미에선 맞는 표현이지.",
+			"Hmm, that way of thinking isn't necessarily wrong. Not everyone can become a Valkyrie. Only girls with strong adaptability to the Honkai have the potential to become a Valkyrie. So, in a way, calling yourself a chosen one is an accurate expression.",
+			null,
+			"Oh~ It's not wrong for you to think like that. Not all people can become a Valkyrie, only young girls with strong Honkai adaptations can have the qualifications of a Valkyrie, and it's not wrong to say that they're the Chosen One.",
+			"Hmmm, that way of thinking is not wrong. Not everyone can become a War Maiden. Only a girl with strong adaptability to Honkai can become a War Maiden. So, in a sense, \"the chosen one\" is also a correct expression."
+		],
+		[
+			"msg",
+			252420,
+			"Not only that, your identities are more special than others.",
+			"而且不仅如此，你们的身份比起其他人也更加的特殊。",
+			"ただ、それだけじゃなくて……あなたたちは立場も他の人の比べてずっと特殊なの。",
+			"단, 그뿐만 아니라... 너희들은 입장도 다른 사람들에 비해 훨씬 특별해.",
+			"But that's not all... Your position is also much more special than other people's.",
+			null,
+			"And not only that, but you are more special than the others.",
+			"But not only that, ...... you guys are in a much more special position than the rest of us."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252421,
+			"Is it because I am a Herrscher...",
+			"是因为我是律者么……",
+			"それは私が律者だから……？",
+			"그건 제가 율자이기 때문인가요...?",
+			"Is it because I'm a Herrscher...?",
+			null,
+			"Is it because I'm a Herrscher? ......",
+			"Is that because I am Herrscher ......?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252422,
+			"Yes, but your Herrscher power has been suppressed, and we have not found any Houkai reaction in the checks, so no need to worry too much. We will help to you remove the Herrscher power and become a normal human again.",
+			"没错，不过你现在的律者之力已经被抑制下来了，在检查中也没有发现崩坏反应，所以不用太担心。我们会帮你把体内的律者之力消除，变回正常的人类。",
+			"その通りよ。でも、律者の力自体は抑えられているから安心して。検査でも崩壊反応は発見されなかったから、心配する必要もないわ。いつか、あなたの体内にある律者の力を消し去って、普通の人間に戻してあげる。",
+			"그래. 하지만, 율자의 힘 자체는 억제되어 있으니까 안심해. 검사에서도 붕괴 반응은 발견되지 않았으니, 걱정할 필요도 없어. 언젠가, 네 안에 있는 율자의 힘을 없애고, 평범한 인간으로 돌려줄게.",
+			"That's right. But don't worry, the Herrscher's power itself is being suppressed. The tests didn't reveal any Honkai reactions, so there's no need to worry. One day, I'll get rid of the Herrscher's power from within your body and turn you back into a normal human.",
+			null,
+			"That's right, but your Herrscher power has been suppressed now, and no Honkai reaction was found during the examination, so don't worry too much. We'll help you get rid of the Herrscher power in your body and turn back into a normal human.",
+			"That's right. But rest assured that Herrscher's power itself is under control. No Honkai reactions were found in your tests, so you have nothing to worry about. Someday, I will remove the Herrscher's power from your body and return you to a normal human being."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252423,
+			"A normal human...",
+			"正常的人类么……",
+			"普通の人間にですか！？そんなことが？",
+			"평범한 인간으로요!? 그런 게 가능해요?",
+			"Back into a normal human?! Is that even possible?",
+			null,
+			"Normal humans? ......",
+			"To a normal human being? Is that possible?"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252424,
+			"What about me! Me!",
+			"那我呢！我呢！",
+			"じゃあ、私は！？九宵様は一体何が特殊だったの！",
+			"그럼, 나는!? 큐쇼님은 대체 뭐가 특별했던 거야!",
+			"Well then, what about me?! What exactly is so special about Kyuushou-sama?!",
+			null,
+			"What about me! What about me!",
+			"Then, what about me! What in the world was so special about Kuso-sama?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252425,
+			"Before the Houkai explosion in Nagazora, we found something strange. There was a game published online, with almost identical setting as Houkai. We were very surprised.",
+			"在长空市崩坏爆发之前，我们发现了一个奇怪的事情。一份在网络上发布的游戏内容有着和崩坏如出一辙的设定，这让我们非常惊讶。",
+			"長空市で崩壊が発生する前、奇妙な知らせが入ったの……何でもネット上でリリースされたゲームの設定が、崩壊そのものだっていうね。これには本当驚いたわ。",
+			"창공시에서 붕괴가 발생하기 전, 이상한 소식이 들어왔어…… 뭐냐면 네트워크상에 공개된 게임 설정이, 붕괴 그 자체라는 거야. 이건 정말 놀랐어.",
+			"Before the collapse occurred in Nagazora City, I received some strange news... Apparently, a game released online had the exact same setting as the Honkai. This really surprised me. (TN: I dunno how to phrase this line better.)",
+			null,
+			"Before the outbreak of Honkai in Long Hollow City, we noticed something strange. A piece of game content released on the internet had the same setting as Honkai, which surprised us.",
+			"Before the Honkai occurred in Chang Kuai City, I received the strange news that the setting of the game ...... whatever was released on the internet was the Honkai itself. This really surprised me."
+		],
+		[
+			"msg",
+			252426,
+			"To not let these Houkai-related information into the internet, we had to bring its producer back to the Shicksal to investigate as soon as possible. That was you, Kyushou.",
+			"为了不让这些崩坏相关的信息传播到网络中，只能想办法第一时间将它的制作人带回天命进行调查，而这个人就是你，九霄。",
+			"崩壊に関する情報をネット上に流させないため、即刻このゲームの制作者を天命組織に連れて来ることになったの。そして、調査しようってね。それが九霄……あなただったのよ。",
+			"붕괴 관련 정보를 네트워크상에 유출되지 않도록, 즉시 이 게임 제작자를 천명 조직으로 데려오게 됐어. 그리고, 조사하려고 말이야. 그게 큐쇼…… 너였어.",
+			"To prevent information about the Honkai from being leaked online, we immediately brought the game's creator to Schicksal to investigate. That person... was you, Kyuushou.",
+			null,
+			"In order to keep this Honkai-related information from spreading into the internet, the only thing that could be done was to find a way to bring its producer back to Schicksal for investigation in the first place, and that person was you, Kyuushou.",
+			"I was to bring the creator of this game to the Schicksal organization immediately to prevent any information about Honkai from being spread on the Internet. And they wanted to investigate. That was Kyuushou ...... you."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				4,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252427,
+			"But… But the demo “HOMU Adventure” I published only had single-digit downloads! How did you find out about the game! The Shicksal is scary…",
+			"可…可是我发布的《吼姆大冒险》试玩版下载量才个位数啊！你们是怎么发现这个游戏的！天命组织实在是太可怕了……",
+			"でも、リリースした『ホムの大冒険』は体験版で、しかもダウンロード数もその……ひ、1桁で……。どうやって、このゲームを見つけたの！？て、天命組織……恐るべし。",
+			"하지만, 공개한 『호무의 대모험』은 체험판이었고, 게다가 다운로드 수도 그…… 허, 한 자릿수고……. 어떻게, 이 게임을 찾아낸 거야!? 어, 천명 조직…… 무서운 놈들.",
+			"But the released version of \"Homu's Great Adventure\" was just a trial version, and the number of downloads was... in single digits... How did you find this game!? Schicksal sure is... formidable.",
+			null,
+			"But...but the trial version of Howlm's Adventure I posted only had single digit downloads! How did you guys find out about this game! The Schicksal organization is just horrible ......",
+			"But the released \"Hom's Big Adventure\" is a demo version, and the number of downloads is also in that ...... ratio, ...... in single digits. How did you find this game! I'm afraid of the Schicksal organization ......."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				121,
+				4,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252428,
+			"Don’t worry, our main purpose was to protect you. I think that game was just a coincidence. But Kyushou really had great Houkai adaptability, maybe your are more gifted than Kiana.",
+			"你不用担心，我们的主要目的还是为了保护你，那个游戏的事情我觉得只是巧合罢了，不过九霄确实对崩坏有着极高的适应性，说不定你的天赋还超过了琪亚娜呢。",
+			"心配しないで、私たちの目的はあくまであなたを保護することだったから。あのゲームも偶然の一致だったという見解に落ち着いてるわ。でも、九霄に極めて高い崩壊適応性があるのは確かよ……天性はキアナ以上かも。",
+			"걱정하지 마, 우리의 목적은 어디까지나 너를 보호하는 거였으니까. 그 게임도 우연의 일치였다는 결론에 도달했어. 하지만, 큐쇼에게 극히 높은 붕괴 적응성이 있는 건 확실해…… 천부적인 재능은 키아나 이상일지도.",
+			"Don't worry, our only goal was to protect you. I've come to believe the game is just a coincidence after all. However, it's true you have an extremely high Honkai adaptability, Kyuushou... Perhaps even more so than Kiana.",
+			null,
+			"You don't have to worry, our main goal is still to protect you, that game thing was just a coincidence I think, but Kyuushou does have an extremely high level of adaptability to Honkai, so maybe your talent even exceeds Kiana's.",
+			"Don't worry, our goal was only to protect you. I've settled on the view that that game was just another coincidence. But I am sure that Kyuushou has an extremely high adaptability to Honkai. ...... naturalness may be even more than Kiana."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				2,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252429,
+			"Hehehe~ You don’t have to say nice words to me, I will still let you become my teammate~",
+			"嘿嘿嘿~就算你不拍我的马屁我也会让你成为队友的啦~",
+			"えへへへ～そんな褒めずとも、パーティーに加えてあげるって。",
+			"에헤헤헤~ 그렇게 칭찬하지 않아도, 파티에 넣어줄게.",
+			"Ehehehe~ Even without that praise, I'd still add you to my party.",
+			null,
+			"Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey.",
+			"Hehehe~ You don't have to give me such a compliment, I'll add you to the party."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252430,
+			"Kyushou! Be serious!",
+			"九霄！严肃点！",
+			"きゅ、九霄ちゃん！またそんなこと言って！",
+			"큐, 큐쇼 쨩! 또 그런 말 하고!",
+			"K-Kyuushou-chan! Try and be a bit more serious, would you?!",
+			null,
+			"Kyuushou! Seriously!",
+			"Kyu, Kyuushou! Say that again!"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252431,
+			"Argh...",
+			"咕……",
+			"うぐ……ご、ごめんなさい。",
+			"으윽…… 미, 미안해요.",
+			"Grk... I-I'm sorry.",
+			null,
+			"Goo ......",
+			"Ugu...... go, I'm sorry."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252432,
+			"Well, let's move on, there's a lot more to talk about, and I don't know if you can totally accept it ...",
+			"好了，我们继续向前走吧，要讲的东西还有很多，不知道你们能不能完全接受呢……",
+			"ふふ、いいわよ、このまま先に進みましょう。まだまだ、たくさん話すことがあるの。あなたたちが全て受け入れられるかどうか、分からないけど……。",
+			"후후, 괜찮아, 이대로 계속 앞으로 가자. 아직도, 할 말이 많아. 너희가 모두 받아들일 수 있을지는, 모르겠지만…….",
+			"Fufu, that's okay, let's just keep going. There's still a lot to talk about. I don't know if you'll be able to take it all in, but...",
+			null,
+			"Well, let's move on, there's a lot more to talk about, I don't know if you guys can take it all in ......",
+			"Hmmm, okay, let's just move on. I have so much more to tell you. I don't know if you guys can take it all in. ......"
+		]
+	],
+	"117": [
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252433,
+			"We are going down now! Is there some kind of secret weapon down under!",
+			"我们现在是在往下走吧！难道底下有着什么秘密武器之类的么！",
+			"どこまで行くの？どんどん下の方に向かってるけど……もしかして、地下に何か秘密が！？すっごい武器が隠してあるとか！",
+			"얼마나 더 가는 거야? 점점 아래쪽으로 향하고 있는데…… 혹시, 지하에 뭔가 비밀이!? 엄청난 무기가 숨겨져 있다든가!",
+			"How far are we going? We seem to be heading lower and lower... Could there be some big secret underground? Maybe there's awesome weapons hidden down there?!",
+			null,
+			"We're going down now, aren't we? Is there some secret weapon or something down there!",
+			"How far does it go? We're going down and down and down. ...... Could it be that there are some secrets underground? Maybe there are some awesome weapons hidden down there!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252434,
+			"This cathedral is really big. I never knew there was a place like this in St. Freya HS.",
+			"这个教堂的确很大呢，没想到圣芙蕾雅学园还有这样的地方。",
+			"こんな広い大聖堂に、こんな地下まであるなんて……聖フレイヤ学園には、まだまだ行ったことない場所がたくさんあったのね。",
+			"이렇게 넓은 대성당에, 이런 지하까지 있다니……세인트 프레야 학원에는 아직도 가보지 못한 곳이 많았네.",
+			"To think that the Cathedral had a basement like this all along... There's still many places at St. Freyja Academy that I haven't been to yet.",
+			null,
+			"This church is indeed very big, I didn't realize St. Freya High School had a place like this.",
+			"I didn't realize there was such a large cathedral and even such a basement. ...... There were so many places in St. Freya High School that I hadn't been to yet."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252435,
+			"This is the center of St. Freya HS, and the most important facility. Kiana should have told you already, the cathedral stores and seals Houkai Energy, and Valkyria train here.",
+			"这里是圣芙蕾雅学园的中心，也是最重要的设施。琪亚娜应该已经和你们讲过了吧，大教堂内存储和封印着崩坏能，是女武神训练的地方。",
+			"ここはね、聖フレイヤ学園の中心ともいえる場所で、最も重要な施設でもあるの。ここに崩壊エネルギーが蓄えられているっていうのは、キアナからもう聞いたかしら？",
+			"여기는 세인트 프레야 학원의 중심이라고 할 수 있는 곳이자, 가장 중요한 시설이야. 여기에 붕괴 에너지가 축적되어 있다는 건 키아나에게서 이미 들었지?",
+			"This place is pretty much be the center of St. Freyja Academy, and it's also its most important facility. Did you hear from Kiana about the Honkai Energy stored here?",
+			null,
+			"This is the center of St. Freya High School and the most important facility. Kiana should have already told you about it, the Cathedral stores and seals Honkai energy and is where the Valkyries train.",
+			"This is the center of St. Freya High School and its most important facility. Did Kiana already tell you that Honkai energy is stored here?"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252436,
+			"Yeah… But where did the Houkai Energy come from? There is no Houkai happening outside, did you transport them from somewhere?",
+			"嗯…但是这些崩坏能是从哪里来的呢？大教堂之外并没有崩坏发生，难道是从外面运输进来的么？",
+			"ええ……でも、この崩壊エネルギーはどこから来ているのですか？大聖堂の周囲には崩壊が発生していないのに……もしかして、どこか別のとこから運んできたんですか？",
+			"네…… 하지만 이 붕괴 에너지는 어디서 온 거죠? 대성당 주변에는 붕괴가 발생하지 않았는데…… 혹시 다른 곳에서 운반해 온 건가요?",
+			"Yes... but where is the Honkai Energy coming from? There's not a Honkai outbreak here at the Cathedral... Is it being transported from somewhere else?",
+			null,
+			"Hmm...but where did the Honkai come from? There's no Honkai happening outside the cathedral, so is it being transported in from outside?",
+			"Yes...... but where is this Honkai energy coming from? Honkai is not occurring around the cathedral, but ...... maybe it was transported from somewhere else?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252437,
+			"You are really sharp, I’m sure you will have greater achievements...",
+			"你们还真是敏锐的孩子呢，今后一定会有更大的作为吧……",
+			"本当に鋭い娘たちねえ。将来が楽しみだわ……。",
+			"정말 날카로운 아이들이네. 미래가 기대되는 걸…….",
+			"You are really sharp girls. I'm looking forward to your future...",
+			null,
+			"You guys are really sharp kids, you'll do great things in the future I'm sure ......",
+			"Really sharp girls, aren't they? I can't wait to see what the future holds. ......"
+		],
+		[
+			"msg",
+			252438,
+			"Since you are so interested, the next thing I will tell you is the truth of the Valkyria and St. Freya HS. It is also the reality that all Valkyria have to face.",
+			"既然你们这么有兴趣，那接下来我将告诉你们的就是女武神和圣芙蕾雅学园的真相，也是所有女武神都需要面对的现实。",
+			"そんなに興味があるなら、次は戦乙女と聖フレイヤ学園の真相を教えてあげましょう。戦乙女全員が直面する現実でもあるし……。",
+			"그렇게 관심이 많다면, 다음은 전투처녀와 세인트 프레야 학원의 진실을 가르쳐 줄게. 전투처녀 모두가 직면하는 현실이기도 하고…….",
+			"If you're that interested, then I'll tell you the truth about the Valkyries and St. Freyja Academy. It's the reality that all Valkyries face...",
+			null,
+			"Since you are so interested, what I will tell you next is the truth about Valkyries and St. Freya High School, and the reality that all Valkyries need to face.",
+			"If you are so interested, I can tell you the truth about the War Maidens and St. Freya High School next. It's a reality that all war maidens face. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252439,
+			"Reality…?",
+			"现实……？",
+			"現実……？",
+			"현실……?",
+			"Reality...?",
+			null,
+			"Reality ......?",
+			"Reality ......?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252440,
+			"Yeah, the Shicksal had started developing Valkyria to fight Houkai from long ago, but there were not many Valkyria at that time, only some Shicksal members with family bloodline, and a few high-adaptability girls we found externally.",
+			"嗯，从很久以前开始，天命组织就已经在培养对抗崩坏的女武神了，但是当时的女武神很少，只有一些拥有家族血统的天命成员和少数外部发现的高适应性少女组成。",
+			"ええ……天命組織の要とも言える戦乙女だけど、実際なれる者は少なかったの。ほんの一昔前まで、一族の血を引く天命メンバーと外部で僅かに見つかった適応性の高い少女たちだけで戦乙女の部隊は構成されていたわ。",
+			"네……천명 조직의 핵이라고 할 수 있는 전투처녀지만, 실제로 될 수 있는 자는 적었어. 불과 얼마 전까지는 일족의 피를 이은 천명 멤버와 외부에서 간신히 발견된 적응성이 높은 소녀들만으로 전투처녀 부대가 구성되었지.",
+			"Yes... Valkyries are the backbone of Schicksal, but in reality, there were very few who could become them. Until just a few decades ago, Valkyrie squads were made up of only Schicksal members from the Houses' bloodlines and the few highly adaptable girls found outside. (TN: Such a long sentence without punctuation...)",
+			null,
+			"Well, the Schicksal organization has been training Valkyries to fight Honkai since long ago, but back then there were very few of them, consisting of only a few Schicksal members with family bloodlines and a few highly-adapted young girls found outside.",
+			"Yes,......The War Maidens are the cornerstone of the Schicksal organization, but in reality, there were very few who could become one. Until a very short time ago, the Schicksal unit consisted of Schicksal members with family blood and a few adaptable girls found on the outside."
+		],
+		[
+			"msg",
+			252441,
+			"Those Valkyria were actually normal girls, no different than normal humans. They were sent to battlefield because they could survive through Houkai, and were trained to become Houkai-fighting weapons by the Shicksal.",
+			"这些女武神其实就是普通的少女，他们和普通人无异，只是因为能在崩坏中存活下来就被送上了战场，在天命的训练下变成对抗崩坏的兵器。",
+			"ただね、この少女たちはごく普通の子でもあったの。普通の人と何ら変わりのない、崩壊の中で生き延びられるといった理由だけで戦場に送られた可哀想な子。天命の訓練を受け、対崩壊兵器となって……。",
+			"하지만 이 소녀들은 아주 평범한 아이들이기도 했어. 평범한 사람과 다를 바 없는, 붕괴 속에서 살아남을 수 있다는 이유만으로 전장에 보내진 불쌍한 아이들. 천명의 훈련을 받고, 대붕괴 병기가 되어…….",
+			"But these girls were also just ordinary children. They were no different from ordinary people, just poor children who were sent to the battlefield simply because they could survive in Honkai outbreaks. They received training from Schicksal and became anti-Honkai weapons...",
+			null,
+			"These Valkyries are actually ordinary young girls, they are no different from ordinary people, just because they can survive the Schicksal they are sent into battle and trained by the Schicksal to become weapons against the Schicksal.",
+			"But you see, these girls were also very ordinary children. Poor children, no different from ordinary people, sent to the battlefield just because they could survive in Honkai. They were trained by Schicksal to become anti-disintegration weapons. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252442,
+			"So cruel...",
+			"好残忍……",
+			"そんな、酷い……。",
+			"그런, 끔찍해…….",
+			"How cruel...",
+			null,
+			"So cruel ......",
+			"Such a terrible ......."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252443,
+			"That's right. But this is the fate of the Valkyrie, because we are the only ones can fight Houkai. It is very painful, but I hope you can accept this duty.",
+			"没错。但是这就是女武神的宿命，只有我们才可以与崩坏对抗，虽然很痛苦，但是我希望你们能接受这样的使命。",
+			"そうね。でも、これが戦乙女の宿命なの。私たちでなければ崩壊に抵抗できない。辛いだろうけど、そうでもしないと世界が滅んでしまう。あなたたちには、この使命を受け入れてほしいの。",
+			"그래. 하지만 이게 전투처녀의 숙명이야. 우리가 아니면 붕괴에 저항할 수 없어. 힘들겠지만, 그렇지 않으면 세계가 멸망해 버려. 너희들은 이 사명을 받아들여 주길 바라.",
+			"That's right. But this is the destiny of the Valkyries. Only we can resist the Honkai. It will be painful, but if we do not, the world will be destroyed. I hope you all accept this mission.",
+			null,
+			"That's right. But this is the destiny of the Valkyries, only we can fight Honkai, and as painful as it is, I hope you will accept such a mission.",
+			"Yes, it is. But this is the fate of the war maidens. Only we can resist Honkai. It will be painful, but if we don't do it, the world will be destroyed. I want you to accept this mission."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252444,
+			"I have no problem with that, Kiana saved my life, without her, I would probably have become a monster...",
+			"我没问题，我的命就是琪亚娜救下来的，如果没有她，我已经变成了怪物了吧……",
+			"……私なら大丈夫です。キアナちゃんに救ってもらった命を、怪物にならずに済んだ私の命を……キアナちゃんがいるこの世界のために使いたい。",
+			"……저라면 괜찮아요. 키아나 쨩이 구해준 목숨을, 괴물이 되지 않아도 된 제 목숨을……키아나 쨩이 있는 이 세상을 위해 쓰고 싶어요.",
+			"...I'm fine with it. I want to use the life that Kiana-chan saved... for the sake of the world that Kiana-chan lives in. Without her, I would have become a monster by now...",
+			null,
+			"I'm fine with that, my life was saved by Kiana, without her, I would've turned into a monster, right? ......",
+			"I can ...... handle it. I want to use my life that Kiana saved me from becoming a monster ...... for this world where Kiana is."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252445,
+			"What a foolish question! I have never feared on the way against the Power of Abyss~ When I became the Savior, I had already accepted my destiny of loneliness~",
+			"真是愚问！在对抗深渊之力的路上我从来都没有畏惧过~在成为救世主的那一刻就已经接受了孤独的宿命~",
+			"ふっふっ、愚問だな！ダークパワーとの戦いの火蓋を切ったその日から、覚悟は決めていた！救世主たるもの、そのような宿命はとうに受け入れている。",
+			"훗훗, 어리석은 질문이군! 다크 파워와의 전쟁의 포문을 연 그날부터, 각오는 이미 결정했어! 구세주라면, 그런 숙명은 오래전에 받아들였지.",
+			"Heh heh, what a foolish thing to ask! I was prepared from the day the battle against the power of darkness began! As the Savior, I have long since accepted such a fate.",
+			null,
+			"What a foolish question! I've never been afraid to fight against the power of the Abyss~ I accepted the fate of loneliness the moment I became a savior~",
+			"Pfft, that's a foolish question! From the day the battle with dark power began, I was prepared for it! As a Salvationist, I have long since accepted such a fate."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				121,
+				3,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252446,
+			"You two are very unique. Thank you very much for your understanding.",
+			"真是与众不同的两人呢，非常感谢你们的觉悟。",
+			"本当に常人離れした二人ね。その覚悟に心から感謝するわ。",
+			"정말 보통 사람을 뛰어넘은 두 사람이네. 그 각오에 진심으로 감사드려.",
+			"You two surely are truly extraordinary people. I'm truly grateful for your determination.",
+			null,
+			"What a different duo, thank you so much for your realization.",
+			"You two are truly out of the ordinary. I really appreciate your determination."
+		],
+		[
+			"msg",
+			252447,
+			"The Shicksal had always been trying to find ways to enhance the combat abilities of Valkyria, but the casualty rate could not be improved because they were still humans no matter how powerful the weapons were... Until the Valkyria Operation came after the 2nd Houkai.",
+			"为了对抗崩坏，天命一直在寻找方法强化女武神的作战能力，但是并没有从根本上改善女武神的死亡率，因为武器再怎么强大，但人类终究也只是人类……直到第二次崩坏之后诞生的女武神改造手术才改变了现状。",
+			"話を続けるわね……崩壊の脅威に対し戦乙女の数が足りない、それが天命を長年悩ませたわ。武器をどんなに強くしても所詮は人間……数は減る一方。けど、第二次崩壊後に戦乙女改造手術が確立され変化が起きたの。",
+			"이야기를 계속할게……붕괴의 위협에 대해 전투처녀의 수가 부족한 것이 천명을 오랫동안 괴롭혔어. 무기를 아무리 강하게 해도 결국은 인간……수는 줄어들기만 했지. 하지만, 제2차 붕괴 후 전투처녀 개조 수술이 확립되며 변화가 일어났어.",
+			"Continuing my story... The lack of Valkyries to counter the threat of the Honkai has troubled Schicksal for many years. No matter how powerful their weapons are, they are still humans... and their numbers were only decreasing. However, after the Second Eruption, the Valkyrie transformation surgery was implemented, and something changed.",
+			null,
+			"In order to combat Schicksal, Honkai has been looking for ways to strengthen the Valkyries' combat abilities, but it hasn't fundamentally improved the mortality rate of the Valkyries, because no matter how powerful the weapons are, humans are still just humans after all ...... It wasn't until the Valkyrie transformation surgeries that were born after the second Schicksal that the status quo was changed.",
+			"I'll continue. ...... There aren't enough war maidens to meet the threat of Honkai, and that has plagued Schicksal for years. No matter how strong the weapons are, they are still only human ...... and their numbers are dwindling. But that changed after the Second Honkai with the establishment of the surgery to modify the war maidens."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252448,
+			"Valkyria Operation?",
+			"女武神手术？",
+			"戦乙女……改造手術？",
+			"전투처녀……개조 수술?",
+			"Valkyrie... transformation surgery?",
+			null,
+			"Valkyrie surgery?",
+			"War Maiden ...... remodeling surgery?"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				2,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252449,
+			"Wow! Feels like science fantasy now!",
+			"噢噢噢！感觉越来越有科学幻想的气氛了呢！",
+			"おおぉ！どんどんSFっぽくなってきた！",
+			"오오! 점점 SF스러워지고 있어!",
+			"Ooooh! This is starting to feel more and more sci-fi!",
+			null,
+			"Ooooohhhh! It's feeling more and more sci-fi!",
+			"Oooh! It's getting more and more science fiction-like!"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				121,
+				2,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252450,
+			"Really... I hope you can accept what I am about to say.",
+			"是么…那希望我后面说的话你们也可以接受。",
+			"そうね……じゃあ、これから話すことも受け入れてくれるかしら。",
+			"그래……그럼, 이제부터 할 이야기도 받아들여 줄 수 있을까.",
+			"That's right... Now, I wonder if you'll accept what I'm about to say.",
+			null,
+			"Really...then I hope what I say later is acceptable to you as well.",
+			"Yes. ...... Then I hope you will accept what I am about to tell you."
+		],
+		[
+			"msg",
+			252451,
+			"14 years ago, I fought with the 2nd Herrscher in Siberia and eventually defeated her. I brought her body and the Herrscher Core containing enormous Houkai Energy back to the Shicksal.",
+			"十四年前，我在西伯利亚与第二律者交战，最终击败了她，并将第二律者的遗体以及含有巨大崩坏能量的律者核心带回了天命。",
+			"14年前、私はシベリアで第二律者と戦った。最終的には彼女を倒し、その遺体と一緒に大量の崩壊エネルギーを含んだ律者のコアを天命組織に持ち帰ったわ。",
+			"14년 전, 나는 시베리아에서 제2 율자와 싸웠어. 결국 그녀를 쓰러�렸고, 그 시체와 함께 대량의 붕괴 에너지를 포함한 율자의 코어를 천명 조직에 가져왔지.",
+			"14 years ago, I fought the Second Herrscher in Siberia. I eventually defeated her and brought back her Core — which contained a huge amount of Honkai Energy — along with her body to Schicksal.",
+			null,
+			"Fourteen years ago, I fought the Second Herrscher in Siberia, ultimately defeating her and bringing back the remains of the Second Herrscher and the Herrscher Core, which contained a tremendous amount of Herrscher energy, to Schicksal.",
+			"Fourteen years ago, I fought the Second Herrscher in Siberia. I eventually defeated her and brought back to the Schicksal organization the Herrscher's core, which contained a large amount of Honkai energy, along with her body."
+		],
+		[
+			"msg",
+			252452,
+			"The application of Houkai Energy rapidly developed from the research on the Herrscher Core. The Shicksal deployed many powerful Houkai Energy Weapons, but Valkyria themselves did not have enough physical abilities to use the weapons. So the research moved on to study how we could enhance the Valkyria’s body.",
+			"在对律者核心的研究中，天命对崩坏能的应用得到了飞速发展，大批强大的崩坏能武器运用到实战中，但是女武神本身的体能无法满足这些兵器的使用要求，于是研究就发展到了对女武神本身的强化上面。",
+			"そして、律者のコアを研究することで、崩壊エネルギーの応用は一気に進んだ。強力な武器を実戦投入できるようにもなったわ。でもね、戦乙女がその負荷に耐えられなかったの。扱うには身体を強化する必要があった。",
+			"그리고, 율자의 코어를 연구함으로써 붕괴 에너지의 응용은 한순간에 진전되었어. 강력한 무기를 실전에 투입할 수 있게 되었지. 하지만 말야, 전투처녀가 그 부하를 견디지 못했어. 다루기 위해서는 신체를 강화할 필요가 있었던 거야.",
+			"And by studying the Herrscher Core, the application of Honkai Energy advanced dramatically. It even became possible to use more powerful weapons in actual combat. However, the Valkyries could not withstand the load. They had to strengthen their bodies to handle it.",
+			null,
+			"In the research on the core of the Herrscher, Schicksal's application of disintegration energy developed by leaps and bounds, and a large number of powerful disintegration energy weapons were utilized in actual combat, but the Valkyries themselves could not physically meet the requirements for the use of these weapons, and so the research evolved over the strengthening of the Valkyries themselves.",
+			"And by studying the Herrscher's core, the application of Honkai energy went through the roof. We could even put powerful weapons into action. But you see, the war maidens could not withstand the load. It was necessary to strengthen their bodies to handle it."
+		],
+		[
+			"msg",
+			252453,
+			"That was how the Valkyria Operation was invented. The operation injects cells with Houkai Energy to Valkyria’s body so they are infused with Houkai. The Houkai adaptability and their physical abilities will improve greatly after the operation.",
+			"而女武神改造手术也因此孕育而生，手术的目的是将带有崩坏能的细胞注入到女武神体内，让崩坏与肉体结合，具有崩坏适应性的少女，在进行手术后适应性会得到大幅提升，体能也会得到很大的强化。",
+			"戦乙女改造手術は、こうして生まれたの。崩壊エネルギーを帯びた細胞を戦乙女の体内に注入し、崩壊と肉体を結合させる。これによって崩壊適応性が大幅に上昇し、身体能力もかなり強化されたわ。",
+			"전투처녀 개조 수술은, 이렇게 탄생했어. 붕괴 에너지를 띤 세포를 전투처녀의 체내에 주입해, 붕괴와 육체를 결합시키는 거야. 이를 통해 붕괴 적응성이 크게 상승했고, 신체 능력도 상당히 강화되었지.",
+			"This is how the Valkyrie transformation surgery was born. Cells imbued with Honkai Energy are injected into the Valkyries' bodies, fusing them with the flesh. This greatly increases their Honkai adaptability and greatly strengthens their physical abilities.",
+			null,
+			"The Valkyrie Transformation Surgery was also birthed as a result of this. The purpose of the surgery is to inject cells with Honkai energy into the body of the Valkyrie, so that the Honkai can be combined with the physical body, and young girls with Honkai adaptability will see their adaptability drastically improved and their physical abilities greatly strengthened after undergoing the surgery.",
+			"This is how the battle maiden remodeling surgery was born. Cells imbued with Honkai energy are injected into the body of the War Maiden, and the body is combined with Honkai. This greatly increases their adaptability to Honkai and considerably enhances their physical capabilities."
+		],
+		[
+			"msg",
+			252454,
+			"But on the other hand, their lives will be eroded by Houkai rapidly, and eventually consumed by Houkai...",
+			"但相对的，在崩坏的侵蚀下生命也将急剧燃烧，最终迎来被崩坏侵蚀的命运……",
+			"……でも、それとは引き換えに生命力が急激に燃焼されてしまうことがわかったの。そして、最終的には崩壊に侵食されてしまう運命を迎える……。",
+			"……하지만 그 대신 생명력이 급격히 연소되어 버린다는 걸 알게 됐어. 그리고 결국에는 붕괴에 침식당하는 운명을 맞이하게 되지……",
+			"...However, we discovered that in exchange for this, their life force would be burned away more rapidly. And eventually, their bodies would be consumed by the Honkai...",
+			null,
+			"But relatively, life will also burn dramatically under the erosion of Honkai, eventually ushering in the fate of being eroded by the collapse ......",
+			"I've found that ......, but in exchange, their life force is rapidly burned away. And eventually, we are doomed to be eroded by Honkai. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252455,
+			"No way... So, are all the Valkyria now…",
+			"怎么会……那现在的女武神难道……",
+			"そんな……じゃあ今いる戦乙女は……。",
+			"그런…… 그럼 지금 있는 발키리는……",
+			"It can't be... Then the Valkyries here now are...",
+			null,
+			"How can ...... that the current Valkyrie be ......",
+			"If you are such a ......, then the war maiden you are now is ......."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252456,
+			"That was why St. Freya HS existed. We hire compatible girls and turn them into powerful Valkyria through operations, equip them with anti-Houkai weapons and train them. It is literally an “Arsenal”.",
+			"这就是圣芙蕾雅学园存在的理由，招募拥有适格者的少女，通过手术让她们变为强大的女武神，在装配专属对崩坏武器进行训练，是一所真正意义上的“兵工厂”。",
+			"……そう、考えている通りよ。それが聖フレイヤ学園が存在する理由なの。崩壊に適応する少女を集めて、手術によって強い戦乙女へと改造……そして、対崩壊用の武器を取り付けて訓練を施す。一種の「兵器工場」ね。",
+			"……그래, 생각하는 대로야. 그게 세인트 프레이아 학원이 존재하는 이유야. 붕괴에 적응하는 소녀들을 모아서, 수술을 통해 강한 발키리로 개조…… 그리고, 대붕괴용 무기를 장착하고 훈련을 시키는 거. 일종의 「병기 공장」이지.",
+			"...Yes, it's just as you think. That's why St. Freyja Academy exists. They gather girls who with Honkai adaptability, and through surgery they turn them into strong Valkyries... and then they are fitted with anti-Honkai weapons and trained. It's a kind of \"weapons factory\".",
+			null,
+			"This is the raison d'être of St. Freya High School, a true \"arsenal\" that recruits young girls with the right qualities, surgically transforms them into powerful Valkyries, and trains them in the assembly of exclusive Honkai weapons.",
+			"......Yes, just as you think. That's why St. Freya High School exists. Girls who are adapted to Honkai are gathered, surgically altered into strong war maidens,...... and fitted with anti-disintegration weapons and trained. A \"weapons factory\" of sorts."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252457,
+			"This… No way… How can this be!",
+			"这……不可能…这种事情居然真的存在么！",
+			"そんな……バカな……そんなこと本当にありえるの！？",
+			"그런…… 말도 안 돼…… 그런 게 정말 가능하다고!?",
+			"That's... ridiculous... Is something like this really possible?!",
+			null,
+			"This ...... is impossible...does this kind of thing actually really exist!",
+			"That ...... stupid ...... is really possible!"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252458,
+			"You asked where the Houkai Energy came from, didn’t you? The 2nd Herrscher and her Core were buried under this cathedral.",
+			"你们之前不是询问这里的崩坏能是从何而来么？因为第二律者和它的律者核心正是埋藏在这个大教堂的底下。",
+			"さっき、ここの崩壊エネルギーはどこから来ているのか聞いたわよね？それはね……第二律者の遺体とそのコアが、この大聖堂の地下に保管されているからなの。",
+			"아까, 여기의 붕괴 에너지는 어디에서 오는지 물었지? 그건 말야…… 제2율자의 유체와 그 코어가 이 대성당 지하에 보관되어 있기 때문이야.",
+			"Earlier, you asked where the Honkai Energy here comes from, right? Well, it's because... the remains of the Second Herrscher and her Core is being kept in the basement of the Cathedral.",
+			null,
+			"Didn't you guys ask earlier where the Honkai energy here came from? Because the Second Herrscher and its Herrscher core are buried underneath this very cathedral.",
+			"Earlier you asked where the Honkai energy here comes from? That's because ...... the bodies and cores of the Second Herrscher are stored in the basement of this cathedral."
+		],
+		[
+			"msg",
+			252459,
+			"This is the truth of the School, and the truth of this place.",
+			"这便是这座学园的真相，也就是这个地方的真相。",
+			"これこそがこの学園……そして、この場所の真相。",
+			"이것이 바로 이 학원…… 그리고, 이 장소의 진실.",
+			"This is the truth of the academy... and this organization.",
+			null,
+			"That is the truth about this academy, the truth about this place.",
+			"This is the truth about this school ...... and this place."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				203,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252460,
+			"…This is… Valkyria…",
+			"……女武神…居然是这样的存在么……",
+			"……戦乙女が……そんな存在だったなんて……。",
+			"……발키리가…… 그런 존재였다니……",
+			"...I never knew Valkyries were... like this...",
+			null,
+			"...... Valkyrie...is it actually this kind of existence ......",
+			"I didn't know that ...... war maidens were such a ...... thing."
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252461,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			"......"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252462,
+			"I feel obliged to let you know the truth as atonement.",
+			"作为赎罪，我觉得有必要让你们知道这些真相。",
+			"罪滅ぼしに、あなたたちにこの真相を伝えておかなきゃと思ったの。",
+			"죄값을 치르기 위해, 너희들에게 이 진실을 전해둬야 한다고 생각했어.",
+			"To atone for my sins, I felt I had to tell you both the truth.",
+			null,
+			"As atonement, I feel compelled to let you know these truths.",
+			"To atone for my sins, I felt I had to tell you guys the truth about this."
+		],
+		[
+			"msg",
+			252463,
+			"Let’s keep going. The 2nd Herrscher was preserved in front.",
+			"走吧，前面就是保存第二律者的地方。",
+			"行きましょう。この先に第二律者を保存してる場所があるの。",
+			"가자. 이 앞에 제2율자를 보존하고 있는 장소가 있어.",
+			"Let's go. Up ahead is the place where the Second Herrscher is kept.",
+			null,
+			"Let's go. Up ahead is where the Second Herrscher is kept.",
+			"Let's go. There's a place down the street where they keep the Second Herrscher."
+		]
+	],
+	"118": [
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252464,
+			"Here we are, the forbidden location of the St. Freya HS, the Dogma. In front of you is the lab where the 2nd Herrscher was preserved.",
+			"到了，这里就是圣芙蕾雅学园的禁地，教条区。而你们面前的这个地方，就是存放第二律者的实验室。",
+			"着いたわ。ここが聖フレイヤ学園の立入禁止区域、ドグマエリアよ。そして、あなたたちの目の前にあるのが、第二律者を保存している実験室。",
+			"도착했어. 여기가 세인트 프레야 학원의 출입 금지 구역, 도그마 에리아야. 그리고, 너희들 눈앞에 있는 것이 두 번째 율자를 보존하고 있는 실험실.",
+			"We've arrived. This is the Dogma Zone, a restricted area of St. Freyja Academy. And right in front of you is the laboratory where the Second Herrscher is kept.",
+			null,
+			"Here it is. This is the forbidden area of St. Freya High School, the Dogma Zone. And this place before you is the laboratory that houses the Second Herrscher.",
+			"Here we are. This is the Dogma Area, the off-limits area of St. Freya High School. And right in front of you is the laboratory where the Second Herrscher is kept."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252465,
+			"This… This is too cruel!",
+			"这…这太残酷了！",
+			"なんて……酷いことを！",
+			"뭐라... 끔찍한 일이야!",
+			"How... How cruel!",
+			null,
+			"This...this is cruel!",
+			"What a ...... terrible thing to do!"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252466,
+			"I will not accept this! This is not the power of justice! This is no different from the demons in hell!",
+			"我不承认这是正义的力量！不！这样的行为和地狱的恶魔有什么区别！",
+			"これが正義……？み、認めないぞ！こんなやり方……まるで悪魔と同じじゃないか！",
+			"이게 정의...? 난, 인정할 수 없어! 이런 방법... 마치 악마와 다를 바 없잖아!",
+			"Is this justice...? I-I won't accept it! This way of doing things... is just like the devil's!",
+			null,
+			"I don't recognize this as a force for good! No! What's the difference between such behavior and the demons of hell!",
+			"Is this justice ......? I don't approve of this! This way ...... is just like the devil, isn't it?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252467,
+			"So he was right… This place has very high Houkai concentration, normal Valkyria can’t even get close. There must be some extraodinary power within you…",
+			"果然他的猜想是对的…在崩坏浓度如此强烈的地方，一般的女武神都无法踏足，你们的体内果然隐藏着不同寻常的力量……",
+			"やっぱり、彼の推測は正しかったわね……これほど崩壊濃度の濃い場所、並の戦乙女では足を踏み入れることもできない。あなたたちの体内には、やっぱり尋常ではない力が隠されてる……。",
+			"역시, 그의 추측은 맞았군... 이렇게 붕괴 농도가 짙은 장소, 평범한 발키리라면 발을 들여놓을 수도 없어. 너희들 체내에는 역시 평범하지 않은 힘이 숨겨져 있었어...",
+			"Sure enough, his hypothesis was correct... This is a place with such a high Honkai concentration, no ordinary Valkyries can even set foot in it. There must be an extraordinary power hidden within your bodies...",
+			null,
+			"Sure enough, his suspicions were right... In a place where the concentration of Honkai is so strong that no ordinary Valkyries can even set foot in it, you guys really do have an unusual power hidden within you ......",
+			"I knew he was right in his guess. ...... Such a high concentration of Honkai, no ordinary war maiden could even set foot in this place. There is, after all, an unusual power hidden in your bodies. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252468,
+			"Ms. Principal... Why are you telling us all this? Have all the Valkyria accepted it already?",
+			"学园长大人…你为什么要告诉我们这些！难道女武神们都已经接受了这样的安排么？",
+			"学園長様……どうして、こんな話を私たちに？戦乙女は皆この運命を受け入れているんですか？",
+			"학원장님... 왜, 이런 이야기를 우리에게? 발키리는 모두 이 운명을 받아들이고 있는 건가요?",
+			"Lady Principal... why are you telling us this? Do all the Valkyries have to accept this fate?",
+			null,
+			"Hokage-sama...why are you telling us this! Have the Valkyries all accepted this arrangement?",
+			"Dear Dean ...... Why are you telling us this story? Do all war maidens accept this fate?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252469,
+			"I have only told two of you. None of the other Vakyria are aware of it.",
+			"这里的真相我也只告诉了你们两人而已，其他的女武神都不知情。",
+			"いえ、この真相を教えたのは、あなたたち二人だけよ。他の戦乙女は何も知らないわ。",
+			"아니, 이 진상을 알려준 건 너희 둘 뿐이야. 다른 발키리들은 아무것도 모른다.",
+			"No, you two are the only ones who have been told the truth. The other Valkyries don't know anything.",
+			null,
+			"The truth here is that I have only told the two of you, and none of the other Valkyries know about it.",
+			"No, you two are the only ones who told them the truth about this. The other war maidens know nothing about it."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252470,
+			"Even Kiana...",
+			"难道琪亚娜也……",
+			"まさか、キアナちゃんにも……。",
+			"설마, 키아나 쨩에게도...",
+			"That means, Kiana-chan also...",
+			null,
+			"Did Kiana also ......",
+			"No way, Kiana, you can also visit ......."
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252471,
+			"No, Kiana is different from other Valkyria. I didn’t let her take the operation, so don’t worry.",
+			"不，琪亚娜她与别的女武神不同，我并没有让她进行手术，所以不用担心。",
+			"心配しないで、キアナは他の戦乙女とは違うの。あの娘には手術を施してないから安心して。",
+			"걱정하지 마, 키아나는 다른 발키리들과 달라. 그 아이에게는 수술을 시행하지 않았으니 안심해.",
+			"Don't worry, Kiana is not like the other Valkyries. She hasn't had the surgery, so don't worry.",
+			null,
+			"No, Kiana she's different from the other Valkyries, I didn't make her undergo surgery, so don't worry.",
+			"Don't worry, Kiana is not like other war maidens. Don't worry, I didn't perform surgery on that girl."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252472,
+			"But how about the other Valkyria, they have sacrificed without knowing the truth!",
+			"那其他的女武神就可以这样在毫不知情的情况下做出这么大的牺牲么！",
+			"じゃあ、他の戦乙女は！？彼女たちにも知る権利があるはずです！何も知らないまま大きな犠牲を払わせてもいいって言うんですか！",
+			"그럼, 다른 발키리들은!? 그들도 알 권리가 있을 텐데요! 아무것도 모른 채 큰 희생을 치르게 해도 좋다고 말하는 건가요!",
+			"Well then, what about the other Valkyries?! They too have the right to know! Are you saying it's okay to make them pay such a huge price without knowing anything?!",
+			null,
+			"So can the other Valkyries make such a big sacrifice without knowing it like that!",
+			"So what about the other war maidens! They should have the right to know too! Are you saying that you are willing to let them make great sacrifices without knowing anything?"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252473,
+			"…I’m sorry.",
+			"……抱歉。",
+			"……ごめんなさい。",
+			"... 미안해.",
+			"...I'm sorry.",
+			null,
+			"...... Sorry.",
+			"I'm sorry ......."
+		],
+		[
+			"msg",
+			252474,
+			"I became the Principal of St. Freya HS because I wanted to reduce their pain. I want to make them live like any other girl, at least have a happy life in the school... That’s the only thing I could do.",
+			"为了减少那些女孩的痛苦，我才成为了圣芙蕾雅学园的园长，想让她们的生活变得和其他的女孩无异，至少在学园中能够快乐地生活……这也是我唯一能做的事情了。",
+			"そういう少女たちの苦痛を減らすため、私は聖フレイヤ学園の学園長になったの。他の女の子たちと同じ生活を送れるようにしてあげたい。少なくとも学園内では楽しく過ごせるように……私にできるのはそれだけ。",
+			"그런 소녀들의 고통을 줄이기 위해, 나는 세인트 프레야 학원의 학원장이 된 거야. 다른 여자아이들과 같은 생활을 할 수 있게 해주고 싶어. 적어도 학원 안에서는 즐겁게 지낼 수 있도록…… 내가 할 수 있는 건 그뿐이야.",
+			"I became the principal of St. Freyja Academy to ease the pain these girls endure. I want to help them live the same life as other girls. At the very least, I want them to be able to have a good school life... that's all I can do.",
+			null,
+			"In order to minimize the pain of those girls, that's why I became the director of St. Freya High School, wanting to make their lives no different from other girls, or at least to be able to live happily in the school ...... That's the only thing I can do.",
+			"To reduce the suffering of these girls, I became the headmaster of St. Freya High School. I want them to be able to live the same life as the other girls. At least, that's all I can do ...... to make sure they have a good time in the school."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252475,
+			"…This is enough! I don’t want to see this! Please let me out!",
+			"……已经够了！我不想看到这些！请让我出去！",
+			"……もうたくさんです！こんなの見たくありません、ここから出してください！",
+			"……이젠 충분해요!#n이런 건 보고 싶지 않아요, 여기서 나가게 해주세요!",
+			"…I've had enough! I don't want to see this, please let me out of here!",
+			null,
+			"...... is enough! I don't want to see this! Please let me out!",
+			"I have had enough of ......! I don't want to see this, please get me out of here!"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252476,
+			"Me too! I'm quitting! The Shicksal is not a place for the Savior!",
+			"我也是！我要退出！天命什么的根本不是救世主该待的地方！",
+			"我も出る！天命組織など救世主のいる場所じゃない！！",
+			"나도 나갈 거야! 천명 조직 같은 건 구세주가 있을 곳이 아니야!!",
+			"I'm leaving too! Schicksal is no place for the Savior!!",
+			null,
+			"Me too! I'm quitting! Schicksal and all that is no place for a savior!",
+			"I'm leaving too! Schicksal organization is no place for a savior!"
+		],
+		[
+			"speaker",
+			204644
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				true
+			],
+			[
+				28,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252477,
+			"So… Indeed…",
+			"是么……的确呢……",
+			"そうね……確かに……。",
+			"그래…… 확실히…….",
+			"Is that so... indeed...",
+			null,
+			"Is it ...... indeed ......",
+			"Yes, ...... indeed. ......"
+		],
+		[
+			"msg",
+			252478,
+			"But sorry... You must stay, for those girls that have already become Valkyria… And for Kiana.",
+			"但是抱歉…你们必须留下来，这是为了那些成为了女武神的少女们…也是为了琪亚娜。",
+			"でも、ごめんなさい……二人にはここにいてもらわないといけないの。戦乙女になった少女たちのためにも……キアナのためにも。",
+			"하지만, 미안해…… 너희 둘은 여기에 있어줘야 해. 발키리가 된 소녀들을 위해서도…… 키아나를 위해서도.",
+			"But I'm sorry... I must make sure you two stay here. For the sake of the girls who have become Valkyries... and for Kiana.",
+			null,
+			"But I'm sorry...you must stay, this is for the sake of the young girls who have become Valkyries...and for Kiana.",
+			"But I'm sorry ...... I need you both to stay here. For the sake of the girls who have become war maidens and for the sake of ...... Kiana."
+		],
+		[
+			"msg",
+			252479,
+			"Please return what’s in your bodies, so all the tragedies will have their redemption!",
+			"请你们把体内的东西还回来吧，这样所有的悲剧都将得到救赎！",
+			"九霄、体の中にあるものを渡してちょうだい。そうすれば全ての悲劇から救われるの！",
+			"큐쇼, 몸 안에 있는 걸 넘겨줘. 그렇게 하면 모든 비극에서 구원받을 수 있어!",
+			"Kyuushou, please hand over what is in your body. Then we will surely be saved from all tragedy!",
+			null,
+			"Please give back what is inside you so that all tragedies will be redeemed!",
+			"Kyuushou, give me what is in your body. Then you will be saved from all tragedy!"
+		],
+		[
+			"speaker",
+			204592
+		],
+		[
+			"portraits",
+			[
+				121,
+				1,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252480,
+			"Hey! What are you doing!?",
+			"喂！你要干嘛！？",
+			"ちょっ！何を……！？",
+			"잠깐! 뭘……!?",
+			"Wha—! What the...?!",
+			null,
+			"Hello! What are you doing!",
+			"Wait! What the ......!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				28,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252481,
+			"Kyushou! Watch out!",
+			"九霄小心！",
+			"九霄ちゃん、危ない！",
+			"큐쇼 쨩, 위험해!",
+			"Kyuushou-chan, look out!",
+			null,
+			"Kyuushou be careful!",
+			"Kyuushou, look out!"
+		]
+	],
+	"119": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252482,
+			"Dad~ Mom said I am dismissed today~ Let’s find a place to have fun! And let’s take Mei and… Well, take Kyushou too!",
+			"老爹~老妈说今天给我放假了耶~我们想想看去哪里玩吧！把芽衣和…算了，九霄也带上吧！",
+			"パパ～、ママが今日お休みをくれたの！どこか遊びに連れてってよ！！芽衣先輩と……ついでに九霄も連れてきましょ。",
+			"아빠~, 엄마가 오늘 쉬는 날을 줬어요! 어디 놀러 데려가 줘!! 메이 선배랑…… 덤으로 큐쇼도 데려가자.",
+			"Dad~ Mom gave me the day off today! Please take me out somewhere to have fun!! Let's bring Mei-senpai and... let's bring Kyuushou too while we're at it.",
+			null,
+			"Pops~ Mom said I'm getting the day off today~ Let's think about where to go! Let's bring Mei and...never mind, Kyuushou too!",
+			"Dad - Mom gave me the day off today! Take me somewhere to play! Let's bring Mei senior and ...... and while you're at it, let's bring Kyuushou too."
+		],
+		[
+			"speaker",
+			204645
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				807,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252483,
+			"Hmph~ The only thing you know is to play. We have more important things to do later.",
+			"哼~你这孩子只知道玩，我们一会还有更重要的事情要做呢。",
+			"やれやれ、お前ときたら遊ぶことばかりで。もう少ししたら、もっと大事な用があるというのに。",
+			"아이고, 너란 아이는 놀 생각뿐이구나. 조금 있으면 더 중요한 일이 있다고 했는데.",
+			"Good grief, you're always messing around someplace. I've got something more important to do coming up.",
+			null,
+			"Hm~ You kids only know how to play, we have more important things to do later.",
+			"Good grief, all you do is play. I have more important things to do in a little while."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				false
+			],
+			[
+				807,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252484,
+			"Uh! What is it? A new mission!?",
+			"呃！什么事情？难道又有新任务了！？",
+			"えっ、何？また新しい任務？",
+			"엣, 뭐? 또 새로운 임무?",
+			"Uh, what? Another new mission?",
+			null,
+			"Uh-huh! What is it? Is there a new mission!",
+			"What? What? Another new assignment?"
+		],
+		[
+			"speaker",
+			204645
+		],
+		[
+			"portraits",
+			[
+				101,
+				0,
+				true
+			],
+			[
+				807,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252485,
+			"Just follow me. Today is an important day for you.",
+			"你跟我来就知道了，今天对于你来说是特别重要的日子。",
+			"ついてくれば分かる。今日はお前にとって特別な日になるんだ。",
+			"따라오면 알게 될 거야. 오늘은 너에게 특별한 날이 될 거야.",
+			"Follow me and you'll see. Today is going to be a special day for you.",
+			null,
+			"You'll see if you come with me. This is a particularly important day for you.",
+			"Follow me and you'll see. Today is going to be a special day for you."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				false
+			],
+			[
+				807,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			252486,
+			"What day? My birthday has already passed?",
+			"什么日子？我的生日好像已经过去了吧？",
+			"何の日？誕生日はもう過ぎちゃったけど？",
+			"무슨 날? 생일은 이미 지났는데?",
+			"What day is it? My birthday has already passed, hasn't it?",
+			null,
+			"What day? I think my birthday's already passed, right?",
+			"What day is it? My birthday has already passed."
+		],
+		[
+			"speaker",
+			204645
+		],
+		[
+			"portraits",
+			[
+				103,
+				0,
+				true
+			],
+			[
+				807,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			252487,
+			"Let me think... How should I put this… Well, it’s more important than your birthday.",
+			"让我想想…要怎么和你说明好呢……嗯，比起生日来说更加重要。",
+			"さて……どう説明すればいいかな……誕生日よりもっと大事な日だ。",
+			"음…… 어떻게 설명해야 할까…… 생일보다 더 중요한 날이지.",
+			"Now... how should I explain it...? It's a day even more important than your birthday.",
+			null,
+			"Let me think...what would be a good way to explain this to you ...... Well, it's more important than a birthday.",
+			"Now ...... how do I explain ...... it's a more important day than my birthday."
+		],
+		[
+			"msg",
+			252488,
+			"It’s the day when you are reborn.",
+			"说是重生也不为过呢~",
+			"いや誕生、という意味では過言ではないかもしれないが……。",
+			"아니 태어남, 이라는 의미라면 과언이 아닐 수도 있지만…….",
+			"Well, it might not be an exaggeration to say it's a day of rebirth...",
+			null,
+			"It's not too much to say it's a rebirth.",
+			"No, birth, I mean, that may not be an exaggeration. ......"
+		]
+	]
+}

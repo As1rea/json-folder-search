@@ -1,0 +1,5022 @@
+{
+	"10550": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729756,
+			null,
+			"快速通知一下吧。",
+			"早くみんなに連絡しよう。",
+			"빨리 모두에게 연락하자.",
+			null,
+			null,
+			"Let's have a quick notice.",
+			"Let's contact everyone as soon as possible."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729757,
+			null,
+			"………………",
+			"…………",
+			"…………",
+			null
+		],
+		[
+			"msg",
+			729758,
+			null,
+			"我快速通知了在射击室附近的猎兵们要前往会议室。",
+			"射撃室付近にいた猟兵らに会議室に向かうよう伝えた。",
+			"사격실 근처에 있던 사냥개 병사들에게 회의실로 이동하라고 전했다.",
+			null,
+			null,
+			"I quickly informed the hunters who were near the shooting room that they were going to head to the conference room.",
+			"He told the hunters who were near the shooting room to head for the conference room."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			10551
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			10551
+		]
+	],
+	"10551": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729759,
+			null,
+			"…………都到齐了。",
+			"…………全員に伝えたな。",
+			"…………전원에게 전했어.",
+			null,
+			null,
+			"............ are all here.",
+			"............ Everyone's here."
+		],
+		[
+			"msg",
+			729760,
+			null,
+			"前往会议室，开始作战简报吧。",
+			"俺も会議室に向かおう。",
+			"나도 회의실로 가자.",
+			null,
+			null,
+			"Head to the conference room. Let's start the combat briefing.",
+			"Let's go to the conference room and start the operational briefing."
+		],
+		[
+			"choice",
+			[
+				729903,
+				null,
+				"搭乘电梯，前往会议室，开始战前会议。",
+				"エレベーターに乗り会議室へ行き、戦前会議を始める。",
+				"엘리베이터를 타고 회의실로 가서, 전투 전 회의를 시작한다.",
+				null
+			]
+		]
+	],
+	"10552": [
+		[
+			"speaker",
+			320724
+		],
+		[
+			"bg",
+			"CG10280"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				false
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV02_ControlRoomDoorOpen"
+		],
+		[
+			"msg",
+			729761,
+			null,
+			"上尉。",
+			"大尉。",
+			"대위.",
+			null,
+			null,
+			"Capt.",
+			"Captain."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729762,
+			null,
+			"猎犬02，我们已经抵达长空市，接下来马上要进行圣碑行动，等到大家到齐，我会说几个注意事项。",
+			"猟犬02、長空市に到着した。間もなく聖碑の作戦に入るから、みんながそろい次第、俺から注意点について説明する。",
+			"사냥개02, 장공시에 도착했다. 곧 성비 작전에 들어갈 테니, 모두가 모이는 대로 내가 주의사항에 대해 설명하겠다.",
+			null,
+			null,
+			"Hound 02, we've arrived in Long Hollow City, Operation Holy Monument is coming up next soon, I'll say a few notes when everyone arrives.",
+			"Hound 02, we have arrived at Changkuu City. We will soon start the operation for the sacred monument, so as soon as everyone is together, I will brief you on the precautions to take."
+		],
+		[
+			"bgm",
+			74
+		],
+		[
+			"speaker",
+			320724
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				true
+			],
+			[
+				30686,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729763,
+			null,
+			"是！",
+			"ハッ！",
+			"네!",
+			null,
+			null,
+			"Is!",
+			"Ha!"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729764,
+			null,
+			"同样，仍然由你来担任分队长作为伏击力量策应我的部署。",
+			"これまで同様、君に分隊長を任せる。待ち伏せ部隊として策応するように。",
+			"지금까지와 마찬가지로, 너에게 분대장을 맡긴다. 매복 부대로서 지원하도록 해라.",
+			null,
+			null,
+			"Again, it remains for you to act as a sub-unit leader as an ambush force to counter my deployment.",
+			"As in the past, you will be given the task of squad leader. You will be in charge of the squadron as before, and you will be in charge of the strike force."
+		],
+		[
+			"msg",
+			729765,
+			null,
+			"这次的对手是传说级别的人物，被称作“寒铁”的金属圣痕持有者。如果……我阵亡了，你就是猎犬小队的队长。",
+			"今回の敵は伝説とも言われる人物。コードネーム「寒鉄」で知られる金属の聖痕の持ち主だ。もし俺が戦死したら……次の猟犬小隊の隊長は君だからな。",
+			"이번 적은 전설이라 불리는 인물이다. 코드네임 「한철」로 알려진 금속의 성흔 소유자다. 만약 내가 전사하면... 다음 사냥개 분대의 대장은 자네다.",
+			null,
+			null,
+			"The opponent this time is a legendary figure, a metal stigma holder called \"Cold Iron\". If ...... I die in battle, you will be the captain of the Hound Team.",
+			"This time, the enemy is a legendary figure. He is the owner of the metal stigmata known by the code name \"Cold Iron\". If ...... I am killed in action, you will be the next hound platoon commander."
+		],
+		[
+			"speaker",
+			320724
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				true
+			],
+			[
+				30686,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729766,
+			null,
+			"我不擅长养小孩，这种麻烦事还是上尉你自己办吧。",
+			"私は子どもの世話が得意ではないので、そういう煩わしい事は大尉ご自身でなさって下さい。",
+			"저는 아이 돌보는 걸 잘 못해서, 그런 귀찮은 일은 대위님께서 직접 해주시기 바랍니다.",
+			null,
+			null,
+			"I'm not good at raising children. This kind of trouble is better left to you, Captain.",
+			"I am not good at taking care of children, so you will have to do those complicated things yourself, Captain."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729767,
+			null,
+			"（猎犬02，神原岚音，风之构型植入者。我能力超群的副队长。）",
+			"（猟犬02こと神原嵐音。風の聖痕移植体のレシピエントで、能力のずば抜けた副隊長だ。）",
+			"(사냥개 02, 즉 카미하라 란네. 바람의 성흔 이식체 수혜자로, 능력이 뛰어난 부대장이다.)",
+			null,
+			null,
+			"(Hound 02, Kamihara Arashina, Wind Construct implant. Vice-captain of my superior abilities.)",
+			"(Kambara Arashine, aka Hound Dog 02. He is the recipient of the Wind Stigmata implant and is the second-in-command with outstanding abilities.)"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729768,
+			null,
+			"（最近我的态度忽然很冷漠，和我保持距离，也不叫我老爹，是因为叛逆期了吗？）",
+			"（最近、どうも俺に対して冷たい感じがする。距離もとるようになり、お父さんとも呼ばなくなった。これが俗にいう反抗期だろうか？）",
+			"(최근 들어 왠지 나에게 차가운 느낌이다. 거리도 두고, 아빠라고도 부르지 않는다. 이게 소위 말하는 반항기인 걸까?)",
+			null,
+			null,
+			"(I've been suddenly aloof lately, distancing myself from me and not calling me Pops... is it because of the rebel phase?)",
+			"(Lately, he seems to be cold towards me. (Lately, he seems to be cold toward me. He has started to distance himself from me, and he doesn't even call me father anymore. Is he rebellious?)"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729769,
+			null,
+			"你不也是小孩嘛。",
+			"そう言う君も子どもではないか。",
+			"그렇게 말하는 너도 애 아니야?",
+			null,
+			null,
+			"You're a kid, too.",
+			"You are a child, aren't you?"
+		],
+		[
+			"speaker",
+			320724
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				true
+			],
+			[
+				30686,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729770,
+			null,
+			"我已经十八岁了。",
+			"私はもう18です。",
+			"저는 벌써 18살입니다.",
+			null,
+			null,
+			"I'm eighteen years old.",
+			"I am already 18."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729771,
+			null,
+			"今天也是一脸的不高兴，我又让她生气了？",
+			"今日も不機嫌そうな顔をしているが、何か怒らせるようなことをしてしまったかな？",
+			"오늘도 기분이 안 좋아 보이는데, 내가 뭔가 잘못한 거라도 있나?",
+			null,
+			null,
+			"It's also an upset face today. Did I make her mad again?",
+			"You look grumpy today, have I done something to offend you?"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729772,
+			null,
+			"啊，对了。",
+			"そうだ。",
+			"그렇다.",
+			null,
+			null,
+			"Ah, yes.",
+			"Ah, yes."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729773,
+			null,
+			"我拿出了项链，那是一串镶着祖母绿的银色项链。",
+			"俺はネックレスを取り出した。エメラルドのついた銀色のネックレスを。",
+			"나는 목걸이를 꺼냈다. 에메랄드가 달린 은색 목걸이를.",
+			null,
+			null,
+			"I pulled out the necklace, which was a strand of silver with emeralds.",
+			"I took out a necklace. A silver necklace with emeralds."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729774,
+			null,
+			"之前一直在追捕寒铁，没有给你送礼物。生日快乐。",
+			"これまでずっと寒鉄を追うのに忙しくてプレゼントを渡せてなくてな。誕生日おめでとう。",
+			"지금까지 한철을 쫓느라 바빠서 선물을 못 줬어. 생일 축하한다.",
+			null,
+			null,
+			"I've been chasing cold iron before and didn't get you a present. Happy birthday.",
+			"I've been so busy chasing cold steel all this time that I haven't been able to give you a present. Happy birthday."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729775,
+			null,
+			"就指望这个让她开心一点了。",
+			"これで少しは機嫌をよくしてくれるといいのだが。",
+			"이렇게 해서 조금이라도 기분이 나아지면 좋겠는데.",
+			null,
+			null,
+			"Just count on this to cheer her up a bit.",
+			"I hope this puts him in a better mood a little."
+		],
+		[
+			"speaker",
+			320724
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729776,
+			null,
+			"我我我——我这么粗鄙平庸的女人……不适合这种礼物的吧！？",
+			"わわ私——私こんなに粗野で平凡なのに……こんなプレゼント、私にはもったいないんじゃありませんか！？",
+			"와, 저——저 이렇게 거칠고 평범한데... 이런 선물, 제게는 너무 아깝지 않나요!?",
+			null,
+			null,
+			"I I I I - I'm such a coarse and mediocre woman ...... not suitable for this kind of gift, right!",
+			"Wow me--I'm such a crude and ordinary person. ...... I think I'm too good for this kind of gift!"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				4,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729777,
+			null,
+			"副队长，你怎么因为这点小事就语无伦次了，是不喜欢吗？",
+			"副隊長、これくらいの事でしどろもどろにならなくてもいいじゃないか。どうだ、気に入ってもらえたかな？",
+			"부대장, 이 정도 일로 당황해 하지 않아도 될 텐데. 어때, 마음에 들었나?",
+			null,
+			null,
+			"Lieutenant, why are you so incoherent over this little thing? Do you not like it?",
+			"Vice captain, you don't have to slouch over this one. How do you like it?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729778,
+			null,
+			"没等我反应过来，她忽然出手，把那串项链抢走了。",
+			"彼女は手を伸ばし、半ば奪い取るようにしてネックレスを手に取った。",
+			"그녀는 손을 뻗어, 반쯤 빼앗듯이 목걸이를 집어들었다.",
+			null,
+			null,
+			"Without waiting for me to react, she suddenly struck out and snatched the string of necklaces away.",
+			"She suddenly reached out and picked up the necklace, taking it halfway."
+		],
+		[
+			"speaker",
+			320724
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729779,
+			null,
+			"上尉的品味一向很差，为什么这次能选到这样的礼物呢？",
+			"大尉はいつも趣味が悪いなと思ってましたが……今回はこんないいもの、どうやって選んだんです？",
+			"대위는 항상 취향이 나쁘다고 생각했는데... 이번엔 이렇게 좋은 걸, 어떻게 골랐어요?",
+			null,
+			null,
+			"The Captain's taste had always been poor, so why had he chosen such a gift this time?",
+			"I always thought the Captain had bad taste, but this time it's such a good one, how did you pick it?"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729780,
+			null,
+			"啊，这是因为……",
+			"ああ、これは……。",
+			"아, 이건....",
+			null,
+			null,
+			"Ah, it's because ......",
+			"Oh, this is ......"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729781,
+			null,
+			"想要回忆，那个少女的事情就撞入了脑海中。",
+			"購入した時のことを思い出すと、頭の中にあの少女のことが浮かんできた。",
+			"구매했을 때의 일을 떠올리니, 머릿속에 그 소녀의 모습이 떠올랐다.",
+			null,
+			null,
+			"Trying to remember, the matter of the young girl crashed into his mind.",
+			"When I remembered the purchase, I thought of that little girl in my mind."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729782,
+			null,
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729783,
+			null,
+			"真是的，我以前不是这样的人，上级下令，执行就是了。但是……以前我也没有接到过杀害儿童这样的命令。",
+			"まったく、以前の俺はこんな感じではなかった。上からの命令をただ実行するのみ。しかし……これまで子どもを殺せなどという命令を受けたことがなかった。",
+			"정말, 예전의 나는 이런 식이 아니었다. 위에서 내려온 명령을 그저 실행할 뿐. 하지만... 지금까지 아이를 죽이라 같은 명령을 받은 적이 없었다.",
+			null,
+			null,
+			"Really, I was not such a person before, the superior ordered, execute is. But ...... I have not received orders like killing children before either.",
+			"Not at all, I was not like this before. Until I had to carry out orders from the top. But ...... I have never been ordered to kill a child before."
+		],
+		[
+			"msg",
+			729784,
+			null,
+			"为什么会有那样的孩子？被枪指着却不哭泣，只是乖乖地跪下等死。",
+			"あんな子が本当にこんな世界に存在しているのか？銃を突きつけられているというのに泣きもせず、跪きおとなしく死を待つなど。",
+			"저런 아이가 정말 이런 세상에 존재하는 걸까? 총을 겨누고 있는데도 울지 않고, 무릎 꿇고 조용히 죽음을 기다리다니.",
+			null,
+			null,
+			"Why are there kids like that? Being held at gunpoint and not crying, just dutifully kneeling down and waiting to die.",
+			"How could such a child do that? How can he kneel down and meekly wait for death without crying, even though he is being held at gunpoint?"
+		],
+		[
+			"msg",
+			729785,
+			null,
+			"这样的孩子正常吗？",
+			"そういう子どもがいるのが普通なのか？",
+			"그런 아이가 있는 게 보통인 건가?",
+			null,
+			null,
+			"Is that normal for a child?",
+			"Is it normal to have a child like that?"
+		],
+		[
+			"msg",
+			729786,
+			null,
+			"而我，接下来，很可能要再杀一次那个孩子。",
+			"俺はこれから、恐らくまたあの子を殺さなければならないことになる。",
+			"나는 이제, 아마 다시 그 아이를 죽여야 할 상황이 될 거야.",
+			null,
+			null,
+			"And I, next, will probably have to kill that kid again.",
+			"I will now probably have to kill that boy again."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729787,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729788,
+			null,
+			"很奇怪的感觉，我的心里似乎有一颗种子，#n但在开花之前，我不会明白那是什么。",
+			"不思議な感じがした。心に何かひとつの種があるような気が。#nしかしそれが花を咲かすまで、それがなんの種なのか知る由もない。",
+			"이상한 느낌이 들었다. 마음에 무언가 하나의 씨앗이 있는 것 같은 기분이.#n하지만 그것이 꽃을 피우기까지, 그것이 무슨 씨앗인지 알 길이 없었다.",
+			null,
+			null,
+			"It's a strange feeling, there seems to be a seed in my heart, but I won't understand what it is until it blossoms.",
+			"I had a strange feeling. It was as if there was a seed in my heart. But until it blooms, there is no way to know what kind of seed it is."
+		],
+		[
+			"speaker",
+			320724
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729789,
+			null,
+			"是……是我不认识的女人推荐的吗！？",
+			"わ……私の知らない女性が選んでくれたのですか！？",
+			"앗... 제가 모르는 여성분이 골라주신 건가요!?",
+			null,
+			null,
+			"Was ...... recommended by a woman I don't know!",
+			"Wow ...... did a woman I don't know choose it for me!"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729790,
+			null,
+			"……对不起，那个人的身份我不想说。",
+			"……すまん。その人が誰なのかは言いたくないんだ。",
+			"……미안. 그 사람이 누군지는 말하고 싶지 않아.",
+			null,
+			null,
+			"...... I'm sorry, the identity of that person I don't want to say.",
+			"Sorry about ....... I don't want to say who that person is."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			320724
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729792,
+			null,
+			"…………上尉，你的脸色很难看。",
+			"…………大尉、あなたひどい顔をしていますよ。",
+			"…………대위, 얼굴이 많이 안 좋아 보이시네요.",
+			null,
+			null,
+			"............ Capt.",
+			"............ Captain, you look terrible."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729793,
+			null,
+			"对不起。",
+			"すまない。",
+			"미안하다.",
+			null,
+			null,
+			"I'm sorry.",
+			"I'm sorry."
+		],
+		[
+			"speaker",
+			320724
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				true
+			],
+			[
+				30686,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729794,
+			null,
+			"咳咳……作为补偿，上尉，那个……我现在已经十八岁了。",
+			"コホン……ではその代わりに大尉。その……私ももう18歳です。",
+			"흠흠…… 그럼 그 대신에 대위. 그…… 저도 이제 18살이에요.",
+			null,
+			null,
+			"Ahem ...... As compensation, Captain, that ...... I am now eighteen years old.",
+			"In cohon...... instead of that, Capt. That ...... I am already 18 years old."
+		],
+		[
+			"msg",
+			729795,
+			null,
+			"那个……所以……之后，能叫我的本名吗？",
+			"あの……だから……今後は私のことを名前で呼んでくれませんか？",
+			"저기…… 그러니까…… 앞으로는 제 이름으로 불러주시면 안 될까요?",
+			null,
+			null,
+			"That ...... so after ...... can you call me by my real name?",
+			"That's ......, so ......, can you please call me by my real name from now on?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729796,
+			null,
+			"本名吗？我还以为她们更喜欢按照辈分互相称呼。",
+			"名前？てっきり彼女はこう呼び合うのが好きだと思っていたが。",
+			"이름? 분명 그녀는 서로 이렇게 부르는 걸 좋아할 줄 알았는데.",
+			null,
+			null,
+			"Real names? I thought they preferred to call each other by their seniority.",
+			"Her real name? I thought she liked to call each other in generational order."
+		],
+		[
+			"msg",
+			729797,
+			null,
+			"不过，这样也好。代号有军人的气质，孩子们本来就应该用名字互相称呼，这样才能适应战后的世界。",
+			"だがまあ、それもいいだろう。コードネームは軍隊でのものだ。子どもたちは本来、互いに名前で呼び合うべきだし、戦後の世界のためにも今から慣れておくべきだろう。",
+			"뭐, 그렇게 해도 좋아. 코드네임은 군대에서 쓰는 거니까. 아이들은 원래 서로 이름으로 불러야 해. 전후 세계를 위해서도 지금부터 익숙해져야 할 거야.",
+			null,
+			null,
+			"However, it was good. Codenames had a military air to them, and kids were supposed to call each other by their first names so they could adapt to the post-war world.",
+			"But oh well, that's okay. Codenames are for the military. Children should essentially call each other by their first names, and we can get used to doing so in the post-war world now."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729798,
+			null,
+			"我知道了，岚音。",
+			"わかった。嵐音。",
+			"알겠어. 난온.",
+			null,
+			null,
+			"I know, Arashiin.",
+			"Okay, I got it. Storm sound."
+		],
+		[
+			"speaker",
+			320724
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				true
+			],
+			[
+				30686,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729799,
+			null,
+			"岚……那，针……针虎……针虎上尉。",
+			"嵐……で、では……針虎……針虎大尉。",
+			"난... 그, 그럼... 침호... 침호 대위.",
+			null,
+			null,
+			"",
+			"In the storm ...... to ...... needle and tiger ...... needle and tiger Capt."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729800,
+			null,
+			"嗯，我在。",
+			"ああ。",
+			"그래.",
+			null,
+			null,
+			"Uh, I'm in.",
+			"Yes, yes."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729801,
+			null,
+			"“呜哇，我都说了等一下——————！”",
+			"「わあっ、ちょっと待ってって言ってるでしょう——————！」",
+			"「우왁, 잠깐만 기다리라고 했잖아——————!」",
+			null,
+			null,
+			"\"Oooh wow, I told you to wait ------!\"",
+			"I said, \"Wow, wait a minute ------!\""
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				0,
+				false
+			],
+			[
+				30686,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729802,
+			null,
+			"？",
+			"？",
+			"?",
+			null,
+			null,
+			"?",
+			null
+		],
+		[
+			"speaker",
+			320725
+		],
+		[
+			"portraits",
+			[
+				30694,
+				0,
+				true
+			],
+			[
+				30687,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729803,
+			null,
+			"不是老爹让我们来开会的吗？小九你拦着干什么？",
+			"オヤジが会議だから集まれって言ってたじゃん？なのに猟犬09、なんで入るの邪魔するんだよ？",
+			"아저씨가 회의하자고 모이라고 했잖아? 그런데 사냥개09, 왜 들어가는 걸 방해하는 거야?",
+			null,
+			null,
+			"Didn't Pops tell us to come to the meeting? Jiu, why are you stopping us?",
+			"My dad told us to get together for a meeting, right? But hound09, why are you blocking my way in?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30687,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729804,
+			null,
+			"我麾下的少年猎兵们逐渐走进了会议室。",
+			"少年少女の猟兵たちが会議室へと入ってきた。",
+			"소년소녀 사냥꾼들이 회의실로 들어왔다.",
+			null,
+			null,
+			"The teenage hunters under my command gradually walked into the conference room.",
+			"The boy and girl hunters entered the conference room."
+		],
+		[
+			"speaker",
+			320732
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30700,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729805,
+			null,
+			"老爹和二姐不是已经在在在会议室了嘛。",
+			"父ちゃんと猟犬02、もももう会議室にいるよ。",
+			"아빠랑 사냥개02, 모모도 벌써 회의실에 있어.",
+			null,
+			null,
+			"Pops and Sis are already in the conference room.",
+			"Dad and Hound02, you're already in the conference room."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				30700,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729806,
+			null,
+			"马丁，大家都到了吗？",
+			"マーチン、もうみんな集まったか？",
+			"마틴, 다들 모였나?",
+			null,
+			null,
+			"Martin, is everyone here?",
+			"Martin, is everyone here yet?"
+		],
+		[
+			"speaker",
+			320725
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				true
+			],
+			[
+				30687,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729807,
+			null,
+			"诶？老爹你怎么忽然叫我名字了？",
+			"えっ？オヤジ、どうしたんだ突然。",
+			"엥? 아저씨, 왜 갑자기 그래.",
+			null,
+			null,
+			"Eh? Pops why are you calling me names all of a sudden?",
+			"What? Dad, why are you calling me by my name all of a sudden?"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				30687,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729808,
+			null,
+			"对第一军团的讨伐战已经基本结束，你们不久之后都将回到学校之中，应该熟悉别人称呼你们名字的生活了。",
+			"第一軍団の討伐はほぼ終わり、君たちもほどなくして学校に戻ることになるからな。今から人に名前で呼ばれる生活に慣れておいた方がいい。",
+			"제1군단 토벌은 거의 끝났고, 너희들도 곧 학교로 돌아가게 될 거다. 이제부터 이름으로 불리는 생활에 익숙해지는 게 좋겠어.",
+			null,
+			null,
+			"The crusade against the First Legion is almost over, and you will all be back in the midst of school shortly, and should be familiar with the life of being called by your first names.",
+			"The defeat of the First Legion is almost over and you guys will be going back to school shortly. You should get a little used to people calling you by name now."
+		],
+		[
+			"msg",
+			729809,
+			null,
+			"之后我就叫你们的名字了，让你们提前习惯一下。#n这点是副队长岚音提醒我的。",
+			"事前に慣れておけるよう、君たちを名前で呼ぶことにした。#nちょうどさっき嵐音副隊長からアドバイスを受けてな。",
+			"미리 적응할 수 있게, 너희들을 이름으로 부르기로 했어.#n방금 라니온 부대장에게 조언을 받고 나서 말이야.",
+			null,
+			null,
+			"I'll call you by your names after that, so you can get used to it in advance. I was reminded of this by Vice-Captain Arashina.",
+			"I will call you by name when I call you in the future so that you can get used to it beforehand. I just received some advice from Vice Captain Arashion."
+		],
+		[
+			"speaker",
+			320742
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				true
+			],
+			[
+				30710,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729810,
+			null,
+			"……上尉说得对。",
+			"…………大尉の言う通りです。",
+			"…………대위 말씀대로입니다.",
+			null,
+			null,
+			"Capt. ...... is right.",
+			"Captain ...... is right."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				5,
+				false
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729811,
+			null,
+			"总之，大家站好，我来同步消息。",
+			"とにかくみんな並びなさい。俺から情報を共有する。",
+			"어쨌든 다들 줄 서 봐. 내가 정보를 공유하겠어.",
+			null,
+			null,
+			"Anyway, everyone stand still and I'll synchronize the messages.",
+			"Anyway, everyone line up. I will share the information with you."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729812,
+			null,
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"msg",
+			729813,
+			null,
+			"我把卡洛斯将军所说的任务又说了一遍。",
+			"カロス将軍から聞いた任務について皆に説明した。",
+			"카로스 장군에게 들은 임무에 대해 모두에게 설명했다.",
+			null,
+			null,
+			"I went over what General Carlos had said about the mission.",
+			"He briefed everyone on the mission that General Karos had told him about."
+		],
+		[
+			"speaker",
+			320743
+		],
+		[
+			"bg",
+			"CG10280"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30711,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729814,
+			null,
+			"为什么不让我们登陆作战？",
+			"どうして僕らを作戦に行かせないの？",
+			"왜 우리를 작전에 보내지 않는 거야?",
+			null,
+			null,
+			"Why don't you let us land and fight?",
+			"Why don't you let us go on the mission?"
+		],
+		[
+			"speaker",
+			320744
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30712,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729815,
+			null,
+			"无所谓，反正我也不想和那种级别的对手正面对抗。呆在战舰上挺好的。",
+			"そんなのどうだっていいだろ。今回のレベルの敵に真っ向から戦いを挑みたくないし、戦艦にいるのも仕事のうちだ。",
+			"그런 건 어�든 상관없어. 이번 수준의 적과 정면으로 싸우고 싶지도 않거든, 전함에 있는 것도 일 중 하나야.",
+			null,
+			null,
+			"Doesn't matter, I don't want to go head to head with that level of opponent anyway. Staying on the battleship is fine.",
+			"I don't care about that. Besides, I don't want to go head-to-head with an enemy of this level. Being on a battleship is not a bad idea."
+		],
+		[
+			"speaker",
+			320745
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30713,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729816,
+			null,
+			"可是可是，让我们关注圣碑的信息又是要做什么呢？",
+			"でも、でもさ。聖碑についての情報を調べろって、何をすればいいのかな？",
+			"그래도, 그래도 말이야. 성비에 대한 정보를 조사하라는데, 대체 뭘 해야 하는 거지?",
+			null,
+			null,
+			"But but but what is the point of having us pay attention to the message of the Holy Tablet?",
+			"But, but. What am I supposed to do to find out information about the sacred monument?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30713,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729817,
+			null,
+			"“这些战舰就当个气氛组？”“为什么地方师团要参加行动？”",
+			"「あの艦隊はただ雰囲気を盛り上げるだけ？」「どうして地方の師団が参加するんだろう？」",
+			"「저 함대는 그냥 분위기 띄우는 용도야?」「왜 지방 사단이 참여하는 거지?」",
+			null,
+			null,
+			"\"These battleships are just going to be an atmosphere group?\" \"Why are the local divisions taking part in the operation?\"",
+			"\"Are these battleships just to add to the atmosphere?\" Why would a local division participate?\""
+		],
+		[
+			"msg",
+			729818,
+			null,
+			"“我我我我我觉得……”“老七闭嘴。”“老七闭嘴！”“老七你在群里说就行了。”",
+			"「ぼぼぼぼ僕……」「07は黙ってて。」「07黙りなさい！」「07はチャットにしろ！」",
+			"「부부부부 나는……」「07은 조용히 해.」「07 닥쳐!」「07은 채팅이나 해!」",
+			null,
+			null,
+			"\"I I I I I think ......\" \"Old Seven shut up.\" \"Old Seven shut up!\" \"Old Seven you can just say it in the group.\"",
+			"blah blah blah I'm ...... and 07 shut up. Shut up, 07. 07, you can talk in the chat room."
+		],
+		[
+			"msg",
+			729819,
+			null,
+			"………………",
+			"………………",
+			"………………",
+			null
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				false
+			],
+			[
+				30713,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729820,
+			null,
+			"好了，大家说的我都知道了。",
+			"わかった。君たちが言いたいことはわかった。",
+			"알겠어. 너희들이 말하고 싶은 건 알겠어.",
+			null,
+			null,
+			"Okay, I know what everyone else has said.",
+			"I get it. I understand what everyone is saying."
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30713,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729821,
+			null,
+			"（果然，这次行动争议很大。）",
+			"（やはり今回の作戦内容には反発があるようだな。）",
+			"(역시 이번 작전 내용에 반발이 있는 모양이군.)",
+			null,
+			null,
+			"(Sure enough, the operation was highly controversial.)",
+			"(I see there is still some pushback on the content of this operation.)"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				false
+			],
+			[
+				30713,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729822,
+			null,
+			"首先，我个人有所推测，卡洛斯将军应该是出于什么原因需要向地方军示好，这才给了我们这样的任务。",
+			"俺が思うに、カロス将軍は何か理由があって地方の軍勢に下手に出なければならない状況なのだろう。だから今回、こういう任務を出してきた。",
+			"내 생각엔, 카로스 장군은 뭔가 이유가 있어서 지방 군세에게 약한 모습을 보여야 하는 상황인 모양이야. 그래서 이번에 이런 임무를 내건 거지.",
+			null,
+			null,
+			"First of all, I personally have some speculation that General Carlos would have needed to show favor to the local army for whatever reason, and that's why he gave us such a mission.",
+			"My guess is that for some reason, General Karos was in a situation where he had to go down to the local forces, and this is the kind of mission he has come up with."
+		],
+		[
+			"msg",
+			729823,
+			null,
+			"但既然长官下达了命令，完美地执行就是军人的本分，不管这个任务的背景是什么。",
+			"上官から命令が下された以上、それを完璧に実行するのが軍人というものだ。出された任務にどういう背景があろうとな。",
+			"상관으로부터 명령이 내려진 이상, 그것을 완벽히 실행하는 게 군인이라는 거다. 내려진 임무에 어떤 배경이 있든 말이야.",
+			null,
+			null,
+			"But since the officer gave the order, carrying it out perfectly is what soldiers do, no matter what the background of this mission is.",
+			"When an order is given by a superior officer, it is the duty of a soldier to carry it out to perfection. No matter what the background of the assignment."
+		],
+		[
+			"speaker",
+			320744
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				true
+			],
+			[
+				30712,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729824,
+			null,
+			"哪怕那个长官在寒铁还弱，你提议追杀寒铁的时候，向发了神经一样坚持不追？",
+			"その上官って……寒鉄がまだ弱かった頃、オヤジがせっかく寒鉄の追撃を提案したのに、異常なくらい拒否ってただろ？",
+			"그 상관이라는 놈... 한철이 아직 약했을 때, 아버지가 굳이 한철을 추격하자고 제안했는데, 이상할 정도로 거절했잖아?",
+			null,
+			null,
+			"Even if that officer insisted on not pursuing Coldiron when he was still weak and you proposed to pursue him?",
+			"That superior officer, when the cold iron was still weak, you abnormally refused to go after it even though my father had gone to the trouble of proposing to go after it, didn't you?"
+		],
+		[
+			"speaker",
+			320743
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				true
+			],
+			[
+				30711,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729825,
+			null,
+			"然后在我们很可能打不过，不应该追击的时候，又逼着我们参与？",
+			"そして僕らでは恐らく勝てないから追撃すべきじゃない状況になったのに、逆に参加するよう強要してくるだなんてどういう事？",
+			"그리고 우리들로는 아마 이길 수 없을 테니 추격하면 안 되는 상황이 되었는데, 오히려 참여하라고 강요하다니 이게 무슨 소리야?",
+			null,
+			null,
+			"And then force us to engage when we likely can't fight and shouldn't be pursued?",
+			"And now that we are in a situation where we probably can't win and shouldn't go after them, what is it that is forcing us to participate?"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729826,
+			null,
+			"…………是的，我很抱歉无法为大家争取到更好的作战条件。",
+			"…………そうだな。みんなのためにもっといい作戦環境を引き出すことができず、本当に申し訳ない。",
+			"…………그렇군. 모두를 위해 더 좋은 작전 환경을 만들어내지 못해 정말 미안하다.",
+			null,
+			null,
+			"............ Yes, I apologize for not being able to get better combat conditions for everyone.",
+			"............ I know, I know. I'm so sorry I couldn't bring out a better operating environment for everyone."
+		],
+		[
+			"speaker",
+			320744
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				true
+			],
+			[
+				30712,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729827,
+			null,
+			"……噗。",
+			"……プッ。",
+			"……푸흡.",
+			null,
+			null,
+			"...... poof.",
+			"...... pff."
+		],
+		[
+			"msg",
+			729828,
+			null,
+			"老爹，你就是太正经了。",
+			"だからオヤジは真面目過ぎだって言ってんだよ。",
+			"그래서 아저씨는 너무 진지하다고 말하는 거야.",
+			null,
+			null,
+			"Pops, you're just too square.",
+			"That's why I say Dad is too serious."
+		],
+		[
+			"msg",
+			729829,
+			null,
+			"一脸严肃地办事，一脸严肃地道歉，搞得好像现在这个世界还正常一样。",
+			"真面目な顔して仕事して、真面目な顔して謝ってさ。そんなんじゃまるでこの世界が正常だなんて言ってるようなもんだろ。",
+			"진지한 얼굴로 일하고, 진지한 얼굴로 사과하고. 그런 건 마치 이 세상이 정상적인 것처럼 말하는 거나 다름없잖아.",
+			null,
+			null,
+			"Doing business with a serious face, apologizing with a serious face, making it sound like the world is still normal now.",
+			"They work with a serious face and apologize with a serious face. It's like saying that this world is normal."
+		],
+		[
+			"speaker",
+			320745
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				true
+			],
+			[
+				30713,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729830,
+			null,
+			"就是就是~",
+			"そうよそうよ～。",
+			"그래 그래~.",
+			null,
+			null,
+			"Yes, yes, yes.",
+			"I'm gonna go."
+		],
+		[
+			"speaker",
+			320742
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				true
+			],
+			[
+				30710,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729831,
+			null,
+			"这些琐事……根本无所谓。#n只要能继续追随上尉身边，就心满意足了。",
+			"そういう細かい事は……どうでもいいです。#n大尉のそばに居続けられるのであれば私は満足です。",
+			"그런 사소한 건…… 상관없어요.#n대위 곁에 계속 있을 수 있다면 전 만족합니다.",
+			null,
+			null,
+			"These trivialities ...... don t matter at all. As long as I can continue to follow the Captain's side, I'll be satisfied.",
+			"I don't care ...... about those details. As long as I can stay close to the Captain, I am happy."
+		],
+		[
+			"msg",
+			729832,
+			null,
+			"啊！我是指大家……",
+			"あ！私が言いたかったのはみんなとね……",
+			"아! 제가 말하고 싶었던 건 모두와 함께...",
+			null,
+			null,
+			"Ah! I mean everyone ......",
+			"Ah! I meant to say with everyone: ......"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729833,
+			null,
+			"孩子们都点头，笑着注视着我，默认了副队长的发言。",
+			"子どもたちがうなずいた。副隊長の発言に無言で賛同したかのように、子どもらは笑顔で俺のことを見つめていた。",
+			"아이들이 고개를 끄덕였다. 부대장의 발언에 무언으로 동의라도 한 듯, 아이들은 미소를 지으며 나를 바라보고 있었다.",
+			null,
+			null,
+			"The kids all nodded and gazed at me with smiles, acquiescing to the co-captain's statement.",
+			"The children nodded. The children looked at me with smiles on their faces, as if they silently agreed with the vice captain's statement."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729834,
+			null,
+			"各位……",
+			"君たち……。",
+			"너희들…….",
+			null,
+			null,
+			"Gentlemen ......",
+			"Everyone ......"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				false
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729835,
+			null,
+			"好了，让话题回归正轨吧。",
+			"わかった。話を戻そう。",
+			"알겠어. 이야기를 다시 이어가자.",
+			null,
+			null,
+			"Okay, let's get the conversation back on track.",
+			"Okay, I get it. Let's get back to the main topic."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729836,
+			null,
+			"对，不要思考太多，只专注于自己的使命。",
+			"そうだ。考えすぎず自らの使命に集中すればいい。",
+			"그래. 너무 생각하지 말고 자신의 사명에 집중하면 돼.",
+			null,
+			null,
+			"Yes, don't think too much, just focus on your mission.",
+			"That's right. We just need to focus on our mission and not overthink it."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				false
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729837,
+			null,
+			"小十，你来总结一下寒铁目前的行动的疑点。",
+			"猟犬10、寒鉄の行動の疑問点について総括してくれ。",
+			"사냥개10, 한철의 행동에 대한 의문점을 총괄해 줘.",
+			null,
+			null,
+			"Ten, you summarize the suspicions of Cold Steel's current actions.",
+			"Hound 10, sum up the questionable behavior of the cold steel."
+		],
+		[
+			"speaker",
+			320744
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				true
+			],
+			[
+				30712,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729838,
+			null,
+			"老爹，小十死了。",
+			"オヤジ、猟犬10は死んだって。",
+			"아저씨, 사냥개10은 죽었어요.",
+			null,
+			null,
+			"Pops, Ten is dead.",
+			"Dad, Hound 10 is dead."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30712,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729839,
+			null,
+			"啊，抱歉。我太习惯她作为参谋了。",
+			"ああ、すまん。これまでずっと彼女に参謀役をやってもらっていたからつい、な。",
+			"아, 미안. 그녀에게 계속 참모 역할을 맡겨왔기 때문에 자꾸 그렇게 되네.",
+			null,
+			null,
+			"Ah, I'm sorry. I'm too used to her as a counselor.",
+			"Oh, I'm sorry. I've been having her play the role of general counsel all this time, so I just couldn't help it."
+		],
+		[
+			"speaker",
+			320742
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				true
+			],
+			[
+				30710,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729840,
+			null,
+			"我来吧。",
+			"……私が代わりに総括します。",
+			"……제가 대신 총괄하겠습니다.",
+			null,
+			null,
+			"I'll do it.",
+			"I do."
+		],
+		[
+			"msg",
+			729841,
+			null,
+			"首先，我们目前知道寒铁和光之圣痕使频繁地使用过军团的内网，搜索长空市的记录。",
+			"まず、寒鉄と光の聖痕使いは軍団のイントラを使い、頻繁に長空市の情報を検索していることが判明しています。",
+			"먼저, 한철과 빛의 성흔 사용자는 군단의 인트라넷을 이용해 장공시의 정보를 빈번히 검색하고 있는 것이 확인되었습니다.",
+			null,
+			null,
+			"First, we currently know that Cold Iron and Stigmata of Light have frequently used the Legion's intranet to search the records of Long Hollow City.",
+			"First, we know that the cold iron and light stigmata users use the intranet of the corps to frequently search for information on the city of Changkuo."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			320744
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				true
+			],
+			[
+				30712,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729842,
+			null,
+			"她们到底是想了解什么信息？以至于需要反复交叉确认？",
+			"あいつら何をそんなに繰り返し調べてるんだ？",
+			"저 녀석들 뭘 그렇게 반복해서 조사하는 거지?",
+			null,
+			null,
+			"What kind of information are they trying to get? So much so that it needs to be cross-checked over and over again?",
+			"What the hell are these guys doing so much research? They're going through it over and over, even cross-checking it."
+		],
+		[
+			"speaker",
+			320743
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				true
+			],
+			[
+				30711,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729843,
+			null,
+			"我比较在意的是，她会选择什么交通工具前往长空市呢？",
+			"僕が気になるのは、寒鉄が何に乗って長空市に来ようとするかだね。",
+			"내가 신경 쓰이는 건, 한철이 뭘 타고 장공시에 오려 하는지야.",
+			null,
+			null,
+			"I'm more concerned about what mode of transportation she'll choose to travel to Long Hollow.",
+			"What I'm interested in is what the cold iron will try to come to Changkuu City on."
+		],
+		[
+			"bgm",
+			74
+		],
+		[
+			"speaker",
+			320742
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				true
+			],
+			[
+				30710,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729844,
+			null,
+			"这也是一个线索，目前没有任何地方军报告发现了寒铁前往长空市的踪迹，相反，她历次袭击的军事基地都越来越远离长空市，是往东方军的驻地移动。",
+			"これも手がかりのひとつです。今のところどの地方の軍も、寒鉄が長空市に向かった痕跡をつかめていない状況です。寒鉄はあちこちで軍の基地を襲撃していますが、方向としては逆に長空市から次第に離れ、東方軍の駐屯地の方へと移ってきている状況です。",
+			"이것도 단서 중 하나입니다. 현재 어느 지방 군도 한철이 장공시로 향한 흔적을 잡지 못한 상황입니다. 한철은 여기저기서 군 기지를 습격하고 있지만, 방향으로는 오히려 장공시에서 점점 멀어져 동방군의 주둔지 쪽으로 이동해 오는 상황입니다.",
+			null,
+			null,
+			"It was also a clue that no local army had reported any sightings of Cold Steel traveling to Long Hollow City; instead, the military bases she had attacked on successive occasions were moving further and further away from Long Hollow City and were moving towards the Eastern Army garrisons.",
+			"This is another clue. So far, none of the local militaries have been able to find any traces of the cold iron heading toward Changku City. Although the iron raiders are attacking military bases here and there, they are gradually moving in the opposite direction, away from Changku City and toward the military garrisons in the east."
+		],
+		[
+			"msg",
+			729845,
+			null,
+			"上尉，有无可能长空市是一个烟雾弹？实际上寒铁的目标是前往东方军。",
+			"大尉、寒鉄が長空市に関心を寄せているというのは、ただのブラフでしょうか？彼女の本当の狙いは東方軍なのでしょうか。",
+			"대위, 한철이 장공시에 관심을 보인 건 단순한 블러프일까요? 그녀의 진짜 목표는 동방군인 걸까요?",
+			null,
+			null,
+			"Captain, is it possible that Long Hollow City is a smokescreen? In reality, Coldiron's goal is to travel to the Eastern Army.",
+			"Captain, is it just a bluff that Cold Iron seems to be interested in Changku City? Is her real target the Eastern Army?"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				false
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729846,
+			null,
+			"她的圣痕植入体里有东方军的定位，她是不会去东方军团的。",
+			"寒鉄の聖痕の移植体には東方軍から位置を推定されてしまうデータが入っている。そんな彼女が東方軍団の方に向かうとは考えずらい。",
+			"한철의 성흔 이식체에는 동방군에서 위치를 추적할 수 있는 데이터가 들어있다. 그런 그녀가 동방군단 쪽으로 향할 거라고는 생각하기 어렵다.",
+			null,
+			null,
+			"She's not going to the Eastern Legion with the Oriental Army positioned in her Stigma implant.",
+			"It is hard to believe that she would go toward the Eastern Legion because the implanted body of the cold iron stigmata contains data that would allow the Eastern Legion to estimate her location."
+		],
+		[
+			"speaker",
+			320742
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				true
+			],
+			[
+				30710,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729847,
+			null,
+			"投诚的可能性呢？",
+			"東方軍に身を寄せる可能性についてはどうでしょうか？",
+			"동방군에 몸을 의탁할 가능성에 대해서는 어떻게 생각하시나요?",
+			null,
+			null,
+			"What about the possibility of defection?",
+			"What about the possibility of aligning yourself with the Eastern Legion?"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729848,
+			null,
+			"你是说……寒铁投降了东方军团？",
+			"……寒鉄が東方軍に投降すると？",
+			"……한철이 동방군에 항복한다고?",
+			null,
+			null,
+			"Are you saying that ...... Cold Iron surrendered the Eastern Legion?",
+			"...... cold iron surrender to the Eastern Legion?"
+		],
+		[
+			"speaker",
+			320742
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				true
+			],
+			[
+				30710,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729849,
+			null,
+			"我不是小十，但也能感觉到在内战中毫无建树的东方军或许需要一个筹码，一个宣传材料，寒铁虽然不是最好的，但是目前唯一还活着的。",
+			"私は猟犬10ではないのでそこまで正確に推測できませんが、内戦において何もいい所がなかった東方軍は、切り札や対外宣伝に使えるものを必要としている可能性があります。その場合、最良の選択肢ではないかもしれませんが、まだ生存していて使えそうなのは寒鉄だけじゃないですか。",
+			"저는 사냥개 10호가 아니니 그렇게까지 정확히 추측할 수는 없지만, 내전에서 아무런 이득도 없었던 동방군은 트럼프 카드나 대외 선전에 쓸 만한 것을 필요로 하고 있을 가능성이 있습니다. 그 경우, 최선의 선택은 아닐지 몰라도 아직 생존해 있고 쓸 만한 건 한철뿐이 아닐까요?",
+			null,
+			null,
+			"I'm no Ten, but I can sense that the Orientals, which had nothing to offer in the Civil War, might need a bargaining chip, a piece of propaganda material, and the Cold Iron, while not the best, is the only one alive at the moment.",
+			"I am not a hound10 so I am not sure, but perhaps the Eastern Army, which had nothing good to offer in the civil war, may need something that can be used as a trump card or for foreign propaganda. In that case, while Cold Iron may not be the best option, isn't she the only one who is still alive and could be used?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729850,
+			null,
+			"我闭上了双眼，回忆起那位教授过我一年技艺的老师的行为。#n她是个怎样的人？",
+			"俺は目を閉じ、かつて1年間スキルを教えてくれた先生の行動パターンについて考えてみた。#n彼女はどういう人だっただろうか？",
+			"나는 눈을 감고, 한때 1년 동안 스킬을 가르쳐 준 선생님의 행동 패턴에 대해 생각해 보았다.#n그녀는 어떤 사람이었을까?",
+			null,
+			null,
+			"I closed my eyes and recalled the behavior of the teacher who had taught me my craft for a year. What kind of person was she?",
+			"I closed my eyes and thought about the behavioral patterns of the teacher who once taught me skills for a year. What kind of person was she?"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729851,
+			null,
+			"……………………我认为，不可能。",
+			"……………………それは無いと思う。",
+			"……………………그럴 리 없을 거야.",
+			null,
+			null,
+			"........................ I don't think so.",
+			"........................ I don't think so."
+		],
+		[
+			"msg",
+			729852,
+			null,
+			"老师……寒铁老师，她是一个天赋平常，但从来没有停止过行动的人。",
+			"先生……寒鉄先生は才能は至って平凡だったものの、常に行動し続ける人だった。",
+			"선생님… 한철 선생님은 재능은 지극히 평범했지만, 항상 행동하는 사람이었어.",
+			null,
+			null,
+			"Teacher ...... Cold Iron Teacher, she is a person who is normally gifted, but never stops moving.",
+			"Dr. ...... Kantetsu was a man of constant action, even though his talents were quite ordinary."
+		],
+		[
+			"msg",
+			729853,
+			null,
+			"她会一直前进，如同一枚箭矢一般绝不回头。我不知道她的终点是哪里，但在抵达之前，她绝不可能停下。",
+			"彼女は常に前進し続ける。そう、放たれた矢のように振り返ることなく進み続ける。彼女が目指す終点が何かは分からないが、そこにたどり着くまで彼女が歩みを止めることはない。",
+			"그녀는 늘 앞으로 나아갔다. 그래, 쏘아진 화살처럼 뒤를 돌아보지 않고 계속 전진했다. 그녀가 목표하는 종착점이 무엇인지는 모르지만, 거기에 도달하기 전까지 그녀가 걸음을 멈추는 일은 없을 거야.",
+			null,
+			null,
+			"She will keep going, like an arrow never looking back. I don't know where she'll end up, but she'll never stop until she gets there.",
+			"She always keeps moving forward. Yes, like a shot arrow, she never looks back. I don't know what the end point is that she is aiming for, but she never stops until she gets there."
+		],
+		[
+			"portraits",
+			[
+				30694,
+				0,
+				false
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729854,
+			null,
+			"这样的人，既然认可了自己是第一军团的成员，就绝无可能投诚。",
+			"俺の知っている彼女なら、一度第一軍団に所属したら、絶対に他の勢力に身を寄せようとはしないはずだ。",
+			"내가 아는 그녀라면, 한번 제1군단에 소속되었다면 절대 다른 세력에 몸을 의탁하려 하지 않을 거다.",
+			null,
+			null,
+			"Such a man, having recognized himself as a member of the First Legion, could never defect.",
+			"Such a person, once he or she thinks he or she is a member of the First Corps, would never try to huddle with other forces."
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				false
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729855,
+			null,
+			"因为她会讨厌那样的自己。",
+			"そんなことをすれば、自分のことが受け入れられなくなるから。",
+			"그런 짓을 하면, 스스로를 받아들일 수 없게 될 테니까.",
+			null,
+			null,
+			"Because she would hate herself that way.",
+			"If I did that, I would not be able to accept myself."
+		],
+		[
+			"speaker",
+			320742
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				true
+			],
+			[
+				30710,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729856,
+			null,
+			"但从猎物的角度来说，为了逃避我军的狩猎……她一定需要找到一个逃离的方向。",
+			"しかし追われる者の立場で考えれば、我が軍の追跡から逃れるために……逃げ道を探しておこうとは考えないでしょうか。",
+			"하지만 쫓기는 입장에서 생각해보면, 우리 군대의 추적을 피하기 위해…… 도주로를 미리 찾아두지 않을까 생각하지 않을까?",
+			null,
+			null,
+			"But from the point of view of the prey, in order to escape the hunting ...... of our troops she must need to find an escape direction.",
+			"But from the angle of those being pursued, wouldn't they think of looking for ...... escape routes to get away from our military pursuit?"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				false
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729857,
+			null,
+			"有道理……不对，这样的人，也不会把自己看作猎物。",
+			"確かに……いや、違うな。彼女はきっと自分のことを追われる獲物だとは考えない。",
+			"확실히…… 아니, 다르군. 그녀는 분명 자신을 쫓기는 먹잇감이라고 생각하지 않을 거야.",
+			null,
+			null,
+			"It makes sense ...... not to be right, and people like that don't see themselves as prey.",
+			"Surely ...... no, no. She surely doesn't consider herself prey to be chased."
+		],
+		[
+			"msg",
+			729858,
+			null,
+			"在她眼里，她才是猎手。",
+			"自分が獲物を狩る側だと認識しているだろう。",
+			"자신이 먹잇감을 사냥하는 쪽이라고 인식하고 있을 거다.",
+			null,
+			null,
+			"In her eyes, she was the hunter.",
+			"You must think you are the hunter of the prey."
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				false
+			],
+			[
+				30710,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729859,
+			null,
+			"她是主动的那个……但是，她会怎么化被动为主动……呢？",
+			"彼女は積極的に動く……しかし、受け身の状態からどうやって積極的に動ける状態に転換するだろうか？",
+			"그녀는 적극적으로 움직일 거야…… 하지만, 수동적인 상태에서 어떻게 적극적으로 움직일 수 있는 상태로 전환할 수 있을까?",
+			null,
+			null,
+			"She is the active one ...... But how will she turn passivity into initiative ......?",
+			"She is proactive ...... but how would she convert from a passive state to one where she is proactive ......?"
+		],
+		[
+			"msg",
+			729860,
+			null,
+			"长空市里，存在什么化被动为主动的关键要素吗？不对，跳出长空市，她的手里还有什么牌？圣痕构型？光之圣痕使？还是说在南方军里还有内应？",
+			"長空市に何か重要な要素があるのだろうか？いや、長空市に限ったことではない。彼女はまだどんな切り札を残しているのだろうか？聖痕の移植体？光の聖痕使い？それとも南方軍に呼応する裏切り者が潜んでいたりするのか？",
+			"창공시에 뭔가 중요한 요소가 있는 걸까? 아니, 창공시에만 국한된 건 아닐 거야. 그녀는 아직 어떤 패를 남겨두고 있을까? 성흔 이식체? 빛의 성흔 사용자? 아니면 남방군과 호응하는 배신자가 숨어있거나 하는 건가?",
+			null,
+			null,
+			"Is there any key element to turn passivity into initiative in Long Hollow City? No, outside of Long Hollow City, what other cards did she have in her hand? A stigma configuration? The Stigmata of Light? Or is there a mole in the Southern Army?",
+			"Are there enough critical elements in Changku City to convert it from a passive state to a proactive state? No, it is not limited to Chang Ku Shi. What cards does she still have left to play? An implanted body of stigmata? A light sacramental user? Or is there a traitor lurking in response within the southern army?"
+		],
+		[
+			"speaker",
+			320743
+		],
+		[
+			"portraits",
+			[
+				30694,
+				2,
+				true
+			],
+			[
+				30711,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729861,
+			null,
+			"老爹！?",
+			"お父さん！？",
+			"아버지!?",
+			null,
+			null,
+			"Pops!?",
+			"Father!"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				false
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729862,
+			null,
+			"等等，我感觉……我快想出来了。",
+			"待ってくれ。もう少し考えれば……何かがつかめそうだ。",
+			"기다려. 조금만 더 생각하면…… 뭔가 잡힐 것 같아.",
+			null,
+			null,
+			"Wait, I feel like ...... I'm coming up with something.",
+			"Wait a minute. I'll figure it out ...... if I think about it some more."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			320743
+		],
+		[
+			"portraits",
+			[
+				30694,
+				3,
+				true
+			],
+			[
+				30711,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729863,
+			null,
+			"不是！快看窗外——！？",
+			"ちょっと！外を見て——！？",
+			"잠깐! 밖을 봐 ——!?",
+			null,
+			null,
+			"No! Look out the window-!",
+			"Hey, hey! Look out there--!"
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				0,
+				false
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729864,
+			null,
+			"？",
+			"？",
+			"?",
+			null,
+			null,
+			"?",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bg",
+			"CG10499"
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"msg",
+			729867,
+			null,
+			"我扭头看向舷窗，窗外是湛蓝的苍穹，以及悬浮于苍穹之上的战舰。",
+			"振り向いて窓の方を見た。窓の外には青空が広がり、空には戦艦が浮いていた。",
+			"고개를 돌려 창문 쪽을 바라보았다. 창문 밖으로 푸른 하늘이 펼쳐져 있었고, 하늘에는 전함이 떠 있었다.",
+			null,
+			null,
+			"I craned my head to look out the porthole, which looked out at the blue dome of the sky and the battleship hovering above it.",
+			"I turned around and looked at the window. Outside the window was a blue sky and a battleship was floating in the sky."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"portraits",
+			[
+				30694,
+				4,
+				false
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729868,
+			null,
+			"那艘最大的是山之座号吧？联系驾驶室，我们为什么要朝山之座号前进？啊……！",
+			"あの一番大きいのは山の座だな？操縦室に連絡するんだ。どうして山の座の方に近づいていくんだ？くっ……！",
+			"저 가장 큰 건 산의 자리인가? 조종실에 연락해. 왜 산의 자리 쪽으로 다가가는 거야? 쯧...!",
+			null,
+			null,
+			"That's the biggest ship, isn't it? The Yamanosato. Contact the bridge. Why are we heading towards the Yamanosato? Ah ......!",
+			"That biggest one is the Mountain Seat, right? Contact the cockpit. Why are we moving closer to the Mountain Zodiac? Ah, ......!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729869,
+			null,
+			"我忽然明白了，所有散乱的线索在这一刻，被一个念头串在了一起。",
+			"その瞬間、すべてを悟った。それまでバラバラだった手がかりが、その瞬間にひとつにつながった。",
+			"그 순간, 모든 것을 깨달았다. 그때까지 조각조각이었던 단서들이, 그 순간 하나로 연결되었다.",
+			null,
+			null,
+			"It suddenly dawned on me that all the scattered clues were strung together by a single thought in this moment.",
+			"At that moment, everything became clear. The clues that had been disparate until that moment were connected as one at that moment."
+		],
+		[
+			"msg",
+			729870,
+			null,
+			"不是我在靠近山。",
+			"この船が山に近づいているんじゃない。",
+			"이 배가 산에 가까워지는 게 아니다.",
+			null,
+			null,
+			"It's not that I'm near the mountains.",
+			"This boat is not approaching the mountain."
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV21_WarningAlertTunnelB"
+		],
+		[
+			"msg",
+			729871,
+			null,
+			"而是山在朝我袭来。",
+			"山の方からこちらに近づいてきているんだ。",
+			"산 쪽에서 우리에게 다가오고 있는 거야.",
+			null,
+			null,
+			"Rather, the mountain was coming at me.",
+			"They are approaching us from the mountains."
+		],
+		[
+			"speaker",
+			320726
+		],
+		[
+			"bg",
+			"CG10280"
+		],
+		[
+			"portraits",
+			[
+				30694,
+				4,
+				false
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729872,
+			null,
+			"大家——孩子们——#n快跑————————！！！",
+			"子どもたち——#n走れ————————！！！",
+			"애들아——#n달려————————!!!",
+			null,
+			null,
+			"Everyone - kids - run ----- ---!!!",
+			"Everyone--children--run ---- ----!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729873,
+			null,
+			"………………",
+			"………………",
+			"………………",
+			null
+		],
+		[
+			"msg",
+			729874,
+			null,
+			"……………………",
+			"……………………",
+			"……………………",
+			null
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"bg",
+			"CG10240"
+		],
+		[
+			"portraits",
+			[
+				30546,
+				5,
+				false
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729875,
+			null,
+			"你这小孩#n真是有够自闭，说你几句就低着头不说话了。",
+			"あなたって本当に内向的よね。#n少し言ったくらいで、下向いて黙っちゃうだなんて。",
+			"너 정말 내성적이구나.#n조금 말했다고, 고개 숙이고 묵묵히 있다니.",
+			null,
+			null,
+			"You're such a self-absorbed kid, you say a few words about you and then you keep your head down and don't say a word.",
+			"You really are an introvert, aren't you? I can't believe you would just look down and shut up after a few words."
+		],
+		[
+			"portraits",
+			[
+				30546,
+				2,
+				false
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729876,
+			null,
+			"好啦，今晚想吃什么，老师有钱，#n请你去校外的餐厅吃。",
+			"もういいわ。今晩、何食べたい？先生、お金持ってるから。#n外のレストランでご馳走してあげる。",
+			"이젠 됐어. 오늘 밤, 뭐 먹고 싶어? 선생님, 돈 있으니까.#n밖에서 사줄게.",
+			null,
+			null,
+			"All right, what do you want to eat tonight? Teacher has money. I'll treat you to a restaurant off campus.",
+			"That's enough. What do you want to eat tonight? I have money, doctor. I'll take you to a restaurant outside."
+		],
+		[
+			"bgm",
+			129
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729877,
+			null,
+			"老师……",
+			"先生……。",
+			"선생님....",
+			null,
+			null,
+			"Teacher ......",
+			"Teacher ......"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				30546,
+				6,
+				false
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729878,
+			null,
+			"刚刚关于期末考试的事情也不算数了。#n这样行了吧？走~",
+			"さっきの期末試験の事は考え直すから。#nそれでいいでしょう？行きましょう～。",
+			"아까 말한 기말고사 문제는 다시 생각해 볼게.#n그렇게 하면 되지? 가자~",
+			null,
+			null,
+			"What we just said about finals doesn't count anymore. Is that okay? Let's go.",
+			"I'll reconsider the final exam you just gave me. That's fine, right? Let's go."
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729879,
+			null,
+			"我有个问题。",
+			"質問していいですか。",
+			"질문해도 될까요?",
+			null,
+			null,
+			"I have a question.",
+			"Can I ask a question?"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				30546,
+				5,
+				false
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729880,
+			null,
+			"嗯？",
+			"何？",
+			"뭔데?",
+			null,
+			null,
+			"Hmm?",
+			"What?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			320750
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				30718,
+				0,
+				false
+			],
+			[
+				30711,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729882,
+			null,
+			"爱猫所以不杀猫的老师……",
+			"猫が好きで猫を殺さない先生……。",
+			"고양이를 좋아해서 고양이를 죽이지 않는 선생님...",
+			null,
+			null,
+			"The Teacher Who Loved Cats So He Wouldn't Kill Them ......",
+			"A teacher who loves cats and won't kill them: ......"
+		]
+	],
+	"10553": [
+		[
+			"speaker",
+			1200
+		],
+		[
+			"portraits",
+			[
+				619,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			444664,
+			"Yah ho, this is REI.",
+			"呀吼，这里是临时加班的灵依娘。",
+			"うふふ～。臨時で残業している崩壊娘ですよ～",
+			"우후훗~. 임시로 야근 중인 붕괴娘이에요~",
+			"Hey hey~ It's me, Rei, I'm working overtime temporarily~",
+			null,
+			"Yee-haw, here's the Reiyi-nee who's working temporary overtime.",
+			"Uh-huh~. I'm a disintegrated girl working extra overtime~!"
+		],
+		[
+			"msg",
+			444665,
+			"Can you see me? That'll be all right. Bye",
+			"能看到我是吗，那就没事了~拜拜~",
+			"崩壊娘のことが見えてますか～？——それなら一安心ですね～。それではまた後で～",
+			"붕괴娘이 보이나요~?—— 그럼 한 시름 놓이네요~. 그럼 나중에 또~",
+			"Can you see me? Alright, that's good, see you later~",
+			null,
+			"Can you see me? It's okay then. Bye.",
+			"Do you see the disintegrating daughter~? --I'm sure that's a relief~. I'll see you later~."
+		],
+		[
+			"msg",
+			444666,
+			"You ask me about the story? You'll see it when you're supposed to. Just look forward to it.",
+			"你问我剧情？该看到的时候你总会看到的，就好好期待吧。",
+			"ストーリーが見たいですか？せっかちですね～。時間になったら見れますので楽しみにしていてくださいね～",
+			"스토리가 보고 싶으신가요? 성급하시네요~. 시간이 되면 볼 수 있으니 기대하고 있어 주세요~",
+			"The story? You'll see it when you're supposed to. Just look forward to it.",
+			null,
+			"You ask me about the plot? You'll always see it when it's time, just look forward to it.",
+			"Want to see the story? I'm impatient! You can see it when it's time, so please look forward to it~!"
+		],
+		[
+			"msg",
+			444667,
+			"So, I'll see you later.Don't skip~",
+			"那么，我们之后再见，可不准Skip了~",
+			"ではでは、また後で会いましょう～。Skipしちゃダメですよ～",
+			"자 그럼, 나중에 또 봐요~. Skip하면 안 돼요~",
+			"See you later, and don't hit that Skip button~//n(TN: This is a placeholder cutscene. If you can see this, it means mihoyo hasn't released this cutscene yet. Either that or you've found an unused cutscene!)",
+			null,
+			"Well, I'll see you later. No more Skip.",
+			"Well, I'll see you later - don't Skip!"
+		]
+	],
+	"10554": [
+		[
+			"bgm",
+			80
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			729905,
+			null,
+			"搞定，通讯模块已经屏蔽，准备好了吗？",
+			"できた。通信モジュールの遮蔽完了。そっちは？",
+			"됐다. 통신 모듈 차단 완료. 너희쪽은?",
+			null,
+			null,
+			"It's done. The comm module is shielded. Ready?",
+			"It's done. Communication module cloaking complete. Are you ready?"
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				0,
+				false
+			],
+			[
+				30546,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			729906,
+			null,
+			"等不及了。",
+			"待ってたよ。",
+			"기다리고 있었어.",
+			null,
+			null,
+			"Can't wait.",
+			"We have been waiting."
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV02_ControlRoomDoorOpen"
+		],
+		[
+			"msg",
+			729907,
+			null,
+			"旅行第四十一天#n清晨。",
+			"旅の41日目#n朝。",
+			"여행의 41일째#n아침.",
+			null,
+			null,
+			"Early morning on the forty-first day of travel.",
+			"Morning of the 41st day of the trip."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"bg",
+			"CG10280"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			729908,
+			null,
+			"——[警报，警报，E3舱室的未知单位，请表明你的身份。否则我们将立即开火。]——",
+			"——［警報、警報。E3区画で正体不明の不審者を検知。直ちに身分を明らかにして下さい。従わない場合は攻撃します。］——",
+			"——[경보, 경보. E3 구역에서 정체불명의 불심자를 감지. 즉시 신분을 밝히시오. 따르지 않을 경우 공격합니다.]——",
+			null,
+			null,
+			"-[Alert, alert, unknown unit in compartment E3, please identify yourself. Otherwise we will open fire immediately.] --",
+			"--Alarm, alarm, unidentified person detected in E3 block. Please identify yourself immediately. Failure to do so will result in attack.] --"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			729909,
+			null,
+			"无所谓，开火吧，来点音乐，一同起舞吧。",
+			"別にいいよ。早く撃てば？ついでに音楽でも流してよ。一緒に踊ろうか。",
+			"별로 상관없어. 빨리 쏴 봐? 덤으로 음악이나 틀어줘. 같이 춤추자.",
+			null,
+			null,
+			"It doesn't matter. Fire away. Let's have some music and dance together.",
+			"It doesn't matter. Just shoot. Put on some music. Dance with me."
+		]
+	],
+	"10555": [
+		[
+			"bgm",
+			80
+		],
+		[
+			"speaker",
+			320763
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30732,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729910,
+			null,
+			"咳咳……早知道……早知道……",
+			"ゴホゴホ……もっと早く……早く察知していれば……。",
+			"콜록콜록... 더 빨리... 빨리 눈치챘더라면....",
+			null,
+			null,
+			"Cough up ...... early to know ...... early to know ...... early to know ......",
+			"If only I had detected it earlier ...... earlier ......"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			729911,
+			null,
+			"来，张嘴喝。",
+			"ほら、口を開けなさい。",
+			"자, 입 벌려.",
+			null,
+			null,
+			"Here, open your mouth and drink.",
+			"Here, open your mouth."
+		],
+		[
+			"speaker",
+			320763
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30732,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729912,
+			null,
+			"唔……！",
+			"うっ……！",
+			"윽...!",
+			null,
+			null,
+			"Well ......!",
+			"Ugh. ......!"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			729913,
+			null,
+			"现在你体内的金属含量够我拼个航模了，告诉我山之座号战舰的智能核心启动码。你能死得痛快点。",
+			"今、あんたの体中には模型が作れるくらいの金属が入っているわ。山の座のスマートコアのアクティベートキーを吐きなさい。苦しまずにあの世に行きたかったらね。",
+			"지금 네 몸속에는 모형을 만들 정도의 금속이 들어있어. 산의 좌의 스마트 코어 액티베이트 키를 토해내. 고통 없이 저 세상에 가고 싶다면 말이지.",
+			null,
+			null,
+			"Now that you have enough metal in you to put together an aeromodel, tell me the smart core activation code for the battleship Yamanosato. You can die a quick death.",
+			"Now you have enough metal in your body to build a model. Tell me the activation key to the smart core in the constellation of the Mountain. If you want to go to the other side without suffering."
+		],
+		[
+			"speaker",
+			320763
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30732,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729914,
+			null,
+			"QVZ3-081B……3VD5-KV3T。",
+			"QVZ3—081B……3VD5—KV3T。",
+			"QVZ3—081B......3VD5—KV3T.",
+			null,
+			null,
+			"QVZ3-081B ......3VD5-KV3T.",
+			"QVZ3-081B......3VD5-KV3T."
+		]
+	],
+	"10556": [
+		[
+			"bgm",
+			80
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			729915,
+			null,
+			"好怀念，上一次在舰桥驾驭战舰，应该是三十年前了。",
+			"懐かしいわ。前回これを操縦したのはもう30年も前のことよ。",
+			"옛날 생각이 나네. 마지막으로 이걸 조종한 게 벌써 30년 전이야.",
+			null,
+			null,
+			"So nostalgic, the last time I sailed a battleship on the bridge would have been thirty years ago.",
+			"I miss it. The last time I flew this thing was 30 years ago."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			729916,
+			null,
+			"智能核心，检测通讯模块，我已经修复了。拍拍？",
+			"スマートコア、通信モジュールをチェックして。修復したから。ポポ？",
+			"스마트 코어, 통신 모듈 확인해봐. 수리했으니까. 포포?",
+			null,
+			null,
+			"Intelligent Core, detecting communication module. I've fixed it. Pat?",
+			"Smart Core, check the communication module. I've repaired it. Popo?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			729917,
+			null,
+			"——[通讯模块，启用中。]——",
+			"——［通信モジュール、起動中。］——",
+			"——[통신 모듈, 기동 중.]——",
+			null,
+			null,
+			"--[Communication module, active.] --",
+			"--[Communication module, starting up.] --"
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				8,
+				false
+			],
+			[
+				30546,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			729918,
+			null,
+			"再叫两声。",
+			"もう少ししゃべってよ。",
+			"좀 더 말해봐.",
+			null,
+			null,
+			"Scream two more times.",
+			"Speak at least two more words."
+		],
+		[
+			"speaker",
+			320763
+		],
+		[
+			"portraits",
+			[
+				30547,
+				8,
+				true
+			],
+			[
+				30732,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729919,
+			null,
+			"小东西……你这不知死活的……",
+			"貴様……このくたばりぞこないめ……。",
+			"이 자식…… 이 망할 놈이……",
+			null,
+			null,
+			"Little thing ...... you don't know how to die ......",
+			"You ...... are a bunch of pussies. ......"
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				2,
+				false
+			],
+			[
+				30732,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729920,
+			null,
+			"音频采样完毕，已经可以模拟艾斯摩尔上校的声线。",
+			"ボイスサンプリング完了。これでアイスモール大佐の声を真似できるよ。",
+			"보이스 샘플링 완료. 이제 아이스몰 대령의 목소리를 흉내낼 수 있어.",
+			null,
+			null,
+			"The audio sampling is complete, and it is already possible to simulate Colonel Esmore's voice.",
+			"Voice sampling complete. Now you can imitate Colonel Eismoll's voice."
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				30547,
+				2,
+				true
+			],
+			[
+				30546,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729921,
+			null,
+			"智能核心，装载我刚刚接入的插件，然后为我联系迦楼罗号舰长。",
+			"スマートコア、さっき接続したプラグインをインストールして。そして戦艦ガルーダの艦長に連絡して。",
+			"스마트 코어, 방금 연결한 플러그인 설치해. 그리고 전함 갈루다의 함장에게 연락해.",
+			null,
+			null,
+			"Intelligent Core, load the plug-in I just accessed, then contact the Captain of the Calvary for me.",
+			"Smart Core, install the plug-in you just connected. And contact the captain of the battleship Garuda."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729922,
+			null,
+			"——[通讯申请中……已接通。]——",
+			"——［相手の通信許可を待っています……接続しました。］——",
+			"——［상대의 통신 허가를 기다리는 중…… 연결되었습니다.］——",
+			null,
+			null,
+			"--[Communication request in progress ...... has been connected.] --",
+			"--[Waiting for permission to communicate from the other party. ...... connected.] --"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			729923,
+			null,
+			"达斯丁爵士，我是艾斯摩尔上校，向您致敬。",
+			"ダスティン殿、アイスモール大佐です。こんにちは。",
+			"더스틴 각하, 아이스몰 대령입니다. 안녕하십니까.",
+			null,
+			null,
+			"Sir Dustin, this is Colonel Esmail, saluting you.",
+			"Dear Dustin, this is Colonel Eismoll. Good afternoon."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			729924,
+			null,
+			"——[向您致敬，上校阁下，是发现了寒铁的行踪吗？]——",
+			"——［こんにちは、大佐殿。寒鉄の手がかりはつかめましたか？］——",
+			"——［안녕하십니까, 대령 각하. 한철의 단서는 잡으셨습니까?］——",
+			null,
+			null,
+			"--[Hail to thee, Sir Colonel, is it the discovery of Coldiron's whereabouts?] --",
+			"-- [Hello, Colonel. Did you get any leads on the cold iron?] --"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			729925,
+			null,
+			"那倒没有，我的副官向我报告在刚刚的例行消防检查中，抓到了四个伪造了身份的低级军官，他们自称为达斯丁爵士您效命。",
+			"いいえ。ところで先ほど副官から報告を受けましてね。なんでも定例の消防検査で、兵士4人が身分を偽っていたことが判明しまして。尋問した所、ダスティン殿の命を受け動いていると白状したそうなのですよ。",
+			"아닙니다. 그런데 방금 부관으로부터 보고를 받았는데요. 말하자면 정례 소방 점검에서, 병사 4명이 신분을 위조하고 있었다는 것이 밝혀졌다고 합니다. 심문한 바, 더스틴 각하의 명을 받아 움직이고 있다고 자백했다더군요.",
+			null,
+			null,
+			"That's not true, my adjutant reports to me that during a routine fire inspection just now, he caught four low-ranking officers who had forged their identities and claimed to be in your service, Sir Dustin.",
+			"No, sir. By the way, I just received a report from the adjutant. During a routine fire inspection, four soldiers were found to have lied about their identities, and when questioned, they confessed that they were working under orders from Dustin."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			729926,
+			null,
+			"——[什么？这……这是对我名誉的诬蔑，艾斯摩尔上校，这件事情只有可能是兰开斯特阁下挑拨我们联盟的……]——",
+			"——［なんだって？そ……そんなの私の名を汚すためのでっち上げだ。アイスモール大佐、これはきっとランカスターの奴が我々の同盟の仲を割こうと画策したに決まっています……］——",
+			"——［뭐라고? 그…… 그런 건 내 이름을 더럽히기 위한 날조다. 아이스몰 대령, 이건 분명 랭커스터 놈이 우리 동맹 사이를 갈라놓으려 꾀한 게 분명합니다……］——",
+			null,
+			null,
+			"--[What? This ...... is a slander against my honor, Colonel Esmore, and the matter could only have been started by Lord Lancaster to stir up our alliance ......]--",
+			"--I'm sorry, I didn't know you were a - [what? That ...... is a fabrication made up to smear my name. Colonel Eismoll, I'm sure this is all a plot by that Lancaster fellow to divide our alliance ......]--"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				5,
+				false
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV12_RadioReceive"
+		],
+		[
+			"msg",
+			729927,
+			null,
+			"稍等，卡斯帕尔你说什么！？舰桥里有交火！？达斯丁你这两面三刀的……！",
+			"少々お待ちを。何、カスパー！？艦橋で戦闘発生だって！？ダスティン、貴様何重にも罠を……！",
+			"잠깐만 기다려 보게. 뭐, 카스퍼!? 함교에서 전투 발생이라고!? 더스틴, 이 자식 몇 겹으로 함정을……!",
+			null,
+			null,
+			"Just a moment, Kaspar. What did you say! There was a firefight on the bridge! Dustin you two-faced ......!",
+			"One moment, please. What, Caspere! There's a battle on the bridge! Dustin, you're a multiple-layered trap ......!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			729928,
+			null,
+			"哔！",
+			"ピッ！",
+			"삐!",
+			null,
+			null,
+			"Beep!",
+			"Beep!"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			729929,
+			null,
+			"好，通话结束，智能核心，现在开始——撞击觉悟号。",
+			"よし、通話終了。スマートコア、今から——戦艦リアライズに突進してぶつけてやって。",
+			"좋아, 통화 종료. 스마트 코어, 지금부터 —— 전함 리얼라이즈로 돌진해서 부딪쳐 줘.",
+			null,
+			null,
+			"Okay, end of call, Intelligent Core, now begin - impacting the Awareness.",
+			"Okay, call terminated. Smart Core, now - rush in and hit the Battleship Realize."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			729930,
+			null,
+			"——[警告，这则命令违背了人类宪章第……]——",
+			"——［警告。この命令は次のものに違反しています。人類憲章第……］——",
+			"——[경고. 이 명령은 다음 사항을 위반합니다. 인류 헌장 제……]——",
+			null,
+			null,
+			"-[Warning, this order violates section ...... of the Human Charter]-",
+			"-- [Warning. This order violates the following Charter of Mankind No. ......]--"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			729931,
+			null,
+			"我知道，我要启用舰长权限。",
+			"分かってるわ。艦長権限で実行して。",
+			"알고 있어. 함장 권한으로 실행해.",
+			null,
+			null,
+			"I know. I'm going to enable captain's authority.",
+			"I know. Run it by the captain's authority."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			729932,
+			null,
+			"——[是，正在规划飞行路线，规划完毕，崩坏炉出力提升至40%、50%、60%……]——",
+			"——［わかりました。飛行ルートを作成中。作成完了しました。崩壊炉の出力上昇中40%、50%、60%……］——",
+			"——[알겠습니다. 비행 경로 생성 중. 생성 완료했습니다. 붕괴로의 출력 상승 중 40%, 50%, 60%……]——",
+			null,
+			null,
+			"-[Yes, flight paths being planned, planning complete, Crash Furnace power out to 40%, 50%, 60% ......]-",
+			"-- [Understood. Creating flight route. Creation completed. Disintegrator power increasing 40%, 50%, 60% ......]--"
+		],
+		[
+			"speaker",
+			320763
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30732,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729933,
+			null,
+			"你……你这疯子，你到底想要做什么？",
+			"貴様……狂ったか。何が目的だ？",
+			"이 자식…… 미쳤나. 목적이 뭐야?",
+			null,
+			null,
+			"What do you ...... you crazy person, what do you want to do?",
+			"You ...... are crazy. What do you want?"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			729934,
+			null,
+			"小淘气，你问题好多哦。那你们在智能核心里内置底层命令，绕过人类宪章是想要做什么呢？肯定不是为了打内战吧？",
+			"ちょっとしたイタズラよ。あんた、質問多いわね。あんたらスマートコアの深層に秘密のコマンドを仕込んでるでしょう。人類憲章を迂回できるようにさ。それで何しようっていうわけ？内戦のためってわけじゃないでしょう？",
+			"그냥 장난이야. 너, 질문이 많네. 너희들 스마트 코어의 심층에 비밀 명령어를 심어놓았잖아. 인류 헌장을 우회할 수 있게 말야. 그래서 뭘 하려는 거야? 내전을 위해서는 아니겠지?",
+			null,
+			null,
+			"Rogue, you ask a lot of questions. So what are you trying to do with the underlying commands built into the Smart Core, bypassing the Human Charter? Surely not to fight a civil war?",
+			"Just a little prank. You ask a lot of questions. You've got secret commands planted deep within the smart core. So that you can bypass the Human Charter. What are you doing with it? It's not for civil war, is it?"
+		],
+		[
+			"msg",
+			729935,
+			null,
+			"拍拍，撞击马上要来了，为我警戒。山之座号很大，我需要全神贯注才能操纵它撞击之后的下坠轨道。",
+			"ポポ、もうすぐ衝突するわよ。気を付けてね。山の座はバカでかくて、全神経を集中しないと衝突後の下降軌道を操れないからさ。",
+			"포포, 곧 충돌할 거야. 조심해. 산의 자리는 엄청 커서, 전신경을 집중하지 않으면 충돌 후 하강 궤도를 조종할 수 없으니까.",
+			null,
+			null,
+			"Clap, impact is imminent. Alert me. The Zodiac is huge, and I'll need my full attention to maneuver it into a downward trajectory after impact.",
+			"Popo, we're about to collide. Please be on the lookout. Because the constellation of the mountain is so ridiculously big, you'll have to concentrate all your attention to maneuver the descending trajectory after the collision."
+		],
+		[
+			"msg",
+			729936,
+			null,
+			"我们就乘着山峰，前往长空市吧。",
+			"山から長空市に向かうわよ。",
+			"산에서 장공시로 향할 거야.",
+			null,
+			null,
+			"Let's just take a ride up the mountain and head for Long Hollow City.",
+			"We'll ride the mountain to Changkuu City."
+		]
+	],
+	"10557": [
+		[
+			"bgm",
+			80
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH01_EV10_ExplosionSomewhere"
+		],
+		[
+			"msg",
+			729937,
+			null,
+			"轰隆隆隆…………",
+			"ドオオン…………",
+			"쿠웅…………",
+			null,
+			null,
+			"Rumble Rumble Rumble ............",
+			"Dooon ............"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			729938,
+			null,
+			"呼~安全降落，拍拍你没事吧？",
+			"ふ～無事着地できたわね。ポポ、大丈夫？",
+			"후~ 무사히 착륙했네. 포포, 괜찮아?",
+			null,
+			null,
+			"Phew! Safe landing! Pat, are you okay?",
+			"Whew - you landed safely. Is Popo okay too?"
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				5,
+				false
+			],
+			[
+				30546,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			729939,
+			null,
+			"原来如此，本质上我们并不是降落，而在战舰的内部利用金属斥力悬浮，战舰只是掩藏我们行动的掩体……。",
+			"そっか、着陸じゃなくて着地なんだね。内側から金属の反発力を利用して……。これなら戦艦で私たちの行動も隠せるし……。",
+			"아, 착륙이 아니라 착지였구나. 내부에서 금속의 반발력을 이용해서... 이렇게 하면 전함으로 우리의 행동도 숨길 수 있고...",
+			null,
+			null,
+			"I see, essentially we are not landing but levitating inside the battleship using metal repulsion, and the battleship is just a bunker to hide our movements .......",
+			"I see, so it's different from landing. You used the repulsive force of the metal to float from inside the battleship. And you used the battleship to successfully hide what we were doing. ......"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				30547,
+				5,
+				true
+			],
+			[
+				30546,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			729940,
+			null,
+			"脑子还好使，看来你没事，无线电里怎么样？",
+			"頭は回る方だからね。ポポも無事みたいでよかった。やつら、無線では何を話してる？",
+			"머리는 잘 돌아가는 편이니까. 포포도 무사한 모양이어서 다행이야. 녀석들, 무선으로는 무슨 이야기를 하고 있지?",
+			null,
+			null,
+			"Brain's working. Looks like you're okay. How's the radio?",
+			"I'm a smart guy. I'm glad to hear Popo is okay. What are they talking about on the radio?"
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				0,
+				false
+			],
+			[
+				30546,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			729941,
+			null,
+			"南方军吵翻了，和你预料的一样，圣碑计划的参与者最关注的事情并不是抓你，而是长空市里恒世大锚的秘密。",
+			"南方軍は大喧嘩してる。あなたの予想通り、聖碑の作戦に参加した人たちはあなたを捕まえることよりも、長空市にある「永世の錨」の秘密の方に興味があるみたい。",
+			"남방군은 큰 싸움을 벌이고 있어. 당신의 예상대로, 성비의 작전에 참여한 사람들은 당신을 잡는 것보다는 장공시에 있는 「영세의 닻」의 비밀 쪽에 더 관심이 있는 모양이야.",
+			null,
+			null,
+			"The Confederates squabbled, and as you might expect, the thing that concerns the participants in the Sacred Tablet Program the most isn't capturing you, it's the secret of the Great Anchor of the Everlasting in Long Hollow City.",
+			"The southern army is in a big fight. As you predicted, the people who participated in the Holy Monument operation are more interested in the secret of the Eternal Anchor in Changku City than in capturing you."
+		],
+		[
+			"msg",
+			729942,
+			null,
+			"他们之间对彼此的防备多于对我们的防备。",
+			"彼らは私たちの事よりも、お互いをものすごく警戒しあっているみたいだね。",
+			"그들은 우리보다 서로를 엄청나게 경계하고 있는 것 같아.",
+			null,
+			null,
+			"They are more defensive of each other than of us.",
+			"They seem to be extremely wary of each other more than they are of us."
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				30547,
+				0,
+				true
+			],
+			[
+				30546,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			729943,
+			null,
+			"不过这种小把戏骗不了他们多久，元帅麾下的军人不是傻瓜。",
+			"でも、そう長くは騙せやしない。元帥傘下の指揮官たちもそこまでバカじゃないからね。",
+			"하지만 그렇게 오래 속일 순 없어. 원수 휘하의 지휘관들도 그 정도로 바보는 아니니까.",
+			null,
+			null,
+			"But that kind of trick won't fool them for long; the soldiers under the marshal's command are not fools.",
+			"But that performance won't fool you for very long. The commanders under the general's command are not that stupid."
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				0,
+				false
+			],
+			[
+				30546,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			729944,
+			null,
+			"我明白的，接下来会很艰难。",
+			"うん、これから先が大変。",
+			"응, 앞으로가 힘들 거야.",
+			null,
+			null,
+			"I get it. It's gonna be tough coming up.",
+			"Yeah, it's going to be tough going forward."
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				30547,
+				0,
+				true
+			],
+			[
+				30546,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			729945,
+			null,
+			"嗯……这个降落点已经尽量接近恒世大锚了，不过……比计划中的……还要远三倍……",
+			"さて……なるべく永世の錨に近い場所に着地するようにはしたつもりだけど……計画より……3倍は遠いみたいだし……。",
+			"자... 가능한 한 영세의 닻과 가까운 곳에 착지하도록 했지만... 계획보다... 3배는 먼 모양이고...",
+			null,
+			null,
+			"Well ...... this landing is as close as you can get to the Henderson Anchor, but ...... is three times farther than planned... ...",
+			"Yeah, ......I tried to land as close to the Eternal Anchor as possible, but it looks like it's ......3 times farther away than I planned. ......"
+		],
+		[
+			"msg",
+			729946,
+			null,
+			"接下来就没有取巧的余地，得打硬仗了。走吧！",
+			"これから先はもうごまかしは利かないから、実力で突破するしかない。行くわよ！",
+			"이제부터는 더 이상 속임수가 통하지 않으니, 실력으로 뚫고 나가야 해. 갈게!",
+			null,
+			null,
+			"There's no room for trickery next. We'll have to play hardball. Let's go!",
+			"From now on, we can't cheat anymore, we have to break through on our own merit. Let's go!"
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				0,
+				false
+			],
+			[
+				30546,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			729947,
+			null,
+			"嗯。",
+			"うん。",
+			"응.",
+			null,
+			null,
+			"Uh-huh.",
+			"Yes."
+		],
+		[
+			"msg",
+			729948,
+			null,
+			"寒铁，这是，最后一战了吗？",
+			"寒鉄、これって最後の戦いなのかな？",
+			"한철, 이게 마지막 전투일까?",
+			null,
+			null,
+			"Cold iron, is this, the last battle?",
+			"Cold Steel, is this the last battle?"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				30547,
+				0,
+				true
+			],
+			[
+				30546,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			729949,
+			null,
+			"……哈，谁知道呢！",
+			"……ハハ、それは誰にも分らないね！",
+			"......하하, 그건 아무도 모르지!",
+			null,
+			null,
+			"...... Ha, who knows!",
+			"...... haha, who knows about that!"
+		]
+	],
+	"10558": [
+		[
+			"bgm",
+			80
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729950,
+			null,
+			"————！",
+			"————！",
+			"————!",
+			null
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			729951,
+			null,
+			"刚刚那是什么？",
+			"さっきのあれは何？",
+			"방금 그건 뭐야?",
+			null,
+			null,
+			"What was that?",
+			"What was that thing you just saw?"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				30547,
+				5,
+				true
+			],
+			[
+				30546,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			729952,
+			null,
+			"是怖军号开火了，弹种是降雨弹，嗯……确实是很方便的对抗手法。",
+			"ルテリブルが人工降雨弾を発射したみたいね。うん……確かに効果的な一手かも。",
+			"루테리블이 인공강우탄을 발사한 모양이네. 음... 확실히 효과적인 수법일지도.",
+			null,
+			null,
+			"It was the Terrorist ship that fired, and the rounds were rainfall rounds, hmmm ...... Very handy counter maneuver indeed.",
+			"Looks like Lutherieble has launched an artificial rainfall projectile. Yeah ...... could certainly be an effective move."
+		],
+		[
+			"portraits",
+			[
+				30547,
+				5,
+				true
+			],
+			[
+				30546,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			729953,
+			null,
+			"看来他们反应过来了。",
+			"どうやら気づかれたみたいね。",
+			"어쩐지 들킨 모양이네.",
+			null,
+			null,
+			"Looks like they reacted.",
+			"Apparently, you've been noticed."
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				5,
+				false
+			],
+			[
+				30546,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			729954,
+			null,
+			"降雨弹？为什么？",
+			"人工降雨弾？どうしてそんなものを？",
+			"인공강우탄? 왜 그런 걸 쓴 거지?",
+			null,
+			null,
+			"A rain bomb? What for?",
+			"Artificial rain bombs? Why would you make such a thing?"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				30547,
+				5,
+				true
+			],
+			[
+				30546,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			729955,
+			null,
+			"为了低成本地限制你的能力。这样一般士兵也能看到隐身之后的你的行动轮廓了。",
+			"低いコストであんたが能力を使えないようにするためよ。雨が降っていれば特殊な装備のない兵士も、姿を消したあなたの行動を捉えることができるでしょう。",
+			"적은 비용으로 네가 능력을 쓰지 못하게 하려는 거야. 비가 오면 특수 장비가 없는 병사들도 모습을 감춘 너의 움직임을 포착할 수 있을 테니까.",
+			null,
+			null,
+			"To limit your abilities at low cost. This way the average soldier can also see the outline of your movements after stealth.",
+			"The low cost is to make sure you can't use your powers. If it rains, even soldiers without special equipment will be able to catch you in the act of disappearing."
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				4,
+				false
+			],
+			[
+				30546,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			729956,
+			null,
+			"嗯……确实之前没想过这种情况的对策法。",
+			"うん……確かにそういう状況への対策は考えてこなかった。",
+			"음... 확실히 그런 상황에 대한 대책은 생각해 본 적이 없었어.",
+			null,
+			null,
+			"Well ...... did think of a countermeasure method for this situation before.",
+			"Yeah ...... I certainly haven't thought about how to deal with those situations."
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				30547,
+				4,
+				true
+			],
+			[
+				30546,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			729957,
+			null,
+			"你将来有得是时间想……呼，先走吧。",
+			"あんたにはこれから先、考える時間が沢山あるわよ……ふぅ、先を急ぎましょう。",
+			"너에게는 앞으로 생각할 시간이 많을 거야... 후우, 서두르자.",
+			null,
+			null,
+			"You'll have plenty of time in the future to think ...... hoo, go ahead.",
+			"You have a lot of time to think about the future. ...... Phew, let's move on."
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				5,
+				false
+			],
+			[
+				30546,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			729958,
+			null,
+			"你受伤了？",
+			"ケガをしたの？",
+			"다쳤어?",
+			null,
+			null,
+			"Are you hurt?",
+			"Did you get hurt?"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				30547,
+				5,
+				true
+			],
+			[
+				30546,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			729959,
+			null,
+			"小伤罢了。",
+			"かすり傷よ。",
+			"스쳐간 상처야.",
+			null,
+			null,
+			"It's just a minor injury.",
+			"It's just a scratch."
+		]
+	],
+	"10559": [
+		[
+			"bgm",
+			80
+		],
+		[
+			"speaker",
+			320764
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30733,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			729960,
+			null,
+			"诸君！我们是最后的防线，绝对不能让敌人穿越。只要能撑住，地方师团的友军一定会来支援我们的！",
+			"諸君！我々は最後の防衛線、絶対に守り通すのよ。ここで踏ん張っていれば友軍の師団がきっと助けに来てくれるから！",
+			"제군들! 우리는 마지막 방어선이야, 절대 지켜내야 해. 여기서 버티면 아군 사단이 반드시 구원하러 올 거야!",
+			null,
+			null,
+			"Gentlemen! We're the last line of defense. We mustn't let the enemy cross. If we can hold out, friendly troops from the local divisions will surely come to support us!",
+			"Gentlemen! We are the last line of defense, and we must hold it. If we hold our ground here, I am sure that our friends' local divisions will come to our aid!"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30546,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			729961,
+			null,
+			"这个数量……咳咳，果然还是有点勉强。",
+			"この数……ゴホゴホ、やはり手ごわいわね。",
+			"이 숫자…… 으흠흠, 역시 만만치 않네.",
+			null,
+			null,
+			"That amount ...... ahem, is really still a bit of a stretch.",
+			"This number ...... gosh, it's still formidable."
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				4,
+				false
+			],
+			[
+				30546,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			729962,
+			null,
+			"要不要……后撤？",
+			"一度退却……するのはどう？",
+			"일단 퇴각…… 하는 건 어때?",
+			null,
+			null,
+			"Should we ...... withdraw?",
+			"How about once you retreat to ......?"
+		],
+		[
+			"speaker",
+			320716
+		],
+		[
+			"portraits",
+			[
+				30547,
+				4,
+				true
+			],
+			[
+				30546,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			729963,
+			null,
+			"没时间了，此时也已经无路可退……不，我早就下定决心不再追求退路了，事到如今，只有一路前进了！",
+			"時間がないし、退路も逃げ込める場所もない……というか、もう逃げないって決めたんだから。ここまで来たらもう前進あるのみよ！",
+			"시간도 없고, 퇴로도 숨을 곳도 없어…… 아니, 이미 도망치지 않기로 결심했잖아. 여기까지 왔으면 전진뿐이야!",
+			null,
+			null,
+			"There is no time, and at this time there is no way back ...... No, I have long made up my mind not to pursue the retreat, and now, there is only one way forward!",
+			"There's no time and no place to retreat ...... but I, for one, have decided that I'm not going to seek retreat anymore. I've come this far, and now it's time to move on!"
+		],
+		[
+			"speaker",
+			320717
+		],
+		[
+			"portraits",
+			[
+				30547,
+				3,
+				false
+			],
+			[
+				30546,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			729964,
+			null,
+			"啊……嗯！我也会全力支援的。寒铁，一定要到达那个地方！我们一起——一起到达那里！",
+			"あ……うん、私も全力で支援する！寒鉄、絶対にあの場所にたどり着いてね！一緒に——一緒にあの場所へ行こう！",
+			"아…… 응, 나도 전력으로 지원할게! 한철, 꼭 그곳에 도달해! 함께 —— 함께 그곳으로 가자!",
+			null,
+			null,
+			"Ah ...... well! I'll give my full support as well. Chantetsu, be sure to reach that place! We'll get there together - together!",
+			"Oh ...... yeah! I'll do my best to support you too. Cold Steel, you must definitely reach that place! Together - let's go to that place together!"
+		]
+	]
+}

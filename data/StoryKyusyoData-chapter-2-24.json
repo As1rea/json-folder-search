@@ -1,0 +1,1905 @@
+{
+	"1061": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305547,
+			"Hmm... What on earth is this?",
+			"嗯…这个到底是什么东西呢？",
+			"ん……これ何だろ？",
+			"음…… 이건 뭐지?",
+			null,
+			null,
+			"Hmmm...what the heck is this?",
+			"I'd like to know what's this ......?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305548,
+			"What's up, Seele? It's hard to see you thinking.",
+			"怎么了希儿，难得看到你也有思考人生的时候。",
+			"どうした、ゼーレ？へー、あんたにも疑問を持つなんていう思考回路があったんだな。",
+			"왜 그래, 제레? 헤에, 너한테도 의문을 가질 줄 아는 사고 회로가 있었구나.",
+			null,
+			null,
+			"What's wrong Hill, it's rare to see you thinking about life.",
+			"What's up, Seele? Wow, you had the thought process to question me too."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305549,
+			"You sound like I never use my brain... Well, some members just finished patrolling in the Paradise, and they gave this to me.",
+			"不要说得我一副没心没肺的样子…事情是这样的，刚才从游乐园巡逻回来的队员给我一张这个东西。",
+			"なによ、それじゃまるで私が能天気みたいじゃない！……もう！これ見て！遊園地のパトロールから帰って来た隊員がこれをくれたの。",
+			"뭐야, 그 말은 마치 내가 덜렁이란 거잖아!……真是! 이것 봐! 놀이공원 순찰에서 돌아온 대원이 이걸 줬다고.",
+			null,
+			null,
+			"Do not say that I look heartless... The thing is, the team member who just returned from the amusement park patrol gave me a sheet of this stuff.",
+			"What, you make it sound like I'm a no-brainer! ...... Oh, my God! Look at this! A member of my patrol gave me this when he came back from patrolling the amusement park."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305550,
+			"Is this a... Map?",
+			"这个是…地图？",
+			"これは……地図？",
+			"이건…… 지도?",
+			null,
+			null,
+			"Is this...a map?",
+			"Is this the ...... map?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305551,
+			"Yeah, it's a map of the Paradise. Look at this symbol here, looks like it's marking a location.",
+			"嗯，这个是游乐园的地图，不过你看这里的印记，似乎表示着某个地点。",
+			"うん、これは遊園地の地図。でも、ここのマークを見て。何かの場所を示しているみたいじゃない？",
+			"응, 이건 놀이공원 지도. 그런데 여기 표시 봐. 무언가의 장소를 나타내는 것 같지 않아?",
+			null,
+			null,
+			"Well, this is a map of the amusement park, but you can see the marks here, which seem to indicate a certain location.",
+			"Yeah, this is a map of the amusement park. But look at the markings here. It looks like it shows the location of something, doesn't it?"
+		],
+		[
+			"msg",
+			305552,
+			"But this 'map' looks like a fragment of the entire map, it only has one area of the Paradise on it...",
+			"不过这张东西好像只是整个地图的一个碎片，只画了游乐园的一个区域……",
+			"けどね、この地図破けてて一部分だけの欠片なの。遊園地の一角しか描かれていないみたい……。",
+			"그치만 이 지도는 찢어져서 일부분만 조각이야. 놀이공원의 한 구석만 그려져 있는 것 같아…….",
+			null,
+			null,
+			"But this thing seems to be just a fragment of the whole map, only one area of the amusement park is drawn ......",
+			"But, though, this map is torn and it's only a partial piece. It looks like it only depicts a corner of the amusement park. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305553,
+			"...Could it be a treasure map?",
+			"…这个莫非是藏宝图么？",
+			"……これはまさか、宝の地図かな？",
+			"……이거 설마, 보물 지도인가?",
+			null,
+			null,
+			"...Is this a treasure map?",
+			"...... I don't think this is a treasure map?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305554,
+			"Treasure! Treasure map!?",
+			"藏！藏宝图！？",
+			"た、宝の地図！？",
+			"보, 보물 지도!?",
+			null,
+			null,
+			"Hide! Hidden treasure map!",
+			"A treasure map!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305555,
+			"Why are you suddenly so excited?",
+			"你怎么忽然一脸兴奋的样子？",
+			"いきなり大声出すなよ！ビックリするだろ！！",
+			"갑자기 큰 소리 내지 마! 놀란다니까!!",
+			null,
+			null,
+			"Why do you suddenly look so excited?",
+			"Don't yell at me out of the blue! You scared the shit out of me!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305556,
+			"No~No way! I'm just a little curious! How could you tell it's a treasure map?",
+			"哪~哪有！我只是有点好奇罢了！你是怎么看出它是藏宝图的？",
+			"ど、どこが！？少し興味があるだけだよ！どうして宝の地図だと思うの？",
+			"어, 어디가!? 조금 관심 있는 거 뿐이라고! 왜 보물 지도라고 생각하는 거야?",
+			null,
+			null,
+			"No, it's not! I'm just curious! How did you know it was a treasure map?",
+			"Which, which part! I'm just a little curious! What makes you think it's a treasure map?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305557,
+			"It's written on the back, \"this map contains the location of my treasure, whoever get to them will have great luck.\"",
+			"你看背面不是写着么，“埋藏我宝物的地图，得到它们的人将会获得好运”。",
+			"いや、裏に「我が宝を埋めた地図。獲得せし者は至上の幸福をその手に収めるであろう」って書いてあるじゃん。",
+			"아니, 뒤에 「내가 보물을 묻은 지도. 획득한 자는 지상의 행복을 그 손에 거머쥐게 하리라」라고 써 있잖아.",
+			null,
+			null,
+			"Look at the back does not it say, \"The map of my buried treasures, those who get them will be lucky\".",
+			"No, it says on the back, \"A map with my treasure buried in it. It says on the back, \"The one who obtains it will be blessed with supreme happiness."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305558,
+			"Really! Let's go! Treasure hunting!",
+			"真的！那我们走吧！寻宝去！",
+			"本当だ！じゃあ行きましょう！宝を探しに！",
+			"정말이네! 그럼 가자! 보물 찾으러!",
+			null,
+			null,
+			"Really! Then let's go! Let's go treasure hunting!",
+			"I'm telling the truth! Then let's go! Let's go find the treasure!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305559,
+			"I refuse. This looks like some sort of cons, and I have no time for meaningless things like that. What treasure can we find in that desolated Paradise? It must be fake.",
+			"我拒绝，这一看就是耍人的把戏，我可没有时间浪费在这种没意义的事情上。再说那个破烂游乐园会有什么宝藏？肯定是骗人的。",
+			"断る。明らかにイタズラじゃないか。こんなつまらないことに時間を浪費できないって。それにあのオンボロ遊園地のどこに宝があるだよ？",
+			"거절한다. 분명히 장난 아니겠어. 이런 시시한 데 시간 낭비할 수 없다고. 게다가 그 낡은 유원지 어딨다고 보물이 있다는 거야?",
+			null,
+			null,
+			"I refuse, this looks like a trick, I don't have time to waste on such meaningless things. Besides, what kind of treasure can be found in that shitty amusement park? It must be a lie.",
+			"I refuse. It's obviously a prank. I can't waste my time on such a trivial thing. Besides, where is the treasure in that shabby amusement park?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305560,
+			"Sigh~ Alright, we just have to do it ourselves then~ It doesn't matter if there is no treasure, we might find other things we can use, like medicines or something else~",
+			"哎~好吧，既然这样就只能我们自己去找了~即使没有宝藏也没关系，说不定能看看有没有什么别的可以利用的东西，比如药品什么的~",
+			"それなら、いいわよ～！私たちだけで探しに行くから！宝を見つけても関係ないわよね。もしかしたら、使えるものがあるかもしれないのになぁ～。例えば薬とか……。",
+			"그럼, 좋아~! 우리끼리 찾으러 갈 거야! 보물 찾아도 상관없지. 혹시 쓸 만한 게 있을지도 모르는데 말이야~. 예를 들어 약 같은 거......",
+			null,
+			null,
+			"Hey ~ well, since we can only find it ourselves ~ even if there is no treasure is okay, maybe we can see if there is anything else that can be used, such as medicine or something ~",
+			"Well, okay then~! We'll go looking for it on our own! It doesn't matter if we find treasure. Maybe there's something we could use~! For example, medicine or ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305561,
+			"...",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"msg",
+			305562,
+			"Just this time, I'll do what you say. But don't get used to this.",
+			"好吧，那这次就听你一次，下不为例！",
+			"分かった。今回だけは言うことを聞こう。いいか、今回だけだぞ！",
+			"알겠어. 이번만은 말을 들어주지. 잘 들어, 이번 한 번뿐이야!",
+			null,
+			null,
+			"Okay, then I'll listen to you once this time, and it won't happen again!",
+			"I understand. I'll do what you say just this once. Listen, just this once!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305563,
+			"Alright, let's go then! Treasure hunt, start!",
+			"既然如此那就出发吧！开始寻宝喽~",
+			"そういうことなら出発しましょう！宝探しの始まり～！",
+			"그렇다면 출발하자! 보물찾기 시작~!",
+			null,
+			null,
+			"In that case, let's go! Start treasure hunting ~",
+			"In that case, let's get going! Let the treasure hunt begin~!"
+		]
+	],
+	"1062": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305564,
+			"Hmm... Let me have a look at the treasure location. Looks like it's at the Ferris Wheel. Now we just need to find it~",
+			"嗯…让我看看这张地图上寻宝点的位置，这里好像是在摩天轮的位置，看来只要找到这个地方就行啦~",
+			"この地図によると、お宝の場所は観覧車の付近かな。この場所さえ分かれば見つけたも同然だね！",
+			"이 지도에 따르면, 보물 위치는 관람차 근처인 것 같네. 이 위치만 알면 찾은 거나 마찬가지야!",
+			null,
+			null,
+			"Well ... let me see the location of the treasure hunt point on this map, it seems to be in the location of the Ferris wheel, it seems that as long as you find this place on it ~",
+			"According to this map, the location of the treasure is near the Ferris wheel. If we only know where it is, we've found it!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305565,
+			"...Can it be that easy? Really looks like a hoax to me.",
+			"…真的有这么简单么，怎么看都像是恶作剧吧？",
+			"……本当にそんなに簡単なのか？どうもイタズラにしか思えないんだけど。",
+			"……정말 그렇게 쉬운 거야? 장난인 것 같아.",
+			null,
+			null,
+			"...Is it really that simple, how does it look like a prank?",
+			"...... Is it really that easy? Thanks, it seems like a prank to me."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305566,
+			"We won't know until we get there! Let's go!",
+			"总之不去看看怎么知道！走吧！",
+			"とにかく、行ってみなくちゃ分からないでしょ！行きましょう！",
+			"어쨌든, 가봐야 알 수 있잖아! 가자!",
+			null,
+			null,
+			"Anyway, how to know without going to see! Let's go!",
+			"Anyway, you'll never know unless you go! Let's go!"
+		]
+	],
+	"1063": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305567,
+			"This should be it. Let's look for a chest, or something like that!",
+			"应该就是这里了，找找看有没有类似宝箱的东西吧！",
+			"ここのはずだよ。宝箱みたいなものがないか探しましょう！",
+			"여기일 거야. 보물상자 같은 게 없는지 찾아보자!",
+			null,
+			null,
+			"This should be the place, look for something like a treasure chest!",
+			"It should be here. Let's look for something like a treasure chest!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305568,
+			"Tsk, why do you look so happy. We are not in a video game, there will be no chest.",
+			"哼，瞧你高兴的样子，又不是玩电子游戏，怎么可能会有宝箱。",
+			"フンッ、楽しそうにしちゃって。テレビゲームしてるんじゃないんだから。宝なんかあるはずないよ。",
+			"흥, 즐겁게 구네. 텔레비전 게임 하는 게 아니라고. 보물 같은 건 있을 리 없어.",
+			null,
+			null,
+			"Hm, look how happy you are, it's not like playing a video game, how can there be a treasure chest.",
+			"Hmph, you look like you're having fun. We're not playing video games. There's no treasure to be found."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305569,
+			"Come on, you will never be happy if you always put up a poker face! Emesa, you should just us too!",
+			"好啦，总是板着脸的人生是不会快乐的啦！埃米沙也一起来找吧！",
+			"ほら！そんな、しかめっ面ばかりしてたら人生楽しくないよ！エミザも一緒に探して！",
+			"자! 그런 찡그린 얼굴만 하고 있으면 인생이 즐겁지 않아! 에미자도 함께 찾아봐!",
+			null,
+			null,
+			"Well, life is not happy if you always have a face! Let's find it with Emesa!",
+			"Look! Life is no fun if you keep frowning like that! Find Emesa with me!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305570,
+			"I'm not here for boring things like that. I will take a look in the studios nearby and see if I can find any useful materials. You guys have fun.",
+			"我来这里可不是为了找那种无聊的东西，我去看看附近的工作室里有没有值得利用的材料，你们自己玩吧。",
+			"私がここに来たのは、もっと有意義なものを探すため。作業部屋に利用できるものがないか近くを見てくる。",
+			"내가 여기에 온 건 더 의미 있는 것을 찾기 위해서야. 작업실에 이용할 수 있는 게 없는지 근처를 살펴볼게.",
+			null,
+			null,
+			"I didn't come here to find that kind of boring stuff. I'm going to see if there's any material worth using in the nearby studios, so you guys can play with it yourselves.",
+			"I came here to find something more meaningful. I'm going to look around the neighborhood to see if there is anything available in the workroom."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305571,
+			"Ah... Alright~ Let's see if there is anything we can use. We can always do treasure hunt along the way~",
+			"哎…好吧~那我们就先找找看有没有可以利用的东西吧，反正顺带着寻宝也是可以的嘛~",
+			"もう……分かったよ～。じゃあ、私たちもまずは利用できそうなものがないか探してみましょう。もちろん、ついでにお宝を持ち帰っても大丈夫だからね！",
+			"알았어……. 그래, 우리도 먼저 쓸 만한 게 없는지 찾아보자. 물론, 덤으로 보물을 가져가도 괜찮으니까!",
+			null,
+			null,
+			"Hey ... well ~ then we'll look to see if there is something that can be used, anyway, along with the treasure hunt is also possible ~",
+			"I already know ......! Well, let's look for something we could use first too. Of course, we can bring back some treasures while we're at it!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305572,
+			"Tsk... Don't come close to me. It's @#$% disgusting.",
+			"啧…不要靠过来，真是OO的恶心死了。",
+			"……こっち来るなよ。まったく、お子様なんだから。",
+			"……이쪽으로 오지 마. 정말, 어린애 같아서.",
+			null,
+			null,
+			"Tsk...don't lean over...it's OO disgusting as hell.",
+			"...... Don't come over here. You are a child at all."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305573,
+			"Ouch! I'm older than you! You can't talk like that to an older sister!",
+			"唔！我好歹年龄比你大哦！对大姐姐这么说话可不行呢！",
+			"あのねえ！私、あなたより年上なんだけど！お姉さんに向かってそんなこと言っちゃダメでしょ！",
+			"저기요! 나, 당신보다 연상이란 말이에요! 언니한테 그런 말 하면 안 되죠!",
+			null,
+			null,
+			"Well! I'm at least older than you! You can't talk like that to an older sister!",
+			"You know what? I'm older than you! You can't say that to your sister!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305574,
+			"Argh! What are you doing! You want to fight?",
+			"唔！你干什么！想要动手么！",
+			"うっ！な、何だ！？手を出すつもりか！？",
+			"윽! 뭐, 뭐야!? 손을 댈 셈이야!?",
+			null,
+			null,
+			"What! What are you doing! You want to do it!",
+			"Ugh! What the hell? You're gonna put your hands on me!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305575,
+			"Hmph! I'll teach you a lesson today~",
+			"哼哼！今天就让你知道我的厉害~",
+			"フフン！今日はあなたに私のすごさを教えてあげるんだから！",
+			"흥! 오늘은 너에게 내 대단함을 보여주겠어!",
+			null,
+			null,
+			"Hmph! Let you know my power today~",
+			"Hmph! Because today I'm going to show you how awesome I am!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305576,
+			"Get away! You sick woman!",
+			"走开！你这个痴女！",
+			"そういうところがお子様なんだよ！",
+			"그런 부분이 애 같은 거야!",
+			null,
+			null,
+			"Go away! You crazy girl!",
+			"That's what makes you a child!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305577,
+			"*Bang!!*",
+			"咚！！",
+			"ドンッ！！",
+			"쿵!!",
+			null,
+			null,
+			"Dang!!!",
+			"Boom!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305578,
+			"Ouch, it hurts... Why is there a hole here...",
+			"呃，好痛…这个地方怎么会有个坑……",
+			"う、イタタ……どうしてこんな場所に穴があるの……？",
+			"으, 아파라...... 왜 이런 곳에 구멍이 있는 거야......?",
+			null,
+			null,
+			"Ugh, it hurts...why is there a pit in this place ......",
+			"Ugh, itta ...... why is there a hole in this place ......?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305579,
+			"Seele, looks like there's something inside!",
+			"希儿，里面好像有东西！",
+			"あ……ごめ……あれ？そこ、何かある。",
+			"아...... 미안...... 어? 저기, 뭔가 있네.",
+			null,
+			null,
+			"Hill, there seems to be something in there!",
+			"Oh ...... sorry ...... that? There, there's something."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305580,
+			"Huh? What is it?",
+			"嗯？是什么？",
+			"え？何？",
+			"응? 뭐?",
+			null,
+			null,
+			"Hmm? What is it?",
+			"What? What?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305581,
+			"Looks like a box... It can't be a treasure chest!",
+			"似乎是个盒子…难道真的是藏宝箱！",
+			"箱だ……まさか本当に宝箱！？",
+			"상자다...... 설마 진짜 보물상자!?",
+			null,
+			null,
+			"It seems to be a box...is it really a hidden treasure chest!",
+			"It's a box. ...... No way, it's really a treasure chest!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305582,
+			"Really! Dig it out and take a look!",
+			"真的么！快挖出来看看！",
+			"本当！？早く掘り出してみて！",
+			"정말!? 빨리 파내봐!",
+			null,
+			null,
+			"Really! Dig it up and see!",
+			"Really! Quick, dig it out!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305583,
+			"Alright.",
+			"好。",
+			"分かった。",
+			"알겠어.",
+			null,
+			null,
+			"Good.",
+			"Ok."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305584,
+			"Crac! Crac!",
+			"卡啦！卡啦！",
+			"ガチャ！ガチャ！",
+			"철컥! 철컥!",
+			null,
+			null,
+			"Cut! Cut!",
+			"Gotcha! Gotcha!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305585,
+			"This is... Another corner of the map, and behind it says 'the next location is here'...",
+			"这里面是…又是地图的一角，后面的字写着“下一个地点是这里”……",
+			"また地図だ。裏の字は「次の場所はここ」……。",
+			"또 지도라니. 뒷면의 글자는 「 다음 장소는 여기」…….",
+			null,
+			null,
+			"This is...another corner of the map, and the words behind it say \"Next location is here\" ......",
+			"Another map. The words on the back are \"Next location here\" ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305586,
+			"@!@$% bastards! We must be tricked!",
+			"OO的混蛋！果然是被骗了！",
+			"バカ、やっぱり騙されてるんだよ！",
+			"바보, 역시 속아넘어간 거였어!",
+			null,
+			null,
+			"OO's bastards! I was really cheated!",
+			"Idiot, I knew I was being deceived!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305587,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305588,
+			"Why, why are you looking at me like that!?",
+			"你，你这么盯着我干嘛！？",
+			"な、何でそんな目で見るんだよ！？",
+			"너, 너 왜 그런 눈으로 쳐다보는 거야!?",
+			null,
+			null,
+			"You, why are you staring at me like that!",
+			"Hey, why are you looking at me like that?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305589,
+			"Hohoho~ I thought you said you were not interested~",
+			"嚯嚯嚯~嘴上说没兴趣身体倒是挺积极的嘛~",
+			"口では興味ないって言っておきながら、さっきは前のめりになってたよ～！体は嘘つけないんだね。",
+			"입으로는 흥미 없다고 말해놓고선, 아까는 앞으로 쏠려있더니~! 몸이 거짓말을 못 하네.",
+			null,
+			null,
+			"Ho ho ho ho ~ mouth said not interested in the body is quite active well ~",
+			"You said with your mouth you weren't interested, but you were on the front foot earlier~! You can't lie with your body, can you?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305590,
+			"Stop joking, I'm not interested.",
+			"别开玩笑了！我才没有兴趣！",
+			"寝言は寝て言えよな！興味なんか微塵もないって！",
+			"잠꼬대는 자면서 해라! 흥미 같은 건 털끝만큼도 없다고!",
+			null,
+			null,
+			"Don't be ridiculous! I'm not interested!",
+			"You can't talk in your sleep! I'm not even remotely interested!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305591,
+			"Cheer up. There's a mark on this map. Let's continue our treasure hunt.",
+			"没事啦~不要失落，这张地图上记录了下一个地点的位置，我们继续寻宝吧！",
+			"大丈夫だよ～、気を落とさないで。この地図には次の場所の位置が描かれているわけだし、宝探しを続けましょう！",
+			"괜찮아~, 기죽지 마. 이 지도에 다음 장소 위치가 적혀있는 거니 보물찾기 계속하자!",
+			null,
+			null,
+			"It's okay ~ do not lose, this map recorded the location of the next location, let's continue the treasure hunt!",
+			"It's okay - don't lose heart. So this map has the location of our next location drawn on it, so let's continue our treasure hunt!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305592,
+			"I'm not upset! Forget about the stupid treasure hunt! I want to go back!",
+			"我才没有失落！我要回去了！你们两个混蛋自己找去吧！",
+			"気なんか落としてない！もう帰る！あんたらバカコンビで探してろ！",
+			"기 죽은 거 아니야! 난 돌아갈 거야! 너희들 바보 콤비가 알아서 찾아봐!",
+			null,
+			null,
+			"I'm not lost! I'm going back! You two bastards go find out for yourselves!",
+			"I'm not depressed! I'm leaving! You two idiots keep looking!"
+		]
+	],
+	"1064": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305593,
+			"This should be the last treasure map. We are so close!",
+			"这个应该是最后一张藏宝图了，看来马上就要完成了！",
+			"きっと、この地図が最後の1枚だよ！もうすぐ終わりね！",
+			"분명 이 지도가 마지막 한 장일 거야! 이제 곧 끝이야!",
+			null,
+			null,
+			"This should be the last treasure map, and it looks like it will be finished soon!",
+			"I bet this map is the last one! We're almost done!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305594,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305595,
+			"Why are you still here?",
+			"啊咧~你怎么还在呢？不是回去了么~",
+			"あれ～どうしてまだいるの？帰るんじゃなかったの？",
+			"어라~ 왜 아직 있는 거야? 돌아갈 거 아니었어?",
+			null,
+			null,
+			"Oh, why are you still here? Didn't you go back?",
+			"Hey~ Why are you still here? I thought you were going home."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305596,
+			"Why should you care? I'm looking for something valuable in this theme park. I'm not idling about like you lots!",
+			"哼！要你管，好不容易来一次游乐园地区，我只是在找寻有价值的东西罢了，和你们这些游手好闲的人可不一样！",
+			"フンッ！別に何しようが勝手だろ。せっかく遊園地エリアに来たんだし、価値のある物がないか探しているだけだ。地図に踊らされてる暇人たちと同じにするなよな！",
+			"흥! 별로 뭘 하든 마음대로겠지. 어쨌든 유원지 구역에 왔으니 가치 있는 물건이 없는지 찾아보는 거야. 지도에 휘둘리는 한가한 놈들이랑 같게 보지 마!",
+			null,
+			null,
+			"Hmph! I'm just looking for something of value, not like you loafers!",
+			"Hmph! I don't care what you do. We've come all the way to the amusement park area, and we're just looking for something of value. Don't put me in the same boat as all those people who are too busy dancing around on a map!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305597,
+			"Alright. Perhaps you should go the other way. We got the last piece of the map, and we'll go back as soon as we find the treasure.",
+			"那好吧~既然这样你就去另一边找吧~反正我们已经找到了最后一块地图，找到宝物后就回去了~",
+			"そっかそっか、それなら向こうに行って探しなよ。最後の地図を見つけたわけだし、私たちは宝物を見つけたら帰るから～。",
+			"그래 그래, 그럼 저쪽으로 가서 찾아봐. 마지막 지도를 찾았으니 우리는 보물을 찾으면 돌아갈 테니까~.",
+			null,
+			null,
+			"Well then ~ since this you go to the other side to find it ~ anyway, we have found the last piece of the map, find the treasure and go back ~",
+			"I see, I see, then go over there and look for it. You've found the last map, and we'll leave after we find the treasure."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305598,
+			"I'll go wherever I like!",
+			"……我去哪里要你管！",
+			"……私がどこに行こうが自由だろ！",
+			"……내가 어딜 가든 자유겠지!",
+			null,
+			null,
+			"...... Where I go is your business!",
+			"...... I'm free to go wherever I want!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305599,
+			"OK, fine. I'm opening the chest now.",
+			"好吧好吧~那你随意，我可要打开宝箱了哦~",
+			"どうぞご自由に。さて、宝箱を開けましょうか。",
+			"그럼 마음대로 하세요. 자, 보물상자를 열어볼까.",
+			null,
+			null,
+			"Okay, okay ~ then you feel free, I have to open the treasure chest Oh ~",
+			"Please feel free to do so. Now, let's open the treasure chest."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305600,
+			"Woo...",
+			"呜……",
+			"……。",
+			"…….",
+			null,
+			null,
+			"Woo ......",
+			"......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				55,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305601,
+			"3, 2, 1!",
+			"3…2…1…蹡蹡！",
+			"3……2……1……ジャジャーン！",
+			"3……2……1……짜잔!",
+			null,
+			null,
+			"(3...2...1...鈥﹞!",
+			"3......2......1...... ta-da!"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305602,
+			"What? It's just toys for kids! It's all for nothing...",
+			"呜！都是一些小孩子的玩具嘛！果然又是白忙活一场……",
+			"……えっ！全部子供のオモチャじゃないの！やっぱり無駄骨だったんだ……。",
+			"……엣! 전부 애들 장난감이잖아! 역시 헛수고였어…….",
+			null,
+			null,
+			"Whoo! It's just some kid's toys! Sure enough, it's a waste of work again ......",
+			"......What! I thought they were all children's toys! I knew it was a wasted bone. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305603,
+			"Is it a time capsule?",
+			"这个是……时光胶囊么？",
+			"これは……タイムカプセル？",
+			"이건……타임 캡슐?",
+			null,
+			null,
+			"Is this a ...... time capsule?",
+			"Is this a ...... time capsule?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305604,
+			"Time capsule?",
+			"时光胶囊？",
+			"タイムカプセル？",
+			"타임 캡슐?",
+			null,
+			null,
+			"Time capsule?",
+			"Time capsule?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305605,
+			"Yes. People put their favorites into it and buried it when they were young. When they grew up, they dug it up. All the memories would like flashback playing in their minds.",
+			"没错，就是将小时候自己喜欢的东西放进盒子里埋起来，等长大后再挖出来，就会像穿越时光一般回忆起以前的事情。",
+			"ああ、子供の時に好きなものを箱に入れて埋めて、大きくなったらそれを掘り出すんだ。タイムスリップしたかのように昔のことを懐かしむものさ。",
+			"아, 어릴 때 좋아하던 걸 상자에 넣어 묻어두고, 크면 그걸 파내는 거야. 타임슬립이라도 한 것처럼 옛날 일을 추억하게 되는 거지.",
+			null,
+			null,
+			"That's right, it is to put your favorite things as a child into a box and bury it, and then dig it up when you grow up, and it will be like traveling back in time to remember what happened before.",
+			"Yeah, when you're a kid you put your favorite things in a box and bury them, and when you grow up you dig them out. It's like going back in time and reminiscing about the old days."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305606,
+			"Sounds fun. We should make one too.",
+			"嚯嚯~听起来好像挺有趣的呢~我们也来做一个吧！",
+			"へ～面白そうだね！私たちも1つ作ろうよ！",
+			"허~ 재미있겠다! 우리도 하나 만들자!",
+			null,
+			null,
+			"ooh ooh ~ sounds like fun it ~ let's do one too!",
+			"Wow, that sounds fun! Let's make one too!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305607,
+			"Your time capsule will be dug up by new creatures billion years later.",
+			"你的时光胶囊或许要等几亿年后的新生物诞生才挖的出来吧……",
+			"今の時代、新生物の誕生した何億年後じゃないと掘り出されないかもしれないぞ……。",
+			"지금 시대라면 신생물이 탄생한 몇 억 년 후가 돼야 발굴되지 않을지도 모르는데…….",
+			null,
+			null,
+			"Your time capsule may have to wait for the birth of a new creature in a few hundred million years before you can dig it out ......",
+			"You might not be able to dig it out today, unless you're hundreds of millions of years after the birth of a new organism. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305608,
+			"That's mean! We'll defeat the Houkai!",
+			"不要说这么不吉利的话嘛！我们一定会战胜崩坏的~",
+			"そんな不吉なこと言わないでよ！私たちきっと崩壊に勝つんだから！",
+			"그런 불길한 소리 하지 마! 우리 분명 붕괴에 이길 거니까!",
+			null,
+			null,
+			"Don't say such unlucky words! We will definitely overcome the collapse of ~",
+			"Don't be so ominous! We're going to win the collapse!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305609,
+			"Well, who knows.",
+			"哼，谁知道呢。",
+			"フンッ、どうだか。",
+			"흥, 어쩌겠어.",
+			null,
+			null,
+			"Heck, who knows.",
+			"Hmmm, I don't know."
+		],
+		[
+			"msg",
+			305610,
+			"The only useful stuff in this area seems to be these toys. I'll take them anyway.",
+			"看来这个区域有用的东西也就只剩下这些玩具了，那我就不客气的收下了。",
+			"このエリアで役に立つ物は、このオモチャだけみたいだね。じゃあ、遠慮せずにもらうよ。",
+			"이 구역에서 쓸 만한 건 이 장난감뿐인 모양이군. 그럼 사양 없이 가져가도록 하지.",
+			null,
+			null,
+			"It seems that the only useful things left in this area are these toys, so I'll take them unceremoniously.",
+			"Seems like these toys are the only useful things in this area. Well, I'll take it without reservation."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305611,
+			"Wait! I found them and they should be mine.",
+			"喂！等等！这可是我找到的！",
+			"ちょっと！待って！これは私が見つけたのよ！",
+			"잠깐! 기다려! 이건 내가 찾은 거야!",
+			null,
+			null,
+			"Hey! Wait! I found this!",
+			"Hey! Hey! Wait! I found this!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305612,
+			"I say it's fair for me to have something in return, after wasting so much time. And you're not a kid anymore, right?",
+			"又浪费了这么久的时间，拿一些报酬也是应该的，而且你已经不是小孩子了吧？大~姐~姐~",
+			"こんなに時間をムダにして、報酬をもらうのは当たり前だろ？しかも、ゼーレは子供じゃないらしいし。",
+			"이렇게 시간을 낭비했으니 보상을 받는 건 당연한 거 아냐? 게다가 제레는 애도 아닌 모양이던데.",
+			null,
+			null,
+			"And wasted so much time, take some pay is also deserved, and you are not a child anymore, right? Big~sister~sister~",
+			"I mean, you waste so much time and get paid for it, right? And it seems that Seele is not a child."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305613,
+			"Kids these days are outspoken...",
+			"咕！真是个不坦率的孩子……",
+			"ぐっ！本当に素直じゃないんだから……。",
+			"큭! 정말 솔직하지 못한 사람이라니까…….",
+			null,
+			null,
+			"Goo! What an untruthful kid ......",
+			"Ggh!!! You're really not being honest. ......"
+		]
+	]
+}

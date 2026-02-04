@@ -1,0 +1,1392 @@
+{
+	"1243": [
+		[
+			"speaker",
+			204662
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				66,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306922,
+			"We have arrived at outer area of C sector! Ready to break through!",
+			"报告！我们现已到达C区外围，准备突破！",
+			"報告します！Cエリアの外周に到着しました。突破準備完了です！",
+			"보고합니다! C 구역 외곽에 도착했습니다. 돌파 준비 완료입니다!",
+			null,
+			null,
+			"Report! We have now reached the outer perimeter of Zone C and are ready to break through!",
+			"Reporting, we have arrived at the perimeter of area C. Ready to breach!"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				66,
+				0,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306923,
+			"Good, let’s make good use of every minute. Hold the defense until the circuits are repaired!",
+			"好，分秒必争，全力撑到线路修好为止！",
+			"よし。事は1分1秒を争うわ。回路が修理できるまで全力で持ちこたえて！",
+			"좋아. 일은 1분 1초를 다투고 있어. 회로가 수리될 때까지 전력으로 버텨!",
+			null,
+			null,
+			"Okay, every second counts, and we'll do our best to hold on until the line is fixed!",
+			"All right. Every minute counts. Hold on as long as you can until we can fix the circuits!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				66,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			306924,
+			"Dadada!",
+			"哒哒哒！",
+			"ダダダッ——！",
+			"다다닥——!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dah-dah--!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306925,
+			"Uh... It’s really easy for Himeko to send orders over the communication. There are so many Houkai creatures here, it’s like committing suicide.",
+			"呃……姬子那家伙隔着通讯下达命令倒是简单，这里的崩坏生物这么多，不是往火坑里跳么。",
+			"もう……姫子のやつ、通信で命令を下すのは簡単だけど、ここの崩壊生物はこんなに多いのよ。火の海に飛び込むようなものじゃないの。",
+			"정말……히메코 녀석, 통신으로 명령을 내리는 건 쉽지만, 여기 붕괴 생물은 이렇게 많다구. 불바다에 뛰어드는 격이잖아.",
+			null,
+			null,
+			"Uh ...... Himeko guy across the communication to give orders is simple, here the collapse of so many creatures, is not to jump into the fire.",
+			"Already ...... Himeko's, it's easy to give orders via comms, but there are so many decaying organisms here. It's not like jumping into a sea of fire."
+		],
+		[
+			"msg",
+			306926,
+			"You have already abandoned this area, just give it up... Even if I fix it, the gun may not hit...",
+			"你都放弃这个区域了就放弃到底吧…反正修了也不一定能打中啊……",
+			"このエリアを放棄したなら最後まで放棄すればいいじゃない……どうせ直したって主砲が命中するとは限らないんだし……。",
+			"이 구역을 포기했다면 끝까지 포기하면 되잖아……어차피 고친다고 주포가 명중할 거란 보장도 없는데…….",
+			null,
+			null,
+			"You have given up this area to give up in the end ... anyway, repair is not necessarily hit ah ......",
+			"If you abandoned this area, why not just abandon it until the end of the day? ...... Even if you fix it anyway, it doesn't mean the main gun will hit the target. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306927,
+			"Are you not confident with my aiming skills?",
+			"你似乎对我的瞄准技术很没有信心？",
+			"私の照準技術を疑ってるの？",
+			"내 조준 기술을 의심하는 거야?",
+			null,
+			null,
+			"You seem to have very little confidence in my aiming skills?",
+			"Are you questioning my sighting skills?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			306928,
+			"Whoa, she, she heard it... I thought the communication is switched off?",
+			"哇啊，居、居然听到了…通讯不应该关掉了么？",
+			"うわっ、き、聞こえていたの……通信は切ったはずなのに。",
+			"우왁, 들, 들리고 있었어……통신은 끊었을 텐데.",
+			null,
+			null,
+			"Wow, I can hear it...shouldn't the communication be turned off?",
+			"Wow, ki, I could hear you. ...... I thought I turned off the communication."
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			306929,
+			"I, I mean we are still travelling at high speed, and the dragon is moving too. I just meant the chance to hit is low...",
+			"怎、怎么说都是在高速行进中，而且那条龙也不是个站着不动的靶子，我只是想说成功率很低而已……",
+			"だ、だって、今は高速移動中なのよ。それにあの竜だって動き回ってる。成功率は限りなく低いわ……。",
+			"그, 그래도 지금은 고속 이동 중이야. 게다가 저 용도 움직이고 있잖아. 성공률은 한없이 낮아…….",
+			null,
+			null,
+			"How, how to say are in high-speed travel, and that dragon is not a standing target, I just want to say that the success rate is very low ......",
+			"Because, you know, we're moving fast right now. And even that dragon is moving around. The success rate is infinitesimally low. ......"
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				61,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306930,
+			"Are you confident we can reach the vacuum area without doing anything?",
+			"那你有什么都不做就能直接冲到真空区的把握吗？",
+			"じゃあ、あなたは何もしないで、このまま真空エリアに辿り着く自信があるの？",
+			"그럼, 당신은 아무것도 안 하고 이대로 진공 구역에 도달할 자신 있어?",
+			null,
+			null,
+			"And do you have the certainty that you can rush straight to the vacuum zone without doing anything?",
+			"So you are confident that you will get to the vacuum area without doing anything?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				61,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			306931,
+			"Well...",
+			"这个的话……",
+			"それは……。",
+			"그건…….",
+			null,
+			null,
+			"In this case ......",
+			"It can be found at ......."
+		],
+		[
+			"speaker",
+			204621
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				61,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			306932,
+			"If not, then fix the circuits of main gun first. We need to fight it sooner or later.",
+			"没有就把主炮线路修好再说，我们迟早得和它一战的。",
+			"ないなら主砲の回路を直してから文句を言ってちょうだい。遅かれ早かれ、あいつとは一戦交えることになる気がするし。",
+			"없다면 주포의 회로를 고친 다음에 불평해. 늦든 빠르든, 저 녀석과는 한 번 싸우게 될 것 같으니까.",
+			null,
+			null,
+			"No, we'll fix the main gun line and then we'll have to fight it sooner or later.",
+			"If you don't have it, then fix the circuits in the main gun and then complain. I have a feeling that sooner or later I'm going to have to fight a battle with that guy."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			306933,
+			"Alright... I will cut the communication off now. I don’t want bad things to happen because of the electronic waves.",
+			"好吧……接下来可要把通讯切断了，我可不想因为电波引来些什么不好的事。",
+			"分かった……もう通信を切るわよ。",
+			"알았어……이제 통신 끊을 거야.",
+			null,
+			null,
+			"Well ...... next can be cut off the communication, I do not want to because of the airwaves to attract some bad things.",
+			"Okay, ...... I'm going to cut off communication now."
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				61,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			306934,
+			"So be it. We are already hopeless now. I don’t care anymore...",
+			"就这样吧，反正都这么绝望了，豁出去了……",
+			"……よし、まずは修理する回路のところまでいきましょうか……。",
+			"……좋아, 일단 수리할 회로가 있는 곳까지 가볼까…….",
+			null,
+			null,
+			"Let's do it, anyway, are so desperate, give up ......",
+			"......Okay, let's go to the circuit to be repaired first: ......."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306935,
+			"So, let’s confirm the routes.",
+			"那么，我们来确认下路径。",
+			"では、私たちがルートを確認します。",
+			"자, 우리가 루트를 확인하겠습니다.",
+			null,
+			null,
+			"So, let's confirm the path.",
+			"Then we will check our route."
+		],
+		[
+			"msg",
+			306936,
+			"After we enter C sector, other combatants will hold the Houkai creatures in the outer area. Do not get too involved in battle. Try to delay their movement and create time for the repair group.",
+			"进入C区后，外围的崩坏生物就由其他战斗人员拖住，不要恋战，运用迂回的战术尽量拖延崩坏生物的行动，为维修组创造时间。",
+			"Cエリアに入ってからは、他の戦闘員が崩壊生物を食い止めます。対面による戦闘を避けつつ、迂回戦術で崩壊生物の動きを制限しますから、その間に修理を完了させてください。",
+			"C 에리아 진입 후 다른 전투원들이 붕괴 생물을 막아낼 거예요. 정면 교전을 피하면서 우회 전술로 붕괴 생물의 움직임을 제한할 테니, 그 사이에 수리를 완료해 주세요.",
+			null,
+			null,
+			"Once you enter the C area, the Avalanche creatures on the periphery will be stalled by other combatants, do not get attached to the battle and use circuitous tactics to delay the Avalanche creatures as much as possible to create time for the maintenance team.",
+			"Once in Area C, other combatants will hold off the disintegrating organisms. While avoiding face-to-face combat, use detour tactics to limit the movement of the disintegrating organisms, so that repairs can be completed in the meantime."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306937,
+			"You will then follow me to the main circuits. Himeko had abandoned the C sector so Houkai creatures are hiding in every corner... Someone must protect me.",
+			"然后你就陪我一起到主线路那边，毕竟刚才姬子放弃了C区的防守，现在崩坏生物隐藏在各个角落…一定要有人在身边保护我才行。",
+			"わかった。……あなたは私と一緒に主砲回路の方に来てちょうだい。姫子がさっきCエリアの防衛を放棄したから、今は崩壊生物があちこちに潜んでいるはず……誰かに守ってもらわなくちゃ。",
+			"알겠어요. ...당신은 나랑 같이 주포 회로 쪽으로 와요. 히메코가 방금 C 에리아 방어를 포기했으니, 이제 붕괴 생물이 곳곳에 숨어 있을 거야... 누군가 지켜줘야 해.",
+			null,
+			null,
+			"Then you will accompany me to the main line side, after all, just now Himeko abandoned the defense of the C area, and now the collapse creatures are hiding in all corners ... must have someone around to protect me to do so.",
+			"Ok. ...... you come with me to the main gun circuit. Himeko abandoned the defense of area C earlier, so there must be disintegrating organisms lurking here and there now. ...... I need someone to protect me."
+		],
+		[
+			"msg",
+			306938,
+			"You know I don’t really pay attention to surroundings when I’m working... So I need you to watch out for me to ensure the work can be carried out.",
+			"你知道我在工作的时候不会太注意周围的情况…所以为了施工的正常进行，我需要你在边上放哨。",
+			"私が作業しているとき、周囲の状況にあまり注意を払っていないのは知っているでしょう……だから、修理を進めるにはあなたに見張っていてもらわないといけないのよ。",
+			"내가 작업할 때 주변 상황에 신경을 잘 못 쓴다는 거 알잖아... 그래서 수리를 진행하려면 당신이 지켜봐 주지 않으면 안 돼요.",
+			null,
+			null,
+			"You know I don't pay much attention to what's going on around me when I'm working...so for the construction to proceed properly, I need you to keep a lookout on the sidelines.",
+			"You know I don't pay much attention to what's going on around me when I'm working ...... so I need you to keep an eye on things for me to proceed with the repairs."
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306939,
+			"Of course... I can’t guarantee it will be fixed before I confirm the damage. I can only do my best.",
+			"当然…在还没有确认损坏程度的情况下我也不能断言就一定能修好，只能尽力而为了。",
+			"もちろん……損傷の程度が分からない状況では必ず直せるとは言えないけれど、手は尽くすわ。",
+			"물론이죠... 손상 정도를 모르는 상황에선 꼭 고칠 수 있다곤 말 못 하지만, 최선은 다 할 거예요.",
+			null,
+			null,
+			"Of course ... in the absence of confirmation of the extent of the damage I can not say that it can be repaired, we can only do our best.",
+			"Of course, I can't say that I can always fix it when I don't know the extent of the ...... damage, but I'll do my best."
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306940,
+			"Well, let’s hope it can work then... Remember not to leave me if you are retreating... Ok, that’s it. We can go.",
+			"那就希望能够成功吧…要撤退记得不要丢下我……唔，就这样，可以出发了。",
+			"成功するといいんだけどね……撤退するときは私を置いていかないでね……うう、よし！じゃあ行くわよ。",
+			"성공하면 좋겠지만... 후퇴할 때는 날 두고 가지 말아줘... 으음, 좋아! 그럼 갈게.",
+			null,
+			null,
+			"Then let's hope it works out...to retreat remember not to leave me behind ...... Well, that's it, it's ready to go.",
+			"I hope you succeed. ...... Don't leave me behind when you retreat. ...... Ugh, okay! Then let's go."
+		]
+	],
+	"1244": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH03_EV01_GunAndExplosion"
+		],
+		[
+			"msg",
+			306941,
+			"Dadada!",
+			"哒哒哒！",
+			"ダダダッ——！",
+			"다다닥——!",
+			null,
+			null,
+			"Ta-da-da!",
+			"Dah-dah--!"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306942,
+			"The situation is under control, but we can’t last long. How are the circuits?",
+			"情况还在可控范围，不过撑不了多久了，线路的情况如何？",
+			"状況は維持できています。ですが、いつまでも持ちません。ケーブルの状況はどうですか？",
+			"상황은 유지되고 있습니다. 하지만 오래 버틸 순 없어요. 케이블 상태는 어때요?",
+			null,
+			null,
+			"The situation is still under control, but it won't last much longer. What is the condition of the line?",
+			"The situation is maintainable. But it will not last forever. What about the cable situation?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306943,
+			"Worse than I think. I thought it was just physical damage from the explosion, but because of the Houkai creatures’ attack, it’s not just the problem of circuits now. A lot of components are also wrecked.",
+			"情况比想象中的糟，原本我以为只是爆炸引起的物理损伤，但由于崩坏生物进攻C区，现在不仅是爆炸区域的线路问题，很多元件都已经破破烂烂了。",
+			"思ったより悪いわ。爆発によって引き起こされた物理的な損傷かと思っていたけれど、崩壊生物がCエリアに進攻したせいで、爆発エリアのケーブルだけじゃなく、いろんな部品がズタズタよ。",
+			"생각보다 심각해요. 폭발로 인한 물리적 손상인 줄 알았는데, 붕괴 생물이 C 에리아로 침투하면서 폭발 구역 케이블뿐만 아니라 여러 부품이 갈기갈기 찢겼어요.",
+			null,
+			null,
+			"The situation is worse than expected. Originally I thought it was just physical damage caused by the explosion, but due to the collapse creatures attacking Area C, now not only the wiring in the area of the explosion is a problem, but many components are broken.",
+			"It's worse than I thought. I thought it was physical damage caused by the explosion, but the disintegrating organisms have invaded the C-area, shredding not only the cables in the blast area, but also many other components."
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306944,
+			"I’m afraid a simple reconnection can’t solve the issue...",
+			"恐怕不是简单的重连可以解决的问题了……",
+			"単純に再接続で解決できる問題じゃないと思う……。",
+			"단순 재연결로 해결될 문제 같지 않아요....",
+			null,
+			null,
+			"I'm afraid it's not a problem that can be solved by a simple reconnection ......",
+			"I don't think this is a problem that can be solved by simply reconnecting. ......"
+		],
+		[
+			"choice",
+			[
+				306994,
+				"Can’t it be fixed anymore?",
+				"已经修不好了么？",
+				"もう直せない？",
+				"이젠 고칠 수 없어?",
+				null
+			],
+			[
+				306995,
+				"Is there another way?",
+				"还有什么办法么？",
+				"他に方法はないの？",
+				"다른 방법은 없는 거야?",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1245
+		]
+	],
+	"1245": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306945,
+			"There is always a way... But the main problem now is time.",
+			"办法总是有的…但是现在最主要的是时间问题。",
+			"方法はきっとあるはず……でも、今最も重要なのは時間ね。",
+			"방법은 분명 있을 거야…… 하지만 지금 가장 중요한 건 시간이네.",
+			null,
+			null,
+			"There is always a way...but the main thing now is time.",
+			"There must be a way ...... but the most important thing right now is time."
+		],
+		[
+			"msg",
+			306946,
+			"The lines in C sector compartments have suffered different levels of damage, but we don’t really need to worry about other areas. We just need to fix one of the lines.",
+			"C区舱室的各段线路损坏程度不一，但是我们其实不需要管其他地方，只要将一条线路修复就行。",
+			"Cエリアの各キャビンにあるケーブルの損傷程度はバラバラ……。ただ、今の状況ならどこも重要なケーブルじゃない。要は主砲回路のケーブルだけ修理できればいいんだから。",
+			"C 에리어 각 캐빈에 있는 케이블의 손상 정도는 제각각……. 하지만 지금 상황이라면 어디도 중요한 케이블이 아냐. 요점은 주포 회로의 케이블만 수리할 수 있으면 되는 거니까.",
+			null,
+			null,
+			"The various sections of the C compartment have varying degrees of damage, but we don't really need to bother with the rest, just fix one line.",
+			"The extent of damage to the cables in each cabin in area C varies ....... But none of the cables are critical in the current situation. The point is that we only need to repair the cables of the main gun circuit."
+		],
+		[
+			"msg",
+			306947,
+			"So the best solution now is to find undamaged components from other compartments in C sector, then swap them to the lines.",
+			"所以现在最可行的方法只能是在C区的其他舱室寻找完好的元件拆东墙补西墙了。",
+			"Cエリアの他のキャビンから、問題のない部品をかき集めてきましょう。",
+			"C 에리어의 다른 캐빈에서 문제 없는 부품을 긁어모아 오자구요.",
+			null,
+			null,
+			"So now the most feasible way is to find intact components in other compartments of the C area to tear down the east wall to repair the west wall.",
+			"Scrape up the parts from the other cabins in area C that are not in question."
+		],
+		[
+			"msg",
+			306948,
+			"But you need to protect me while I gather the usable components. It may take a long time.",
+			"不过这样的话你们得保护我收集能用的元件才行，恐怕需要耗费很多时间。",
+			"でも、それには私が部品を集められるよう、あなたたちに守ってもらわなくちゃ。結構時間がかかると思うから、お願いね。",
+			"하지만, 그러려면 내가 부품을 모을 수 있도록 너희들이 지켜줘야 해. 상당히 시간이 걸릴 것 같으니까, 부탁이야.",
+			null,
+			null,
+			"But then you have to protect me to collect the components that can be used to do so, I'm afraid it will take a lot of time.",
+			"But to do that, I need you guys to protect me so that I can collect the parts. It's going to take quite a while, so please do me a favor."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306949,
+			"...I understand. If you have decided, let’s go. We will protect you.",
+			"……明白了，既然决定这么做的话就走吧，我们一定会保护好你的。",
+			"……分かりました。そうと決まれば行きましょう。私たちが必ずあなたを守ります。",
+			"…… 알겠습니다. 그렇게 정해졌다면 가보자구요. 우리가 반드시 당신을 지킬게요.",
+			null,
+			null,
+			"...... understand, since you decide to do so then go, we will definitely protect you.",
+			"...... I understand. If you decide to do so, let's go. We will protect you."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306950,
+			"Yeah... Thanks then.",
+			"嗯…那就拜托了。",
+			"ええ……お願いね。",
+			"네…… 부탁이야.",
+			null,
+			null,
+			"Well...then, please.",
+			"Yes, ...... please."
+		]
+	],
+	"1246": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306951,
+			"Phew~ At least I have found some parts that are usable. Let’s go, I just need to fix the main gun circuits now.",
+			"呼~总算是拼拼凑凑出一些能用的零件了，走吧，接下来只要把主炮的线路修好就行了。",
+			"ふう～、なんとか必要な部品を集められたわね。行きましょう。あとは主砲のケーブルを直すだけよ。",
+			"후우~, 어떻게든 필요한 부품을 모을 수 있었네. 가자구요. 이제는 주포의 케이블을 고치기만 하면 돼.",
+			null,
+			null,
+			"Phew ~ finally put together some parts that can be used, let's go, next just to fix the main gun wiring on the line.",
+			"Phew, I managed to gather the necessary parts. Let's go. Now we just need to fix the main gun cable."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306952,
+			"It may not be easy to go back... Houkai creatures are moving toward us.",
+			"恐怕没那么容易回去了…崩坏生物已经朝我们这边聚集过来了。",
+			"すみません、そんな簡単には帰れないようです……崩壊生物が私たちの方に集まってきています。",
+			"죄송해요, 그렇게 간단히 돌아갈 수 없는 것 같아요…… 붕괴 생물이 우리 쪽으로 모여들고 있습니다.",
+			null,
+			null,
+			"I'm afraid it's not that easy to go back...the collapsing creatures are already gathering towards us.",
+			"Sorry, it seems we can't leave that easily. ...... Decay organisms are gathering towards us."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306953,
+			"Then... Can we still go back?",
+			"那…我们还回得去吗？",
+			"そ、そんな……大丈夫なの？",
+			"그, 그런…… 괜찮은 거야?",
+			null,
+			null,
+			"So...can we still go back?",
+			"Oh, no. Is that ...... okay?"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306954,
+			"Not likely if we attack from their front, but we may have a chance if we take other routes.",
+			"如果正面攻击的话可能性不大，但如果是其他地方的话。",
+			"正攻法では可能性は低いでしょう。でも、他の方法なら。たとえば……。",
+			"정공법으로는 가능성은 낮을 거야. 하지만, 다른 방법이라면. 예를 들어…….",
+			null,
+			null,
+			"It's unlikely if it's a frontal attack, but if it's somewhere else.",
+			"It would be unlikely to do it the right way. But by other methods. For example, see ......."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306955,
+			"You mean the ventilation tunnel... Well, it’s a bit dirty, but better than fighting our way through.",
+			"你的意思是通风管么……好吧，虽然脏了点但总比一路杀过去要好。",
+			"もしかして、排気ダクトを通る気……？いいわ。少し汚いけれど、やつらの中をくぐり抜けるよりはマシね。",
+			"혹시 배기 덕트로 지나가려는 거야……？ 좋아. 조금 더럽지만 저것들 사이를 뚫고 지나가는 것보다는 나으니까.",
+			null,
+			null,
+			"Do you mean the ventilation pipe? ...... Well, it's a little dirty but it's better than killing it all the way through.",
+			"Perhaps a chi ...... through the exhaust duct? Okay, it's a little messy, but better than going through them. A little dirty, but better than going through them."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306956,
+			"If you enter from this tunnel, you just need to turn left twice, then turn right, turn left again, then turn right twice.",
+			"从这条通道进去的话只要左拐两次再右拐一次再左拐一次再右拐两次就可以了。",
+			"この通路から入って左に2回曲がって、さらに右に1回、左に1回、そして右に2回曲がればいいわ。",
+			"이 통로로 들어가서 왼쪽으로 두 번 돌고, 다시 오른쪽으로 한 번, 왼쪽으로 한 번, 그리고 오른쪽으로 두 번 돌면 돼요.",
+			null,
+			null,
+			"If you go in through this passage, just turn left twice, then right once, then left once, then right twice.",
+			"You can go in through this aisle, turn left twice, then right once more, then left once more, then right twice more."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306957,
+			"You really remember everything... I can’t even recall all the ventilation line map in the battleship.",
+			"你还记得真是熟练啊……连我都不可能把战舰内通风管的线路背的这么熟悉。",
+			"よくそんなにしっかり覚えているわね……私ですら戦艦内の排気ダクトのルートはそこまで詳しくないわよ。",
+			"그렇게 자세히 기억하고 있다니…… 나조차도 전함 내 배기 덕트의 경로는 그 정도로 자세히 알지 못하는데.",
+			null,
+			null,
+			"You still remember really skilled ah ...... even I can not be so familiar with the wiring of the ventilation pipes inside the battleship by heart.",
+			"I don't know how you remember it so well. ...... Even I'm not that familiar with the routes of the exhaust ducts in a battleship."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306958,
+			"We often use them to escape outside. Captain Himeko made us remember the internal structure of the battleship long ago.",
+			"在外面这些是经常用到的逃生手段，所以姬子队长早就让我们背熟战舰的内部结构了。",
+			"外ではこういうことが生き延びる術に繋がるのよ。だから、姫子隊長がずっと前から私たちに戦艦の内部構造を暗記させていたの。",
+			"밖에서는 이런 게 살아남는 방법이 되는 거야. 그래서 히메코 대장이 아주 전부터 우리에게 전함의 내부 구조를 암기하도록 시켰던 거야.",
+			null,
+			null,
+			"Outside these are often used as a means of escape, so Captain Himeko has long let us memorize the internal structure of the battleship.",
+			"Out there, this kind of thing is the art of survival. That's why Captain Himeko had us memorize the inner workings of a battleship long ago."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306959,
+			"So you have anticipated there will be a fight in Hyperion.",
+			"看来你们早就预料到会在休伯利安号上发生战斗了么。",
+			"あなたたちは、ずっと前からハイペリオン号で戦闘が起こることを予想していたみたいね。",
+			"너희들은 오래전부터 히페리온 호에서 전투가 일어날 것을 예상하고 있었던 모양이네.",
+			null,
+			null,
+			"It seems that you have expected a battle on the USS Huberton.",
+			"It seems you guys have been anticipating a battle on the Hyperion for a long time."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306960,
+			"Yeah, Hyperion is the only thing we can rely on, it is also our last shield. We can’t survive if we are not familiar with it.",
+			"嗯，毕竟休伯利安是我们在外唯一的依靠，也是最后的护盾，如果连它都不熟悉的话我们是无法生存的。",
+			"ええ。ハイペリオン号は私たちが外で唯一頼りにできるものだし、最後の盾だから。それすら詳しくないようじゃ、生きていけないわ。",
+			"그래. 히페리온 호는 우리가 밖에서 유일히 의지할 수 있는 것이자 마지막 방패야. 그것마저 자세히 모른다면 살아남을 수 없어.",
+			null,
+			null,
+			"Well, after all, Hubertarian is the only thing we rely on out there and the last shield, we can't survive if we're not even familiar with it.",
+			"Yes. The Hyperion is the only thing we can rely on out there, and it's our last shield. We can't live with ourselves if we don't even know about it."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306961,
+			"You are right... Looks like I should remember the map too...",
+			"说的有道理…看来我也要好好背一背了……",
+			"一理あるわね……私もしっかり覚えなくちゃ……。",
+			"일리가 있네…… 나도 확실히 기억해야지…….",
+			null,
+			null,
+			"Makes sense...looks like I need to memorize it too ......",
+			"You have a point. ...... I'll have to learn it well. ......"
+		]
+	],
+	"1247": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10151"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306962,
+			"Bang bang bang!",
+			"当当当！",
+			"ダンダンダン——！",
+			"땅땅땅!",
+			null,
+			null,
+			"Dang it!",
+			"Dun-dun-dun--!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306963,
+			"Everything should be fine now. The main gun should function normally.",
+			"这样应该没问题了，主炮应该可以运作了。",
+			"これできっと大丈夫。主砲を動かせるはずよ。",
+			"이제야 괜찮을 거야. 주포를 움직일 수 있을 테니까.",
+			null,
+			null,
+			"This should be fine and the main gun should be operational.",
+			"It's going to be okay. We should be able to move the main gun."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				1,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306964,
+			"Good, let’s get off before the surrounding Houkai creatures find us.",
+			"嗯，趁着周围的崩坏生物还没发现我们，赶紧撤离吧。",
+			"ええ、周りの崩壊生物が気づいていないうちに急いで離れましょう。",
+			"그래, 주변의 붕괴 생물이 눈치채지 못한 사이에 서둘러 떠나자.",
+			null,
+			null,
+			"Well, let's evacuate before the surrounding avalanche creatures find us.",
+			"Yes, hurry away before the decaying organisms around you notice."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306965,
+			"Are we still taking the ventilation tunnel...",
+			"还是从通风管走么……",
+			"また排気ダクトを抜けていくの……？",
+			"또 배기 덕트를 빠져 나가는 거……?",
+			null,
+			null,
+			"Or do you go through the ventilation pipe ......",
+			"Is it going through the exhaust duct again ......?"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306966,
+			"Yes.",
+			"是的。",
+			"はい。",
+			"네.",
+			null,
+			null,
+			"Yes.",
+			"Yes."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306967,
+			"No way... My back will break if we crawl again in that position...",
+			"不行了…那个姿势再爬一圈的话我的腰就要断了……",
+			"うぅ……またあんな姿勢で這いつくばったら、私の腰が曲がったまま戻らなくなる。",
+			"우우…… 또 그런 자세로 기어다니다간, 내 허리가 구부러진 채로 돌아오지 않을 거야.",
+			null,
+			null,
+			"I can not ... that position and then climb a circle, my waist will be broken ......",
+			"Ugh ...... if I crawl in that position again, my hips won't be able to return to their bent position."
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306968,
+			"If so, there’s another option.",
+			"既然这样的话还有一个选择。",
+			"それならもう1つ選択肢があるわ。",
+			"그럼 한 가지 선택지가 더 있어.",
+			null,
+			null,
+			"In that case there is another option.",
+			"Then there's another option."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306969,
+			"You mean...",
+			"你的意思是……",
+			"それって……？",
+			"그게……?",
+			null,
+			null,
+			"What you mean is ......",
+			"Is that ......?"
+		],
+		[
+			"speaker",
+			204662
+		],
+		[
+			"portraits",
+			[
+				54,
+				5,
+				true
+			],
+			[
+				66,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			306970,
+			"We can crawl over from the outer armor of the battleship.",
+			"从战舰外面的装甲板上爬过去。",
+			"戦艦の外装甲を這い上って行くの。",
+			"전함의 외장갑을 기어올라가는 거야.",
+			null,
+			null,
+			"Climb over the armor plate on the outside of the battleship.",
+			"They crawl up the exterior armor of the battleship."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				66,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306971,
+			"The ship is still moving! Are you in a circus!?",
+			"这可是在行驶中啊！你们是耍杂技么喂！",
+			"今は走行中なのよ！そんな雑技みたいなマネ、私にはできないわよ！",
+			"지금은 주행 중이잖아! 그런 잡기 같은 소릴, 내가 할 수 있을 리 없어!",
+			null,
+			null,
+			"This is in motion! Are you guys doing acrobatics?",
+			"We're on the road! I can't do that kind of choreography!"
+		]
+	]
+}

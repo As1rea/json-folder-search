@@ -1,0 +1,2041 @@
+{
+	"1001": [
+		[
+			"speaker",
+			204616
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				56,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			305001,
+			"Madam! We just received a report about Houkai creature activities detected near the base. A patrol investigation has been requested.",
+			"报告！在哨站发来情报，在基地附近发现崩坏生物活动迹象，希望巡逻队可以在巡逻时调查一下。",
+			"報告！見張り所からの情報で、基地付近に崩壊生物の活動した痕跡を発見したようです。パトロール時に調査をしてほしいとのことです。",
+			"보고! 감시초소 정보에 따르면 기지 근처에 붕괴 생물의 활동 흔적이 발견된 것 같습니다. 순찰 시 조사를 부탁드린다고 합니다.",
+			"Report!!! The watchtower has informed us that they have found traces of active Honkai Beasts near the base. They would like us to investigate during the next patrol.",
+			null,
+			"Report! Information was sent in at the outpost that signs of collapsing creature activity were found near the base, so hopefully patrols can investigate while on patrol.",
+			"Report!!! The watchtower has informed us that they have found traces of active decay organisms near the base. They would like us to investigate when we are on patrol."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				56,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305002,
+			"Understood. Since Bronya is not here. We'll take care of it.",
+			"明白了，既然姐姐大人不在了，巡逻的任务就交给我们吧~",
+			"わかったわ。お姉ちゃんがいない以上、パトロールの任務は私たちに任せてちょうだい！",
+			"알았어. 언니가 없는 이상 순찰 임무는 우리에게 맡겨!",
+			"Alright. Since Bronya is gone, you can leave the patrol duty to us!",
+			null,
+			"Understood, since the sister-sama is not in, the task of patrol will be left to us ~",
+			"All right, I get it. As long as your sister is gone, you leave the patrol duty to us!"
+		],
+		[
+			"msg",
+			305003,
+			"Let's go! This is our first patrol mission, let's make sure we do our best!",
+			"走吧！第一次的巡逻任务，可要打起精神了哦~",
+			"行きましょう！初めてのパトロール任務よ。張り切ってちょうだいね！",
+			"출발하자! 첫 순찰 임무야. 열심히 해보자구!",
+			"Let's go! It's our first patrol assignment. You've got to be on top of your game!",
+			null,
+			"Let's go! The first patrol mission, you have to play the spirit ~",
+			"Let's go! It's my first patrol assignment. You've got to be on top of your game!"
+		]
+	],
+	"1002": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305004,
+			"So, I'll explain the objectives of this task.",
+			"那么我来说明一下这次任务的内容吧。",
+			"じゃあ、今回のパトロール任務の内容を説明するよ。",
+			"그럼 이번 순찰 임무 내용을 설명해줄게.",
+			"Alright, let me explain what this patrol mission is all about.",
+			null,
+			"So let me explain what this mission is all about.",
+			"Okay, let me explain what this patrol mission is all about."
+		],
+		[
+			"msg",
+			305005,
+			"In a patrol mission, first you will need to investigate the target area, then neutralize any Houkai targets you've found, or report back to the base about any detected threat.",
+			"巡逻任务顾名思义就是巡查基地附近战区是否有来自崩坏生物的威胁，发现威胁并消灭或是报告威胁，是最基本的任务。",
+			"パトロール任務はその名の通り、基地付近の戦闘エリアに崩壊生物の脅威がないかを見回るの。脅威を見つけたら消滅させるか、基地に報告するの。これは最も基本的な任務よ。",
+			"순찰 임무는 이름 그대로 기지 근처 전투 지역에 붕괴 생물의 위협이 없는지 순찰하는 거예요. 위협을 발견하면 소멸시키거나 기지에 보고해야 해요. 이건 가장 기본적인 임무죠.",
+			"Patrol missions, as the name implies, involve patrolling the combat area near the base for any threats from Honkai Beasts. If a threat is found, it is either eliminated or reported to the base. This is the most basic mission.",
+			null,
+			"Patrol mission as the name implies is to inspect the base near the war zone whether there is a threat from the crash creatures, find the threat and destroy or report the threat, is the most basic task.",
+			"Patrol missions, as the name implies, involve patrolling the combat area near the base for any threats from decaying organisms. If a threat is found, it is either eliminated or reported to the base. This is the most basic mission."
+		],
+		[
+			"msg",
+			305006,
+			"It was Bronya who's taking care of the patrol missions near the base. Though it sounds simple, it could still get quite dangerous if something goes wrong.",
+			"原本基地附近的巡逻任务都是由姐姐大人负责的，虽然是最基本的任务，但是却隐藏着各种不确定因素，可是十分危险的。",
+			"元々、基地付近のパトロール任務はお姉ちゃんが担当していたの。基本の任務だけど、不確定要素も隠れているし、とても危険だからね。",
+			"원래 기지 근처 순찰 임무는 언니가 담당하고 있었어요. 기본적인 임무지만 불확정 요소도 숨어있고 매우 위험하니까요.",
+			"Originally, Bronya was in charge of patrol duty near the base. It's a fairly basic mission, but things can get ugly quickly if something comes up.",
+			null,
+			"Originally, the patrol tasks near the base are responsible for the elder sister, although it is the most basic task, but hidden various uncertainties, but very dangerous.",
+			"Originally, my sister was in charge of patrol duty near the base. It's a basic mission, but there are hidden uncertainties and it's very dangerous."
+		],
+		[
+			"msg",
+			305007,
+			"So, don't let your guard down.",
+			"所以不要以为是简单的任务就放松警惕了哦~",
+			"だから、簡単な任務だと思って警戒を緩めたりしないようにね！",
+			"그러니까 쉬운 임무라고 생각해서 경계를 늦추지 않도록 조심하세요!",
+			"So don't let your guard down thinking it's an easy assignment!",
+			null,
+			"So do not think it is a simple task to let down your guard Oh ~",
+			"So don't let your guard down thinking it's an easy assignment!"
+		],
+		[
+			"msg",
+			305008,
+			"Let's start our mission. Be careful and don't get hurt.",
+			"那么开始任务吧，小心不要受伤哦~",
+			"じゃあ任務の開始よ。ケガをしないように気を付けてね。",
+			"자 이제 임무를 시작해요. 다치지 않게 조심하세요.",
+			"Let's start the mission. Be careful not to get hurt.",
+			null,
+			"Then start the task, be careful not to get hurt Oh ~",
+			"Then let the mission begin. Be careful not to get hurt."
+		]
+	],
+	"1003": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305009,
+			"That's it for today. Nothing unusual. But then what was the signal we caught earlier...?",
+			"今天差不多就这样吧，似乎没有发现异常情况呢，哨站说的崩坏生物活动迹象到底是……",
+			"今日の所はこんなものね。特におかしな点は見つからなかったね。見張り所の言っていた崩壊生物の活動の痕跡って一体……。",
+			"오늘은 이 정도면 된 것 같네요. 특별히 이상한 점은 발견하지 못했어요. 감시소에서 말한 붕괴 생물의 활동 흔적이라는 게 대체......",
+			"That's all for today. I didn't encounter anything strange. Not sure why the lookout said something about signs of activity from Honkai beasts...",
+			null,
+			"Today is almost like this, it seems that no abnormalities are found it, the sentinel station said the signs of collapse biological activity in the end is ......",
+			"That's about it for today. I didn't find anything strange. What the lookout said about signs of activity from decaying organisms. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305010,
+			"*Swishy Sound*",
+			"沙沙沙……",
+			"ガサガサガサ……。",
+			"바스락바스락......",
+			null,
+			null,
+			"Sha Sha Sha ......",
+			"Rustle Rustle ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305011,
+			"Something is there!",
+			"唔！有东西在！",
+			"あ！何かいる！",
+			"앗! 뭔가 있어!",
+			"Ah! Something's there!",
+			null,
+			"Well! Something's there!",
+			"Ah! There's something in there!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305012,
+			"*Swishy Sound* Meow!",
+			"沙沙沙……喵。",
+			"ガサガサガサ……ニャー。",
+			"바스락바스락...... 냐옹.",
+			"<i>rustle rustle</i>... Meow!",
+			null,
+			"Sasha Sasha ...... meow.",
+			"Rustling Rustling ...... Meow."
+		],
+		[
+			"choice",
+			[
+				305013,
+				"That sounds like a cat.",
+				"好像有猫叫声。",
+				"猫の鳴き声みたい。",
+				"고양이 울음소리 같은데.",
+				null
+			],
+			[
+				305014,
+				"Is that a Houkai beast?",
+				"是崩坏兽么？",
+				"崩壊獣なの？",
+				"붕괴수인가?",
+				"Is that a Honkai beast?"
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1004,
+			1005
+		]
+	],
+	"1004": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305015,
+			"A cat? How is it possible... Wait! Could it be a new species?!",
+			"猫？怎么可能…等等！难道是新生种么！？",
+			"猫？まさか……待って！もしかして新種！？",
+			"고양이? 설마…… 잠깐! 혹시 신종……!?",
+			"A cat? No way... Wait, maybe it's a new species!",
+			null,
+			"Cat? How is it possible...wait! Is it a newborn species!",
+			"A cat? No way. ...... Wait! Maybe it's a new species!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1006
+		]
+	],
+	"1005": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305016,
+			"A Houkai beast you say?... But it definitely sounded like a cat, right? Must be some new species...",
+			"崩坏兽…但是刚才的声音好像是猫叫吧？难道是新生种么……",
+			"崩壊獣？でも今のは猫の鳴き声みたいだったけど？まさか新種……。",
+			"붕괴수? 하지만 방금 건 고양이 울음소리 같은데? 설마 신종…….",
+			"A Honkai Beast? But it sounded just like a cat, didn't it? Maybe it's a new species...?",
+			null,
+			"Avalanche beast ... but the sound just now seems to be a cat, right? Is it a newborn species ......",
+			"Disintegrator? But that sounded like a cat's meow just now? No way, it's a new species ......."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1006
+		]
+	],
+	"1006": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305017,
+			"Stay alert... Approach the target slowly...",
+			"保持警惕…慢慢接近……",
+			"警戒したままゆっくり近づいて……。",
+			"경계한 채로 천천히 다가가…….",
+			null,
+			null,
+			"Stay alert...approach slowly ......",
+			"Stay alert and approach slowly. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305018,
+			"Meow!",
+			"喵~",
+			"ニャ～。",
+			"냐옹~.",
+			null,
+			null,
+			"Meow~",
+			"Meow~."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305019,
+			"Aghh!!! Let me go! Stay away from me!",
+			"呜哇！！！放开我！不要过来！",
+			"きゃあ！！！来ないで！",
+			"꺄악!!! 오지 마!",
+			"Ahhhhh! Stay away from me!",
+			null,
+			"Woohoo!!! Get off me! Don't come any closer!",
+			"Aah! Get away from me!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305020,
+			"Meow?",
+			"喵？",
+			"ニャァ？",
+			"냐아?",
+			null,
+			null,
+			"Meow?",
+			"Meow?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305021,
+			"How? It's really just a cat!",
+			"啊咧？真的是猫么！",
+			"って、あれ？本当に猫だ！",
+			"어, 저거? 진짜 고양이잖아!",
+			"Huh? It's just a cat!",
+			null,
+			"What? Is it really a cat!",
+			"What does that mean? It's really a cat!"
+		],
+		[
+			"msg",
+			305022,
+			"Phew... I was so scared... I thought it was an enemy.",
+			"呼…吓死我了……还以为遇到新生种了呢~",
+			"ふう、びっくりした……新種に遭遇したかと思ったよ～！",
+			"휴, 깜짝 놀랐다…… 신종을 마주친 줄 알았어~!",
+			"Whew, I was so surprised... I thought I encountered a new species!",
+			null,
+			"Phew...scared me ...... thought I had met a newborn species it ~",
+			"Whew, I was so surprised ...... I thought I'd encountered a new species!"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305023,
+			"Sorry and please allow me to explain. A new species refers to any type of newly discovered Houkai creatures. They are particularly dangerous and require special attention.",
+			"啊~抱歉，所谓的新生种就是最近产生的新物种崩坏生物，因为十分危险，所以需要特别注意。",
+			"あ～ごめんね。新種というのは最近生まれた崩壊生物のことよ。データがなくとても危険だから、特に注意が必要なのよ。",
+			"아~ 미안해. 신종이라는 건 최근에 태어난 붕괴 생물을 말해. 데이터가 없어서 매우 위험하니까, 특히 주의가 필요하단다.",
+			"Oh, I'm sorry. By new species, I mean newly discovered Honkai Beasts. They are very dangerous because there is no data on them, so you have to be extra careful.",
+			null,
+			"Ah~ Sorry, the so-called newborn species is a new species of collapsing creatures that have been created recently and need special attention because they are very dangerous.",
+			"Oh, I'm sorry. By new species, I mean recently born disintegrating organisms. They are very dangerous because there is no data on them, so you have to be extra careful."
+		],
+		[
+			"msg",
+			305024,
+			"But this time, it's just a cat so there's nothing to worry about.",
+			"不过幸好只是普通的猫，看来不用担心。",
+			"でも、ただの猫でよかった。心配しなくてよさそうね。",
+			"하지만, 그냥 고양이라서 다행이야. 걱정 안 해도 될 것 같네.",
+			"But I'm glad it's just a cat. I guess I didn't have to worry.",
+			null,
+			"But fortunately it's just an ordinary cat, so it seems there's nothing to worry about.",
+			"But I'm glad it's just a cat. I guess I don't have to worry."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305025,
+			"Meow!",
+			"喵~",
+			"ニャ～。",
+			"냐아~.",
+			null,
+			null,
+			"Meow~",
+			"Meow~."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305026,
+			"Affected by Houkai, this world is breaking down. But the living have not stopped fighting for their own survival. Just like us.",
+			"虽然整个世界在崩坏的影响下分崩离析，但是依然有这样的小生命和我们一样顽强地生存着呢？",
+			"世界全体が崩壊の影響でめちゃくちゃになっているけど、こんな小さな命も私たちと同じようにたくましく生きているんだよね。",
+			"세계 전체가 붕괴의 영향으로 엉망이 되었지만, 이렇게 작은 생명도 우리와 같은 방식으로 끈질기게 살아가고 있는 거네.",
+			"This whole world is a wasteland after the Honkai, but even the smallest creatures haven't stopped fighting to survive just like us.",
+			null,
+			"Although the whole world is falling apart under the impact of the collapse, but there are still such small life and we are as resilient to survive?",
+			"The whole world is in a mess from the collapse, but these little lives are just as tough as we are."
+		],
+		[
+			"choice",
+			[
+				305027,
+				"Should we take him back home?",
+				"要带回基地么？",
+				"基地に連れて帰る？",
+				"기지로 데려갈까?",
+				null
+			],
+			[
+				305028,
+				"It looks like we need to prepare some pet food.",
+				"看来要准备猫粮了呢。",
+				"キャットフードを用意しなくちゃね。",
+				"캣푸드를 준비해야겠네.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1007,
+			1008
+		]
+	],
+	"1007": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305029,
+			"No. We have no time for a pet. If the cat can make it to this day, he certainly knows how to take care of himself.",
+			"不，我们可没有养宠物的余力，而且既然它能在崩坏中生存下来，就一定有自己的生存之道，不用我们去打扰它也能好好地活下来。",
+			"いえ、私たちにはペットを養う余力はないわ。それに崩壊の中で生き残っているのだから、きっと自分で生存するすべをもっているはず。私たちが余計なことをしなくてもしっかり生きていけると思う。",
+			"아니, 우리에겐 애완동물을 기를 여력이 없어. 게다가 붕괴 속에서 살아남은 거라면 분명 스스로 생존할 방법을 가지고 있을 테니. 우리가 쓸데없는 일을 하지 않아도 잘 살아갈 수 있을 거야.",
+			"No, we don't have the resources to be taking care of pets. And since they've been able to survive the Honkai, they must have been surviving on their own. I think they'll be fine without us.",
+			null,
+			"No, we do not have the spare capacity to keep a pet, and since it can survive the collapse, it must have its own way of survival, and it can survive well without us bothering it.",
+			"No, we don't have enough to feed our pets. And since they survived the collapse, they must be able to survive on their own. I think they can survive without us having to do anything extra."
+		],
+		[
+			"msg",
+			305030,
+			"Perhaps we can share some food with him.",
+			"不过既然遇到了也是某种缘分，把身上的食物分给它一点作为饯别礼吧~",
+			"でも、ここで会ったのも何かの縁よね。餞別代わりに少し食べ物をあげよ～！",
+			"그래도 여기서 만난 건 어떤 인연이겠지. 이별 선물 대신 약간의 먹을거리를 주자~!",
+			"But it must be fate that we met here, right? I'll give it some food as a parting gift ~",
+			null,
+			"But since we met is also some kind of fate, give it a little bit of food as a farewell gift ~",
+			"But it's a coincidence that we met here, isn't it? I'll give you some food as a parting gift~!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1009
+		]
+	],
+	"1008": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305031,
+			"Hehe. We can give him some food.",
+			"嘿嘿~既然遇到了也是某种缘分，把身上的食物分给它一点作为见面礼吧~",
+			"ヘヘ～、でもここで会ったのも何かの縁よね。挨拶代わりに少し食べ物あげよ～！",
+			"헤헤~ 그래도 여기서 만난 건 인연이겠지. 인사 대신 약간의 먹을거리 주자~!",
+			"Hehe~ But I guess it's fate that we met here. I'll give it some food as a gift~!",
+			null,
+			"Hey Hey ~ since we met is also some kind of fate, the body of food to give it a little as a gift ~",
+			"Hehe~ But I guess it's fate that we met here. I'll give you some food as a greeting~!"
+		],
+		[
+			"msg",
+			305032,
+			"But we can't take him home. We simply don't have time for a pet. If the cat can make it to this day, he certainly knows how to take care of himself.",
+			"不过带回家可是禁止的哦，我们也没有养宠物的余力呢，既然它能在崩坏中生存下来，就一定有自己的生存之道，不用我们去打扰它也能好好地活下来。",
+			"私たちにペットを養う余力はないけど、崩壊の中で生き残っているんだから、きっと自分で生存するすべをもっているはずよね。私たちが余計なことしなくてもしっかり生きていける……よね？",
+			"우리에게 애완동물을 기를 여력은 없지만, 붕괴 속에서 살아남은 거라면 분명 스스로 생존할 방법을 가지고 있을 테야. 우리가 쓸데없는 일을 하지 않아도 잘 살아갈 수 있을... 거야?",
+			"But we can't be taking it home with us. We don't have the resources to take care of pets. And since they've been able to survive the Honkai, they must have been surviving on their own. I think they'll be fine without us.",
+			null,
+			"But take home is forbidden oh, we also do not have the spare capacity to raise a pet it, since it can survive the collapse, it must have its own way of survival, without us to bother it can also survive well.",
+			"We don't have enough to feed our pets, but since they survived the collapse, they must have some way to survive on their own. They can survive without us having to do anything extra. ......"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1009
+		]
+	],
+	"1009": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305033,
+			"Meow!",
+			"喵~",
+			"ニャ～。",
+			"냐아~.",
+			null,
+			null,
+			"Meow~",
+			"Meow~."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305034,
+			"Ahaha! That's itchy! He seems to like us.",
+			"啊哈哈~好痒好痒~看样子它是在感谢我们呢~",
+			"アハハ～くすぐったいよ～私たちに感謝しているみたいね。",
+			"아하하~ 간지러워~ 우리에게 고마워하는 것 같네.",
+			"Ahahaha! That tickles~ It seems to be thanking us.",
+			null,
+			"Ahahaha ~ so itchy and ticklish ~ it looks like it is thanking us ~",
+			"Hahaha - that tickles - you seem to be thanking us."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305035,
+			"Meow!",
+			"喵~",
+			"ニャ～。",
+			"냐~.",
+			null,
+			null,
+			"Meow~",
+			"Meow~."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305036,
+			"Time to go. We need to report back that no Houkai creatures were found.",
+			"呼~是时候该走了，既然没有崩坏生物那我们也可以安心回去报告了。",
+			"ふぅ～そろそろ行かなくちゃ。崩壊生物がいないなら、私たちも安心して報告できるわ。",
+			"휴~ 이제 슬슬 가야겠다. 붕괴 생물이 없다면, 우리도 안심하고 보고할 수 있겠어.",
+			"Whew~ I'd better get going. If there are no Honkai Beasts, then we can all report back with peace of mind.",
+			null,
+			"Phew ~ it's time to go, since there are no collapse creatures that we can also report back in peace.",
+			"Whew - I better get going. If there are no disintegrating organisms, then we can all report back with peace of mind."
+		],
+		[
+			"msg",
+			305037,
+			"Goodbye, kitty!",
+			"那么再见啦，小猫咪~",
+			"じゃあまたね、猫ちゃん！",
+			"그럼 또 봐, 고양이!",
+			null,
+			null,
+			"So goodbye, kitty~",
+			"See you later, kitty!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305038,
+			"Meow...",
+			"喵……",
+			"ニャ……。",
+			"냐…….",
+			null,
+			null,
+			"Meow ......",
+			"Nya. ......."
+		]
+	],
+	"1010": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305039,
+			"Mission accomplished! I could use some good rest once when are back to the base!",
+			"呼~这次的任务也顺利结束了~回基地后一定要好好休息一下！",
+			"ふぅ～今回の任務も無事に終了したわね～基地に帰ってゆっくりしましょう！",
+			"휴~ 이번 임무도 무사히 끝났네~ 기지에 돌아가서 천천히 쉬자!",
+			"Whew~ Mission accomplished! Let's go back to the base and relax!",
+			null,
+			"Phew ~ this mission also ended smoothly ~ back to the base must be a good rest!",
+			"Whew - this mission is over - let's go back to the base and relax!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305040,
+			"*Swishy Sound*",
+			"沙拉沙拉……",
+			"ガサガサ……。",
+			"바스락…….",
+			null,
+			null,
+			"Salad Salad ......",
+			"Rustling: ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305041,
+			"What is that sound? Watch out! It might be Houkai creatures!",
+			"唔…这个声音是？小心！可能有崩坏生物在附近！",
+			"あ……この音は？気をつけて！崩壊生物が近くにいるかも！",
+			"아…… 이 소리는? 조심해! 붕괴 생물이 근처에 있을지도!",
+			"Ah ...... what's that sound? Watch out! There could be a Honkai Beast nearby!",
+			null,
+			"Well...this sound is? Watch out! There may be collapsing creatures around!",
+			"Ah ...... what's that sound? Watch out! Disintegrating organisms could be nearby!"
+		],
+		[
+			"msg",
+			305042,
+			"I didn't know they are actually so close to our base...",
+			"没想到已经潜伏到离基地这么近的地方了么……",
+			"基地のこんな近い場所にまで潜伏しているなんて……。",
+			"기지에서 이렇게 가까운 곳까지 잠복하고 있다니…….",
+			"I can't believe there's Honkai Beasts this close to the base...",
+			null,
+			"I did not expect to have lurked so close to the base? ......",
+			"I can't believe they are even hiding in such close proximity to the base. ......"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305043,
+			"*Swishy Sound*",
+			"沙拉沙拉……",
+			"ガサガサ……。",
+			"바스락…….",
+			"<i>swish swish.....</i>",
+			null,
+			"Salad Salad ......",
+			"Rustling: ......."
+		],
+		[
+			"msg",
+			305044,
+			"Meow!",
+			"喵~",
+			"ニャ～。",
+			"냐~.",
+			"Meow~",
+			null,
+			"Meow~",
+			"Meow~."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"msg",
+			305045,
+			"Shh... Be quiet. Don't let them find us.",
+			"嘘…小声点，要是被发现可就不好了。",
+			"シッ……静かに、見つかっちゃったらどうするのよ。",
+			"쉿…… 조용히, 들키면 어쩌려고 그래.",
+			"Shh... Keep your voice down, it would be bad if you were found out.",
+			null,
+			"Shh...keep your voice down, it would be bad if you were found out.",
+			"Shhh ...... quiet, what if they find you."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305046,
+			"That... cat meowing sound. And what is the other voice?... Let's go check it out.",
+			"唔…猫叫声，还有这个声音是……走，我们去看看。",
+			"あ……猫の鳴き声、それにこの声は……見に行きましょう。",
+			"아…… 고양이 울음소리, 게다가 이 목소리는…… 보러 가자구.",
+			"Ah.... A cat's meow, and this voice is... Let's see.",
+			null,
+			"Well...catcalls, and this sound is ...... Go, let's go check it out.",
+			"Oh ...... cat's meow, and this voice, go to ...... to see it."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305047,
+			"*Swishy Sound*",
+			"沙拉沙拉……",
+			"ガサガサ……。",
+			"바스락…….",
+			"<i>swish swish......</i> //n(Duplicate ID:305043)",
+			null,
+			"Salad Salad ......",
+			"Rustling: ......."
+		],
+		[
+			"msg",
+			305048,
+			"Meow!",
+			"喵~",
+			"ニャ～。",
+			"냐~.",
+			"Meow~",
+			null,
+			"Meow~",
+			"Meow~."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305049,
+			"Hehe... Cute little guy.",
+			"咕嘿嘿…真是可爱的家伙~",
+			"フフフ……かわいいやつだな～。",
+			"후후후…… 귀여운 녀석이네~.",
+			"Hehe~ What a cute guy~",
+			null,
+			"Goo hee hee...really cute guy~",
+			"Hmph. ...... Cute guy!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305050,
+			"Emesa?",
+			"埃米沙？",
+			"エミザ？",
+			"에미자?",
+			"Emesa?",
+			null,
+			"Emesa?",
+			"Emesa?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305051,
+			"Do not call me Emesa! Wait... Seele? What are you doing here!?",
+			"不要叫我埃米沙！呃…希儿？你们怎么会在这里！？",
+			"エミザって呼ぶな！って、あれ……ゼーレ？あんたら、どうしてここに！？",
+			"에미자라고 부르지 말라니까! 라고, 어라…… 제레? 너희, 왜 여기에!?",
+			"Don't call me Emiza! Oh, uhhhh...... Seele? What are you two doing here!?",
+			null,
+			"Don't call me Emesa! Ummm...Shire? What are you guys doing here!",
+			"Don't call me Emesa! Oh, is that ...... Seele? What are you guys doing here?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305052,
+			"We heard the noise... I wasn't expecting to see you here...",
+			"因为听到声音就过来了啊…话说回来，没想到你在这里……",
+			"声がしたから来てみたの……ところで、あなたがどうしてここに……。ははーん、なるほど。",
+			"소리가 들려서 와봤어…… 그런데, 네가 왜 여기에……. 하하, 그렇구나.",
+			"We heard the noise and came over.... I didn't expect you to be here....",
+			null,
+			"Because I heard the sound and came over ah ... then again, I did not expect you to be here ......",
+			"I heard voices, so I came to ...... By the way, how did you get here ....... Haha, I see."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305053,
+			"Keep your mouth shut! If you tell anyone, I'll kill you!",
+			"嘘！你要是说出去我就宰了你！",
+			"——！言ったらぶっ殺す！",
+			"——! 말하면 죽여 버린다!",
+			"Keep your mouth shut! If you tell anyone, I'll kill you!",
+			null,
+			"Shh! If you tell anyone, I'll kill you!",
+			"--I'll kill you if you tell me! I'll kill you if you say it!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305054,
+			"Hahaha! That depends on how much you are willing to pay.",
+			"嚯嚯~那就要看你开的条件了~",
+			"オホホ～それは条件次第だよね～！",
+			"오호호~ 그건 조건 나름이겠지~!",
+			"Ohohoho~ That depends on how much you're willing to pay.",
+			null,
+			"Ho ho ho ~ that depends on the conditions you open ~",
+			"Ohoho~ that depends on the conditions!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305055,
+			"You greedy girl!",
+			"你这家伙……",
+			"この……。",
+			"이…….",
+			"You little....",
+			null,
+			"You guys ......",
+			"This ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305056,
+			"Meow?",
+			"喵？",
+			"ニャ？",
+			"냐?",
+			null,
+			null,
+			"Meow?",
+			"Meow?"
+		],
+		[
+			"choice",
+			[
+				305057,
+				"It's the cat we saw earlier!",
+				"这不是之前的小猫么？",
+				"これさっきの猫じゃない？",
+				"이거 아까 그 고양이 아니야?",
+				null
+			],
+			[
+				305058,
+				"Where did that cat come from?",
+				"这是哪里来的猫？",
+				"この猫どこからきたの？",
+				"이 고양이 어디서 온 거야?",
+				null
+			]
+		],
+		[
+			"nop",
+			"BRIDGED_PART",
+			1011
+		]
+	],
+	"1011": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10102"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305059,
+			"Ugh...",
+			"啊！！",
+			"あ！！",
+			"아!!",
+			null,
+			null,
+			"Ah!!!",
+			"Ah!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305060,
+			"What? You know this cat?",
+			"唔？你们见过它？",
+			"ん？この子に会ったことあるのか？",
+			"음? 이 아이를 만난 적 있어?",
+			null,
+			null,
+			"Hmm? You've seen it?",
+			"Hmm? Have you met this girl?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305061,
+			"Yes, we found him on our patrol mission. We even gave him some food.",
+			"嗯，之前在巡逻的时候发现的，还喂了它一点吃的~",
+			"うん、さっきパトロールの時に見つけたの。少し食べ物もあげたんだよ～。",
+			"응, 아까 순찰할 때 발견했어. 약간 먹이도 줬다고~",
+			"Yeah, I found it earlier when I was on patrol. I even gave it a little food!",
+			null,
+			"Well, I found it when I was on patrol, and fed it a little food ~",
+			"Yeah, I found it earlier when I was on patrol. I even gave him a little food!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305062,
+			"Talking about that... The first time I saw him was indeed after you coming back from the patrol mission... He was sitting right in front of our gate.",
+			"这么说的话…第一次遇到它的时候的确是在你们巡逻回来的时候……它就站在基地的门口看着我。",
+			"ということは、最初に会ったのはあんたたちってことか……こいつ、基地の入口に立って私を見てたんだよ。",
+			"그렇다면 처음 만난 건 너희들이란 말이지... 이 녀석, 기지 입구에 서서 나를 보고 있더라.",
+			"The first time I saw this cat was when you guys came back from patrol... It was standing at the entrance of the base looking at me.",
+			null,
+			"In that case...the first time I encountered it was indeed when you guys came back from patrol ...... it was standing at the entrance to the base looking at me.",
+			"So that means you guys were the first ones I met. ...... This guy was standing at the entrance to the base looking at me."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305063,
+			"Aha? So he followed us to here?",
+			"啊哈哈~这么说是跟着我们回来了啰？",
+			"アハハ～ということは、私たちの後をついて来たってこと？",
+			"아하하~ 그러니까, 우리 뒤를 따라왔다는 거야?",
+			"Haha... So that means it was following us?",
+			null,
+			"Ahaha~ So you're following us back?",
+			"Hahaha - does that mean they were following us?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305064,
+			"This is completely your fault! You didn't know you were followed? By a cat?",
+			"那根本就是你们的错好么！你OO的有只猫跟在后面都不知道么！",
+			"そういうこと。つまり、あんたたちの責任だろ。まったく、猫が後ろを着いてきてたのに気がつかないなんてな！",
+			"그런 말이지. 즉, 너희들 책임이잖아. 정말, 고양이가 뒤를 따라오는 걸 눈치채지 못하다니!",
+			"So it's your fault, then! You dumb ☆☆s had a cat following you and you didn't even notice!",
+			null,
+			"That is simply your fault, okay! You OO's have a cat following you don't even know!",
+			"That's what I mean. I mean, it's your fault. I can't believe you didn't see the cat following you!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305065,
+			"Sorry. Really had no idea.",
+			"抱歉抱歉，没有注意到呢~",
+			"ごめん、ごめん～。",
+			"미안, 미안~.",
+			"Sorry, sorry~ I didn't notice it~",
+			null,
+			"Sorry, sorry, did not notice it ~",
+			"Sorry, sorry~."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305066,
+			"If it were not for me,  this little kitty could have starved!",
+			"啧！要不是我注意到它这么宝贵的生命就要饿死街头了！",
+			"こんな小さくて貴重な命が路頭で餓死しそうだったら、私ならすぐ気づくけどな。",
+			"이렇게 작고 소중한 목숨이 길거리에서 굶어 죽을 것 같으면, 내라면 바로 눈치챘을 텐데.",
+			"Seesh! If I didn't notice this precious creature it would have starved to death on the streets! (TN: I'm not sure why she's saying streets here, doesn't seem correct)",
+			null,
+			"Sheesh! If I hadn't noticed that it's such a precious life it would have starved to death in the streets!",
+			"If such a small and precious life was about to starve to death on the streets, I would notice it right away."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305067,
+			"Nah. You were exaggerating. The cat had been totally fine by himself even before we found him. Survival instinct, you know? Just don't give him too much food. You are spoiling him.",
+			"你说的太严重啦，在我们遇到它之前它就活得好好的，这是动物的生存本能，如果一味的饲养它反而会害了它哦。",
+			"それは言いすぎよ。私たちがこの子に会った時は元気だったもん。これは動物の生存本能よ。飼い慣らしてしまったら、この子のためによくないわ。",
+			"그건 너무 지나친 말이야. 우리가 이 아이를 만났을 땐 멀쩡했잖아. 이건 동물의 생존 본능이야. 길들여 버리면 이 아이에게 좋지 않아.",
+			"You're exaggerating. That cat was fine before we met it. It's got survival instincts, you know? Just don't give it too much food or it will become domesticated.",
+			null,
+			"You are too serious, before we meet it it lives well, this is the survival instinct of the animal, if you feed it but will harm it Oh.",
+			"That's an exaggeration. When we met him, he was fine. It's an animal's survival instinct. It would not be good for her if we tame her."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305068,
+			"...So you won't do anything? Just leave the poor cat alone in this horrible world?",
+			"……你的意思是放任它在这个混蛋世界里自生自灭么？",
+			"……それはつまり、この子をこの壊れた世界に放って死なせるってことか？",
+			"......그 말은 즉, 이 아이를 이 망가진 세상에 내버려 두고 죽게 하라는 거야?",
+			".....You mean you're going to leave it to fend for itself in this desolate world and let it die?",
+			null,
+			"...... Do you mean to leave it to fend for itself in this bastard world?",
+			"...... Does that mean you're going to let this kid loose in this broken world and let him die?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305069,
+			"I didn't say that...",
+			"也不是这样说啦……",
+			"そんな言い方はしてないわよ……。",
+			"그런 식으로 말한 적 없어......",
+			"I didn't say that...",
+			null,
+			"It's not like that. ......",
+			"I didn't say it that way. ......"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305070,
+			"I'm a medic, you know. This is not something I can do. If there's a life to save, then it's my job to do it.",
+			"我可是医务员，这样的事情我做不到。如果眼前有需要救助的生命，我就有义务保证它的安全。",
+			"私はこれでも医者だ。そんなことできない。目の前に助けられる命があったら、その安全を守る義務がある。",
+			"난 그래도 의사야. 그런 건 못 해. 눈앞에 구할 수 있는 목숨이 있다면, 그 안전을 지켜야 할 의무가 있어.",
+			"I'm still a medic. I can't do that. If there's a life in front of me that I can save, it's my duty to do it.",
+			null,
+			"I'm a paramedic, I can't do something like that. If there is a life in front of me that needs to be saved, I have an obligation to keep it safe.",
+			"I am still a doctor. I can't do that. If there is a life in front of me that I can save, I have a duty to keep it safe."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305071,
+			"Sigh... You'd better think about it again. Keep in mind we don't have spared food for a cat. And if one day we have nothing left to eat, we might even...",
+			"哎…你可想好了，我们可没有多余的食物分给它吃哦，如果食物紧缺的时候说不定反而会变成储备粮呢~",
+			"もう……よく考えて。私たちにはこの子にあげる余分な食料はないの。もし食料が足りない時には、この子が保存食になっちゃうかもしれないんだよ～！",
+			"정말...... 잘 생각해 봐. 우리에겐 이 아이에게 줄 여분의 식량이 없다고. 만약 식량이 모자랄 때는 이 아이가 보존식이 돼 버릴지도 몰라~!",
+			"Hey.... Think about this seriously. We don't have any food to spare for this cat. If we start running out, this cat could be our next meal! (TN: Yes, she really said that. Well, she said \"the cat could be our next ration\" but close enough.)",
+			null,
+			"Hey ... you can think well, we do not have extra food to share it to eat Oh, if the food shortage may instead become a reserve food ~",
+			"Think about it already ....... We don't have any extra food to give this baby. If we don't have enough food, she could be our food storage!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305072,
+			"Don't even think about it! Mind your own business. I'll take care of the pet food.",
+			"你这混蛋……不用你操心，食物的事情我自己会解决。",
+			"あんたって人は……心配いらない。食べ物のことは何とかする。",
+			"너란 사람은...... 걱정 마. 먹을 일은 어떻게든 해결할 테니까.",
+			"That's vile.... Don't worry about it, I'll take care of the food myself. (TN: She says 'you bastard' but that doesn't make sense in English)",
+			null,
+			"You bastard ...... don't need to worry about it, I'll take care of the food myself.",
+			"Don't worry about ...... you people. We'll take care of the food."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305073,
+			"Alright, If you say so. whatever Do you want. I won't tell Bronya.",
+			"好吧好吧~既然你都这么说了那就随你高兴啦，姐姐大人那边我会保密的。",
+			"分かったわ。そこまで言うなら勝手にしてちょうだい。一応、お姉ちゃんには黙っておくから。",
+			"알았어. 그렇게까지 말하니 마음대로 하렴. 일단, 언니한텐 비밀로 해 둘게.",
+			"Alright, alright. If you're going to go that far then do whatever you want. I'm not going to tell Bronya.",
+			null,
+			"Well, well, well, since you have said so, then let you be happy, sister-sama side I will keep it a secret.",
+			"Okay, I get it. If you're going to go that far, then do what you want. I won't tell your sister."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305074,
+			"Huh...? So easy? I thought you would come up with some evil terms.",
+			"呃…意外的答应的这么爽快，我还以为你要开什么卑鄙的条件呢。",
+			"なんだ……意外と素直に応じるんだな。また何か卑怯な条件でも出す気か？",
+			"뭐야...... 의외로 순순히 받아들이네. 또 뭐 치사한 조건이라도 내놓을 생각이야?",
+			"Well that's a... Surprisingly quick response. I expected you to come up with more evil terms.",
+			null,
+			"Uh...unexpectedly agreed so quickly, I thought you were going to make some dastardly offer.",
+			"What a ...... surprisingly straightforward response. Are you trying to come up with some more cowardly terms?"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305075,
+			"What did you think of me...?",
+			"你把我当什么人了……",
+			"私を何だと思っているの……。",
+			"나를 뭐라고 생각하는 거야…….",
+			"Who do you think I am....?",
+			null,
+			"What do you take me for ......",
+			"What do you think I am ......."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305076,
+			"Well then, you have a new home, kitty! Isn't that great?",
+			"不过既然这样就太好了~怎么样你有新家了哦~以后就住在这里吧~",
+			"でも、それならよかった！何であれ、お前に新しい家ができたぞ～これからはここに住むんだ！",
+			"그래도, 그렇다면 다행이야! 뭐 어쨌든, 네게 새로운 집이 생겼어~ 앞으로는 여기서 사는 거야!",
+			"But thank goodness for that! You've got a new home, kitty~ You can live here from now on!",
+			null,
+			"But since this is great ~ how about you have a new home Oh ~ live here in the future ~",
+			"But thank goodness for that! Whatever it is, you've got a new home - you're going to live here from now on!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305077,
+			"Meow!",
+			"喵~",
+			"にゃ～。",
+			"냐~.",
+			"Meow!",
+			null,
+			"Meow~",
+			"Meow~."
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			305078,
+			"Hahaha.",
+			"啊哈哈~啊哈哈~",
+			"あはは～あはは～。",
+			"아하하~ 아하하~.",
+			"Hehe~",
+			null,
+			"Ahaha~Ahaha~",
+			"Haha - haha!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			305079,
+			"Is that guy really Emesa...?",
+			"这家伙真的是埃米沙么……",
+			"こいつ本当にエミザなの……。",
+			"이 녀석 정말 에미자인 거야…….",
+			"Was that really Emesa...?",
+			null,
+			"Is this guy really Emesa ......",
+			"Is this guy really an Emesa. ......"
+		]
+	]
+}

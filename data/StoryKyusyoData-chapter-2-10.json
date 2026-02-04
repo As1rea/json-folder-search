@@ -1,0 +1,1375 @@
+{
+	"91": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300711,
+			"Whoa. So this is the HOMU Paradise? It's even more extensive than I thought!",
+			"哇~这里就是吼姆乐园么！比想象中大不少呢！",
+			"わぁ～ここがホム楽園！？思っていたよりだいぶ大きいんだね！",
+			"와~ 여기가 홈 라쿠엔!? 생각했던 것보다 훨씬 크네!",
+			"Wow~ So this is HOMU Paradise? It's a lot bigger than I imagined!",
+			null,
+			"Wow ~ this is Howlam Land! It's much bigger than expected!",
+			"Wow, this is Homu Paradise! It's a lot bigger than I thought it would be!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300712,
+			"And it's also very... restless. Stay vigilant. You probably don't want to draw any attention of the Houkai creatures here.",
+			"嗯，而且还很热闹，我们要小心前进，这里的崩坏生物都是扎堆活动的，如果惊动了它们可不好收拾。",
+			"ええ、それにとても賑やかです。気をつけて進みましょう。ここの崩壊生物は群れて行動します。もし彼らを刺激したら面倒なことになります。",
+			"그래요, 게다가 정말 시끌벅적하네요. 조심히 이동하죠. 여기 붕괴 생물은 무리를 지어 행동해요. 만약 그들을 자극하면 골치 아픈 일이 생길 거예요.",
+			"Yes, and it's very... Active. Be on your guard. The Honkai beasts here tend to swarm. If you provoke them, you'll end up in trouble. (TN: Use a better metaphor here plz)",
+			null,
+			"Well, and also very lively, we have to be careful to move forward, the collapse of the creatures here are rooted in the activity, if alarmed they can not be cleaned up.",
+			"Yes, and it's very busy. Proceed with caution. The decomposers here tend to swarm. If you provoke them, you could get in trouble."
+		],
+		[
+			"msg",
+			300713,
+			"Follow my lead. We will not take the main gate. I know a secret path that can save us some trouble.",
+			"跟我来吧，我们绕过大门，我知道有一条捷径可以减少不必要的麻烦。",
+			"ついて来てください。正面ゲートを迂回しましょう。不要な面倒を減らす近道を知っています。",
+			"따라오세요. 정문을 우회합시다. 불필요한 문제를 줄일 수 있는 지름길을 알고 있으니까요.",
+			"Follow my lead, we're not going through the main gate. I know a shortcut that will save us some trouble.",
+			null,
+			"Come with me, we'll go around the gate. I know a shortcut that will reduce unnecessary trouble.",
+			"Follow us. Bypass the front gate. We know a shortcut that will save you unnecessary hassle."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				2,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300714,
+			"Bronya seems to know everything. Incredible!",
+			"不愧是姐姐大人~真是无所不知呢！",
+			"さすがはお姉ちゃん～！本当に何でも知っているのね！",
+			"역시 언니~! 정말 뭐든지 다 알고 있네요!",
+			"Wow, awesome! You really know everything! (TN: The first sentence is \"Sasuga oneechan\" which can't be translated well. The literal translation would be \"Wow, that's just like you, Bronya!\" which makes no sense in English.)",
+			null,
+			"As expected of you, sister ~ really know everything!",
+			"That's my sister~! You really know everything!"
+		],
+		[
+			"choice",
+			[
+				300715,
+				"Have you been here before?",
+				"请问是以前来过这里么？",
+				"以前にもここに来たことがあるの？",
+				"예전에 여기 와 본 적이 있어요?",
+				null
+			],
+			[
+				300716,
+				"Do you have a map of this place?",
+				"请问是有这里的地图么？",
+				"ここの地図を持っているの？",
+				"여기 지도를 가지고 계신 거예요?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			92,
+			93
+		]
+	],
+	"92": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300717,
+			"Yes. I've been here only once. It's a shame that it was after Houkai occurred. So I also have no idea how lively this place was before that.",
+			"嗯，以前有机会来过一次这里。不过很遗憾，那也是崩坏发生后的事情了，无缘看到这个乐园充满生机的一面。",
+			"ええ、以前に1度来たことがあります。残念ながらそれも崩壊発生後のことで、この楽園の活気に満ちた姿は見られませんでした。",
+			"네, 예전에 한 번 와 본 적이 있어요. 안타깝게도 그때도 붕괴 발생 이후였기 때문에, 이 낙원의 활기찬 모습은 볼 수 없었죠.",
+			"Yes, I've been here once. Unfortunately it was after the Honkai occurred, so I never had a chance to see this place in its full glory.",
+			null,
+			"Well, I had the opportunity to come here once before. But unfortunately, that was also after the collapse occurred, no chance to see the vibrant side of this paradise.",
+			"Yes, I have been here once before. Unfortunately, that was also after the collapse occurred, and I did not see this paradise in its full vigor."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			94
+		]
+	],
+	"93": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300718,
+			"No, I don't have a map. I visited here only once. It's a shame that it was after Houkai occurred. So I also have no idea how lively this place was before that.",
+			"这倒没有，只是之前有机会来过一次这里。不过很遗憾，那也是崩坏发生之后的事情了，无缘看到这个乐园充满生机的一面。",
+			"持ってはいませんが、以前に1度来たことがあります。残念ながらそれも崩壊発生後のことで、この楽園の活気に満ちた姿は見られませんでした。",
+			"지도는 없지만 예전에 한 번 와 본 적이 있어요. 안타깝게도 그때도 붕괴 발생 이후였기 때문에, 이 낙원의 활기찬 모습은 볼 수 없었죠.",
+			"I don't have a map, but I've been here once. Unfortunately it was after the Honkai occurred, so I never had a chance to see this place in its full glory.",
+			null,
+			"This is not true, but I have had the opportunity to visit this place once before. But unfortunately, that was also after the collapse occurred, no chance to see the vibrant side of this paradise.",
+			"I don't have it, but I have been here once before. Unfortunately, that was also after the collapse occurred, and I did not see this paradise in its full vigor."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			94
+		]
+	],
+	"94": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			300719,
+			"These HOMU could have brought a smile on everyone's face, if Houkai didn't happen...",
+			"如果不是因为崩坏，这些可爱的吼姆一定会给大家带来更多的笑容吧……",
+			"崩壊さえなければ、このかわいいホムはきっとみんなにもっと多くの笑顔を与えてくれたでしょうに……。",
+			"붕괴만 아니었다면, 이 귀여운 호무들은 분명 모두에게 더 많은 미소를 선사했을 텐데......",
+			"If it wasn't for the Honkai, these cute little HOMUs could still be bringing smiles to everyone's faces...",
+			null,
+			"If it weren't for the collapse, these cute howlers would definitely bring more smiles to everyone's faces ......",
+			"If only it hadn't collapsed, this cute little homie would surely have given everyone more smiles. ......"
+		],
+		[
+			"choice",
+			[
+				300720,
+				"Such a shame.",
+				"真是遗憾呢。",
+				"本当に残念。",
+				"정말 안타깝네요.",
+				null
+			],
+			[
+				300721,
+				"One day, this place will be as lively as it was. Once we prevail against Houkai.",
+				"等战胜崩坏之后这里一定会再热闹起来的。",
+				"崩壊に勝てばここもまた賑やかになる。",
+				"붕괴를 극복하면 이곳도 다시 활기로 가득찰 거예요.",
+				"If we can defeat the Honkai, this place will become lively again."
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			95,
+			96
+		]
+	],
+	"95": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			300722,
+			"It's a shame indeed. But during my last visit, I was actually happy because someone was teaching me a lot of important things.",
+			"嗯…是有一些遗憾。不过那个时候的我感受到更多的是幸福，因为有一个人教会了我许多重要的东西。",
+			"ええ……残念です。ですが、初めて来た時にもブローニャは幸せを感じたのです。ある人が大切なことをたくさん教えてくれたから……。",
+			"에…… 아쉽군요. 하지만 처음 왔을 때도 브로냐는 행복을 느꼈어요. 어떤 사람이 소중한 것들을 많이 가르쳐줬으니까…….",
+			null,
+			null,
+			"Well...there are some regrets. But at that time I felt more happiness because there was someone who taught me many important things.",
+			"Yes ...... I am sorry to hear that. But even when I first came here, Bronya felt happy. Because someone taught me many important things ......."
+		],
+		[
+			"msg",
+			300723,
+			"The happiness was short-lived, but it's exactly what made me who I am today.",
+			"虽然是短暂的时光，但正因为有那段相遇才有了今天的我。",
+			"短い間でしたがあの時の出会いがあったからこそ、今のブローニャがいます。",
+			"짧은 시간이었지만 그때의 만남이 있었기에 지금의 브로냐가 있습니다.",
+			null,
+			null,
+			"It was a short time, but it is because of that encounter that I am who I am today.",
+			"It was a brief encounter, but it was because of that encounter that Bronya is where it is today."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300724,
+			"If one day, I could find Her again... No. I will find Her!",
+			"如果有一天能够再次遇到她的话……不，我一定会找到的！",
+			"もし、いつの日かまたあの人に会えたら……いえ、きっと探し出します！",
+			"만약, 언젠가 다시 그 사람을 만날 수 있다면…… 아니, 꼭 찾아낼 거예요!",
+			null,
+			null,
+			"If I can meet her again one day ...... No, I will find it!",
+			"If I ever see that guy again someday, I'm sure I'll find him ...... No, I'll find him!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			97
+		]
+	],
+	"96": [
+		[
+			"speaker",
+			204620
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			300725,
+			"You're right... And that's why we must eliminate Houkai. As a gift for Her.",
+			"你说的对…就算是为了那个人也要把崩坏消灭掉。",
+			"そうですね……あの人のためにも崩壊を滅ぼさなければ。",
+			"그렇군요…… 그 사람을 위해서도 붕괴를 멸망시켜야 해요.",
+			"You're right... And that's why we must eliminate the Honkai. As a gift for Her.",
+			null,
+			"You're right...even if it's for that person, we have to wipe out the crash.",
+			"Yes, ...... we must destroy the collapse for that man."
+		],
+		[
+			"msg",
+			300726,
+			"I wish more people can share the joy that She shared with me.",
+			"那个人带给我的幸福，我也希望更多人能够看到。",
+			"あの人がくれた幸せを、もっと多くの人に見てもらいたいのです。",
+			"그 사람이 준 행복을, 더 많은 사람들에게 보여주고 싶어요.",
+			"I want more people to see the happiness that she gave me.",
+			null,
+			"That person brought me happiness, and I wish more people could see it.",
+			"I want more people to see the happiness that that man gave me."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			300727,
+			"If one day, I could find Her again... No. I will find Her!",
+			"如果有一天能够再次遇到她的话……不，我一定会找到的。",
+			"もし、いつの日かまた会えたら……いえ、きっと探し出します。",
+			"만약, 언젠가 다시 만날 수 있다면…… 아니, 꼭 찾아낼 거예요.",
+			null,
+			null,
+			"If I can meet her again one day ...... no, I will find it.",
+			"If I see you again someday, I will find you at ...... No, I will find you."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			97
+		]
+	],
+	"97": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				59,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300728,
+			"Bronya...",
+			"姐姐大人……",
+			"お姉ちゃん……。",
+			"언니…….",
+			null,
+			null,
+			"Sister-sama ......",
+			"Sis. ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				7,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300729,
+			"Enough talking... Let's get moving. Our task at hand is of the most importance.",
+			"抱歉，说了很多无关紧要的话…出发吧，现在最重要的是尽快完成任务。",
+			"すみません。関係のないことを話しすぎました……行きましょう。今、重要なのはできるだけ早く任務を果たすことです。",
+			"죄송해요. 관계 없는 이야기를 너무 많이 했네요…… 가죠. 지금 중요한 건 가능한 한 빨리 임무를 완수하는 거예요.",
+			"Sorry, I talked too much... Let's get moving. The important thing right now is to complete the mission as fast as possible.",
+			null,
+			"Sorry for the irrelevant words...let's go, the most important thing now is to finish the mission as soon as possible.",
+			"Sorry. I talked too much about unrelated things. ...... Let's go. The important thing now is to complete the mission as quickly as possible."
+		]
+	],
+	"98": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300730,
+			"Nothing seems to be unusual. Though this place is full of Zombies, we didn't see a single Houkai creature.",
+			"现阶段似乎没有什么异常的地方呢，虽然有着密密麻麻的死士，但是没有那些虫子一样的生物呢。",
+			"現段階では特におかしなところないみたいだね。ゾンビはうじゃうじゃいるけど、あの虫みたいな生物はいないね。",
+			"현 단계에서는 특별히 이상한 점 없는 것 같네. 좀비는 우글우글하지만, 그 벌레 같은 생물은 없네.",
+			"There doesn't seem to be anything out of the ordinary. There's zombies everywhere, but I don't see any of these \"Honkai insects\".",
+			null,
+			"There seems to be nothing unusual at this stage, although there are dense dead soldiers, but there are no those bug-like creatures.",
+			"There doesn't seem to be anything strange about it at this stage. Zombies are around, but not those bug-like creatures."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300731,
+			"No. But I don't think we are going the wrong way.",
+			"不，我想我们的方向没有错。",
+			"はい。ですが、進むべき方向は間違っていないと思います。",
+			"네. 하지만, 나아가야 할 방향은 틀리지 않았다고 생각해요.",
+			"You're right. But I think we're heading in the right direction.",
+			null,
+			"No, I don't think we're going in the wrong direction.",
+			"Yes, I am. But I think we are going in the right direction."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300732,
+			"What's on your mind, Bronya?",
+			"姐姐大人有什么发现么？",
+			"お姉ちゃん何か見つけたの？",
+			"언니, 뭔가 찾았어?",
+			null,
+			null,
+			"Did you find anything, sister?",
+			"What did you find, sis?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300733,
+			"Haven't you noticed the slime covering on those park facilities?",
+			"你们有没有发现一些游乐园设施上沾着的粘液。",
+			"いくつかのアトラクションに粘液がついています。",
+			"몇몇 놀이기구에 점액이 묻어있어요.",
+			"Haven't you noticed the slime covering some of these amusement park attractions?",
+			null,
+			"Have you noticed the slime stained on some of the amusement park facilities.",
+			"Several attractions have mucus on them."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300734,
+			"Slime...? I thought it's just some moss?",
+			"粘液…那个不是苔藓么？",
+			"粘液……あれってコケじゃないの？",
+			"점액...... 저거 이끼 아니야?",
+			null,
+			null,
+			"Mucus...isn't that moss?",
+			"Mucus...... isn't that moss?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300735,
+			"That was my first impression, too. But if you scratch it off...",
+			"一开始我也以为是苔藓，但是如果刮开它们的话……",
+			"ブローニャも最初はコケだと思いました。ですが、これをはがしてみると……。",
+			"브로냐도 처음에는 이끼라고 생각했어요. 하지만, 이걸 떼어내 보면.......",
+			null,
+			null,
+			"At first I thought it was moss too, but if you scrape them away ......",
+			"At first I thought Bronya was moss too. But when I peeled it off, I found this: ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300736,
+			"The metal beneath is... corrupted?!",
+			"下面的金属被腐蚀了！？",
+			"下の金属が腐食してる！？",
+			"아래쪽 금속이 부식되어 있어!?",
+			"The metal beneath it is corroded!?",
+			null,
+			"The metal below is corroded!",
+			"The metal underneath is corroding!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300737,
+			"Exactly. So it's probably the mucus of some creatures.",
+			"没错，所以这大概是某些生物的分泌液。",
+			"そうです。ですから、おそらく何かの生物が分泌した液体なのでしょう。",
+			"그래요. 그러니까, 아마도 어떤 생물이 분비한 액체인 거겠죠.",
+			null,
+			null,
+			"Right, so this is probably the secretion of some creature.",
+			"Yes, it is. So it is probably a liquid secreted by some organism."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300738,
+			"Eww! Disgusting...",
+			"呜哇~真是恶心……",
+			"うわ～気持ちワル……。",
+			"우와~ 기분 나빠.......",
+			null,
+			null,
+			"Woohoo ~ really disgusting ......",
+			"Wow - I feel bad ......."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300739,
+			"Well, looks like we are close to our target. Let's keep moving.",
+			"嗯，看来我们已经离它们很近了，继续前进吧。",
+			"ええ、ブローニャたちはどうやら彼らに近づいているようですね。引き続き進みましょう。",
+			"네, 브로냐들은 아무래도 그들에 가까워지고 있는 모양이네요. 계속해서 나아가죠.",
+			null,
+			null,
+			"Well, it looks like we're close enough to them to keep moving.",
+			"Yes, Bronya and the others are apparently getting to them. Let's keep going."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300740,
+			"...",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"bg",
+			"CG10116"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300741,
+			"Bronya! Look over there! It's a Ferris wheel!",
+			"布洛妮娅！快看，是摩天轮！",
+			"あれがホム大観覧車？",
+			"저기가 호무 대관람차?",
+			null,
+			null,
+			"Bronya! Look, it's a Ferris wheel!",
+			"Is that the Hom Giant Ferris Wheel?"
+		],
+		[
+			"msg",
+			300742,
+			"That was the most famous attraction of Nagazora. The name's HOMU's Eye. 300 meters tall, the tallest wheel in the world. It rotates at...",
+			"嗯，那是长空市的吼姆乐园里最著名的景点吼姆摩天轮，高达三百米，是世界上最高的摩天轮。它的转速为……",
+			"——長空市のホム楽園で、もっとも有名なのがホム大観覧車です。その高さは300ｍと世界一です。回転速度は……。",
+			"——장공시의 호무 낙원에서 가장 유명한 것이 호무 대관람차입니다. 그 높이는 300m로 세계 최고입니다. 회전 속도는.......",
+			"That's the most famous attraction in HOMU Paradise in Nagazora City, the HOMU's eye. It is 300 meters tall, the highest in the world. It rotates at...",
+			null,
+			"Well, that's the most famous attraction in Howlum Land in Nagasu City, the Howlum Ferris Wheel, which is 300 meters high and the tallest Ferris wheel in the world. It rotates at ......",
+			"--The most famous attraction at the Hom Paradise in Chang Kuo-shi is the Hom Giant Ferris Wheel. Its height is 300 meters, the highest in the world. The rotating speed is ......."
+		],
+		[
+			"msg",
+			300743,
+			"Bronya, you are really interested in that place, aren't you?",
+			"布洛妮娅，你很在意那个地方么？",
+			"ブローニャちゃん、どうしたの？",
+			"브로냐, 어떻게 된 거야?",
+			"Bronya, you're really interested in that place, aren't you?",
+			null,
+			"Bronya, do you care about that place?",
+			"Bronya, what's wrong?"
+		],
+		[
+			"msg",
+			300744,
+			"Yes... And I was just explaining to you how marvelous HOMU's Eye is.",
+			"在意…布洛妮娅只是想介绍吼姆摩天轮的伟大。",
+			"ブローニャはホム大観覧車を紹介しています。",
+			"브로냐가 호무 대관람차를 소개하고 있습니다.",
+			"Bronya was simply explaining the greatness of the HOMU's eye. (TN: Bronya is talking in third person here, like she does in Honkai Impact 3rd)",
+			null,
+			"On purpose...Bronya just wanted to introduce the greatness of the Howlum Ferris wheel.",
+			"Bronya introduces the Hom Giant Ferris Wheel."
+		],
+		[
+			"msg",
+			300745,
+			"Perhaps Bronya is just learning how to express her feelings. She's showing how much she likes the Ferris wheel by describing it to us.",
+			"嗯，可能这正是布洛妮娅在学习如何表达自己的想法哦~通过解说那个摩天轮，表达自己对那处地方的向往。",
+			"——ふふっ、そうね。ブローニャちゃんなりに気持ちを表現しているんじゃないかしら。解説をすることで気になっていること伝えたいんだと思う。",
+			"——후후, 그래. 브로냐 나름대로 마음을 표현하고 있는 게 아닐까. 설명을 통해 신경 쓰이는 걸 전하고 싶은 거라고 생각해.",
+			"—I guess this is how she's learning how to express her feelings. She's trying to convey how much she likes that ferris wheel by giving us an explanation.",
+			null,
+			"Well, maybe this is exactly how Bronya is learning how to express herself oh ~ by explaining that Ferris wheel, expressing her yearning for that place.",
+			"--I guess she's expressing her feelings. I think Bronya is expressing her feelings in her own way. I think she wants to convey what is on her mind by giving an explanation."
+		],
+		[
+			"msg",
+			300746,
+			"You want to go check it out, Bronya?",
+			"布洛妮娅想去那边看看吗？",
+			"ブローニャちゃん、行ってみたい？",
+			"브로냐, 가 보고 싶어?",
+			"Bronya, would you like to go and check it out?",
+			null,
+			"Does Bronya want to go over there and check it out?",
+			"Bronya, would you like to go?"
+		],
+		[
+			"msg",
+			300747,
+			"...Yes!",
+			"……想！",
+			"……はい！",
+			"......네!",
+			null,
+			null,
+			"...... wants!",
+			"...... Yes!"
+		],
+		[
+			"msg",
+			300748,
+			"Then let's go ride it! A reward for Bronya trying to express herself!",
+			"那我们就去坐吼姆摩天轮吧，就当做是对布洛妮娅表达自己想法的奖励~",
+			"じゃあ、ホム大観覧車に行きましょう。ブローニャちゃんが自分の考えを口にしたご褒美よ。",
+			"그럼 호무 대관람차에 가자. 브로냐이 자기 생각을 말한 보상이야.",
+			"Then let's go ride the HOMU's Eye. It's your reward for expressing your thoughts.",
+			null,
+			"Then let's go ride the Howlum Ferris wheel as a reward for Bronya for expressing her thoughts ~",
+			"Then let's go to the Hom Giant Ferris Wheel. It's your reward for speaking your mind, Bronya."
+		],
+		[
+			"msg",
+			300749,
+			"Thank you...",
+			"嗯…谢谢你…",
+			"はい！",
+			"네!",
+			null,
+			null,
+			"Well...thank you...",
+			"Yes!"
+		],
+		[
+			"msg",
+			300750,
+			"Mei.",
+			"芽衣姐姐。",
+			"芽衣姉様。",
+			"메이 언니.",
+			null,
+			null,
+			"Meiko-san.",
+			"Sister Mei."
+		],
+		[
+			"msg",
+			300751,
+			"Well...",
+			"呐…",
+			"その……。",
+			"그......",
+			null,
+			null,
+			"Na...",
+			"Its ......."
+		],
+		[
+			"msg",
+			300752,
+			"Are you coming with us?",
+			"你也要一起来么？",
+			"ありがとうございます。",
+			"감사합니다.",
+			null,
+			null,
+			"Do you want to come along too?",
+			"Thank you very much."
+		],
+		[
+			"bg",
+			"CG10098"
+		],
+		[
+			"msg",
+			300753,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300754,
+			"Hey! What's wrong with you? Come on! Don't stand there!",
+			"喂！你怎么了，不要傻站着，快跟上~",
+			"ねえ！どうしたの、ボーっと立ちつくして。早く行こうよ～！",
+			"있잖아! 왜 그래, 멍하니 서 있기만 하고. 빨리 가자~!",
+			"Hey, what's the matter? Why are you standing there staring off into space? C'mon, let's go!",
+			null,
+			"Hey! What's wrong with you? Don't just stand there, keep up!",
+			"Hey! What's the matter, you're standing there in a daze. Let's go, let's go, let's go!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300755,
+			"You describe what you just saw.",
+			"将刚才看到的景象述说了一遍。",
+			"今、知らない場面が頭の中に……。芽衣先輩と……。",
+			"지금, 낯선 장면이 머릿속에……. 메이 선배와…….",
+			"I saw a scene in my head that I don't recognize... With Mei...",
+			null,
+			"Recounted the sight he just saw.",
+			"I have an unknown scene in my head right now: ....... Mei senior and ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			300756,
+			"Mei? But how...",
+			"芽衣姐姐？怎么会……",
+			"芽衣……お姉ちゃん？まさか……！",
+			"메이…… 언니? 설마……!",
+			"Mei……? But how...!",
+			null,
+			"Meiko-san? How can ......",
+			"Mei ...... sister? No way ......!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			300757,
+			"Tell me! Tell me where is she!",
+			"快告诉我，你是在哪看到她的！",
+			"教えてください。どこで彼女を見たんですか！",
+			"알려주세요. 어디서 그녀를 봤어요!",
+			"Please tell me. Where did you see her!",
+			null,
+			"Come on, tell me where you saw her!",
+			"Please tell us. Where did you see her!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			300758,
+			"Bronya! Chill out!",
+			"布洛妮娅姐姐！请冷静一些！",
+			"ブローニャお姉ちゃん！落ち着いて！",
+			"브로냐 언니! 진정해!",
+			"Bronya! Calm down!",
+			null,
+			"Sister Bronya! Please be calm!",
+			"Bronya! Calm down!"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			300759,
+			"Just as I thought. Mei is still alive... I must find her!",
+			"芽衣姐姐果然还活着…我要去找她！",
+			"芽衣姉様が生きている……探さないといけません！",
+			"메이 언님이 살아있다…… 찾아야 해요!",
+			null,
+			null,
+			"My sister Meiko is really alive...I'm going to find her!",
+			"We need to find ...... where sister Mei is still alive!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			300760,
+			"Bronya! Where are you going?",
+			"姐姐大人你要去哪！",
+			"お姉ちゃんどこ行くの！",
+			"언니 어디 가는 거야!",
+			"Bronya! Where are you going!?",
+			null,
+			"Sister-sama where are you going!",
+			"Where are you going, sis?"
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			300761,
+			"Let me go, Seele!",
+			"放开我，希儿！",
+			"離してくださいゼーレ！",
+			"놔주세요제레!",
+			"Let go of me, Seele!",
+			null,
+			"Let go of me, Hill!",
+			"Let go of me, Seele!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			300762,
+			"You said our task is the most important! And it's too dangerous to go alone! We are too close to those pests' nest!",
+			"我们现在有更重要的任务要做！既然这里是那些虫子的老巢单独行动是十分危险的！",
+			"ダメだよ！私たちは今大事な任務中なんだよ！ここはあの虫の巣なのかもしれないし、単独行動は危険だよ！",
+			"안 돼! 우리 지금 중요한 임무 중이야! 여기가 그 벌레들의 둥지일 수도 있는데 혼자 행동하면 위험해!",
+			"No, you can't just run off! We're on an important mission! We might be near the insect hive, it's not safe to go alone!",
+			null,
+			"We have more important tasks to do now! Since this is the lair of those bugs it is very dangerous to act alone!",
+			"No, you can't! We're on an important mission! This may be that bug's nest, and it's not safe to go alone!"
+		],
+		[
+			"msg",
+			300763,
+			"If Mei is really here, we just need to look for her carefully during our investigation. Please, Bronya, do not rush headlong into any danger.",
+			"如果芽衣姐姐在这边的话，我们在调查的时候也仔细搜索一下吧，姐姐大人请不要意气用事。",
+			"もし芽衣お姉ちゃんがここにいるなら、調査の時にしっかり探しましょう。らしくないよ。感情的にならないで。",
+			"메이 언니가 여기 있다면 조사할 때 제대로 찾아보자구. 평소답지 않네. 감정적으로 흐르지 말자.",
+			"If your sister Mei is here, let's make sure to look for her during the investigation. Don't let your emotions get the better of you and run headfirst into danger.",
+			null,
+			"If Meiko-san is over here, let's also search carefully during the investigation, sister-sama please don't be impulsive.",
+			"If your sister Mei is here, let's make sure to look for her during the investigation. It's not like that. Don't get emotional."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			300764,
+			"Sorry.",
+			"……抱歉。",
+			"……すみません。",
+			"……죄송합니다.",
+			null,
+			null,
+			"...... Sorry.",
+			"Sorry ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				60,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			300765,
+			"Perhaps she actually has been here at HOMU Paradise before. That's why she just remembered something. And that explains what she saw.",
+			"我想，可能是因为她之前来过这个吼姆乐园，所以记忆短暂恢复了一些所以才看到那样的景象吧。",
+			"きっと、このホム楽園にむかし来たことがあるから、記憶が一時的に回復して光景がフラッシュバックしただけなんじゃないかな。",
+			"분명 이 호무 낙원에 예전에 와 본 적이 있어서 기억이 일시적으로 회복되며 장면이 플래시백한 것뿐이 아닐까요.",
+			null,
+			null,
+			"I think it may be because she had been to this Howlam Land before, so her memory was briefly restored so she saw that scene.",
+			"I'm sure I've been to this homely paradise once upon a time, so my memory must have just temporarily recovered and I had a flashback to the scene."
+		],
+		[
+			"speaker",
+			204620
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				true
+			],
+			[
+				60,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			300766,
+			"Maybe... Let's keep moving.",
+			"或许吧…我们继续前进吧。",
+			"はい、そうですね……。取り乱してしまいすみませんでした……前に進みましょう。",
+			"네, 그렇네요……. 흥분해서 죄송했어요…… 계속 전진하죠.",
+			null,
+			null,
+			"Maybe...let's move on.",
+			"Yes, you are right, ....... Sorry for the distraction. ...... Let's move forward."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				60,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			300767,
+			"Right... Let's go.",
+			"嗯…走吧~",
+			"うん……行こう。",
+			"응…… 가자.",
+			null,
+			null,
+			"Well...let's go~",
+			"Yeah ...... let's go."
+		]
+	]
+}

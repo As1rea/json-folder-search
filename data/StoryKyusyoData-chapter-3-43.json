@@ -1,0 +1,638 @@
+{
+	"1148": [
+		[
+			"speaker",
+			204614
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306164,
+			"Oh, you're back. What a good timing, I need your help.",
+			"啊…你回来啦。来的正好，我有一件事情想要拜托你。",
+			"あ……おかえり。ちょうどいいところに来たわ。一つお願いがあるの。",
+			"아...... 돌아왔구나. 마침 잘 왔어. 부탁 하나가 있는데.",
+			null,
+			null,
+			"Ah...you're back. Just in time, I have something I want to ask you.",
+			"Ah ...... welcome back. You've come to the right place. I have one favor to ask."
+		],
+		[
+			"msg",
+			306165,
+			"There are unfortunately no chips found in the scraps brought back by the stormtroopers...",
+			"之前突击队带回来的机甲残骸中，很遗憾并没有找到数控芯片……",
+			"実は、この前突撃隊が持ち帰ってくれた機甲の残骸にCNCチップがなかったの……。",
+			"사실, 이전에 돌격대가 가져다 준 기갑 잔해에 CNC 칩이 없었어......",
+			null,
+			null,
+			"Previously the raid team brought back the remains of the mech, unfortunately did not find the CNC chip ......",
+			"In fact, there was no CNC chip in the wreckage of the aircraft that the last assault team brought back to us. ......"
+		],
+		[
+			"msg",
+			306166,
+			"It doesn't mean all the work is in vain though. I found a black box that seems to be used to store mecha data. I've done a bit of research of it's structure.",
+			"不过倒也不是没有收获，我找到了一个似乎是用来存储机甲数据的黑匣子，并且对它的构造进行的研究。",
+			"でも、収穫がなかったわけじゃないわ。機甲のデータを保存しているブラックボックスを見つけたの。これには重要なデータが入ってるからね、構造を調べてたんだけど……。",
+			"하지만, 수확이 없었던 건 아니야. 기갑의 데이터를 저장하고 있는 블랙박스를 찾았거든. 여기엔 중요한 데이터가 들어있으니까, 구조를 조사하고 있었는데......",
+			null,
+			null,
+			"But it was not without its rewards. I found a black box that seemed to be used to store mech data, and studied its construction.",
+			"But that doesn't mean we didn't have our pickings. I found a black box that stores data on the armor. This has important data in it, so I was examining its structure. ......"
+		],
+		[
+			"msg",
+			306167,
+			"However, it's a shame that although the black box is preserved quite well, the data it contains are damaged... No, I shouldn't use the word damage. Something has corrupted the data to be exact. So now we able to read the full data.",
+			"但是可惜的是，虽然那个黑匣子保存还算完好，可是里面的数据还是被破坏了…不对，或许用破坏这个词不是那么贴切…准确的说是被某种杂质污染了一般无法完全读取信息。",
+			"ブラックボックスの状態が完全じゃなくて、中のデータが破損してて……いえ、破損という言葉は適切じゃないわね……正確に言えば不純物に汚染されていて、情報を全て読み取れなかったの。",
+			"블랙박스 상태가 완전하지 않아서, 안의 데이터가 손상되어서…… 아니, 손상이라는 표현은 적절하지 않네…… 정확히 말하면 불순물에 오염되어 있어서, 정보를 모두 읽어내지 못했어.",
+			null,
+			null,
+			"But unfortunately, although the black box is still well preserved, but the data inside is still destroyed ... no, perhaps the word destroyed is not so apt ... accurately said that is some kind of impurities contaminated general can not fully read the information.",
+			"The black box was not in perfect condition, the data inside was corrupted ...... no, corrupted is not the right word ...... to be precise, it was contaminated with impurities and all the information I couldn't read all the information."
+		],
+		[
+			"msg",
+			306168,
+			"If I am correct, the black box is used to record the real-time data of mecha during battles. It is a storing tool that analyses the combat data and condition of the mecha.",
+			"我猜的没错的话这个黑匣子的作用应该是记录机甲兵器作战时的实时数据情报，用来分析战斗数据与机甲状态的存储工具。",
+			"私の推測が正しければ、このブラックボックスの役目は機甲兵器の戦闘データをリアルタイムで記録すること。そして、戦闘データと機甲の状態を分析するために使われていたストレージ。",
+			"내 추측이 맞다면, 이 블랙박스의 역할은 기갑 병기의 전투 데이터를 실시간으로 기록하는 거야. 그리고 전투 데이터와 기갑의 상태를 분석하기 위해 사용되던 스토리지.",
+			null,
+			null,
+			"My guess is correct if the role of this black box should be to record real-time data intelligence when the mech armament in combat, used to analyze combat data and mech status storage tool.",
+			"If my guess is correct, the role of this black box was to record combat data of armored weapons in real time. And the storage used to analyze the combat data and the condition of the armored weapons."
+		],
+		[
+			"msg",
+			306169,
+			"If we can have full access to the data, we might find out what went wrong. Analysing the numerical control chip is the fastest solution, but this is another feasible method.",
+			"如果我们能破解出里面的数据的话，或许就能找出是哪里出了问题，虽然没有数控芯片来德直接，但是也不失为一种方法。",
+			"もし、中のデータを解読できれば、どこに問題があるのか見つかるはずだわ。CNCチップほど直接的ではないけど、十分効果的な方法よ。",
+			"만약, 안의 데이터를 해독할 수 있다면, 어디에 문제가 있는지 찾을 수 있을 거야. CNC 칩만큼 직접적이진 않지만, 충분히 효과적인 방법이지.",
+			null,
+			null,
+			"If we can crack out the data inside, we may be able to find out what went wrong, although there is no CNC chip to de direct, but it is not a lost method.",
+			"If we can decrypt the data inside, we can find out where the problem is...not as direct as the CNC chip, but effective enough."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306170,
+			"Therefore, could you please find some more black boxes for me? Theoretically every mecha has one... Seele was too violent in the fight, and destroyed many black boxes...",
+			"所以我希望你能再帮我找回一些黑匣子回来，理论上每台机甲都会搭载这样的装置…只是希儿那家伙的战斗太暴力了，所以大部分的黑匣子都被她切碎了……",
+			"だから、今度はブラックボックスを持ち帰ってきてほしいの。もちろんCNCチップがあるに越したことはないけど……。理論上、どの機甲にもブラックボックスは搭載されてるはずだから。",
+			"그래서, 이번엔 블랙박스를 가져와 달란 말이야. 물론 CNC 칩이 있다면 더 좋지만…… 이론상, 어떤 기갑에도 블랙박스는 탑재되어 있을 테니까.",
+			null,
+			null,
+			"So I hope you can help me retrieve some more black boxes back, theoretically every mech will carry such a device...it's just that that guy Hill's fighting is too violent, so most of the black boxes are shredded by her ......",
+			"So now I need you to bring back the black box. Of course, there should be a CNC chip, but ....... Theoretically, every aircraft should have a black box on board."
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306171,
+			"So please be cautious when fight those mecha and try not to break them into pieces of scraps...",
+			"因此麻烦接下来和机甲兵器战斗的时候请尽量小心一些…不要把它们打的那么稀巴烂就行了……",
+			"ゼーレったら戦い方が乱暴だから、この間のブラックボックスはほとんど切り刻まれちゃってて……。だから、あなたが機甲兵器と戦うときはちょっとだけ気をつけてほしいの……あんまり木っ端微塵にしないように……。",
+			"제레 녀석은 싸우는 방식이 난폭해서, 지난번 블랙박스는 거의 걸레짝이 되어버렸더라고……. 그러니까, 네가 기갑 병기와 싸울 때는 조금만 조심해줘…… 너무 조각조각 내버리지 않도록…….",
+			null,
+			null,
+			"So please try to be more careful when fighting with mecha weapons next...don't beat them so badly on ......",
+			"Seele is so violent in the way he fights that the black box was almost completely chopped up during the last ....... So I just want you to be a little bit careful when you fight with armored weapons so you don't chop ...... too many pieces of wood."
+		],
+		[
+			"msg",
+			306172,
+			"And that's it... I am counting on you.",
+			"嗯，就是这样…那么拜托你了。",
+			"引き受けてくれるの？ありがと。じゃあ、お願いするわね。",
+			"맡아주는 거야? 고마워. 그럼, 부탁할게.",
+			null,
+			null,
+			"Well, that's it...so please.",
+			"Will you take care of it? Thanks. Well, I'll be counting on you."
+		]
+	],
+	"1149": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10108"
+		],
+		[
+			"portraits",
+			[
+				59,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306173,
+			"Another wave of mecha! Bring it on!",
+			"下一批机甲兵器出现了，我们上！看我不把你们切成碎片！",
+			"次の機甲兵器が現れた。行くよ！木っ端微塵にしてやるわ！",
+			"다음 기갑 병기가 나타났어. 간다! 산산조각 내버릴 거야!",
+			null,
+			null,
+			"The next batch of Mecha-weapons have appeared, let's go! See if I don't cut you into pieces!",
+			"The next armored weapon appears. Let's go! I'm going to smash you to pieces!"
+		],
+		[
+			"choice",
+			[
+				306573,
+				"Seele, leave these to me.",
+				"希儿，这些交给我。",
+				"ゼーレ、ここは私に任せて。",
+				"제레, 여기는 나에게 맡겨.",
+				null
+			],
+			[
+				306574,
+				"Seele, please don't go too hard on me.",
+				"希儿，手下留情。",
+				"ゼーレ、お手柔らかにね。",
+				"제레, 손 좀 부드럽게 해줘.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1150,
+			1151
+		]
+	],
+	"1150": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10108"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306174,
+			"Huh, you? I can see your passion. Alright, I'll leave it to you!",
+			"唔…交给你么？看来你也对战斗充满了热情呢~好吧！这里就交给你了！",
+			"え……任せろって？やる気満々ね～！オッケー、ここは任せるわ！",
+			"어…… 맡겨라구? 의욕이 넘치는구나~! 오케이, 여긴 맡길게!",
+			null,
+			null,
+			"Well...to you? You seem to be passionate about fighting too~ Okay! I'll leave it to you!",
+			"What, you want me to ...... take care of it? You're so motivated! Okay, I'll leave it to you!"
+		]
+	],
+	"1151": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10108"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306175,
+			"Huh? Have mercy? You are sympathetic about the scraps? I know it costs a lot to build one! But it is worthless nowadays! Just go all out!",
+			"诶！？手下留情？你该不是心疼这些铁疙瘩吧！虽然感觉一台的造价是很贵！但是在这个时代已经卖不了钱啦！所以放手干吧~",
+			"え、お手柔らかに？こんな鉄クズに同情してる場合じゃないでしょ！そりゃ製造費は高そうだけど、今の時代に売ってもお金にならないし……跡形もなく思う存分やりましょ！",
+			"엥, 살살 하라고? 이런 철 잡동사니에 동정할 상황이 아니잖아! 뭐 제조비는 비쌀 것 같지만, 요즘 시대에 팔아도 돈이 안 되고…… 흔적도 없이 마음껏 해버리자!",
+			null,
+			null,
+			"Eh! Showing mercy? You're not hurting for these iron lumps, are you? Although it feels like the cost of one is very expensive! But in this day and age, it doesn't sell! So let's do it!",
+			"Oh, you're soft on me? This is no time to feel sorry for these iron scraps! That may be expensive to manufacture, but there's no money to be made selling it in this day and age. ...... Let's do it as long as we want without leaving any trace!"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306176,
+			"Hmm, you said you have a reason for that? Okay, as you like.",
+			"唔…你说这是有原因…好吧，既然如此就听你的吧~",
+			"え……理由があるの？……分かった、それなら言う通りにするわ。",
+			"어…… 이유가 있다고?…… 알았어, 그럼 말한 대로 할게.",
+			null,
+			null,
+			"Well...you said there was a reason...well, in that case let's listen to you~",
+			"What, ...... is there a reason? ...... Okay, I'll do what you say then."
+		]
+	],
+	"1152": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10108"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306177,
+			"The battle is over. Everyone move on.",
+			"战斗结束，大家继续前进吧~",
+			"戦闘終了、みんな引き続き前進～！",
+			"전투 종료, 모두 계속 전진~!",
+			null,
+			null,
+			"The battle is over, let's move on ~",
+			"The battle is over, everyone continues to advance~!"
+		],
+		[
+			"msg",
+			306178,
+			"What are you looking for? You're helping Yssring forage for parts again? That Yssring, asking for chips and then boxes. We don't have excessive time to play with her, you know...",
+			"唔…你在找什么？难道又是给伊瑟琳捡零件么？伊瑟琳真是的，一会要芯片一会要盒子的，我们可没有那么多时间陪她……",
+			"あれ……何探してるの？へぇ～またイザーリンのためにパーツ拾ってるんだ。イザーリンったらまったく、チップが欲しいとかボックスが欲しいとか。こっちだって付き合ってる暇ないのに……。",
+			"어라...... 뭐 찾고 있는 거야? 헤에~ 또 이자린을 위해 파츠 주우러 다니는구나. 이자린이라니까, 칩을 원한다던가 박스를 원한다던가. 쪽도 같이 있어 줄 시간 없는데......。",
+			null,
+			null,
+			"Well...what are you looking for? Is it to pick up parts for Estherine again? Estherine really, one moment to chip and then to box, we do not have so much time for her ......",
+			"That ...... what are you looking for? Heh - I'm picking up parts for Estherine again. Estherine is always asking for chips and boxes. I don't have time to deal with him either. ......"
+		],
+		[
+			"msg",
+			306179,
+			"Come one, don't show a sorry face, I am not blaming you. Just to think that Bronya might still be in danger, I am getting impatient...",
+			"好吧…你也不要这种为难的表情啦，我也没有怪你，只是想到姐姐大人也许还在危险中就忍不住心急起来了……",
+			"あっ、ごめん……そんな困った顔しないで、あなたを責めてるわけじゃないから。ただ、今はお姉ちゃんが危険かもしれないと思うと、焦っちゃって……。",
+			"앗, 미안...... 그런 곤란한 얼굴 하지 마, 너를 탓하는 게 아니니까. 단지, 지금은 언니가 위험할지도 모른다고 생각하면, 초조해져서......。",
+			null,
+			null,
+			"Well ... you also do not have such a difficult expression, I do not blame you, just the thought that the sister may still be in danger can not help but be anxious ......",
+			"Oh, I'm sorry ...... don't look so troubled, I'm not blaming you. It's just that right now I'm in a hurry because I think my sister might be in danger. ......"
+		],
+		[
+			"msg",
+			306180,
+			"Everyone unites and fight closely. We should also become the power of the others too.",
+			"现在大家都在齐心协力一同作战，我们也得成为别人的力量才行呢~",
+			"みんなが力を合わせて戦ってるんだもんね。こっちも誰かの力にならなきゃね！",
+			"다함께 힘을 합쳐 싸우고 있는 거니까. 쪽도 누군가의 힘이 되어야지!",
+			null,
+			null,
+			"Now that we are all fighting together, we need to be a force for others to be able to ~",
+			"Everyone is fighting together, right? We have to help someone too!"
+		],
+		[
+			"msg",
+			306181,
+			"Let's go and bring those remains back.",
+			"走吧，把这些残骸搬回去吧。",
+			"行こう、この残骸を持って帰りましょ。",
+			"가자, 이 잔해를 가지고 돌아가자.",
+			null,
+			null,
+			"Let's go, let's move these wrecks back.",
+			"Let's go. Let's take this wreckage with us."
+		]
+	],
+	"1153": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10133"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			306182,
+			"Yssring, here's the scraps you ordered. Just tell me if you need parts or gears. Don't bother the others.",
+			"伊瑟琳，你要的机甲残骸给你带回了。真是的，还要零件就直说嘛，不要让别人偷偷收集啦~",
+			"イザーリン、欲しがってた機甲の残骸を持って来たよ！まったくもう、まだパーツが欲しかったんならはっきり言ってくれればいいのに。私を差し置いて、他の人にこっそり頼むなんて。",
+			"이자린, 원하던 기갑의 잔해를 가져왔어! 정말, 아직 파츠가 필요했으면 말을 해주면 되잖아. 나를 제쳐두고 다른 사람에게 몰래 부탁하다니.",
+			null,
+			null,
+			"Iceline, you want the mech wreckage to bring you back. Really, if you want parts, just say so, do not let others secretly collect it ~",
+			"Estherine, I've got the remnants of the armor you wanted! Oh my God, if you still wanted the parts, why didn't you just say so? You should have made it clear if you still wanted the parts, and not asked someone else to sneak them to me."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306183,
+			"No, I didn't want you to know...",
+			"不…主要是不能让你知道……",
+			"いえ……あなたに知られたくなかっただけ……。",
+			"아니...... 당신에게 알려지고 싶지 않았을 뿐......。",
+			null,
+			null,
+			"No...mainly because I can't let you know ......",
+			"No ...... I just didn't want you to know. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			306184,
+			"Huh? Why?",
+			"嗯？为什么？",
+			"ん？何か言った？",
+			"응? 뭐라고 했어?",
+			null,
+			null,
+			"Hmm? Why?",
+			"Hmm? What did you say?"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306185,
+			"Nothing, hopefully this black box is intact...",
+			"没什么，希望这次我想要的黑匣子没有缺胳膊少腿……",
+			"何でもないわ。今回のブラックボックスは悲惨な姿になってなきゃいいけど……。",
+			"아무것도 아냐. 이번 블랙 박스가 비참한 모습이 되지 않았으면 좋겠지만......。",
+			null,
+			null,
+			"Nothing, I hope this time I want the black box is not missing arms and legs ......",
+			"It's nothing. I hope the black box doesn't look disastrous this time. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				54,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			306186,
+			"Black box? You mean this one? Isn't it the switch of the mecha? We only need to break it to stop the mecha.",
+			"黑匣子？是这个像盒子一样的东西么？这个不是机甲兵器的控制机关么？在和机甲兵器战斗的时候只要破坏这里机甲就会失去行动力。",
+			"ブラックボックス？この箱みたいなやつが？これってCNCチップと違って制御機関じゃないでしょ？ここを破壊すると機甲って行動力を失うのよね～。",
+			"블랙 박스? 이 상자 같은 게? 이건 CNC 칩과 달리 제어 기관이 아니잖아? 여기를 파괴하면 기갑은 기동력을 잃는 거지~.",
+			null,
+			null,
+			"The black box? Is it this box-like thing? Isn't this the control mechanism of the mecha weapon? When fighting with the mecha weapon just destroy here mecha will be out of action.",
+			"A black box? This thing that looks like a box? This isn't a control engine unlike the CNC chip, right? If you destroy this place, armor loses its power of action~."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			306187,
+			"Now I know why there was only one that survived the battle...",
+			"……所以之前带回来的残骸里才只有一个幸存的么。",
+			"……だから、前に持ち帰ってくれた残骸で無事なのは1つしかなかったわけね。",
+			"……그러니까, 전에 가져다 준 잔해 중에 무사한 건 하나밖에 없었던 거네.",
+			null,
+			null,
+			"...... so the wreckage brought back before only one survived it.",
+			"So ......, so there was only one safe remnant that you brought back from the previous one."
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				54,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			306188,
+			"Ah, I found it.",
+			"啊…找到了。",
+			"あ……あった。",
+			"아…… 있었어.",
+			null,
+			null,
+			"Ah...found it.",
+			"Oh, there was ......."
+		],
+		[
+			"msg",
+			306189,
+			"Seems that there are pretty much data stored. It is enough to get some useful info.",
+			"看来这次保存下来的数量还是挺多的，有这么多的话应该可以找到一些情报了。",
+			"どうやら今回はかなりのデータを確認できそうね。これだけあれば何らかの情報が見つかるはず。",
+			"이번에는 꽤 많은 데이터를 확인할 수 있을 것 같네. 이 정도면 뭔가 정보를 찾을 수 있을 거야.",
+			null,
+			null,
+			"It seems that the number of saved this time is still quite large, there should be able to find some information if there are so many.",
+			"Looks like we have quite a bit of data to review this time around. With this much data, we should be able to find some information."
+		],
+		[
+			"msg",
+			306190,
+			"You have my gratitude. I will decode the data asap and look for a way to shut down the mecha.",
+			"辛苦你们了，我会尽快解读出里面的数据内容，找到关闭机甲兵器的方法。",
+			"お疲れ様、できるだけ早く中のデータを解読して、機甲兵器を止める方法を見つけるわ。",
+			"수고했어, 가능한 한 빨리 안의 데이터를 해독해서 기갑 병기를 멈출 방법을 찾을게.",
+			null,
+			null,
+			"I will decipher the data content inside as soon as possible and find a way to shut down the mecha weapon.",
+			"Thanks for your help, I'll try to decrypt the data inside as soon as possible and find a way to stop the armored weapon."
+		],
+		[
+			"msg",
+			306191,
+			"If you find any other things special, please give them to me. Anything but living Houkai beasts...",
+			"如果在后面的战斗中发现其他可疑的东西也请交给我吧，只要不是活的崩坏生物就行……",
+			"今後の戦闘で他にもあやしいものを発見したら私にちょうだい。ただし、生きた崩壊生物以外ね……。",
+			"앞으로의 전투에서 다른 수상한 걸 발견하면 나한테 줘. 다만, 살아있는 붕괴 생물은 제외하고…….",
+			null,
+			null,
+			"If you find other suspicious things in the battle later on, please give them to me too, as long as they are not live collapsed creatures ......",
+			"If you find anything else that looks fishy in future battles, give it to me. But only if it's not a living disintegrating organism. ......"
+		]
+	]
+}

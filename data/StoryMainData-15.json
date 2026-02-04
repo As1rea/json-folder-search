@@ -1,0 +1,7058 @@
+{
+	"150": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253550,
+			"The whole way is blocked…Damn! How come there are so manny troops!",
+			"这条道路都被封锁了么…可恶！怎么会忽然出现这么多的守备部队！",
+			"この道も封鎖されてる……もうッ！どうしていきなり天命の奴らが、こうわらわらと出てくるのよ！",
+			"이 길도 봉쇄돼 있잖아... 젠장! 왜 갑자기 천명 놈들이 이렇게 우글우글 나오는 거야!",
+			null,
+			null,
+			"Is this road blocked?...damn it! How could so many guards suddenly appear!",
+			"This road is also blocked. ...... Oh my God! Why are these Schicksal guys suddenly coming out of the woodwork like this?"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253551,
+			"Sorry, it's all because of me……",
+			"抱歉，都是因为我才……",
+			"ごめんなさい、全てあたくしのせいで……。",
+			"미안해요, 전부 제 탓이에요......",
+			null,
+			null,
+			"Sorry, it's all because of me ......",
+			"Sorry, it's all my fault. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253552,
+			"So let me distract them, and you can get out!",
+			"既然这样的话就由我去引开那些部队，你们趁机冲过去！",
+			"こうなったら、私があの部隊を引き離すから、その隙に突破して！",
+			"이렇게 된 바엔, 제가 그 부대를 유인할 테니 그 틈에 돌파해!",
+			null,
+			null,
+			"In that case I'll distract the troops, and you guys take the opportunity to rush through!",
+			"If this happens, I'll draw that unit away from you and you'll break through!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253553,
+			"Kiana, don't rush, there must be another way.",
+			"琪亚娜，不要着急，一定还有别的办法。",
+			"キアナちゃん、焦って判断を見誤らないで！きっと、他にもっと良い方法があるはずだわ。",
+			"키아나, 성급하게 판단을 그르치지 마! 분명 더 좋은 방법이 있을 거야.",
+			null,
+			null,
+			"Kiana, don't worry, there must be another way.",
+			"Kiana, don't be in such a hurry to misjudge! Surely there must be a better way."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253554,
+			"I have a plan, if we can intrude into the Shicksal defense system, we can probably disrupt their defense deployments.",
+			"布洛妮娅有一个方案，如果可以入侵到天命的防御系统中，或许可以打乱他们的防御部署。",
+			"ブローニャに考えがあります。天命の防御システムに侵入できれば、防衛部隊の配置をかく乱できるかもしれません。",
+			"브로냐에게 생각이 있어. 천명의 방어 시스템에 침입할 수 있다면, 방어 부대의 배치를 교란할 수 있을지도 몰라.",
+			null,
+			null,
+			"Bronya had a plan, if she could hack into Schicksal's defenses, she might be able to disrupt their defense deployment.",
+			"Bronya has an idea. If we can penetrate Schicksal's defense system, we may be able to disrupt the deployment of the defense forces."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				1,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253555,
+			"Intrude the system…can you even do that?",
+			"侵入系统…你连这种事情都做得到么？",
+			"システムに侵入……？あなた、そんなことまでできるの？",
+			"시스템에 침입...? 너, 그런 것까지 할 수 있어?",
+			null,
+			null,
+			"Hacking into the system...can you even do such a thing?",
+			"Hacking into the system ......? You, you can even do that?"
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253556,
+			"Before Cocolia mentioned that you have your spies in the Shicksal…is this information also from them?",
+			"之前会议的时候可可利亚说过天命有你们的眼线…难道这也是那个眼线的情报么？",
+			"この前の会議でカカリアが天命にスパイを忍ばせてるって言ってたけど……それもそのスパイの情報なの？",
+			"이전 회의에서 쿠쿠리아가 천명에 스파이를 숨겨뒀다고 말했었는데... 그것도 그 스파이의 정보인 거야?",
+			null,
+			null,
+			"During the previous meeting Cocolia said that Schicksal has your eyes...could this be information from that eyes as well?",
+			"At the last meeting you said that Cocolia has a spy in Schicksal. ...... Is that also information from that spy?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253557,
+			"Sorry, I can't tell.",
+			"抱歉，无可奉告。",
+			"申し訳ありません。教えられません。",
+			"죄송합니다. 말씀드릴 수 없습니다.",
+			null,
+			null,
+			"Sorry, no comment.",
+			"I am sorry. I cannot tell you."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253558,
+			"Anti-Entropy is much more formidable than I imgained…Even I have no plan to go back to the Shicksal, but I would be scared by have an enemy like you.",
+			"逆熵果然比预想中的可怕呢…虽然现在我已经不打算再回到天命，但如果是敌人的话真是要捏一把冷汗了。",
+			"ネゲントロピーって、やっぱり想像以上に恐ろしいところね……今はもう天命に戻るつもりはないけど、敵だったらと思うと冷や汗が出るわ。",
+			"네겐트로피란, 역시 상상 이상으로 무서운 곳이네... 지금은 더 이상 천명으로 돌아갈 생각은 없지만, 적이었다고 생각하면 식은땀이 나.",
+			null,
+			null,
+			"Anti-Entropy is really scarier than expected... Even though I don't intend to go back to Schicksal now, it's really going to be a cold sweat if it's an enemy.",
+			"Anti-Entropy is still the scariest place imaginable. ...... I'm not going back to Schicksal now, but I'd break out in a cold sweat if it were an enemy."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253559,
+			"Based on the map, there is an access port around here, you wait here, and don't move.",
+			"根据地图显示，这个附近就有一个接入端口，你们在这里等着，不要轻举妄动。",
+			"地図情報によれば、この付近に接続ポートがあります。あなた方はここで待っていてください。無闇に動くと危険を招きます。",
+			"지도 정보에 따르면, 이 근처에 연결 포트가 있습니다. 여러분은 여기서 기다려 주세요. 함부로 움직이면 위험을 초래할 수 있습니다.",
+			null,
+			null,
+			"According to the map, there's an access port right near this one. You guys wait here and don't do anything rash.",
+			"According to the map information, there is a connection port in this vicinity. You should wait here. Movement without due care will cause danger."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253560,
+			"Bronya you must be careful!",
+			"布洛妮娅你一定要小心！",
+			"ありがとう。ブローニャちゃん、気をつけてね。",
+			"고마워. 브로냐, 조심해.",
+			null,
+			null,
+			"Bronya you must be careful!",
+			"Thank you. Take care of yourself, Bronya."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253561,
+			"I will, Mei.",
+			"好的，芽衣姐姐。",
+			"……はい、ありがとうございます。芽衣姉様。",
+			"...네, 감사합니다. 메이 언니.",
+			null,
+			null,
+			"Okay, Mei-san.",
+			"...... Yes, thank you. Sister Mei."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				3,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253562,
+			"……At her age, Bronya is really a reassuring girl.",
+			"……虽然只有这个年纪，但布洛妮娅总是给人很安心的感觉呢。",
+			"……まだあんなに小さいのに、ブローニャちゃんって何だか安心感があるわよね。",
+			"...아직 그렇게 어린데, 브로냐란 아이가 왠지 안심감이 있네.",
+			null,
+			null,
+			"...... Even though she was only this age, Bronya always gave people a very reassuring feeling yet.",
+			"...... I feel kind of safe with Bronya, even though she's still so small."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				5,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253563,
+			"Coo…Mei! Do you mean I'm not!?",
+			"咕…芽衣！你的意思是我不够令你安心么！？",
+			"うぐっ……芽衣先輩！それって私だと不安ってこと！？",
+			"으윽... 메이 선배! 그건 내가 불안하다는 거야!?",
+			null,
+			null,
+			"Guh...Mei! Do you mean I'm not reassuring enough for you!",
+			"Ugh ...... Mei Senpai! That means you're worried about me!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				4,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253564,
+			"No, but she is so calm at such a young age, she must have experienced a lot.",
+			"没有这回事啦，不过像她这么小的年龄就已经如此沉着冷静，一定也遇到过很多事情才会变成这样的吧。",
+			"ふふふっ、違うわよ。ただ、彼女みたいな年齢でこんなに冷静でいられるなんて、きっとたくさんのことを経験してきたんだろうなって思って。",
+			"후후훗, 아니야. 그냥, 그 아이 같은 나이에 이렇게 차분할 수 있다니, 분명 많은 걸 겪었겠구나 싶어서.",
+			null,
+			null,
+			"It's not like that, but if she's so calm and collected at such a young age, she must have encountered a lot of things to become like this.",
+			"Hmmm, no. I just thought she must have been through a lot to be so calm at her age."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253565,
+			"……You're right, before I always live in the greenhouse, thought I could realize my goal under parents' protection, but in the world where we don't know people experienced things we can't imagine.",
+			"……你说的没错，以前的我总是生活在温床之中，以为只要爸爸妈妈在我就可以无忧无虑地为了自己的目标前进，但是在我们看不到的世界里还有很多的人经历着我们无法想象的事情。",
+			"……そっか、私とあの子は全然違うんだ。私はずっと温室の中で生活してきた。パパとママさえいれば、何の悩みもなく目標に向かえると思って……でも、私の知らない世界では多くの人が色んなことを経験してるんだ。",
+			"……그렇구나, 나와 그 아이는 완전히 다르네. 나는 줄곧 온실 속에서 살아왔어. 아빠와 엄마만 있으면, 아무 고민 없이 목표를 향해 나아갈 수 있을 거라고 생각했는데…… 하지만, 내가 모르는 세상에서는 많은 사람들이 각자 다른 것들을 경험하고 있구나.",
+			null,
+			null,
+			"...... You're right, I used to live in a hotbed, thinking that as long as my mom and dad were around I could move forward for my goals without worry, but there are so many other people in the world we can't see going through things we can't imagine.",
+			"...... I see, me and that girl are very different. I have been living in a greenhouse my whole life. I thought that as long as I had my mom and dad, I could reach my goals without any worries....... But in the world I don't know, many people are going through a lot."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				3,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253566,
+			"Kiana…I don't know why, but I always have a familiar feeling with Bronya, even I haven't know her a lot, but it feels like we have get along for a long time.",
+			"琪亚娜…不知道为什么，我总感觉和布洛妮娅有种意外的熟悉感，虽然和她接触不多，但是总觉得我们已经相处了很长的时间。",
+			"キアナちゃん……どうしてか分からないけれど、ブローニャちゃんのことは前からよく知っている気がするの。それほど交流もしてないのに、私たちずいぶん長いこと一緒にいるような気がして……。",
+			"키아나…… 왜인지 모르겠지만, 브로냐에 대해서는 예전부터 잘 알고 있는 것 같아. 그렇게 교류도 하지 않았는데, 우리들 �이 오랫동안 함께한 것 같은 느낌이 들어…….",
+			null,
+			null,
+			"Kiana...I don't know why, but I've always felt an unexpected familiarity with Bronya, and even though I didn't have much contact with her, it always felt like we've been together for a long time.",
+			"Kiana,...... I don't know why, but I feel like I've known Bronya for a long time. I feel like we've been together for a long time, even though we haven't interacted that much. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				1,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253567,
+			"Maybe it's some mental effect, after all that kid has a poker face to all the people~",
+			"也许是某种心理作用吧，毕竟那个小鬼对谁都是一副扑克脸~",
+			"ある種の心理的作用かもしれないわね。あのチビ、誰に対してもずっとポーカーフェイスだから。",
+			"일종의 심리적 작용일지도 모르겠네. 저 �마, 누구를 대하든 항상 무표정이니까.",
+			null,
+			null,
+			"Maybe it's some kind of psychological effect, after all, that brat has a poker face to everyone~",
+			"Maybe it's some sort of psychological effect. That little guy has always had a poker face to everyone."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253568,
+			"「Warning! Warning! Find the target intruders! At the 24th hatchway of The Third Airport, now moving to The Second Airport, please go to catch them right know!」",
+			"「警报！警报！发现入侵者目标，位于第三空港第24通道口，正在朝第二空港移动，请立即前往抓捕！」",
+			"「警報！警報！侵入者を発見。第三空港第24番通路、現在第二空港に向けて移動中。ただちに捕えよ！」",
+			"「경보! 경보! 침입자 발견. 제3공항 제24통로, 현재 제2공항으로 이동 중. 즉시 체포하라!」",
+			null,
+			null,
+			"\"Alarm! Alert! Intruder target detected, located at the 24th aisle entrance of the third airstrip, moving towards the second airstrip, please proceed immediately to capture it!\"",
+			"Alarm! Alarm! Intruder detected. Aisle 24, Airport 3, now moving toward Airport 2. Seize him immediately!"
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				694,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253569,
+			"Go! Over there! All the people go to the 24th hatchway!",
+			"走！在那边！所有人前往24号通道！",
+			"急げっ！向こうだ！全員24番通路へ向かえ！",
+			"서둘러! 저쪽이야! 전원 24번 통로로 향해!",
+			null,
+			null,
+			"Go! Over there! Everyone head for aisle 24!",
+			"Hurry up! Over there! Everyone head to aisle 24!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				4,
+				false
+			],
+			[
+				694,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253570,
+			"Wow! Is it broadcasted by Bronya?",
+			"好厉害！这个广播是布洛妮娅做的么？",
+			"すごい！この放送もブローニャちゃんがやったのかしら？",
+			"대단해! 이 방송도 브로냐이 한 거야?",
+			null,
+			null,
+			"So awesome! Did Bronya make this broadcast?",
+			"That's great! I wonder if Bronya did this broadcast too?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				1,
+				false
+			],
+			[
+				694,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253571,
+			"Right! All the troops retreated, let's leave here now!",
+			"看来没错了！前面的守备撤离了，我们趁机通过这里吧！",
+			"そうみたいだね！前方の防衛部隊が撤退してく！この隙にここを抜けよう！",
+			"그런 것 같아! 전방의 방어 부대가 물러나고 있어! 이 틈을 타서 여길 빠져나가자!",
+			null,
+			null,
+			"Looks like we're on the right track! The guards in front of us have withdrawn. Let's get through here while we can!",
+			"Looks like it! The forward defense forces are retreating! Let's get out of here while we have the chance!"
+		]
+	],
+	"151": [
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253572,
+			"Theresa-Sama, here!",
+			"德丽莎大人，这边！",
+			"テレサさん、こっち！",
+			"테레사씨, 이쪽이야!",
+			null,
+			null,
+			"Lord Theresa, this way!",
+			"Theresa, this way!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253573,
+			"We arrived, it's here!",
+			"我们到了，就是这里了！",
+			"着いた。ここだよ！",
+			"도착했어. 여기야!",
+			null,
+			null,
+			"Here we are. This is it!",
+			"We're here. Here we are!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253574,
+			"But there's nothing?",
+			"可这里明明就什么都没有啊？",
+			"ここ？何もないけれど？",
+			"여기? 아무것도 없는데?",
+			null,
+			null,
+			"But there's nothing here, is there?",
+			"Here? There's nothing here."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				415,
+				2,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253575,
+			"Quantum armour disarmed.",
+			"量子装甲解除。",
+			"量子装甲解除。",
+			"양자 아머 해제.",
+			null,
+			null,
+			"Quantum armor disarmed.",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				1,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253576,
+			"Theresa, don't overlook Anti-Entropy's aircraft, it can get through the Shicksal defense system with the Quantum whatever! Let's get on board.",
+			"德丽莎，逆熵的飞行器还是有一套的，可以用量子什么的穿过天命的防御圈！我们赶紧登上去。",
+			"テレサ、ネゲントロピーの飛空艇はすごいんだよ。量子何とかってやつを使って、天命の防衛圏をすり抜けられるんだから！早く乗ろう。",
+			"테레사, 네겐트로피의 비공정은 대단한 거야. 양자 어쩌고 하는 걸 이용해서, 천명의 방위권을 빠져나갈 수 있다고! 빨리 타자.",
+			null,
+			null,
+			"Theresa, Anti-Entropy still has a set of flying machines that can get through Schicksal's defense ring with quantum whatever! Let's hurry up and board it.",
+			"Theresa, Anti-Entropy's airship is amazing. They can slip through Schicksal's defense zone using something called quantum something! Let's get on it."
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				1,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253577,
+			"Ok.",
+			"嗯。",
+			"うん。",
+			"응.",
+			null,
+			null,
+			"Uh-huh.",
+			"Yeah."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				415,
+				1,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253578,
+			"The flash over here is…everybody watch out!",
+			"那边的闪光是…大家小心！",
+			"あの閃光は……全員、退避してください！",
+			"저 섬광은... 모두, 피하세요!",
+			null,
+			null,
+			"That flash over there is...watch out everyone!",
+			"That flash is ...... Everyone, please evacuate!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253579,
+			"Eh!?",
+			"呃！？",
+			"えっ！？",
+			"엣!?",
+			null,
+			null,
+			"Uhh!?",
+			"What?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253580,
+			"Boom!!",
+			"轰隆！！",
+			"ドォオオオンッ！！",
+			"우우웅!!",
+			null,
+			null,
+			"Rumble!",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253581,
+			"Eh! Where is this attack from! There's no one around!",
+			"咳咳！这个攻击是从哪里打过来的！附近明明什么人也没有！",
+			"ゴホッ、ゴホッ！今の攻撃、どこから撃ってきたの！？近くに敵なんていないけど！",
+			"콜록, 콜록! 방금 공격, 어디서 쏜 거야!? 근처에 적은 없는데!",
+			null,
+			null,
+			"Ahem! Where is this attack coming from! There's clearly no one nearby!",
+			"Gosh, gosh! Where did that attack come from? I don't see any enemies nearby!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253582,
+			"Kiana look there! That's some installation…flying over here!",
+			"琪亚娜看那边！那个是什么装置…好像在往这边飞过来！",
+			"キアナちゃん、あっち！あれ、何かしら……こっちに飛んで来ているみたいだけど！",
+			"키아나, 저기! 저거, 뭐지... 이쪽으로 날아오는 것 같아!",
+			null,
+			null,
+			"Kiana looked over there! What is that device...it seems to be flying this way!",
+			"Kiana, over there! That looks like something is flying ...... over here!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253583,
+			"Is that…Schwarzwaelder?",
+			"那个是…移动要塞么？",
+			"あれは……もしかして移動要塞？",
+			"저건... 혹시 이동 요새?",
+			null,
+			null,
+			"Is that...a mobile fortress?",
+			"Is that ...... perhaps a mobile fortress?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253584,
+			"From the scanning of Proect Bunny, it should be a mobile battery formed with several floating devices, there's no such thing in Paris, so it's a new equipment of her.",
+			"从重装小兔的扫描来看，推测是由数台浮游炮装置联合组成的移动炮台，在巴黎的时候还没有这样的装备…看来是天命为她配备的最新火力配置。",
+			"重装ウサギのスキャンによると、浮遊砲を組み合わせて構成された移動砲台だと推測されます。パリの時にはこのような武器はありませんでした……天命が彼女のために配備した最新火器なのでしょう。",
+			"중장토끼의 스캔 결과, 부유포를 조합해 구성된 이동 포대로 추측됩니다. 파리 때는 이런 무기가 없었어……천명이 그녀를 위해 배치한 최신 화기인 모양이군.",
+			null,
+			null,
+			"From the scans of the Project Bunny, it was presumed to be a mobile turret consisting of several floating cannon units combined, which hadn't been available in Paris...it appeared to be Schicksal's latest firepower configuration for her.",
+			"A scan of the heavily armed rabbit suggests that it is a mobile turret composed of a combination of floating cannons. There were no such weapons in Paris at the time of ...... Schicksal must be the latest firearm deployed for her."
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				true
+			],
+			[
+				809,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			253585,
+			"Another encounter is coming so quick, so we can have a second battle, this time I won't let you go so easily.",
+			"没想到这么快又见面了，看来我们可以进行第二场较量了，这次可没有那么容易让你们得逞。",
+			"こんなに早くまた会えるとは思わなかったわ。2回戦を始められそうね。今度は思い通りにはさせないわよ。",
+			"이렇게 빨리 다시 만날 줄은 몰랐어. 2차전을 시작해볼까. 이번엔 내 맘대로 안 될 거야.",
+			null,
+			null,
+			"I didn't expect to see you again so soon, it looks like we can have a second match, and this time it won't be so easy for you to get your way.",
+			"I didn't expect to see you again so soon, so we can start the second round. I won't let you get away with it this time."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				809,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			253586,
+			"So mean! You always use this kind of extraordinary weapon!",
+			"你这家伙也太卑鄙了吧！每次都用这种规格外的武器！",
+			"あなたってやつは、本当に卑怯ね！いつもこんな規格外な武器ばかり使って！",
+			"너란 녀석은 정말 비겁하군! 항상 이런 규격 외 무기ばかり 사용해서!",
+			null,
+			null,
+			"You guys are too mean! Using this out-of-spec weapon every time!",
+			"You are such a coward! Always using such substandard weapons!"
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				true
+			],
+			[
+				809,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			253587,
+			"Let me introduce it~This kid name is 「Schwarzwaelder」, my ride…ah not~my weapon that I am proud of!",
+			"让我来介绍一下吧~这个孩子的名字叫做浮游要塞「Schwarzwaelder」可是我引以为傲的代步工具…啊不对~是武器！",
+			"紹介するわね～。この子の名前は浮遊要塞「シュヴァルツヴェルダー」。私の自慢の乗り物……じゃなかった、武器よ！",
+			"소개할게~. 이 아이의 이름은 부유 요새 「슈바르츠벨더」. 내 자랑스러운 탈것…… 아니, 무기야!",
+			null,
+			null,
+			"Let me introduce~ This child's name is Floating Fortress \"Schwarzwaelder\" but I'm proud of my mobility tool...ah no~ it's a weapon!",
+			"Let me introduce you~. This girl's name is the floating fortress \"Schwarzwelder\". It's not my pride and joy vehicle ......, it's a weapon!"
+		],
+		[
+			"msg",
+			253588,
+			"Althrough you try to distract the garrison, but you won't have any chance to get away with this!",
+			"虽然你们想方设法引开了守备部队，不过在它的面前是没有任何逃脱的机会的！",
+			"どうやったか知らないけど、あなたたちが防衛部隊を引き離したところで、コレの前からは逃げられないわよ！",
+			"어떻게 했는지 모르겠지만, 너희들이 방어 부대를 따돌린 사이에, 이 녀석 앞에서는 도망칠 수 없을 거야!",
+			null,
+			null,
+			"Although you have managed to distract the garrison, there is no chance of escape in front of it though!",
+			"I don't know how you did it, but when you guys pull the defending forces apart, you won't get out in front of this thing!"
+		],
+		[
+			"msg",
+			253589,
+			"In terms of its power…let me show you with your aircraft~",
+			"至于它的威力嘛…就用你的飞行器来演示一下好了~",
+			"コレの威力についてはね……そちらの飛空艇を使って実演してあげるわ。",
+			"이 녀석의 위력은 말이지…… 저쪽 비공정으로 실연해 보여줄게.",
+			null,
+			null,
+			"As for its power...let's use your flying machine to demonstrate~",
+			"I'll demonstrate the power of this thing using your airship at ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			253590,
+			"Boom!!!!!",
+			"轰隆隆！！！！！",
+			"ドドドドドッ！！！！！",
+			"두두두두둥!!!!",
+			null,
+			null,
+			"Rumble ！！！！！",
+			"Dodo dodo: ！！！！！"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			253591,
+			"The aircraft…is destroyed………",
+			"飞行器…被摧毁了………",
+			"飛空艇が……壊されちゃった……。",
+			"비공정이…… 박살났어…….",
+			null,
+			null,
+			"Flying machine...destroyed .........",
+			"The airship has been ...... destroyed. ......"
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				true
+			],
+			[
+				809,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			253592,
+			"What a pity, that you must stay here~as a gift, let it welcome you!",
+			"很遗憾，看来你们只能留在这里了呢~作为接风，就让它来好好招待你们吧！",
+			"残念ね、どうやらあなたたちはここに留まるしかないみたい。コレでしっかりおもてなししてあげるわね！",
+			"유감이네, 어쩌면 너희들은 여기에 머무를 수밖에 없을 것 같아. 이걸로 제대로 대접해 주지!",
+			null,
+			null,
+			"Sadly, it looks like you'll have to stay here~ As a pick-me-up, let it treat you well!",
+			"Too bad, it looks like you guys will have to stay here. I'll make sure you're well taken care of!"
+		]
+	],
+	"152": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253593,
+			"Damn…such a strong fire, need to avoid it with all our strength……",
+			"可恶…这么强大的火力，光躲避就已经尽全力了……",
+			"くッ……こんな強力な火力じゃ、回避するだけで力尽きちゃう……。",
+			"쿱…… 이런 강력한 화력이라면, 회피하는 것만으로도 지치고 말겠어…….",
+			null,
+			null,
+			"Damn...with this much firepower, just dodging it is all I can do ......",
+			"Damn ...... with such powerful firepower, I'll run out of power just to avoid it. ......"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253594,
+			"Hold on, such range of attack must be have some loopholes, we have to wait to fight back!",
+			"坚持住，这种覆盖式的攻击中一定会存在火力漏洞，只能等待时机进行反击！",
+			"みなさん、耐え抜いてください。このような大規模攻撃には必ず隙が存在するはずです。チャンスを待って反撃するしかありません。",
+			"여러분, 견디세요. 이런 대규모 공격에는 반드시 틈틈이 존재할 거예요. 기회를 노려 반격하는 수밖에 없어요.",
+			null,
+			null,
+			"Hold on, there are bound to be fire holes in this covering attack, and you'll just have to bide your time for a counterattack!",
+			"Please endure, everyone. There will always be an opening in such a large-scale attack. We have no choice but to wait for an opportunity and fight back."
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				true
+			],
+			[
+				809,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			253595,
+			"You are really stubborn…if you surrender I will also have my mercy based on yours last time.",
+			"你们还真是执迷不悟呢…要是投降的话我也会念在之前的不杀之恩放你们一条生路的说。",
+			"あなたたちって本当に往生際が悪いわね……投降するなら、さっき殺さないでくれた恩に免じて、あなたたちに生き延びる道を与えてもいいのよ。",
+			"너희들 정말 끝까지 싸우려 드네... 항복한다면, 아까 죽이지 않은 은혜를 생각해서 너희들에게 살 길을 열어줄 수도 있어.",
+			null,
+			null,
+			"You guys are really stubborn... If you surrender, I'll let you live for the sake of not killing you before.",
+			"You guys are really wayward. ...... If you surrender, I'm willing to give you a way to survive in return for the favor you did me earlier by not killing me."
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				true
+			],
+			[
+				809,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			253596,
+			"In this situation, unless my power is running off, I won't have any loopholes in my attack!",
+			"在这种状态下的我，除非能源耗尽，否则我的攻击是不会存在死角的！",
+			"この状態では、エネルギー切れでも起こさない限り、私の攻撃に死角は存在しないわよっ！",
+			"이 상태에서는, 에너지가 다 떨어지지 않는 한 내 공격에 사각은 존재하지 않아!",
+			null,
+			null,
+			"In this state of mind, unless I run out of energy, there will be no dead spots in my attacks!",
+			"In this state, there is no blind spot for my attack unless I run out of energy!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				5,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			253597,
+			"We need to find an opportunity to stop her attack, otherwise we will always be suppressed here.",
+			"必须得找到机会打断她进攻的节奏，否则我们会一直被压制在这个地方的。",
+			"チャンスを見つけて彼女の攻撃リズムを断ち切らないと……このままじゃ私たちここでやられちゃう。",
+			"기회를 노려 그녀의 공격 리듬을 끊어야 해... 이대로라면 우리 여기서 당하고 말 거야.",
+			null,
+			null,
+			"Gotta find a way to break the rhythm of her offense, or we're gonna stay pinned down in this spot.",
+			"We need to find an opportunity and break her offensive rhythm. ...... If we don't do this, we're fucked here."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			253598,
+			"Mei, please protect Theresa well!",
+			"芽衣，你负责保护好德丽莎！",
+			"芽衣先輩、テレサをお願いっ！",
+			"메이 선배, 테레사를 부탁해!",
+			null,
+			null,
+			"Mei, you're in charge of protecting Theresa!",
+			"Mei senpai, Theresa please!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				2,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			253599,
+			"Kiana, what do you want to do? Don't be silly!",
+			"琪亚娜，你想干什么？不要做傻事啊！",
+			"キアナちゃん、何するつもり？危ないことしようとしてない！？",
+			"키아나, 뭐 하려는 거야? 위험한 짓 하려는 거 아니지?!",
+			null,
+			null,
+			"Kiana, what are you trying to do? Don't do anything stupid!",
+			"Kiana, what are you going to do? You're not trying to do anything dangerous!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				809,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			253600,
+			"But there must be some one do it at this moment, otherwise when those troops come, we are all done……",
+			"但是这种时候必须要有人站出来才行，否则等到那些追兵赶到，我们就只有全军覆没了啊……",
+			"でも、こんな時は誰かが立ち上がらなきゃダメでしょ。さもないと、私たち全滅だよ……。",
+			"하지만 이런 때는 누군가 나서야 해. 그렇지 않으면 우리 전멸이야...",
+			null,
+			null,
+			"But at this time someone must come forward, or wait until those pursuers arrive, we will only have all our troops destroyed ah ......",
+			"But in times like this, someone has to stand up. Otherwise, we'll all be wiped out. ......"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253601,
+			"If know this would heppen, just be more cautious when get out!",
+			"早知道会发生这种事，跑出去的时候更谨慎一点不就好了么！",
+			"はぁ……こうなることぐらい予測できたでしょ。次は、もっと作戦を立ててから行動するようにしなさい！",
+			"하아... 이렇게 될 거란 건 예상했을 텐데. 다음부터는 작전을 더 세우고 행동하도록 해!",
+			null,
+			null,
+			"If I had known this was going to happen, wouldn't it have been better to be a little more cautious when I ran out!",
+			"Huh. ...... You could have at least predicted this would happen. Next time, try to have a better strategy before you act!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253602,
+			"Piu!",
+			"蹭！",
+			"ザンッ！",
+			"쨍!",
+			null,
+			null,
+			"Rubbing!",
+			"Xan!"
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				809,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			253603,
+			"!!",
+			"！！",
+			"ッ！！",
+			"으악!!",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				809,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			253604,
+			"Boom!!!",
+			"轰隆隆隆！！！",
+			"ドォオオオオオン！！！",
+			"드오오오오온!!!",
+			null,
+			null,
+			"Rumble!!!",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				809,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			253605,
+			"I thought you already grow up…but you still haven't change the habit of disobey orders.",
+			"本来还以为你长大了…没想到抗命的坏习惯还是没有改掉。",
+			"成長したかと思ったけど……命令に背く悪いクセは相変わらずね。",
+			"성장한 줄 알았는데…… 명령을 거역하는 나쁜 버릇은 여전하네.",
+			null,
+			null,
+			"I thought you'd grown up...but I didn't realize that the bad habit of resisting life hadn't changed.",
+			"I thought you had grown up, but you still have the same bad habit of disobeying ...... orders."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				809,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			253606,
+			"Himeko…Teacher…",
+			"姬子…老师……",
+			"姫子、先生……。",
+			"히메코, 선생님…….",
+			null,
+			null,
+			"Himeko...teacher ......",
+			"Himeko, Sensei. ......."
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				809,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			253607,
+			"Don't just stand there! Use my aircraft and take Theresa-Sama!",
+			"还愣着干什么！快使用我的飞行器带着德丽莎大人走！",
+			"何をボヤボヤしているの！早く私の飛空艇を使って！テレサ先輩を連れて行きなさい！",
+			"뭐 하고 멍청히 있어! 빨리 내 비공정을 이용해! 테레사 선배를 데리고 가!",
+			null,
+			null,
+			"What are you waiting for! Quickly use my flying machine to take Theresa-sama away!",
+			"What are you blabbering about? Quick, use my airship! Take senior Theresa with you!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				false
+			],
+			[
+				809,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			253608,
+			"But! How about you!",
+			"可是！那你怎么办！",
+			"でもっ！姫子はどうするの！？",
+			"하지만! 히메코는 어쩌고!?",
+			null,
+			null,
+			"But! What about you!",
+			"But, what about Himeko? What about Himeko!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				809,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			253609,
+			"I will deal with it! Don't worry, your teacher won't be easily defeated!",
+			"我留下来断后！不用担心，你们的姬子老师可是不会那么轻易被打败的！",
+			"私は残って後続を食い止めるわ！心配しないで。あなたたちの姫子先生は、そう簡単にやられはしないわよ！",
+			"나는 남아서 후속 부대를 막을 거야! 걱정하지 마. 너희들의 히메코 선생님은 그렇게 쉽게 당하지 않아!",
+			null,
+			null,
+			"I'll stay behind to break the back! Don't worry, your Himeko-sensei won't be defeated so easily!",
+			"I'll stay behind and hold off the rest! Don't worry. Your Himeko sensei won't be so easily beaten!"
+		],
+		[
+			"speaker",
+			204557
+		],
+		[
+			"portraits",
+			[
+				415,
+				2,
+				false
+			],
+			[
+				809,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			253610,
+			"Himeko……",
+			"姬子……",
+			"姫子……。",
+			"히메코…….",
+			null,
+			null,
+			"Himeko ......",
+			"Himeko......。"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				809,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			253611,
+			"Let me stay!I won't leave you alone!",
+			"让我一起留下来！我不会抛下你独自战斗的！",
+			"私も一緒に残らせて！姫子だけを見捨てて逃げるわけには行かないよ！",
+			"나도 함께 남을게! 히메코만 두고 도망칠 순 없어!",
+			null,
+			null,
+			"Let me stay with you! I won't leave you to fight alone!",
+			"Let me stay behind with you! I can't just abandon Himeko and run away!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				809,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			253612,
+			"Stop talking! Or no one can leave here!",
+			"别废话！再磨磨蹭蹭就谁都走不了了！",
+			"バカ言わないで！それ以上ゴチャゴチャ言ってたら、誰も逃げられなくなるわよ！",
+			"바보 같은 소리하지 마! 더 이상 어물쩍거리다간, 아무도 도망치지 못할 거야!",
+			null,
+			null,
+			"Don't talk nonsense! Any more dilly-dallying and no one will get away!",
+			"Don't be silly! If you keep messing around any more, no one will get away with it!"
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				true
+			],
+			[
+				809,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			253613,
+			"Are you all coming to play TV drama…everyone is thinking of herself, I hate naive people like you most!",
+			"你们一个个的都是来演亲情剧的么…每个人都是这样只顾着自己，我最讨厌的就是像你们这样天真的家伙了！",
+			"あなたたち、家族ドラマでも演じてるの？どいつもこいつも自分の事ばっかり考えて……私は、あなたたちみたいなお人好しが大嫌いなのよっ！",
+			"너희들, 가족 드라마라도 찍는 거야? 하나같이 자기 생각만 하고…… 나는, 너희 같은 착한 사람들이 정말 싫어!",
+			null,
+			null,
+			"Are all of you here for the bonding drama...everyone is just so focused on themselves, I hate naive guys like you!",
+			"Are you guys playing family drama? You all think only of yourselves and ...... I hate sycophants like you!"
+		],
+		[
+			"msg",
+			253614,
+			"Since you are all so considerate let me help realize your thoughts! Die here together!",
+			"既然这么想为别人着想的话就让我成全你们！都整整齐齐地死在这里吧！",
+			"そんなに他人が大事になら、お望み通りにしてあげるわよ！全員そろってここで死になさい！",
+			"그렇게 남이 소중하다면, 네 뜻대로 해줄게! 모두 모여서 여기서 죽어라!",
+			null,
+			null,
+			"If you're so eager to do what's best for others, let me do it for you! You'll all die here in one piece!",
+			"If you care so much about other people, I'll do what you want! You will all die here together!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				809,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			253615,
+			"Boom!!!",
+			"轰隆隆！！！",
+			"ドォオオオオオン！！！",
+			"우오오오오옴!!!",
+			null,
+			null,
+			"Rumble!!!",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204556
+		],
+		[
+			"portraits",
+			[
+				401,
+				0,
+				false
+			],
+			[
+				809,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			253616,
+			"Kiana! Go!",
+			"琪亚娜！快走！",
+			"キアナッ！早く行きなさい！",
+			"키아나! 빨리 가!",
+			null,
+			null,
+			"Kiana! Move it!",
+			"Kianak! Go quickly!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				809,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			253617,
+			"Why this happens again……",
+			"为什么又是这种情况……",
+			"どうしてまたこうなるの……。",
+			"왜 또 이렇게 되는 거야......",
+			null,
+			null,
+			"Why is this happening again ......",
+			"Why is this happening again? ......"
+		],
+		[
+			"msg",
+			253618,
+			"Damn! Damn! Damn!",
+			"可恶！可恶！可恶！！！",
+			"クソッ……クソッ！クソッ！！！",
+			"젠장...... 젠장! 젠장!!!",
+			null,
+			null,
+			"Damn it! Abominable! Damn it!!!",
+			"Shit. ...... Shit! Shit!!!"
+		]
+	],
+	"153": [
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				810,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253619,
+			"What beautiful fireworks, so it's worth of efforts to finish those weapons, even Kika can use it well, then the others won't have a problem.",
+			"真是漂亮的烟花，看来没有白花这么大功夫完成那些武器，连辉火都能使用的得心应手，那换成她们的话一定更不在话下。",
+			"本当に綺麗な花火だね。苦労してあの武器を完成させたのも、無駄じゃなかったようだ。輝火ですらあんなに上手く使えているんだから、彼女たちなら言うまでもないだろうね。",
+			"정말 아름다운 불꽃놀이네. 고생해서 그 무기를 완성한 것도 헛되지 않았나 봐. 키카도 그렇게 잘 쓰고 있으니, 그녀들은 말할 필요도 없겠지.",
+			null,
+			null,
+			"What beautiful fireworks, it seemed that it hadn't been in vain to put so much effort into completing those weapons, even Terra Fire was able to use them with ease, so it must have been even more of a no-brainer if they were replaced.",
+			"That really is a beautiful firework. It seems that all the hard work they put into perfecting that weapon was not in vain. Even the bright fire can be used that well, so I guess I don't need to tell you how good they are."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				810,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			253620,
+			"Knock Knock Knock.",
+			"咚咚咚。",
+			"コンコン——",
+			"콘콘——",
+			null,
+			null,
+			"Knock knock.",
+			"Knock-knock--"
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				694,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253621,
+			"Archbishop.",
+			"主教大人。",
+			"主教様。",
+			"주교님.",
+			null,
+			null,
+			"His Grace the Bishop.",
+			"Bishop."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				810,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253622,
+			"What's the matter?",
+			"有什么事？",
+			"どうしたんだい？",
+			"무슨 일이지?",
+			null,
+			null,
+			"What's up?",
+			"What's wrong?"
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				694,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253623,
+			"Archibishop, Theresa has been saved by the intruders from Anti-Entropy, we have sent troops to get them.",
+			"报告主教大人，德丽莎被逆熵的侵入者救走现在已经离开天命的辖空，我们已经派出了人员进行追捕。",
+			"主教様、テレサ様がネゲントロピーの侵入者によって連れ出され、天命の管轄空域を離脱しました。すでに追手を向かわせています。",
+			"주교님, 테레사 님이 네겐트로피 침입자에 의해 끌려나가 천명 관할 공역을 이탈했습니다. 이미 추격대를 보냈습니다.",
+			null,
+			null,
+			"Reporting to His Grace the Bishop, Theresa has been rescued by Anti-Entropy's intruders and has now left Schicksal's jurisdictional space, and we have sent out a manhunt.",
+			"Bishop, Theresa has been taken out by Anti-Entropy intruders and has left the airspace under Schicksal's jurisdiction. We have already sent our pursuers to pursue her."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				810,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253624,
+			"Is it, so little Kika still can't stop them~",
+			"是么，看来小辉火还是没有能拦住她们呢~",
+			"そうか、やはり輝火ちゃんでは彼女たちを止められなかったようだね。",
+			"그렇군, 역시 키카 쨩으로는 그들을 막을 수 없었던 모양이네.",
+			null,
+			null,
+			"Really? Looks like Teruhiro hasn't been able to stop them after all.",
+			"Oh well, it seems that Terubi couldn't stop them after all."
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				694,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253625,
+			"Yes, Kika-Sama is hold by Himeko, so far it can't participate in the chasing.",
+			"是的，辉火大人被后续赶来的无量塔姬子牵制住了，目前无法参与追击。",
+			"はい。輝火様は後からやって来た無量塔姫子に足止めされ、追撃に加われておりません。",
+			"네. 키카 님은 뒤에서 쫓아온 무라타 히메코에게 발이 묶여 추격에 참여하지 못했습니다.",
+			null,
+			null,
+			"Yes, Kaguya-sama is being held back by the Murata Himeko that followed him and is currently unable to participate in the pursuit.",
+			"Yes, I am. Kibi-sama was stopped by Murata Himeko, who came later, and did not join the pursuit."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				810,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253626,
+			"Himeko? Also the user of nexus system…what a rare opportunity, let them keep fighting, I can also see what's the limit of this system.",
+			"无量塔姬子？同为nexus系统的使用者么…真是难得的机会，就让她们继续战斗好了，我也好看看这个系统的极限究竟在什么地方。",
+			"無量塔姫子？あぁ、同じNexusシステムの使い手か……これはまたとない機会だね。このまま彼女たちに戦わせておけばいいよ。僕もこのシステムの限界がどこにあるのか、しっかり見させてもらおう。",
+			"무라타 히메코? 아, 같은 Nexus 시스템의 사용자라... 이건 또 없을 기회야. 이대로 그들끼리 싸우게 놔두는 게 좋겠어. 나도 이 시스템의 한계가 어디까지인지 제대로 지켜보도록 하지.",
+			null,
+			null,
+			"Murata Himeko? The same user of the nexus system...what a rare opportunity, let them continue to fight, and I'll see what the limits of this system are.",
+			"Murata Himeko? Ah, the same Nexus system user. ...... This is a unique opportunity. Let the girls fight it out as it is. Let me take a good look at where the limits of this system are."
+		],
+		[
+			"msg",
+			253627,
+			"But remind little Kika to stop at certain point, if she just dies, or she can't see the miracle I promised her.",
+			"不过也得让小辉火适可而止呢，要是她就这么死掉的话，就看不见我承诺她的神迹了。",
+			"しかし、輝火ちゃんにはほどほどにしてもらわないとな。彼女がこのまま死んじゃったら、彼女に約束した神の奇跡を見せられなくなっちゃうからね。",
+			"하지만 키카 쨩은 적당히 해줘야 해. 그녀가 이대로 죽어버리면, 그녀에게 약속한 신의 기적을 보여줄 수 없게 되니까.",
+			null,
+			null,
+			"But it's also important to keep little Terra Fire in moderation yet, if she just dies she won't be able to see the miracle I promised her.",
+			"But I'll have to ask Teruhi to moderate. If she dies like this, I won't be able to show her the divine miracle I promised her."
+		],
+		[
+			"msg",
+			253628,
+			"In terms of Theresa, you must know her location, can't let Anti-Entropy go so easily.",
+			"至于德丽莎那边就交给你们了，一定要追踪到她的位置，不要让逆熵就这么轻易的逃脱。",
+			"テレサたちのことは君らに任せるよ。何としてでも彼女を追跡するんだ。ネゲントロピーにこんな軽々逃げられてはたまらないからね。",
+			"테레사 일은 너희에게 맡길게. 무슨 일이 있어도 그녀를 추적하는 거야. 네겐트로피에게 이렇게 쉽게 도망치게 둘 순 없으니까.",
+			null,
+			null,
+			"As for Theresa's side, I'll leave it to you guys, make sure to track her down and don't let Anti-Entropy get away so easily.",
+			"I'll leave you guys to deal with Theresa and the others. Track her down at all costs. We can't let Anti-Entropy get away so lightly."
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				694,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253629,
+			"Yes!",
+			"是！遵命。",
+			"はい！かしこまりました。",
+			"네! 알겠습니다.",
+			null,
+			null,
+			"Yes, sir! Yes, sir.",
+			"Yes, sir! Yes, sir."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				810,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			253630,
+			"So it's time for this worlder of disorder come back to the right track, as long as we finish the last obstacle, the Shicksal will stand on the stage of changing human beings destiny.",
+			"看来这个混乱不堪的世界也该是时候回归正轨了，只要铲平最后的障碍，天命就将站上改变人类命运的舞台。",
+			"どうやら、この混乱しきった世界も正しい道に戻る時が来たようだね。最後の障害を取り除きさえすれば、天命は人類の運命を変える舞台に立てる。",
+			"이제야, 이 혼란에 빠진 세계도 제대로 된 길로 돌아갈 때가 온 모양이군. 마지막 장애물만 제거하면 천명은 인류의 운명을 바꿀 무대에 설 수 있어.",
+			null,
+			null,
+			"It seems like it's about time for this chaotic world to get back on track, and as soon as the last obstacle is leveled, Schicksal will be on the stage to change the destiny of mankind.",
+			"Apparently, it's time for this world in turmoil to get back on the right track. As long as we can remove the last obstacle, Schicksal can set the stage for a change in the destiny of mankind."
+		],
+		[
+			"msg",
+			253631,
+			"We will soon witness the arrival of a new generation...",
+			"马上就与能你一同见证新世代的到来了……",
+			"もうすぐ、君と一緒に新時代の幕開けを見届けられるよ……。",
+			"곧, 너와 함께 새로운 시대의 서막을 지켜볼 수 있을 거야......",
+			null,
+			null,
+			"Witness the arrival of a new generation with Noh you soon ......",
+			"Soon, I will be able to witness the dawn of a new era with you. ......"
+		]
+	],
+	"154": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254086,
+			null,
+			"天命战舰辉煌盟约",
+			"天命戦艦 輝きの盟約——",
+			"천명 전함 빛나는 맹약——",
+			null,
+			null,
+			"Schicksal Battleship Splendor Covenant",
+			"Schicksal Battleship, the Pact of Brilliance--"
+		],
+		[
+			"bgm",
+			49
+		],
+		[
+			"bg",
+			"CG10044"
+		],
+		[
+			"msg",
+			254087,
+			null,
+			"滴滴滴——",
+			"ピピピ——",
+			"피피피——",
+			"Beep beep beep——",
+			null,
+			"Tick-tock--",
+			"Beepee--"
+		],
+		[
+			"speaker",
+			204688
+		],
+		[
+			"portraits",
+			[
+				35,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254088,
+			null,
+			"报告主教大人，逆熵基地的位置已经查明，位于东西伯利亚的雪山深处，我已将具体的坐标信息发送给您了。",
+			"主教様、ご報告します。ネゲントロピーの基地の位置が判明。東シベリアの雪山に位置するようです。座標情報を送信します。",
+			"주교님, 보고드립니다. 네겐트로피의 기지 위치가 확인되었습니다. 동시베리아의 설산에 위치한 것으로 보입니다. 좌표 정보를 전송하겠습니다.",
+			"Bishop, I am pleased to report that the The location of the Anti-Entropy base has been found. It appears to be located in the snowy mountains of Eastern Siberia. Sending coordinate information.",
+			null,
+			"Reporting to His Grace the Bishop, the location of the Anti-Entropy base has been identified and is located deep in the snowy mountains of Eastern Siberia, I have sent you the exact coordinate information.",
+			"Bishop, I am pleased to report that the The location of Anti-Entropy's base has been found. It appears to be located in the snowy mountains of Eastern Siberia. Sending coordinate information."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				810,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254089,
+			null,
+			"干得不错，小宁蒂~",
+			"ご苦労様、ニンディちゃん。",
+			"수고했어, 닌디.",
+			"Well done, Ninti.",
+			null,
+			"Well done, Ninti.",
+			"Thanks for your efforts, Ninti."
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				809,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254090,
+			null,
+			"哎~看样子清闲的日子到头了呢，这次你终于下定决心要铲除他们了么？",
+			"ふぅ～ん、やっとヤツらを消す決心がついたのね。穏やかな日々ももう終わりかしら。",
+			"후우~, 드디어 놈들을 없애기로 결심했구나. 평온한 나날도 이제 끝인 걸까.",
+			"Hmmm...you finally made up your mind to get rid of them. I guess my peaceful days are over.",
+			null,
+			"It looks like the days of leisure are coming to an end. Have you finally made up your mind to get rid of them this time?",
+			"Hmmm...you finally made up your mind to get rid of them. I guess my peaceful days are over."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				810,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254091,
+			null,
+			"哼，我已经厌烦了他们的猫鼠游戏了，只要消灭了逆熵就没有人能阻止天命对世界的变革，我们也可以把全部力量用于对抗崩坏。",
+			"ああ、鬼ごっこはもう飽き飽きだからね。ネゲントロピーさえ消えれば、誰も天命の改革は止められない。僕たちも、崩壊に抗うことに専念できるんだ。",
+			"아, 술래잡기는 이젠 질렸거든. 네겐트로피만 사라지면, 누구도 천명의 개혁은 막을 수 없어. 우리도 붕괴에 맞서는 데 전념할 수 있는 거야.",
+			"Indeed. I'm tired of their cat and mouse games. Once Anti-Entropy is eliminated, no one can stop Schicksal from transforming the world. We will finally be able to devote our full power to fighting Honkai.",
+			null,
+			"Heck, I'm tired of their cat and mouse games, once Anti-Entropy is eliminated no one can stop Schicksal from transforming the world, and we can devote our full power to fighting Honkai.",
+			"Yeah, I'm tired of playing tag. As long as Anti-Entropy is gone, no one can stop the Schicksal reform. We, too, can focus on resisting Honkai."
+		],
+		[
+			"msg",
+			254092,
+			null,
+			"传令女武神部队立即集合，随辉煌盟约一同向西伯利亚进发。",
+			"直ちに戦乙女部隊を集合させ、輝きの盟約と共にシベリアへと進軍しよう。",
+			"즉시 발키리 부대를 집결시켜, 빛의 맹약과 함께 시베리아로 진군하겠다.",
+			"Assemble the Valkyries to march to Siberia with the Pact of Brilliance.",
+			null,
+			"The Valkyrie forces are ordered to assemble immediately and march to Siberia with the Splendor Pact.",
+			"Immediately assemble the war maidens and march on Siberia with the Pact of Brilliance."
+		],
+		[
+			"msg",
+			254093,
+			null,
+			"裁决之时已至，天命荣光永存！",
+			"審判の時は来た——天命の栄光よ、永遠なれ！",
+			"심판의 때가 왔다천명의 영광이여, 영원하라!",
+			"The time of judgment has come - Schicksal's glory will be eternal!",
+			null,
+			"The time of judgment has come, and the glory of Schicksal endures forever!",
+			"The time of judgment has come - Schicksal's glory, be eternal!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10042"
+		],
+		[
+			"portraits",
+			[
+				810,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254094,
+			null,
+			"另一方面·逆熵战舰月光王座——",
+			"一方、ネゲントロピー戦艦 月光王座——",
+			"한편, 네겐트로피 전함 월광왕좌——",
+			"Meanwhile, at the Anti-Entropy battleship Moonlight Throne--",
+			null,
+			"On the other hand - Anti-Entropy Battleship Moonlight Throne -",
+			"Meanwhile, the Anti-Entropy battleship Moonlight Throne--"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254095,
+			null,
+			"各位，收到可靠情报，天命正在集结部队准备向我们发动进攻，看来我们的位置已经暴露了。",
+			"天命に関する情報が入ったわ。どうやら、天命の部隊が集結し、こちらに向かっているようよ。我々の居場所がバレたみたいね。",
+			"천명에 관한 정보가 들어왔어. 어떻게 보니, 천명 부대가 집결하여 이쪽으로 향하고 있는 모양이야. 우리의 거처가 들킨 것 같네.",
+			"I just received some information about Schicksal. They've assembled their troops and are heading this way. It seems our location has been exposed.",
+			null,
+			"Gentlemen, we've received reliable intelligence that Schicksal is massing troops for an attack on us, and it seems our position has been exposed.",
+			"I just received some information about Schicksal. It appears that Schicksal's forces have amassed and are headed this way. It seems they know where we are."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				112,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			254096,
+			null,
+			"怎么会…果然是因为我的过错才会变成这样的么…不仅连累了姬子，还把逆熵的各位也……",
+			"そんな……私のせいで姫子だけじゃなく、ネゲントロピーの人たちにまで迷惑が……。",
+			"그런... 내 탓으로 히메코뿐만 아니라, 네겐트로피 사람들까지 피해를...",
+			null,
+			null,
+			"How could this happen...is it really because of my fault that it's come to this...not only did I drag Himeko into this, but I also dragged all of you from Anti-Entropy as well ......",
+			"Such ...... trouble not only to Himeko but also to Anti-Entropy people because of me. ......"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				216,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			254097,
+			null,
+			"营救德丽莎的计划我也有参与，不是琪亚娜一个人的错！如果要处罚的话就处罚我好了！",
+			"テレサさんの救出作戦には私も参加したわ、キアナちゃんひとりの責任じゃない！罰を与えるなら、私にも！",
+			"테레사 씨의 구출 작전에는 나도 참여했어, 키아나 혼자 책임이 아냐! 벌을 준다면, 나에게도!",
+			"I had a hand in the plan to rescue Theresa, it wasn't Kiana's fault alone! If you want to punish anyone, just punish me!",
+			null,
+			"I had a hand in the plan to rescue Theresa, it wasn't Kiana's fault alone! If you want to punish me, just punish me!",
+			"I was part of Theresa's rescue mission, Kiana, and I'm not responsible alone! If you're punishing me, I'm punishing you!"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				216,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254098,
+			null,
+			"哼，现在不是让你们展现姐妹情谊的时候，天命的情报部队时刻注意着我们的动向，你们的行动只是给了他们更明确的方向罢了，和天命的交锋本就是无法避免的事态，如果要赎罪的话就在战场上好好表现吧。",
+			"はぁ、今は仲良しごっこをしている場合じゃないの。天命は元々こちらの動向を監視していた。あなたたちの行動はヤツらに明確な方向性を与えただけ、戦いは避けられなかったの。罪を償いたいなら、戦場で貢献なさい。",
+			"하아, 지금은 친하게 지내는 놀이를 할 때가 아니야. 천명은 원래 이쪽의 동향을 감시하고 있었어. 너희들의 행동은 놈들에게 명확한 방향성만 준 거야, 전쟁은 피할 수 없었어. 죄를 갚고 싶다면, 전장에서 공헌하렴.",
+			"Hmph, now is not the time for you to show your goodwill. Shickisal was originally monitoring our movements. Your actions only gave them a clear direction, a fight was inevitable. If you want to atone for your sins, contribute on the battlefield. (TN: She means \"show your mercy/allegiance to Kiana by taking her place\" but I can't find the words)",
+			null,
+			"Hmph, this is not the time for you to show your sisterhood, Schicksal's intelligence forces are always on the lookout for our movements, your actions are just giving them a clearer direction, an encounter with Schicksal is supposed to be an unavoidable state of affairs, so if you want to atone for your sins, perform well on the battlefield.",
+			"Huh, now is not the time to play nice. Schicksal was originally monitoring our movements. Your actions only gave them a clear direction, a fight was inevitable. If you want to atone for your sins, contribute on the battlefield."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			254099,
+			null,
+			"妈妈的意思是要与天命开战么？",
+			"お母様は、天命と戦うつもりなのですか？",
+			"어머님은, 천명과 싸우실 생각이신가요?",
+			"Is Mom planning on going to war with Schicksal?",
+			null,
+			"Does mom mean war with Schicksal?",
+			"Is your mother going to fight Schicksal?"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254100,
+			null,
+			"我们别无选择，如果天命真的已经获知空间传送装置的位置，那么方舟要塞的暴露也只是时间问题。",
+			"そうよ、もう選択肢は残されてないの。もし、天命が本当に空間転送装置の場所を把握したのなら、方舟要塞がバレるのも時間の問題なのだから。",
+			"그래, 이젠 선택지가 남아있지 않아. 만약 천명이 진짜로 공간 전송 장치의 위치를 파악했다면, 방주 요새가 들키는 건 시간 문제일 테니까.",
+			"We have no choice. If Schicksal really has discovered the location of the space teleportation device, then it's only a matter of time before the Ark Fortress is exposed.",
+			null,
+			"We have no choice, if Schicksal really has been informed of the location of the space teleportation device, then it's only a matter of time before the Ark Fortress is exposed.",
+			"Yes, we are left with no choice. If Schicksal really has figured out the location of the spatial transfer device, it is only a matter of time before the Ark fortress is exposed."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				112,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			254101,
+			null,
+			"不能像之前孤儿院的时候一样直接摧毁传送器转移么？",
+			"孤児院の時みたいに、転送装置は壊せないの？",
+			"고아원 때처럼, 전송 장치는 부술 수 없는 거야?",
+			"Can't you break the transporter like you did at the orphanage?",
+			null,
+			"Can't we just destroy the teleporter and transfer it like we did in the orphanage before?",
+			"Can't you break the transporter like you did at the orphanage?"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				112,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			254102,
+			null,
+			"哼，前往亚空间的传送器的制造成本不是你们可以想象的，即使我花费数年时间也只有孤儿院和西伯利亚这两个传送装置能够投入运作，如果摧毁了这里那我们就得在方舟要塞里面呆上一辈子了。",
+			"亜空間への転送装置の製造コストは、あなたたちが想像しているよるも遥かに高額なの。数年かけても孤児院とシベリアの2つだけが運転できる状態よ。壊したら、方舟に一生閉じ込められることになるわ。",
+			"아공간 전송 장치의 제조 비용은 너희들이 상상하는 것보다 훨씬 더 천문학적이야. 수년을 들여도 고아원과 시베리아의 2곳만이 가동 가능한 상태야. 부서뜨리면 방주에 평생 갇히게 될 거야.",
+			"The cost of manufacturing a transporter to subspace is far more expensive than you might imagine. It took several years, but only two of them, one in an orphanage and the other in Siberia, are operational. If you break it, you will be trapped in the Ark for the rest of your life.",
+			null,
+			"Hmph, the manufacturing cost of a teleporter to subspace is not something you can imagine, even if it took me several years only the two teleporters, the Orphanage and Siberia, could be put into operation, and if we destroy this place then we will have to spend the rest of our lives inside the Ark Fortress.",
+			"The cost of manufacturing a transporter to subspace is far more expensive than you might imagine. It took several years, but only two of them, one in an orphanage and the other in Siberia, are operational. If you break it, you will be trapped in the Ark for the rest of your life."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				216,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			254103,
+			null,
+			"怎么会……",
+			"そんな……。",
+			"그런……。",
+			"Oh...",
+			null,
+			"How come ......",
+			"Such is the case with ......."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				216,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			254104,
+			null,
+			"虽然不是瓦尔特大人想要的时机，但与其避而不战不如占领先机取得优势。布洛妮娅，让希儿和杏做好出击准备，",
+			"ヴェルト様の望んだタイミングではないが、ここで戦いを避けるよりも先に仕掛けて優位に立った方がいい。ブローニャ、ゼーレとシンに出撃の準備をさせなさい。",
+			"웰트님께서 원하시는 타이밍은 아니지만, 여기서 전투를 피하는 것보다 먼저 선제공격으로 우위를 점하는 게 좋겠군. 브로냐, 제레와 신에게 출격 준비를 시키도록 해요.",
+			null,
+			null,
+			"It wasn't the time Lord Welt wanted, but it was better to take the lead and gain the advantage than to avoid the battle. Bronya, get Seele and Sin ready to strike.",
+			"It is not the timing that Master Welt wanted, but it is better to set up first and gain the upper hand than to avoid a fight here. Bronya, have Seele and Sin prepare to go out."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			254105,
+			null,
+			"明白。",
+			"わかりました。",
+			"알겠습니다.",
+			"I understand.",
+			null,
+			"Understand.",
+			"I understand."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254106,
+			null,
+			"天命的几位，你们也做好出发准备吧，我会将作战指令单独传达给你们。",
+			"天命のお嬢さんたちも準備なさい。作戦指令を別個で伝えるわ。",
+			"천명의 아가씨들도 준비하세요. 작전 지시는 따로 전할 거예요.",
+			"And you Schicksal girls get ready to depart as well. I'll give you your orders separately.",
+			null,
+			"A few of you from Schicksal, get ready to depart as well, and I'll convey the battle orders to you individually.",
+			"Schicksal's daughters, get ready. I'll give you a separate mission order."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				216,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			254107,
+			null,
+			"就连现在你还是没有信任我们么……",
+			"まだ、私たちを信用していないんですね……。",
+			"아직도 우리를 믿지 않는 거네요…….",
+			"You still don't trust us. ......",
+			null,
+			"Even now you still don't trust us ......",
+			"You still don't trust us. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				false
+			],
+			[
+				216,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			254108,
+			null,
+			"没关系，芽衣。不管逆熵的态度如何，我只相信自己的选择。",
+			"いいよ、芽衣先輩。ネゲントロピーに何を言われても、自分の選択に間違いはないって信じるだけだから。",
+			"괜찮아, 메이 선배. 네겐트로피에게 뭐라고 듣더라도, 자신의 선택이 틀리지 않았다고 믿으면 되니까.",
+			null,
+			null,
+			"It's okay, Mei. Regardless of Anti-Entropy's attitude, I only believe in my own choices.",
+			"That's okay, Mei-senpai. No matter what Anti-Entropy says, I just have to believe that I made the right choice."
+		],
+		[
+			"msg",
+			254109,
+			null,
+			"妈妈…和天命决战的时刻终于到了！",
+			"ママ……ついに天命と決着をつける時がやってきたわ。",
+			"마마…… 이제 천명과 결판을 낼 때가 왔어요.",
+			"Mom...... it's finally time to settle with Schicksal.",
+			null,
+			"Mom...the time to battle Schicksal has finally arrived!",
+			"Mom...... it's finally time to settle with Schicksal."
+		]
+	],
+	"155": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10042"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254110,
+			null,
+			"报告，接收到来自辉煌盟约通讯请求。",
+			"報告です。天命、輝きの盟約より通信が届きました。",
+			"보고드립니다. 천명, 빛의 맹약으로부터 통신이 도착했습니다.",
+			"Report. A communication request was received from the Brilliant Covenant of Schicksal.",
+			null,
+			"Reporting receipt of a communication request from the Brilliant Covenant.",
+			"Report. Schicksal, a communication was received from the Pact of Splendor."
+		],
+		[
+			"bgm",
+			49
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254111,
+			null,
+			"……接通。",
+			"……繋げて。",
+			"……연결해.",
+			".......Connect.",
+			null,
+			"...... is connected.",
+			"Connect to ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254112,
+			null,
+			"滴——",
+			"ピッ——",
+			"삐——",
+			null,
+			null,
+			"Drop--",
+			"Peek--"
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				810,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			254113,
+			null,
+			"可可利亚女士，遵循之前的约定，这次我来亲自拜访逆熵，就让我们来好好清算一下彼此的恩怨吧~",
+			"カカリアさん、約束通り、僕はネゲントロピーのもとへと来た。お互い、積年の恨みを晴らそうじゃないか。",
+			"쿠쿠리아 씨, 약속대로 저는 네겐트로피의 곁으로 왔습니다. 서로 오랜 한을 풀어보자고요.",
+			null,
+			null,
+			"Ms. Cocolia, following our previous agreement, I've come to visit Anti-Entropy in person this time, so let's settle our mutual grudges properly~",
+			"Mr. Cocolia, as promised, I have come to Anti-Entropy. Let's both make amends for our long-standing grudges."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				810,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254114,
+			null,
+			"奥托……",
+			"オットー……。",
+			"오토…….",
+			"Otto ......",
+			null,
+			"Otto ......",
+			"Otto. ......."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				810,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			254115,
+			null,
+			"呵呵，没想到逆熵花了这么大的力气居然依靠雪山的掩护在天命的眼皮底下建造了如此巨大的基地，还真是煞费苦心呢。",
+			"ハハッ、まさかネゲントロピーが雪山の裏側に、これほど巨大な基地を作ってたなんてね……天命にバレないよう動くのは、さぞかし大変だっただろう？",
+			"하하, 설마 네겐트로피가 설산 뒤쪽에 이렇게 거대한 기지를 만들 줄이야…… 천명에 들키지 않게 움직이는 건 정말 힘들었겠지?",
+			null,
+			null,
+			"Oh, I didn't expect Anti-Entropy to spend so much effort actually relying on the cover of the snowy mountains to build such a huge base under the eyes of Schicksal, it's really a painstaking effort.",
+			"Haha, I never thought Anti-Entropy had built such a huge base behind the snowy mountains. ...... Must have been tough to move without Schicksal finding out, huh?"
+		],
+		[
+			"msg",
+			254116,
+			null,
+			"不过很可惜，你们精心策划的一切都会在今天化作泡影。不过不用担心，神会给予愚蠢的你们赎罪的机会，如果你们投降服从天命的话，我将宽恕你们犯下的过错。",
+			"君たちの計画は、今日、すべて水泡に帰す。非常に残念だね。でも、心配はいらないよ。神は愚かな君たちに贖罪のチャンスを与える——君たちが投降し天命に服従をするのなら、僕は君たちが犯した過ちを赦そう。",
+			"너희들의 계획은 오늘 모두 물거품이 될 거야. 정말 유감이네. 하지만 걱정은 마라. 신은 어리석은 너희들에게 속죄의 기회를 주셨으니——너희들이 항복해 천명에 복종한다면, 내가 너희의 죄를 용서해주지.",
+			null,
+			null,
+			"But unfortunately, everything you have carefully planned will come to naught today. But don't worry, God will give you fools a chance to atone for your sins, and if you surrender and obey Schicksal, I will forgive you for the transgressions you have committed.",
+			"All of your plans are going down the drain today. I'm very sorry. But don't worry. God will give you a chance for redemption if you surrender and submit to Schicksal, and I will forgive you for your mistakes."
+		],
+		[
+			"msg",
+			254117,
+			null,
+			"可可利亚女士，我给你三十秒时间，是降服于天命还是在这里化作灰烬…就由你自己来选择……",
+			"カカリアさん、30秒の猶予をあげよう。天命に投降するか、消し炭になるか……君が選びたまえ……。",
+			"쿠쿠리아 씨, 30초의 유예를 줄게. 천명에 항복하거나 재가 되거나…… 선택은 네 몫이야…….",
+			null,
+			null,
+			"Ms. Cocolia, I'll give you thirty seconds, whether you surrender to Schicksal or turn into ashes here...it's your choice ......",
+			"Mr. Cocolia, I give you 30 seconds. Surrender to Schicksal or be extinguished. ...... You choose. ......"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				810,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254118,
+			null,
+			"哼…三十秒太长，一秒钟就够了，我的答案只有一个！",
+			"ハッ……30秒もいらないわ。答えは1つに決まってる！",
+			"하……30초도 필요 없어. 답은 하나뿐이니까!",
+			"Hm...thirty seconds is too long, one second is enough, and I have only one answer!",
+			null,
+			"Hm...thirty seconds is too long, one second is enough, and I have only one answer!",
+			"Hah ...... I don't need 30 seconds. There has to be one answer!"
+		],
+		[
+			"msg",
+			254119,
+			null,
+			"全炮台启动！目标敌方旗舰！射击！",
+			"全砲台起動！目標、敵戦艦！撃てぇッーーー！",
+			"전 포대 가동! 목표, 적 전함! 발사―――!",
+			null,
+			null,
+			"Full battery activated! Target enemy flagship! Firing!",
+			"Activate all batteries! Target, enemy battleship! Fire!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254120,
+			null,
+			"……",
+			"…………。",
+			"………….",
+			null
+		],
+		[
+			"msg",
+			254121,
+			null,
+			"报告！炮台联线失去响应！有人切断了指挥所与炮台的联络网！",
+			"報告です！砲台に反応がありません！司令部と砲台とのネットワークが切断されているようです！",
+			"보고입니다! 포대에 반응이 없습니다! 사령부와 포대 간 네트워크가 차단된 것 같습니다!",
+			null,
+			null,
+			"Report! Battery link is unresponsive! Someone has cut off the command post's link to the battery!",
+			"Report! There is no response from the turret! It seems that the network between the command center and the turret is disconnected!"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254122,
+			null,
+			"怎么可能…难道是！？",
+			"そんな馬鹿な……まさかッ！？",
+			"그럴 리가…… 설마!?",
+			null,
+			null,
+			"How could it be...could it be!",
+			"That's ridiculous ...... No way!"
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				810,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			254123,
+			null,
+			"没错~可可利亚女士，看来我的小宁蒂好像破坏了你精心准备的欢迎仪式呢，真是抱歉~",
+			"あぁ、カカリアさん。僕のニンディちゃんが、君の用意した“おもてなし”を台無しにしたようだ。これは悪いことをしてしまったね。",
+			"아, 쿠쿠리아 씨. 내 닌디가 네가 준비한“환대”를 망쳐버린 모양이군. 이거 큰일을 저지르고 말았네.",
+			"Ah, Ms. Cocolia. It seems my little Ninti has spoiled the \"hospitality\" you have prepared for us. I'm sorry about that.",
+			null,
+			"That's right~ Ms. Cocolia, it seems as if my little Ninti has spoiled your carefully prepared welcome, I'm so sorry~",
+			"Ah, Mr. Cocolia. It seems my little Ninti has spoiled the \"hospitality\" you have prepared for us. I'm sorry about that."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				810,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254124,
+			null,
+			"宁蒂…又是那个女武神么！",
+			"ニンディ……また、あの戦乙女か！",
+			"닌디……또, 그 전투처녀인가!",
+			"Ninti... It's that valkyrie again!",
+			null,
+			"Ninti...is it that Valkyrie again!",
+			"Ninti...... also, that war maiden!"
+		],
+		[
+			"msg",
+			254125,
+			null,
+			"各单位注意！严查基地内部！给我把那个女武神揪出来！",
+			"各員、よく聞きなさい！基地内部を徹底的に洗え！あの戦乙女を見つけ出すんだ！",
+			"제군, 잘 들으라! 기지 내부를 철저히 수색하라! 그 전투처녀를 찾아내는 거다!",
+			"Each of you, listen up! Scour the inside of the base thoroughly! Find that Valkyrie!",
+			null,
+			"Attention all units! Scrutinize the interior of the base! Bring out that Valkyrie for me!",
+			"Each of you, listen up! Scour the inside of the base thoroughly! Find that war maiden!"
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				810,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			254126,
+			null,
+			"呵呵~好吧，既然您现在如此繁忙，那我就不打扰你了。是你们亲自挑选毁灭的道路，那我就满足你们的愿望吧~",
+			"フフッ、忙しいようだから、もう邪魔はしないでおくよ。破滅の道を選んだのは君たちだからね、その願い、僕が叶えてあげよう。",
+			"훗, 바쁜 모양이니 더 이상 방해는 안 할게. 파멸의 길을 선택한 건 너희들이니까, 그 소원 내가 이뤄줄게.",
+			null,
+			null,
+			"Oh~ well, since you're so busy right now, I'll leave you alone. You're the ones who handpicked the path of destruction, so I'll fulfill your wishes~",
+			"Huh, you seem busy, so I'll leave you out of it now. You have chosen the path of destruction, and I will fulfill your wish."
+		],
+		[
+			"msg",
+			254127,
+			null,
+			"希望下次再见的时候您还活着，可可利亚女士。",
+			"次に会う時までまだ生きていることを祈るよ、カカリアさん。",
+			"다음에 만날 때까지 아직 살아있기를 빌어, 쿠쿠리아씨.",
+			"I hope you are still alive the next time I see you, Ms. Cocolia.",
+			null,
+			"I hope you are still alive the next time I see you, Ms. Cocolia.",
+			"I hope you are still alive until the next time we meet, Mr. Cocolia."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254128,
+			null,
+			"滴——",
+			"ピッ——",
+			"삑——",
+			null,
+			null,
+			"Drop--",
+			"Peek--"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254129,
+			null,
+			"混账家伙！",
+			"チッ……あの野郎——ッ！",
+			"쳇……그 자식——!",
+			"Damn ...... that son of a--!",
+			null,
+			"Asshole!",
+			"Damn ...... that son of a--!"
+		],
+		[
+			"msg",
+			254130,
+			null,
+			"布洛妮娅…现在只能寄希望于你们了……",
+			"ブローニャ……あなたたちが唯一の希望よ……。",
+			"브로냐……너희들이 유일한 희망이야…….",
+			null,
+			null,
+			"Bronya...now we can only hope for you guys ......",
+			"Bronya ...... you guys are our only hope. ......"
+		]
+	],
+	"156": [
+		[
+			"speaker",
+			204581
+		],
+		[
+			"bg",
+			"CG10042"
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254131,
+			null,
+			"琪亚娜，久等了。接下来将为你们下达作战计划。",
+			"キアナ、待たせたわね。今から本作戦の詳細を伝える。",
+			"키아나, 기다리게 했네. 지금부터 본 작전의 상세 내용을 전할게.",
+			null,
+			null,
+			"Kiana, it's been a long time. The next step will be to give you the battle plan.",
+			"Kiana, sorry to keep you waiting. I will now give you the details of this operation."
+		],
+		[
+			"bgm",
+			78
+		],
+		[
+			"msg",
+			254132,
+			null,
+			"我们将与天命在这片雪山区域一较高下，目前天命的先头部队已经抵达雪山区域并拉开阵型展开推进，你们将会与她们的女武神部队展开战斗。",
+			"私たちはこれから、この雪山地帯で天命と戦うことになる。今、天命の先遣部隊がすでに雪山に到達し、陣を展開している。あなたたちには、その戦乙女部隊と戦ってもらうわ。",
+			"우리는 지금부터 이 설산 지대에서 천명과 싸우게 될 거야. 지금 천명의 선견 부대가 이미 설산에 도달해 진을 펼치고 있어. 너희들은 그 전투처녀 부대와 싸워줘.",
+			null,
+			null,
+			"We will be battling Schicksal in the snowy mountain region, where Schicksal's vanguard has already arrived and is advancing in formation, and you will be battling their Valkyrie forces.",
+			"We are now going to fight Schicksal in this snowy mountainous region. Right now, Schicksal's advance troops have already reached the snowy mountains and are deploying. You will be fighting against that war maiden squadron."
+		],
+		[
+			"msg",
+			254133,
+			null,
+			"不过不用担心，我知道你们有几斤几两，你们只要牵制住她们的行动即可，不要让她们接近传送站基地。",
+			"心配はいらないわよ。あなたたちの実力は把握済み、足止めさえできればそれでいいわ。ヤツらを転送基地へと近づけさせないで。",
+			"걱정할 필요 없어. 너희들의 실력은 파악 완료, 발목만 잡을 수 있으면 그걸로 돼. 녀석들을 전송 기지에 접근시키지 말아줘.",
+			null,
+			null,
+			"But don't worry, I know how much you guys have, you just have to hold them back and not let them get close to the teleportation station base.",
+			"Don't worry. We know what you're capable of. All we need to do is hold them off. Don't let them get anywhere near the transporter base."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				112,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			254134,
+			null,
+			"地面的女武神部队么…我明白了，这次不会再失败了。",
+			"地上の戦乙女部隊を足止めするのね……わかった。今度は失敗しないよ。",
+			"지상의 발키리 부대를 발묶어 두는 거네…… 알겠어. 이번엔 실패하지 않을 거야.",
+			null,
+			null,
+			"The Valkyrie forces on the ground?...I see, I won't fail this time.",
+			"You're going to strand a squad of war maidens on the ground. ...... I get it. I won't fail this time."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				112,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			254135,
+			null,
+			"哼，失去了姬子的指挥说实话我很担心你们能不能完成任务，如果要撤退的话现在还来得及。",
+			"ふん、正直に言うと姫子少佐の指揮を失った今、あなたたちが任務を達成できるか心配だわ。撤退するなら、まだ間に合うわよ。",
+			"흥, 솔직히 말해서 히메코 소좌의 지휘를 잃은 지금, 너희들이 임무를 달성할 수 있을지 걱정이야. 철수할 거라면 아직 늦지 않았어.",
+			null,
+			null,
+			"Hmph, losing Himeko's command honestly worries me if you guys will be able to finish the mission, it's not too late to retreat if you have to.",
+			"Hmm, to be honest, I'm worried about your ability to accomplish your mission now that you've lost Capt. Himeko's command. If you want to retreat, it's not too late."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				112,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			254136,
+			null,
+			"不要暗示了，我会用行动证明自己的！",
+			"遠回しに嫌味を言うのはやめてよね。私たちの実力、行動で証明して見せるんだから！",
+			"둘러대며 빈정대는 건 그만둬. 우리의 실력, 행동으로 증명해 보일 테니까!",
+			null,
+			null,
+			"Don't hint at it. I'll prove myself with my actions!",
+			"Don't be sarcastic in a roundabout way. We're going to show you what we're capable of, and we're going to prove it with our actions!"
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				false
+			],
+			[
+				112,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254137,
+			null,
+			"好吧，不过你要死在这冰天雪地的战场上我们也会很困扰，所以也为你找了一个最合适的帮手。",
+			"そう。でも、この雪山で死なれても目覚めが悪いからね、いい助っ人を見つけてきたわ。",
+			"그래. 하지만 이 설산에서 죽어도 기분이 좋지 않을 테니까, 좋은 조력자를 찾아왔어.",
+			null,
+			null,
+			"Okay, but we'd be bothered if you were going to die on this icy battlefield, so we've also found the perfect helper for you.",
+			"Right. But it's not a good wake-up call to die on this snowy mountain, so I've found a good helper."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				621,
+				0,
+				true
+			],
+			[
+				112,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			254138,
+			null,
+			"帮手……？",
+			"助っ人……？",
+			"조력자……?",
+			null,
+			null,
+			"Helpers ......?",
+			"Helpful ......?"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				112,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			254139,
+			null,
+			"琪亚娜，放心吧~有我在，谁都别想碰你一根寒毛！",
+			"キアナ、安心して。私がいる限り、あなたが傷つくことはないわ！",
+			"키아나, 안심해. 내가 있는 한, 네가 상처 입는 일은 없을 거야!",
+			null,
+			null,
+			"Kiana, don't worry~ With me here, no one will be able to touch a single cold hair on your head!",
+			"Kiana, don't worry. As long as I'm around, you won't get hurt!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				112,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			254140,
+			null,
+			"唔！绮罗姐！？你怎么在这里？",
+			"えっ、綺羅姉さん！？何でここに？",
+			"엇, 키라 언니!? 왜 여기에?",
+			null,
+			null,
+			"Uh-huh! Chloe! What are you doing here?",
+			"What, Kira-san! What are you doing here?"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				4,
+				false
+			],
+			[
+				112,
+				6,
+				true
+			]
+		],
+		[
+			"msg",
+			254141,
+			null,
+			"嘿嘿~和天命干仗怎么能少得了我这个天命最强的S级女武神呢！",
+			"ふふっ、天命と喧嘩するなら、この天命最強のS級戦乙女も参加しないと、でしょ！",
+			"후훗, 천명과 싸우려면 이 천명 최강의 S급 발키리도 참여해야지, 그렇지?",
+			"Hehe, if you're going to fight with Schicksal, then Schicksal's strongest S-class Valkyrie has to join in, right?",
+			null,
+			"Hehehe~ How can you do battle with Schicksal without me, the strongest S-ranked Valkyrie of Schicksal!",
+			"Pfft, if you're going to fight with Schicksal, this Schicksal's strongest S-class battle maiden has to join in, right?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				32,
+				4,
+				true
+			],
+			[
+				112,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			254142,
+			null,
+			"呃…绮罗姐，从各种意义上来说你这句话都很矛盾啊……",
+			"あっははっ……いろんな意味で矛盾してるよ、綺羅姉さん。",
+			"아하하…… 여러모로 모순돼 있네, 키라 언니.",
+			"Uh... Kira, that's a pretty contradictory statement on your part in every sense of the word ......",
+			null,
+			"Uh...Ella-chan, that's a pretty contradictory statement on your part in every sense of the word ......",
+			"Hahaha ...... You contradict yourself in many ways, Kira-sis."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				32,
+				4,
+				true
+			],
+			[
+				216,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			254143,
+			null,
+			"琪亚娜，这位就是你经常提到的时雨绮罗小姐吧？",
+			"キアナちゃん、この方がキアナちゃんがよく言っていた時雨綺羅さん？",
+			"키아나 쨩, 이 분이 키아나 쨩이 자주 말하던 시구레 키라 씨?",
+			"Kiana, is this the Shigure Kira that you often mention?",
+			null,
+			"Kiana, this is the Shigure Kira-san you've mentioned so often, isn't it?",
+			"Kiana, is this the Shigure Kira that Kiana used to talk about?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				6,
+				false
+			],
+			[
+				216,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			254144,
+			null,
+			"没错，绮罗姐在我小时候就经常照顾我，对我来说就和亲姐姐一样~",
+			"そうだよ。綺羅姉さんには、小さい頃からお世話になってるんだ！私にとって、本当のお姉さんみたいな存在なの。",
+			"맞아. 키라 언니는 어릴 때부터 돌봐 줬거든! 나에게는 진짜 언니 같은 존재야.",
+			"That's right. I've been indebted to Kira since I was a little girl! She's like a big sister to me.",
+			null,
+			"That's right, Eero-san used to take care of me when I was little, she's like a real sister to me~",
+			"That's right. I've been indebted to Kira since I was a little girl! She is like a real big sister to me."
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				3,
+				false
+			],
+			[
+				216,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			254145,
+			null,
+			"哼哼，芽衣妹妹~和琪亚娜一样叫我绮罗姐就行了。",
+			"へへっ、芽衣ちゃん、私のことはキアナと同じように綺羅姉さんって呼んでね。",
+			"헤헷, 메이, 나를 키아나처럼 키라 언니라고 불러줘.",
+			"Hehe~ Mei, you can call me Kira-neesan just like Kiana.",
+			null,
+			"Hmph, Mei-san~ Just call me Ero-san like Kiana.",
+			"Hehe, Mei, you can call me Kira sister, just like Kiana."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				32,
+				3,
+				true
+			],
+			[
+				216,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			254146,
+			null,
+			"唔…好的。",
+			"えっ……は、はい。",
+			"엣…… 하, 하임.",
+			"Uh.... Alright.",
+			null,
+			"Uh...okay.",
+			"Eh ......, yes."
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				2,
+				false
+			],
+			[
+				216,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			254147,
+			null,
+			"这边的情况我已经从逆熵的通讯中了解到了，没想到逆熵会主动联系我，真是让我体验到了一次当家长的感觉了~",
+			"状況はネゲントロピーと通信した際に聞いたわ。まさか、ネゲントロピーの方から連絡してくるなんて思わなかったけど……まるで、キアナの保護者になった気分ね。",
+			"상황은 네겐트로피와 통신했을 때 들었어. 설마 네겐트로피 쪽에서 연락이 올 줄은 몰랐지만…… 마치 키아나의 보호자가 된 기분이네.",
+			null,
+			null,
+			"I've already learned about the situation here from Anti-Entropy's newsletter, I didn't expect Anti-Entropy to take the initiative to contact me, it really makes me experience what it's like to be a parent for once~",
+			"I heard about the situation when I communicated with Anti-Entropy. I didn't expect Anti-Entropy to contact me, but ...... I feel as if I'm Kiana's guardian."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				32,
+				2,
+				true
+			],
+			[
+				112,
+				7,
+				false
+			]
+		],
+		[
+			"msg",
+			254148,
+			null,
+			"对不起绮罗姐，把你也卷了进来……",
+			"ごめんね、綺羅姉さん、巻き込んじゃって……。",
+			"미안해, 키라 언니, 끌어들여서…….",
+			"Sorry, Kira, I didn't mean to drag you into this...",
+			null,
+			"I'm sorry Sister Elaine for getting you involved ......",
+			"Sorry, Kira-sis, I didn't mean to drag you into this. ......"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				4,
+				false
+			],
+			[
+				112,
+				7,
+				true
+			]
+		],
+		[
+			"msg",
+			254149,
+			null,
+			"琪亚娜，我没有责怪你的意思，在这个混乱的时期没有谁能逃避，你只要相信自己的本心就行。",
+			"いいのよ、キアナを責めるつもりなんて、これっぽちもないわ。こんな混沌とした時代だもの、あなたは自分の心のままに行動すればいいの。",
+			"괜찮아, 키아나를 탓할 생각은 조금도 없어. 이런 혼돈의 시대인데, 넌 네 마음대로 행동하면 돼.",
+			"It's okay, I don't blame you in the slightest. In these chaotic times, you just have to follow your heart.",
+			null,
+			"Kiana, I don't mean to blame you, no one can escape in these chaotic times, you just have to trust your heart.",
+			"It's okay, I don't blame Kiana in the slightest. In these chaotic times, you just have to follow your heart."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				32,
+				4,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			254150,
+			null,
+			"但是战场可没有你们想的天真，多余的感情只会更快地送命。身为S级女武神的你难道也不懂这个道理么？",
+			"でも、戦場はあなたたちが思っているほど甘くはないわ。余計な感情は身を亡ぼすだけ、S級戦乙女のあなたならわかっているはずよ。",
+			"하지만 전장은 너희가 상상하는 것처럼 만만하지 않아. 쓸데없는 감정은 몸만 망칠 뿐이야, S급 전처녀인 넌 잘 알겠지.",
+			null,
+			null,
+			"But the battlefield isn't as naive as you think, and excess emotion will only get you killed faster. As an S-class Valkyrie, don't you understand that too?",
+			"But the battlefield is not as sweet as you think. You, as an S-class war maiden, know that unnecessary emotions will only kill you."
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				1,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254151,
+			null,
+			"这种激将法对我是没用的，我也只会做自己认为正确的事而已。不过还是感谢你信任我的能力，交付给我这个重任呢~",
+			"そういうの、私には通用しないわよ。私は、自分が正しいと思ったことをするだけ。けど、私を信じて連絡してくれたこと、感謝してるわ。",
+			"그런 소리 나한테 통하지 않아. 난 내가 옳다고 생각하는 일만 할 뿐이니까. 하지만 날 믿고 연락해 준 건 고마워.",
+			null,
+			null,
+			"I won't be able to use this kind of agitation, and I'll only do what I think is right. But thank you for trusting my abilities and giving me this important task.",
+			"That kind of thing doesn't work for me. I only do what I think is right. But I do appreciate you believing in me and reaching out to me."
+		],
+		[
+			"speaker",
+			204581
+		],
+		[
+			"portraits",
+			[
+				32,
+				1,
+				true
+			],
+			[
+				621,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			254152,
+			null,
+			"哼，我只是保证更高的成功率而已。",
+			"フンッ、成功率を高めたいだけよ。",
+			"흥, 성공률 높이고 싶은 것뿐이야.",
+			"Hmph, I'm just trying to increase the success rate.",
+			null,
+			"Heck, I'm just guaranteeing a higher success rate.",
+			"Hmph, I'm just trying to increase the success rate."
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				4,
+				false
+			],
+			[
+				621,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254153,
+			null,
+			"呵呵，看来逆熵都是些口是心非的家伙呢~琪亚娜，带上你的队友，我们出发吧！",
+			"ふふっ、ネゲントロピーの人は素直じゃない人ばっかみたいね～。さっ、キアナ、お友達を連れて出発するわよ！",
+			"후후, 네겐트로피 사람들 다들 꽤나 고집스러운 것 같네~. 자, 키아나, 친구들 데리고 출발하자!",
+			null,
+			null,
+			"Oh, it seems that Anti-Entropy are all mouth-breathers~ Kiana, bring your teammates and let's go!",
+			"Hmmm, Anti-Entropy people are not always so honest! Come on, Kiana, let's get your friend and let's go!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				32,
+				4,
+				true
+			],
+			[
+				112,
+				6,
+				false
+			]
+		],
+		[
+			"msg",
+			254154,
+			null,
+			"好的，绮罗姐！芽衣，我们走吧。有绮罗姐在的话就安心多了！",
+			"うん、綺羅姉さん！芽衣先輩、行こう！綺羅姉さんも一緒だし、安心だよ。",
+			"응、키라 누나！메이 선배、가자！키라 누나도 같이 계시니까、안심이야.",
+			null,
+			null,
+			"Okay, Ella-chan! Mei, let's go. It's a lot more peaceful with Eero-san around!",
+			"Yeah, Kira-sister! Mei, let's go! Kira-sister's with me, so I don't have to worry."
+		]
+	],
+	"157": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10043"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254155,
+			null,
+			"呼——呼——",
+			"——ヒュウゥウウッ！",
+			"휴우우욱!——",
+			"——Achoo!!",
+			null,
+			"Hoo-hoo-hoo.",
+			"--Huuuuuuuuh!"
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254156,
+			null,
+			"不愧是西伯利亚，离开战舰之后还真是寒冷呢……",
+			"さすがシベリア、戦艦の外はすっごい寒いね……。",
+			"역시 시베리아, 전함 밖은 엄청 춥네……。",
+			"It's very cold outside the battleship, as expected in Siberia. ......",
+			null,
+			"Not bad for Siberia, it's really cold after leaving the battleship ......",
+			"It's very cold outside the battleship, as expected in Siberia. ......"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				112,
+				1,
+				true
+			],
+			[
+				32,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			254157,
+			null,
+			"这里是这一带地势最高的地方了，我们行动的目的之一便是为了吸引对方的兵力，那么这里就是最显眼的位置了。",
+			"ここ一帯で標高が一番高いのはこの辺ね。私たちの目的は、向こうの兵力を引き寄せて足止めすることだから、ここなら目立って良いと思うわ。",
+			"이 일대에서 해발이 가장 높은 건 이 근처네. 우리의 목적은 저쪽 병력을 끌어들여 발을 묶는 거니까, 여기라면 눈에 띄어 좋을 것 같아.",
+			null,
+			null,
+			"This is the highest ground in the area, and one of the purposes of our operation is to attract the opponent's troops, so this is the most conspicuous position.",
+			"This is the highest elevation in the area. Our goal is to draw their troops over there and stall them, so this would be a good place to stand out."
+		],
+		[
+			"msg",
+			254158,
+			null,
+			"在这里点起烟雾，接下来只要埋伏起来等待女武神部队赶来后伏击她们就行了！",
+			"火を起こせば向こうの戦乙女部隊が勝手に来てくれるはずよ。隠れて待ち伏せしましょう。",
+			"불을 지르면 저쪽의 전투처녀 부대가 알아서 올 거야. 숨어서 매복하자.",
+			null,
+			null,
+			"Light up the smoke here, and then just wait in ambush for the Valkyries to arrive and ambush them!",
+			"If we start a fire, the war maidens over there will come on their own. Let's hide and ambush them."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				1,
+				false
+			],
+			[
+				32,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			254159,
+			null,
+			"绮罗姐…这些女武神也只是遵从奥托的指示罢了…用不着下手这么黑吧？",
+			"綺羅姉さん、あっちの戦乙女もオットーの指示に従っているだけだし、あんまり力には頼らないようにしたいんだけど……いいかな？",
+			"키라 누나, 저쪽의 전투녀도 오토의 지시를 따르고 있을 뿐이니 너무 힘에 의존하지 않도록 하고 싶은데…… 괜찮을까?",
+			null,
+			null,
+			"Eero-san...these Valkyries are just following Otto's instructions...there's no need to go so dark, right?",
+			"Kira-sis, the war maidens over there are just following Otto's instructions, and I don't want to rely too much on force. ...... can I?"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				112,
+				1,
+				true
+			],
+			[
+				32,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			254160,
+			null,
+			"可可利亚有一点说的没错，琪亚娜你还是太天真了一些~对于敌人的宽容就是对自己的残忍，不过你这样善良的想法我不讨厌，放心吧，我会手下留情的~",
+			"カカリアの言う通り、キアナは甘いわね。敵に甘いと、自分の首を絞めることになるわよ。でも……あなたの優しい心は嫌いじゃないわ。そうね、少しくらいは手加減してあげましょう。",
+			"쿠쿠리아의 말대로, 키아나는 순진하네. 적에게 관대하면 자신의 목을 조르는 꼴이 될 거야. 하지만…… 너의 상냥한 마음은 싫지 않아. 그래, 조금쯤은 봐줄 수 있지.",
+			null,
+			null,
+			"Cocolia is right about one thing, Kiana you're still a bit too naive~ Forgiving your enemy is cruelty to yourself, but I don't hate your kind thoughts like that, don't worry, I'll be merciful~",
+			"Cocolia is right, Kiana is naive. If you're naive to your enemies, you'll end up strangling yourself. But ...... I don't hate your kind heart. Yes, let's go easy on them at least a little."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				216,
+				1,
+				false
+			],
+			[
+				32,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			254161,
+			null,
+			"可是，逆熵究竟想用什么方法对付天命呢，如果我们不知道目的的话要如何才能为逆熵的进攻提供机会呢？",
+			"ところで、ネゲントロピーはどういった作戦で天命と戦うつもりなんでしょうか。目的がわからないことには、攻撃のチャンスを作ろうにも作れません。",
+			"그런데, 네겐트로피는 어떤 작전으로 천명과 싸울 생각입니까? 목적을 모르면 공격의 기회를 만들려고 해도 만들 수 없습니다.",
+			null,
+			null,
+			"But what exactly does Anti-Entropy want to do with Schicksal, and how can we provide an opportunity for Anti-Entropy to attack if we don't know the purpose?",
+			"By the way, what kind of strategy does Anti-Entropy intend to use to fight Schicksal? Without knowing the objective, we can't even try to create a chance to attack."
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				216,
+				1,
+				true
+			],
+			[
+				32,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			254162,
+			null,
+			"一切只能随机应变了，以目前双方的实力对比来看，我认为逆熵想要获胜在正面对抗上面没有丝毫的机会，所以可可利亚一定会考虑一下出其不意的方式。",
+			"そこは臨機応変にやるしかないわ。双方の実力を見ると、ネゲントロピーが正面から戦って勝てる可能性はほぼない。カカリアは、何か策を練って仕掛けるはずよ。",
+			"거긴 임기응변으로 해야겠지. 양쪽의 실력을 보면, 네겐트로피가 정면에서 싸워 이길 가능성은 거의 없어. 쿠쿠리아는 무슨 계책을 준비하고 공격할 거야.",
+			null,
+			null,
+			"Everything can only be improvised, with the current strength comparison between the two sides, I think that Anti-Entropy wants to win in a frontal confrontation on top of the not the slightest chance, so Cocolia will definitely consider a way to surprise.",
+			"We have to be resourceful there. Looking at the strengths of both sides, there is almost no chance that Anti-Entropy can win a head-to-head fight. Cocolia will have to come up with a plan."
+		],
+		[
+			"portraits",
+			[
+				216,
+				1,
+				true
+			],
+			[
+				32,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			254163,
+			null,
+			"从可可利亚那胸有成竹的样子来看一定有着自己的计划，与其猜测怀疑自乱阵脚不如做好自己该做的事情，我们只要完成自己的使命就好。",
+			"それにあの自信ぶりからして、きっと作戦の出来は上々なんだと思うわ。疑うよりもやるべきことをやって、作戦の成功に貢献しましょう。",
+			"게다가 저 자신감 넘치는 모습을 보아 분명 작전의 완성도는 훌륭할 거라고 생각해. 의심하기보다는 해야 할 일을 해서 작전의 성공에 기여합시다.",
+			null,
+			null,
+			"From Cocolia's confident look must have their own plans, rather than guessing and suspecting the self-confusion as well as do their own thing, we just need to complete their own mission on the good.",
+			"And I'm sure the operation is going well, judging by that confidence. Do what you have to do rather than doubt and contribute to the success of the operation."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				7,
+				false
+			],
+			[
+				32,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254164,
+			null,
+			"真羡慕绮罗姐，总是能这么乐观……",
+			"綺羅姉さん、すごいポジティブ……。",
+			"키라 언니, 정말 긍정적이네…….",
+			null,
+			null,
+			"I envy you, Elaine, for always being so optimistic ......",
+			"Kira sister, awesome positive ......."
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				112,
+				7,
+				true
+			],
+			[
+				32,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			254165,
+			null,
+			"哈哈~没想到能从你的口中听到这样的话呢~",
+			"あはははっ、まさかキアナにそう言われるとはね。",
+			"아하하핫, 키아나한테 그런 말을 들을 줄이야.",
+			"Haha, I didn't expect Kiana to say that.",
+			null,
+			"Haha~ I didn't expect to hear that from you~",
+			"Haha, I didn't expect Kiana to say that."
+		],
+		[
+			"portraits",
+			[
+				112,
+				7,
+				true
+			],
+			[
+				32,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			254166,
+			null,
+			"琪亚娜，这原本是你早就具备的优点，只是你已经将她遗忘了而已，不要总是被过去束缚，永远心怀希望，如果能保持这样的本心，将是你未来最大的宝物。",
+			"キアナ、あなたは忘れているようだけど、ポジティブなところがあなたの長所よ。過去に縛られず希望を抱くこと、その心を保つことができれば、いつかそれはあなたにとって、かけがえのない宝物になるわ。",
+			"키아나, 넌 잊고 있는 것 같지만 긍정적인 점이 네 장점이야. 과거에 얽매이지 않고 희망을 품는 것, 그 마음을 지킬 수 있다면 언젠간 너에게 있어서 대체할 수 없는 보물이 될 거야.",
+			null,
+			null,
+			"Kiana, this was originally a strength you possessed a long time ago, it's just that you've forgotten her, don't always be bound by the past, always have hope in your heart, and if you can keep this kind of heart, it will be your greatest treasure in the future.",
+			"Kiana, you seem to forget that positivity is your strength. If you can keep that spirit of hope and not be bound by the past, it will one day become a priceless treasure for you."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				7,
+				false
+			],
+			[
+				32,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			254167,
+			null,
+			"绮罗姐……",
+			"綺羅姉さん……。",
+			"키라 언니…….",
+			"Kira....",
+			null,
+			"Sister Cherry ......",
+			"Kira Sis. ......."
+		],
+		[
+			"portraits",
+			[
+				112,
+				1,
+				false
+			],
+			[
+				32,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			254168,
+			null,
+			"嗯，我记住了！",
+			"うん、わかった！",
+			"응, 알았어!",
+			"Yeah, I'll remember that!",
+			null,
+			"Uh, I'll keep that in mind!",
+			"Yeah, okay!"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				32,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			254169,
+			null,
+			"沙沙沙——",
+			"ザッ——ザッ——！",
+			"잡——잡——!",
+			"Rustle-",
+			null,
+			"Rustle-",
+			"Zzz--zzz--zzz--zzz--zzz!"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				32,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			254170,
+			null,
+			"嘘！来了，是天命的女武神部队。",
+			"しっ！来たわ、天命の戦乙女部隊よ。",
+			"쉿! 왔어, 천명의 전처녀 부대요.",
+			null,
+			null,
+			"Shh! It's coming. It's Schicksal's Valkyrie forces.",
+			"Shh! Here they come, the Schicksal War Maiden Squadron."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254171,
+			null,
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254172,
+			null,
+			"报告，玛丽亚大人，烟雾出现的位置什么都没有发现！",
+			"マリア様、報告します。煙の出所からは何も発見できませんでした。",
+			"마리아 님, 보고합니다. 연기의 발생지에서는 아무것도 발견하지 못했습니다.",
+			"Report, Lord Maria, nothing was found where the smoke appeared!",
+			null,
+			"Report, Lord Maria, nothing was found where the smoke appeared!",
+			"Maria, I am reporting. Nothing was found at the source of the smoke."
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				33,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			254173,
+			null,
+			"逆熵的臭虫又在搞什么花样……",
+			"ネゲントロピーのヤツら、一体何をするつもりですの……。",
+			"네겐트로피의 녀석들, 대체 뭘 할 셈이에요…….",
+			"Those damn Anti-Entropy... What are they planning...?",
+			null,
+			"Anti-Entropy bedbugs at it again ......",
+			"Anti-Entropy guys, what the hell are you going to do ......."
+		],
+		[
+			"bgm",
+			11
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254174,
+			null,
+			"蹭！",
+			"——ブォンッ！",
+			"——붕!",
+			"--BOOM!",
+			null,
+			"Rubbing!",
+			"--BOOM!"
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254175,
+			null,
+			"呃！",
+			"くっ、あぁッ！",
+			"큭, 아악!",
+			null,
+			null,
+			"Uh-huh!",
+			"Damn, ah!"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				33,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			254176,
+			null,
+			"有埋伏！",
+			"伏兵ッ！？",
+			"복병!?",
+			"An ambush!?",
+			null,
+			"There was an ambush!",
+			"Fushusei!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			254177,
+			null,
+			"砰！",
+			"シャキン——ッ！",
+			"샤킨——!",
+			null,
+			null,
+			"Bang!",
+			"Shakin--!"
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254178,
+			null,
+			"咕！",
+			"くっ！",
+			"큭!",
+			null,
+			null,
+			"Coo!",
+			"Damn!"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				33,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			254179,
+			null,
+			"这个武器是…音符咒剑！时雨绮罗……又是你这家伙！",
+			"これは……音符呪剣！時雨綺羅……またあなたですの！",
+			"이건...... 음부주검!시구레 키라...... 또 당신이군요!",
+			null,
+			null,
+			"This weapon is...the Sonic Spell Sword! Shigure Kira ...... It's you guys again!",
+			"This is ...... a musical note spell sword! Shigure Kira ...... it's you again!"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				4,
+				false
+			],
+			[
+				33,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254180,
+			null,
+			"玛丽亚~你还是和以前一样莽撞呢，我不是教过你这种情况一定要事先侦查清楚才行么~",
+			"マリア、考えなしのところは昔と変わらないわね。こういう場合、事前に偵察をしなさいって教えたでしょう？",
+			"마리아, 생각 없는 건 옛날이나 다름없군요. 이런 경우엔 사전에 정찰을 하라고 가르쳤을 텐데요?",
+			null,
+			null,
+			"Maria, you're still as rash as ever. Didn't I teach you that you should always do your research beforehand?",
+			"Maria, your lack of thinking is as old as time. Didn't I teach you to do reconnaissance in advance in cases like this?"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				32,
+				4,
+				true
+			],
+			[
+				33,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			254181,
+			null,
+			"呵呵…少来这套！区区叛徒也敢来教训我？别以为这种雕虫小技就能阻挡我！",
+			"ふふ……裏切り者のくせに、私に説教するつもりですの？小細工なんかで私を止められると思わないでくださる？",
+			"후후...... 배신자 주제에 저에게 설교하려는 거예요? 소소한 수작 따위로 날 막을 수 있을 거라 생각하지 말아 주시겠어요?",
+			null,
+			null,
+			"Oh...don't give me that! How dare a mere traitor lecture me? Don't think that this kind of carving can stop me!",
+			"Hmmm... ...... You're a traitor and you're going to lecture me? Don't think you can stop me with your tricks?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				false
+			],
+			[
+				33,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254182,
+			null,
+			"玛丽亚…就让我信守伽蓝时的约定，把我们之间的恩怨做个了结吧！",
+			"マリア、伽藍での約束……今、果たすわ。決着をつけましょう！",
+			"마리아, 가람에서의 약속...... 지금, 이룰 거예요. 결판을 내자고요!",
+			null,
+			null,
+			"Maria...let me keep my promise from the time of Garan and put an end to our feud!",
+			"Maria, I will fulfill my promise in the temple ...... now. Let's settle this!"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				true
+			],
+			[
+				33,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			254183,
+			null,
+			"哈哈哈！琪亚娜！这才多久没见你就已经如此嚣张了么？给我去死！",
+			"ククッ、アハハハッ——キアナ！少し会わない間に生意気になりましたわね。だったら、今すぐ死になさい！",
+			"쿡, 아하하하——키아나! 좀 만나지 않으니 건방져졌군요. 그렇다면, 당장 죽어버리세요!",
+			null,
+			null,
+			"Ha ha ha! Kiana! How long has it been since I've seen you and you're already so arrogant? Go to hell!",
+			"Kukk, ahahahaha - Kiana! You've gotten cocky in the little time I've seen you. Then die now!"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				2,
+				false
+			],
+			[
+				33,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			254184,
+			null,
+			"那可先得过我这关！",
+			"キアナに手を出すなら、私を倒してからにしなさい！",
+			"키아나에게 손을 대려면, 먼저 나를 쓰러뜨려야 할 거야!",
+			null,
+			null,
+			"Well, you'll have to go through me first!",
+			"If you are going to mess with Kiana, you will have to defeat me first!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				33,
+				3,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			254185,
+			null,
+			"砰！",
+			"ガキン——ッ！",
+			"가긴——!",
+			null,
+			null,
+			"Bang!",
+			"Clank--clank!"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				33,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			254186,
+			null,
+			"时雨绮罗，你难道是这个丫头的保姆么，别以为你能够护着她一辈子！",
+			"時雨綺羅ッ！この小娘の保護者にでもなったつもりですの？この子のお守りを、一生する気かしら？",
+			"시구레 키라! 이 꼬마의 보호자라도 된 셈이에요? 이 아이를 평생토록 지켜주실 작정이에요?",
+			null,
+			null,
+			"Shigure Kira, are you this girl's nanny, don't think you can protect her for the rest of her life!",
+			"Shigure Kira! Do you think you are the guardian of this little girl? Are you going to babysit her for the rest of her life?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				false
+			],
+			[
+				33,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254187,
+			null,
+			"绮罗姐，这是我和她之前的问题，就让我来自己解决吧。",
+			"綺羅姉さん、これは私とあいつの問題だから、自分で何とかするよ。",
+			"키라 언니, 이건 나와 그 녀석 사이의 문제니까 내가 직접 해결할게.",
+			null,
+			null,
+			"Erika-san, this is a problem between me and her before, let me solve it myself.",
+			"Sister Kira, this is between me and that guy, I'll take care of it myself."
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				true
+			],
+			[
+				32,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			254188,
+			null,
+			"琪亚娜……",
+			"キアナ……。",
+			"키아나......",
+			null,
+			null,
+			"Kiana......",
+			"Kiana......。"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				false
+			],
+			[
+				32,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			254189,
+			null,
+			"玛丽亚，我知道你憎恨我抢走了你圣女的位置，但那时幼小的我被妈妈保护着，根本不知道“圣女”是一个多么沉重的词语，直到现在我才明白它对于沙尼亚特家的意义……",
+			"マリア、聖女の立場を奪った私を憎んでいるのはわかってる。幼い頃の私は、聖女の重要性を微塵も理解していなかった……でも、今になってやっと、シャニアテ家にとってどういう存在なのかわかったの。",
+			"마리아, 성녀의 자리를 빼앗은 날 미워하는 건 알아. 어릴 땐 성녀의 중요성을 조금도 몰랐지만... 이제서야 샤니아테 가문에 어떤 존재인지 깨달았어.",
+			null,
+			null,
+			"Maria, I know you hated me for taking away your position as a saint, but as a young girl protected by my mother, I didn't know what a heavy word \"saint\" was, and I don't understand its significance for the Sarnats until now. ......",
+			"Maria, I know you hate me for taking away your position as a saint. As a young girl, I didn't understand the importance of the saints in the slightest ......, but now I finally understand what they mean to the Chaniate family."
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				32,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			254190,
+			null,
+			"但既然妈妈把这一切交付给我，我就不能辜负妈妈的心意！就算是你也一样！",
+			"ママがそれを私に託したからには、ママの想いを無駄にするわけにはいけない！たとえ、相手があんたでも！",
+			"엄마가 나에게 맡긴 이상, 엄마의 마음을 헛되게 할 순 없어! 상대가 너라도!",
+			null,
+			null,
+			"But since mom delivered this to me, I can't fail her! Even if it's you!",
+			"Since Mom entrusted it to me, I can't let her thoughts go to waste! Even if it's you!"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				true
+			],
+			[
+				33,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			254191,
+			null,
+			"呵呵呵…哈哈哈！！！看来你还真是自大了不少呢！不仅自大…而且还自以为是！",
+			"フフッ、アハハハハハッ！！本当に生意気な小娘！生意気なだけじゃない……なんて傲慢なヤツ！",
+			"훗, 아하하하하하! 정말 건방진 꼬맹이! 건방진 것만이 아니라... 얼마나 오만한 녀석인지!",
+			null,
+			null,
+			"Heh heh heh...hahaha!!!! Looks like you've gotten quite arrogant! Not only arrogant...but also self-righteous!",
+			"Pfft, ahahahahahaha! A really cocky little girl! Not only cocky, but ...... what an arrogant guy!"
+		],
+		[
+			"msg",
+			254192,
+			null,
+			"不过这些已经无所谓了，我也懒得和你争论沙尼亚特家的使命，因为你根本不配！",
+			"でも、関係ない。シャニアテ家の使命を、今さらあなたに説く気なんてないもの。だって、そもそもあなたには相応しくないのですから！",
+			"하지만 상관없어요. 샤니아테 가문의 사명을 지금 와서 당신에게 설명할 생각 따윈 없으니. 애초에 당신은 그럴 자격이 없으니까요!",
+			null,
+			null,
+			"But that doesn't matter anymore, and I don't care to argue with you about the mission of the Shagnat family, because you don't deserve it!",
+			"But it doesn't matter. I'm not going to lecture you on the mission of the Chaniate family now. Because you don't deserve it in the first place!"
+		],
+		[
+			"msg",
+			254193,
+			null,
+			"你现在要做的…就是死在这里！！",
+			"今、あなたに願うのは……この場で死んでもらうことだけですの！！",
+			"지금 당신에게 바라는 건... 이 자리에서 죽어주는 것 뿐이에요!!",
+			null,
+			null,
+			"All you have to do now...is die here!",
+			"All I ask of you now is that you die here at ......!"
+		]
+	],
+	"158": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10043"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254194,
+			null,
+			"轰隆——",
+			"ドォオオオオオン——ッ！",
+			"두오오오온——!",
+			null,
+			null,
+			"Rumble--",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254195,
+			null,
+			"呃！",
+			"ん……あぁああッ！",
+			"음...... 아아아악!",
+			null,
+			null,
+			"Uh-huh!",
+			"I'm not sure what to do. ...... ahhhhh!"
+		],
+		[
+			"bgm",
+			11
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				true
+			],
+			[
+				32,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			254196,
+			null,
+			"琪亚娜！不要强行与她抗衡！学会利用地形与她周旋！",
+			"キアナ！力ずくじゃ勝てないわよ！地形を利用して、攻撃を回避しなさい！",
+			"키아나! 힘으로는 이길 수 없어! 지형을 이용해서 공격을 피해!",
+			null,
+			null,
+			"Kiana! Don't force yourself to fight her! Learn to use the terrain to maneuver around her!",
+			"Kiana! You can't win by force! Use the terrain to evade their attacks!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				false
+			],
+			[
+				32,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254197,
+			null,
+			"好的，绮罗姐！",
+			"わかってるよ、綺羅姉さん！",
+			"알겠어, 키라 누나!",
+			null,
+			null,
+			"Okay, Sister Elaine!",
+			"I know, sister Kira!"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				112,
+				3,
+				true
+			],
+			[
+				33,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			254198,
+			null,
+			"哈哈哈哈！琪亚娜！不是要和我做个了断么！难道你的了断就是这样抱头鼠窜而已么！",
+			"ハハハハッ、キアナ！決着をつけるんじゃなかったんですの？まさか、あなたにとっての決着とは逃亡を意味するのかしら！",
+			"하하하핫, 키아나! 결착을 짓는 게 아니었어? 설마, 당신에게 결착이란 도망을 의미하는 거야?",
+			null,
+			null,
+			"Ha ha ha ha! Kiana! I thought you were going to finish me off! Is that what you're going to do? Run away like this?",
+			"Hahahahaha, Kiana! I thought we were going to settle this? Don't tell me that for you, settling means escape!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				33,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			254199,
+			null,
+			"就是现在！",
+			"——んなわけないでしょ、今だ！",
+			"——그럴 리 없잖아, 지금이야!",
+			null,
+			null,
+			"It's now!",
+			"-No, of course not, it's now!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				33,
+				3,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			254200,
+			null,
+			"砰！",
+			"パァン——！",
+			"팡——!",
+			null,
+			null,
+			"Bang!",
+			"PANG--!"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				33,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			254201,
+			null,
+			"啧！",
+			"ちっ！",
+			"쳇!",
+			null,
+			null,
+			"Tsk!",
+			"Dang!"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				3,
+				false
+			],
+			[
+				33,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254202,
+			null,
+			"干得不错！琪亚娜！",
+			"やったわ、キアナ！",
+			"해냈어, 키아나!",
+			null,
+			null,
+			"Well done! Kiana!",
+			"We did it, Kiana!"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				32,
+				3,
+				true
+			],
+			[
+				33,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			254203,
+			null,
+			"呵呵呵…别以为得逞了一次就沾沾自喜了！",
+			"フフ……たかが一回攻撃が当たったくらいで、喜ばないでくださる？",
+			"후훗...... 단 한 번 공격이 맞았다고 그렇게 기뻐하지 말아주시겠어?",
+			null,
+			null,
+			"Heh heh heh...don't think you're complacent after getting your way once!",
+			"......Would you please stop rejoicing over just one hit?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				33,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254204,
+			null,
+			"轰隆——",
+			"ドォオオオオオン——ッ！！",
+			"두오오오오온——쯧!!",
+			"Rumble—",
+			null,
+			"Rumble--",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				false
+			],
+			[
+				33,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254205,
+			null,
+			"玛丽亚！我知道自己现在还不是你的对手！但就算如此！我也不会让你跨过这里一步！在我的身后还有需要保护的同伴！",
+			"マリア！今の私じゃ、まだあんたに勝てないのはわかってる！わかってるけど、ここから先には絶対に行かせない！私の後ろには、守るべき仲間がいるから！",
+			"마리아! 지금의 나론 아직 당신을 이길 수 없다는 걸 알아! 알아도 여기서 더는 절대 넘어가게 못 해! 내 뒤엔 지켜야 할 동료들이 있으니까!",
+			null,
+			null,
+			"Maria! I know I'm no match for you right now! But even so! I won't let you take a step beyond here! Behind me are companions who need protection!",
+			"Maria! I know I can't beat you yet! I know that, but I won't let you go any further! Because I have friends behind me that I need to protect!"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				112,
+				2,
+				true
+			],
+			[
+				33,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			254206,
+			null,
+			"不用担心！很快你就可以和那些同伴一起携手黄泉了！",
+			"心配いらないわ。すぐにそのお仲間にも会わせてあげます、あの世でね！",
+			"걱정 마세요. 곧 그 동료들도 만나게 해줄 테니까, 저 세상에서 말이죠!",
+			"Don't worry. Soon you'll be joining hands with them in the afterlife!",
+			null,
+			"Don't worry! Soon you'll be able to join hands with those companions in the Yellow Springs!",
+			"Don't worry. We'll see that fellow soon, in the afterlife!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				33,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			254207,
+			null,
+			"轰隆——",
+			"ドォオオオオオン——ッ！！",
+			"두오오오온——!!",
+			null,
+			null,
+			"Rumble--",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				33,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			254208,
+			null,
+			"玛丽亚大人，辉煌盟约的通讯要求我们报告敌方的守备部署！目前旗舰已经进入雪山区域！",
+			"マリア様、輝きの盟約より通信が入りました。敵の守備配置を報告せよとのことです。それから、戦艦はすでに雪山地帯へと入りました。",
+			"마리아 님, 빛의 맹약에서 연락이 왔습니다. 적의 방어 배치를 보고하라는 지시입니다. 전함은 이미 설원 지대에 진입했습니다.",
+			null,
+			null,
+			"Lord Maria, communications from the Brilliant Covenant request that we report on the enemy's garrison deployment! The flagship has now entered the snowy mountain region!",
+			"Dear Maria, we have received a transmission from the Pact of Splendor. They asked me to report the enemy's defensive position. Then the battleships have already entered the snowy mountainous area."
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				33,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			254209,
+			null,
+			"哼！除了一些破铜烂铁的机甲之外就只有这些叛徒在殊死抵抗，逆熵的气数已尽，根本不堪一击！就这些臭鱼烂虾用不着奥托出手，我一个人就能够杀光她们！",
+			"ふん、ボロボロの機甲の他には、この裏切り者たちしかいないわ！ネゲントロピーもおしまいね！こいつらだけじゃ、オットーの出る幕もないですの。私ひとりで皆殺しにできますわ！",
+			"흥! 낡아빠진 기갑과 이 배신자들뿐이잖아! 네겐트로피도 끝장이네! 이 정도론 오토까지 나설 필요도 없어. 나 혼자서 다 죽여버릴 수 있다고!",
+			null,
+			null,
+			"Hmph! Apart from some broken mechs, these traitors are the only ones resisting to the death, Anti-Entropy is out of gas and is simply unbeatable! I don't need Otto's help, I can kill them all by myself!",
+			"Hmmm, besides the battered and tattered armor, there's only these traitors! Anti-Entropy is finished! With them alone, there's no room for Otto. I can kill them all by myself!"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				4,
+				false
+			],
+			[
+				33,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			254210,
+			null,
+			"这么狂妄自大可是要吃亏的哦！玛丽亚！",
+			"過度な自信は足元をすくわれるわよ、マリア。",
+			"과한 자신감은 발목을 잡히는 법이야, 마리아.",
+			null,
+			null,
+			"It's not good to be so cocky! Maria!",
+			"Excessive confidence will get you off on the wrong foot, Maria."
+		],
+		[
+			"portraits",
+			[
+				32,
+				2,
+				false
+			],
+			[
+				33,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			254211,
+			null,
+			"琪亚娜！不要停下攻击！",
+			"キアナ、攻撃を続けなさい！",
+			"키아나, 계속 공격하라!",
+			null,
+			null,
+			"Kiana! Don't stop attacking!",
+			"Kiana, continue your attack!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				32,
+				2,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254212,
+			null,
+			"轰隆——",
+			"ドォオオオオオン——ッ！！！！",
+			"드오오오오온——!!!!",
+			null,
+			null,
+			"Rumble--",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo-- ！！！！"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				32,
+				2,
+				true
+			],
+			[
+				33,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			254213,
+			null,
+			"哼！就凭你们几个也敢痴心妄想战胜天命？除了耍些小把戏就一无是处的废物们……",
+			"ふん！あなたたちだけで天命に勝とうだなんて、馬鹿な連中！小細工しかできない能なしどもが！",
+			"흥! 너희 따위가 천명을 이길 수 있을 거라 생각하다니 바보들! 잔꾀밖에 모르는 무능력자들이!",
+			null,
+			null,
+			"Hmph! How dare you guys think you can defeat Schicksal? You're nothing but a bunch of punks who can't do anything but play tricks. ......",
+			"Hmph! You are all fools to think you can win Schicksal by yourselves! You are nothing but tricks!"
+		],
+		[
+			"msg",
+			254214,
+			null,
+			"等等…难道说这些家伙的目的只是故意吸引注意的诱饵么？",
+			"いや、まさか……こいつらは注意を引くための囮？",
+			"아니, 설마…… 이 녀석들은 주의를 끌기 위한 미끼?",
+			null,
+			null,
+			"Wait...is it possible that these guys were meant to be nothing more than intentional attention-grabbing bait?",
+			"No, you don't think ...... these guys are bait to get attention?"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				1,
+				false
+			],
+			[
+				33,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254215,
+			null,
+			"呃……",
+			"うっ……。",
+			"윽…….",
+			null,
+			null,
+			"Uh ......",
+			"Ugh. ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				33,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254216,
+			null,
+			"轰隆——",
+			"ドォオオオオオン——ッ！！",
+			"도오오오온——!!",
+			null,
+			null,
+			"Rumble--",
+			"Dooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				33,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			254217,
+			null,
+			"从刚才开始就隐约传来的轰鸣声…原来这才是你们的底牌么！",
+			"先ほどから聞こえてくるこの音……もしや、あれがあなたたちの本命ですの！？",
+			"아까부터 들려오는 이 소리…… 혹시 저것이 당신들의 본명수입니까!?",
+			null,
+			null,
+			"The roaring sound that has been faintly coming from just now...so this is your bottom card!",
+			"This sound I've been hearing for a while now: ...... If that's what you guys really want!"
+		],
+		[
+			"msg",
+			254218,
+			null,
+			"女武神部队听命！不要与这些家伙纠缠！把敌方的隐藏目标找出来！",
+			"チッ、戦乙女部隊に告ぐ！こいつらの相手は不要よ、ヤツらの真の目的がなんなのか探るんですの！",
+			"쳇, 전처녀 부대에 고한다! 이 녀석들의 상대는 불필요해, 놈들의 진짜 목적이 무엇인지 탐구하라고!",
+			null,
+			null,
+			"Valkyrie troops to your command! Do not tangle with these guys! Find the enemy's hidden targets!",
+			"I say to the war maidens, we don't need to deal with them! We don't need to deal with them, we need to find out what their real purpose is!"
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				33,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			254219,
+			null,
+			"是！",
+			"はッ、かしこまりました！",
+			"하앗, 알겠습니다!",
+			null,
+			null,
+			"Is!",
+			"Yes, sir!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				true
+			],
+			[
+				112,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			254220,
+			null,
+			"绮罗姐！这…这到底是怎么回事？",
+			"綺羅姉さん、一体どういうこと？",
+			"키라 언니, 대체 무슨 일이야?",
+			null,
+			null,
+			"Sister Cherry! What...what the hell is going on here?",
+			"Kira, what the hell is going on?"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				1,
+				false
+			],
+			[
+				112,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			254221,
+			null,
+			"可可利亚的目的恐怕是利用兵神发动奇袭…她让我们正面牵制女武神的目的就是为了给兵神的移动创造条件，没想到还是被玛丽亚发现了……",
+			"カカリアの目的は、おそらく兵神を使って奇襲を仕掛けることよ……私たちに足止めさせたのは、兵神の移動時間を稼ぐため……けど、それももうマリアに気付かれてしまったわね……。",
+			"쿠쿠리아의 목적은 아마도 병신을 이용해 기습을 가하려는 것이겠지…… 우리를 발목 잡아둔 건 병신의 이동 시간을 벌기 위해서…… 하지만 그마저도 마리아에게 들켜 버렸군…….",
+			null,
+			null,
+			"I'm afraid that Cocolia's purpose is to use Hyouga to launch a surprise attack... She asked us to hold the Valkyries frontally in order to create conditions for Hyouga's movement, but I didn't expect to be discovered by Maria anyway ......",
+			"Cocolia's goal was probably to use the Hyogin to surprise us ...... to buy time for the Hyogin to travel to get to us, but that's already been noticed by Maria! ......."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				32,
+				1,
+				true
+			],
+			[
+				112,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			254222,
+			null,
+			"兵神…是圣芙蕾雅学园战斗时的那台巨大机甲么？",
+			"兵神……それって聖フレイヤ学園で戦った時にも出てきた、あの巨大機甲のこと？",
+			"병신…… 그거 세인트 프레야 학원에서 싸웠을 때 나왔던 그 거대 기갑 말이야?",
+			null,
+			null,
+			"Hyoujin...is that the giant mecha from the battle at St. Freya High School?",
+			"Hyogin_...... is that that giant machine armored thing that was there when we fought at St. Freya High School?"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				2,
+				false
+			],
+			[
+				112,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			254223,
+			null,
+			"没错，琪亚娜！玛丽亚交给我来牵制！你们想办法阻止那些接近兵神的女武神！",
+			"その通り。マリアは私が相手するから、キアナは兵神に向かおうとする戦乙女を止めてちょうだい。",
+			"그래. 마리아는 내가 상대할 테니 키아나는 병신을 향해 가려는 전처녀를 막아줘.",
+			null,
+			null,
+			"That's right, Kiana! I'll hold Maria back! You guys find a way to stop the Valkyries that are approaching Hyouga!",
+			"That's right. I will deal with Maria, and Kiana, please stop the war maid who tries to go to the god of war."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				32,
+				2,
+				true
+			],
+			[
+				112,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			254224,
+			null,
+			"好的！芽衣我们走！",
+			"わかった！行こう、芽衣先輩！",
+			"알겠어요! 가자, 메이 선배!",
+			null,
+			null,
+			"Okay! Mei let's go!",
+			"Okay, okay! Let's go, Mei senior!"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				2,
+				false
+			],
+			[
+				112,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			254225,
+			null,
+			"琪亚娜！",
+			"あっ、キアナ！",
+			"아, 키아나!",
+			null,
+			null,
+			"Kiana！",
+			"Oh, Kiana!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				32,
+				2,
+				true
+			],
+			[
+				112,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			254226,
+			null,
+			"绮罗姐？还有什么要叮嘱的么？",
+			"うん？綺羅姉さん？まだ何かあるの？",
+			"응? 기라 언니? 아직 뭔가 있는 거야?",
+			null,
+			null,
+			"Chloe? Is there anything else you want to tell me?",
+			"Hm? Kira? Is there anything more?"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				32,
+				4,
+				false
+			],
+			[
+				112,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			254227,
+			null,
+			"不…没什么了，你果然长大了呢~",
+			"いえ……何でもないわ。キアナ、よくそこまで育ったわね。",
+			"아니… 아무것도 아니야. 키아나, 잘 그렇게까지 자랐구나.",
+			null,
+			null,
+			"No...it's nothing, you've really grown up~",
+			"No, ...... it's nothing. Kiana, I'm amazed you grew up there."
+		],
+		[
+			"msg",
+			254228,
+			null,
+			"注意安全哦~",
+			"気を付けていってらっしゃい。",
+			"조심히 다녀와.",
+			null,
+			null,
+			"Be safe.",
+			"Have a safe trip."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				32,
+				4,
+				true
+			],
+			[
+				112,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			254229,
+			null,
+			"嗯！绮罗姐也是！",
+			"うん！綺羅姉さんも気を付けてね！",
+			"응! 기라 언니도 조심해!",
+			null,
+			null,
+			"Uh-huh! Sister Ella too!",
+			"Yeah, I'll be there! Be careful, Kira-san!"
+		],
+		[
+			"speaker",
+			291876
+		],
+		[
+			"portraits",
+			[
+				33,
+				3,
+				false
+			],
+			[
+				112,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			254230,
+			null,
+			"休想就这么离开！！",
+			"逃がすと思いますの！？",
+			"놓쳐줄 것 같아요!?",
+			null,
+			null,
+			"Don't even think about leaving like that!",
+			"You think I'm going to let you go?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				33,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254231,
+			null,
+			"砰！",
+			"カン——ッ！",
+			"칸——!",
+			null,
+			null,
+			"Bang!",
+			"Kang--kang!"
+		],
+		[
+			"speaker",
+			204591
+		],
+		[
+			"portraits",
+			[
+				33,
+				3,
+				true
+			],
+			[
+				32,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			254232,
+			null,
+			"玛丽亚，你的对手是我！",
+			"マリア、あなたの相手は私よ！",
+			"마리아, 당신의 상대는 나야!",
+			null,
+			null,
+			"Maria, you're up against me!",
+			"Maria, you're dealing with me!"
+		]
+	],
+	"159": [
+		[
+			"speaker",
+			204735
+		],
+		[
+			"bg",
+			"CG10044"
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254233,
+			null,
+			"收到前方女武神部队的报告，侦测到逆熵的巨型作战机甲“兵神”的行踪，正在向辉煌盟约的方向加速靠近。",
+			"前方の戦乙女部隊より報告です。ネゲントロピーの大型作戦機甲「兵神」の反応を捕捉、輝きの盟約に向けて加速前進中です。",
+			"전방의 전처녀 부대에서 보고드립니다. 네겐트로피의 대형 작전 기갑「병신」의 반응을 포착, 빛의 맹약을 향해 가속 전진 중입니다.",
+			null,
+			null,
+			"A report was received from the Valkyrie forces in front of them, detecting the movements of Anti-Entropy's giant combat mech \"Hyrule\", which was speeding up in the direction of the Splendor Pact.",
+			"This is a report from the forward war-maiden unit. We have captured a response from Anti-Entropy's large operational armored \"Hyokoshin\" and are accelerating forward toward the Pact of Brilliance."
+		],
+		[
+			"bgm",
+			49
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				810,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254234,
+			null,
+			"哼，圣芙蕾雅学园出现的那台机甲么，似乎能够避开雷达的检测，不过看来隐藏自己的本事还没做到家呢。",
+			"ふん、聖フレイヤ学園にいたあの機甲か。レーダーの探知は避けられるようだが、身を隠すのはまだまだのようだね。",
+			"흠, 세인트 프레야 학원에 있던 그 기갑인가. 레이더 탐지는 피할 수 있을지 몰라도, 몸을 숨기는 건 아직 한참 모자라 보이는군.",
+			null,
+			null,
+			"Hmph, that mecha that appeared at St. Freya High School? It seems to be able to avoid radar detection, but it seems that the ability to hide oneself isn't quite there yet.",
+			"Hmmm...that armored one from St. Freya High School. It seems to be able to avoid radar detection, but it still seems to have a long way to go to hide itself."
+		],
+		[
+			"msg",
+			254235,
+			null,
+			"小辉火，准备发射主炮。",
+			"輝火ちゃん、主砲発射の用意を。",
+			"키카, 주포 발사 준비를.",
+			null,
+			null,
+			"Kogai Fire, prepare to fire the main gun.",
+			"Shine fire, get ready to fire the main gun."
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				809,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254236,
+			null,
+			"是是…“Baumkuchen”已经充能完毕，正在输入位置坐标。",
+			"はいはい……「バームクーヘン」充填完了——位置座標入力中。",
+			"네네……「바움쿠헨」충전 완료——위치 좌표 입력 중.",
+			null,
+			null,
+			"Yes, yes... \"Baumkuchen\" has been recharged and is entering position coordinates.",
+			"Yes Yes Yes ...... \"baumkuchen\" filling completed--position coordinates being entered."
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				810,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254237,
+			null,
+			"在这狭窄的雪山地带，就算没有雷达以那个庞大机甲的身躯几乎是无所遁形，命令地面部队时刻报告兵神方位，就让我来毁掉你最后的希望吧，可可利亚。",
+			"レーダーは避けられても、この狭い雪山地帯であの巨体じゃ隠れることなどできないだろう。地上部隊に兵神の位置を随時報告させるように。君の最後の希望を砕かせてもらうよ、カカリア。",
+			"레이더는 피할 수 있어도, 이 좁은 설산 지대에서 그 거체로는 숨을 수 없을 거야. 지상 부대에게 병신의 위치를 수시로 보고하도록 해. 네 마지막 희망을 부숴주마, 쿠쿠리아.",
+			null,
+			null,
+			"In this narrow snowy mountain area, even without radar with that huge mech's body is almost nothing to hide, ordering the ground troops to always report the location of the Hyoujin, let me destroy your last hope, Cocolia.",
+			"Even if they can avoid radar, they will not be able to hide in this narrow snowy mountainous area with that huge body. Have the ground troops report the position of the god of war as needed. Let me crush your last hope, Cocolia."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254238,
+			null,
+			"轰隆！！！！",
+			"ドドドドドドォ——ッ！！！",
+			"두두두두두두——!!",
+			null,
+			null,
+			"Rumble ！！！！",
+			"DODODODODODODODODODODO--!"
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				810,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254239,
+			null,
+			"？",
+			"……？",
+			"......?",
+			null,
+			null,
+			"?",
+			"......?"
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254240,
+			null,
+			"奥托大人！战舰前方山谷发生巨大雪崩！",
+			"オットー様！戦艦前方の山あいにて、大規模な雪崩が発生しました！",
+			"오토 님! 전함 전방 산골짜기에서 대규모 눈사태가 발생했습니다!",
+			null,
+			null,
+			"Lord Otto! A huge avalanche has occurred in the valley ahead of the battleship!",
+			"Dear Otto! A massive avalanche has occurred in the mountains ahead of the battleship!"
+		],
+		[
+			"speaker",
+			204665
+		],
+		[
+			"portraits",
+			[
+				809,
+				4,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254241,
+			null,
+			"那些家伙想要用雪崩来掩盖自己的行踪么！喂！奥托！还要继续发射么？",
+			"あいつら、雪崩で自分たちの姿を隠す気？ねぇ、オットー、まだ発射態勢は維持しとく？",
+			"이 자식들, 눈사태로 자기들 모습을 숨기려는 거야? 저기, 오토, 아직 발사 태세는 유지할까?",
+			null,
+			null,
+			"Are those guys trying to cover their tracks with an avalanche! Hello! Otto! Do you want to keep firing?",
+			"Are they trying to hide themselves in the avalanche? Hey, Otto, do you still want to maintain launch position?"
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				810,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254242,
+			null,
+			"一群自作聪明的家伙…辉煌盟约，向后方撤退！",
+			"小賢しいヤツらだ……輝きの盟約、後方へと一時撤退せよ！",
+			"약삭빠른 놈들...... 빛의 맹약, 후방으로 일시 후퇴하라!",
+			null,
+			null,
+			"Bunch of smartasses...Brilliant Covenant, retreat to the rear!",
+			"They're clever guys. ...... Pact of Brilliance, retreat to the rear temporarily!"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204735
+		],
+		[
+			"portraits",
+			[
+				694,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254243,
+			null,
+			"报告！侦测到右侧雪山山体出现热能反应！是兵神！",
+			"報告します！右舷の雪原の影より熱源反応を検出！へ、兵神ですッ！",
+			"보고드립니다! 우현 설원 그림자에서 열원 반응 검출! 헉, 병신입니다!",
+			null,
+			null,
+			"Report! Thermal response detected on the right side of the snow-covered mountain! It's Hyrule!",
+			"Report! A heat source response has been detected in the shadow of the snowfield to starboard! He, it's Hyogami!"
+		],
+		[
+			"bgm",
+			11
+		],
+		[
+			"speaker",
+			204666
+		],
+		[
+			"portraits",
+			[
+				810,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254244,
+			null,
+			"逆熵……！！",
+			"ちっ、ネゲントロピーめが……ッ！！",
+			"젠장, 네겐트로피 녀석...!!",
+			null,
+			null,
+			"Anti-Entropy......！！",
+			"Damn you, Anti-Entropy. ......!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10043"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV08_ExplosionWhileDream"
+		],
+		[
+			"msg",
+			254245,
+			null,
+			"轰隆隆隆隆！！！！",
+			"ドガァアアァアン——ッ！",
+			"도가아아아안——!",
+			null,
+			null,
+			"Rumble Rumble Rumble ！！！！",
+			"Dogaaaaaaaaan--!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				665,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254246,
+			null,
+			"终于轮到我杏玛尔大显身手的时候了！天命的破烂玻璃盒子！今天就是你丫的死期！！",
+			"やっと、このシン・マール様の出番だぁッ！天命のクズども、今日こそ根絶やしにしてやる！！",
+			"드디어 이 신・마루 님의 차례야아! 천명의 쓰레기들, 오늘은 뿌리 뽑아 주겠어!!",
+			null,
+			null,
+			"It's finally my Sin's turn to shine! Schicksal's broken glass box! Today is the day you die!",
+			"Finally, it's time for this SinMaal-sama to come out! Schicksal scum, today is the day I will eradicate you!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				665,
+				0,
+				true
+			],
+			[
+				304,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			254247,
+			null,
+			"兵神，量子装甲解除。",
+			"兵神、量子装甲解除。",
+			"병신, 양자 장갑 해제.",
+			null,
+			null,
+			"Hyrule, quantum armor deactivated.",
+			"Hyogin, quantum armor release."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				665,
+				0,
+				false
+			],
+			[
+				304,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254248,
+			null,
+			"尝尝老子的铁拳吧！天命！！！",
+			"ボクの鉄拳を食らえッ！天命のくそ野郎ども！！！",
+			"내 철권을 맛보라! 천명의 개자식들!!!",
+			"Eat my iron fist! Take that, you Shickisal bastards!",
+			null,
+			"Taste the iron fist of my old man! Schicksal!!!!",
+			"Eat my iron fist! Schicksal bastards!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				665,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254249,
+			null,
+			"咚——————！！！！！！",
+			"ドォオオオオオン————ッ！！！！",
+			"드오오오오온————!!!!",
+			null,
+			null,
+			"Dang ------！！！！！！",
+			"Doooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo ----ッ ！！！！"
+		],
+		[
+			"bg",
+			"CG10048"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			254250,
+			null,
+			"轰隆！！！！！",
+			"ドガァアアアアン——ッ！！！！！",
+			"도가아아아안——!!!!!!",
+			null,
+			null,
+			"Rumble ！！！！！",
+			"Dogaaaaaaaaaaaaan-- ！！！！！"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"msg",
+			254251,
+			null,
+			"哈哈哈！怎么样，本大爷这一下有够帅的吧！",
+			"アッハハハッ！どうだ！すっごいだろ！",
+			"아하하하! 어때! 엄청나지!",
+			null,
+			null,
+			"Ha ha ha! How about this? This is a good one, isn't it?",
+			"Ahahahaha! What do you think? Isn't it amazing?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"msg",
+			254252,
+			null,
+			"太好了！布洛妮娅姐姐！我们成功了！",
+			"よかった！ブローニャお姉ちゃん、成功したね！",
+			"다행이야! 브로냐 언니, 성공했어!",
+			null,
+			null,
+			"Great! Sister Bronya! We did it!",
+			"Good! You made it, sister Bronya!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"msg",
+			254253,
+			null,
+			"不，还没有结束，刚才的一击只是打破了战舰的防护罩，我们还需要给它致命一击才行。",
+			"いいえ、まだ終わっていません。さっきの一撃は戦艦のバリアを壊しただけです。これから、決定的な一打を与えなければいけません。",
+			"아니요, 아직 끝나지 않았어요. 방금의 일격은 전함의 배리어를 부순 것뿐이에요. 이제 결정적인 일격을 가해야 해요.",
+			null,
+			null,
+			"No, it's not over yet, the strike just now only broke the battleship's shields, we still need to give it a fatal blow before we can do that.",
+			"No, it's not over yet. The blow you just dealt only broke the barrier of the battleship. We must now deliver the decisive blow."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"msg",
+			254254,
+			null,
+			"哈哈哈！小意思！就让本大爷把它锤个稀巴烂！！",
+			"ハハハッ！楽勝だぜ！ボロボロにしてやんよ！！",
+			"하하핫! 식은 죽 먹기야! 박살 내주겠어!!",
+			null,
+			null,
+			"Ha ha ha! Small point! Just let this lord hammer it to pieces!",
+			"Hahahaha! It's a piece of cake! I'm gonna rip you to pieces!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"msg",
+			254255,
+			null,
+			"杏只有在这种时候才这么可靠呢~",
+			"シンって、こういう時だけ頼もしいね。",
+			"신, 이럴 때만 든든하네.",
+			null,
+			null,
+			"Sin is only so reliable at times like this~",
+			"Sin is so reliable only at times like this."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"msg",
+			254256,
+			null,
+			"这就是最后一击了！受死吧！天命的渣滓！！！",
+			"これで最後だ！死ねぇッ！天命のカスども！！！",
+			"이제 끝이다! 죽어랏! 천명의 쓰레기들!!!",
+			null,
+			null,
+			"This is the final blow! Suffer the death! The scum of Schicksal!!!!",
+			"This is the last time! Die! Schicksal scum!"
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			254257,
+			null,
+			"唰！！！",
+			"ザッ——！！！",
+			"촥——!!!",
+			null,
+			null,
+			"Swish!!!",
+			"Zzzzz--!!!!"
+		],
+		[
+			"bgm",
+			89
+		],
+		[
+			"bg",
+			"black"
+		],
+		[
+			"msg",
+			254258,
+			null,
+			"砰！！！",
+			"バァアアアン——ッ！！！",
+			"빠아아앗——!!!",
+			null,
+			null,
+			"BANG!!!",
+			"Baaaaaan--!"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"bg",
+			"CG10046"
+		],
+		[
+			"msg",
+			254259,
+			null,
+			"到此为止了，我不会让你们再靠近辉煌盟约一步。",
+			"そこまで。これ以上、輝きの盟約には近づけさせないわ。",
+			"여기까지. 더 이상, 빛의 맹약에는 접근시키지 않겠어.",
+			null,
+			null,
+			"This is the end of it. I won't let you come one step closer to the Brilliant Covenant.",
+			"That's enough. I won't let you get any closer to the Pact of Brilliance."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			254260,
+			null,
+			"嘎啦嘎啦嘎啦！！！",
+			"ジャラ——ガシャンッ！！！",
+			"쨍그랑——과창!!!",
+			null,
+			null,
+			"Gala gala gala gala!!!!",
+			"Jarrah--gasp!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"msg",
+			254261,
+			null,
+			"呜…杏？你怎么还不动手？",
+			"えっ……シン？どうしたの？早く攻撃しないとっ！",
+			"엣... 신? 왜 그래? 빨리 공격 안 하면!",
+			null,
+			null,
+			"Oooh...Sin? Why don't you do it?",
+			"What, ...... Sin? What's wrong? We have to attack soon!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"msg",
+			254262,
+			null,
+			"啧！怎么回事！拳头好像被什么东西卡住了！",
+			"チッ！何なんだ、これ！動けないぞ！",
+			"쳇! 뭐야, 이거! 움직일 수 없어!",
+			null,
+			null,
+			"Sheesh! What's going on! The fist seems to be stuck on something!",
+			"Tsk! What the hell is this? I can't move!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"msg",
+			254263,
+			null,
+			"这个是…锁链！？是这些锁链困住了兵神！",
+			"これは……鎖！？この鎖が兵神の動きを封じたようです！",
+			"이건... 쇠사슬!? 이 쇠사슬이 병신의 움직임을 봉쇄한 것 같아요!",
+			null,
+			null,
+			"This is...chains! It's these chains that trapped the Hyrule God!",
+			"This is a ...... chain! It seems that these chains have blocked the movement of the god of war!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"msg",
+			254264,
+			null,
+			"布洛妮娅姐姐！你看！那个是天命的女武神么？",
+			"ブローニャお姉ちゃん、見て！あれ天命の戦乙女、かな？",
+			"브로냐 누나, 봐! 저거 천명의 전처녀, 맞아?",
+			null,
+			null,
+			"Sister Bronya! Look! Is that the Valkyrie of Schicksal?",
+			"Sister Bronya, look! Is that the Schicksal's War Maiden?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"msg",
+			254265,
+			null,
+			"怎么可能…仅靠一人之力就能阻拦兵神的动作……这不可能是人类能做到的事情！",
+			"まさか……たったひとりで兵神の動きを止めるなんて……普通の人間ではありえません！",
+			"설마...... 혼자서 병신의 움직임을 멈추다니...... 보통 인간으로는 있을 수 없는 일이야!",
+			null,
+			null,
+			"How is it possible...to block the movements of the Hyrule God with the power of just one person ...... This cannot be something that a human can do!",
+			"There is no way ...... a single person could stop the movement of a soldier god ...... alone!"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"msg",
+			254266,
+			null,
+			"在黑暗的道路上愈陷愈深，只会让你们在裁决降临之时更加痛苦。",
+			"暗道を歩みて深淵へ堕ち、裁決の時にて悲痛はその身に訪れる。",
+			"암도를 걸어 심연으로 떨어지고, 재결의 때에 비통은 그 몸에 찾아온다.",
+			null,
+			null,
+			"To sink deeper and deeper into the path of darkness will only cause you more pain when the judgment comes.",
+			"He walks the dark path and falls into the abyss, and grief comes to him at the time of judgment."
+		],
+		[
+			"msg",
+			254267,
+			null,
+			"可悲而无知的羔羊，就让神来审判你们犯下的罪行吧……",
+			"哀しき無知な子羊よ、神の審判をあなたに……。",
+			"슬프고 무지한 어린 양이여, 신의 심판을 너에게.......",
+			null,
+			null,
+			"Pathetic and ignorant lambs, let God judge you for the crimes you have committed ......",
+			"Sad ignorant lamb, God's judgment upon you. ......"
+		]
+	]
+}

@@ -1,0 +1,9013 @@
+{
+	"3050": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458108,
+			"「Miuna is on live——」",
+			"「您关注的主播，缪娜正在直播中——」",
+			"「ミュナがライブ配信を始めました」",
+			"「뮤나가 라이브 방송을 시작했습니다」",
+			null
+		],
+		[
+			"msg",
+			458109,
+			"Did a miracle happen?",
+			"这是发生了奇迹吗？缪娜医生的突击直播！",
+			"あれ、奇跡？ミュナ先生のサプライズライブだ！",
+			"어라, 기적? 뮤나 선생님의 서프라이즈 라이브야!",
+			null
+		],
+		[
+			"msg",
+			458110,
+			"Hurry up and call someone, Miuna is live!",
+			"赶快去喊人，缪娜开直播了！",
+			"早くみんなに知らせて！ミュナがライブを再開したよ！",
+			"빨리 모두에게 알려! 뮤나가 라이브를 재개했어!",
+			null
+		],
+		[
+			"msg",
+			458111,
+			"Fans kept pouring into the studio——",
+			"不断有粉丝涌入直播间——",
+			"視聴者がどんどん増えてるよ！",
+			"시청자가 점점 늘고 있어!",
+			null
+		],
+		[
+			"speaker",
+			204679
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458112,
+			"Hi, this is Miuna's \"Goodnight Babylon.\"",
+			"大家好，这里是缪娜的「晚安巴比伦」。",
+			"皆さん、こんばんは。ミュナの「おやすみバビロン」へようこそ。",
+			"여러분, 안녕하세요. 뮤나의 「굿나잇 바빌론」에 오신 것을 환영합니다.",
+			null
+		],
+		[
+			"msg",
+			458113,
+			"There is no advance notice, the sudden live broadcast is because I have something in mind to tell you.",
+			"没有提前通知，突然直播，是因为有些心里话想跟大家说。",
+			"お知らせなしにライブをやってしまったこと、すみません。ちょっと皆さんとお話ししたいことがあります。",
+			"사전 공지 없이 라이브를 해버린 점, 죄송합니다. 조금 여러분과 이야기하고 싶은 게 있었어요.",
+			null
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			458114,
+			"This week felt particularly long, so I suspended the live broadcast and uploaded the first short video.",
+			"这一周的时间感觉特别漫长，我暂停了直播，并上传了第一支短视频。",
+			"この一週間はとても長かった。私はライブを中止して初めてのショートムービーを作りました。",
+			"이 일주일은 정말 길었어요. 저는 라이브를 중단하고 처음으로 숏 무비를 만들었습니다.",
+			null
+		],
+		[
+			"msg",
+			458115,
+			"However, in order to make the short video, I became more tired and out of shape.",
+			"不过，为了制作短视频，我反而变得更疲惫，整个人都不在状态。",
+			"でも、それを作るために、私はとても疲れてて仕事の調子も悪かったんです。",
+			"하지만, 그것을 만들기 위해 저는 너무 지쳐서 일 상태도 안 좋았어요.",
+			null
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			458116,
+			"This not only affected the work of the clinic, but also stalled the progress of the short video.",
+			"这不但影响了诊疗室的工作，最后，连短视频的进度也停滞不前。",
+			"そして、ショートムービーの製作もなかなか上手くできなかった。",
+			"그리고 숏 무비 제작도 생각처럼 잘해내지 못했어요.",
+			null
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458117,
+			"Now, I've finally figured it out.",
+			"现在，我终于想明白了。",
+			"その理由は、今ちゃんと理解できました。",
+			"그 이유를 이제 제대로 이해할 수 있게 됐습니다.",
+			null
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			458118,
+			"……",
+			"……",
+			"……。",
+			"……",
+			null
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"msg",
+			458119,
+			"Sorry, I will stop updating the short video.",
+			"抱歉，我将停止更新短视频。",
+			"大変勝手ではありますが、ショートムービーの製作を中止させていただきます。",
+			"매우 송구스럽지만, 쇼트무비 제작을 중단하게 되었습니다.",
+			null
+		],
+		[
+			"msg",
+			458120,
+			"Such repeated changes cause trouble for everyone.",
+			"这样反复的变更，给大家添麻烦了。",
+			"こんな決断をして本当にすみません。",
+			"이런 결정을 내려 정말 죄송합니다.",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			458121,
+			"The last time Miuna went off the live like this, it wasn't a direct announcement of graduation, was it?",
+			"害怕害怕~~上一次缪娜也是这样突然不直播了，这不会直接宣布毕业了吧！",
+			"こわいこわい。前回もミュナは急にライブをやめちゃったし、このまま引退しちゃうわけじゃないよね！",
+			"무섭다 무섭다. 지난번에도 뮤나가 갑자기 라이브를 그만뒀잖아, 이대로 은퇴해 버리는 건 아니겠지!",
+			null
+		],
+		[
+			"msg",
+			458122,
+			"When I went to the consultation room, I felt Miuna was tired and out of shape.",
+			"我就说，去诊疗室感觉缪娜好累，不在状态的样子。",
+			"なるほど、だから仕事中のミュナがそんな疲れた顔をしてたんだ。",
+			"아, 그래서 일 중인 뮤나가 그렇게 피곤한 얼굴을 하고 있었구나.",
+			null
+		],
+		[
+			"msg",
+			458123,
+			"My world has collapsed…",
+			"之前停掉了直播，现在又要停短视频，我的世界崩塌了……",
+			"ライブはなくなったし、今じゃ動画もなくなった。ああ、私はこれからどう生きればいいの。",
+			"라이브도 없어졌고, 이젠 영상도 없어졌어. 아, 나는 이제부터 어떻게 살아가야 하지.",
+			null
+		],
+		[
+			"msg",
+			458124,
+			"Ah, I knew there was no such thing as a blitz.",
+			"啊啊啊啊我就知道突击直播没有好事情啊。",
+			"ああ、だからサプライズライブは嫌なんだよ。",
+			"아, 그래서 서프라이즈 라이브는 싫은 거였구나.",
+			null
+		],
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			204679
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			458125,
+			"Puh——",
+			"噗——",
+			"ふふ。",
+			"훗.",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			458126,
+			"Eh? Look, look, Miuna is smiling.",
+			"咦，快看快看，缪娜竟然笑了。",
+			"あれ、ミュナが笑ってる。",
+			"어라, 뮤나가 웃고 있어.",
+			null
+		],
+		[
+			"msg",
+			458127,
+			"I was about to cry~",
+			"我快哭出来了~缪娜女神竟然笑了~",
+			"もう泣きそうなのに、ミュナが笑ってる〜",
+			"벌써 울 것 같은데, 뮤나가 웃고 있어~",
+			null
+		],
+		[
+			"speaker",
+			204679
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			458128,
+			"I'm sorry I laughed when everyone was looking nervous.",
+			"很抱歉，明明大家的样子很紧张，我却笑了。",
+			"すみません、みんなが不安がっているのに、私が笑っちゃった。",
+			"미안해, 모두가 불안해하는데 내가 웃어버렸어.",
+			null
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458129,
+			"It's just, I really miss it. I've only been off for a week.",
+			"只是，我真的很怀念直播的感觉，明明才刚停掉一周的时间而已。",
+			"でも本当はライブの日々が懐かしかった。一週間だけ休んだだけなのに。",
+			"하지만 사실 라이브를 하던 날들이 그리웠어. 일주일만 쉬었을 뿐인데.",
+			null
+		],
+		[
+			"msg",
+			458130,
+			"Because, every live makes me feel like I'm here with you right now.",
+			"因为，每一次直播都让我有一种“现在和大家在一起的感觉”。",
+			"ライブをしていると「今、みんなと一緒にいるんだ」という感じがしました。",
+			"라이브를 하면「지금, 모두와 함께 있어」라는 느낌이 들었어.",
+			null
+		],
+		[
+			"msg",
+			458131,
+			"Haha, it's a bit shy to say that.",
+			"哈哈，说这话其实还是让人有些害羞呢。",
+			"ふふ、なんかこういうのは恥ずかしいね。",
+			"후후, 뭔가 이런 건 부끄럽네.",
+			null
+		],
+		[
+			"msg",
+			458132,
+			"But after making a short video, I'm more sure…",
+			"但是，在拍摄了短视频之后，我更加确定……",
+			"でも、動画を始めた後、私、わかったの……。",
+			"하지만, 영상을 시작한 후에, 나는 알았어…….",
+			null
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			458133,
+			"Sure enough, I like the people in the studio the most.",
+			"果然，我最喜欢直播间的大家了。",
+			"ライブ中の皆さんとの時間が大好きだなって。",
+			"라이브 중인 여러분과의 시간이 정말 좋아.",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			458134,
+			"Ah ah~ It is Miuna's confession~~~~",
+			"啊啊啊~这是缪娜的告白啊~~~~",
+			"ああ〜、ミュナに告られた！",
+			"아아~, 뮤나한테 고백받았어!",
+			null
+		],
+		[
+			"msg",
+			458135,
+			"Dr. Miuna, I like you best too~",
+			"缪娜医生，我也最喜欢你了，积极告白！缪娜你不要毕业啊~",
+			"ミュナ先生、私もあなたのことが大好きだよ！お願い、引退しないで〜",
+			"뮤나 선생님, 저도 당신을 정말 좋아해요! 부탁이에요, 은퇴하지 마세요~",
+			null
+		],
+		[
+			"speaker",
+			204679
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458136,
+			"Well, I'll keep doing it。",
+			"嗯，我会继续做直播的。",
+			"はい、ライブ配信は続けます。",
+			"네, 라이브 방송은 계속할게요.",
+			null
+		],
+		[
+			"msg",
+			458137,
+			"Short video takes longer to prepare...It's not for me.",
+			"拍摄短视频需要准备更长的时间……并不适合我。",
+			"動画を撮るほうが時間がかかるから……私と相性が悪かったと思います。",
+			"영상을 찍는 게 시간이 더 걸리니까…… 저랑은 안 맞았던 것 같아요.",
+			null
+		],
+		[
+			"msg",
+			458138,
+			"Besides, what I want to do is not just heal people…",
+			"何况，我想要的不只是疗愈大家……",
+			"それに、私がやりたいのは、皆を癒すだけではなく……。",
+			"게다가, 제가 하고 싶은 건 모두를 치유하는 것뿐만 아니라…….",
+			null
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			458139,
+			"I want to participate in the communication and talk with you.",
+			"我——更想参与到大家的交流中，和大家一起说说话。",
+			"私は、みんなと話しをしたいのです。",
+			"저는, 모두와 이야기를 하고 싶습니다.",
+			null
+		],
+		[
+			"msg",
+			458140,
+			"Even if I was physically tired, I was mentally full.",
+			"即使身体上会有些疲惫，但是在心灵上却十分充实哦。",
+			"確かに疲れたこともありますけど、心はとても充実していますよ。",
+			"확실히 지친 적도 있지만, 마음은 매우 충만해 있어요.",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			458141,
+			"I agree!",
+			"哇，这样棒，我赞同！",
+			"うわっ、素敵、私も賛成！",
+			"와, 멋져, 저도 찬성이야!",
+			null
+		],
+		[
+			"msg",
+			458142,
+			"But then Dr Miuna will be as tired as before~",
+			"但是，这样缪娜医生又会像之前那样，很累鸭~",
+			"でも、これだとミュナ先生は昔のように疲れるんじゃ……。",
+			"하지만 이러면 뮤나 선생님도 예전처럼 지치시는 거 아니야…….",
+			null
+		],
+		[
+			"speaker",
+			204679
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458143,
+			"Haha, I have thought about it. In order to balance my rest time and learn more medical knowledge, I decided not to do live on weekends.",
+			"哈哈，我有考虑过了，为了平衡休息时间，也为了学习更多的医学知识，我决定周末不做直播了。",
+			"ふふ、それは考えました。休み時間と勉強する時間を確保するために、週末はライブ配信を休むと思います。",
+			"후후, 그건 생각해봤어요. 쉬는 시간과 공부할 시간을 확보하기 위해, 주말에는 라이브 방송을 쉴 생각입니다.",
+			null
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			458144,
+			"What do you think?",
+			"大家觉得如何？",
+			"皆さん、これでいかがですか？",
+			"여러분, 이렇게 하는 게 어떠세요?",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			458145,
+			"Agree~~~~",
+			"同意~~~万岁~~~~",
+			"賛成！万歳！",
+			"찬성이야! 만세!",
+			null
+		],
+		[
+			"msg",
+			458146,
+			"So we can see Dr. Miuna live again~~",
+			"这样又能见到直播的缪娜医生啦~~~",
+			"これでまたリアルタイムでミュナ先生に会える！",
+			"이렇게 하면 또 실시간으로 미나 선생님을 만날 수 있어!",
+			null
+		],
+		[
+			"speaker",
+			204679
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458147,
+			"Is there anything you'd like to hear? Or some topic.",
+			"那么今天作为突击直播，大家有什么想听的吗？或者是什么话题。",
+			"それじゃあ、サプライズライブということで、皆さんどんな話が聞きたいですか？",
+			"그러면, 서프라이즈 라이브라는 건데, 여러분 어떤 이야기를 듣고 싶으세요?",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458148,
+			"I want to listen to a live version of Miuna's lullaby~",
+			"我想听缪娜摇篮曲的直播版，在线点歌~",
+			"ミュナの子守唄のライブ版が聞きたい！",
+			"뮤나의 자장가 라이브 버전을 듣고 싶어!",
+			null
+		],
+		[
+			"msg",
+			458149,
+			"!!!",
+			"歌回！歌回！",
+			"歌！歌！",
+			"노래! 노래!",
+			null
+		],
+		[
+			"speaker",
+			204679
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			458150,
+			"Although I don't sing very well…",
+			"虽然我唱的不算太好了，但是，我明白了。",
+			"歌はそんなに上手じゃないですけど、わかりました。",
+			"노래는 그렇게 잘 부르지 못하지만, 알겠습니다.",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				861,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			458093,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			458152,
+			"Music——",
+			"音乐响起——",
+			"音楽！",
+			"음악!",
+			null
+		],
+		[
+			"speaker",
+			204679
+		],
+		[
+			"bg",
+			"CG10245"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458153,
+			"Dah la la~♪la la~♪Dah la~~♪",
+			"哒啦啦~♪啦啦~♪哒啦~~♪",
+			"だらら〜♪らら〜♪らら〜〜♪",
+			"달라라~♪ 라라~♪ 라라~~♪",
+			null
+		],
+		[
+			"msg",
+			458154,
+			"Miuna will always be there for you as long as you need them.",
+			"只要大家需要缪娜，缪娜就会一直陪伴在大家的身边哦。",
+			"皆が私を必要としている限り、私は皆のそばにいますよ。",
+			"모두가 나를 필요로 하는 한, 나는 모두의 곁에 있을 거야.",
+			null
+		],
+		[
+			"msg",
+			458155,
+			"Let's make a deal.",
+			"让我们拉钩约定。",
+			"さあ、指切りしましょう。",
+			"자, 약속을 해요.",
+			null
+		],
+		[
+			"msg",
+			458156,
+			"I will never go back on my word.",
+			"我绝对不会食言。",
+			"絶対約束を守るって。",
+			"꼭 약속을 지킬게.",
+			null
+		]
+	],
+	"3051": [
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30050,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458157,
+			"Failed… again.",
+			"又一次……失败了。",
+			"また……失敗した。",
+			"또…… 실패했어.",
+			null
+		],
+		[
+			"bgm",
+			43
+		],
+		[
+			"msg",
+			458158,
+			"I wanted to cast actors in my movies because I wanted to do justice. As a result, everyone who heard other divinity turned away with a look of horror.",
+			"明明是为了践行正义之道，所以想要找演员出演吾的电影。结果凡是听到的神格全都一脸惊恐地避开了。",
+			"正義の貫くために、我の映画にキャストを選定しないといけないというのに、我が誘った神格が皆逃げてしまうなんて。",
+			"정의를 관철하기 위해 내 영화에 캐스팅을 해야 하는데, 내가 초대한 신격들이 모두 도망치다니.",
+			null
+		],
+		[
+			"msg",
+			458159,
+			"Hum, is it possible that my movie is so scary?",
+			"哼，莫非吾的电影就这么恐怖吗，竟无一个演员敢进剧组！",
+			"ふん、我の映画はそんなに怖いのか、誰も誘いに応じないとは。",
+			"흥, 내 영화가 그렇게 무서운 건가, 아무도 초대에 응하지 않다니.",
+			null
+		],
+		[
+			"msg",
+			458160,
+			"Huh——",
+			"嗯？这是什么——",
+			"うん？これはーー",
+			"응? 이건—",
+			null
+		],
+		[
+			"msg",
+			458161,
+			"\"Eden cast recruitment commentary. The scene is very hot!\"",
+			"“伊登剧组演员招募实况报道，现场画面十分火爆！”",
+			"「イズンの映画に出演したい神格が続出！」",
+			"「이즈의 영화에 출연하고 싶은 신격이 속출!」",
+			null
+		],
+		[
+			"msg",
+			458162,
+			"Why do so many divinity in the Babylon Academy want to be part of Eden's cast?",
+			"为什么，巴比伦学园里竟然有这么多神格想要进伊登的剧组！",
+			"なぜ、バビロン学園にイズンの映画に出演したい神格がこれほどいるとは！",
+			"어째서 바빌론 학원에 이즈의 영화에 출연하고 싶은 신격이 이렇게 많을까!",
+			null
+		],
+		[
+			"portraits",
+			[
+				30050,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458163,
+			"Eh? Maybe I can…",
+			"咦，或许吾可以……",
+			"じゃ、我が取るべく策は……",
+			"자, 내가 취할 방책은…",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458164,
+			"……",
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458165,
+			"Please don't worry. Anyone who wants to join our cast can register here first——",
+			"大家请不要着急，凡是想要进入我们剧组的神格都可以先在这里登记——",
+			"皆さん、焦らないで。私の映画に出演したい方は、まずここで受付を済ませてくださいーー",
+			"여러분, 서두르지 마세요. 제 영화에 출연하고 싶으신 분은 먼저 여기에서 접수해 주세요—",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458166,
+			"\"Why not? What if they don't need so many divinity!\"",
+			"“哪能不急啊，万一不需要那么多神格呢！”",
+			"「それは焦るよ、人数は限られているでしょ！」",
+			"「그건 서둘러야지, 인원 제한이 있잖아!」",
+			null
+		],
+		[
+			"msg",
+			458167,
+			"\"Yeah, the best part is Eden. The pay is high and the acting is easy. I like it best!\"",
+			"“就是，还是伊登这边的剧组最好了，给的薪酬又高，表演又轻松，而且这里个个都是人才，说话又好听，我最喜欢这里了！”",
+			"「そうそう、イズンのほうが待遇が一番いいし、仕事もきつくない。それに同僚は素敵な人ばかりだよ！」",
+			"「그래 그래, 이즈 쪽이 대우도 제일 좋고 일도 힘들지 않아. 게다가 동료들도 멋진 사람들뿐이야!」",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30050,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458168,
+			"It's crowded in here. Stuffy and hot.",
+			"这里好挤——又闷、又热。",
+			"混んでるねーーなんか蒸し暑い。",
+			"복잡하네~ 뭔가 후덥지근해.",
+			null
+		],
+		[
+			"portraits",
+			[
+				30050,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458169,
+			"It's amazing how hot the Eden set is...I can't believe it.",
+			"伊登剧组的现场居然真的这么火热……吾都有些难以置信了。",
+			"イズンのキャスト募集にこんなに神格が集まるなんて……信じられない。",
+			"이준의 캐스트 모집에 이렇게 신격들이 모일 줄이야…… 믿을 수가 없어.",
+			null
+		],
+		[
+			"msg",
+			458170,
+			"Hey——Eden!",
+			"喂——伊登！",
+			"おいーーイズン！",
+			"야~ 이준!",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458171,
+			"...Hey, Brynhild, it's you.",
+			"……诶，布伦希尔德，原来是你呢。",
+			"……あ、ブリュンヒルデか。",
+			"……아, 브륀힐데군.",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				30050,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458172,
+			"Well, I have something to ask of you, and that is my request…",
+			"嗯，吾有些事情想找汝，这也算是吾的请求吧……",
+			"ああ、ちょっと汝に聞きたいことがある。ちょっとした……お願いだ。",
+			"아, 좀 그대에게 묻고 싶은 게 있네. 사소한…… 부탁이지.",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30050,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458173,
+			"Eh?",
+			"咦，对我的请求？",
+			"あれ、お願い？",
+			"어라, 부탁?",
+			null
+		],
+		[
+			"msg",
+			458174,
+			"It doesn't matter. Go ahead, please!",
+			"没关系，请说吧！",
+			"あ、構わないわよ。なんでしょう。",
+			"아, 괜찮아요. 무엇인가요?",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30050,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458175,
+			"……",
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30050,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458176,
+			"I see, trying to recruit some actors from me…",
+			"原来如此，想要在我这里招募一些演员……",
+			"なるほど、私のところでキャストを選びたいと……",
+			"흠, 내가 캐스트를 뽑아주길 바란다는 건가……",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				30050,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458177,
+			"I also know this request is very unreasonable. I'll leave if I don't want to.",
+			"吾也知道这个要求很不讲理。若是不情愿的话吾这就离开。",
+			"無理なお願いだとわかっている。嫌なら今すぐ出ていく。",
+			"무리한 부탁인 건 알고 있네. 싫다면 당장 나가주게.",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30050,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458178,
+			"Don't worry/",
+			"放心吧。",
+			"安心して。",
+			"안심해.",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				30050,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458179,
+			"——Hmm !",
+			"——唔！",
+			"ーーう！",
+			"——우!",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30050,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458180,
+			"You can recruit as many actors as you want here. I don't mind. You can even let me spread the word for you.",
+			"你尽可以在这里招募自己想要的演员，我并不介意——甚至可以让我来帮你宣传一下哦。",
+			"欲しい役者さんを募集するといい、私は気にしてないわーーなんなら、宣伝をしてあげてもいい。",
+			"원하는 배우를 모집하는 게 좋아, 나는 신경 안 쓸 거야——원하면 홍보를 해줘도 좋아.",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				30050,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458181,
+			"I really appreciate it.",
+			"实在是感激不尽。",
+			"かたじけない。",
+			"감사합니다.",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30050,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458182,
+			"Oh, you don't have to thank me. I'm going to tell you about it for you——",
+			"呵呵，不用感谢我了，我这也是举手之劳而已。我这就帮你向大家说一下——",
+			"ふふ、お礼はいいよ。大したことじゃないし。今みんなに声をかけてみるーー",
+			"후후, 고맙다는 말은 됐어. 대단한 일도 아니니까. 지금 모두에게 말을 걸어볼게——",
+			null
+		],
+		[
+			"msg",
+			458183,
+			"Please be quiet. Next to me is Brynhild, another director of the Babylon Academy. Would you like to join her crew and play in a movie?",
+			"大家请安静一下，我旁边这位是巴比伦学园的另一个导演布伦希尔德，请问大家想要进入她的剧组参演电影吗？",
+			"みんな、こちらはバビロン学園のもう一人の監督、ブリュンヒルデです。彼女の映画に出演したい方はいらっしゃいますか？",
+			"여러분, 이쪽은 바빌론 학원의 또 다른 감독, 브륀힐데입니다. 그녀의 영화에 출연하고 싶은 분 계신가요?",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30050,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458184,
+			"\"Brynhild? !”",
+			"“布伦希尔德？！”",
+			"「ブリュンヒルデ？」",
+			"「브륀힐데?」",
+			null
+		],
+		[
+			"msg",
+			458185,
+			"\"The one whose fight scenes are so real and have no body doubles or choreography? They say she doesn't even use Wiah!\"",
+			"“就是那个打戏非常真实、而且没有替身也没有动作合成的导演？听说她连威亚都不用！”",
+			"「あの戦争のシーンを撮るとき、身代わりも用意しないしCGも入れない監督？ワイヤーも使わないって噂もあるよ！」",
+			"「저 전쟁 장면을 찍을 때, 대역도 준비하지 않고 CG도 넣지 않는 감독? 와이어도 사용하지 않는다는 소문도 있어!」",
+			null
+		],
+		[
+			"msg",
+			458186,
+			"\"Give me a break, I'm in the theater, not to die!\"",
+			"“饶了我吧，我是拍戏的，又不是送死的！”",
+			"「勘弁してくれよ、私はただ映画に出演したい、別に死にたくはないよ！」",
+			"「제발 좀 봐 줘, 나는 그냥 영화에 출연하고 싶을 뿐, 별로 죽고 싶지는 않아!」",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30050,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			458187,
+			"You guys——",
+			"这群家伙——",
+			"どいつもこいつもーー",
+			"도대체 너희들 모두——",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30050,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			458188,
+			"Please don't do that. If someone wants to be on Brynhild's cast, I will pay her the same amount as my cast—",
+			"大家请不要这样，如果有想要进布伦希尔德剧组的演员，我会同时按照自己剧组的规格给她开一样的片酬哦——",
+			"皆さん、私の話を聞いてください。ブリュンヒルデの映画に出演してくださる方に、自分の映画出演と同じ給料を出しますよーー",
+			"여러분, 제 이야기를 들어 주세요. 브륀힐데의 영화에 출연해 주시는 분께는, 자신의 영화 출연과 같은 급여를 내 드리겠습니다.",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				30050,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458189,
+			"It's such a shame.",
+			"真是惭愧……",
+			"手間をかけたな、悪い……",
+			"수고를 시켰군, 미안……",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30050,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458190,
+			"Brynhild, forget it...As a film director, I would like to give you a little help on the road of directing together.",
+			"布伦希尔德，不用计较这些……这也算同样身为电影导演的我，对一起踏上导演之路的你的一点小小的帮助吧。",
+			"いいのよ……同じ監督である私が、あなたへの小さな応援って思ってくれればいい。",
+			"괜찮아요…… 같은 감독인 제가, 당신을 위한 작은 응원이라고 생각해 주시면 돼요.",
+			null
+		],
+		[
+			"msg",
+			458191,
+			"In the future shooting, I may ask you for some advice on how to shoot.",
+			"在之后的拍摄里，我说不定还会向你请教一些拍摄的方法呢。",
+			"撮影中は、あなたに撮影のテクニックを教えてもらうかもしれないよ。",
+			"촬영 중에는, 당신에게 촬영 테크닉을 가르쳐 달라고 할지도 몰라요.",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				30050,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			458192,
+			"I understand, and then I will do my best to give back. But I don't think the incentives are enough for the things that these actors are worried about.",
+			"吾明白了，之后吾一定尽自己所能做出回报。不过，吾觉得，若是以这些演员担心的事情来说，片酬的激励是不够的。",
+			"わかった。我ができることなら、なんでもしよう。でも、その神格たちが心配していることは給料だけじゃ解決できないと思う。",
+			"알겠어. 내가 할 수 있는 거라면, 뭐든지 하지. 하지만, 그 신격체들이 걱정하는 건 급여만으로는 해결할 수 없을 것 같아.",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30050,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			458193,
+			"\"——I think making movies is just for fun. If I get into Brynhild's crew, I'm afraid I won't find the fun, and I'll have to go to the hospital!”",
+			"“——再多的钱也不行啊！我想拍电影只是来找乐子的，进了布伦希尔德的剧组，恐怕乐子找不到，还要进医院了！”",
+			"「ーーお金の問題じゃないよ！楽しいから映画に出演したいんだ。ブリュンヒルデの映画に出演したら、病院直行じゃないか！」",
+			"「--돈 문제가 아니야! 재미있으니까 영화에 출연하고 싶어. 브륀힐데의 영화에 출연하면, 병원 직행이잖아!」",
+			null
+		],
+		[
+			"msg",
+			458194,
+			"\"I am an idol actor, not a fighting actor!\"",
+			"“人家是偶像派演员，才不是实力派，更不是武斗派！”",
+			"「あたしはアイドルだから、実力派じゃないし、武道派じゃないよ！」",
+			"「나는 아이돌이니까, 실력파도 아니고 무도파도 아니야!」",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30050,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			458195,
+			"…...",
+			"大、大家……",
+			"み、みんな……",
+			"다, 모두……",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				30050,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458196,
+			"No more persuasion. They don't want to be on my cast, Eden. I already know that.",
+			"不用再劝说了。伊登，她们不会想要进吾的剧组的，吾早已明白了。",
+			"もういい。彼女達に我の映画に出演してもらうのは難しいだろう。一目でわかるさ。",
+			"이제 됐어. 그녀들에게 내 영화에 출연해 달라는 건 어려울 거야. 한눈에 알 수 있어.",
+			null
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				30050,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			458197,
+			"Well, it seems that I…",
+			"呵，看来吾……",
+			"ふふ、我は……",
+			"후후, 나는……",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30050,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			458198,
+			"I got it!",
+			"不，我想到了！",
+			"いえ、大丈夫！",
+			"아니, 괜찮아!",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				30050,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			458199,
+			"Eh?",
+			"嗯？",
+			"え？",
+			"응?",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30050,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			458200,
+			"Since the actors in this room are not suitable for your movie, find the right ones!",
+			"既然这里在场的演员不适合出演你的电影，那就去找合适的来！",
+			"ここに集まる皆さんがあなたの映画との相性がよくないだけだよ。それなら相性ぴったりの人を探してこればいい！",
+			"여기 모인 분들이 당신 영화와 궁합이 잘 안 맞는 거야. 그럼 궁합이 딱 맞는 사람을 찾아오면 되지!",
+			null
+		],
+		[
+			"msg",
+			458201,
+			"It reminds me of a divinity...By now, she'd be right there——",
+			"说起来，我倒是想起了一个神格……现在的话，她应该就在那里吧——",
+			"一人いい神格を思い出した……今なら、そこにいるでしょうねーー",
+			"한 명 괜찮은 신격이 생각나는데... 지금쯤 거기 있을 거야——",
+			null
+		]
+	],
+	"3052": [
+		[
+			"bgm",
+			43
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458202,
+			"\"Director, what's next?\"",
+			"“导演，接下来该怎么办？”",
+			"「監督、次はどうすればいい？」",
+			"「감독님, 다음엔 어떻게 하면 좋죠?」",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458203,
+			"Well...First put up the scaffolding, set up a stage, dress up as backup dancers…",
+			"嗯……先把脚手架搭起来吧，布置出一个舞台，让大家扮成伴舞的样子……",
+			"そうだね……まず足場を組んで、舞台にしよう。それでみんなにダンスのポーズにしてもらって……",
+			"그래... 먼저 발판을 설치하고 무대로 만들자. 그런 다음 모두에게 춤 동작을 취해 달라고...",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458204,
+			null,
+			"“好嘞！我这就干！”",
+			"「了解！今取り掛かる！」",
+			"「알겠습니다! 지금 시작할게요!」",
+			null
+		],
+		[
+			"msg",
+			458205,
+			"\"I brought the scaffolding, put up the boards, and the lights——\"",
+			"“我把脚手架运过来了，再搭上木板，还有灯光——”",
+			"「足場を運んできた、それから板を敷いて、ライトを当ててーー」",
+			"「발판 가져왔어, 이어서 판자 깔고 조명 켜고——」",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458206,
+			"——Wait!",
+			"——等一下！",
+			"ーーちょっと待って！",
+			"——잠깐만!",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458207,
+			"\"Hey?”",
+			"“诶？”",
+			"「え？」",
+			"「응??」",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458208,
+			"I think it would have been better to change the scene to something else…",
+			"果然，我觉得这一幕戏还是改成另一种情节要好一点……",
+			"やっぱり、このシーンを変えるわ……",
+			"역시 이 장면은 바꿀게……",
+			null
+		],
+		[
+			"msg",
+			458209,
+			"No more stage. Let's get some tractors and let the hero drive the tractors and have a race with the luxury cars on the road…",
+			"不要舞台了，我们弄几辆拖拉机过来，让主人公驾驶着拖拉机和路上的豪车进行飙车比试吧……",
+			"舞台はいらない。トラクターを何台か借りてきて、主人公にトラクターを運転してもらって、道路を走るスポーツカーと競争してもらいましょう……",
+			"무대는 필요 없어. 트랙터 몇 대 빌려와서 주인공이 트랙터를 운전하게 하고, 도로에서 달리는 스포츠카와 경주하게 하자……",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458210,
+			"\"……Well, if the director wants it that way, I'll go get the props!”",
+			"“……好吧，既然导演想这么拍，那我现在就去准备道具！”",
+			"「……わかりました。監督が撮りたいなら、用意します！」",
+			"「……알겠습니다. 감독님이 찍고 싶으시다면 준비하겠습니다!」",
+			null
+		],
+		[
+			"msg",
+			458211,
+			"Need to change the plan again? It's really troublesome...",
+			"“又要改方案了吗，真麻烦啊……”",
+			"「また変更か？めんどくさいな……」",
+			"「또 변경이야? 귀찮게 하네……」",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458212,
+			"...Please wait a minute. I don't think that plot is very convincing, I'll change it to the first one...",
+			"……请再等一下，我感觉刚刚的那个情节不太靠谱，还是换成最开始的那个吧……",
+			"……やっぱり待って、さっきのシーンがちょっとやりすぎかもしれないから、最初のに戻そう……",
+			"……아니 역시 잠깐, 아까 장면이 좀 과했던 것 같아서 원래대로 돌리자……",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458213,
+			"\"Feed, director how do you think a is…\"",
+			"“喂，导演你怎么想一出是一出啊！”",
+			"「え、監督、そうころころシーンを変えちゃ困るよ！」",
+			"「어? 감독님, 그렇게 자꾸 장면을 바꾸시면 곤란하잖아요!」",
+			null
+		],
+		[
+			"msg",
+			458214,
+			"\"We have been stuck in this scene for at least ten days. You're always hesitant to make up your mind about what you're going to do.\"",
+			"“我们至少已经在这一场戏停滞十天以上了，导演你总是犹犹豫豫的，能不能定下决心来到底要怎么拍！”",
+			"「このシーンはもう十日間進んでないよ。監督はいつも迷ってばかりだからね。なんとか決めてもらえません？」",
+			"「이 장면 벌써 열흘째 진행 못하고 있어요. 감독님은 항상 망설이기만 하시니까. 어떻게든 결정해 주시면 안 될까요?」",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458215,
+			"I'm sorry... But I'm still in two minds…",
+			"抱歉……但是我还是有些拿不定主意……",
+			"ごめんなさい……やっぱりちょっと決められないわ……",
+			"미안…… 역시 좀 결정을 못 내리겠어……",
+			null
+		],
+		[
+			"msg",
+			458216,
+			"Let me tell you, take a break from the filming process. I need to think a little bit more...",
+			"告诉大家，先暂停一下剧组的拍摄进程吧。我需要再多思考一下……",
+			"皆さんに伝えて、今の作業はしばらく中止よ。少し考えさせてください……",
+			"다들 전해줘, 지금 작업은 잠시 중단이야. 좀 생각하게 해줘……",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458217,
+			"……",
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458218,
+			"...Although Plan A is not bad, Plan B also has its merits. In addition, Plan C has neither too many advantages nor disadvantages, so it is a safe choice.",
+			"……虽然A方案不错，但B方案亦有可取之处，除此之外，C方案虽然没太多优点，却也没有缺点，是一种四平八稳的选择。",
+			"……A案はなかなかいいけど、B案もメリットもあるね。そのほか、C案はそんなに優れてないけど、欠点もない。穏便な案かな。",
+			"……A안은 꽤 괜찮지만, B안도 장점이 있네. 그 외에 C안은 그렇게 뛰어나진 않지만, 단점도 없어. 무난한 안건이겠지.",
+			null
+		],
+		[
+			"msg",
+			458219,
+			null,
+			"到底接下来该怎么拍呢？",
+			"じゃ次はどうすればいいでしょう。",
+			"그럼 다음엔 어떻게 하면 좋을까?",
+			null
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				30047,
+				5,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458220,
+			"……Lakshmi?",
+			"……拉克西米？",
+			"……ラクシュミー？",
+			"……라크슈미?",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				7,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458221,
+			"Huh? !",
+			"嗯？！",
+			"え？！",
+			"엣?!",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30047,
+				7,
+				true
+			],
+			[
+				30050,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			458222,
+			null,
+			"拉克西米，果然是汝啊！",
+			"ラクシュミー、やっぱり汝なのか！",
+			"라크슈미, 역시 그대였군!",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				2,
+				false
+			],
+			[
+				30050,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			458223,
+			"Brynhild... And Eden, Eh? Why do you walk together…",
+			"布伦希尔德……还有伊登，咦，为何你们走在一起……",
+			"ブリュンヒルデ……イズンも。あれ、どうして二位が一緒なの……",
+			"브륜힐데…… 이둔도. 어? 왜 둘이 함께 있는 거지……",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30047,
+				2,
+				true
+			],
+			[
+				30051,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458224,
+			"I'm looking for an actor for Brynhild——",
+			"我正在为布伦希尔德寻找演员——",
+			"ブリュンヒルデのために役者を探している最中だよーー",
+			"브륜힐데를 위해 배우를 찾고 있는 중이야——",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30047,
+				2,
+				true
+			],
+			[
+				30050,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458225,
+			"Lakshmi, why do you look so hesitant? Is it the same thing as before?",
+			"拉克西米，汝这家伙怎么表情如此犹豫，难道又遇到之前那种事了？",
+			"ラクシュミー、その顔、またこの間みたいに迷っているのか？",
+			"라크슈미, 그 표정, 또 지난번처럼 고민 중인 거야?",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				5,
+				false
+			],
+			[
+				30050,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458226,
+			"...Well, I can't hide it from you, Brynhild. This time, though, it wasn't the equipment. It was...",
+			"……呵，看来瞒不过你呢，布伦希尔德。不过这一次我倒不是因为设备的缘故，而是因为……",
+			"……はあ、さすがブリュンヒルデの目はごまかせないね。でも今回は設備じゃなくて……",
+			"……하아, 역시 브륜힐데의 눈은 속일 수 없네. 하지만 이번엔 설비가 아니라……",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30050,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458227,
+			"……",
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30051,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458228,
+			"Is that so? It's hard to make a decisive choice among the various scenarios in the next act… Well, it's hard to make up your mind, too. I've had moments like this.",
+			"原来如此么，在下一幕戏的多种方案里，难以做出决定性的选择……唔，下定决心也是很困难的事情呢。我也曾经有过这样的时候。",
+			"なるほど、次のシーンをどうするのか、なかなか決められないのか……うむ、決めるということは難しいことだ。我もそんなジレンマに出会すことがある。",
+			"흠, 다음 장면을 어떻게 할지 좀처럼 결정을 못 하겠군…… 음, 결정을 내린다는 게 참 어려운 일이지. 나도 그런 딜레마에 부딪힌 적이 있어.",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				3,
+				false
+			],
+			[
+				30051,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458229,
+			"But it doesn't bother me as much…",
+			"但是，也不会像我这样困扰吧……",
+			"でも、私のようにここまで迷ったりしないでしょ……",
+			"하지만, 나처럼 여기까지 망설이지는 않겠지……",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30047,
+				3,
+				true
+			],
+			[
+				30051,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458230,
+			null,
+			"这倒是……",
+			"それもそうだけど……",
+			"그것도 그렇지만……",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30047,
+				3,
+				true
+			],
+			[
+				30050,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			458231,
+			"Even so, you've been very determined to stand up against me!",
+			"虽然如此，汝站在吾的对立面时倒是表现得很坚决呢！",
+			"それにしても、何時は我と対峙した時は非常にしっかりしているね！",
+			"그래도, 나지(何時)는 나와 맞설 때는 아주 침착하더라!",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				1,
+				false
+			],
+			[
+				30050,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			458232,
+			"That's because there's a contrast in front of me which lets me know that I should take the opposite action.",
+			"那是因为有一个对照在我面前，让我知道自己该和她采取相反的行动。",
+			"自分と真逆の人がいたら、その人と逆の行動をすればいいってわかるでしょ。",
+			"자기와 정반대인 사람이 있으면, 그 사람과 반대로 행동하면 된다는 거 알잖아.",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30047,
+				1,
+				true
+			],
+			[
+				30050,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			458233,
+			"Against...Are you using me as a white mouse?",
+			"对照……汝把吾当小白鼠了么！",
+			"真逆って……本当に我のことが気に入らないんだな！",
+			"정반대라니…… 정말 나를 싫어하는구나!",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30047,
+				1,
+				true
+			],
+			[
+				30051,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458234,
+			"Okay, okay, please don't be so aggressive.",
+			"好了好了，请不要这样剑拔弩张。",
+			"ちょっと待って、喧嘩はやめて。",
+			"잠깐만, 싸움은 그만둬.",
+			null
+		],
+		[
+			"msg",
+			458235,
+			"Speaking of which, Lakshmi, would you like to come with us to Ada's?",
+			"说起来，拉克西米，你愿意和我们一起去埃达酒馆吗？",
+			"そういえば、ラクシュミー、私たちと一緒にエッダ酒場にいかない？",
+			"말이 나왔으니까, 라크슈미, 우리랑 같이 에다 주점에 가지 않을래?",
+			null
+		],
+		[
+			"msg",
+			458236,
+			"In my experience, when you get too nervous about something, it's often hard to get results. But if you relax, jump out and look again, you may get an unexpected answer—",
+			"以我的经验来看，因某种事物而神经过分紧绷时，往往会难以取得成效。但若是放松一下，跳出来再看后，或许能得到意想不到的答案哦——",
+			"今までの経験でいうと、神経を張り詰めている時は成果を出しにくい。でもリラックスして、その問題をしばらく寝かせてから向き直ると、意外な収穫があったりするかもよーー",
+			"지금까지 경험으로 보면, 신경을 곤두세울 때는 성과를 내기 어렵지. 긴장을 풀고 그 문제를 잠시 내버려 둔 뒤 다시 마주하면, 의외의 수확이 있을지도 몰라──",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				1,
+				false
+			],
+			[
+				30051,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458237,
+			null,
+			"这样么……",
+			"そうなんだ……",
+			"그렇구나……",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30047,
+				1,
+				true
+			],
+			[
+				30050,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458238,
+			"Don't hesitate. Ada's Tavern will always have a bunch of nice guys who might give you some inspiration.",
+			"别犹豫了，正好埃达酒馆总会聚集一帮豪爽的家伙，说不定能够让你有所启发。",
+			"もう出発しよう、エッダ酒場に豪快なやつが集まってるから、汝にヒントを与えるかもしれないぞ。",
+			"어서 출발하자, 에다 선술집에 호탕한 녀석들이 모여 있으니, 너에게 힌트를 줄지도 모르겠군.",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				1,
+				false
+			],
+			[
+				30050,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458239,
+			"Well, since Brynhild has already said so, it was your opinion last time to choose the right camera… OK, I'll go with you.",
+			"嗯，既然布伦希尔德都已经这样说了，上一次也是听了你的意见才选出合适的摄影机……好，我就跟你们一起去吧！",
+			"ブリュンヒルデもそう言うのなら、わかった。前回もあなたの意見を聞いていいカメラを手に入れたことだし……一緒に行くわ！",
+			"브륀힐데도 그렇다면, 알겠어. 지난번에도 네 의견을 듣고 좋은 카메라를 손에 넣었으니... 같이 갈게!",
+			null
+		]
+	],
+	"3053": [
+		[
+			"bgm",
+			43
+		],
+		[
+			"speaker",
+			204638
+		],
+		[
+			"portraits",
+			[
+				946,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458240,
+			null,
+			"咕……嗝儿……",
+			"ぐう……ヒック……",
+			"쿨... 딸꾹...",
+			null
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				946,
+				1,
+				true
+			],
+			[
+				947,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458241,
+			"Asshole, sleeping drunk in my tavern again! Will you charge your drinks again this time?",
+			"混蛋，又来我酒馆里醉醺醺地睡大觉！这次的酒钱又要赊账了吗？",
+			"バーカ、また私の酒場で寝るとは！今回の飯代、またつけにすんのか？",
+			"이 멍청아, 또 내 술집에서 잠이야? 이번 밥값도 외상이냐?",
+			null
+		],
+		[
+			"msg",
+			458242,
+			"Wake up——Hey!",
+			"快给我醒过来——嘿！",
+			"早く起きやがれーーち！",
+			"빨리 일어나, 이 자식아——!",
+			null
+		],
+		[
+			"speaker",
+			204638
+		],
+		[
+			"portraits",
+			[
+				946,
+				1,
+				false
+			],
+			[
+				947,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458243,
+			"……zzz……",
+			"唏……嗝儿……zzz……",
+			"シー……ヒック……ZZZ……",
+			"쉬이... 딸꾹... ZZZ...",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				947,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458244,
+			"Doh!",
+			"咚！",
+			"ドン！",
+			"쿵!",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				1,
+				false
+			],
+			[
+				947,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458245,
+			"Well, it's a pub, but it's a bit deserted.",
+			"说起来，这里虽然是酒馆，但气氛却有些冷清。",
+			"ここは酒場にして、なんだか寂しい雰囲気ね。",
+			"여긴 술집인데, 왠지 쓸쓸한 분위기네.",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				947,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458246,
+			"After all, it's the slack season and there are fewer customers.",
+			"毕竟是淡季，店里面的顾客也少了一些吧。",
+			"今のシーズンじゃないから、お客さんが少ないかもね。",
+			"지금은 성수기가 아니라서, 손님이 적을지도.",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30050,
+				1,
+				false
+			],
+			[
+				947,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458247,
+			"Well, where are the actors for my cast——",
+			"唔，适合吾剧组的演员在哪儿——",
+			"う、我の映画に出演してくれる役者はどこにーー",
+			"어, 나의 영화에 출연해 줄 배우는 어디에——",
+			null
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				30050,
+				1,
+				true
+			],
+			[
+				947,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458248,
+			"Are you here for a drink? There's one of the world's largest selection of wines to drink…",
+			"你们是来这里喝酒的吗？想喝什么样的酒，这里的酒品类可是全世界最丰富的……",
+			"酒を飲みに来たのか？どんな酒がいい？ここの酒は全世界でも有名だぜ……",
+			"술 마시러 왔어? 어떤 술이 좋아? 여기 술은 전 세계적으로 유명하거든……",
+			null
+		],
+		[
+			"msg",
+			458249,
+			"Whether rum, whiskey, vodka, or the legendary \"electric brandy\" , we have it all!",
+			"无论朗姆、威士忌、伏特加，还是传说中的“电气白兰地”都应有尽有！",
+			"ラム酒、ウィスキー、ウォッカ、伝説の「電気ブラン」もあるよ！",
+			"럼주, 위스키, 보드카, 전설의 「전기 브란」도 있어!",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				947,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458250,
+			"I'm sorry, you may have misunderstood... We're not here to drink. We're here to find the actors——Ah, yes, that's her! Einherjar!",
+			"不好意思，你可能误会了……我们不是来这里喝酒，而是来找演员的——啊，对了，就是她！恩赫里亚！",
+			"すみません……私たちはお酒を飲みに来たんじゃない。俳優を探しに来たんだーーあ、そう、彼女だよ！エインヘリャル！",
+			"죄송해요…… 우리는 술을 마시러 온 게 아니에요. 배우를 찾으러 왔어요―― 아, 맞아, 그녀예요! 에인헤리얼!",
+			null
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				947,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458251,
+			"Actor? Ha...If making excuses every time she comes over is acting, she's pretty good.",
+			"演员？哈……如果说每次过来都找借口赊账是一种演技，那她还真不错。",
+			"俳優？は……飯代をつけにするあれは演技だったら、彼女は確かに優秀な俳優だね。",
+			"배우? ... 밥값을 외상으로 하는 그게 연기였다면, 그녀는 확실히 훌륭한 배우야.",
+			null
+		],
+		[
+			"msg",
+			458252,
+			"But not today. Let me have her first. She said she would pay for the drinks today.",
+			"不过今天不行，先把她让给我。她说好了今天会把酒钱一次付清。",
+			"でも今日はだめ。彼女に用がある。今日こそ酒代飯代を一括払ってくれるって約束だ。",
+			"그런데 오늘은 안 돼. 그녀와 할 일이 있어. 오늘은 술값 밥값을 일괄로 내주기로 약속했거든.",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30050,
+				1,
+				false
+			],
+			[
+				947,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458253,
+			"Huh? But I've already spent a lot of time trying to find actors for my movie, and I'm going to drag it out…",
+			"嗯？但吾的电影已经在找演员这事上花了许多时间，再拖下去……",
+			"でも我も急いでいるんだ、このままじゃ……",
+			"나도 급한 일이 있어서, 이대로라면……",
+			null
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				30050,
+				1,
+				true
+			],
+			[
+				947,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458254,
+			"I have my own rules in this pub, and while I may feel a little guilty about it, I beg your pardon——",
+			"我这酒馆有自己的规矩，虽然有些过意不去，但请容我拒绝——",
+			"この酒場には酒場のルールがある。悪いが、断らせてーー",
+			"이 술집에는 술집 규칙이 있어. 미안하지만, 거절할게——",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				947,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458255,
+			"\"Finrir, hey, every time I come to you for a drink, I feel like I don't have any water. Is there no entertainment here except drinking?\"",
+			"“芬里尔，喂，每次来你这里喝酒都觉得清汤寡水的，难道这里除了喝酒就没什么娱乐了吗？”",
+			"「フェンリル、ここって、酒を飲む以外、なんかのエンターテイメントがないのか？」",
+			"펜릴, 여기 술 마시는 것 외에 다른 엔터테인먼트는 없나?",
+			null
+		],
+		[
+			"msg",
+			458256,
+			"\"Yeah, they just opened an Izakaya with an atmosphere team and professional dancers on the store street!\"",
+			"“就是，商店街最近又新开了一家居酒屋，里面还有气氛组和专业的舞蹈演员呢！”",
+			"「そうそう、商店街の方は新しい居酒屋がオープンしたよ。プロのダンサーもいるって聞いた！」",
+			"그래그래, 상점가 쪽에 새로운 이자카야가 오픈했대. 전문 댄서도 있다던데!",
+			null
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				947,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458257,
+			"Hey, hey, you guys, don't take this pub for a strange place! There isn't enough TV in the tavern for you to watch!",
+			"喂喂喂，你们这些家伙，可别把我这酒馆当成奇怪的地方啊！酒馆里的电视还不够你们看的吗！",
+			"おいおいおい、お前ら、ここは酒場だぞ！テレビは面白くないのか？",
+			"야야야, 너희들, 여긴 술집이라고! TV는 재미없냐?",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				947,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458258,
+			"(It seems that the customers in the store think the atmosphere here is too deserted...)",
+			"（看起来，店里的顾客好像是觉得这里的气氛太冷清了呢……）",
+			"（ここは寂しすぎるってお客さん達もそう思っているよね……）",
+			"(여긴 너무 쓸쓸하다고 손님들도 그렇게 생각하고 있겠지...)",
+			null
+		],
+		[
+			"msg",
+			458259,
+			"(——Maybe you can start from this aspect!)",
+			"（——或许可以从这方面入手！）",
+			"（ーーこれはいいチャンスかも！）",
+			"(——이건 좋은 기회일지도!)",
+			null
+		],
+		[
+			"msg",
+			458260,
+			"Miss Lakshmi, I wanted to talk to you about something——",
+			"拉克西米小姐，我想找你说一些事——",
+			"ラクシュミーさん、ちょっとお話がーー",
+			"라크슈미 씨, 잠시 이야기가——",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				30047,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458261,
+			null,
+			"咦？啊——好的……",
+			"え？あーーはい……",
+			"어? 아——네...",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30047,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458262,
+			"Let's step aside for a moment. Well, here's what I think...",
+			"我们先到一边去吧——好了。嗯，我的想法是这样的……",
+			"あっちに行きましょうーーここでいい。ちょっと考えがあるんだけど……",
+			"저쪽으로 가자고——여기 괜찮아. 생각해 둔 게 있는데...",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30047,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458263,
+			"……",
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30047,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			458264,
+			null,
+			"我明白了。",
+			"わかった。",
+			"알았어.",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458265,
+			"Well, Lakshmi, do you agree?",
+			"怎么样，拉克西米，你同意吗？",
+			"どう、ラクシュミー、この話乗ってくれる？",
+			"어때, 라크슈미, 이 이야기에 참여해줄래?",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				30047,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			458266,
+			"Well, after all, Brynhild helped me last time. Now it's my turn to help her.",
+			"嗯，毕竟上一次布伦希尔德帮助过我，这次该轮到我为她出力了。",
+			"はい、前回はブリュンヒルデに助けられたから、今度は私の番。",
+			"네, 지난번에는 브륀힐데가 도와줬으니 이번은 내 차례.",
+			null
+		],
+		[
+			"msg",
+			458267,
+			"But I doubt my own ability…",
+			"但是，我有些怀疑自己的能力……",
+			"でも、自分はできるかどうかは……",
+			"하지만, 내가 할 수 있을지는...",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458268,
+			"Please believe in yourself, Lakshmi. Do what you think...I believe you can do it.",
+			"请相信自己，拉克西米。按照你的想法去行动吧……我相信你能做到的。",
+			"自分を信じてください。己の考えで動けばいいよ……あなたならできる。",
+			"자신을 믿으세요. 자신의 생각대로 움직이면 돼요... 당신이라면 할 수 있어요.",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				true
+			],
+			[
+				30047,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			458269,
+			null,
+			"我……嗯。",
+			"……わかった。",
+			"...알았어.",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458270,
+			null,
+			"好，那我去和店主说了——",
+			"じゃ、まず私から店主に話をしてみるねーー",
+			"자, 그럼 먼저 제가 점주님께 말씀드려볼게요——",
+			null
+		],
+		[
+			"msg",
+			458271,
+			"Wait a minute, I have an idea!",
+			"等一下，店主小姐。我有个想法！",
+			"ちょっと待って、店主さん、私に考えがあります！",
+			"잠깐만요, 점주님! 제게 아이디어가 있어요!",
+			null
+		],
+		[
+			"msg",
+			458272,
+			"Since you have asked for it, the two divinity next to me are both famous genre film directors in the Babylon Academy. How about asking them to help you hold a lively activity to heat up the atmosphere and attract customers?",
+			"既然大家有要求，恰好我旁边这两位神格都是巴比伦学园里著名的类型片导演，不如让她们来帮你举行一场热闹的活动，来炒热气氛，吸引一下顾客？",
+			"お客さんたちがリクエストを出したことだし、ここにバビロン学園に有名な監督二名がいます。彼女達に賑やかなイベントを企画してもらって、盛り上がってみませんか？",
+			"손님들도 요청하셨고, 여기 바빌론 학원의 유명한 감독님 두 분이 계시잖아요. 그분들께 활기찬 이벤트를 기획해 주시게 해서 분위기를 띄워보는 게 어때요?",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30050,
+				1,
+				false
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458273,
+			"Ha——",
+			"哈——",
+			"はあーー",
+			"하아——",
+			null
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				30050,
+				1,
+				true
+			],
+			[
+				947,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458274,
+			"Entertainment as the price of the deal sounds like a good one.",
+			"原来如此——以娱乐活动作为交易的对价，听起来似乎不错。",
+			"なるほどーーエンターテインメントを交渉の対価にしたか、いいかもね。",
+			"흠—— 엔터테인먼트를 협상의 대가로 삼다니, 괜찮은 생각이네.",
+			null
+		],
+		[
+			"msg",
+			458275,
+			"Well, it's kind of giving back to the customer...",
+			"好，这也算是一种对顾客的回馈……",
+			"わかった、お客さんへのボーナスということで……",
+			"알겠어, 손님들께 드리는 보너스라는 의미로...",
+			null
+		],
+		[
+			"msg",
+			458276,
+			"I agree to your terms——But I'm not going to let you take Einherjar with you if the mood isn't what I want it to be!",
+			"我答应你的条件了——不过，如果现场气氛达不到我预期要求的话，我可不会同意你们把恩赫里亚带走的！",
+			"条件は飲んだーーでも、盛り上がり具合は私の期待に応えられないなら、エインヘリャルを連れて行かせないよ！",
+			"조건은 받아들인다—— 하지만 분위기가 내 기대에 못 미치면, 에인헤랴르를 데려가게 하지 않겠다!",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				947,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458277,
+			null,
+			"请放心，我们一定能做到的！",
+			"安心してください、絶対にやり遂げて見せます！",
+			"안심하세요, 꼭 해내고 말겠습니다!",
+			null
+		]
+	],
+	"3054": [
+		[
+			"bgm",
+			43
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30050,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458278,
+			"What a shame...I can't believe I put on such light clothes and perform in front of people.",
+			"真、真是羞耻……吾竟然会穿上这种轻飘飘的衣服，在众人面前表演。",
+			"は、恥ずかしい……我はこんなふわふわの服を着てみんなの前でショーをするなんて。",
+			"부끄럽다…… 내가 이렇게 푹신푹신한 옷을 입고 모두 앞에서 쇼를 하다니.",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30050,
+				3,
+				true
+			],
+			[
+				30047,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458279,
+			"Please don't complain...It's also for Brynhild your casting campaign.",
+			"请不要抱怨……这也是为了布伦希尔德你的演员招募活动。",
+			"文句を言わないで……これはブリュンヒルデの役者募集のためだよ。",
+			"불평하지 마…… 이건 브륀힐데의 배우 모집을 위한 거야.",
+			null
+		],
+		[
+			"msg",
+			458280,
+			"All right, the drums are playing. Let's go out together.",
+			"好了，鼓声已经响起，我们一起出场吧。",
+			"よし、音楽が鳴った。出るよ。",
+			"좋아, 음악이 울린다. 나갈게.",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30047,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458281,
+			"Doh Doh Doh!",
+			"咚咚咚！",
+			"トントントン！",
+			"똔똔똔!",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30047,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458282,
+			"\"This is a storytelling dance called Kartak, which is a storytelling dance. Today, the Kartak performed is about a love story between a god and a girl.\"",
+			"“这是名为卡塔克的讲舞，是一种以述说故事为主的舞蹈。而今天她们两位所跳的这段卡塔克，其所讲述的内容便是某位神明和少女之间的爱情故事。”",
+			"「これはカタックと呼ばれる、ストーリー性のあるダンスです。 今日彼女たちが踊っているカタックは、ある神と乙女の間のラブストーリーです」",
+			"「이것은 카탁이라고 불리는, 스토리성이 있는 댄스입니다. 오늘 그녀들이 춤추고 있는 카탁은 어떤 신과 소녀 사이의 러브 스토리입니다」",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30047,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458283,
+			"\"A love story between a god and a girl——”",
+			"“神明和少女的爱情故事啊——”",
+			"「神と乙女のラブストーリーかーー」",
+			"「신과 소녀의 러브 스토리라──」",
+			null
+		],
+		[
+			"msg",
+			458284,
+			"\"Most of the time it's a tragedy...But why does it look so funny?\"",
+			"“大概率都是悲剧呢……但是这舞蹈为什么看起来那么搞笑呢？”",
+			"「こういうの悲劇が多いね……でもこのダンス、なんか面白くない？」",
+			"「이런 거 비극이 많지…… 근데 이 춤, 뭔가 재미없지 않아?」",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30047,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			458285,
+			"Brynhild, your beat is out of whack. What's that?",
+			"布伦希尔德，你的拍子乱了，这跳的什么啊？",
+			"ブリュンヒルデ、リズムが乱れてるよ。しっかりして！",
+			"브륀힐데, 리듬이 흐트러지고 있어. 정신 차려!",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30050,
+				2,
+				false
+			],
+			[
+				30047,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			458286,
+			"Who knows? This dance is so difficult, but everyone is happy anyway!",
+			"谁知道？汝这舞蹈那么难搞，反正大家不也挺高兴么！",
+			"え？こんな難しいダンスは我が踊れるわけないだろう？それにみんな喜んでるし！",
+			"어? 이렇게 어려운 춤을 내가 출 수 있겠어? 게다가 모두들 기뻐하고 있잖아!",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30050,
+				2,
+				true
+			],
+			[
+				30047,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			458287,
+			null,
+			"高兴，咦，怎么会……",
+			"喜んでる？え、そんな……",
+			"기뻐하고 있다고? 어, 그런……",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30050,
+				2,
+				false
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458288,
+			"Again!",
+			"再来吧！",
+			"続くぞ！",
+			"계속 간다!",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458289,
+			"\"Now is the scene where the god and the maiden are in love, and the god gives her his flute as a gift, but——!\"",
+			"“现在是神明与少女情定终身的场景，神将自己的长笛作为礼物赠给少女，但是——什么情况！”",
+			"「今は神様と乙女が一生を誓ったシーン。神様は自分の笛を乙女にプレゼントをした、しかしーーどういうこと！」",
+			"「지금은 신과 소녀가 평생을 맹세하는 장면. 신은 자신의 피리를 소녀에게 선물했지만——대체 뭐야!」",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458290,
+			"\"Eh? Ah, come on, a girl is holding a flute like a machete and waving it around!\"",
+			"“咦哈哈，不是吧，少女居然像握着砍刀一样拿着长笛，还挥来挥去诶！”",
+			"「あはは、乙女は笛を刀のように持ってるよ、振り回してるし！」",
+			"「아하하, 소녀가 피리를 칼처럼 들고 있어, 휘두르고 있다고!」",
+			null
+		],
+		[
+			"msg",
+			458291,
+			"\"The figure of the monster appeared unexpectedly——It turns out this is not a love epic between god and girls.\"",
+			"“旁边居然出现了怪兽的身影——夭寿啦！原来这不是神明与少女的爱情史诗，而是《明明获得了神之乐器的我却用来在战场上开无双》的故事啊！”",
+			"「その隣は怪獣の姿じゃないかーーだめだ笑える！これは神様と乙女のラブストーリーじゃなくて、『神の楽器を手に入れてるのに戦場で無双をやってる』物語じゃないの！」",
+			"「그 옆에 괴수 모습이잖아——안 돼 웃겨! 이건 신과 소녀의 러브 스토리가 아니라,『 신의 악기를 손에 넣고 전장에서 무쌍을 찍는』 이야기잖아!」",
+			null
+		],
+		[
+			"msg",
+			458292,
+			"\"Does it mean that after melee mages and melee priests, melee musicians also appear? The minstrel, so long a supporting role in the story of another world, stands up!\"",
+			"“难道说，继近战法师、近战牧师之后，连近战乐师也出现了吗！一直以来在异世界故事里只能当配角的吟游诗人终于站起来了！”",
+			"「まさか、近距離戦ができるのって、 法師と牧師だけじゃなくて、演奏家もいるのか！異世界で配役しかに吟遊詩人はやっとメイン舞台に登ったってことか！」",
+			"「설마, 근접전이 가능한 게 법사와 목사뿐만 아니라 연주자도 있다고! 이세계에서 직업군 중 음유시인이 드디어 메인 무대에 오른 거야!」",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30047,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			458293,
+			"Brynhild, what are you doing? You've gone completely off the dance track…",
+			"布伦希尔德，你在干什么，你已经完全偏离舞蹈的原意了啊……",
+			"「ブリュンヒルデ、何をしている。もうダンスの意味からかけ離れているじゃない……」",
+			"「브륀힐데, 뭐 하는 거야. 이미 춤의 의미와 동떨어졌잖아……」",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30050,
+				2,
+				false
+			],
+			[
+				30047,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			458294,
+			null,
+			"原意什么的，别去管了！",
+			"意味だなんて、どうでもいいよ！",
+			"의미 따윈, 상관없어!",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30050,
+				2,
+				true
+			],
+			[
+				30047,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			458295,
+			"But!",
+			"但是！",
+			"しかし！",
+			"하지만!",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30050,
+				2,
+				false
+			],
+			[
+				30047,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			458296,
+			"Don't worry, this time to show what kind of picture can make people enthusiastic, I know very well——",
+			"不要纠结了，这种时候要展现怎么样的画面才能让人热情高涨，吾无比清楚——",
+			"大丈夫だ、今はどんなシーンが盛り上がるのか、我はちゃんとわかっているーー",
+			"괜찮아, 지금 어떤 장면이 흥미진진한 건지, 내가 제대로 알고 있다고——",
+			null
+		],
+		[
+			"msg",
+			458297,
+			"You are also the director, it should be very clear what we can do!",
+			"汝也是导演吧，应该很明白吾等可以做的是什么！",
+			"汝も監督だろ、我がやっていることが理解できるはずだ！",
+			"너도 감독이잖아, 내가 하고 있는 일을 이해할 수 있을 거야!",
+			null
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30047,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			458298,
+			"\"So handsome! The girl took the flute to slay demons and remove demons to promote justice, and the gods could only follow behind!\"",
+			"“好帅好帅！少女拿着长笛斩妖除魔，弘扬正义，神明也只能跟随在身后！”",
+			"「かっこいい！乙女は笛を振るって、化物退治をして正義を語っている。神様もその引き立て役に過ぎない！」",
+			"「멋져! 소녀가 피리를 불며, 괴물을 퇴치하고 정의를 말하고 있어. 신조차도 그녀의 조연에 불과해!」",
+			null
+		],
+		[
+			"msg",
+			458299,
+			"My lover, you are stronger now'!",
+			"“这就是传说中的——‘我的恋人啊，现在是你比较强’么！”",
+			"「これはいわゆるーー「我が恋人よ、まさか我より強いのか」！ってやつか！」",
+			"「이게 바로 소위 말하는——「내 연인, 설마 나보다 강하다고」! 라는 거군!」",
+			null
+		],
+		[
+			"msg",
+			458300,
+			"\"Clearly a young girl wearing light clothes, but became a heroin to save the world!\"",
+			"“明明是穿着轻飘飘衣服的少女，却成了拯救世界的英雄！去吧，英雄！”",
+			"「ふわふわの服を着ている乙女なのに、世界を救う英雄になった！いけ、英雄よ！」",
+			"「푹신푹신한 옷을 입은 소녀가, 세계를 구하는 영웅이 됐어! 가라, 영웅이여!」",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30050,
+				2,
+				false
+			],
+			[
+				30047,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			458301,
+			"Hum... Look, everyone is in high spirits!",
+			"哼哼……汝看看，大家的情绪都高昂起来了！",
+			"ふふん……ほら、みんなが盛り上がっているじゃない！",
+			"흥…… 자, 모두들 신나고 있잖아!",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30050,
+				2,
+				true
+			],
+			[
+				30047,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			458302,
+			"Such a freewill dance, but drew cheers and joy from everyone…",
+			"唔……如此随心所欲的舞蹈，却引来了大家的欢呼和喜悦……",
+			"うう……こんな適当でわがままなダンスに、みんなが喜ぶなんて……",
+			"으음…… 이렇게 대충이고 제멋대로인 춤에, 모두가 기뻐하다니……",
+			null
+		],
+		[
+			"msg",
+			458303,
+			null,
+			"……跟随自己的内心么……",
+			"……わがままか……",
+			"……제멋대로라고……",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458304,
+			"……",
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			80012
+		],
+		[
+			"portraits",
+			[
+				947,
+				1,
+				false
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458305,
+			"Good job, you——The customer's response is quite enthusiastic. To be honest, it was a little better than I expected.",
+			"干得不错嘛，你们——顾客的反应挺热烈的，酒钱也多了几分。说实话，表现都有些超出我的预期了。",
+			"よくやってくれたじゃないーー客の反応はいいし、酒も多く売れた。正直驚いたよ。",
+			"잘 해줬잖아—— 손님 반응도 좋고, 술도 많이 팔렸어. 솔직히 놀랐어.",
+			null
+		],
+		[
+			"msg",
+			458306,
+			"Good. You can take this guy with you.",
+			"很好，你们就把这家伙带走吧。",
+			"よし、こいつ連れて行っていいよ。",
+			"좋아, 이 녀석 데려가도 돼.",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458307,
+			"Thank you...It was a very memorable experience, even though it was very dry commentary.",
+			"谢谢了……虽然在一旁解说得口干舌燥，但这还真是一份难忘的经历呢。",
+			"ありがとう……解説をするのは大変だけど、なかなかいい経験だったね。",
+			"고마워…… 해설을 하는 건 힘들었지만, 꽤 좋은 경험이었어.",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458308,
+			"……",
+			"……",
+			"……",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30050,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458309,
+			"Eden, Lakshmi.I want to thank you. If it had not been for your help today, I would not have been able to get the right cast.",
+			"伊登，拉克西米。吾要多谢你们。如果今天没有汝等帮助的话，吾恐怕难以得到符合要求的演员。",
+			"イズン、ラクシュミー。今日はありがとう。汝らがいなかったら、我は役者を見つけられないだろう。",
+			"이준, 락슈미. 오늘은 고마워. 너희들이 없었더라면 나는 배우를 찾지 못했을 거야.",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				2,
+				false
+			],
+			[
+				30050,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458310,
+			"Don't thank me…It is but a trifling repayment for the last favour I have received.",
+			"不用感谢我……这只是我对上次所受恩惠的一点微不足道的偿还而已。",
+			"お礼はいいよ……前回助けてもらったお礼ということだ。",
+			"고맙다는 말은 됐어… 지난번에 도와준 것에 대한 보답이야.",
+			null
+		],
+		[
+			"msg",
+			458311,
+			"What's more,...It was on the stage with you earlier that I was influenced by you to make up my mind, and just now I made up my mind completely——Now I know what the choice is.",
+			"更何况……正是在先前和你一起上台演出的时候，我受你的影响坚定了想法，就在刚才彻底下定了决心——现在我已经明白该做出什么选择了。",
+			"それに……さっきあなたと共演したとき、あなたの信念の強さが伝わってきた。それで私も決心をついてーー今、何をすべきか。",
+			"게다가… 아까 너와 함께 연기했을 때, 네 신념의 강함이 전해져 왔어. 그래서 나도 결심을 내리게 됐지— 지금 무엇을 해야 할지.",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30047,
+				2,
+				true
+			],
+			[
+				30051,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			458312,
+			"In this way, Lakshmi has achieved her goal, killing two birds with one stone. That's great... Eh? The actor we brought out seemed to have woken up.",
+			"这样的话，拉克西米也达成了自己的目的，正是所谓的“一箭双雕”呢。真是不错……咦，我们带出来的那个演员好像已经醒了。",
+			"それならラクシュミーも自分の目的を達成したね。まさか「一石二鳥」だね。……あれ、連れ出した神格が目覚めたみたい。",
+			"그럼 락슈미도 자신의 목적을 달성했네. 「일석이조」가 될 줄이야. … 어라, 데려간 신격이 깨어난 모양이네.",
+			null
+		],
+		[
+			"speaker",
+			204638
+		],
+		[
+			"portraits",
+			[
+				946,
+				1,
+				false
+			],
+			[
+				30051,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			458313,
+			"Well, what a good night's sleep...Why, I remember I was drunk in a pub and went straight to sleep. Why am I lying here now——",
+			"唔哈，真是睡了个好觉……咦，我记得自己明明是在酒馆喝醉了，直接睡下的，怎么现在躺在这里——",
+			"うわ、よく眠れた……あれ、確か酒場でつぶれた気がするけど、どうしてここにーー",
+			"와, 잘 잤다... 어라, 확실히 술집에서 쓰러진 것 같은데, 왜 여기에——",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30051,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			458314,
+			"Hello, Miss Einherjar, let me run through the situation…",
+			"恩赫里亚小姐，你好，让我来说明一下情况吧……",
+			"エインヘリャルさん、こんにちは。状況を説明しますよ……",
+			"에인헤리얼 씨, 안녕하세요. 상황을 설명해 드릴게요......",
+			null
+		],
+		[
+			"speaker",
+			204638
+		],
+		[
+			"portraits",
+			[
+				946,
+				1,
+				false
+			],
+			[
+				30051,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			458315,
+			"...I see. Are you trying to recruit me to be an actor in Brynhild?",
+			"……原来如此，我明白了，是想招募我进布伦希尔德的剧组当演员吗？",
+			"……なるほど、わかった。ブリュンヒルデの映画に出演してほしいってことだね？",
+			"......아하, 알겠어. 브륀힐데 영화에 출연해 달라는 거지?",
+			null
+		],
+		[
+			"msg",
+			458316,
+			"I've also heard rumors of Brynhild movie——Hey, I'm not afraid of those things. I could be an actor…",
+			"我也听过一些布伦希尔德电影的传闻——嗨，我倒是不害怕那些事情，要做演员也可以……",
+			"彼女の映画の噂は聞いたことがあるーーそういうのは別に怖くないよ、出演してもいいけど……",
+			"그녀 영화 소문은 들었어—— 그런 건 별로 무섭지 않아, 출연해도 괜찮지만......",
+			null
+		],
+		[
+			"msg",
+			458317,
+			"However, our schedule is full recently, so it is not good to be absent casually. You know, our leader is very terrible!",
+			"只是，我们闇队最近档期都满了，随便缺席可不好，要知道，我们的leader，超可怕的！",
+			"ただ、最近私たちの闇隊のスケジュールがいっぱいなんだ。欠席はよくない。私たちのリーダーがちょう怖いから！",
+			"다만 최근 우리 암대 일정이 꽉 찼어. 결석하면 안 되거든. 우리 대장이 좀 무서워서!",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				946,
+				1,
+				true
+			],
+			[
+				30047,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			458318,
+			"But do you have time for a drink when your schedule is full?",
+			"但你档期都排满了，却还有时间喝酒吗？",
+			"そんなに忙しいのに、お酒を飲む時間があるんだ。",
+			"저렇게 바쁜데, 술을 마실 시간이 있다니.",
+			null
+		],
+		[
+			"speaker",
+			204638
+		],
+		[
+			"portraits",
+			[
+				946,
+				1,
+				false
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458319,
+			"Well, alcohol is the life of me——Going to Ada's is my favorite hobby in my spare time!",
+			"哎呀，酒水可是我的生命之源——你看很多人就算每天996，明明回到家里都累得抬不起手指了，都还是会专门留出几个小时通关游戏。我也是这样啊，去埃达酒馆喝酒可是我业余时间最大的爱好了！",
+			"おや、酒は命の源だーーほら、毎日死ぬまで残業している人がいるのに、家に戻ったらやっぱりゲームをしたりするでしょう。私もそう、エッダ酒場でお酒を飲むのが最大な趣味だよ！",
+			"어이, 술은 목숨의 원천이야——자, 매일 죽을 만큼 야근하는 사람도 있잖아, 집에 돌아가면 역시 게임을 하거나 하지 않아? 나도 그래, 에다 선술집에서 술 마시는 게 가장 큰 취미야!",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				946,
+				1,
+				true
+			],
+			[
+				30050,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			458320,
+			"Cheep, Ming Ming worked so hard...",
+			"嘁，明明费了那么大的力气……",
+			"ち、やっぱりだめか……",
+			"쳇, 역시 안 되겠어……",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				946,
+				1,
+				true
+			],
+			[
+				30047,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			458321,
+			null,
+			"难道真的没办法了么？",
+			"本当に主演してもらえないの？",
+			"정말 주연해 주실 수 없는 거예요?",
+			null
+		],
+		[
+			"speaker",
+			204638
+		],
+		[
+			"portraits",
+			[
+				946,
+				1,
+				false
+			],
+			[
+				30047,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			458322,
+			"That's it! Okay, I gotta get back to work…",
+			"就是这样啦！好了，我要回去工作了……",
+			"ごめんなさい、そういうことで。そろそろ仕事に戻らないと……",
+			"죄송해요, 그런 거라서. 슬슬 일하러 돌아가야 해요……",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				946,
+				1,
+				true
+			],
+			[
+				30050,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458323,
+			"Hum……",
+			"哼……",
+			"はあ……",
+			"하아……",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				946,
+				1,
+				true
+			],
+			[
+				30051,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458324,
+			"Well...Since the schedule has a problem, so as long as the idol team to buy all the schedule should be good~",
+			"唔……既然是档期有问题，那么只要把这支偶像队的全部档期买下来应该就好了吧~",
+			"う……スケジュールの問題なら、お金を出せばいいよね〜",
+			"으…… 스케줄 문제라면, 돈 내면 되잖아~",
+			null
+		],
+		[
+			"speaker",
+			204638
+		],
+		[
+			"portraits",
+			[
+				946,
+				4,
+				false
+			],
+			[
+				30051,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458325,
+			"It's easy to say, but when you consider liquidated…...",
+			"说起来轻松，但考虑到违约金什么的，那可是天文数……什么！这是什么！",
+			"いやいや、違約金のことを考えれば、それは大金だよ……なに！なんと！",
+			"아니야 아니야, 위약금 생각하면 그건 엄청난 금액이야… 뭐! 뭣!",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				946,
+				4,
+				true
+			],
+			[
+				30051,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			458326,
+			"Just now, when you were chatting, I contacted the person in charge of your idol group and bought out the next schedule planning. It's a bit of a premium, but it's still affordable.",
+			"刚刚在你们聊天的时候，我联系了一下你们偶像团体的负责人和经纪公司，买断了接下来的档期规划。虽然有些溢价，但还在承受范围内呢。",
+			"さっきお話しをしているとき、あなたたちのマネージャーに連絡しましたよ。お金を払ってこれからのスケジュールを全部確保しました。まあちょっと高かったけど、払えなくもない。",
+			"아까 이야기할 때 너희 매니저에게 연락했어. 돈 내고 앞으로의 스케줄 전부 확보해뒀다. 뭐 좀 비싸긴 했지만, 못 낼 정도는 아니야.",
+			null
+		],
+		[
+			"speaker",
+			204638
+		],
+		[
+			"portraits",
+			[
+				946,
+				4,
+				false
+			],
+			[
+				30051,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458327,
+			null,
+			"啊，诶，呜哇，怎么回事……",
+			"あ、え、うわ、どういうこと……",
+			"아, 어, 워, 무슨 소리야…",
+			null
+		],
+		[
+			"speaker",
+			204795
+		],
+		[
+			"portraits",
+			[
+				30051,
+				1,
+				false
+			],
+			[
+				30051,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458328,
+			"Brynhild, it seems your actor was so shocked that she lost her mind for a moment.",
+			"布伦希尔德，看来你的演员因为过分震惊，一时间思维都混乱起来了呢。",
+			"ブリュンヒルデ、あなたの役者さんがショックを受けているみたいね。",
+			"브륀힐데, 너의 배우가 충격을 받은 모양이네.",
+			null
+		],
+		[
+			"msg",
+			458329,
+			"Well, all the obstacles have been removed. I have to get back to work on my own movie, so let's say goodbye!",
+			"好了，所有的障碍都已经排除，我也要回去准备自己的电影了，我们就此告别吧！",
+			"よし、これでオールクリアでしょ。私も映画撮影に戻らないと。それじゃまたね！",
+			"좋아, 이제 완전히 해결된 거지? 나도 영화 촬영 현장으로 돌아가야 해. 그럼 또 봐!",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				6,
+				false
+			],
+			[
+				30051,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			458330,
+			null,
+			"……刚刚发生了什么？",
+			"……さっき、何が起こった？",
+			"……방금, 무슨 일이 있었던 거지?",
+			null
+		],
+		[
+			"speaker",
+			204350
+		],
+		[
+			"portraits",
+			[
+				30047,
+				6,
+				true
+			],
+			[
+				30050,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			458331,
+			"I don't understand...However, I think, that should be the legendary \"money ability\".",
+			"吾也不明白……不过，吾觉得，那应该就是传说中的“钞能力”吧。",
+			"我もわからない……でも、それは噂の「お金パワー」じゃないのか。",
+			"나도 모르겠어…… 하지만 그건 소문의 「돈 파워」가 아닐까?",
+			null
+		],
+		[
+			"speaker",
+			204931
+		],
+		[
+			"portraits",
+			[
+				30047,
+				5,
+				false
+			],
+			[
+				30050,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			458332,
+			"... That's terrible!",
+			"“钞能力”……那还真是可怕啊！",
+			"「お金パワー」か……それは恐ろしい！",
+			"「돈 파워」라니…… 그건 무서운데!",
+			null
+		]
+	],
+	"3055": [
+		[
+			"bgm",
+			46
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458333,
+			null,
+			"这是一个都市传说。",
+			"これは、とある都市伝説である。",
+			"이것은 어떤 도시 전설이다.",
+			"This is an urban legend.",
+			null,
+			"It's an urban legend.",
+			"This is an urban legend."
+		],
+		[
+			"msg",
+			458334,
+			"If you're restless and tossing and turning before bed…",
+			"倘若在睡前，你心情焦躁不安，辗转反侧……",
+			"もし眠る前に、悩み事があって、眠れないなら……。",
+			"잠들기 전에, 고민거리가 있어 잠을 이루지 못한다면…….",
+			null,
+			null,
+			"If before going to bed, you are restless, tossing and turning ......",
+			"If you are having trouble sleeping and can't get to sleep, go to ......."
+		],
+		[
+			"msg",
+			458335,
+			"Then Anira will appear in your dreams.",
+			"那么，阿尼拉就会出现在你的梦里。",
+			"アニラは必ず夢の中に現れる。",
+			"아닐라는 반드시 꿈속에 나타난다.",
+			null,
+			null,
+			"Then, Anila will appear in your dreams.",
+			"Anila always appears in dreams."
+		],
+		[
+			"msg",
+			458336,
+			"As long as she appeared in the dream, the dream was bound to turn into a nightmare.",
+			"只要她出现在梦里，那这场梦就一定会变成噩梦。",
+			"彼女が夢の現れると、その夢は必ず悪夢になる。",
+			"그녀가 꿈에 나타나면, 그 꿈은 반드시 악몽이 된다.",
+			"And wherever she appears, the dream will become a nightmare.",
+			null,
+			"As long as she appears in the dream, the dream will definitely turn into a nightmare.",
+			"Whenever she appears in a dream, that dream is always a nightmare."
+		],
+		[
+			"msg",
+			458337,
+			"Also, the bad things that happen in the nightmare if they are not solved in the dream…",
+			"而且，噩梦里发生的坏事如果在梦里没有解决的话……",
+			"そして悪夢にあった悪いことが、夢の中で解決されなかったら……。",
+			"그리고 악몽에서 겪은 나쁜 일이, 꿈속에서 해결되지 않았다면…….",
+			null,
+			null,
+			"And, bad things happen in nightmares if they are not resolved in dreams ......",
+			"And if the bad things in your nightmare are not resolved in your dream, you can go to ......."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458338,
+			"……",
+			"的话……",
+			"じゃ、じゃあ……もし、されなかったら……。",
+			"자, 자아…… 만약, 안 당한다면…….",
+			"If....",
+			null,
+			"The words of ......",
+			"Well, then, if you don't, you can go to ......."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458339,
+			null,
+			"就会成真哦！",
+			"それは現実になる！",
+			"그건 현실이 될 거야!",
+			"If it becomes a reality!",
+			null,
+			"It will come true!",
+			"It will be real!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458340,
+			"Whooh! !",
+			"呜！！",
+			"うっ！！",
+			"윽!!",
+			null,
+			null,
+			"Woo!!!",
+			"Ugh!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458341,
+			null,
+			"哈？为什么要换台？",
+			"は？なんでチャンネルを変えたんだよ！",
+			"하? 왜 채널을 바꾼 거야!",
+			"Hey? Why did you change the channel?!",
+			null,
+			"Huh? Why do you want to change the station?",
+			"Huh? Why did you change the channel!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458342,
+			"The TV series Seele wants to watch is on! So change the channel!",
+			"希儿想看的电视剧开播了！所以要换台！",
+			"ゼ、ゼーレの見たい番組が始まるの！だからチャンネルを変えたんだよ！",
+			"제, 제레가 보고 싶은 프로그램이 시작됐어! 그래서 채널을 바꾼 거야!",
+			"The show that Seele wants to watch is about to start, change it back!",
+			null,
+			"The TV show Hill wants to watch is on! So change the channel!",
+			"Ze, the show Seele wants to watch is on! That's why I changed the channel!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458343,
+			null,
+			"“你到底还爱不爱我……”",
+			"「私のことを愛してくれてるの……」",
+			"「나를 사랑해 주셨어……」",
+			"\"You love me ...\"",
+			null,
+			"\"Do you still love me or not ......\"",
+			"He loves me. ......\""
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458344,
+			"Hey, haven't you watched this love drama about ten times?I occasionally pass by sweep two eyes are quick to remember the plot!",
+			"切，这部言情剧你不都看了快十遍？本大爷偶尔路过扫两眼都快记住剧情了，让本大爷换回去！",
+			"ちっ、そういう恋愛ドラマは10回くらい見ただろ？たまたま通った時にチラッと見たけど、それでもその後の展開を覚えてるよ。早くチャンネルを戻せ！",
+			"쳇, 그런 연애 드라마는 열 번쯤 봤잖아? 지나가다가 잠깐 봤는데, 그래도 그 뒤 전개를 기억하고 있어. 빨리 채널 돌려놔!",
+			"C'mon, haven't you seen this romantic drama a million times already? I just happened to catch a glimpse of it when I was passing by, but I still remember what happened after that. Now hurry up and change the channel back!",
+			null,
+			"Cut, this romance drama you have not seen almost ten times? I occasionally pass by to scan two eyes are almost remember the plot, let me change back!",
+			"Damn, you've seen those romantic dramas about 10 times, right? I just happened to catch a glimpse of it when I was passing by, but I still remember what happened after that. Now turn the channel back on!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458345,
+			"\"We come to interview a female high school student in the local Gakuen, Ko, what do you think of the legend of Anila?\"",
+			"“我们来采访就读于当地千羽学园的女高中生K子，K子，你对阿尼拉传说怎么看？”",
+			"「千羽学園の生徒Kさんにインタビューしようと思います。Kさんはアニラの伝説に関してどう思いますか？」",
+			"「센바 학원의 학생 K씨에게 인터뷰하려고 생각합니다. K씨는 아니라의 전설에 관해 어떻게 생각하세요?」",
+			"\"We're here to interview Ko, a student at Senba Academy, to find out what she thinks about the legend of Anila.\"",
+			null,
+			"\"We're here to interview K-ko, a high school girl who attends the local Chihaya Gakuen. K-ko, what do you think of the Anila legend?\"",
+			"I'm going to interview K., a student at Senba Academy, to find out what he thinks about the legend of Anila.\""
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458346,
+			"Seele doesn't look at crap like that! Seele wants to change the channel!",
+			"希儿才不看这种骗人的东西呢！希儿要换台！",
+			"ゼーレはそういう人を騙すような番組を見たくない！チャンネルを変えるの！",
+			"제레는 그런 사람을 속이는 프로그램을 보고 싶지 않아! 채널을 바꿀 거야!",
+			"Seele doesn't want to watch programs that deceive such people! Change the channel!",
+			null,
+			"Heer won't watch this scam! Hill wants to change the channel!",
+			"Seele doesn't want to watch those deceptive programs! Change the channel!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458347,
+			"The way I see it, is --",
+			"“本小姐的看法嘛，就是——”",
+			"「私？そうだね」",
+			"「나? 그래」",
+			"\"The way I see it, is--\"",
+			null,
+			"\"My lady's opinion is that-\"",
+			"Me? Yes.\""
+		],
+		[
+			"msg",
+			458348,
+			"Crack!",
+			"咔嚓！",
+			"カシャ！",
+			"찰칵!",
+			null,
+			null,
+			"Ka-chow!",
+			"Kasha!"
+		],
+		[
+			"msg",
+			458349,
+			"\"... I repeat, you are the only one I love.\"",
+			"“……我再说一次，我只爱你一个人。”",
+			"「……もう一度言うよ、君だけを愛してるんだ」",
+			"「...다시 한 번 말할게, 너만 사랑해」",
+			null,
+			null,
+			"\"...... I'll say it again, I only love you.\"",
+			"...... again, I love you and only you.\""
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				835,
+				0,
+				false
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458350,
+			"Hand over the remote! You're a coward if you don't want to watch a funny show.",
+			"爱哭鬼希儿又在害怕了，把遥控器交出来！不敢看怪谈节目就是胆小鬼哦。",
+			"臆病者のゼーレがまた怖がってるんだな。早くリモコンを渡せ！怪談番組を観れないやつも臆病者だ。",
+			"겁쟁이 제레가 또 쫄고 있네. 빨리 리모콘 내놔! 괴담 프로그램 못 보는 놈도 겁쟁이야.",
+			"Aw, the crybaby Seele is scared again. Now hand over the remote! Anyone who can't watch a ghost show is a coward.",
+			null,
+			"Crybaby Hill is scared again, hand over the remote control! Do not dare to watch the weird talk show is a coward oh.",
+			"The coward Seele is scared again. Quick, give me the remote control! Anyone who can't watch a ghost story program is also a coward."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458351,
+			"\"I want everyone to know that the whole palace has been destroyed by me...\"",
+			"“我要告诉所有人，整座宫殿都被我……”",
+			"「みんなに教えるの、この宮殿は全部……」",
+			"「다들 알려줄게, 이 궁전은 전부...」",
+			null,
+			null,
+			"\"I'm going to tell everyone that the whole palace is being used by me ......\"",
+			"\"I tell everyone, this palace is all .......\""
+		],
+		[
+			"msg",
+			458352,
+			"Crack!",
+			"咔嚓！",
+			"カシャ！",
+			"찰칵!",
+			null,
+			null,
+			"Ka-chow!",
+			"Kasha!"
+		],
+		[
+			"msg",
+			458353,
+			"\"... So that's all I want to say.\"",
+			"“……综上所述，就是本小姐想说的了。”",
+			"「……以上が私の考えだけど」",
+			"「...이상이 내 생각인데」",
+			null,
+			null,
+			"\"...... In summary, that's what this lady wants to say.\"",
+			"I'm thinking more than ...... though.\""
+		],
+		[
+			"msg",
+			458354,
+			"\"All right, thank you very much. Let's move on to the next horror urban legend!\"",
+			"“好的非常感谢K子，我们来看下一个恐怖都市传说！”",
+			"「Kさん、ありがとうございました。次の怖い都市伝説を見てみましょう！」",
+			"「K님, 감사했습니다. 다음 무서운 도시전설을 보러 가볼까요!」",
+			null,
+			null,
+			"\"Okay thanks a lot K-ko, let's see the next horror urban legend!\"",
+			"Thank you, Mr. K.\" Now on to the next scary urban legend!\""
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458355,
+			"I never want to see Sin again. Seele is going to bed!",
+			"谁是胆小鬼呀！哼，再也不想见到杏了，希儿要去睡觉了！",
+			"ゼーレは臆病者じゃないよ！ふんっ、もうシンの顔を見たくないから寝る！",
+			"제레는 겁쟁이 아니야! 흥! 이제 신 얼굴도 보기 싫어, 나 잘 거야!",
+			"Seele is not a coward! I'm sick of seeing your face, I'm going to bed!",
+			null,
+			"Who's a coward? Hmph, never want to see apricot again, Hill is going to bed!",
+			"Seele is no coward! Hmph, I don't want to see Sin's face anymore, so I'm going to bed!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458356,
+			"Doh!",
+			"咚！",
+			"ドンッ！",
+			"쿵!",
+			null,
+			null,
+			"Dang!",
+			"Boom!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458357,
+			"Huh!",
+			"哼！",
+			"ふんっ！",
+			"흥!",
+			null,
+			null,
+			"Haha!",
+			"Hmph!"
+		]
+	],
+	"3056": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458358,
+			"……",
+			"……",
+			"……。",
+			"……。",
+			null
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458359,
+			null,
+			"唔……白天了吗？",
+			"ん～……もう朝？",
+			"음~…… 벌써 아침이야?",
+			"Huh.... It's morning already?",
+			null,
+			"Well ...... daytime now?",
+			"Hmmm... ...... morning already?"
+		],
+		[
+			"msg",
+			458360,
+			"Isn't this the setting for the romantic drama Seele saw last night?",
+			"要准备上学了……呜啊！这种陈设，这不是，这不是希儿昨晚看的言情剧的布景吗？",
+			"そろそろ学校に行かないと……うわっ！これ、ゼーレが昨日観た恋愛ドラマのセットだよね？",
+			"슬슬 학교에 가야 하는데…… 와! 이거, 제레가 어제 본 연애 드라마 세트 맞지?",
+			null,
+			null,
+			"To get ready for school ...... ooh ah! This kind of furnishings, isn't this, isn't this the set of the romance drama that Hier watched last night?",
+			"I've got to go to school soon. ...... Wow! This is the set of the romantic drama Seele watched yesterday, right?"
+		],
+		[
+			"msg",
+			458361,
+			"That's amazing. Is this... A movie set?",
+			"好厉害，这是难道是……电影拍摄现场？",
+			"すごい。ここって……映画の撮影現場なの？",
+			"대단해. 여긴…… 영화 촬영 현장이야?",
+			null,
+			null,
+			"So awesome, is this the site of a ...... movie shoot?",
+			"Amazing. Is this a ...... movie set?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458362,
+			"——",
+			"唰啦——",
+			"——シャ！",
+			"——샤!",
+			null,
+			null,
+			"Swish-la-",
+			"--Sha!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458363,
+			"Outside the window, there were people dressed in western clothes...Is Seele dreaming?",
+			"窗外面也是穿着西式服装的人们……难道说——希儿在做梦？",
+			"窓の外にもドレスを着た人たちが……もしかして、夢を見てる？",
+			"창문 밖에도 드레스를 입은 사람들이…… 혹시, 꿈을 꾸고 있는 걸까?",
+			null,
+			null,
+			"Outside the window are also people in Western-style clothing ...... Does that mean - Hill is dreaming?",
+			"There are people in dresses outside the window too ...... maybe they are dreaming?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458364,
+			"——",
+			"捏——",
+			"——ギュッ",
+			"——꼭",
+			null,
+			null,
+			"Pinch-",
+			"--clasp"
+		],
+		[
+			"bgm",
+			40
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458365,
+			"It didn't hurt. Seele was really dreaming!Is this what they call lucid dreaming on TV? Wow, it's like stepping into a TV show. Great!",
+			"一点都不疼，原来希儿真的在做梦！这就是电视里说的那种清醒梦吧？哇，这样就好像是穿越到了电视剧里一样，好棒！",
+			"全然痛くない、やっぱり夢なんだ！これは明晰夢ってやつなのかな？まるでドラマの世界に入ったみたいで凄い！",
+			"전혀 아프지 않아, 역시 꿈이었어! 이게 바로 자각몽이라는 건가? 마치 드라마 속 세계에 들어온 것 같아서 대단해!",
+			"It doesn't hurt at all, it's a dream! Is this a lucid dream? It's like entering the world of TV, it's amazing!",
+			null,
+			"It didn't hurt at all. So Hill was really dreaming! This is the kind of lucid dreaming they talk about on TV, right? Wow, it's like traveling to a TV show like this, so great!",
+			"It doesn't hurt at all, I knew it was a dream! Is this what you call lucid dreaming? It's like I'm in a drama, awesome!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458366,
+			"It's so noisy, Seele, what are you doing rolling around on the bed with your pillows?",
+			"吵死了，希儿，你抱着枕头在床上滚来滚去干什么呢？",
+			"おい、ゼーレうるさい。枕を抱きしめながらベッドで転がって何がしたいんだよ。",
+			"야, 제레 시끄럽다. 베개를 껴안고 침대에서 뒹굴며 뭘 하고 싶은 거야.",
+			"Oy, stop making so much noise. What are you trying to do by rolling in bed while hugging your pillow?",
+			null,
+			"What are you doing rolling around in bed with your pillow?",
+			"Hey, Seele, shut up. What do you want to do, roll around in bed hugging a pillow?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458367,
+			"Because Seele's dream came...Sin !?Why is Sin here?",
+			"因为希儿居然梦来到了梦……杏！？为什么杏会在这里！",
+			"だってドラマの世界の夢を……シン！？どうしてシンもここにいるの！",
+			"드라마 속 세상의 꿈을……신!? 왜 신도 여기 있는 거야!",
+			"Because this is a dream about the world of TV... Sin?! Why are you here too?",
+			null,
+			"Because Hill actually dreamed of coming to the dream ...... apricot! Why apricot will be here!",
+			"Because of Drama World Dreams ...... Shin! Why is Shin here too!"
+		],
+		[
+			"msg",
+			458368,
+			"If I had to dream about it, I'd dream about Sister Bronya.",
+			"如果要做梦的话，果然还是梦到布洛妮娅姐姐比较愉快。",
+			"夢なら、ブローニャお姉ちゃんと一緒にいる夢がよかったのに。",
+			"꿈이었다면, 브로냐 누나와 함께 있는 꿈이었으면 좋았을 텐데.",
+			"If this was a dream, I'd wish it was a dream with Bronya.",
+			null,
+			"If you want to dream, it is really more pleasant to dream about sister Bronya.",
+			"If I was going to dream, I would have preferred to dream that I was with my sister Bronya."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458369,
+			"What is it... Is stupid Seele daydreaming again?",
+			"什么东西……笨蛋希儿又在做白日梦吗？",
+			"なんだ……バカゼーレがまた変な妄想してるのか？",
+			"뭐야…… 바보 제레가 또 이상한 망상하는 거야?",
+			"What.... Is it because Seelediot is having a weird delusion again? (TN: she says baka-Seele)",
+			null,
+			"What the heck ...... idiot Hill is daydreaming again?",
+			"What's with the ...... moron Seele, are you being weirdly paranoid again?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458370,
+			null,
+			"希儿才不跟杏说话，不理你！",
+			"なんなの？シンとは話したくない！",
+			"뭐냐? 신이랑은 말하고 싶지 않아!",
+			"Hmph, I'm not talking to you!",
+			null,
+			"Hill will not talk to the apricot, ignore you!",
+			"What is it? I don't want to talk to Sin!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458371,
+			"It's so boring. It makes me want to talk to you.",
+			"真无聊，搞得本大爷特别想理你一样。",
+			"くだらない、別にボクだって話したくないよ。",
+			"한심하군, 나도 별로 말하고 싶지 않아.",
+			null,
+			null,
+			"What a bore, make this moncler outlet store special want to care about you.",
+			"Nonsense, I don't want to talk about it either."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458372,
+			"Bang!",
+			"砰！",
+			"バンッ！",
+			"쾅!",
+			null,
+			null,
+			"Bang!",
+			"Bang!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458373,
+			null,
+			"杏走掉了吗？",
+			"シン……もう行っちゃったの？",
+			"신… 벌써 갔어?",
+			"Sin, are you still there?",
+			null,
+			"Did the apricot walk away?",
+			"Sin...... already gone?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458374,
+			"——",
+			"——",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458375,
+			"Without Sin in the way, Seele has something to do.",
+			"真的走掉了，呼呼，没有杏碍事，那希儿就要大有所为了。",
+			"本当に行ったんだ。ふふっ、シンはもういないし、これでもう邪魔する人はいないんだね。",
+			"정말 갔구나. 흐흥, 신도 이제 없으니 이제 방해하는 사람은 없는 거네.",
+			"He he... Now that I've snuck away, there's no Sin to stop me from doing anything I want!",
+			null,
+			"Really go away, hoo hoo, no apricot in the way, that Hill is going to be a big deal.",
+			"I really went there. Phew, Shin is gone, and now there is no one to disturb us anymore, right?"
+		],
+		[
+			"msg",
+			458376,
+			"By setting...Seele should be the leading lady, there will be news of the princess ball soon——",
+			"既然是清醒梦，那希儿不趁机玩玩就亏大了。按照设定……希儿应该是女主角，不久之后会有公主舞会的消息传来——",
+			"せっかくの明晰夢を思い切り楽しまなきゃだね。設定通りだと……ゼーレはヒロインになるはずだから、しばらくしたらお姫様の舞踏会のお知らせが届くはず。",
+			"이번에 꾼 루시드 드림을 마음껏 즐겨야지. 설정대로라면… 제레가 히로인이 될 테니, 조금 있으면 공주님 무도회 소식이 도착할 거야.",
+			null,
+			null,
+			"Since it's a lucid dream, it would be a big loss for Hill not to take advantage of the opportunity to have some fun. According to the setting ...... Hill should be the heroine, and soon there will be news of the princess ball -",
+			"I'll have to enjoy my lucid dreaming to the fullest. As it is set up, ...... Seele should be the heroine, so you should get a notice of the princess ball in a while."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458377,
+			null,
+			"肃静、肃静！公主大人有令！",
+			"静粛に、静粛に！姫様からのご命令です！",
+			"정숙, 정숙! 공주님의 명령입니다!",
+			null,
+			null,
+			"Silence, silence! An order from the Princess!",
+			"Silence, silence! The Princess commands you!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458378,
+			"I'm coming!",
+			"来了！",
+			"来た！",
+			"왔어!",
+			null,
+			null,
+			"Here it comes!",
+			"Here they come!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458379,
+			"The princess needs all the girls of the right age to dress up in wedding dress for reference in the future. We invite all the girls of the city to the ball!",
+			"公主大人需要所有适龄女孩身着婚服的样子给自己将来做参考，特此邀请全城女孩参与舞会！",
+			"この国の少女全員のウェディングドレス姿を見て、参考にしたいと姫様はおっしゃいました。そのため、皆様を舞踏会にご招待します。",
+			"이 나라 모든 소녀의 웨딩드레스 차림을 보고 참고하고 싶다고 공주님께서 말씀하셨어. 그래서 여러분을 무도회에 초대합니다.",
+			null,
+			null,
+			"The Princess needs all the girls of her age to dress up in wedding clothes for her future reference, so she invites all the girls in town to join the ball!",
+			"The Princess said that she would like to see all the girls in this country in their wedding dresses for reference. For this reason, we invite you all to the ball."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458380,
+			"The timing was just right. What a lucid dream! Skip the first 15 episodes and get right to the key scenes!",
+			"时间刚刚好，真是个好清醒梦啊，把灌水的前15集全都略过了，直接到了关键场景！",
+			"いいタイミング！明晰夢ってすごいね、重要じゃない15話までの展開をスキップして、直接肝心なところまで飛ばしてくれた！",
+			"타이밍 좋네! 자각몽 진짜 대단하다, 중요하지 않은 15화까지의 전개를 스킵하고 바로 핵심 부분으로 넘어가 줬어!",
+			null,
+			null,
+			"The timing is just right, it's a good lucid dream, the first 15 episodes of flooding all skipped, directly to the key scenes!",
+			"Great timing!!! Lucid dreaming is awesome, you skipped over the unimportant 15 episodes and skipped directly to the important stuff!"
+		],
+		[
+			"msg",
+			458381,
+			"Seele needs to get dressed up for the princess ball, which is something that girls in real high school would never go to~",
+			"希儿要抓紧打扮一下了，公主的舞会，这可是现实中的女高中生绝对参加不了的舞会呢~",
+			"ゼーレもおめかししないとだね。お姫様の舞踏会は普通の女子高生じゃ絶対に参加できないもの。",
+			"제레도 준비해야겠네. 공주님의 무도회는 평범한 여고생이 절대 참석할 수 없는 거야.",
+			null,
+			null,
+			"Heer has to hurry up and dress up, the princess ball, this is a real high school girl can never attend the prom ~",
+			"Seele needs to get dressed up too. A princess ball is something a normal high school girl would never be able to attend."
+		],
+		[
+			"msg",
+			458382,
+			"To the...Seele remembers that the wedding dress was to --",
+			"对了……希儿记得婚服是要——",
+			"そうだ……ウェディングドレスって確か——",
+			"그렇지... 웨딩드레스라면 확실히——",
+			null,
+			null,
+			"By the way ...... Hill remembered that the wedding dress is to-",
+			"Yes, I'm sure ...... wedding dresses are--"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458383,
+			"Rumble!",
+			"轰隆！",
+			"ドォォォォォォォォォォォォォォォォンッ！",
+			"쿵!!!!!!!!!",
+			null,
+			null,
+			"Boom!",
+			"D'oh!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				835,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458384,
+			null,
+			"！？！？！？",
+			"えっ！？！？！？",
+			"엥!?!?!?",
+			null,
+			null,
+			"!?!!?",
+			"What?"
+		],
+		[
+			"msg",
+			458385,
+			"What happened, what happened? What a loud noise outside?",
+			"发生、发生什么事了？外面好大的声音？",
+			"な、なに？今すごい音した気がする。",
+			"뭐, 뭐지? 방금 엄청난 소리가 난 것 같아.",
+			null,
+			null,
+			"What's happening, what's happening? What's that noise outside?",
+			"Hey, what is it? I think I just heard a great sound."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458386,
+			"Well?…",
+			"唔……",
+			"うっ……。",
+			"으...",
+			"Ugh....",
+			null,
+			"Well ......",
+			"Ugh. ......."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458387,
+			"Is that sound a Sin? Sin ! Are you okay?",
+			"这声音，是杏吗？杏！你没事吧？",
+			"その声、シンなの！？シン、大丈夫？",
+			"그 목소리, 신이야!? 신, 괜찮아?",
+			null,
+			null,
+			"This voice, is it Apricot? Apricot! Are you okay?",
+			"That voice, is that Shin! Shin, are you okay?"
+		],
+		[
+			"msg",
+			458388,
+			"Sin——",
+			"杏——",
+			"シン！",
+			"신！",
+			null,
+			null,
+			"Apricot -",
+			"Shin!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458389,
+			null,
+			"希儿是在叫我吗？",
+			"う～ん、シンを呼んだ？",
+			"으음~ 신을 부른 거야?",
+			"You called?",
+			null,
+			"Is Hill calling me?",
+			"Hmmm, did you call Sin?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458390,
+			"Who are you!",
+			"你谁啊！",
+			"だ、誰！？",
+			"누, 누구!?",
+			"Who are you!?",
+			null,
+			"Who are you?",
+			"Who's that?"
+		]
+	],
+	"3057": [
+		[
+			"bgm",
+			40
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458391,
+			"What's going on? Wait a minute, if you think about it, it looks like a long time ago, Sin looked like this.",
+			"怎怎怎怎怎么回事？？等等，仔细一想，好像在很久很久很久很久以前，杏是这样的。",
+			"ど、ど、どういうこと？待って、よく考えたら、すごーく昔のシンはこんな感じだった気がする。",
+			"무, 무, 무슨 소리야? 잠깐, 잘 생각해 보니까 엄~청 옛날 신은 이런 느낌이었던 것 같아.",
+			"What's going on? Hmmm, I think Sin used to look somewhat like this a long time ago...",
+			null,
+			"How how how how what is going on? Wait, on second thought, it seems that apricots were like this a long, long, long time ago.",
+			"What do you mean? Wait, thinking about it, I think Shin was like this a very long time ago."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458392,
+			null,
+			"杏就是杏呀。",
+			"シンはシンなの。",
+			"신은 신이야.",
+			"Sin is Sin.",
+			null,
+			"Apricots are apricots.",
+			"Shin is Shin."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458393,
+			"No, no, now Sin calls herself \"Lord Savior\"! Don't you think it's weird that you call yourself by your own name?",
+			"不对不对，现在的杏的自称可是“本大爷”欸！你是用本名自称的，不觉得很怪吗？",
+			"違う……違うよ！今のシンは自分のことを「ボク」って呼んでるよ！自分のことを名前で呼ぶなんて……違和感とかないの？",
+			"아냐... 아냐! 지금 신은 자기 자신을 「보쿠」라고 부르잖아! 자기 자신을 이름으로 부르다니... 어색하지 않아?",
+			"No, normally you refer to yourself using \"I\"! Isn't it strange to refer to yourself in third person? And your manner of speaking is always so direct, too!//n//n(TN: You're one to talk, Seele. This is lost in translation since English only has one way of referring to yourself, but Sin normally uses 'boku' instead of 'watashi' because she wants to appear stronger. Switching to third person is basically a total 180° for Sin.)",
+			null,
+			"No, no, no, no, no, no, no! Don't you think it's weird that you call yourself by your real name?",
+			"No. ...... No! Now Shin calls himself \"me\"! Don't you feel ...... uncomfortable calling yourself by your name?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458394,
+			null,
+			"是么，杏觉得这挺正常的~",
+			"そうなの？シンは普通だと思うけど。",
+			"그래? 신은 평범한데.",
+			"Is that so? It seems pretty normal to Sin.",
+			null,
+			"Really, apricot think this is quite normal ~",
+			"Really? I think Shin is normal."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458395,
+			"So what just happened? How did sine of theta get to look like this?",
+			"那刚刚到底发生了什么？杏怎么变成这个样子了？",
+			"じゃあ、さっきは何があったの？どうしてこんな風になったの？",
+			"그럼, 방금 무슨 일 있었어? 어떻게 이렇게 된 거야?",
+			"So what the heck happened earlier? Why do you look like this?",
+			null,
+			"So what the hell just happened? How did the apricot become like this?",
+			"So what happened earlier? How did you become like this?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458396,
+			"Just Sin walking at the door, suddenly jumped out of a girl wearing a wedding dress with a knife, and put on a very lovely wedding dress for Sin.",
+			"刚刚杏在门口散步，忽然蹿出来了一个穿着婚纱拿着刀的女孩子，硬是给杏穿上了很可爱的婚纱礼服，杏就变成这样啦。",
+			"入口で散歩してたら、急にウェディングドレスを来た女の人がナイフを持って、かわいいウェディングドレスをシンに着せて今の状態になったの。",
+			"입구에서 산책하고 있었는데, 갑자기 웨딩드레스를 입은 여자가 칼을 들고, 예쁜 웨딩드레스를 신에게 입혀서 지금 상태가 됐어.",
+			"Sin was strolling at the entrance and suddenly a woman wearing a wedding dress and holding a knife appeared. She took out a very cute wedding dress and put it on Sin, and Sin became like this.",
+			null,
+			"Just apricot walking in front of the door, suddenly leapt out of a girl wearing a wedding dress with a knife, hard to apricot dressed in a very cute wedding dress, apricot will become so la.",
+			"I was strolling at the entrance and suddenly a woman in a wedding dress took a knife and put a cute wedding dress on Singh to get him into the state he's in now."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458397,
+			"What is this with what...But I think carefully this is a dream, outrageous some also reasonable.",
+			"这都什么跟什么……不过仔细一想这可是梦，离谱一些也在情理之中。",
+			"どういうこと……でも一応夢だし、変わったところがあっても理解できるね。",
+			"무슨 소리야... 그래도 어차피 꿈이니까 이상한 점이 있어도 이해할 수 있겠네.",
+			"What does that even mean... But I guess if this is a dream, some ridiculous things can also happen.",
+			null,
+			"This is all what with what ...... But think carefully this is a dream, outrageous some also in the reasonable.",
+			"What do you mean ...... but it's a dream at least, and I can understand if there's something unusual about it."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458398,
+			null,
+			"希儿你看，很可爱吧~",
+			"ねえ、ゼーレ、かわいい？",
+			"저기 제레, 귀여워?",
+			"Hey, Seele, aren't you cute?",
+			null,
+			"Look at Hill, it's cute, right?",
+			"Hey, Seele, is it cute?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458399,
+			null,
+			"杏才不可……",
+			"シンはかわいくな——",
+			"신은 귀여워——",
+			"Sin is cute ...",
+			null,
+			"Apricot talent is not available ......",
+			"Shinn's not a cute little--"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458400,
+			"Huh?",
+			"嗯？",
+			"ん？なにかな？",
+			"음? 뭔가?",
+			null,
+			null,
+			"Hmm?",
+			"Hmm? What is it?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458401,
+			"Well...As much as Seele doesn't want to admit it. Sin, now, is really cute.",
+			"唔……虽然希儿非常不想承认，但是现在的杏，确实很可爱。",
+			"うっ……認めたくないけど、今のシンは本当にかわいいと思う。",
+			"으읍... 인정하기 싫지만, 지금 신은 정말 귀여운 것 같아.",
+			"Um.... Seele doesn't want to admit it, but I think Sin is really cute now.",
+			null,
+			"Well ...... although Hill very much does not want to admit it, but now the apricot, indeed very cute.",
+			"Ugh ...... I hate to admit it, but I think Shin is really cute right now."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458402,
+			"Thank you. Seele is also very, very cute today.",
+			"谢谢~今天的希儿也非常非常可爱哦。",
+			"ありがとう！今日のゼーレもかわいいよ。",
+			"고마워! 오늘의 제레도 귀여워.",
+			"Thank you~ Seele is also very, very cute today.",
+			null,
+			"Thank you ~ today's Hill is also very, very cute Oh.",
+			"Thanks! Seele is cute today too."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458403,
+			"Hey hey is it really that cute...Well, she's a Sin. Why is she so cute?",
+			"诶嘿嘿真的有那么可爱吗……欸，不对啊这家伙可是杏啊，为什么会这么讨人喜欢……",
+			"えへへっ、ゼーレもかわいいんだ……あっ、違う、相手はシンだよ、シンはこんな可愛らしい性格してないよ……。",
+			"에헤헷, 제레도 귀여운데... 아, 아니 상대는 신이야, 신은 이렇게 귀여운 성격 아니라고...",
+			"Hehe, Seele is also cute... Oh no, the other person is Sin, Sin doesn't have such a cute personality...",
+			null,
+			"Eh heh heh is really that cute ...... Hey, no ah this guy is an apricot ah, why is so likeable ......",
+			"Hehe, Seele is cute too ...... Oh, no, the other guy is Shin, Shin doesn't have such a cute personality ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458404,
+			"Speaking of it, it seems that someone was talking about the party. Sin really wants to go there.",
+			"说起来，刚刚好像有人在说舞会的事情，杏好想去那玩呀。",
+			"そういえば、舞踏会のこと言ってたよね、シンも行ってみたいな。",
+			"그러고 보니, 무도회 이야기했었지, 신도 가보고 싶어.",
+			"Speaking of which, it seemed like someone was talking about the ball just now, Sin really wanted to go there.",
+			null,
+			"Speaking of which, I think someone was talking about the prom, and Apricot wants to go there.",
+			"Oh, and by the way, you mentioned the ball...I'd like to go to the Cinco de Mayo."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458405,
+			"The look is so innocent, Seele wants to protect her!",
+			"这个表情好纯真，希儿好想要保护她！",
+			"この表情かわいい、守りたいと思っちゃう！",
+			"이 표정 귀엽다, 지켜주고 싶어져!",
+			"Her smile is so cute, I want to protect it!",
+			null,
+			"This expression is so innocent, Hier wants to protect her so much!",
+			"This look is so cute, makes me want to protect it!"
+		],
+		[
+			"msg",
+			458406,
+			"Then Seele will take Sin. Seele knows where the road is.",
+			"那希儿就带杏去，希儿知道路在哪儿。",
+			"じゃあ、ゼーレが連れて行ってあげるね、場所を知ってるの。",
+			"그럼 제레가 데려다 줄게, 장소 알고 있어.",
+			null,
+			null,
+			"Then Hsieh will take the apricot to it, Hsieh knows where the road is.",
+			"Then Seele will take you there, I know the place."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458407,
+			"Wow, Seele is so reliable, Sin wants to go to the ball with Seele ~",
+			"哇，希儿好可靠，杏想要和希儿一起去舞会~",
+			"わぁ、さすがゼーレ、頼もしい。シンはゼーレと一緒に舞踏会に行きたいの。",
+			"와, 역시 제레, 든든해. 신은 제레랑 같이 무도회에 가고 싶어.",
+			null,
+			null,
+			"Wow, Hil is so reliable, Apricot wants to go to the prom with Hil~",
+			"Wow, as expected of Seele, she is reliable. Shin wants to go to the ball with Seele."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458408,
+			"Hmm ! That's funny. Seele will say yes to anything. Sin?",
+			"唔！真可爱！好，希儿什么事情都会答应杏的哦。",
+			"うっ、かわいい！分かった、一緒に行こうね。",
+			"우, 귀여워! 알았어, 같이 가자.",
+			"Wow, she's so cute! Alright, let's go together.",
+			null,
+			"Mmm! So cute! Okay, Hsieh will promise Apricot anything.",
+			"Ugh, so cute! Okay, I'll go with you."
+		],
+		[
+			"msg",
+			458409,
+			"Ah, it would be nice if the real Sin had this personality.",
+			"啊，要是现实中的杏也是这种性格，那就再好不过了。",
+			"あぁ、現実のシンもこんな性格だったらいいのに。",
+			"아, 현실의 신도 이런 성격이었으면 좋겠는데.",
+			"Ah, it would be nice if the real Sin was like this too.",
+			null,
+			"Ah, it would be nice if the real Apricot was also this kind of character.",
+			"Oh, I wish Shin in real life had this kind of personality."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458410,
+			null,
+			"吁吁吁——",
+			"——タタタッ",
+			"——타타탓",
+			null,
+			null,
+			"Phew! Phew! Phew!",
+			"--Ta-ta-ta-ta."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458411,
+			"Seele, look, is that a buggy?It's so beautiful.",
+			"希儿快看，那是马车吗？好漂亮呀。",
+			"ゼーレ見て、あれは馬車なの？綺麗だね～",
+			"제레 봐, 저거 마차야? 예쁘다~",
+			"Seele, look. Is that a carriage? It's so beautiful.",
+			null,
+			"Look at that. Is that a horse-drawn carriage? It's so beautiful.",
+			"Look Seele, is that a carriage? It's beautiful!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458412,
+			"It must be a royal carriage.",
+			"装饰那么华贵，应该是皇家的马车吧。",
+			"綺麗な装飾があるから、たぶん王族の馬車だと思うよ。",
+			"예쁜 장식이 있으니까, 아마 왕족의 마차인 것 같아.",
+			"The decoration is so luxurious, it must be a royal carriage.",
+			null,
+			"The decoration is so luxurious, it should be a royal carriage.",
+			"I think it's probably a royal carriage because it's so beautifully decorated."
+		],
+		[
+			"msg",
+			458413,
+			"This is the plot...The next step should be for the princess's messenger to summon the heroine.",
+			"啊，对哦，剧情推到这了……接下来应该就是公主的使者来传唤女主角了。",
+			"あっ、そうだ、このシーンは確か……お姫様の使者がヒロインを招待するシーンだね。",
+			"아, 맞다, 이 장면은 확실히…… 공주님의 사자가 히로인을 초대하는 장면이야.",
+			null,
+			null,
+			"Ah, right oh, the plot pushed to this ...... next should be the princess's messenger to summon the heroine.",
+			"Oh, yes, I believe this is the scene where the ...... princess messenger invites the heroine."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458414,
+			null,
+			"肃静，肃静。",
+			"静粛に、静粛に。",
+			"정숙하게, 정숙하게.",
+			null,
+			null,
+			"Silence, silence.",
+			"Quiet, quiet, quiet."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458415,
+			"Well!",
+			"嗯嗯！",
+			"うん！",
+			"응!",
+			null,
+			null,
+			"Mmmmmm!",
+			"Yeah!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458416,
+			null,
+			"公主有言，传唤——",
+			"姫様からの命令です。",
+			"공주님의 명령입니다.",
+			null,
+			null,
+			"The princess has a word to summon -",
+			"Orders from the Princess."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458417,
+			"Well !",
+			"嗯！",
+			"うん！",
+			"응!",
+			null,
+			null,
+			"Hmm!",
+			"Yeah!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458418,
+			"Miss Sin Mar to the party. Come in!   !",
+			"杏·玛尔小姐参加舞会，请乘车！！",
+			"シン・マールを舞踏会に招待します。どうか馬車にお乗りください！！",
+			"신 마르를 무도회에 초대합니다. 마차에 탑승해 주세요!!",
+			null,
+			null,
+			"Miss Apricot-Mar for the ball, please take the car!!!",
+			"I invite Sin Mar to the ball. Please get in the carriage!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458419,
+			"Ah?",
+			"啊？",
+			"えっ？",
+			"어?",
+			null,
+			null,
+			"Huh?",
+			"What?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458420,
+			"Is it really possible to take a carriage to the castle, Seele Let's go.",
+			"真的可以坐马车去城堡吗，希儿我们走吧。",
+			"本当に馬車に乗っていいの？ゼーレ、一緒に行こう。",
+			"정말 마차에 타도 돼? 제레, 같이 가자.",
+			null,
+			null,
+			"Is it really possible to take a carriage to the castle? Hillel let's go.",
+			"Are you sure I can ride in the carriage? Seele, come with me."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458421,
+			null,
+			"难道说……",
+			"まさか……。",
+			"설마…….",
+			"Wait, does this mean....",
+			null,
+			"Does it mean that ......",
+			"No way. ......."
+		],
+		[
+			"msg",
+			458422,
+			null,
+			"杏才是女主角吗！！！！",
+			"シンがヒロインなの！？",
+			"신이 히로인이라고!?",
+			"Sin is the heroine!?!?",
+			null,
+			"Apricot is the heroine? ！！！！",
+			"Shin is the heroine!"
+		]
+	],
+	"3058": [
+		[
+			"bgm",
+			40
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458423,
+			"The castle over there. Are we going to the ball there tonight?",
+			"那边的城堡，我们今晚就会去那里参加舞会吗？",
+			"今夜の舞踏会はあの城で行われるの？",
+			"오늘밤 무도회는 저 성에서 열리는 거야?",
+			null,
+			null,
+			"The castle over there, is that where we'll be going to the ball tonight?",
+			"Will the ball tonight take place in that castle?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458424,
+			"Seele is malevolent~ Seele is malevolent~ Seele is malevolent~",
+			"希儿是恶毒女配希儿是恶毒女配希儿是恶毒女配……",
+			"ゼーレが悪役令嬢、ゼーレが悪役令嬢、ゼーレが悪役令嬢……。",
+			"제레가 악역 영애, 제레가 악역 영애, 제레가 악역 영애…….",
+			null,
+			null,
+			"Hill is a vicious female match Hill is a vicious female match Hill is a vicious female match ......",
+			"Seele is a villain, Seele is a villain, Seele is a villain. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458425,
+			null,
+			"田野的景色真是美丽呀。",
+			"野原の景色はきれいね。",
+			"들판 경치가 참 아름답네.",
+			"The scenery of the field is beautiful.",
+			null,
+			"The fields are so beautiful.",
+			"The view of the field is beautiful."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458426,
+			"Seele is malevolent~ Seele is malevolent~ Seele is malevolent~",
+			"希儿是恶毒女配希儿是恶毒女配希儿是恶毒女配……",
+			"ゼーレが悪役令嬢、ゼーレが悪役令嬢、ゼーレが悪役令嬢……。",
+			"제레가 악역 영애, 제레가 악역 영애, 제레가 악역 영애…….",
+			null,
+			null,
+			"Hill is a vicious female match Hill is a vicious female match Hill is a vicious female match ......",
+			"Seele is a villain, Seele is a villain, Seele is a villain. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458427,
+			"Seele, look, there's our fellow traveler over there.",
+			"希儿你看，那边有我们的同路人。",
+			"ねえ、セーレ、そこにシンたちと同じ城に行こうとしてる人たちがいるよ。",
+			"저기, 세레, 저기에 신 일행과 같은 성으로 가려는 사람들이 있어.",
+			null,
+			null,
+			"Look, Hill, there are our fellow travelers over there.",
+			"Hey, Sere, there are some people there who are trying to get to the same castle as Sin and the others."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458428,
+			"Ah !Why Ah! It was clearly Seele's dream. Why isn't Seele the leading character?",
+			"啊！凭什么啊！明明是希儿做的梦，为什么希儿不是女主角啦！",
+			"あっ！どうして、ゼーレが見た夢なのに、どうしてゼーレがヒロインじゃないの！",
+			"아! 왜, 제레가 꾼 꿈인데, 왜 제레가 히로인이 아닌 거야!",
+			null,
+			null,
+			"Ah! What the hell! It's obvious that it's Hsieh's dream, why isn't Hsieh the heroine?",
+			"Ah! Why isn't Seele the heroine in this dream that Seele had!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458429,
+			null,
+			"女主角是什么？",
+			"ヒロインて何？",
+			"히로인이 뭐야？",
+			"What is a heroine?",
+			null,
+			"What is the female lead?",
+			"What's a heroine?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458430,
+			"Sin, you guy, did you dream to make Seele angry too!",
+			"别装蒜啦！杏，你这家伙，难道在梦里也存心要让希儿生气吗！",
+			"とぼけないで！シン、夢の中でもゼーレをいじめるの！？",
+			"모르는 척 하지 마! 신, 꿈 속에서도 제레를 괴롭히는 거야!？",
+			"Stop pretending to be ignorant! Sin, did you plan to make me angry even in your dreams?! You jerk!",
+			null,
+			"Stop pretending! Apricot, you bastard, do you want to make Hsieh angry even in your dreams!",
+			"Don't play dumb with me! Shin, you tease Seele even in your dreams!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458431,
+			"The dream? How did Seele say something that Sin didn't understand today? Or…",
+			"梦？希儿今天怎么老是说些杏听不懂的话呢，难道说……",
+			"夢？今日のゼーレは理解できないことばかり言うね、まさか……。",
+			"꿈? 오늘의 제레는 이해할 수 없는 말만 하네, 설마…….",
+			null,
+			null,
+			"Dream? Hill today how always say some apricot unintelligible words, does it say ......",
+			"A dream? You say a lot of things today Seele that I don't understand, no way. ......"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458432,
+			null,
+			"呜哇，杏你要干什——",
+			"うわっ、シン何するの！？",
+			"와, 신 뭐 하는 거야！？",
+			"Wha, what are you doing--",
+			null,
+			"Oh wow, what are you doing with the apricot...",
+			"Wow, Shin, what are you doing!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458433,
+			null,
+			"希儿没有发烧，真是太好了。",
+			"熱はないね、よかった。",
+			"열은 없네, 다행이야.",
+			"It's good that you don't have a fever.",
+			null,
+			"It's great that Hill doesn't have a fever.",
+			"No fever, thank goodness."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458434,
+			"...It's a violation to put your forehead on it all of a sudden. It doesn't look like Sin.",
+			"唔……忽然用额头贴上来什么的太犯规了，这根本就不像是杏嘛。",
+			"うっ……急に額をくっつけてくるなんて反則だよ、全然シンらしくないもん。",
+			"윽…… 갑자기 이마를 붙이다니 반칙이야, 전혀 신답지 않잖아.",
+			"Ugh.... Putting your forehead to mine is too intimate... That's not like you at all.",
+			null,
+			"Well ...... suddenly with forehead paste up what is too foul, this is not at all like apricot well.",
+			"Ugh...... suddenly sticking your forehead together is foul, it's not like Shin at all."
+		],
+		[
+			"msg",
+			458435,
+			"(Huh? Yes, if Sin is now faking it to embarrass Seele, then Seele has to make Sin faking it!)",
+			"（嗯？对啊，如果杏现在是装出来的故意让希儿尴尬，那希儿就要让杏装不下去才是！）",
+			"（ん？シンはわざとゼーレを困らせようとしてるかもしれない、ゼーレもなんとかしてシンを止めないと！）",
+			"（음? 신이 일부러 제레를 곤란하게 하려는 걸지도, 제레도 어떻게든 신을 막아야 해!）",
+			null,
+			null,
+			"(Hmm? Yes, if Apricot is pretending to embarrass Hsieh now, then Hsieh should make Apricot pretend to be embarrassed!)",
+			"(Hmm? Shin might be deliberately trying to embarrass Seele, and Seele has to stop Shin somehow!)"
+		],
+		[
+			"msg",
+			458436,
+			"Sin, I know a store near here that has great detonating materials.",
+			"杏，希儿知道这附近有一家店，有很棒的引爆材料哦。",
+			"シン、この辺りにすごい起爆剤を売ってる店があるよ。",
+			"신, 이 근처에 엄청난 기폭제를 파는 가게가 있어.",
+			"Sin, I know a store near here that has great explosive materials.",
+			null,
+			"Apricot, Hill knows of a store around here that has great triggering materials oh.",
+			"Shin, there's a store around here that sells a great detonator."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458437,
+			"Huh? What's the detonating material for?",
+			"嗯？引爆材料，是拿来干嘛用的？",
+			"ん？起爆剤？何するの？",
+			"음? 기폭제? 뭐 하는 거야?",
+			"Huh? Explosive materials? What for?",
+			null,
+			"Hmm? Detonation material, what is it for?",
+			"Hmm? Detonator? What are you doing?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458438,
+			null,
+			"用来做炸弹啊。",
+			"爆弾を作るんだよ。",
+			"폭탄을 만들 거야.",
+			"We're going to build a bomb.",
+			null,
+			"Use it for a bomb.",
+			"They make bombs."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458439,
+			"The bomb, the one that goes off and kills people?It's dangerous. Seele could get hurt if she touched it.",
+			"炸弹，是一爆炸就会有人死掉的那个？很危险的，随便碰的话，希儿也会受伤的。",
+			"爆弾？爆発したら人が死んじゃうあれのこと？あれは危険よ、ゼーレも怪我するかもしれないよ。",
+			"폭탄? 터지면 사람이 죽을 수도 있는 그거? 그건 위험해, 제레도 다칠 수 있어.",
+			"A bomb? You mean the kind that kills people when it explodes? That's dangerous, you could get hurt.",
+			null,
+			"The bomb, is the one that will kill people when it explodes? It's very dangerous. If you touch it casually, Hill will be hurt too.",
+			"A bomb? You mean those things that kill people when they explode? That's dangerous. Seele could get hurt."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458440,
+			"Well...So, do you want to go that way? There's a guy over there who keeps saying she's the best, and she doesn't take you seriously.",
+			"唔……那、那要不要往那条路走？那边有个家伙一直叫嚣自己是最强的人哦，这可一点都没把你放在眼里。",
+			"えっと……じゃあ、こっちの道にする？確かこの先に自分が最強だって名乗る人がいてね、シンのこと全然眼中にないって言ってたよ。",
+			"음... 그럼, 이쪽 길로 갈까? 분명 이 앞에 자기가 최강이라고 떠드는 사람이 있어, 신을 전혀 눈에도 안 차있다고 하던데.",
+			"Hmm... Then, do you want to go that way?  There is a girl over there who keeps claiming that she's the strongest, and she doesn't even acknowledge your strength.",
+			null,
+			"Well ...... that, that want to go that way? There's a guy over there who keeps calling himself the strongest person in the world, and that doesn't put you at all.",
+			"Let's see... ...... So, do you want to go this way? There's a guy down the road who claims to be the best, and he says he doesn't care about Shin at all."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458441,
+			null,
+			"最强的人？",
+			"最強？",
+			"최강?",
+			"The strongest person?",
+			null,
+			"The strongest man?",
+			"Strongest?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458442,
+			null,
+			"是啊，杏一定很想收拾她吧！",
+			"うん、シンも彼女と戦ってみたいよね？",
+			"응, 신도 그녀랑 싸워보고 싶지?",
+			"Yeah, you want to knock her down a peg or two, right?//n<size=30>(TN: CN said \"clean her up\" if you were wondering. I substituted an idiom that makes sense in English.)</size>",
+			null,
+			"Yeah, Apricot must really want to clean her up!",
+			"Yeah, Shin would like to fight her too, right?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458443,
+			"That's amazing. She must have a lot of interesting stories. After the dance, can Seele and Sin go to hear it together?",
+			"好厉害呀，这样的人肯定有很多有趣的故事吧，舞会之后希儿可以和杏一起去听吗？",
+			"すごいね、そんな人には面白い話が聞けそうだと思う。舞踏会が終わったらゼーレも一緒に行こうね？",
+			"대단하네, 그런 사람에겐 재밌는 이야기를 들을 수 있을 것 같아. 무도회 끝나면 제레도 같이 가자, 응?",
+			"That's great. I think I'd have some interesting things to say to someone like that. When the ball is over, can we go and talk to her?",
+			null,
+			"So impressive, such a person must have a lot of interesting stories, right? After the prom, can Hsieh go with Apricot to listen?",
+			"That's great, I think I could hear some interesting stories from someone like that. After the ball, Seele will come with me, right?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458444,
+			"Hmm ! No, even if it's perfect, I can't help it.",
+			"唔！不行，就算是装的也天衣无缝，完全没办法。",
+			"うっ！だめ、演技だとしても隙がなさすぎ、全然打つ手がないよ。",
+			"윽! 안 돼, 연기라고 해도 빈틀이 너무 없어, 전혀 손 쓸 방법이 없어.",
+			"Ugh! Even if this is all an act, her acting is perfect. I can't get her to break character at all.",
+			null,
+			"Well! No, even if it is faking it, it is seamless and completely impossible.",
+			"Ugh! No, even if it's an act, it's too seamless, there's no way to hit it at all."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458445,
+			"Huh?Why is Seele so out of place today?Why the look of embarrassment?",
+			"嗯？希儿今天怎么这么不对劲？为什么要露出为难的表情呢？",
+			"ん？今日のゼーレはなんか変だよ？どうして困った顔をするの？",
+			"음? 오늘 제레는 왠지 좀 이상한데? 왜 곤란한 표정을 짓는 거야?",
+			"Hmm? What's wrong with Seele today? Why do you look troubled?",
+			null,
+			"Hmm? What's wrong with Hill today? Why do you have a difficult look on your face?",
+			"Hmm? What's wrong with Seele today? Why do you look troubled?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458446,
+			null,
+			"不对劲的是杏才对吧！",
+			"変なのはシンの方だよ！",
+			"이상한 건 신 쪽이야!",
+			"You're the one acting weird!",
+			null,
+			"It's the apricot that's wrong, isn't it?",
+			"It's Shin who's weird!"
+		],
+		[
+			"msg",
+			458447,
+			"She was supposed to be a grumpy person who bullied Seele and left the house upside down, but how could she be so gentle…",
+			"明明……明明应该是一个脾气暴躁、整天欺负希儿、老是把房子弄个底朝天的人，怎么会变得这么温柔呢……",
+			"シンは……シンは短気で、毎日ゼーレのことをいじめて、いろんなものを壊そうとしてる人なのに、どうして急に優しくなるの……。",
+			"신은... 신은 화를 잘 내고 매일 나를 괴롭히고, 이것저것 부수려고 하는 사람인데, 왜 갑자기 다정해지는 거야....",
+			"Sin is...... A person who has a temper, who bullies Seele every day and tries to destroy many things, so why is she suddenly kind......",
+			null,
+			"Ming ...... obviously should be a grumpy, all day bullying Shields, always get the house to the bottom, how can become so gentle ......",
+			"How can Singh suddenly be nice to ...... Singh is someone who has a temper, picks on Seele every day, and tries to destroy all sorts of things. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458448,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			458449,
+			"Grumpy...So, in Seele's eyes, is there another Sin?",
+			"脾气暴躁……也就是说，在希儿的眼里，是有另一个杏的吧？",
+			"短気……つまりゼーレにとってもう一人のシンがいるってことね？",
+			"성급한 성격... 즉 제레에게도 또 다른 신이 있다는 거네?",
+			"tantrum......, so that means there's another Sin for Seele, right?",
+			null,
+			"Grumpy ...... that is to say, in the eyes of Hill, there is another apricot, right?",
+			"Short temper...... So there's another Sin for Seele?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458450,
+			"Well……",
+			"嗯……",
+			"うん……。",
+			"응....",
+			null,
+			null,
+			"Well ......",
+			"Yeah. ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458451,
+			null,
+			"那希儿讨厌那个杏吗？",
+			"ゼーレはあのシンが嫌いなの？",
+			"제레는 그 신이 싫어?",
+			"Does Seele hate that Sin?",
+			null,
+			"So, does Hill hate that apricot?",
+			"Seele doesn't like that Sin?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458452,
+			null,
+			"当然讨厌！",
+			"嫌いに決まってるよ！",
+			"당연히 싫어!",
+			"I hate her!",
+			null,
+			"Of course I hate it!",
+			"Of course I hate it!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458453,
+			"So if Seele hated the Sin, why did she try so hard to prove that the Sin existed and that the Sin in front of Seele was false?",
+			"那希儿既然讨厌那个杏，为什么又那么努力地想要证明那个杏是存在的，而希儿眼前的这个杏是虚假的呢？",
+			"ゼーレがあのシンが嫌いなのに、どうしてあのシンの存在を証明しようとして、今ゼーレの目の前にいるシンを否定しようとするの？",
+			"제레가 그 신을 싫어하는데, 어째서 그 신의 존재를 증명하려 하면서 지금 제레 눈앞에 있는 신을 부정하려 하는 거야?",
+			"If she hates that Sin, why does she try to prove the existence of her and deny the Sin right in front of her?",
+			null,
+			"Then why did Hier try so hard to prove that the apricot existed and that the apricot in front of Hier was false, if he hated it?",
+			"If Seele doesn't like that Sin, why is he trying to prove that Sin exists, and why is he trying to deny the Sin that is now before Seele's eyes?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458454,
+			"……",
+			"……",
+			"……。",
+			".......",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458455,
+			null,
+			"吁！两位，王宫到了。",
+			"どうどうっ！2人様、王宮に到着しました。",
+			"두둥! 두 분, 왕궁에 도착했습니다.",
+			"The two of you have arrived at the royal palace.",
+			null,
+			"Whew! Gentlemen, the royal palace is here.",
+			"Hey, you two, we've arrived at the royal palace."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458456,
+			null,
+			"我们到了，希儿，一起走吧。",
+			"着いたよ、ゼーレ、行こう。",
+			"도착했어, 제레, 가자.",
+			"Here we are, Seele, let's go together.",
+			null,
+			"Here we are, Hill, let's go together.",
+			"We're here, Seele, let's go."
+		]
+	],
+	"3059": [
+		[
+			"bgm",
+			40
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458457,
+			"♫ ♫ ♫ ♫~",
+			" ♫ ♫ ♫ ♫~",
+			"ふふ～ん、ふん、ふ～ん♪",
+			"흐흥~ 흥, 흥~♪",
+			null,
+			null,
+			" ♫ ♫ ♫ ♫ ♫ ♫ ~",
+			"Hmmm, hmmm, hmmm... ♪"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458458,
+			"……",
+			"……",
+			"……。",
+			"……。",
+			null
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458459,
+			"How beautiful! Is this the royal ball?",
+			"好漂亮呀，这就是王宫的舞会吗？",
+			"綺麗ね、これが王宮の舞踏会なの？",
+			"예쁘네, 이게 궁전 무도회야?",
+			null,
+			null,
+			"It's so beautiful. Is this the ball at the royal palace?",
+			"Beautiful. Is this the Royal Ball?"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458460,
+			"……",
+			"……",
+			"……。",
+			"……。",
+			null
+		],
+		[
+			"msg",
+			458461,
+			"Anyway... Seele has to get Sin back to normal…",
+			"不管怎么样……希儿都要让杏恢复正常……",
+			"何があっても……シンを元に戻さないと……。",
+			"무슨 일이 있어도……신을 원래대로 돌려놓지 않으면……。",
+			null,
+			null,
+			"No matter what ...... Shire is going to get Apricot back to normal ......",
+			"No matter what happens, you have to undo the ...... thins to ......."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458462,
+			null,
+			"肃静！肃静！",
+			"静粛に！静粛に！",
+			"정숙하게! 정숙하게!",
+			null,
+			null,
+			"Silence! Silence!",
+			"Silence! Quiet!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458463,
+			null,
+			"可是，到底要怎么做呢？",
+			"でも、どうすればいいのかな？",
+			"그런데, 어떻게 해야 할까?",
+			null,
+			null,
+			"But how exactly do you do that?",
+			"But what can we do about it?"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458464,
+			"Ladies of the town and visitors, please remain silent. It is with great honor that I introduce the host of this evening's ball, the kingdom flower, the most beautiful and dazzling being in the world——Puh?!",
+			"诸位镇民、诸位来客，敬请各位保持肃静。接下来请允许我怀揣着莫大的荣耀介绍今晚舞会的主人，王国之花、这世界上最美丽、最耀眼的存在——呜噗！",
+			"皆様、静粛に。これから今夜の舞踏会の開催者、王国の花、この世で最も美しく、最も輝く存在を紹介させ——うわぁ！",
+			"여러분, 정숙해 주세요. 지금부터 오늘 밤 무도회의 개최자, 왕국의 꽃, 이 세상에서 가장 아름답고 가장 빛나는 존재를 소개하겠습니다——우와!",
+			null,
+			null,
+			"Townspeople and guests, please keep quiet. It is with great honor that I introduce the host of tonight's ball, the flower of the kingdom, the most beautiful and dazzling being in the world - Whoopu!",
+			"Silence, ladies and gentlemen. Let me now introduce to you the host of tonight's ball, the flower of the kingdom, the most beautiful and most radiant being on earth--wow!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458465,
+			"Puh?",
+			"呜噗？",
+			"うわっ？",
+			"우와?",
+			null,
+			null,
+			"Whoopee?",
+			"Whoa?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30055,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458466,
+			"This one is because you talk too much, and I will do it myself!",
+			"这一脚是因为你话太多了，就由本公主亲自来说吧，本公主——驾到！",
+			"話が長すぎ。自分で言うよ、姫様——到着だよ！",
+			"말이 너무 길어. 내가 직접 말할게, 공주님——도착이야!",
+			null,
+			null,
+			"This kick is because you talk too much, let the princess herself say it, the princess - driving!",
+			"Too long to talk. I'll tell it myself, Princess--we've arrived!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458467,
+			null,
+			"喔喔！果然很可爱！",
+			"おお！やっぱりかわいらしい！",
+			"오! 역시 귀엽네!",
+			null,
+			null,
+			"Whoo-hoo! It's really cute!",
+			"Oh! She's still adorable!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458468,
+			"This is not... Isn't this Kiana? This guy doesn't look like a princess!",
+			"这不是……这不是琪亚娜吗！这家伙哪里像公主啦！",
+			"え……キ、キアナお姉ちゃんだよね！？キアナお姉ちゃんのどこが姫様なの！？",
+			"에… 키, 키아나 언니 맞지!? 키아나 언니가 어디가 공주님이라는 거야!?",
+			"W-what?! Isn't that Kiana? What part of Kiana is like a princess?!",
+			null,
+			"This is not ...... this is not Kiana! This guy where like the princess!",
+			"What? ...... Ki, you're Kiana's sister! What part of Kiana-sis is a princess!"
+		],
+		[
+			"msg",
+			458469,
+			"Huh? Could it be because she appeared on the TV show last night that Seele dreamt about it?",
+			"嗯？难道说是因为昨晚的电视节目里她出现过，所以希儿就梦到了吗？",
+			"ん？キアナが昨日のテレビ番組に出たから、この夢にも出たの？",
+			"음? 키아나가 어제 TV 프로그램에 나왔으니까, 이 꿈에도 나왔어?",
+			null,
+			null,
+			"Hmm? Is it because she appeared in last night's TV program that Hier dreamed about it?",
+			"Hmm? Kiana was on a TV show yesterday, so did she appear in this dream?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30055,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458470,
+			"I was originally the whole kingdom the first lovely, after putting on the wedding dress was the first lovely in the universe!",
+			"锵锵，很可爱吧？原本是全王国第一可爱，穿上婚纱之后就是宇宙第一可爱了吧！",
+			"じゃーん！かわいいでしょ？王国一かわいいの私がウェディングドレスを着れば、宇宙一かわいいでしょ！",
+			"짜잔! 귀엽지? 왕국에서 제일 귀여운 내가 웨딩드레스를 입으면, 우주에서 제일 귀여울 거야!",
+			null,
+			null,
+			"Medaka, isn't it cute? Originally, she was the number one cutie in the kingdom, but after wearing a wedding dress, she's the number one cutie in the universe, right?",
+			"Ta-da! Aren't I cute? I'm the cutest girl in the kingdom, and if I wear a wedding dress, I'm the cutest girl in the universe!"
+		],
+		[
+			"msg",
+			458471,
+			"Today the second most lovely beautiful girl was lucky to dance with me.Let me see who's so lucky!",
+			"今天第二可爱的美少女就有幸和本公主一起共舞一曲哦~让本公主看看是谁这么幸运呢！",
+			"この場で私の次にかわいい女の子と一緒に踊りたいと思ってるの。じゃあ誰にしようかな！",
+			"여기서 내 다음으로 귀여운 여자아이와 춤을 추고 싶어. 그럼 누구로 할까!",
+			null,
+			null,
+			"Today the second lovely beauty is lucky to dance with this princess Oh ~ let the princess see who is so lucky it!",
+			"I'm hoping to dance with my next cutest girl here. Then who shall I choose!"
+		],
+		[
+			"msg",
+			458472,
+			null,
+			"好，就决定是你了！",
+			"よしっ、あんたに決めた！",
+			"좋아, 너로 정했어!",
+			null,
+			null,
+			"Okay, it's you!",
+			"Okay, you've got me!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458473,
+			"Seele, the princess named Sin, should Sin say yes?",
+			"希儿，公主指名了杏，杏应该答应吗？",
+			"ゼーレ、お姫様がシンを指名したけど、はいって言ったほうがいいの？",
+			"제레, 공주님이 신을 지명했는데, 한다고 해야 하는 거야?",
+			null,
+			null,
+			"Hill, the princess named Apricot, should Apricot agree?",
+			"Seele, the princess nominated Shin, should I say yes?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30055,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458474,
+			"Don't hesitate. Come and have a dance with Princess Ben!",
+			"别犹豫啦，来和本公主共舞一曲吧！",
+			"もう迷わないで！私と一緒に踊ってよ！",
+			"이제 망설이지 마! 나랑 같이 춤추자!",
+			null,
+			null,
+			"Don't hesitate, come and dance with the princess!",
+			"Don't get lost again! Dance with me!"
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30055,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458475,
+			"Say no! Dancing with this sucker would be an absolute disaster…",
+			"快拒绝呀！跟这个笨蛋跳舞绝对是一场灾难……欸？",
+			"早く断って！キアナお姉ちゃんと一緒に踊るなんてきっとトラブルに……あれっ？",
+			"빨리 거절해! 키아나 언니랑 춤춘다면 분명히 문제가 생길… 어라?",
+			null,
+			null,
+			"Refuse! Dancing with this idiot is an absolute disaster ...... Hey?",
+			"Just say no! Dancing with Kiana's sister is sure to get you in trouble ...... Huh?"
+		],
+		[
+			"msg",
+			458476,
+			"If the object of the dance was a fool like Kiana...What if Sin is stimulated to recover?",
+			"仔细一想，如果跳舞对象是琪亚娜那种笨蛋的话……说不定杏会因为受刺激而恢复呢？",
+			"よく考えたら、ダンスの相手がキアナお姉ちゃんだったら……刺激を受けたシンも元に戻るかも？",
+			"잘 생각해 보면, 춤 상대가 키아나 언니라면… 자극을 받은 신도 원래대로 돌아올지도?",
+			null,
+			null,
+			"On second thought, if the dance object is Kiana kind of stupid words ...... maybe apricot will recover because of stimulation?",
+			"On second thought, if the dance partner was Kiana's sister, maybe the ...... stimulated Shin would be back to normal?"
+		],
+		[
+			"msg",
+			458477,
+			"It might be a helpful methos. Sin——This is the princess's request, quickly grant it!",
+			"这是个办法！杏——这可是公主的请求，快答应吧！",
+			"いけるかも！シン——お姫様のお願いだよ、早く行ってあげて！",
+			"될지도! 신—— 공주님의 부탁이야, 어서 가서 도와줘!",
+			null,
+			null,
+			"That's the way to go! Apricot - it's a request from the princess, say yes!",
+			"Maybe I can make it! Shin--Please princess, just get her there!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458478,
+			"Well! Now that Seele says so. Lord Princess, Sin wants to dance with you.",
+			"嗯！既然希儿这么说了，公主姐姐，杏想和你跳舞。",
+			"うん！ゼーレがそう言うなら。お姫様、一緒に踊りたいの。",
+			"응! 제레가 그렇게 말한다면. 공주님, 같이 춤추고 싶어.",
+			null,
+			null,
+			"Hmm! Since Hill said so, Sister Princess, Apricot would like to dance with you.",
+			"Yeah! If Seele says so. Princess, I want to dance with you."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30055,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458479,
+			"Okay",
+			"那就来吧！",
+			"そうこなくっちゃ！",
+			"그래야지!",
+			null,
+			null,
+			"Come on then!",
+			"That's the spirit!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458480,
+			"——",
+			"——",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30055,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458481,
+			"All of you here! Don't close your eyes, don't look away, just enjoy, indulge yourself in the dance of this princess——Music!",
+			"诸位！不要闭眼，不要转移视线，静静欣赏、任由自己沉溺于本公主的舞姿中吧——音乐，起！",
+			"みんな！瞬きしないで、静かにこの私のダンスに酔いしれなさい！ミュージック、スタート！",
+			"여러분! 눈 깜빡이지 말고, 조용히 나의 춤에 취하라! 음악, 시작!",
+			null,
+			null,
+			"All of you! Don't close your eyes, don't look away, just enjoy and let yourself be absorbed in the dance of the princess - music, start!",
+			"Everyone! Don't blink, be quiet and intoxicated by my dance! Music, start!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458482,
+			"♫ ♫ ♫ ♫~",
+			" ♫ ♫ ♫ ♫~",
+			"～～♪ ～～♪",
+			"～～♪ ～～♪",
+			null,
+			null,
+			" ♫ ♫ ♫ ♫ ♫ ♫ ~",
+			"~~~~~~♪"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				30054,
+				0,
+				false
+			],
+			[
+				30054,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458483,
+			"Wow, what a great band. Princess is really something.",
+			"哇，好恢弘的乐队，公主姐姐真是了不起。",
+			"わぁ！すごいオーケストラ、さすがお姫様。",
+			"와! 대단한 오케스트라, 역시 공주님이야.",
+			null,
+			null,
+			"Wow, what a magnificent band, the princess sister is really amazing.",
+			"Wow! Amazing orchestra, you are indeed a princess."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30054,
+				0,
+				true
+			],
+			[
+				30055,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458484,
+			"Miss Sin, why don't you dance with the princess to the music?",
+			"杏小姐，为什么不随着音乐，与本公主一同起舞呢？",
+			"シン、どうして音楽に乗って私と踊らないの？",
+			"신, 왜 음악에 맞춰 나랑 춤 안 추는 거야?",
+			null,
+			null,
+			"Miss Apricot, why don't you dance with this princess to the music?",
+			"Cyn, why don't you dance with me to the music?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				30054,
+				0,
+				false
+			],
+			[
+				30055,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458485,
+			"Because the princess is stepping on Sin's feet.",
+			"因为公主姐姐正踩在杏的脚上。",
+			"お姫様がシンの足を踏んでるから踊れないの……。",
+			"공주님이 신의 발을 밟고 있어서 춤출 수가 없어……",
+			null,
+			null,
+			"Because the princess sister is stepping on the foot of the apricot.",
+			"I can't dance because the princess is stepping on Shin's foot. ......"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30054,
+				0,
+				true
+			],
+			[
+				30055,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458486,
+			"Oh, I'm so sorry, I've moved away.",
+			"啊~非常抱歉，本公主已经挪开了。",
+			"あ、ごめんごめん、もう足をどかしたよ。",
+			"아, 미안미안, 이제 발 뗐어.",
+			null,
+			null,
+			"Ah~ I'm very sorry, this princess has moved away.",
+			"Oh, sorry, sorry, I've already moved my foot."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				30054,
+				0,
+				false
+			],
+			[
+				30055,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458487,
+			"The other foot is on it, too.",
+			"另一只脚也踩着呢。",
+			"もう片方も踏んでるの。",
+			"다른 쪽도 밟고 있잖아.",
+			null,
+			null,
+			"The other foot is also stepping on it.",
+			"I'm stepping on the other one too."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				30054,
+				0,
+				true
+			],
+			[
+				30055,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			458488,
+			"What a gentle girl... Then I will grant Sin permission to guide the dance~",
+			"真是温柔的女孩……那、那本公主就特许杏来引导本公主起舞吧~",
+			"ごめん。シンはやさしいね……じゃ、じゃあ、特別にシンにリードしてもらおうかな～",
+			"미안. 신 정말 다정하네... 그, 그럼 특별히 신이 이끌어줄게~",
+			null,
+			null,
+			"Really gentle girl ...... that, that the princess will be licensed apricot to guide the princess to dance ~",
+			"Sorry. Shin is so sweet. ...... Well, I'll let Shin take the lead specially for you~!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				30054,
+				0,
+				false
+			],
+			[
+				30055,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458489,
+			"Follow Sin with the music...",
+			"嗯！那么公主姐姐，接下来就随着杏，跟着音乐一起……",
+			"うん！ではお姫様、シンと一緒に音楽に乗って……。",
+			"응! 그럼 공주님, 신과 함께 음악에 맞춰서…….",
+			null,
+			null,
+			"Hmm! Then Princess Sister, next with the apricot, follow the music together ......",
+			"Yup!!! Well then, princess, you and Shin can get on with the music at ......."
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30055,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458490,
+			"♫ ♫ ♫ ♫~",
+			" ♫ ♫ ♫ ♫~",
+			"～～♪ ～～♪",
+			"～～♪ ～～♪",
+			null,
+			null,
+			" ♫ ♫ ♫ ♫ ♫ ♫ ~",
+			"~~~~~~♪"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"msg",
+			458491,
+			"Oh! To see such a casual and bold dance is really worthy of the trip.",
+			"喔！不愧是公主，能见到这样随性又奔放的舞姿真是不枉此行。",
+			"わぁ！さすが姫様、これほど自由で思うままに踊る姿を見れてよかったわ。",
+			"와! 역시 공주님이야, 이렇게 자유롭고 마음껏 춤추는 모습을 볼 수 있어서 정말 좋았어.",
+			null,
+			null,
+			"Wow! As expected of a princess, it was worth the trip to see such a spontaneous and spirited dance.",
+			"Wow! That's my Princess, it's great to see her dancing so freely and as freely as she wants."
+		],
+		[
+			"msg",
+			458492,
+			"The younger girl is also remarkable, and it's hard to tell which shines better than the  Princess.",
+			"那位小一些的女孩也十分不凡呢，和公主殿下难说谁更闪耀。",
+			"相手の女の子もすごいね、その輝きは姫様にも負けてないわ。",
+			"상대방 여자애도 대단하네, 그 빛남은 공주님에게도 지지 않아.",
+			null,
+			null,
+			"The smaller girl is also very impressive, and it's hard to say who shines more with Her Highness.",
+			"The other girl is amazing too, her brilliance is as good as the Princess's."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30055,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458493,
+			"I can't believe she's dancing so well with Kiana...This is definitely not a normal Sin...",
+			"居然能和琪亚娜跳得这么好……这绝对不是一般的杏，更不可能是装的了……",
+			"キアナの相手をしながらあんなに上手に踊るなんて……いつものシンじゃない、演技の可能性もないね……。",
+			"키아나의 상대를 하면서 저렇게 능숙하게 춤추다니…… 평소의 신이 아니군, 연기일 가능성도 없어…….",
+			null,
+			null,
+			"Can actually dance so well with Kiana ...... this is definitely not the general apricot, more unlikely to be pretending ......",
+			"To dance that well with Kiana's partner, it's not ...... usual Shin, not even a possibility of acting. ......"
+		],
+		[
+			"msg",
+			458494,
+			"……",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			458495,
+			"Well...Such dreams are more like nightmares than lucid dreams or sweet dreams.",
+			"唔……这样的梦与其说是清醒梦或者说是美梦，不如说是噩梦。",
+			"うっ……こんな夢は明晰夢やいい夢というより、むしろ悪夢だよ。",
+			"으…… 이런 꿈은 루시드 드림이나 좋은 꿈이라기보다, 차라리 악몽이야.",
+			null,
+			null,
+			"Well ...... such a dream is more of a nightmare than a lucid dream or a beautiful dream.",
+			"Ugh ...... dreams like this are more of a nightmare than a lucid dream or a good dream."
+		],
+		[
+			"msg",
+			458496,
+			"Nightmare? Ah !",
+			"噩……梦？啊！",
+			"悪夢……ん？あっ！",
+			"악몽……응? 앗!",
+			null,
+			null,
+			"Bad ...... dreams? Ah!",
+			"Nightmares...... hmm? Ah!"
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				30055,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458497,
+			"If you're tossing and turning before bed…",
+			"倘若在睡前，你心情焦躁不安，辗转反侧……",
+			"もし眠る前に、悩み事があって、眠れないなら……。",
+			"혹시 잠들기 전에, 고민거리가 있어서 잠들지 못한다면…….",
+			null,
+			null,
+			"If before going to bed, you are restless, tossing and turning ......",
+			"If you are having trouble sleeping and can't get to sleep, go to ......."
+		],
+		[
+			"msg",
+			458498,
+			"Then Anira will appear in your dreams.",
+			"那么，阿尼拉就会出现在你的梦里。",
+			"アニラは必ず夢の中に現れる。",
+			"아닐라는 반드시 꿈 속에 나타난다.",
+			null,
+			null,
+			"Then, Anila will appear in your dreams.",
+			"Anila always appears in dreams."
+		],
+		[
+			"msg",
+			458499,
+			"As long as she appeared in the dream, the dream was bound to turn into a nightmare.",
+			"只要她出现在梦里，那这场梦就一定会变成噩梦。",
+			"彼女が夢の現れると、その夢は必ず悪夢になる。",
+			"그녀가 꿈에 나타나면, 그 꿈은 반드시 악몽이 된다.",
+			null,
+			null,
+			"As long as she appears in the dream, the dream will definitely turn into a nightmare.",
+			"Whenever she appears in a dream, that dream is always a nightmare."
+		],
+		[
+			"msg",
+			458500,
+			"Also, the bad things that happen in the nightmare if they are not solved in the dream…",
+			"而且，噩梦里发生的坏事如果在梦里没有解决的话……",
+			"そして悪夢にあった悪いことが、夢の中で解決されなかったら……。",
+			"그리고 악몽에서 겪은 나쁜 일이, 꿈 속에서 해결되지 않았다면…….",
+			null,
+			null,
+			"And, bad things happen in nightmares if they are not resolved in dreams ......",
+			"And if the bad things in your nightmare are not resolved in your dream, you can go to ......."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				30055,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458501,
+			"It will become real!",
+			"就会变成真的！",
+			"現実になる！",
+			"현실이 돼!",
+			null,
+			null,
+			"Then it will become real!",
+			"It's going to be real!"
+		],
+		[
+			"msg",
+			458502,
+			"If she wakes up like this… Sin will disappear! What should I do?",
+			"如果就这样醒来的话……原来的杏就会消失了！呜啊！要怎么办……希儿要怎么办啊！",
+			"もしこのまま目覚めたら……元のシンが消えちゃう！ううっ！どうしよう……ゼーレはどうすればいいの！",
+			"이대로 깨어나면…… 원래의 신이 사라져 버려! 우우! 어떻게 하지…… 제레는 어떻게 해야 하지!",
+			null,
+			null,
+			"If you wake up like this ...... the original apricot will be gone! Oooh ah! What to do ...... Heer what to do ah!",
+			"If I wake up like this ...... the original Sin will be gone! Ugh! What should I do ...... Seele!"
+		],
+		[
+			"msg",
+			458503,
+			"It feels like everything that can be tried has been tried...And Seele doesn't know what Anilla looks like or where she is!",
+			"感觉能试过的手段都试过了……而且阿尼拉长什么样子，在哪里希儿根本就不知道呀！",
+			"やれる方法は全部やったし……それにアニラはどんな顔なのか、どこにいるかも全然分からない！",
+			"할 수 있는 방법은 다 해봤고…… 게다가 아닐라가 어떤 얼굴인지, 어디에 있는지도 전혀 모르겠어!",
+			null,
+			null,
+			"It feels like the means that can be tried have been tried ...... and what does Anila look like, where Hill simply do not know ah!",
+			"I've done everything I can ...... and I have no idea what Anila looks like or where she is!"
+		],
+		[
+			"msg",
+			458504,
+			null,
+			"到底该……怎么办呀……",
+			"どうすれば……いいの……。",
+			"어떻게 하면…… 좋지…….",
+			null,
+			null,
+			"In the end, what should ...... do ah ......",
+			"How can I ...... good ......."
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458505,
+			"Seele, and Sin... Sure enough, it was all here.",
+			"希儿，还有杏……果然都在这里。",
+			"ゼーレ、それにシン……やはりここにいたんですね。",
+			"제레, 그리고 신…… 역시 여기 있었군요.",
+			null,
+			null,
+			"Hill, and Apricot ...... are really here.",
+			"Seele, and Shin ...... I knew you were here."
+		],
+		[
+			"speaker",
+			204561
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458506,
+			"Huh?",
+			"嗯？",
+			"ん？",
+			"응?",
+			null,
+			null,
+			"Hmm?",
+			"Hmm?"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				834,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			458507,
+			null,
+			"而且，希儿怎么哭成这样了？",
+			"ゼーレ、どうして泣いてるんですか？",
+			"제레, 왜 울고 있는 거예요?",
+			"Seele, why are you crying?",
+			null,
+			"And, why is Hsieh crying like this?",
+			"Seele, why are you crying?"
+		]
+	]
+}

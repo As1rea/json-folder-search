@@ -1,0 +1,551 @@
+{
+	"16": [
+		[
+			"bgm",
+			38
+		],
+		[
+			"speaker",
+			432352
+		],
+		[
+			"bg",
+			"CG10233"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				549,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			400808,
+			"Welcome back. I can see that you are in a very cheerful mood and seem to have had a very productive day.",
+			"欢迎回来。检测到您的心情十分愉快，看来度过了非常充实的一天。",
+			"お帰りなさいませ。あなたの精神状態がとても愉快な状態にあることを検出しました。非常に充実した一日を過ごしたようですね。",
+			"어서 오십시오. 당신의 정신 상태가 매우 유쾌한 상태임을 감지했습니다. 아주 충실한 하루를 보내신 모양이군요.",
+			null
+		],
+		[
+			"speaker",
+			432353
+		],
+		[
+			"portraits",
+			[
+				550,
+				0,
+				false
+			],
+			[
+				549,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			400809,
+			"Hey hey... Can you see that?",
+			"嘿嘿…能看出来么？",
+			"エヘヘ……分かるの？",
+			"에헤헤…… 알아챈 거야?",
+			null
+		],
+		[
+			"speaker",
+			432352
+		],
+		[
+			"portraits",
+			[
+				550,
+				0,
+				true
+			],
+			[
+				549,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			400810,
+			"My detection system is professionally designed and has an accurate emotion identification system.",
+			"我的检测系统经过专业设计，拥有精确的情感辨识系统。",
+			"私の検出システムは専門的にデザインされており、精度の高い感情識別システムを有しています。",
+			"제 감지 시스템은 전문적으로 설계되었으며, 정밀도 높은 감정 식별 시스템을 보유하고 있습니다.",
+			null
+		],
+		[
+			"speaker",
+			432353
+		],
+		[
+			"portraits",
+			[
+				550,
+				0,
+				false
+			],
+			[
+				549,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			400811,
+			"You're really good, not as useless as I am.",
+			"你还真是厉害呢，不像我那么没用。",
+			"あなたって本当にすごいわね。私みたいな役立たずとは大違い。",
+			"당신은 정말 대단하네. 나 같은 쓸모없는 것과는 천지차이야.",
+			null
+		],
+		[
+			"speaker",
+			432352
+		],
+		[
+			"portraits",
+			[
+				550,
+				0,
+				true
+			],
+			[
+				549,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			400812,
+			"As a mechanical, I'm far from human.",
+			"您过奖了，作为机械的我比起人类还差得远呢。",
+			"褒めすぎです。ロボットである私は人類に比べたらまだまだですよ。",
+			"과찬이십니다. 로봇인 제가 인류에 비하면 아직 한참 부족합니다.",
+			null
+		],
+		[
+			"speaker",
+			432353
+		],
+		[
+			"portraits",
+			[
+				550,
+				0,
+				false
+			],
+			[
+				549,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			400813,
+			"Human… By the way, since you are so talented, what kind of person do you think Dr.Mei is?",
+			"人类么…对了，既然你这么厉害，你觉得芽衣博士是个什么样的人呢？",
+			"人類か……そうだ、そんなにすごいんだから教えてよ。芽衣博士って、どんな人だと思う？",
+			"인류라…… 그래, 그렇게 뛰어나다면 말해봐. 메이 박사는 어떤 사람이라고 생각해?",
+			null
+		],
+		[
+			"speaker",
+			432352
+		],
+		[
+			"portraits",
+			[
+				550,
+				0,
+				true
+			],
+			[
+				549,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			400814,
+			"I am sorry that I should not comment on my boss. Dr.Mei is the apex of human intelligence and a very outstanding person.",
+			"抱歉，对于老板我不该妄加评论，芽衣博士是人类智慧的顶点，是一个十分出色的人。",
+			"申し訳ございません。社長に対する無責任なコメントはできません。芽衣博士は人類の知能の頂点であり、非常に優れた人物です。",
+			"죄송합니다. 사장님에 대한 무책임한 발언은 할 수 없습니다. 메이 박사는 인류 지성의 정점에 서신 탁월한 분입니다.",
+			null
+		],
+		[
+			"speaker",
+			432353
+		],
+		[
+			"portraits",
+			[
+				550,
+				2,
+				false
+			],
+			[
+				549,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			400815,
+			"Dr.Mei...I always feel a different feeling with her. That person is very strong.",
+			"果然是这样啊，芽衣博士…总感觉和她在一起有种与众不同的感觉，果然那个人十分厉害呢。",
+			"やっぱりね。芽衣博士……何だか彼女と一緒にいると、他の人とは違う感じがするのよね。思った通り、とってもすごい人なんだね。",
+			"역시나. 메이 박사…… 왠지 그녀와 함께 있으면 다른 사람들과는 다른 느낌이 들어. 생각한 대로 정말 대단한 사람이었네.",
+			null
+		],
+		[
+			"portraits",
+			[
+				550,
+				1,
+				false
+			],
+			[
+				549,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			400816,
+			"Can I be like her in the future... A powerful people...",
+			"以后我也能成为像她一样…强大的人么……",
+			"この先、私も芽衣博士みたいに……強い人になれるかな……",
+			"앞으로 나도 메이 박사처럼…… 강한 사람이 될 수 있을까……",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				549,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			400817,
+			"Kiana closed her eyes and fell asleep with the dream of Mei.",
+			"琪亚娜闭上了眼睛，怀揣着对于芽衣的憧憬陷入梦乡。",
+			"キアナは目を閉じ、芽衣への憧れを胸に抱いたまま夢の中に落ちていった。",
+			"키아나는 눈을 감고, 메이에 대한 동경을 품은 채 꿈 속으로 빠져들었다.",
+			null
+		],
+		[
+			"msg",
+			400818,
+			"For a moment, she felt that being here was not as bad as she had imagined, that she might be able to give up her experimental status, not just to survive, but to move forward with a new goal——",
+			"这一刻，她觉得来到这里并没有想象的那么糟糕，此刻她或许可以舍弃实验体的身份，不仅仅为了活着，而是可以朝着新的目标前进——",
+			"この時のキアナは、ここに来たことは思っていた以上に悪くなかったと考えていた。今の彼女は実験体としての肩書を捨て、生きるためだけではなく、新たな目標のために進めるかもしれなかった——",
+			"이때의 키아나는 여기에 온 것이 생각보다 나쁘지 않았다고 여기고 있었다. 지금의 그녀는 실험체라는 칭호를 버리고, 살기 위해서만이 아닌 새로운 목표를 위해 나아갈 수 있을지도 모른다고 ——",
+			null
+		],
+		[
+			"msg",
+			400819,
+			"A goal called \"life\".",
+			"名为“人生”的目标。",
+			"「人生」という名前の目標のために。",
+			"「인생」이라는 이름의 목표를 위해.",
+			null
+		],
+		[
+			"msg",
+			400820,
+			null,
+			"",
+			null,
+			null,
+			null
+		],
+		[
+			"speaker",
+			432351
+		],
+		[
+			"bg",
+			"CG10007"
+		],
+		[
+			"portraits",
+			[
+				548,
+				5,
+				false
+			],
+			[
+				549,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			400821,
+			"I'm really tired……",
+			"真是累死了……",
+			"本当に疲れた……",
+			"정말 지쳤어……",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				549,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			400822,
+			"Mei stood alone in the room. There was no decoration or decoration in the empty space, just like a huge box.",
+			"芽衣独自一人站在房间中，空旷的空间里没有任何装饰和摆设，如同一个巨大的匣子。",
+			"芽衣は一人で部屋の中に立っていた。ガランとした部屋の中には飾りや調度品も一切なく、大きな箱の中にいるかのようだった。",
+			"메이는 혼자 방 안에 서 있었다. 텅 빈 방 안에는 장식이나 가구도 전혀 없어, 마치 큰 상자 안에 있는 것 같았다.",
+			null
+		],
+		[
+			"msg",
+			400823,
+			"The only thing that stands out is the city night view reflected from the huge floor-to-ceiling Windows.",
+			"唯一引人注目的地方，只有从巨大落地窗外映射的城市夜景。",
+			"目を引くものと言えば、大きなはめ殺しの窓の外に広がる街の夜景だけだった。",
+			"눈에 띄는 것이라면 커다란 창문 밖으로 펼쳐진 도시의 야경뿐이었다.",
+			null
+		],
+		[
+			"msg",
+			400824,
+			"And now, like a princess standing in a secluded tower, she looked down on the world.",
+			"而此刻，她如同矗立于与世隔绝高塔上的公主，俯瞰着整个世界。",
+			"そしてこの時、彼女は世界と隔絶された高い塔に佇む姫君のように、世界全体を俯瞰していた。",
+			"그리고 이때, 그녀는 세계와 격리된 높은 탑에 서 있는 공주처럼 세계 전체를 내려다보고 있었다.",
+			null
+		],
+		[
+			"msg",
+			400825,
+			null,
+			"",
+			null,
+			null,
+			null
+		],
+		[
+			"speaker",
+			432351
+		],
+		[
+			"bg",
+			"CG10220"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			400826,
+			"That's disgusting.",
+			"真是恶心。",
+			"本当に腹立たしいわね。",
+			"정말 화가 나네.",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"msg",
+			400827,
+			"Mei looked out of the window and murmured.",
+			"芽衣看着窗外喃喃低语。",
+			"芽衣は窓の外を見ながらつぶやいた。",
+			"메이는 창밖을 바라보며 중얼거렸다.",
+			null
+		],
+		[
+			"speaker",
+			432351
+		],
+		[
+			"msg",
+			400828,
+			"How much more time is this boring world going to waste.",
+			"这个无聊的世界，究竟还要浪费我多少时间。",
+			"このくだらない世界は一体あとどれだけ私の時間を無駄にするつもりなの。",
+			"이 허무한 세상은 대체 얼마나 더 내 시간을 낭비하려는 거야.",
+			null
+		],
+		[
+			"msg",
+			400829,
+			"It could not escape the end of destruction anyway, so why struggle so?",
+			"反正逃不过毁灭的结局，又何必这样挣扎？",
+			"どうせ滅亡の結末は避けようがないのに、どうしてそんな悪あがきをするの？",
+			"어차피 멸망의 결말은 피할 수 없는데, 왜 그런 악착같이 버티는 거야?",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"msg",
+			400830,
+			"Mei watched the building of The MTU burning in the night with indifference, lighting up The sky like a torch.",
+			"芽衣冷漠地看着人合联的大楼在夜色中熊熊燃烧，如同火炬一般照亮了天空。",
+			"芽衣は人類契約連盟のビルが夜闇の中で激しく燃えている様子を冷淡に見つめている。ビルの炎はまるで松明のように空を明るく照らしていた。",
+			"메이는 인류계약연맹 빌딩이 밤 어둠 속에서 격렬하게 타오르는 모습을 냉담하게 바라보고 있었다. 빌딩의 불길은 마치 횃불처럼 하늘을 밝게 비추고 있었다.",
+			null
+		],
+		[
+			"speaker",
+			432351
+		],
+		[
+			"msg",
+			400831,
+			"It was a pity that this little light would do nothing, or at least blow up the whole building…",
+			"真是可惜，这一点微弱的光芒一无所用，起码也得把整栋大楼炸掉才行吧……",
+			"本当にもったいないわね。あの程度の弱い光では何の役にも立たないわ。少なくともビル全体を吹き飛ばさないとね……",
+			"정말 아깝네. 그 정도 약한 빛으로는 아무런 소용도 없어. 적어도 빌딩 전체를 날려버리지 않으면……",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"msg",
+			400832,
+			"Mei laughed as she recalled the man's voice.",
+			"说着，芽衣回想起那个男子的声音，不禁发出了笑声。",
+			"そう言いながら、芽衣はあの男性の声を思い返し、思わず笑い声をあげた。",
+			"그렇게 말하며, 메이는 그 남자의 목소리를 떠올리며 문득 웃음 소리를 내었다.",
+			null
+		],
+		[
+			"speaker",
+			432351
+		],
+		[
+			"msg",
+			400833,
+			"Although it is a ridiculous speech, it is really enviable that he could freely vent their desire.",
+			"虽然是可笑的演说，但还真是令人羡慕，可以尽情发泄自己的欲望。",
+			"おかしな演説だったけれど、本当に羨ましいわ。自分の欲望を思い切り吐き出せるんだもの。",
+			"우스운 연설이었지만, 정말 부러워. 자신의 욕망을 마음껏 토해낼 수 있으니까.",
+			null
+		],
+		[
+			"msg",
+			400834,
+			"Fools immersed in the intoxication of life and death, under the bubble of dreams to their heart's content.",
+			"沉浸于醉生梦死中的愚者们，在梦幻泡影之下尽情癫狂。",
+			"夢に浸った愚か者たちが夢の幻影の下で精一杯騒いでいるわね。",
+			"꿈에 취한 어리석은 자들이 꿈의 환영 아래에서 필사적으로 떠들어대고 있네.",
+			null
+		],
+		[
+			"msg",
+			400835,
+			"The fire of doom has been lit, and the flames will burn the false world.",
+			"末日的天火已经点燃，熊熊烈焰必将焚尽这虚假的世界。",
+			"終末の炎は既に火がつけられているのよ。激しい炎は必ずや、この偽りの世界を燃やし尽くすでしょうね。",
+			"종말의 불꽃은 이미 붙여진 거야. 격렬한 불꽃은 반드시 이 거짓된 세상을 태워버릴 테니까.",
+			null
+		],
+		[
+			"msg",
+			400836,
+			"When everything turned to ashes, who can escape this disaster?",
+			"当一切化为灰烬的时候，又有谁能够躲得过这场浩劫呢？",
+			"全てが灰燼に帰した時、この災いを逃れられる人なんているのかしら？",
+			"모두가 잿더미로 변했을 때, 이 재앙을 피할 수 있는 사람이 있을까?",
+			null
+		],
+		[
+			"speaker",
+			55489
+		],
+		[
+			"msg",
+			400837,
+			"As if imitating a man's voice, Mei's cold words echoed around the room.",
+			"好似模仿着男人的语气，芽衣冰冷的话语回荡在房间中。",
+			"声明の男性の口調を真似しているかのように、芽衣の冷たい言葉が部屋の中に響いた。",
+			"성명서의 남성적 어조를 모방하듯, 메이의 차가운 목소리가 방 안을 울렸다.",
+			null
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			432351
+		],
+		[
+			"msg",
+			400838,
+			"Poor human...On the eve of Houkai's arrival, cherish the peace that remains…",
+			"可怜的人类啊…在这崩坏到来的前夜，珍惜仅剩的平静吧……",
+			"可愛そうな人類……崩壊が訪れるまで、残り僅かな平穏を大事に楽しむがいいわ……",
+			"불쌍한 인류...... 붕괴가 닥치기 전, 남은 얼마 안 되는 평온을 소중히 즐기길 바라......",
+			null
+		]
+	]
+}

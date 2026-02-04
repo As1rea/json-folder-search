@@ -1,0 +1,917 @@
+{
+	"1352": [
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10172"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV04_ExplosionClose"
+		],
+		[
+			"msg",
+			308589,
+			"Boom——!!",
+			"轰隆——！！",
+			"ドゴォオオオオン——ッ！！",
+			"도고오오온——츠！！",
+			null,
+			null,
+			"Boom--!",
+			"Dogooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308590,
+			"Whoa!!",
+			"呜哇！！",
+			"うわぁ！！",
+			"우와!!",
+			null,
+			null,
+			"Woohoo!!!",
+			"Wow!"
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				68,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308591,
+			"Give up, leave here, at least to save your life.",
+			"放弃吧，离开这里，这样至少还能保全自己的性命。",
+			"諦めなさい。ここから離れれば、少なくとも生き残れるわ。",
+			"포기하세요. 여기서 떠나면 적어도 살아남을 수 있을 거야.",
+			"Give up. If you leave now, at least you alone will survive.",
+			null,
+			"Give up and get out of here so that you can at least save your life.",
+			"Give it up. If you stay away from here, at least you'll survive."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				68,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308592,
+			"You mean I should give them up……",
+			"你的意思是让我舍弃她们么……",
+			"彼女たちを見捨てろっていうの？",
+			"그녀들을 버리라는 거야?",
+			"You're telling me to abandon them?",
+			null,
+			"Do you mean I should give them up ......",
+			"Are we supposed to abandon them?"
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				68,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308593,
+			"You can't get my core, and you can't wake up Kyushou…even the kid you bought here would die, such struggle is useless.",
+			"你无法得到我的核心，同样也无法唤醒九霄…甚至连你带来的这个孩子也会死亡，这样的挣扎是不会有结果的。",
+			"あなたは、私のコアを手に入れられない。九霄を呼び覚ますこともできない……あなたが連れてきた子も死んでしまう。抵抗なんて無意味なの。",
+			"당신은, 내 코어를 손에 넣을 수 없어. 큐쇼를 깨울 수도 없어…… 네가 데려온 아이도 죽어버릴 거야. 저항은 무의미해.",
+			"You can't get my core, and you can't wake up Kyuushou. The child you've brought from the outside world will die here. Resistance is pointless.",
+			null,
+			"You can't get my core, and likewise you can't awaken Kyuushou...even this child you brought will die, such a struggle will not be fruitful.",
+			"You will not get my core. You can't even awaken Kyuushou. ...... The child you brought to me will die. Resistance is pointless."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				false
+			],
+			[
+				68,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308594,
+			"No! It's not ended! As long as destroy the Herrscher core……",
+			"不！还没有结束！只要摧毁律者核心的话……",
+			"いえ、まだ終わってない！律者コアさえ破壊できれば……！",
+			"아니, 아직 끝나지 않았어! 율자 코어만 파괴한다면……!",
+			"No, it's not over yet! We just need to destroy the Herrscher Core....!",
+			null,
+			"No! It's not over yet! Just destroy the Ruler's core if ......",
+			"No, it's not over yet! If only we could destroy the Ruler Core: ......!"
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				68,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308595,
+			"Well…you still don't understand……",
+			"是么…看来你还是没有明白呢……",
+			"そう……まだわかっていないのね……。",
+			"그래…… 아직 모르고 있었구나…….",
+			"So you still haven't realized it.....",
+			null,
+			"Really...it seems you still don't understand it ......",
+			"So ...... you haven't figured it out yet. ......"
+		],
+		[
+			"portraits",
+			[
+				54,
+				6,
+				true
+			],
+			[
+				69,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308596,
+			"Everything here can't be changed.",
+			"这里的一切都已经无法改变了。",
+			"ここのすべては、もう変えることができないの。",
+			"여기의 모든 것은, 이제 바꿀 수 없어.",
+			"Nothing here can be changed.",
+			null,
+			"Nothing can be changed here anymore.",
+			"Everything here can't be changed anymore."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				69,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308597,
+			"Sirin…why……turned to Kyushou……",
+			"西琳…为什么……变成了九霄的样子……",
+			"シーリン……その姿、どうして……九霄に……。",
+			"시린…… 그 모습, 어째서…… 큐쇼에…….",
+			"Sirin... That figure, why... Do you look like Kyuushou...",
+			null,
+			"Celine...why ...... turned into Kyuushou's appearance ......",
+			"Shilin ...... that figure, why ...... to Kyuushou ......."
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				69,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308598,
+			"Her body has been occupied by Honkai, if she uses my power she will be eroded by me, that's the price of having Herrscher's power.",
+			"她的身体已经被崩坏占据，使用我的力量就将被我所侵蚀，这就是获得律者之力的代价。",
+			"彼女の身体は崩壊に支配され、私の力を使うたび私に侵食されていく。これが律者の力を手に入れるために必要な代価なの。",
+			"그녀의 몸은 붕괴에 지배당해, 내 힘을 사용할 때마다 나에게 침식되어 가. 이것이 율자의 힘을 얻기 위해 필요한 대가야.",
+			"Her body has been infected with Honkai. Every time she uses my powers, she becomes eroded by me. That's the price to pay for obtaining the power of a Herrscher.",
+			null,
+			"Her body has been taken over by disintegration, and using my power will be eroded by me, and this is the price of gaining the power of the Law.",
+			"Her body is controlled by disintegration and every time she uses my power, she is eroded by me. This is the price to pay to gain the power of the Ruler."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				69,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308599,
+			"You mean…Kyushou has……",
+			"你的意思是…九霄已经……",
+			"つまり……九霄はもう……。",
+			"즉…… 큐쇼는 이미…….",
+			"You mean.... Kyuushou is already....",
+			null,
+			"You mean...Kyuushou has ......",
+			"In other words, ......九霄 is already ......."
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				69,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308600,
+			"Yes…it's too late to do anything, if you destroy my core, the girl will die at the same time.",
+			"没错…一切都已经晚了，如果破坏我的核心，这个少女也会和我一起死亡。",
+			"ええ……もう遅いわ。私のコアを壊せば、この少女も私と一緒に死ぬことになるの。",
+			"그래…… 이미 늦었어. 내 코어를 부수면, 이 소녀도 나와 함께 죽게 될 거야.",
+			"Yes.... It's too late. If you destroy my core, that girl will perish as well.",
+			null,
+			"That's right...it's already too late. If I destroy my core, this young girl will die with me.",
+			"Yeah ...... it's too late. If you destroy my core, this girl will die with me."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				false
+			],
+			[
+				69,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308601,
+			"How come…my thought was wrong from the beginning……so…everything is doomed from the beginning……",
+			"怎么会…我的想法从一开始就是错误的……难道…这一切从一开始就已经无法挽回了么……",
+			"そんな……私の考えは最初から間違ってたの……嘘よ……もう手の施しようがないってこと……？",
+			"그런…… 내 생각은 처음부터 틀렸던 거야…… 거짓이야…… 이미 손 쓸 방법이 없다는 거……?",
+			"How can this be....? My hypothesis was wrong from the start...? Was everything doomed all along...?",
+			null,
+			"How can ... my idea from the beginning is wrong ...... is ... all this from the beginning has been irreversible ......",
+			"Oh no,...... my idea was wrong from the beginning,...... it's a lie,...... that there's nothing more we can do...? ...?"
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				true
+			],
+			[
+				69,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308602,
+			"Your fight is meaningless…like those arrogant human beings, meaningless bubbles.",
+			"你们的战斗没有丝毫的意义…就和那些自以为还活着的人类一样，一切都是梦幻泡影中无谓的涟漪而已。",
+			"あなたたちの戦いには何の意味もない……まだ生きてると思い込んでいる人類と同じ、全て夢の中の出来事に過ぎないのよ。",
+			"너희들의 싸움에는 아무런 의미도 없어…… 아직 살아있다고 믿고 있는 인류와 같아, 모든 건 꿈속의 일에 지나지 않는 거야.",
+			"Your fight means nothing, just like the remaining humans that think they're still alive.... Everything is just a pointless mirage within a dream.",
+			null,
+			"Your battle has no meaning...just like those humans who think they are still alive, everything is just a pointless ripple in a dream bubble.",
+			"Your fight means nothing, just like the human race that thinks ...... it's still alive, it's all just a dream."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				false
+			],
+			[
+				69,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308603,
+			"Damn…damn……so…I still have nothing to do……",
+			"可恶…可恶……果然…我还是什么也办不到么……",
+			"そんな……何で……やっぱり……私なんかの力じゃ何もできないってこと……。",
+			"그런…… 왜…… 결국…… 나 같은 힘으로는 아무것도 할 수 없다는 거…….",
+			"Damn it... Damn it... I can't do anything on my own....",
+			null,
+			"Damn it...damn it ...... really...I still can't do anything ......",
+			"I don't know why ...... I can't do anything on my own.... I can't do anything by myself......."
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				true
+			],
+			[
+				69,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308604,
+			"You seem to give up finally, then this is the end.",
+			"看来终于还是选择放弃了么，那就让一切结束吧。",
+			"やっと諦めてくれるのね。じゃあ、全て終わらせましょうか。",
+			"드디어 포기해 주는구나. 그럼, 모든 걸 끝내버리자꾸나.",
+			"You've finally given up. Then let's get this over with.",
+			null,
+			"It seems to have finally chosen to give up, so let it all end.",
+			"You finally give up. So let's get it all done."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				69,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308605,
+			"Who says……",
+			"谁说……",
+			"誰が——",
+			"누가——",
+			"Who said--",
+			null,
+			"Who Says ......",
+			"Who--"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				67,
+				3,
+				false
+			],
+			[
+				69,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308606,
+			"This is the end!!!",
+			"一切都结束的啊！！！",
+			"——終わるだなんて言った！！！",
+			"——끝난다고는 말했어!!!",
+			"--That it's over!!!",
+			null,
+			"It's all over!!!",
+			"--I never said it was over!"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				69,
+				1,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV14_WeaponCollisionMonsterFall"
+		],
+		[
+			"msg",
+			308607,
+			"Bang!",
+			"砰！",
+			"パァンッ——！",
+			"팡——!",
+			null,
+			null,
+			"Bang!",
+			"Pow--!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				false
+			],
+			[
+				69,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308608,
+			"Sin……",
+			"杏……",
+			"シン……。",
+			"신…….",
+			null,
+			null,
+			"Apricot ......",
+			"Sin ......."
+		],
+		[
+			"bgm",
+			79
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				67,
+				2,
+				false
+			],
+			[
+				69,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308609,
+			"Huh huh…you are still too weak to kill me! Sirin!",
+			"哼哼…想杀掉本大爷你还你嫩了点！西琳！",
+			"ふんッ……このボクを殺すなんて100年早いんだよ、シーリン！",
+			"흥……이 몸을 죽이려면 100년은 더 일러, 시린!",
+			"Hmph.... You're a hundred years too young to kill me, Sirin!",
+			null,
+			"Hmph...you're a little young to kill me! Celine!",
+			"Hmph. ...... I'm 100 years too young to kill me, Sirin!"
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"portraits",
+			[
+				67,
+				2,
+				true
+			],
+			[
+				69,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			308610,
+			"She can even take back her consciousness after eroded by Honkai……",
+			"明明被崩坏侵蚀了居然还能夺回自己的意识么……",
+			"崩壊に侵食されたというのに、意識を奪い返したの……。",
+			"붕괴에 침식당했는데도, 의식을 되찾다니…….",
+			"She can take back her consciousness after being corrupted by Honkai...",
+			null,
+			"Obviously eroded by the collapse can still regain their consciousness ......",
+			"The collapse has eroded it, but it has taken back consciousness. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				67,
+				2,
+				false
+			],
+			[
+				69,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			308611,
+			"Hahaha…eroded? This crazuy feeling means nothing to me!",
+			"呵呵呵…侵蚀？这种疯狂的感觉对本大爷来说根本不痛不痒！",
+			"アッハハハッ！侵食？そんもの痛くも痒くもなかったもんね！",
+			"아하하핫! 침식? 그런 거 아프지도 가렵지도 않았는데!",
+			"Ahahahaha! Corruption? I didn't even feel an itch! (TN: Redo)",
+			null,
+			"Ohhhh...erosion? This crazy feeling doesn't hurt at all for this grandpa!",
+			"AHHHHHH! Erosion? That didn't hurt or itch!"
+		],
+		[
+			"msg",
+			308612,
+			"Just what I want!",
+			"倒不如说是正合我意！！",
+			"むしろ、ボクにとってはちょうどいいくらいさ！！",
+			"오히려, 나에게는 딱 좋았지!!",
+			"In fact, for me, it's just about perfect!",
+			null,
+			"Rather, it is just what I want!",
+			"In fact, for me, it's just about perfect!"
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"portraits",
+			[
+				67,
+				2,
+				true
+			],
+			[
+				69,
+				2,
+				false
+			]
+		],
+		[
+			"msg",
+			308613,
+			"……I was planning to let you die in a sweet dream, but you choose the most painful way.",
+			"……本想让你在美梦中死去，看来你还是选择了最痛苦的方式呢。",
+			"……夢の世界のまま死んでもらおうと思ったのに、よりにもよって一番苦しいのを選択するなんて。",
+			"……꿈 속 세계에서 그대로 죽게 하려 했는데, 하필 가장 고통스러운 걸 선택하다니.",
+			"...I was going to let you die peacefully in your dreams, but you chose the most painful method.",
+			null,
+			"...... was going to let you die in a beautiful dream, it seems you chose the most painful way after all.",
+			"I was going to let you die in ...... dream world, but you chose the most painful one of all."
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				69,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308614,
+			"Boom!!",
+			"轰隆！！",
+			"ドォオオオンッ！！",
+			"두오오온!!",
+			null,
+			null,
+			"Boom!!!",
+			"Doooooooooooooooooooooooooooooooooooooooooooooooooong!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				67,
+				3,
+				false
+			],
+			[
+				69,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308615,
+			"Coo ah!!",
+			"咕啊！！",
+			"ぐぁああああぁあ——ッ！！",
+			"꾸아아아아아——!!",
+			"Arrrrrgh!",
+			null,
+			"Gooah!!!",
+			"Gaaaahhhh--!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				false
+			],
+			[
+				69,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308616,
+			"Sin! Stop! We failed……it's ended!",
+			"杏！不要再战斗了！我们已经失败了……已经结束了！",
+			"シン！もう戦わないで！もうダメなの……何もかも終わったの！",
+			"신! 이제 싸우지 마! 이젠 안 돼…… 모든 게 끝났어!",
+			"Sin! Stop fighting! It's pointless... Everything is over!",
+			null,
+			"Apricot! Stop fighting! We've lost ...... is over!",
+			"Shin! No more fighting! I can't ...... anymore, everything's over!"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				67,
+				3,
+				false
+			],
+			[
+				69,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308617,
+			"Shut up! I hate weak people like you most! Give up if you want!",
+			"闭嘴！果然像你这样软弱的家伙是我最讨厌的类型！要放弃的话就随你的便！",
+			"うるさいッ！やっぱお前みたいな弱いヤツ、一番嫌いだ！諦めるなら勝手にひとりで諦めてろ！",
+			"시끄러워! 역시 너 같은 약한 놈, 제일 싫어! 포기하려면 혼자서 포기해!",
+			"Shut up! I hate weak people like you the most! If you're going to give up, go ahead and give up on your own!//n",
+			null,
+			"Shut up! I'm sure a weakling like you is the type I hate the most! If you want to give up, do as you please!",
+			"Shut up! I hate weak people like you the most! If you're going to give up, go ahead and give up on your own!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				4,
+				false
+			],
+			[
+				69,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308618,
+			"Woo……",
+			"唔……",
+			"くっ……。",
+			"쿳…….",
+			"Urk...",
+			null,
+			"Well ......",
+			"Damn. ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				67,
+				2,
+				false
+			],
+			[
+				69,
+				2,
+				true
+			]
+		],
+		[
+			"msg",
+			308619,
+			"Hahaha…it's not ended! Herrscher!!",
+			"呵呵呵…还没结束呢！律者！！",
+			"は、ははっ……まだ終わってないぞ！律者ッ！！",
+			"하, 하하…… 아직 끝난 거 아니야!율자!!",
+			"Hahahaha... It's not over yet, Herrscher!!",
+			null,
+			"Ohhhh...it's not over yet! The Herrscher!!!",
+			"Ha, ha, ha. ...... We're not done yet! Ritus!!!!!!!"
+		],
+		[
+			"msg",
+			308620,
+			"Come on! Herrscher! See who kills who today!! I will you pay double price for those pains!!",
+			"来啊！律者！今天就看看到底是谁杀掉谁吧！！刚才的那些痛苦就让你加倍奉还！！",
+			"誰が死んで、誰が殺すのか、決めようじゃないか、律者！さっきの苦しみ、倍にして返してやんよ！！",
+			"누가 죽고 누가 죽일지, 결정하자고,율자! 아까 고통, 배로 갚아주마!!",
+			"Let's decide who dies and who kills, Herrscher! I'll double the pain you just inflicted on me!",
+			null,
+			"Come on! Herrscher! Let's see who kills who today! You'll pay back for all the pain you've just suffered!",
+			"Let's decide who dies and who kills, scribes! I'll double the suffering you just endured!"
+		]
+	]
+}

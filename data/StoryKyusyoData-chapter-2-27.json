@@ -1,0 +1,1041 @@
+{
+	"1085": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305711,
+			"Where's it?",
+			"啧…到底丢哪里去了……",
+			"あっちゃー……どこでなくしたんだろう……。",
+			"아차…… 어디서 잃어버린 걸까…….",
+			null,
+			null,
+			"Gee...where the hell did it go ......",
+			"Oops... ...... where did I lose it. ......"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305712,
+			"Emesa? What are looking for? The kids again?",
+			"埃米沙？你在找什么？难道是孩子们又走丢了？",
+			"エミザ？何探しているの？まさか、また子供たちがいなくなった？",
+			"에미자? 뭘 찾고 있는 거야? 설마 또 아이들이 사라진 거야?",
+			null,
+			null,
+			"Emesa? What are you looking for? Have the children gotten lost again?",
+			"Emesa? What are you looking for? Don't tell me you lost the kids again?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305713,
+			"Stop calling me Emesa! It has nothing to do with the children.",
+			"不要叫我埃米沙！和那些小鬼也没什么关系！",
+			"エミザって呼ぶな！それと今回はあのチビっ子どもと関係ないから大丈夫。",
+			"에미자라고 부르지 마! 게다가 이번에는 그 꼬맹이들과 상관없으니까 괜찮아.",
+			null,
+			null,
+			"Don't call me Emesa! It has nothing to do with those brats either!",
+			"Don't call me Emesa! And don't worry, I have nothing to do with those little guys this time."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305714,
+			"Alright. What did you lose?",
+			"哈~好吧，那你告诉我丢了什么东西？",
+			"へ～ならいいけど、何をなくしたの？",
+			"흐~ 그럼 좋지만, 뭘 잃어버렸는데?",
+			null,
+			null,
+			"Ha~ Okay, so tell me what's missing?",
+			"Heh, that's fine, but what did you lose?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305715,
+			"Nothing. It's none of your business.",
+			"没什么东西！不用你瞎操心！",
+			"何でもないから気にするな。",
+			"아무것도 아니니까 신경 쓰지 마.",
+			null,
+			null,
+			"Nothing! Don't worry about it!",
+			"It's nothing, don't worry about it."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				1,
+				true
+			]
+		],
+		[
+			"msg",
+			305716,
+			"Well, then, I'd better leave now.",
+			"哼~真是好心当做驴肝肺~那我们就不打扰您了~",
+			"フン～せっかくの好意を踏みにじっちゃって……じゃ、私たちは邪魔しないわ。",
+			"흥~ 애써 호의를 무시해 버리고…… 그럼, 우린 방해하지 않겠어.",
+			null,
+			null,
+			"I'll leave you to it.",
+			"Hmph - you stepped on our goodwill ......, then we won't get in your way."
+		],
+		[
+			"choice",
+			[
+				305717,
+				"Is she looking for the picture I found?",
+				"会不会是之前捡到的照片？",
+				"もしかして、この前拾った写真？",
+				"혹시, 이전에 주웠던 사진?",
+				null
+			],
+			[
+				305718,
+				"Or something else?",
+				"还是想想有什么头绪吧？",
+				"何か思い当たることはないの？",
+				"뭔가 떠오르는 건 없어?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1086,
+			1087
+		]
+	],
+	"1086": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305719,
+			"Picture? Can I see it?",
+			"照片？啊…你是说那张照片么，让我看看……",
+			"写真？あ～、あの写真のことね。見せて……。",
+			"사진? 아~, 그 사진 말이지. 보여줘…….",
+			null,
+			null,
+			"Photo? Ah...do you mean the photo, let me see ......",
+			"The photo? Oh, you mean that picture. Let me see it. ......"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1088
+		]
+	],
+	"1087": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305720,
+			"If you said so...",
+			"好吧，既然你这么说的话那就想想看吧……",
+			"そうね、あなたがそこまで言うなら考えてみましょう……。",
+			"그래, 네가 그렇게 말한다면 생각해 보지…….",
+			null,
+			null,
+			"Well, if you say so then think about it ......",
+			"Well, if you insist, I'll think about it. ......"
+		],
+		[
+			"msg",
+			305721,
+			"We found a picture earlier. Let me take a look.",
+			"话说…之前我们不是捡到过一张照片来着，让我找找看……",
+			"そう言えば……この前、私たち写真を拾ったじゃない。ちょっと見せて……。",
+			"그러고 보니…… 이전에, 우리 사진을 주웠잖아. 좀 보여줘…….",
+			null,
+			null,
+			"That said...we did not pick up a photo before, let me look for ......",
+			"Speaking of which, ...... you picked up a picture of us the other day. Let me see some ......."
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1088
+		]
+	],
+	"1088": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10120"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305722,
+			"Here it is. It seems to be ripped off.",
+			"就是这张，似乎还被撕掉一半。",
+			"これよ。半分に破られているみたいだけど。",
+			"이거야. 반으로 찢어진 것 같지만.",
+			null,
+			null,
+			"This is the one that seems to be half torn off.",
+			"Here it is. Looks like it's been torn in half."
+		],
+		[
+			"msg",
+			305723,
+			"Who's the blonde girl in the picture? She looks familiar.",
+			"话说照片上的这个金发女孩是谁呢，看着有点眼熟呢……",
+			"ところで、写真のこの金髪の女の子は誰なの？どこかで見たような……。",
+			"그런데, 사진 속 이 금발 소녀는 누구야? 어디선가 본 것 같은…….",
+			null,
+			null,
+			"That said, the photo of this blonde girl is who it is, look a little familiar it ......",
+			"By the way, who is this blonde girl in the picture? I think I've seen her somewhere ......."
+		],
+		[
+			"choice",
+			[
+				305724,
+				"Is it Emesa?",
+				"难道是埃米沙？",
+				"もしかしてエミザ？",
+				"혹시 에미자?",
+				null
+			],
+			[
+				305725,
+				"Such a lovely girl!",
+				"真是可爱的女孩子呢~",
+				"かわいい女の子だね。",
+				"귀여운 여자애네.",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1089,
+			1090
+		]
+	],
+	"1089": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10120"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305726,
+			"You must be joking. Emesa is a tomboy!",
+			"别开玩笑了，怎么可能是那个男人婆嘛~",
+			"冗談言わないでよ。あのオトコ女なわけがないじゃない！",
+			"농담하지 마. 저 남자가 여자일 리가 없잖아!",
+			"You've gotta be kidding me. Emesa the tomboy?",
+			null,
+			"Don't joke, how can it be the man woman well ~",
+			"You've got to be kidding me. There's no way she's that girl!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1091
+		]
+	],
+	"1090": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10120"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305727,
+			"Well, she's cute. She has hair like a doll!",
+			"咕嘿嘿~的确很可爱呢~特别是这一头金发，像洋娃娃一样！",
+			"エヘヘ～確かにかわいいよね～！特にこの金髪、お人形さんみたい！",
+			"에헤헤~ 확실히 귀엽지~! 특히 이 금발, 인형 같아!",
+			"Ehehehe~ She sure is cute. Especially her blonde hair, she looks just like a doll!",
+			null,
+			"Goo hey hey ~ indeed very cute it ~ especially this blonde hair, like a doll!",
+			"Ahehe~ She sure is cute! Especially this blonde, she looks like a doll!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1091
+		]
+	],
+	"1091": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10120"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305728,
+			"Emesa has blonde hair too. But it can't be!",
+			"等等！一头金发……埃米沙似乎也是金发……但是！！！这不可能！！",
+			"待って！金髪……エミザも確か金髪だったような……でも！！！ありえないでしょ！！",
+			"잠깐! 금발...... 에미자도 분명 금발이었던 것 같은...... 하지만!!! 말도 안 되잖아!!",
+			"Hold on... Emesa is blonde haired too... No way, that's impossible!",
+			null,
+			"Wait! A blonde ...... Emesa seems to have blonde hair too ...... BUT!!! This can't be!!!",
+			"Wait!!! Even the blonde ...... Emesa was blonde ...... as I recall!!!! That's impossible!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305729,
+			"Give it back to me, you thieves!",
+			"给我交出来！你们这些OO的小偷！！",
+			"そ、それは！？渡せっ！この泥棒！！",
+			"그, 그건!? 내놔! 이 도둑놈아!!",
+			"Give that back, you ☆☆ing thieves!",
+			null,
+			"Give it to me! You OO thieves!!!",
+			"That's it! Give it to me! You thief!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305730,
+			"Is it really you, Emesa?",
+			"埃米沙…难道这…真的是你！？",
+			"エミザ……まさか、これ……本当にあなた！？",
+			"에미자...... 설마, 이거...... 정말 당신이!?",
+			"Emesa... No way... That's really you!?",
+			null,
+			"Emesa...could this...really be you!",
+			"Emesa ...... no way, this ...... really you!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305731,
+			"Not your business!",
+			"呃…关你什么事！",
+			"うっ……あんたには関係ないでしょ！",
+			"으...... 당신과는 상관없잖아!",
+			"Ugh...... None of your business!",
+			null,
+			"Uh...what's it to you!",
+			"Ugh ...... none of your business!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305732,
+			"I remember the first we met at the hospital lobby, you had short hair. Why did you cut it?",
+			"我记得第一次与你见面的时候在那个医院大楼里你也是短发来着…难道是之后剪掉了么！？为什么要做这种事情！！！",
+			"確か初めてあなたと会ったのは、あの廃病院でだったけど……その頃からショートカットだったわよね……まさか切ったの！？どうしてそんなことを！！！",
+			"분명 처음 당신을 만난 건 그 폐병원에서였지만...... 그때부터 숏컷이었잖아...... 설마 자른 거야!? 왜 그런 짓을!!!",
+			null,
+			null,
+			"I remember the first time I met you in that hospital building you also had short hair...did you cut it off afterwards! Why would you do such a thing!!!",
+			"I'm pretty sure I first met you at that abandoned hospital, but ...... you had a short cut since then. ...... I didn't think you cut it off! Why would you do that!!!!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				5,
+				false
+			]
+		],
+		[
+			"msg",
+			305733,
+			"Get off me! Because I like it!",
+			"放开我！这个OO痴女！当然是因为碍事才剪掉的啊！！",
+			"離せって！もちろん邪魔だから切ったんだよ！！",
+			"떨어져! 당연히 방해돼서 자른 거라고!!",
+			"Get off me, you ☆☆ idiot girl! I cut it off because it was in the way!",
+			null,
+			"Let go of me! This OO idiot girl! Of course it was cut off because it was in the way!",
+			"Get off me! Of course I got out of the way, that's why I cut you off!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				false
+			],
+			[
+				55,
+				5,
+				true
+			]
+		],
+		[
+			"msg",
+			305734,
+			"But you look cute with long hair!",
+			"这么暴殄天物是要遭天谴的啊！！！",
+			"こんな天性のものを捨てるなんてバチが当たるわよ！！！",
+			"이런 천성의 머리를 버리다니 벌 받을 거야!!!",
+			"Throwing away something like that is heresy! (TN: Really shitty translation that needs to be redone, it's something like \"it's a grave sin/horrible mistake/etc to waste such a natural thing\")",
+			null,
+			"So wasteful is to be condemned by God!",
+			"It would be a bumble to throw away something so innate!!!!!!!!!!!!!!!!!!!!!!!!!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				4,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305735,
+			"Get lost!",
+			"你给我滚！！！",
+			"う、うるさいな！",
+			"으, 시끄럽네!",
+			"Fuck off!//n(TN: Literally \"Get the hell out of here\", I know Emesa's swears are usually censored but this is the closest thing in English... The original \"Get lost!\" might be better)",
+			null,
+			"Get the hell out of here!!!",
+			"Ugh, shut up!"
+		],
+		[
+			"choice",
+			[
+				305736,
+				"Please calm down.",
+				"请冷静一下。",
+				"落ち着いて。",
+				"진정해.",
+				null
+			],
+			[
+				305737,
+				"Who's on the other half of the picture?",
+				"话说照片上坏掉的半张是谁？",
+				"ところで、写真の破られているもう半分は誰なの？",
+				"그런데, 사진에 찢겨 있는 나머지 반은 누구야?",
+				null
+			]
+		],
+		[
+			"nop",
+			"CHOICE_DESTS",
+			1092,
+			1093
+		]
+	],
+	"1092": [
+		[
+			"speaker",
+			204615
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305738,
+			"Give me back the picture!",
+			"冷静你个头！快把照片还给我！！",
+			"落ち着けるわけないだろ！早く写真を返せ！！",
+			"진정할 수 있을 리가 없잖아! 빨리 사진 돌려줘!!",
+			"Calm down, my ass! Give me my picture back!//n(TN: Yes, she REALLY said that, uncensored and all)",
+			null,
+			"Calm your ass! Give me back my pictures!!!",
+			"I can't calm down! Now give me back my picture!!!!!!!!!!!!!!!!!!!!"
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				55,
+				4,
+				true
+			]
+		],
+		[
+			"msg",
+			305739,
+			"OK, here you go!",
+			"好啦！好啦！给你！",
+			"ほら！ほら！どうぞ！",
+			"자! 자! 여기요!",
+			"Alright! Alright! Here you go!",
+			null,
+			"All right! All right! Here you go!",
+			"Look! Here you go! Here you go!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305740,
+			"...",
+			"……",
+			"……。",
+			"…….",
+			null
+		],
+		[
+			"msg",
+			305741,
+			"Why's ripped off, Seele?",
+			"混蛋希儿！为什么只有半张啊！！！",
+			"バカゼーレ！どうして半分しかないんだ！！！",
+			"바카제레! 왜 반밖에 없는 거야!!!",
+			"<size=60>Seele!!!! Where's the other half!!!</size>",
+			null,
+			"Bastard Shire! Why only half a sheet!",
+			"Stupid zeret! How come it's only half!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1094
+		]
+	],
+	"1093": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305742,
+			"Who's on the other half?",
+			"对啊！另外半张是谁？",
+			"そうよ！残りの半分は誰なの？",
+			"그래! 남은 반은 누구야?",
+			null,
+			null,
+			"Yes! Who is the other half?",
+			"Yes! Who is the other half?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				1,
+				false
+			]
+		],
+		[
+			"msg",
+			305743,
+			"The other half...",
+			"另外…半张……",
+			"残りの……半分……。",
+			"남은…… 반…….",
+			null,
+			null,
+			"Also...half a sheet ......",
+			"The remaining ...... half ......."
+		],
+		[
+			"portraits",
+			[
+				59,
+				1,
+				true
+			],
+			[
+				55,
+				4,
+				false
+			]
+		],
+		[
+			"msg",
+			305744,
+			"How dare you ripped off my picture, Seele!",
+			"混蛋希儿！你居然把我的照片给撕碎了！！",
+			"バカゼーレ！写真、破ったな！！",
+			"바카제레! 사진, 찢었잖아!!",
+			null,
+			null,
+			"Bastard Shire! You tore up my picture!",
+			"Bakasele! You broke the picture!"
+		],
+		[
+			"nop",
+			"RETURN_TO_MAIN_BRANCH",
+			1094
+		]
+	],
+	"1094": [
+		[
+			"speaker",
+			204619
+		],
+		[
+			"bg",
+			"CG10093"
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			305745,
+			"It's only me. We picked it up in the park and there's only half of it.",
+			"不！不是我弄坏的啦！我们是在游乐园里找到的！捡到的时候就只有半张啊！",
+			"違う！私がやったんじゃないわよ！私たちは遊園地で見つけただけ！拾った時には半分しかなかったわ！",
+			"아니야! 내가 한 게 아니라고! 우리는 놀이공원에서 발견한 것뿐이야! 주웠을 때부터 반밖에 없었단 말이야!",
+			"No, no, no, no, no! I didn't do it! We just found it in an amusement park! When I picked it up it was only half full!",
+			null,
+			"No! I didn't break it! We found it in the amusement park! It was only half a sheet when we found it!",
+			"No, I didn't! I didn't do it! We just found it in an amusement park! It was only half full when we picked it up!"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				55,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305746,
+			"Why's that....",
+			"怎…怎么会……",
+			"ど、どうして……。",
+			"어, 어째서…….",
+			null,
+			null,
+			"How...how can ......",
+			"Which makes me wonder why ......."
+		],
+		[
+			"speaker",
+			204619
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				false
+			],
+			[
+				55,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			305747,
+			"Don't be upset, Emesa. Shall we look for the other half?",
+			"那个…你别难过啦埃米沙，要不我们再去找找？",
+			"その……悲しまないでよエミザ、探すの協力するから、ね？",
+			"그…… 슬퍼하지 말아요 에미자, 찾는 거 협력할 테니까, 응?",
+			null,
+			null,
+			"Well...don't feel bad Emesa, why don't we go look for it again?",
+			"Don't be sad about that ...... Emesa, I'll help you find it, okay?"
+		],
+		[
+			"speaker",
+			204615
+		],
+		[
+			"portraits",
+			[
+				59,
+				5,
+				true
+			],
+			[
+				55,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			305748,
+			"No, and don't call me Emesa.",
+			"不用了…还有不要叫我埃米沙……",
+			"いい……それにエミザって呼ぶな……。",
+			"좋아…… 그리고 에미자라고 부르지 마…….",
+			null,
+			null,
+			"No need...and don't call me Emesa ......",
+			"Good ...... and don't call me Emesa ......."
+		]
+	]
+}

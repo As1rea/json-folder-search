@@ -1,0 +1,746 @@
+{
+	"1350": [
+		[
+			"bgm",
+			78
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"bg",
+			"CG10176"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				67,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			308502,
+			"Huh…huh……",
+			"呼…呼……",
+			"はぁ……はぁ……っ！",
+			"하…… 하……!",
+			"Hah... Hah...!",
+			null,
+			"Hoo...hoo ......",
+			"Hah ...... Hah ......!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			308503,
+			"Sin…how are you?",
+			"杏…你怎么样了？",
+			"シン、大丈夫？",
+			"신, 괜찮아?",
+			"Sin, are you alright?",
+			null,
+			"Apricot...how are you doing?",
+			"Shin, are you okay?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			308504,
+			"It's ok…just saw some illusion.",
+			"没事…只是看到了一些幻觉罢了。",
+			"平気、だ……ちょっと幻覚を見ただけさ。",
+			"괜찮아…… 잠깐 환각을 본 거야.",
+			"I'm fine... Just... Hallucinating a little.",
+			null,
+			"It's okay...just seeing some visions.",
+			"I'm fine, I'm just ...... hallucinating a little bit."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				67,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			308505,
+			"Illusion?",
+			"幻觉？",
+			"幻覚？",
+			"환각?",
+			"Hallucinating?",
+			null,
+			"Hallucinations?",
+			"Hallucination?"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				true
+			],
+			[
+				67,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			308506,
+			"……the fighting scenes on the ship, but I was fighting with Bronya…Huh! So uncomfortable!",
+			"……是在这艘船上战斗的景象，但我的对手却是布洛妮娅…啧！真是不爽的感觉！",
+			"……この船で戦ってる幻覚だ。でも、ボクの戦ってた相手はブローニャで……チッ！むしゃくしゃする！",
+			"……이 배에서 싸우는 환각이었어. 하지만, 내가 싸우던 상대는 브로냐였고…… 쯧! 열받아!",
+			"I'm seeing visions... Of fighting on a ship... But I was fighting Bronya... Tsk! It's making me uncomfortable!",
+			null,
+			"...... is the sight of fighting on this ship, but my opponent is Bronya... tsk! What an unpleasant feeling!",
+			"I'm fighting on ...... this ship, a hallucination. But the guy I was fighting was Bronya and ...... tsk! I'm pissed!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			308507,
+			"Is my memory get disturbed……",
+			"难道是记忆受到干扰了么……",
+			"記憶が干渉を受けてるのかしら……。",
+			"기억이 간섭을 받고 있는 걸까…….",
+			"Are the memories of this place being disturbed...?",
+			null,
+			"Could it be that the memory is disturbed ......",
+			"I wonder if my memory is getting interference. ......"
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				67,
+				3,
+				false
+			]
+		],
+		[
+			"msg",
+			308508,
+			"Ok…stop being so suspicious, not a big deal, you're looking for Herrshcer core right, go now.",
+			"好了…别疑神疑鬼的，没什么大不了的，你不是要找核心么，那就别磨蹭了。",
+			"……ボクのことは気にするな、大したことない。それより、律者コアを探すんだろ？さっさとしろ。",
+			"……내 건 신경 쓰지 마, 별일 아냐. 그보다, 율자 코어를 찾는 거잖아? 빨리 해.",
+			"......Don't worry about me, it's no big deal. You're looking for the <tooltip entry=44>Herrscher core</tooltip>, right? Get on with it.",
+			null,
+			"Well...don't be paranoid, it's no big deal...you're looking for the core, so don't dawdle.",
+			"...... Don't worry about me, it's no big deal. You're looking for the law core, right? Get on with it."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				67,
+				3,
+				true
+			]
+		],
+		[
+			"msg",
+			308509,
+			"Yes…Kyushou, please take care of Sin. I will get the Herrscher core, we need to destroy it right away if it was playing tricks!",
+			"嗯…九霄，杏就麻烦你照顾了。我去取出律者核心，如果是那个核心搞的鬼的话必须立刻破坏它！",
+			"うん……九霄、シンのことをよろしくね。律者コアを取り出してくる。もしこれがコアの仕業だったら、すぐに壊さないと。",
+			"응……큐쇼, 신 건 잘 부탁해. 율자 코어를 꺼내 올게. 만약 이게 코어의 소행이었다면, 바로 부수지 않으면.",
+			"Yeah... Kyuushou, take care of Sin. I'm going to retrieve the Herrscher core. If these hallucinations are being caused by the core, we need to destroy it immediately.",
+			null,
+			"Well...Kyuushou, I'll trouble you to take care of the apricot. I'm going to take out the Ruler's core, if that core is responsible for the trouble then it must be destroyed immediately!",
+			"Yeah ...... Kyuushou, take care of Shin. I'm going to go take out the ritsu core. If this is the work of the core, we need to destroy it now."
+		],
+		[
+			"stopBGM"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"soundEffect1",
+			"DLC_CH00_EV15_EarRing"
+		],
+		[
+			"msg",
+			308510,
+			"La la la la♪la la la…♪",
+			"啦啦啦啦♪啦啦啦…♪",
+			"らんららら～♪らららら——♪",
+			"란랄라라~♪랄라라라——♪",
+			null,
+			null,
+			"La la la la la la ♪ La la la la...♪",
+			""
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				2,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308511,
+			"Eh! This is…voice singing?",
+			"呃！这个是…歌声？",
+			"……っ！これは……歌声？",
+			"……! 이건…… 노래 소리?",
+			"Huh!? This is... Singing?",
+			null,
+			"Ugh! Is this...a song?",
+			"......! Is this ...... singing voice?"
+		],
+		[
+			"speaker",
+			0
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308512,
+			"La la la…la la la♪",
+			"啦啦啦…啦啦啦♪",
+			"ららら……らららら～♪",
+			"라라라……라라라라~♪",
+			null,
+			null,
+			"La-la-la...la-la-la♪",
+			""
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308513,
+			"The shadows on the power unit…how come…there shouldn't be someone else here!",
+			"动力炉上面的人影…怎么会…这个空间里不可能还有别的人才对！",
+			"動力炉の上に人影が……嘘、この場所に他にも人がいるだなんて……いや、そんなはずは！",
+			"동력로 위에 인영이…… 거짓말, 이 장소에 다른 사람이 있을 리가…… 아니, 그럴 리가 없어!",
+			"I saw a figure on top of the power generator...... How... There's no way someone else can be here!",
+			null,
+			"The figure on top of the power furnace ... how ... there can not be another person in this space right!",
+			"I saw a figure on top of the power reactor ...... lie, I can't believe there are other people in this place ...... No, that can't be right!"
+		],
+		[
+			"speaker",
+			204584
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308514,
+			"It's not mother…what a pity.",
+			"原来不是妈妈么…真是遗憾。",
+			"ママじゃないのね……残念。",
+			"엄마가 아니네…… 아쉬워.",
+			"You're not mother... What a pity.",
+			null,
+			"So it's not mom...what a shame.",
+			"Too bad you're not a mom. ......"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"portraits",
+			[
+				54,
+				3,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308515,
+			"Who are you!",
+			"你到底是谁！",
+			"あなた、誰！？",
+			"당신, 누구야!?",
+			"Who are you!?",
+			null,
+			"Who the hell are you!",
+			"Who are you!"
+		],
+		[
+			"bgm",
+			92
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"bg",
+			"CG10169"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			308516,
+			"Lost people in the dream…welcome to Sirin's world.",
+			"在梦中的迷失的人们…欢迎来到西琳的世界。",
+			"夢の中で彷徨う人たち……シーリンの世界へようこそ。",
+			"꿈 속을 방황하는 사람들……시린의 세계에 어서 오세요.",
+			"Lost people wandering in a dream... Welcome to Sirin's world.",
+			null,
+			"The lost people in the dream...welcome to the world of Celine.",
+			"Welcome to the world of those who wander in dreams ...... Sirin."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			308517,
+			"Sirin…you are the second Herrscher? No way…Second Herrscher has died, impossible!",
+			"西琳…难道你是第二律者？不可能…第二律者早就已经被消灭了，怎么可能再次出现！",
+			"シーリン……第二律者！？じょ、冗談よね……？第二律者はとっくに消滅したわ、ありえない。",
+			"시린……제2 율자！？조, 농담이지……？제2 율자는 오래전에 소멸했잖아, 말도 안 돼.",
+			"Sirin... The second Herrscher!? That's impossible! Sirin died ages ago, how can you still be alive!?",
+			null,
+			"Celine...could you be the Second Herrscher? Impossible...the Second Herrscher has long been wiped out, how could it reappear!",
+			"Sirin ...... the Second Ruler! Girl, are you kidding me ......? The Second Ruler disappeared long ago, no way."
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"msg",
+			308518,
+			"This is a dreaming world, I can get whatever I want, everythin is like a fairy tale, since you're here, means you are like me, seeking for something you can't get.",
+			"这里是梦中的世界，只要西琳想要得到的东西都可以实现，一切都如同童话一般自由自在。既然来到了这里，就说明你们也和我一样，追寻着无法得到的东西。",
+			"ここは夢の世界、シーリンが欲しいと願えば何でも叶えられる世界。すべてはおとぎ話のように自由なのよ。ここに来たということは、あなたたちも私と同じ、手に入らないものを探しているのね。",
+			"여긴 꿈의 세계, 시린이 원하는 것을 바라면 무엇이든 이뤄지는 세계. 모든 건 동화처럼 자유로워. 여기까지 온 걸 보면 너희들도 나와 같구나, 얻을 수 없는 걸 찾고 있는 거지.",
+			"This is a world of dreams, a world where everything Sirin wants can come true. Everything is possible, just like a fairy tale. If you've come here, then you are just like me, searching for something you can't have.",
+			null,
+			"This is the world of dreams, where whatever Celine wants can be achieved, and everything is as free and easy as a fairy tale. Since you have come here, it means that you are also like me, chasing after the unobtainable.",
+			"This is a world of dreams, a world where anything Sheerin wants can come true. Everything is free, just like in a fairy tale. If you have come here, then you are like me, looking for something you can't have."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			308519,
+			"Dreaming world…an illusion out of Herrscher core? Herrscher's consciousness is kept in it…I never imagine this would happen……",
+			"梦中的世界…难道是从律者核心中诞生出来的幻象么？律者核心之中居然还保留着律者的意识…没想到居然会出现这种情况……",
+			"夢の世界……律者コアから生まれた幻想だというの？まさか、律者コアの状態でも意識を保てたなんて……予想外だわ。",
+			"꿈의 세계……율자 코어에서 탄생한 환상이라고？설마, 율자 코어 상태에서도 의식을 유지하다니……예상 외네.",
+			"Are you saying that it's an illusion born from the dream world ...... the Herrscher's Core? I didn't expect ...... that you could remain conscious even reduced to nothing but a core.",
+			null,
+			"The world of dreams...is it an illusion born from the core of the Herrscher? The Ruler's consciousness still remains in the Ruler's core...I never thought this would happen ......",
+			"Are you saying that it's an illusion born from the dream world ...... the Ruler's Core? I didn't expect ...... that you could remain conscious even in the state of the Ruler Core."
+		],
+		[
+			"msg",
+			308520,
+			"You're the one who seduce us entering the Moonlight Throne! Also the Honkai creatures, the machas…all made by you!",
+			"是你诱导我们进入这座月光王座的吧！圣芙蕾雅学园的崩坏生物也好，这些机甲兵器也好…一切都是由你一手操纵的么！",
+			"あなたが、私たちをこの月光王座におびき寄せたのね。聖フレイヤ学園の崩壊生物も、ここにあった機甲兵器も……全部、あなたの仕業？",
+			"네가 우리를 이 월광왕좌로 유인한 거구나. 세인트 프레야 학원의 붕괴 생물도, 여기 있던 기갑 병기도……전부 네 짓이야？",
+			"You're the one that lured us into the Moonlight Throne. Those Honkai beasts at St. Freya's Academy, those armored mechs... That was all your doing?",
+			null,
+			"You lured us into this Moonlight Throne, didn't you? Whether it's the collapsed creatures of St. Freya's school, or these mechs...you manipulated everything!",
+			"You are the one who lured us to this moonlight throne. The disintegrating organisms at St. Freya's Academy and the armored weapons that were here ...... were all your doing?"
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"msg",
+			308521,
+			"Made…I just wait you here…You choose everything on your own, if you want to wake up that girl, you must come.",
+			"操纵…我只是在这里等待着你们而已…一切都是你们自己选择，你们想要唤醒那个女孩，就一定会来到这里。",
+			"仕業……？私はただ、ここであなたたちを待っていただけよ……すべてはあなたたちが選んだ結果。だって、あの子を呼び起こすためには、必ずここへ来るでしょ？",
+			"짓이라고……？난 그저 여기서 너희를 기다렸을 뿐이야……모든 건 너희가 선택한 결과. 그 애를 깨우려면 반드시 여길 오게 되잖아？",
+			"Lured? I simply waited here for you all.... You came here on your own free will. Because if you want to wake her up, you would have surely come here.",
+			null,
+			"Manipulation...I am just waiting for you here...everything is your choice, you want to awaken the girl, you will surely come here.",
+			"The work ...... done? I was just waiting here for you guys...... all because of your choice. Because you will always come here to awaken that girl, won't you?"
+		],
+		[
+			"msg",
+			308522,
+			"Here is the source of everything, the start of all the sadness and depression, and me…just wait here…wait for the end of the world, for the end of all the sadness.",
+			"这里是一切的根源，是一切悲伤与绝望的开端，而我…只是在这里静静地等待…等待着世界迎来终结，等待着所有的悲伤都得到解脱的最后一刻。",
+			"ここは全ての根源、悲しみと絶望の始まり……私は、ただここで静かに待っていたの……世界の終わりを、全ての悲しみが解放されるその時を。",
+			"여긴 모든 것의 근원, 슬픔과 절망의 시작……난 그저 여기서 조용히 기다렸을 뿐이야……세계의 끝을, 모든 슬픔이 해방되는 그 순간을.",
+			"This is the root of all, the beginning of sorrow and despair...... I'm just waiting quietly here.... Waiting for the end of the world, the moment when all the sorrow will cease.",
+			null,
+			"Here is the root of everything, the beginning of all sorrow and despair, and I...just waiting here quietly...waiting for the world to come to an end, waiting for the final moment when all the sorrow is relieved.",
+			"This is the root of all, the beginning of sorrow and despair......I just waited quietly here ...... for the end of the world, for that moment when all sorrow will be released."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"msg",
+			308523,
+			"Sirin…you are the one! We will solve everything if we kill you!",
+			"西琳…你这家伙就是一切的罪魁祸首吧！只要把你杀掉一切就都解决了！",
+			"シーリン……お前がこの全ての元凶だなッ！お前を殺せば、全てが丸く収まるんだろぉッ！",
+			"시린……네놈이 이 모든 원흉이로군! 너만 죽이면 모든 게 해결되는 거겠지!",
+			"Sirin... So you're the one causing this! Fine, if we kill you then everything will be solved!",
+			null,
+			"Celine...you are the culprit of everything, right? Just kill you and everything will be solved!",
+			"Sirin_...... you are the source of all this! Kill you and all will be made right!"
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"msg",
+			308524,
+			"Kill……",
+			"杀掉……",
+			"殺す……？",
+			"죽이라고……？",
+			"Kill ......?",
+			null,
+			"Kill off ......",
+			"Kill ......?"
+		],
+		[
+			"msg",
+			308525,
+			"What a shame, like everything here, I have gone long long ago.",
+			"真是遗憾，我和这里的一切一样，早在很久之前就已经消逝不在了。",
+			"残念だけど、私はここにあるすべての存在と同じで、遥か昔に消滅したわ。",
+			"안타깝지만, 난 여기 있는 모든 존재처럼 아주 오래전에 소멸했어.",
+			"Unfortunately, I, like all beings here, ceased to exist a long time ago.",
+			null,
+			"What a shame that I, like everything else here, faded away long ago.",
+			"Unfortunately, I, like all beings here, ceased to exist a long time ago."
+		],
+		[
+			"msg",
+			308526,
+			"You, if you continue to stay here, you will be swallowed, and never go back.",
+			"倒是你们，如果继续接触这个世界的话，也会被这里所吞噬，然后再也无法回去哦。",
+			"あなたたちこそ、これ以上この世界との接触を続ければ、ここに飲み込まれて二度と戻れなくなるわよ。",
+			"너희들도 이 세계와 접촉을 계속하면 여기에 삼켜져 영원히 돌아갈 수 없게 될 거야.",
+			"But you? If you continue to interact with this world, you will be swallowed up, never returning to the real world.",
+			null,
+			"But you, if you continue to touch this world, will also be swallowed up here, and then never go back oh.",
+			"You are the ones who will be swallowed up here and never return if you continue to have any further contact with this world."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"msg",
+			308527,
+			"Stop the bullshit! Eh……",
+			"少在那里信口开河！呃……",
+			"嘘つくな！ッ……あ、くっ！",
+			"거짓말 마! 으…… 아, 쿡!",
+			"Bullshit! Ugh... Damn it!",
+			null,
+			"Stop talking out of your ass there! Uh ......",
+			"Don't lie! ッ......Ah, damn it!"
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"msg",
+			308528,
+			"Your memory starts to resonate with this world, if you go deeper, you will also fall into the same destiny as before.",
+			"你的记忆已经开始与这个世界产生了共鸣，如果继续深入的话，你也会堕入和过去相同的命运。",
+			"あなたの記憶は、この世界と共鳴しはじめてるわ。今以上に同調すれば、過去と同じ運命を辿ることになるわよ。",
+			"당신의 기억은 이 세계와 공명하기 시작했어. 지금 이상으로 동조하면 과거와 같은 운명을 따라가게 될 거야.",
+			"Your memories are beginning to resonate with this world. If you become more attuned to it than you are now, you will suffer the same fate as you did in the past.",
+			null,
+			"Your memories have begun to resonate with this world, and if you continue to go deeper, you too will fall into the same fate as the past.",
+			"Your memories are beginning to resonate with this world. If you become more attuned to it than you are now, you will suffer the same fate as you did in the past."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			308529,
+			"Sirin, what did you do to Sin!",
+			"西琳，你到底对杏做了什么！",
+			"シーリン、あなたシンに何をしたの？",
+			"시린, 당신에게 무슨 짓을 한 거야?",
+			null,
+			null,
+			"Celine, what the hell did you do to Apricot!",
+			"Sirin, what did you do to Singh?"
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"msg",
+			308530,
+			"I did nothing, this is what she has to face…when she step into this world, she can't get rid of the cause and effect.",
+			"我什么都没有做，这是她本来就要面对的东西…当她踏入这个世界的时候，就与无法摆脱这一切的因果。",
+			"何もしてないわ。これは彼女が向き合わなければいけないものだから……この世界に入った時から、この因果からはもう逃れられないの。",
+			"아무것도 하지 않았어. 이건 그녀가 마주해야 할 것이니까…… 이 세계에 들어온 순간부터, 이 인과에서 벗어날 수 없게 된 거야.",
+			"I didn't do anything. This is something she must face.... Because from the moment she entered this world, there is no escaping her predetermined fate.",
+			null,
+			"I did nothing, this is what she was supposed to face...when she stepped into this world, with the inability to get rid of all this cause and effect.",
+			"I didn't do anything. This is something she has to face ...... because from the moment she entered this world, she can no longer escape this cause and effect."
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			308531,
+			"Cause and effect……",
+			"因果……",
+			"因果……。",
+			"인과…….",
+			"Fate.......",
+			null,
+			"Cause and effect ......",
+			"Causes. ......."
+		],
+		[
+			"speaker",
+			204585
+		],
+		[
+			"msg",
+			308532,
+			"Huh! I don't believe in it!!",
+			"哼！本大爷才不相信什么因果！！",
+			"ハッ！そんなのボクは、信じないぞ！！",
+			"하! 그런 건 난 믿지 않아!!",
+			"Ha! I don't believe in that!",
+			null,
+			"Hmph! I don't believe in karma!",
+			"Ha! I don't believe that!"
+		],
+		[
+			"speaker",
+			204614
+		],
+		[
+			"msg",
+			308533,
+			"Sin!",
+			"杏！",
+			"シン！",
+			"신!",
+			null,
+			null,
+			"Apricot!",
+			"Shin!"
+		],
+		[
+			"speaker",
+			204720
+		],
+		[
+			"msg",
+			308534,
+			"Really…so you're still not convinced.",
+			"是么…看来你们还是无法说服你们呢。",
+			"そう？どうやら、あなたたちに理解させるのは難しいようね。",
+			"그래? 어떻게 보니, 너희들을 이해시키는 건 어려운 모양이네.",
+			"Really? It seems like I can't convince you all.",
+			null,
+			"Really...it seems you guys still can't convince you.",
+			"Really? Apparently it's hard to make you guys understand."
+		],
+		[
+			"msg",
+			308535,
+			"So……I have to show you the truth about this world.",
+			"既然这样…只能让你们看清这个世界的真相了。",
+			"それなら……この世界の真実を見せてあげるわ。",
+			"그렇다면...... 이 세상의 진실을 보여줄게.",
+			"In that case.... I'll show you the truth of this world.....",
+			null,
+			"In that case...I can only show you the truth of the world.",
+			"Then I'll show you the truth about this world at ......."
+		]
+	]
+}

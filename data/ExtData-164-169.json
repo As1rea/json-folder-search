@@ -1,0 +1,2136 @@
+{
+	"164": [
+		[
+			"speaker",
+			0
+		],
+		[
+			"bg",
+			"CG10001"
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bg",
+			"004/002_1024x576"
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"bg",
+			"004/003_1024x576"
+		],
+		[
+			"msg",
+			-1,
+			"",
+			"",
+			"",
+			"",
+			""
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"bg",
+			"black"
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52440,
+			"What?! As soon as I stepped through the red gate, everything changed.",
+			"咦咦咦，穿过刚刚的红色大门以后，周围都变得不一样了。",
+			"さっきの赤い門を越えてから周りの景色がだいぶ変わったけど…",
+			"아까 그 붉은 문을 넘고 나니 주변 풍경이 꽤 변했어…",
+			"The scenery around us has changed a lot since we passed that red gate earlier..."
+		],
+		[
+			"msg",
+			52441,
+			"Or could this be the time traveling that everyone was talking about?!",
+			"莫非，这就是传说中的穿越！？",
+			"もしかして！これが伝説のタイムスリップ！？",
+			"설마! 이게 전설의 타임 슬립!?",
+			"Could this be the legendary \"isekai\" everyone talks about?!"
+		],
+		[
+			"msg",
+			52442,
+			"I've heard that after time traveling, characters usually end up in a harem, haha.",
+			"听说穿越以后的主角一般都是后宫成群，咕嘿嘿。",
+			"噂によると…タイムスリップした後の世界はハーレム状態らしい！",
+			"소문에 따르면… 타임 슬립한 뒤의 세계는 하렘 상태라던데!",
+			"Rumor has it... that the protagonist ends up with a harem after being isekai'd, heheh."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52443,
+			"Wake up, Kiana.",
+			"琪亚娜醒醒。",
+			"キアナ姉様！起きてください！",
+			"키아나 누나! 일어나세요!",
+			"Kiana! Please wake up!"
+		],
+		[
+			"msg",
+			52444,
+			"Guns Girl, where we find ourselves now, is a ACG-styled game.",
+			"我们所在的《崩坏学园2》是一个ACG风格的游戏。",
+			"ブローニャたちがいるのは《崩壊学園》というアクションゲームの世界らしいです。",
+			"브로냐들이 있는 곳은 《붕괴학원》라는 액션 게임의 세계인 것 같습니다.",
+			"It seems that Bronya and the others are in the world of an action game called \"Honkai Gakuen.\""
+		],
+		[
+			"msg",
+			52445,
+			"There's no time traveling in ACG.",
+			"ACG是没有穿越的。",
+			"アクションゲームってタイムスリップしないよね…？",
+			"액션 게임은 타임 슬립 안 하지 않아…?",
+			"Action games don't involve isekai, right...?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52446,
+			"...",
+			"....",
+			"……",
+			"……",
+			null
+		],
+		[
+			"msg",
+			52447,
+			"We're inside a game?!",
+			"我们是在一个游戏里面！？",
+			"私たち同じゲームの中にいるの！？",
+			"우리 같은 게임 안에 있는 거야!?",
+			null
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52448,
+			"Kiana, have you only just realized?",
+			"琪亚娜刚知道吗？",
+			"キアナ姉様…今気づいたのですか…？",
+			"키아나 누나… 지금 깨달았어요…?",
+			"Kiana... are you only noticing that now...?"
+		],
+		[
+			"msg",
+			52449,
+			"It doesn't matter if I tell you because this is a bonus chapter.",
+			"这是番外篇所以告诉你也没关系。",
+			"これは番外編だから特別に教えてあげます。",
+			"이건 외전이니까 특별히 알려 드릴게요.",
+			null
+		],
+		[
+			"msg",
+			52450,
+			"But be sure to conveniently forget it when we get back to the main chapter.",
+			"不过回到主线剧情的时候请记得选择性失忆。",
+			"ストーリーモードに戻った時は記憶障害を起こしてください。",
+			"스토리 모드로 돌아갔을 때는 기억 상실증을 일으켜 주세요.",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52451,
+			"That won't be easy! Plus, is it just me,or do you feel weaker here too?",
+			"好困难啊...而且，你有没有觉得到了这里身体有有些发软？",
+			"難しいよ…そういえばさ！ここに来てから体がふにゃふにゃしない？",
+			"어려운데… 그런데 말이야! 여기 와서 몸이 말랑말랑해지지 않아?",
+			"That's hard... Come to think of it! Has your body become weaker since coming here?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52452,
+			"Bronya has determined that this is a vampire's castle.",
+			"布洛妮娅判断这里是吸血鬼城堡。",
+			"現在調査中…ここは吸血鬼の城です。",
+			"현재 조사 중… 여기는 뱀파이어 성입니다.",
+			"Currently investigating... This is a vampire's castle."
+		],
+		[
+			"msg",
+			52453,
+			"The enchantments in the castle will drain our strength and blood after we enter.",
+			"城堡中的结界会在我们进入后吸取我们的精力和血液。",
+			"城の結界がブローニャたちから精力と血液を奪い続けていると考えられます。",
+			"성의 결계가 브로냐들로부터 정기와 혈액을 계속 빼앗고 있다고 생각됩니다.",
+			"I believe that the castle's barrier is continuously robbing us of our energy and blood."
+		],
+		[
+			"msg",
+			52454,
+			"If we can't save Mei and get out of here fast, we'll be in serious danger.",
+			"如果我们不能及时救出芽衣姐姐并且离开，我们就会很危险。",
+			"急いでください！早く芽衣姉様を助け出さないとブローニャたちも危険です。",
+			"서둘러 주세요! 빨리 메이 언니를 구해내지 않으면 브로냐들도 위험해요.",
+			"Please hurry! If we don't rescue Mei quickly, we will be in danger."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52455,
+			"... how do you know so much?",
+			"...你为什么知道这么多？",
+			"…どうしてそんなに詳しいの？",
+			"…어째서 그렇게 자세히 알고 있는 거야?",
+			"...How do you know so much?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52456,
+			"Bronya just accessed all of this information from Guns Girl Facebook page.",
+			"这些是布洛妮娅刚刚从《崩坏学园2》的百度贴吧上知道的。",
+			"先ほど《崩壊学園》のサーバーをハッキングして情報を得ました。",
+			"아까 《붕괴학원》 서버를 해킹해서 정보를 얻었습니다.",
+			"I just hacked into the \"Honkai Gakuen\" server and obtained some information."
+		],
+		[
+			"portraits",
+			[
+				302,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52457,
+			"Right! Remember we need your help in this bonus chapter, Facebook fans.",
+			"对了，贴吧的米娜桑记得要支持这个番外哦。",
+			"皆さま、番外編を盛り上げてください！",
+			"여러분, 외전을 활기차게 만들어 주세요!",
+			"Everyone, please support this bonus chapter to make it even more exciting!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52458,
+			"Who were you talking to just now?",
+			"你刚刚在和谁说话啊...",
+			"…誰と話してたの…？",
+			"…누구랑 이야기하고 있었어…?",
+			"...Who are you talking to...?"
+		]
+	],
+	"165": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52459,
+			"So... so tired... Moving your fingers is hard work.",
+			"好...好累啊...动一动手指就好费力气。",
+			"つ、疲れた～…指動かすだけでもすっごい疲れる！",
+			"으, 힘들어~… 손가락 움직이는 것조차 엄청 힘들어!",
+			"I-I'm so tired... Just moving my fingers is so tiring!"
+		],
+		[
+			"msg",
+			52460,
+			"How does Bronya still have so much energy?",
+			"布洛妮娅你为什么还这么有力气...",
+			"ブローニャちゃんはどうしてそんなに元気なの？",
+			"브로냐 쨩은 어째서 그렇게 활기찬 거야?",
+			"Bronya, why are you still so strong...?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52461,
+			"Bronya's mechanized armor protects her from the enchantment's effects.",
+			"布洛妮娅的机械装甲保护布洛妮娅不受到结界的影响。",
+			"ブローニャは機甲に守られているから結界の影響を受けません。",
+			"브로냐는 기갑에 보호받고 있기 때문에 결계의 영향을 받지 않습니다.",
+			"Bronya is protected by her armor and is not affected by the barrier."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52462,
+			"Cyborgs are awesome!",
+			"改造人真好啊！",
+			"…サイボーグっていうのも便利なのね。",
+			"…사이보그라는 것도 편리하네.",
+			"...Cyborgs are too great."
+		],
+		[
+			"msg",
+			52463,
+			"Actually, I've been wondering.",
+			"其实我从刚在就一直再想了。",
+			"ここに入った時から聞こうと思ってたんだけど…",
+			"여기 들어왔을 때부터 물어보려고 했는데…",
+			"I've been meaning to ask this since I got here..."
+		],
+		[
+			"msg",
+			52464,
+			"You can remove your mechanized armor, right?",
+			"你的机械装甲是不是可以脱下来的？",
+			"ブローニャちゃんの装甲って取り外しできるの…？",
+			"브로냐 쨩의 장갑은 탈착이 가능한 거야…?",
+			"Can your armor be removed...?"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52465,
+			"...",
+			"....",
+			"…",
+			"……",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52466,
+			"Didn't you take it off when we went to the hot spring last time?",
+			"比如上次洗温泉的时候，你不就脱下来了？",
+			"例えば！温泉に行った時とか！",
+			"예를 들어! 온천에 갔을 때나!",
+			"For example, when we went to the hot springs!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52467,
+			"... Bronya's mechanized armor does come off.",
+			"...布洛妮娅的机械装甲是可以拆下来的。",
+			"ブローニャの装甲は取り外せます。",
+			"브로냐의 장갑은 탈착이 가능합니다.",
+			"...Bronya's armor can be removed."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52468,
+			"That's great!",
+			"那就好了！",
+			"なら良かった！",
+			"다행이다!",
+			"Good then!"
+		],
+		[
+			"msg",
+			52469,
+			"So I'm thinking, since the mechanized armor weakens the effects of the enchantment...",
+			"我在想啊~既然那些装甲可以减弱结界的影响。",
+			"思ったんだけどさ…取り外し可能なら私が身に着ければ結界の影響が半減するよね…？",
+			"생각해봤는데… 분리가 가능하다면 내가 착용하면 결계의 영향이 반으로 줄어들지 않아…?",
+			"I was just thinking... if it's removable, the effect of the barrier would be halved if I wore it, right...?"
+		],
+		[
+			"msg",
+			52470,
+			"Give me some armor!",
+			"那我分给我一半吧！",
+			"ねぇ！だから半分貸してよ！",
+			"야! 그러니까 반만 나눠 줘!",
+			"So! Lend me half of it!"
+		],
+		[
+			"msg",
+			52471,
+			"We're friends and we should suffer together...right?",
+			"我们不是好朋友吗，应该有难同当~",
+			"友達だよね？ね？幸せも苦労も半分こ！",
+			"친구 맞지? 그치? 행복도 고생도 반반씩 나누자!",
+			"We're friends, right? Right? We share both happiness and hardships!"
+		],
+		[
+			"msg",
+			52472,
+			"Hey, don't leave!",
+			"喂~你不要走啊。",
+			"ねぇ！待ってよ！",
+			"야! 기다려!",
+			null
+		],
+		[
+			"msg",
+			52473,
+			"If you don't agree, I'll just have to forcibly take it off of you!",
+			"要是你不同意...我也只有动用武力把你的装甲脱下来了！",
+			"もし…どうしてもダメっていうなら……力ずくで脱がせちゃうんだから！",
+			"만약… 정말 안 된다면…… 억지로라도 벗겨 버릴 거라니까!",
+			"If... if you absolutely refuse... I'll force you to take it off!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				302,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52474,
+			"Kiana... dangerous. Must eliminate.",
+			"琪亚娜...很危险。需要排除。",
+			"危険人物確認。排除準備。",
+			"위험인물 확인. 제거 준비.",
+			"Confirmed dangerous person. Preparing for removal."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52475,
+			"Wait a second, take back the Armored Bunny..!!",
+			"等等，把重装小兔收回去啊...！！",
+			"ちょっと…重装ウサギはしまってよ！",
+			"잠깐…중장토끼는 치워!",
+			"Hey... put away Armored Bunny!"
+		]
+	],
+	"166": [
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52476,
+			"We're finally here...",
+			"终于到这里了...",
+			"やっと着いた～",
+			"드디어 도착했어~",
+			null
+		],
+		[
+			"msg",
+			52477,
+			"After almost losing our lives.",
+			"刚刚差点就把命丢了。",
+			"さっきは死ぬかと思ったよ…",
+			"아까는 죽는 줄 알았어…",
+			"I thought I was going to die earlier..."
+		],
+		[
+			"msg",
+			52478,
+			"Armored Bunny 19C packs some fierce firepower.",
+			"重装小兔19C的火力还是这么凶猛。",
+			"まったく…重装ウサギの威力は半端ないんだから…",
+			"정말…중장토끼의 위력은 보통이 아니야…",
+			"Seriously... the power of Armored Bunny is incredible..."
+		],
+		[
+			"msg",
+			52479,
+			"What a tragic heroine I am. Not only do I have to face terrifying enemies, I've also got treacherous teammates to deal with.",
+			"我真是个苦命的女主角啊。不但要面对可怕的敌人。还要面对阴险的队友。",
+			"本当にかわいそうな主人公…恐ろしい敵や、陰険な戦友……",
+			"정말 불쌍한 주인공… 무서운 적이나, 비열한 전우…",
+			null
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52480,
+			"...Kiana, are you calling me treacherous?",
+			"...琪亚娜是在说布洛妮娅阴险吗？",
+			"キアナ姉様？それはどういう意味ですか？ブローニャのことですか？",
+			"키아나 누나? 그게 무슨 뜻이에요? 브로냐 말인가요?",
+			"Kiana? What do you mean? Do you mean Bronya?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52481,
+			"Uh, no! Never!",
+			"咳咳，并没有...！！",
+			"う…うん…そういうことじゃなくて！ほら……",
+			"어… 음… 그런 뜻이 아니라! 있잖아……",
+			null
+		],
+		[
+			"msg",
+			52482,
+			"Right, let's not dwell on the past.",
+			"对了，我们不要在意过去的事情了。",
+			"ね！過去のことは気にしない気にしない！",
+			"자! 지난 일은 신경 쓰지 말자 신경 쓰지 말자!",
+			null
+		],
+		[
+			"msg",
+			52483,
+			"Look, here's a pictrue. Let's appreciate the art together.",
+			"你看这里有张画，我们一起来欣赏艺术吧。",
+			"あ、あれを見て？あそこに絵があるし鑑賞でもしよう！",
+			"아, 저거 봐? 저기에 그림이 있으니 감상이라도 하자!",
+			"Ah, look over there. There's a painting over there, let's take a look at it!"
+		],
+		[
+			"msg",
+			52484,
+			"This boy...he looks a lot like the girl who just kidnapped Mei.",
+			"这里面这个男孩...恩...和刚刚把芽衣抓走的女孩好像啊。",
+			"この絵の男の人…さっき芽衣先輩をさらっていった女の子にそっくり！",
+			"이 그림 속 남자... 아까 메이 선배를 데려간 그 여자애랑 똑 닮았어!",
+			"The man in this picture... he looks just like the girl who kidnapped Mei-senpai earlier!"
+		],
+		[
+			"msg",
+			52485,
+			"Could they be brother and sister? Mother and son?",
+			"难道他们是姐弟？还是母子？",
+			"兄弟…？親子…？",
+			"형제...? 부모와 자식...?",
+			null
+		],
+		[
+			"msg",
+			52486,
+			"That girl looked too young for them to be mother and son.",
+			"说母子的话，那个女孩似乎太年轻了。",
+			"お母さんだとさすがに若すぎかなぁ？",
+			"엄마라면 좀 너무 어리지 않아?",
+			null
+		],
+		[
+			"msg",
+			52487,
+			"But in this day and age... anything is possible.",
+			"不过这个时代的话...也不是不可能。",
+			"でもこの時代なら…ありえなくもないわね！",
+			"그치만 이 시대라면... 불가능한 일도 아니지!",
+			null
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52488,
+			"Kiana, stop showing off your single-digit IQ.",
+			"琪亚娜不要再展示你个位数的智商了。",
+			"キアナ姉様の1桁しかないIQじゃ解決に繋がりません。",
+			"키아나 언니의 한 자릿수 IQ로는 해결에 도움이 안 됩니다.",
+			null
+		],
+		[
+			"msg",
+			52489,
+			"The boy in the pictrue is the father of the girl from before.",
+			"画面中的男孩是刚刚那个少女的父亲。",
+			"絵の中の男性は女の子のお父様です。",
+			"그림 속 남자는 그 여자아이의 아버지입니다.",
+			null
+		],
+		[
+			"msg",
+			52490,
+			"It's all in a Chinese comic book called \"Bloodline\"",
+			"这些都写在这本叫做《血族bloodline》的漫画书里面。",
+			"全部この漫画に描かれています。",
+			"모든 게 이 만화에 그려져 있습니다.",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52491,
+			"Where did you get that book from?!",
+			"这本书是从哪里拿出来的！",
+			"その漫画どこから持ってきたのよ！",
+			"그 만화 어디서 가져온 거야?!",
+			null
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52492,
+			"Bronya bought this book online.",
+			"这本书是布洛妮娅从网上订购的。",
+			"これはブローニャがネットで買ったものです。",
+			"이건 브로냐가 인터넷에서 구매한 것입니다.",
+			null
+		],
+		[
+			"msg",
+			52493,
+			"Bronya loves reading comics.",
+			"看漫画是布洛妮娅的兴趣。",
+			"ブローニャの趣味は漫画を読むことです。",
+			"브로냐의 취미는 만화책 읽기입니다.",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52494,
+			"Huh?!",
+			"啊！？",
+			"え…？",
+			"어...?",
+			null
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				302,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52495,
+			"Kiana, there must be something that you enjoy doing when you go home after a long day on set.",
+			"琪亚娜在每天拍完戏，下班以后，难道没有什么兴趣爱好吗？",
+			"キアナ姉様は毎日帰っても何もしないのですか？趣味もないのですか？",
+			"키아나 언니는 매일 집에 와서 아무것도 안 해요? 취미도 없어요?",
+			"Kiana, do you just do nothing when you come home every day? Don't you have any hobbies?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52496,
+			"That's enough. I just found out less than two hours ago that I'm a character in a game!",
+			"你够了，我可是在2小时前才刚刚知道自己是个游戏里面的人物啊！",
+			"もういいよ！私は2時間前に自分がゲーム内の人物だって知ったのよ！",
+			"됐어! 나 두 시간 전에 자기가 게임 속 인물인 걸 알았다고!",
+			"Enough already! I just found out I'm a video game character less than 2 hours ago!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52497,
+			"Anyway, Bloodline is essentially the story about a girl with white hair who is searching for her father.",
+			"总之，《血族bloodline》讲的是一个白发少女寻找自己父亲的故事。",
+			"それは置いておきましょう。この漫画は白髪の少女がお父様を探す物語です。",
+			"그건 제쳐두고, 이 만화는 백발 소녀가 아버지를 찾는 이야기입니다.",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52498,
+			"A girl with white hair searching for her father? That's so sad!",
+			"白发少女寻找父亲？真是太可怜了！",
+			"白髪の少女が父親を…？悲しい話ね…",
+			"백발 소녀가 아버지를…? 슬픈 이야기네…",
+			null
+		],
+		[
+			"msg",
+			52499,
+			"But I kind of feel like I've heard that story before.",
+			"不过，总觉的在哪儿听到过这种故事。",
+			"でも…その話どこかで聞いたことがあるような……",
+			"그런데… 그 이야기 어디선가 들어본 적 있는 것 같은……",
+			null
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52500,
+			"Try to think about it again tomorrow morning in front of the mirror.",
+			"....琪亚娜可以明天在照镜子的时候再想想这个问题。",
+			"キアナ姉様…鏡で自分を映し出して聞いてみてください。",
+			"키아나 언니… 거울에 비춰서 직접 들어보세요.",
+			null
+		]
+	],
+	"167": [
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				-1,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52501,
+			"Where are we, anyway?!",
+			"这里是哪里！？",
+			"ここはどこ！？",
+			"여기가 어디지!?",
+			"Where is this place?!"
+		],
+		[
+			"speaker",
+			204571
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				703,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			52502,
+			"Don't be afraid, Mei.",
+			"芽衣小姐，不要害怕。",
+			"芽衣さん、怖がらないで。",
+			"메이씨、두려워하지 마.",
+			null
+		],
+		[
+			"msg",
+			52503,
+			"My name is Lilo·I. I'm the master of this castle.",
+			"我叫莉萝艾，是这个城堡的主人。",
+			"私はローラ、この城の主。",
+			"나는 로라, 이 성의 주인.",
+			"I'm Lilo Ai, the master of this castle."
+		],
+		[
+			"msg",
+			52504,
+			"I've been observing you for a long time...",
+			"我观察了你好久了...",
+			"私はあなたのことをずっと観察していました。",
+			"나는 당신을 계속 지켜봐 왔어.",
+			"I've been watching you for a long time."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52505,
+			"Huh, really?",
+			"啊，是吗？",
+			"そうなの…？",
+			"그런 거야…?",
+			"Is that so...?"
+		],
+		[
+			"msg",
+			52506,
+			"Unless... Ms. Lilo·I, are you into yuri too?",
+			"莫非，莉萝艾小姐你也是百合吗？",
+			"もしかして…ローラさんもそっち系なの…？",
+			"설마… 로라 씨도 그쪽 계열인 거야…?",
+			"Does that mean... Lilo Ai is lesbian too...?"
+		],
+		[
+			"speaker",
+			204571
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				true
+			],
+			[
+				703,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			52507,
+			"... you are mistaken.",
+			"...你误会了。",
+			"…誤解しないで。",
+			"…오해하지 마.",
+			"...Don't assume."
+		],
+		[
+			"msg",
+			52508,
+			"I just want to borrow your strength, Ms. Mei.",
+			"我只是想借助芽衣小姐你的能力罢了。",
+			"私はただ…あなたの力を貸してほしいだけなの。",
+			"나는 단지… 당신의 힘을 빌리고 싶을 뿐이야.",
+			"I just... need your help."
+		],
+		[
+			"msg",
+			52509,
+			"There's a peculiar enchantment in this castle, that allows you to search for a specific person.",
+			"在这个城堡中有一个特殊的结界，可以用来寻找特定的人。",
+			"この城には特殊な結界があって、特定の人を探すことができるの。",
+			"이 성에는 특수한 결계가 있어서, 특정한 사람을 찾을 수 있거든.",
+			"This castle has a special barrier that allows one to search for a specific person."
+		],
+		[
+			"msg",
+			52510,
+			"I can't find my father, and I want to use the enchantment to look for him.",
+			"我的父亲和我走失了，我想要借助结界寻找他。",
+			"私はこの力を使って、いなくなってしまったお父様を探したいんだけど…",
+			"나는 이 힘을 이용해, 사라져버린 아버님을 찾고 싶은데…",
+			"I want to use this power to find my missing father..."
+		],
+		[
+			"msg",
+			52511,
+			"But activating the enchantment requires a great deal of energy.",
+			"可是，开启结界需要巨大的能量。",
+			"結界を開くには強大な力が必要で…",
+			"결계를 열려면 강대한 힘이 필요하고…",
+			"It takes great power to activate the barrier..."
+		],
+		[
+			"msg",
+			52512,
+			"I searched a long time...and then I discovered you, Ms. Mei, and the enormous amount of energy that you possess.",
+			"我寻找了很久...最后发现芽衣小姐你身上有巨大的能量。",
+			"そんな力を持つ人をずっと探していたの！そこで芽衣さんを見つけて…",
+			"그런 힘을 가진 사람을 계속 찾고 있었어! 그때 메이 씨를 발견하고…",
+			"I had been searching for someone with enough power for a long time! And then I found you, Mei..."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52513,
+			"What?! The energy in my body?",
+			"啊！你说的是我身上律者的能力吗？",
+			"あ！もしかして私の律者の力のこと…？",
+			"아! 혹시 내 율자의 힘에 대해서...?",
+			"Ah! Are you talking about my Herrscher power...?"
+		],
+		[
+			"msg",
+			52514,
+			"Your energy is very powerful... but even I am not able to control this sort of power.",
+			"律者的能力是很强大...但是我也没办法用自己的意志使用这种能力。",
+			"律者の力は確かに強大なんだけど…私も自分の意志で操ることはできないの。",
+			"율자의 힘은 확실히 강대하지만... 나도 내 의지로 조종할 수는 없어.",
+			"Herrscher power is certainly great, but... even I cannot control it on my own."
+		],
+		[
+			"msg",
+			52515,
+			"Also, this kind of energy is very dangerous. Using it would make me lose control and go off on a rampage.",
+			"而且，这种能力很危险，我一旦使用这种能力就会失控暴走。",
+			"しかも、すぐに暴走し始めるし…すごく危険なの。",
+			"게다가, 곧바로 폭주하기 시작하고... 굉장히 위험해.",
+			"What's more, it can easily start to go out of control... making it very dangerous."
+		],
+		[
+			"msg",
+			52516,
+			"This might disappoint you.",
+			"可能要让你失望了。",
+			"ごめんなさいね。",
+			"미안해.",
+			"I'm sorry for disappointing you."
+		]
+	],
+	"168": [
+		[
+			"speaker",
+			204571
+		],
+		[
+			"portraits",
+			[
+				-1,
+				0,
+				true
+			],
+			[
+				703,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			52517,
+			"Mei has no way to use her own power...",
+			"芽衣小姐没办法使用自己的能力...",
+			"芽衣さんが自分の能力を使えないだなんて…",
+			"메이 씨가 자신의 능력을 사용하지 못하다니…",
+			null
+		],
+		[
+			"msg",
+			52518,
+			"So... that means I can't find my father…",
+			"这...难道说我注定没办法找到父亲大人吗...",
+			"こ、これは…神からお父様を探すなというお告げなの！？",
+			"이, 이건… 신께서 아버지를 찾지 말라는 계시인 거야!",
+			"I-is this... a message from God telling me not to look for Father?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52519,
+			"Don't give up so soon!",
+			"现在放弃还太早了！",
+			"諦めるのはまだ早いかもよ！",
+			"포기하기엔 아직 이를지도!",
+			null
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52520,
+			"Kiana, have you all finally come to save me?",
+			"琪亚娜，你们终于来救我了吗~",
+			"キアナちゃん！やっと助けに来てくれたのね！",
+			"키아나 쨩! 겨우 구하러 와줬구나!",
+			"Kiana-chan! You've finally come to save me!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52521,
+			"Yes, Princess Mei.",
+			"是的，我的芽衣公主。",
+			"はい！私の芽衣お姫様！",
+			"네! 나의 메이 공주님!",
+			"Of course! My Princess Mei!"
+		],
+		[
+			"msg",
+			52522,
+			"But I just heard Lilo·I's tragic tale.",
+			"不过，我刚刚听说了这位莉萝艾小姐悲伤的故事。",
+			"ところで、さっき聞いちゃったんだけど…",
+			"그런데, 아까 우연히 들었는데…",
+			"By the way, I just overheard what you were saying..."
+		],
+		[
+			"msg",
+			52523,
+			"As a knight charged with protecting girls, I have no choice but to help.",
+			"作为守护少女们的骑士，我不能不管。",
+			"少女たちを守る騎士として、悲しむローラさんを放ってはおけない！",
+			"소녀들을 지키는 기사로서, 슬퍼하는 로라 씨를 내버려 둘 수 없어!",
+			"As a knight who protects young girls, I can't just leave Lilo alone in her grief!"
+		],
+		[
+			"speaker",
+			204571
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				true
+			],
+			[
+				703,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			52524,
+			"Thank... thank you!",
+			"谢，谢谢你！",
+			"あ、ありがとう…",
+			"아, 고마워…",
+			"Th-thank you..."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52525,
+			"But I don't know how to awaken the energy either...",
+			"可是，我也不知道怎么唤醒律者的能力...",
+			"でも…私も律者の力をどう呼び起こすかわからないのよね。",
+			"하지만… 나도 율자의 힘을 어떻게 끌어낼지 모르겠어.",
+			"But... I don't know how to summon my Herrscher power."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52526,
+			"Relax, Mei. I have a lot of experience with this.",
+			"芽衣你放心，我对这个很有经验。",
+			"芽衣先輩、安心して！それなら私が一番理解してるよ！",
+			"메이 선배, 안심해! 그렇다면 내가 제일 잘 알고 있어!",
+			"Don't worry, Mei-senpai! I know how to do this better than anyone!"
+		],
+		[
+			"msg",
+			52527,
+			"(Takes a deep breath)",
+			"（深呼吸）",
+			"すぅー",
+			"쉬이익",
+			null
+		],
+		[
+			"msg",
+			52528,
+			"I secretly threw away the carrots in my breakfast this morning.",
+			"今天早饭里面的胡萝卜，我还是偷偷的倒掉了！",
+			"今日の朝ごはんのニンジン！こっそり捨てちゃったーーー！！！！",
+			"오늘 아침밥의 당근! 슬쩍 버려버렸어---!!!!",
+			"I secretly threw away the carrots from today's breakfast!!!"
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52529,
+			"Kiana, you...",
+			"琪亚娜..你...",
+			"キアナちゃん…あんた……",
+			"키아나… 당신……",
+			"Kiana-chan... you..."
+		],
+		[
+			"msg",
+			52530,
+			"YOU'RE THE WORST!!!!!!!!!!!!!!!!!!!!!!!!!!",
+			"太可恶了！！！！！！！！！！！！！！！",
+			"絶対許さない！！！！",
+			"절대 용서하지 않아！！！！",
+			"I WILL NEVER FORGIVE THIS!!!!"
+		],
+		[
+			"msg",
+			52531,
+			"I am going to teach you a lesson!",
+			"我一定要好好的教训你！",
+			"もう一生食べ物を粗末にできないように！！！",
+			"이제 평생 음식을 함부로 못 버리게 하겠어！！！",
+			null
+		],
+		[
+			"msg",
+			52532,
+			"I'll teach you never to waste food again!",
+			"让你这辈子再也不敢浪费食物了！",
+			"お仕置きをしてやる！！！",
+			"벌을 내리겠어！！！",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52533,
+			"Success.",
+			"成功了。",
+			"やったぁ！大成功！！",
+			"해냈다! 대성공!!",
+			"Yay! Success!!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52534,
+			"...",
+			".......",
+			"…",
+			"…",
+			null
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52535,
+			"Well, let's ask Mei for help.",
+			"那么，我们就请芽衣来帮忙吧。",
+			"早速芽衣先輩に手伝ってもらおう！",
+			"바로 메이 선배한테 도움을 받자!",
+			"Let's ask Mei-senpai for help right away!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52536,
+			"Bronya speculates that Mei will attack us.",
+			"布洛妮娅推测，芽衣姐姐是要向我们攻击过来了。",
+			"気を付けてください、芽衣姉様がこちらに向かってきています。",
+			"조심하세요, 메이 언니가 이쪽으로 오고 있습니다.",
+			"Be careful, Mei is coming this way."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52537,
+			"What?!",
+			"什么！",
+			"え！？",
+			"에!?",
+			"Wha—?!"
+		],
+		[
+			"speaker",
+			204571
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				true
+			],
+			[
+				703,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			52538,
+			"Kiana, what do we do?",
+			"琪亚娜小姐，现在该怎么办？",
+			"キアナさん…どうすれば…？",
+			"키아나 씨… 어떻게 하지…?",
+			"Kiana... what do we do...?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52539,
+			"We should calm her down first...",
+			"看来只能先让她冷静下来了...",
+			"一旦落ち着かせなきゃ…",
+			"일단 진정시켜야 해…",
+			null
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52540,
+			"How can this be? Why am I here?",
+			"这是怎么回事？我怎么在这里？",
+			"あれ…私はどうしてここに…？",
+			"어라… 나는 왜 여기에…?",
+			"Huh... why am I here...?"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52541,
+			"Mei, you have finally changed back!",
+			"芽衣，你终于变回来了~",
+			"芽衣先輩！やっと戻ってきてくれた！",
+			"메이 선배! 드디어 돌아왔어!",
+			"Mei-senpai! You've finally changed back!"
+		],
+		[
+			"speaker",
+			204571
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				true
+			],
+			[
+				703,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			52542,
+			"...finally calmed down.",
+			"终于...让芽衣小姐冷静下来了。",
+			"芽衣さん…やっと落ち着きましたね。",
+			"메이 씨… 드디어 진정하셨네요.",
+			"Mei... you've finally calmed down."
+		],
+		[
+			"msg",
+			52543,
+			"But that battle just broke the enchantment.",
+			"可是，刚刚的战斗让结界也坏掉了。",
+			"でも…さっきの戦闘で結界が壊れちゃった…",
+			"하지만…아까 전투에서 결계가 부서져 버렸어…",
+			"But... the barrier was destroyed in the battle just now..."
+		],
+		[
+			"msg",
+			52544,
+			"Now it looks like I'll never find my father.",
+			"看上去是没办法找到父亲大人。",
+			"もう…お父様を探すのは諦めるしか……",
+			"이젠…아버지를 찾는 건 포기할 수밖에…",
+			"Ugh... I have no choice but to give up looking for my father..."
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52545,
+			"I'm so sorry!",
+			"真是太可怜了！",
+			"なんてこった…",
+			"이런…",
+			"Oh gosh..."
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52546,
+			"This is your fault, Kiana.",
+			"琪亚娜都是你的责任。",
+			"キアナ姉様！全部あなたの責任です！",
+			"키아나 언니! 전부 언니 책임이에요!",
+			"Kiana! This is all your fault!"
+		],
+		[
+			"msg",
+			52547,
+			"Don't worry, Lilo·I.",
+			"莉萝艾姐姐不要伤心。",
+			"ローラ姉様…悲しまないでください…",
+			"테레사 언니…슬퍼하지 마세요…",
+			"Lilo Ai... please don't be sad..."
+		],
+		[
+			"portraits",
+			[
+				302,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52548,
+			"(Takes out comic book) Your father's location should be at the end of this Bloodline comic.",
+			"（拿出漫画）这本漫画《血族bloodline》的最后记载了你父亲的位置。",
+			"この漫画の最後にあなたのお父様の消息が載っています。",
+			"이 만화 마지막 장에 당신 아버지의 소식이 실려 있어.",
+			"(Takes out manga) The last part of the manga \"Bloodline\" records the location of your father."
+		],
+		[
+			"speaker",
+			204571
+		],
+		[
+			"portraits",
+			[
+				302,
+				0,
+				true
+			],
+			[
+				703,
+				0,
+				false
+			]
+		],
+		[
+			"msg",
+			52549,
+			"Is this real?",
+			"这是真的吗？",
+			"本当に！？",
+			"정말로!?",
+			"Really?!"
+		],
+		[
+			"msg",
+			52550,
+			"Thank you so much, Bronya!",
+			"真是太谢谢你了，布洛妮娅小小姐。",
+			"ブローニャさん！本当にありがとう！",
+			"브로냐 씨! 정말 고마워요!",
+			"Thank you so much, Bronya!"
+		],
+		[
+			"msg",
+			52551,
+			"Now I have to look for my father.",
+			"那么，我也要去寻找父亲。",
+			"じゃあ、私はお父様を探しに行くね！",
+			"그럼, 난 아버지를 찾으러 갈게!",
+			"Well then, time to go find my dad!"
+		],
+		[
+			"speaker",
+			204553
+		],
+		[
+			"portraits",
+			[
+				102,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52552,
+			"Ha ha, our problems have finally been solved, thanks to my flawless plan.",
+			"哈哈，在我完美的计划下，终于解决了这个危机。",
+			"私の完璧な計画のおかげで！この危機も何とか乗り越えられたね！",
+			"내 완벽한 계획 덕분에! 이 위기도 어떻게든 넘길 수 있었지!",
+			"It's all thanks to my perfect planning! We managed to get through this crisis!"
+		],
+		[
+			"speaker",
+			204555
+		],
+		[
+			"portraits",
+			[
+				301,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52553,
+			"Kiana, you idiot.",
+			"琪亚娜，笨蛋。",
+			"キアナ姉様…バカ……",
+			"키아나 언니…바보……",
+			"Kiana... you're such an idiot..."
+		],
+		[
+			"speaker",
+			204554
+		],
+		[
+			"portraits",
+			[
+				201,
+				0,
+				false
+			],
+			[
+				703,
+				0,
+				true
+			]
+		],
+		[
+			"msg",
+			52554,
+			"I can't agree with you this time...",
+			"这次我也不能不同意你呢...",
+			"私も同意するしかないわね…",
+			"나도 동의할 수밖에 없네…",
+			"I can't disagree this time..."
+		]
+	]
+}
