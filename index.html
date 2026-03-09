@@ -185,7 +185,7 @@
         function parseLooseJsonOrText(rawText) {
             const text = String(rawText ?? "");
 
-            // Try real JSON first
+            // Try JSON first
             try {
                 const json = JSON.parse(text);
                 const keys = collectKeys(json).join(" ");
@@ -197,15 +197,33 @@
                     keysText: keys,
                     searchableText
                 };
-            } catch {
-                // Fallback: treat as plain text
-                return {
-                    kind: "text",
-                    data: text,
-                    keysText: "",          // no keys for plain text
-                    searchableText: text   // search the text directly
-                };
-            }
+            } catch { }
+
+            // Try XML
+            try {
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(text, "text/xml");
+
+                if (!xml.querySelector("parsererror")) {
+                    const allText = xml.documentElement.textContent || "";
+                    const tags = [...xml.getElementsByTagName("*")].map(e => e.tagName).join(" ");
+
+                    return {
+                        kind: "xml",
+                        data: text,
+                        keysText: tags,
+                        searchableText: text + " " + allText
+                    };
+                }
+            } catch { }
+
+            // fallback plain text
+            return {
+                kind: "text",
+                data: text,
+                keysText: "",
+                searchableText: text
+            };
         }
 
         function escapeHtml(str) {
@@ -341,14 +359,17 @@
                 return;
             }
 
-            const needle = normalize(keyword, cs);
             const useKeysOnly = searchKeysOnly.checked;
+            const keywords = keyword.split(/\s+/).filter(Boolean);
 
             const filtered = filesIndex.filter(f => {
                 const hay = normalize(useKeysOnly ? f.keysText : f.searchableText, cs);
-                return hay.includes(needle);
-            });
 
+                return keywords.every(k =>
+                    hay.includes(normalize(k, cs))
+                );
+            });
+            
             renderList(filtered, keyword);
             statusText.textContent = `Loaded ${filesIndex.length} JSON file(s). Found ${filtered.length} match(es) for “${keyword}”.`;
         }
@@ -427,7 +448,10 @@
             detailTitle.textContent = "Select an item to view JSON";
             copyBtn.disabled = true;
 
-            const files = Array.from(fileList).filter(f => f.name.toLowerCase().endsWith(".json"));
+            const files = Array.from(fileList).filter(f =>
+                f.name.toLowerCase().endsWith(".json") ||
+                f.name.toLowerCase().endsWith(".xml")
+            );
             statusText.textContent = "Reading files…";
 
             const readPromises = files.map((file, idx) => new Promise((resolve) => {
