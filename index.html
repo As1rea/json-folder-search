@@ -72,6 +72,26 @@
                             <input id="prettyWrap" type="checkbox" checked class="h-4 w-4 rounded border-slate-300" />
                             Wrap JSON in detail view
                         </label>
+
+                        <!-- NEW: Game/Category filters (all checked by default) -->
+                        <div class="pt-2 border-t border-slate-100">
+                            <p class="text-xs font-medium text-slate-500 mb-2">Category filters</p>
+                            <label class="flex items-center gap-2 text-sm">
+                                <input id="ggzFilter" type="checkbox" checked
+                                    class="h-4 w-4 rounded border-slate-300" />
+                                GGZ
+                            </label>
+                            <label class="flex items-center gap-2 text-sm">
+                                <input id="hi3Filter" type="checkbox" checked
+                                    class="h-4 w-4 rounded border-slate-300" />
+                                Hi3
+                            </label>
+                            <label class="flex items-center gap-2 text-sm">
+                                <input id="durandalFilter" type="checkbox" checked
+                                    class="h-4 w-4 rounded border-slate-300" />
+                                Durandal VN
+                            </label>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -144,6 +164,29 @@
                     </div>
                 </section>
             </div>
+
+            <!-- NEW: GitHub Links section (appears only when a keyword is actively searched) -->
+            <section id="githubSection" class="mt-8 rounded-2xl border border-slate-200 bg-white shadow-sm hidden">
+                <div class="border-b px-4 py-3 flex items-center justify-between">
+                    <h2 class="text-sm font-semibold flex items-center gap-2">
+                        Matching Files on GitHub
+                        <span class="text-xs text-slate-400">(click filenames to open in repo)</span>
+                    </h2>
+                    <div class="flex items-center gap-2">
+                        <button id="copyFilenamesBtn"
+                            class="rounded-lg border border-slate-200 bg-white px-3 py-2 text-xs font-medium hover:bg-slate-50 active:bg-slate-100">
+                            Copy Filenames
+                        </button>
+                        <button id="copyMarkdownBtn"
+                            class="rounded-lg border border-slate-200 bg-white px-3 py-2 text-xs font-medium hover:bg-slate-50 active:bg-slate-100">
+                            Copy Markdown Links
+                        </button>
+                    </div>
+                </div>
+                <div id="githubLinksList" class="p-4 max-h-[40vh] overflow-auto">
+                    <!-- populated dynamically by JS -->
+                </div>
+            </section>
         </main>
     </div>
 
@@ -152,6 +195,7 @@
         /** @type {{ id: string, name: string, path: string, rawText: string, json: any, searchableText: string, keysText: string }[]} */
         let filesIndex = [];
         let selectedId = null;
+        let currentGithubFilenames = []; // for the new GitHub copy feature
 
         // ---------- DOM ----------
         const folderInput = document.getElementById('folderInput');
@@ -176,6 +220,17 @@
         const detailMatchBadge = document.getElementById('detailMatchBadge');
         const detailPrevBtn = document.getElementById('detailPrevBtn');
         const detailNextBtn = document.getElementById('detailNextBtn');
+
+        // NEW: Category filter checkboxes
+        const ggzFilter = document.getElementById('ggzFilter');
+        const hi3Filter = document.getElementById('hi3Filter');
+        const durandalFilter = document.getElementById('durandalFilter');
+
+        // NEW: GitHub links section
+        const githubSection = document.getElementById('githubSection');
+        const githubLinksList = document.getElementById('githubLinksList');
+        const copyFilenamesBtn = document.getElementById('copyFilenamesBtn');
+        const copyMarkdownBtn = document.getElementById('copyMarkdownBtn');
 
         let detailRawPretty = "";
         let detailMatches = [];
@@ -273,6 +328,82 @@
             detailEl.classList.toggle('whitespace-pre', !prettyWrap.checked);
         }
 
+        // ---------- NEW: Category filter logic ----------
+        // GGZ   → exclude files starting with "ch" or "act"
+        // Hi3   → only files starting with "act"
+        // Durandal VN → only files starting with "ch"
+        // A file is shown if it matches ANY checked category.
+        function isFileAllowedByCategory(fileName) {
+            const lowerName = (fileName || "").toLowerCase();
+            const startsWithCh = lowerName.startsWith("ch");
+            const startsWithAct = lowerName.startsWith("act");
+
+            const showGGZ = ggzFilter.checked;
+            const showHi3 = hi3Filter.checked;
+            const showDurandal = durandalFilter.checked;
+
+            if (showGGZ && !startsWithCh && !startsWithAct) return true;
+            if (showHi3 && startsWithAct) return true;
+            if (showDurandal && startsWithCh) return true;
+
+            return false;
+        }
+
+        // ---------- NEW: GitHub links rendering & copy ----------
+        function renderGithubLinks(items) {
+            currentGithubFilenames = items.map(item => item.name);
+
+            if (currentGithubFilenames.length === 0) {
+                githubSection.classList.add('hidden');
+                return;
+            }
+
+            githubSection.classList.remove('hidden');
+
+            let html = '<ul class="space-y-2 text-sm">';
+            currentGithubFilenames.forEach(name => {
+                const url = `https://github.com/As1rea/json-folder-search/blob/main/data/${encodeURIComponent(name)}`;
+                html += `
+                    <li>
+                        <a href="${url}" target="_blank" rel="noopener noreferrer"
+                           class="inline-flex items-center gap-1.5 text-blue-600 hover:text-blue-700 hover:underline break-all">
+                            <span class="font-medium">${escapeHtml(name)}</span>
+                            <span class="text-xs text-slate-400">↗</span>
+                        </a>
+                    </li>`;
+            });
+            html += '</ul>';
+
+            githubLinksList.innerHTML = html;
+        }
+
+        function copyFilenamesToClipboard() {
+            if (!currentGithubFilenames.length) return;
+            const text = currentGithubFilenames.join('\n');
+            navigator.clipboard.writeText(text).then(() => {
+                const original = copyFilenamesBtn.textContent;
+                copyFilenamesBtn.textContent = '✅ Copied!';
+                setTimeout(() => {
+                    copyFilenamesBtn.textContent = original;
+                }, 1800);
+            });
+        }
+
+        function copyMarkdownLinksToClipboard() {
+            if (!currentGithubFilenames.length) return;
+            const markdownLines = currentGithubFilenames.map(name => {
+                const url = `https://github.com/As1rea/json-folder-search/blob/main/data/${encodeURIComponent(name)}`;
+                return `- [${name}](${url})`;
+            }).join('\n');
+            navigator.clipboard.writeText(markdownLines).then(() => {
+                const original = copyMarkdownBtn.textContent;
+                copyMarkdownBtn.textContent = '✅ Copied!';
+                setTimeout(() => {
+                    copyMarkdownBtn.textContent = original;
+                }, 1800);
+            });
+        }
+
         // ---------- Rendering ----------
         function renderList(items, keyword) {
             listEl.innerHTML = "";
@@ -341,7 +472,6 @@
             };
         }
 
-
         function applySearch() {
             const keyword = searchInput.value.trim();
             const cs = caseSensitive.checked;
@@ -350,28 +480,35 @@
                 renderList([], keyword);
                 statusText.textContent = "No folder loaded yet.";
                 countBadge.textContent = "0";
+                renderGithubLinks([]);
                 return;
             }
 
+            // First apply the new category filters to the full index
+            const baseFiles = filesIndex.filter(f => isFileAllowedByCategory(f.name));
+
             if (!keyword) {
-                renderList(filesIndex, keyword);
-                statusText.textContent = `Loaded ${filesIndex.length} JSON file(s). Showing all.`;
+                renderList(baseFiles, keyword);
+                statusText.textContent = `Loaded ${filesIndex.length} JSON file(s). Showing ${baseFiles.length} after category filters.`;
+                renderGithubLinks([]);
                 return;
             }
 
             const useKeysOnly = searchKeysOnly.checked;
             const keywords = keyword.split(/\s+/).filter(Boolean);
 
-            const filtered = filesIndex.filter(f => {
+            const filtered = baseFiles.filter(f => {
                 const hay = normalize(useKeysOnly ? f.keysText : f.searchableText, cs);
-
                 return keywords.every(k =>
                     hay.includes(normalize(k, cs))
                 );
             });
-            
+
             renderList(filtered, keyword);
             statusText.textContent = `Loaded ${filesIndex.length} JSON file(s). Found ${filtered.length} match(es) for “${keyword}”.`;
+
+            // NEW: show GitHub links for the current keyword matches
+            renderGithubLinks(filtered);
         }
 
         // ---------- Load from WEBSITE (/data) ----------
@@ -567,6 +704,11 @@
         searchKeysOnly.addEventListener('change', applySearch);
         prettyWrap.addEventListener('change', setWrap);
 
+        // NEW: category filter listeners
+        ggzFilter.addEventListener('change', applySearch);
+        hi3Filter.addEventListener('change', applySearch);
+        durandalFilter.addEventListener('change', applySearch);
+
         clearSearchBtn.addEventListener('click', () => {
             searchInput.value = "";
             applySearch();
@@ -591,6 +733,10 @@
             setDetailSearchEnabled(false);
             detailSearchInput.value = "";
             detailEl.textContent = "";
+
+            // NEW: clear GitHub section too
+            githubSection.classList.add('hidden');
+            currentGithubFilenames = [];
         });
 
         detailSearchInput.addEventListener('input', () => {
@@ -614,6 +760,10 @@
             detailMatchIndex = (detailMatchIndex + 1) % detailMatches.length;
             scrollToDetailHit(detailMatchIndex);
         });
+
+        // NEW: GitHub copy buttons
+        copyFilenamesBtn.addEventListener('click', copyFilenamesToClipboard);
+        copyMarkdownBtn.addEventListener('click', copyMarkdownLinksToClipboard);
 
         // initial
         setWrap();
